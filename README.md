@@ -3,7 +3,7 @@
 
 
 
-This job repository is your go-to resource for discovering and sharing the latest internships opportunities in: Design, User Experience (UX), Photographer and Spatial Design
+This job repository is your go-to resource for discovering and sharing the latest internships opportunities in: Design, User Experience (UX), Photographer and Spatial Design.
 
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_source=1049&utm_campaign=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
@@ -39,11 +39,11 @@ This job repository is your go-to resource for discovering and sharing the lates
 </p>
 
 ---
-<h3>
-Due to capacity constraints, only internship jobs posted within the last 7 days are listed here.
+<h4>
+Only jobs posted in the last 7 days are listed due to capacity constraints.
 <br>
-For a comprehensive list of all available internships, please refer to the full spreadsheet bellowed:
-</h3>
+For a complete list, see the full spreadsheet below:
+</h4>
 <a href="https://docs.google.com/spreadsheets/d/1YhCc56aBbm1h-oiGbAEtRlc2IVW-CRqN_fJjsRBPHpk/edit?gid=537627258#gid=537627258">
     <img src="./static/img/excel_icon.png" alt="excel_icon", style="width: 20%; height: 20%;">
 </a>
@@ -57,6 +57,8 @@ For a comprehensive list of all available internships, please refer to the full 
 
 | Company | Job Title | Location & Work Model | Salary | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATPCO](http://www.atpco.net)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/668df8ea7ad721a70cf405c2?utm_source=1049&utm_campaign=git)** | Dulles, VA | On Site | Jul 09 |
+| **[Skigital](https://www.skigital.com/)** | **[Digital Marketing and Analytics Intern](https://jobright.ai/jobs/info/668df3832b910e4ba4c10922?utm_source=1049&utm_campaign=git)** | West Chester, PA | On Site | Jul 09 |
 | **[honeygrow](http://www.honeygrow.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/667b3b2bbbd383089817f7f3?utm_source=1049&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 09 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/668d9831274a895265383e74?utm_source=1049&utm_campaign=git)** | New York, NY | On Site | Jul 09 |
 | **[MyDataProduct](https://www.mydataproduct.com)** | **[Product Design Intern - Undergraduate](https://jobright.ai/jobs/info/668d8369e45593dfb218d236?utm_source=1049&utm_campaign=git)** | United States | Remote | Jul 09 |
@@ -80,7 +82,7 @@ For a comprehensive list of all available internships, please refer to the full 
 | **[QAT Global](http://qat.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/668c05278044ac76a5c82552?utm_source=1049&utm_campaign=git)** | Omaha, NE | On Site | Jul 08 |
 | **[Medpace](http://www.medpace.com)** | **[Production Artist Internship - Fall 2024](https://jobright.ai/jobs/info/668c09e9aea348a0f402826f?utm_source=1049&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 08 |
 | ↳ | **[Graphic Design Intern - Fall 2024](https://jobright.ai/jobs/info/668c09e9aea348a0f4028270?utm_source=1049&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 08 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Alfred Fleishman Diversity Fellowship, Art Direction/Design - Summer 2024, New York](https://jobright.ai/jobs/info/668be219b7b7df8c7f204988?utm_source=1049&utm_campaign=git)** | New York, United States | Hybrid | Jul 08 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Alfred Fleishman Diversity Fellowship, Art Direction/Design - Summer 2024, New York](https://jobright.ai/jobs/info/66795b40dcb1db3fc098e540?utm_source=1049&utm_campaign=git)** | New York, United States | Hybrid | Jul 08 |
 | **[The Toledo Zoo & Aquarium](http://www.toledozoo.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/668d07e8b9491475384cbc58?utm_source=1049&utm_campaign=git)** | Toledo, OH | On Site | Jul 08 |
 | **[Falcon’s Beyond](https://falconsbeyondglobal.com)** | **[Design Intern](https://jobright.ai/jobs/info/668d07e8b9491475384cbc63?utm_source=1049&utm_campaign=git)** | Greater Orlando | On Site | Jul 08 |
 | **[Florida International University](https://www.fiu.edu)** | **[2024-2025 - Office of Financial Aid, Student Graphic Design Assistant](https://jobright.ai/jobs/info/668b4db636fc66f4e341ee34?utm_source=1049&utm_campaign=git)** | Miami, FL | On Site | Jul 08 |
@@ -91,10 +93,10 @@ For a comprehensive list of all available internships, please refer to the full 
 | **[Reach Media Detroit, LLC.](https://www.reachdet.com/)** | **[Social Media + Graphic Design Intern](https://jobright.ai/jobs/info/6689567a46f35c17a600c39a?utm_source=1049&utm_campaign=git)** | Detroit, MI | On Site | Jul 06 |
 | **[Texas Commerce Bank National Association](http://www.ccrd.com)** | **[Associate Lighting Designer](https://jobright.ai/jobs/info/668a89e6f1daf4dd4788409e?utm_source=1049&utm_campaign=git)** | New York, NY | On Site | Jul 06 |
 | **[Cartier](http://www.cartier.com)** | **[V.I.E - Creative & Content Specialist - New-York](https://jobright.ai/jobs/info/662b83411a8317241a4a58da?utm_source=1049&utm_campaign=git)** | New York, NY | On Site | Jul 06 |
-| **[Texas Commerce Bank National Association](http://www.ccrd.com)** | **[Early Career Lighting Designer](https://jobright.ai/jobs/info/66855738130fa6d241d7a44f?utm_source=1049&utm_campaign=git)** | San Francisco, CA | On Site | Jul 06 |
 | **[Dassault Systemes](http://www.3ds.com)** | **[INTERNSHIP - Web Content Publishing](https://jobright.ai/jobs/info/666c83be1cdb951cdbe5fcfb?utm_source=1049&utm_campaign=git)** | Waltham, MA | Hybrid | Jul 06 |
-| **[Delta Air Lines](http://www.delta.com)** | **[Intern, Innovation Designer (Fall 2024)](https://jobright.ai/jobs/info/66887ec9c8bd0591bd81c6d8?utm_source=1049&utm_campaign=git)** | Atlanta, GA | On Site | Jul 05 |
-| ↳ | **[Graduate Intern, Innovation Designer (Fall 2024)](https://jobright.ai/jobs/info/66887ebec8bd0591bd81c63e?utm_source=1049&utm_campaign=git)** | Atlanta, GA | On Site | Jul 05 |
+| **[Texas Commerce Bank National Association](http://www.ccrd.com)** | **[Early Career Lighting Designer](https://jobright.ai/jobs/info/66855738130fa6d241d7a44e?utm_source=1049&utm_campaign=git)** | San Francisco, CA | On Site | Jul 06 |
+| **[Delta Air Lines](http://www.delta.com)** | **[Graduate Intern, Innovation Designer (Fall 2024)](https://jobright.ai/jobs/info/66887ebec8bd0591bd81c63e?utm_source=1049&utm_campaign=git)** | Atlanta, GA | On Site | Jul 05 |
+| ↳ | **[Intern, Innovation Designer (Fall 2024)](https://jobright.ai/jobs/info/66887ec9c8bd0591bd81c6d8?utm_source=1049&utm_campaign=git)** | Atlanta, GA | On Site | Jul 05 |
 | **[Florida International University](https://www.fiu.edu)** | **[2024-2025 Athletics, Women's Basketball Creative Content Producer](https://jobright.ai/jobs/info/668801a5f2620e116ee3ba56?utm_source=1049&utm_campaign=git)** | Miami, FL | On Site | Jul 05 |
 | ↳ | **[2024 - 2025 Athletics Department, Athletics Social Media Student Assistant](https://jobright.ai/jobs/info/668801a5f2620e116ee3ba61?utm_source=1049&utm_campaign=git)** | Miami, FL | On Site | Jul 05 |
 | **[BJC HealthCare](http://www.bjc.org/Default.aspx)** | **[Intern - UI/UX Design](https://jobright.ai/jobs/info/668d1ceac3edd97e56c8291d?utm_source=1049&utm_campaign=git)** | St Louis, MO | On Site | Jul 05 |
@@ -122,5 +124,4 @@ For a comprehensive list of all available internships, please refer to the full 
 | **[Six Flags](https://www.sixflags.com)** | **[Digital Content Creation - Intern Starting at $15.00 per hour](https://jobright.ai/jobs/info/66857dfb2d5369a6ba261ee9?utm_source=1049&utm_campaign=git)** | Darien Center, NY | On Site | Jul 03 |
 | **[Anike Foundation Inc](https://www.anikefoundation.org/)** | **[Motion Graphic Designer and Animator for Africa Education Nonprofit](https://jobright.ai/jobs/info/66857901ad79c6e653c85b24?utm_source=1049&utm_campaign=git)** | West Boylston, MA | Hybrid | Jul 03 |
 | **[Flagler College](http://www.flagler.edu/)** | **[Campus Recreation Graphic Designer Work Study](https://jobright.ai/jobs/info/66857901ad79c6e653c85b2f?utm_source=1049&utm_campaign=git)** | St Augustine, FL | On Site | Jul 03 |
-| **[Hasbro](https://investor.hasbro.com/)** | **[Intern - Graphic Designer, Monopoly (Sept - Dec 2024)](https://jobright.ai/jobs/info/6668eaf703ac5afee7b103b4?utm_source=1049&utm_campaign=git)** | Pawtucket, RI | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
