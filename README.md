@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blissy](https://blissy.com/)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/66922452b45973b4bb9630a9?utm_source=1049&utm_campaign=git)** | Burbank, CA | On Site | Jul 13 |
+| **[Dagne Dover](http://www.dagnedover.com)** | **[Design Intern, FW 24](https://jobright.ai/jobs/info/66920f9e5f4e680a67db137e?utm_source=1049&utm_campaign=git)** | New York, NY | Hybrid | Jul 13 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Merchandise Graphic Design Intern - Fall 2024](https://jobright.ai/jobs/info/6691c5d6dedfefbc1f707fa1?utm_source=1049&utm_campaign=git)** | Austin, TX | Hybrid | Jul 12 |
 | **[Copeland](https://www.copeland.com)** | **[Innovation Research & Design Co-op](https://jobright.ai/jobs/info/6691ad04f75851e2436d560f?utm_source=1049&utm_campaign=git)** | Dayton, AR | On Site | Jul 12 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Fall 2024](https://jobright.ai/jobs/info/6691ab4fd78bfc47e3ab1eeb?utm_source=1049&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 12 |
@@ -65,11 +67,12 @@ For a complete list, see the full spreadsheet below:
 | **[Liberty University](https://www.liberty.edu/online/)** | **[CASAS / Graphic Designer Student Assistant](https://jobright.ai/jobs/info/66918965ac10c1640df70919?utm_source=1049&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 12 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6691902d4c69d669ab53635b?utm_source=1049&utm_campaign=git)** | Chicago, IL | Hybrid | Jul 12 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691a36d4c7d2eb620a7c031?utm_source=1049&utm_campaign=git)** | Sterling Heights, MI | On Site | Jul 12 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691897fac10c1640df70bee?utm_source=1049&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691b453cdd4fd0eb3caef03?utm_source=1049&utm_campaign=git)** | Potsdam, NY | On Site | Jul 12 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691897fac10c1640df70bee?utm_source=1049&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691897fac10c1640df70bf5?utm_source=1049&utm_campaign=git)** | Missoula, MT | On Site | Jul 12 |
 | **[University of Arkansas](http://uark.edu)** | **[Hourly Communication and Creative Services Intern - Photography](https://jobright.ai/jobs/info/669194d096333ec524102d22?utm_source=1049&utm_campaign=git)** | Fayetteville, AR | On Site | Jul 12 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691950396333ec52410318a?utm_source=1049&utm_campaign=git)** | Pittsburg, KS | On Site | Jul 12 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6692394a1b049d09f698cd99?utm_source=1049&utm_campaign=git)** | West Chester, PA | On Site | Jul 12 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691950396333ec52410318a?utm_source=1049&utm_campaign=git)** | Pittsburg, KS | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691950396333ec52410318b?utm_source=1049&utm_campaign=git)** | Jackson, TN | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691950396333ec52410318d?utm_source=1049&utm_campaign=git)** | Huntsville, AL | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691b90bcc90539b64763b81?utm_source=1049&utm_campaign=git)** | Huntington, WV | On Site | Jul 12 |
@@ -77,13 +80,13 @@ For a complete list, see the full spreadsheet below:
 | **[University of Arkansas](http://uark.edu)** | **[COSMOS - Graduate Research Assistant (UI/UX)](https://jobright.ai/jobs/info/6691a9955e5623ebe1a39fa6?utm_source=1049&utm_campaign=git)** | Little Rock, AR | On Site | Jul 12 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66919e394fd96cf1a63f18fd?utm_source=1049&utm_campaign=git)** | Chico, CA | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab53665e?utm_source=1049&utm_campaign=git)** | Lewiston, ME | On Site | Jul 12 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536660?utm_source=1049&utm_campaign=git)** | Bellingham, WA | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab53665f?utm_source=1049&utm_campaign=git)** | Las Vegas, NV | On Site | Jul 12 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536663?utm_source=1049&utm_campaign=git)** | Macon, GA | On Site | Jul 12 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536665?utm_source=1049&utm_campaign=git)** | Boise, ID | On Site | Jul 12 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536664?utm_source=1049&utm_campaign=git)** | Seattle, WA | On Site | Jul 12 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536660?utm_source=1049&utm_campaign=git)** | Bellingham, WA | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536662?utm_source=1049&utm_campaign=git)** | Lexington, KY | On Site | Jul 12 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536665?utm_source=1049&utm_campaign=git)** | Boise, ID | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536666?utm_source=1049&utm_campaign=git)** | Laredo, TX | On Site | Jul 12 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536663?utm_source=1049&utm_campaign=git)** | Macon, GA | On Site | Jul 12 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536664?utm_source=1049&utm_campaign=git)** | Seattle, WA | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66917ea8d48d64247375d880?utm_source=1049&utm_campaign=git)** | Elon, NC | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66917ea8d48d64247375d883?utm_source=1049&utm_campaign=git)** | Colorado Springs, CO | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691a602a43939170f9649d9?utm_source=1049&utm_campaign=git)** | Reading, PA | On Site | Jul 12 |
@@ -92,7 +95,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[COSMOS – Graduate Research Assistant (UI/UX)](https://jobright.ai/jobs/info/6691896dac10c1640df709f3?utm_source=1049&utm_campaign=git)** | Little Rock, AR | On Site | Jul 12 |
 | **[Viki](http://www.viki.com)** | **[Intern, Creative Services](https://jobright.ai/jobs/info/6675b9f3044b6b83ef0d37fb?utm_source=1049&utm_campaign=git)** | San Mateo, CA | On Site | Jul 12 |
 | **[MyDataProduct](https://www.mydataproduct.com)** | **[Product Design Intern - Undergraduate](https://jobright.ai/jobs/info/66915c502d2c286f89de10c3?utm_source=1049&utm_campaign=git)** | United States | Remote | Jul 12 |
-| **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Fall 2024](https://jobright.ai/jobs/info/66916a218245dc733f20d36e?utm_source=1049&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 12 |
 | **[Pep LLC](http://www.peppromotions.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6674ce04f7e94a7581ad181a?utm_source=1049&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 12 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/66751b5d1345ca9e335e7614?utm_source=1049&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 12 |
 | **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/6690d6d5ff50681e8b5694fb?utm_source=1049&utm_campaign=git)** | Rockville, MD | On Site | Jul 12 |
@@ -108,8 +110,8 @@ For a complete list, see the full spreadsheet below:
 | **[Cornell Law School](http://www.lawschool.cornell.edu)** | **[Athletics Creative Intern](https://jobright.ai/jobs/info/6690c011555345cb31084bc3?utm_source=1049&utm_campaign=git)** | Ithaca, NY | On Site | Jul 11 |
 | **[WBEZ](http://www.wbez.org/)** | **[Graphic Design & Marketing Intern](https://jobright.ai/jobs/info/6690bf81555345cb31083e52?utm_source=1049&utm_campaign=git)** | Chicago, IL | On Site | Jul 11 |
 | **[ARCO](https://thearcoway.com)** | **[Marketing/Communications Intern/Co-op](https://jobright.ai/jobs/info/6690cfd4b9480c9896c8f0c5?utm_source=1049&utm_campaign=git)** | Brentwood, MO | On Site | Jul 11 |
+| **[Lusive Decor](https://www.lusive.com)** | **[Design Intern - Paid Internship](https://jobright.ai/jobs/info/6690c067555345cb31085477?utm_source=1049&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 11 |
 | **[Magz Sports](https://www.magzsports.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66905d43759f226286d9115e?utm_source=1049&utm_campaign=git)** | Dallas, TX | On Site | Jul 11 |
-| **[Lusive Decor](https://www.lusive.com)** | **[Design Intern - Paid Internship](https://jobright.ai/jobs/info/668ff9ba0f79b533b8729a2a?utm_source=1049&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 11 |
 | **[Baker Labs](http://bakerlabs.co)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6691208e61b6573a52caa64c?utm_source=1049&utm_campaign=git)** | Knoxville, TN | On Site | Jul 11 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2025 User Experience Design Intern - Undergraduate](https://jobright.ai/jobs/info/6677a8d20cb41ca3d012e782?utm_source=1049&utm_campaign=git)** | Seattle, WA | Hybrid | Jul 11 |
 | ↳ | **[Spring 2025 User Experience Design Intern – Graduate](https://jobright.ai/jobs/info/6677a9210cb41ca3d012ed61?utm_source=1049&utm_campaign=git)** | Seattle, WA | Hybrid | Jul 11 |
@@ -149,7 +151,7 @@ For a complete list, see the full spreadsheet below:
 | **[CALSTART](http://www.calstart.org)** | **[User Experience (UX) Design Intern](https://jobright.ai/jobs/info/668c326b080f3f924dacba5c?utm_source=1049&utm_campaign=git)** | United States | Remote | Jul 08 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[IGNITE Student Photographer](https://jobright.ai/jobs/info/668c2960dbe1aedcdfe00a02?utm_source=1049&utm_campaign=git)** | Riverside, CA | On Site | Jul 08 |
 | **[QAT Global](http://qat.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/668c05278044ac76a5c82552?utm_source=1049&utm_campaign=git)** | Omaha, NE | On Site | Jul 08 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Alfred Fleishman Diversity Fellowship, Art Direction/Design - Summer 2024, New York](https://jobright.ai/jobs/info/6682911480444982f0ddbbf6?utm_source=1049&utm_campaign=git)** | New York, United States | Hybrid | Jul 08 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Alfred Fleishman Diversity Fellowship, Art Direction/Design - Summer 2024, New York](https://jobright.ai/jobs/info/668be219b7b7df8c7f204988?utm_source=1049&utm_campaign=git)** | New York, United States | Hybrid | Jul 08 |
 | **[The Toledo Zoo & Aquarium](http://www.toledozoo.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/668d07e8b9491475384cbc58?utm_source=1049&utm_campaign=git)** | Toledo, OH | On Site | Jul 08 |
 | **[Falcon’s Beyond](https://falconsbeyondglobal.com)** | **[Design Intern](https://jobright.ai/jobs/info/668d07e8b9491475384cbc63?utm_source=1049&utm_campaign=git)** | Greater Orlando | On Site | Jul 08 |
 | **[Florida International University](https://www.fiu.edu)** | **[2024-2025 - Office of Financial Aid, Student Graphic Design Assistant](https://jobright.ai/jobs/info/668b4db636fc66f4e341ee34?utm_source=1049&utm_campaign=git)** | Miami, FL | On Site | Jul 08 |
@@ -161,5 +163,4 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Early Career Lighting Designer](https://jobright.ai/jobs/info/669130b025b61d926e4b54e2?utm_source=1049&utm_campaign=git)** | Irvine, CA | On Site | Jul 06 |
 | ↳ | **[Associate Lighting Designer](https://jobright.ai/jobs/info/668a7c0c7804bc93ed496690?utm_source=1049&utm_campaign=git)** | New York, NY | On Site | Jul 06 |
 | **[Cartier](http://www.cartier.com)** | **[V.I.E - Creative & Content Specialist - New-York](https://jobright.ai/jobs/info/662b83411a8317241a4a58da?utm_source=1049&utm_campaign=git)** | New York, NY | On Site | Jul 06 |
-| **[Dassault Systemes](http://www.3ds.com)** | **[INTERNSHIP - Web Content Publishing](https://jobright.ai/jobs/info/663cb41d246515bf34de174c?utm_source=1049&utm_campaign=git)** | Waltham, MA | Hybrid | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
