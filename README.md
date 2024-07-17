@@ -57,24 +57,34 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransPerfect](http://www.transperfect.com)** | **[iPhone Photographer](https://jobright.ai/jobs/info/66972295f11ecbc261d911d8?utm_source=1049&utm_campaign=git)** | Allen, TX | On Site | Jul 17 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66971dd2f9b34528d1b2a71b?utm_source=1049&utm_campaign=git)** | Pueblo-Cañon City Area | On Site | Jul 17 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66971dd2f9b34528d1b2a71d?utm_source=1049&utm_campaign=git)** | Fairfield, CA | On Site | Jul 17 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66971dd2f9b34528d1b2a719?utm_source=1049&utm_campaign=git)** | Greater Hartford | On Site | Jul 17 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66971dd2f9b34528d1b2a71c?utm_source=1049&utm_campaign=git)** | West Palm Beach, FL | On Site | Jul 17 |
 | **[TransPerfect](http://www.transperfect.com)** | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824746?utm_source=1049&utm_campaign=git)** | Dayton, OH | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6697197a18798443c42ae9b2?utm_source=1049&utm_campaign=git)** | Palm Bay-Melbourne-Titusville | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/669714b542783c0a8d859854?utm_source=1049&utm_campaign=git)** | Athens, GA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/669714b542783c0a8d859855?utm_source=1049&utm_campaign=git)** | Norman, OK | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/669714b542783c0a8d859856?utm_source=1049&utm_campaign=git)** | Greater Columbia, Missouri Area | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824748?utm_source=1049&utm_campaign=git)** | Lakeland, FL | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824747?utm_source=1049&utm_campaign=git)** | Round Rock, TX | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6697197a18798443c42ae9b3?utm_source=1049&utm_campaign=git)** | Ann Arbor, MI | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/669714b542783c0a8d85985b?utm_source=1049&utm_campaign=git)** | Gresham, OR | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/669714b542783c0a8d85985a?utm_source=1049&utm_campaign=git)** | Wilmington, NC | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/669714b542783c0a8d85985c?utm_source=1049&utm_campaign=git)** | Allentown, PA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824749?utm_source=1049&utm_campaign=git)** | Temecula, CA | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/669714b542783c0a8d859880?utm_source=1049&utm_campaign=git)** | Elgin, IL | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824761?utm_source=1049&utm_campaign=git)** | Richardson, TX | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6697197a18798443c42ae9be?utm_source=1049&utm_campaign=git)** | Beaumont-PA Area | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6697197a18798443c42ae9bf?utm_source=1049&utm_campaign=git)** | Berkeley, CA | On Site | Jul 16 |
+| **[BluWave](https://www.bluwave.net/)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6697196718798443c42ae84c?utm_source=1049&utm_campaign=git)** | Brentwood, TN | On Site | Jul 16 |
+| **[TransPerfect](http://www.transperfect.com)** | **[iPhone Photographer](https://jobright.ai/jobs/info/669714b542783c0a8d859880?utm_source=1049&utm_campaign=git)** | Elgin, IL | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824762?utm_source=1049&utm_campaign=git)** | Odessa, TX | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824761?utm_source=1049&utm_campaign=git)** | Richardson, TX | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824763?utm_source=1049&utm_campaign=git)** | Provo, UT | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824765?utm_source=1049&utm_campaign=git)** | New Braunfels, TX | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824767?utm_source=1049&utm_campaign=git)** | West Covina, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824766?utm_source=1049&utm_campaign=git)** | El Monte, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824768?utm_source=1049&utm_campaign=git)** | Brockton, MA | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824767?utm_source=1049&utm_campaign=git)** | West Covina, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e7d1756c5bd63824769?utm_source=1049&utm_campaign=git)** | Boulder, CO | On Site | Jul 16 |
 | **[Highwire PR](http://www.highwirepr.com)** | **[Post Graduate Design Intern](https://jobright.ai/jobs/info/6696fea5fa5297ff7b4b13d1?utm_source=1049&utm_campaign=git)** | New York, NY | Hybrid | Jul 16 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6696fb7dff384bf5ba3fb2bd?utm_source=1049&utm_campaign=git)** | Omaha, NE | On Site | Jul 16 |
@@ -86,7 +96,7 @@ For a complete list, see the full spreadsheet below:
 | **[OuterBox](http://www.outerboxdesign.com)** | **[UI Designer Internship](https://jobright.ai/jobs/info/669694a0454782ba986854ae?utm_source=1049&utm_campaign=git)** | Rochester, MN | Hybrid | Jul 16 |
 | **[Arkansas Department of Workforce Services](https://www.dws.arkansas.gov/)** | **[Student Worker - Graphic Design and Marketing](https://jobright.ai/jobs/info/66968c6d2f9015b29dd1b97b?utm_source=1049&utm_campaign=git)** | Conway, AR | On Site | Jul 16 |
 | **[Callidus Agency](http://callidusagency.com)** | **[Graphic Designer Internship](https://jobright.ai/jobs/info/669686508edf02ca2d6ccc62?utm_source=1049&utm_campaign=git)** | Allentown, PA | Hybrid | Jul 16 |
-| **[Blayzer](https://www.blayzer.com/)** | **[Web Design Intern](https://jobright.ai/jobs/info/66967db144c3924357f40a19?utm_source=1049&utm_campaign=git)** | St Louis, MO | Hybrid | Jul 16 |
+| **[Blayzer](https://www.blayzer.com/)** | **[Web Design Intern](https://jobright.ai/jobs/info/6696534f9ffce2bd7106e567?utm_source=1049&utm_campaign=git)** | St Louis, MO | Hybrid | Jul 16 |
 | **[Medpace](http://www.medpace.com)** | **[Production Artist Internship - Fall 2024](https://jobright.ai/jobs/info/668c09e9aea348a0f402826f?utm_source=1049&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 16 |
 | ↳ | **[Graphic Design Intern - Fall 2024](https://jobright.ai/jobs/info/669647906eb71b21fb140bfd?utm_source=1049&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 16 |
 | ↳ | **[UX Design Intern - Fall 2024](https://jobright.ai/jobs/info/6691ab4fd78bfc47e3ab1eeb?utm_source=1049&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 16 |
@@ -102,13 +112,13 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66970e861756c5bd63824828?utm_source=1049&utm_campaign=git)** | CS-Bryan Area | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66968f124297919dbbc5470f?utm_source=1049&utm_campaign=git)** | Clearwater, FL | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66968f124297919dbbc54710?utm_source=1049&utm_campaign=git)** | South Fulton, GA | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66968f124297919dbbc54712?utm_source=1049&utm_campaign=git)** | Quincy, MA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66968f124297919dbbc54711?utm_source=1049&utm_campaign=git)** | Greater Tuscaloosa Area | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66968f124297919dbbc54713?utm_source=1049&utm_campaign=git)** | Elizabeth, NJ | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66968f124297919dbbc54712?utm_source=1049&utm_campaign=git)** | Quincy, MA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/669610145a299d51103bb7dd?utm_source=1049&utm_campaign=git)** | South Bend-Mishawaka | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d48773d347b82c0531e6?utm_source=1049&utm_campaign=git)** | Renton, WA | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d48773d347b82c0531e8?utm_source=1049&utm_campaign=git)** | Rialto, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d48773d347b82c0531e7?utm_source=1049&utm_campaign=git)** | Carmel, IN | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d48773d347b82c0531e8?utm_source=1049&utm_campaign=git)** | Rialto, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d48773d347b82c0531e9?utm_source=1049&utm_campaign=git)** | Waterbury, CT | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d48773d347b82c0531ea?utm_source=1049&utm_campaign=git)** | Edison, NJ | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d48773d347b82c0531eb?utm_source=1049&utm_campaign=git)** | Midland-Odessa Area | On Site | Jul 16 |
@@ -116,29 +126,29 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3aa?utm_source=1049&utm_campaign=git)** | Peoria, IL | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3a9?utm_source=1049&utm_campaign=git)** | Nampa, ID | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3b5?utm_source=1049&utm_campaign=git)** | Westminster, CO | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3b8?utm_source=1049&utm_campaign=git)** | El Cajon, CA | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3b7?utm_source=1049&utm_campaign=git)** | Centennial, CO | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3b6?utm_source=1049&utm_campaign=git)** | Simi Valley, CA | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3bc?utm_source=1049&utm_campaign=git)** | Coral Springs, FL | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3b7?utm_source=1049&utm_campaign=git)** | Centennial, CO | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3b8?utm_source=1049&utm_campaign=git)** | El Cajon, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3b9?utm_source=1049&utm_campaign=git)** | West Jordan, UT | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3bc?utm_source=1049&utm_campaign=git)** | Coral Springs, FL | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3ba?utm_source=1049&utm_campaign=git)** | Carlsbad, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3bb?utm_source=1049&utm_campaign=git)** | Pasadena, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3bd?utm_source=1049&utm_campaign=git)** | Concord, CA | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3bf?utm_source=1049&utm_campaign=git)** | North Charleston, SC | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3c0?utm_source=1049&utm_campaign=git)** | Woodbridge, NJ | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3be?utm_source=1049&utm_campaign=git)** | Carrollton, TX | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3c3?utm_source=1049&utm_campaign=git)** | League City, TX | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3c5?utm_source=1049&utm_campaign=git)** | Lowell, MA | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3c0?utm_source=1049&utm_campaign=git)** | Woodbridge, NJ | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3bf?utm_source=1049&utm_campaign=git)** | North Charleston, SC | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3c6?utm_source=1049&utm_campaign=git)** | Las Cruces, NM | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3c1?utm_source=1049&utm_campaign=git)** | Richmond, CA | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3c3?utm_source=1049&utm_campaign=git)** | League City, TX | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3c4?utm_source=1049&utm_campaign=git)** | St George, UT | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3c2?utm_source=1049&utm_campaign=git)** | Murrieta, CA | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3c6?utm_source=1049&utm_campaign=git)** | Las Cruces, NM | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695f01715c98eb8a6346ec2?utm_source=1049&utm_campaign=git)** | Greater Evansville Area | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695d0dd44c53245755de3c5?utm_source=1049&utm_campaign=git)** | Lowell, MA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695f01715c98eb8a6346ec1?utm_source=1049&utm_campaign=git)** | Fishers, IN | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695f01715c98eb8a6346ec2?utm_source=1049&utm_campaign=git)** | Greater Evansville Area | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cd5?utm_source=1049&utm_campaign=git)** | Buckeye, AZ | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cd7?utm_source=1049&utm_campaign=git)** | Davie, FL | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cd8?utm_source=1049&utm_campaign=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cd9?utm_source=1049&utm_campaign=git)** | Concord, NC | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cd8?utm_source=1049&utm_campaign=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cda?utm_source=1049&utm_campaign=git)** | Sugar Land, TX | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cdb?utm_source=1049&utm_campaign=git)** | Costa Mesa, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cde?utm_source=1049&utm_campaign=git)** | Greater Wichita Falls, Texas Area | On Site | Jul 16 |
@@ -160,19 +170,20 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c0d827b8d0ea6ca6f11a?utm_source=1049&utm_campaign=git)** | Sandy Springs, GA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cee?utm_source=1049&utm_campaign=git)** | Greeley, CO | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cf1?utm_source=1049&utm_campaign=git)** | Rio Rancho, NM | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cf0?utm_source=1049&utm_campaign=git)** | Dearborn, MI | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cef?utm_source=1049&utm_campaign=git)** | Tyler, TX | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cf0?utm_source=1049&utm_campaign=git)** | Dearborn, MI | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/66964cf272f6951615953fe0?utm_source=1049&utm_campaign=git)** | Hesperia, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c0d827b8d0ea6ca6f11c?utm_source=1049&utm_campaign=git)** | Lees Summit, MO | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c0d827b8d0ea6ca6f11d?utm_source=1049&utm_campaign=git)** | Burbank, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c0d827b8d0ea6ca6f11e?utm_source=1049&utm_campaign=git)** | Greater Bend Area | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c0d827b8d0ea6ca6f11d?utm_source=1049&utm_campaign=git)** | Burbank, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c0d827b8d0ea6ca6f11f?utm_source=1049&utm_campaign=git)** | Inglewood, CA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c6f13ac8394d6d558cf2?utm_source=1049&utm_campaign=git)** | Edinburg, TX | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c0d827b8d0ea6ca6f120?utm_source=1049&utm_campaign=git)** | San Mateo, CA | On Site | Jul 16 |
-| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c0d827b8d0ea6ca6f121?utm_source=1049&utm_campaign=git)** | Albany, New York Metropolitan Area | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c0d827b8d0ea6ca6f122?utm_source=1049&utm_campaign=git)** | Greater Chico Area | On Site | Jul 16 |
+| ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c0d827b8d0ea6ca6f121?utm_source=1049&utm_campaign=git)** | Albany, New York Metropolitan Area | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c0d827b8d0ea6ca6f124?utm_source=1049&utm_campaign=git)** | New Bedford, MA | On Site | Jul 16 |
 | ↳ | **[iPhone Photographer](https://jobright.ai/jobs/info/6695c0d827b8d0ea6ca6f125?utm_source=1049&utm_campaign=git)** | Daly City, CA | On Site | Jul 16 |
+| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6697197018798443c42ae944?utm_source=1049&utm_campaign=git)** | Omaha Home Office | On Site | Jul 16 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Experiential Creative Intern ](https://jobright.ai/jobs/info/6696f583742a578451339461?utm_source=1049&utm_campaign=git)** | New York, New York, United States | On Site | Jul 16 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Design & Video Intern](https://jobright.ai/jobs/info/6695a895b94864b5c6b18ae4?utm_source=1049&utm_campaign=git)** | New York, NY | On Site | Jul 15 |
 | **[Roc Nation](http://rocnation.com)** | **[Design & Video Intern](https://jobright.ai/jobs/info/6695b542ce96cead8e705bd4?utm_source=1049&utm_campaign=git)** | New York, NY | On Site | Jul 15 |
@@ -180,8 +191,8 @@ For a complete list, see the full spreadsheet below:
 | **[American Honda Motor Company](https://www.honda.com/)** | **[Automotive Designer Co-op/Intern - Summer 2025](https://jobright.ai/jobs/info/66959b8fa70b2fb207aed7e3?utm_source=1049&utm_campaign=git)** | Torrance, CA | On Site | Jul 15 |
 | ↳ | **[Design User Experience Co-op/Intern - Summer 2025](https://jobright.ai/jobs/info/66959b86a70b2fb207aed7b8?utm_source=1049&utm_campaign=git)** | Raymond, OH | On Site | Jul 15 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Part-Time Remote Photo Collector (No experience needed) – WFH - Anywhere in US](https://jobright.ai/jobs/info/6623e9eff880fb3da4e8d7e6?utm_source=1049&utm_campaign=git)** | Nashville, TN | Remote | Jul 15 |
-| **[Kognitos](https://www.kognitos.com/)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/66959ebcdad8e1c87cfdb954?utm_source=1049&utm_campaign=git)** | San Jose, CA | On Site | Jul 15 |
-| ↳ | **[Graphic Design - Intern](https://jobright.ai/jobs/info/66959ed4dad8e1c87cfdbb53?utm_source=1049&utm_campaign=git)** | Charleston, SC | On Site | Jul 15 |
+| **[Kognitos](https://www.kognitos.com/)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/66959ed4dad8e1c87cfdbb53?utm_source=1049&utm_campaign=git)** | Charleston, SC | On Site | Jul 15 |
+| ↳ | **[Graphic Design - Intern](https://jobright.ai/jobs/info/66959ebcdad8e1c87cfdb954?utm_source=1049&utm_campaign=git)** | San Jose, CA | On Site | Jul 15 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/66958adf8c82d15a242a0021?utm_source=1049&utm_campaign=git)** | San Jose, CA | On Site | Jul 15 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Part-Time Remote Photo Collector (No experience needed) – WFH - Anywhere in US](https://jobright.ai/jobs/info/6623e9eff880fb3da4e8d7e1?utm_source=1049&utm_campaign=git)** | Jacksonville, FL | Remote | Jul 15 |
 | ↳ | **[Part-Time Remote Photo Collector (No experience needed) – WFH - Anywhere in US](https://jobright.ai/jobs/info/6623e9eff880fb3da4e8d7d5?utm_source=1049&utm_campaign=git)** | Washington, DC | Remote | Jul 15 |
@@ -210,7 +221,6 @@ For a complete list, see the full spreadsheet below:
 | **[Florida International University](https://www.fiu.edu)** | **[2024-2025 Veteran & Military Affairs, Student Marketing/Graphic Design Assistant](https://jobright.ai/jobs/info/66948cc39b439772614e02ac?utm_source=1049&utm_campaign=git)** | Miami, FL | On Site | Jul 15 |
 | **[Target](https://www.target.com)** | **[Current Interns Only - UX Design 2024 Intern Posting](https://jobright.ai/jobs/info/6695a03cec311e38ae18a701?utm_source=1049&utm_campaign=git)** | Minneapolis, MN | On Site | Jul 15 |
 | ↳ | **[Current Interns Only - UX Design 2024 Intern Posting](https://jobright.ai/jobs/info/669588d9bee1ad6b33a44c14?utm_source=1049&utm_campaign=git)** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | On Site | Jul 15 |
-| **[Cummins Inc.](https://www.cummins.com/)** | **[School to Work - Photographer & Photo Editor - Fall](https://jobright.ai/jobs/info/66966fe6c042ef592bddc320?utm_source=1049&utm_campaign=git)** | Florence, KY | On Site | Jul 14 |
 | **[Zipline](http://flyzipline.com)** | **[UX Research Intern [Fall 2024]](https://jobright.ai/jobs/info/6675f7d380091fbf5e3ec8ba?utm_source=1049&utm_campaign=git)** | South San Francisco, CA | On Site | Jul 14 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/650ed9ce4bb8a0ba95012668?utm_source=1049&utm_campaign=git)** | Harrisburg, PA | On Site | Jul 14 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect](https://jobright.ai/jobs/info/6676a096573f97cc9db08d7f?utm_source=1049&utm_campaign=git)** | Tampa, FL | Hybrid | Jul 14 |
@@ -228,22 +238,22 @@ For a complete list, see the full spreadsheet below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Merchandise Graphic Design Intern - Fall 2024](https://jobright.ai/jobs/info/6691c5d6dedfefbc1f707fa1?utm_source=1049&utm_campaign=git)** | Austin, TX | Hybrid | Jul 12 |
 | **[Copeland](https://www.copeland.com)** | **[Innovation Research & Design Co-op](https://jobright.ai/jobs/info/6691ad04f75851e2436d560f?utm_source=1049&utm_campaign=git)** | Dayton, AR | On Site | Jul 12 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669198aeb4b5a4f81c499ba1?utm_source=1049&utm_campaign=git)** | Knoxville, TN | On Site | Jul 12 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669198aeb4b5a4f81c499ba2?utm_source=1049&utm_campaign=git)** | Tupelo, MS | On Site | Jul 12 |
 | **[Liberty University](https://www.liberty.edu/online/)** | **[CASAS / Graphic Designer Student Assistant](https://jobright.ai/jobs/info/66918965ac10c1640df70919?utm_source=1049&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 12 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6691902d4c69d669ab53635b?utm_source=1049&utm_campaign=git)** | Chicago, IL | Hybrid | Jul 12 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691a36d4c7d2eb620a7c031?utm_source=1049&utm_campaign=git)** | Sterling Heights, MI | On Site | Jul 12 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691b453cdd4fd0eb3caef03?utm_source=1049&utm_campaign=git)** | Potsdam, NY | On Site | Jul 12 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6692725d4513eee4ec006cf6?utm_source=1049&utm_campaign=git)** | Chico, CA | On Site | Jul 12 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691b453cdd4fd0eb3caef03?utm_source=1049&utm_campaign=git)** | Potsdam, NY | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66927f093b605588c298613d?utm_source=1049&utm_campaign=git)** | Lewiston, ME | On Site | Jul 12 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66928f00567ebc5a93a6c91a?utm_source=1049&utm_campaign=git)** | Sterling Heights, MI | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6692394a1b049d09f698cd99?utm_source=1049&utm_campaign=git)** | West Chester, PA | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691950396333ec52410318a?utm_source=1049&utm_campaign=git)** | Pittsburg, KS | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691950396333ec52410318b?utm_source=1049&utm_campaign=git)** | Jackson, TN | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691950396333ec52410318d?utm_source=1049&utm_campaign=git)** | Huntsville, AL | On Site | Jul 12 |
 | **[University of Arkansas](http://uark.edu)** | **[Hourly Communication and Creative Services Intern - Photography](https://jobright.ai/jobs/info/66928f00567ebc5a93a6c937?utm_source=1049&utm_campaign=git)** | Fayetteville, AR | On Site | Jul 12 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/6691b90bcc90539b64763b81?utm_source=1049&utm_campaign=git)** | Huntington, WV | On Site | Jul 12 |
-| **[University of Arkansas](http://uark.edu)** | **[COSMOS - Graduate Research Assistant (UI/UX)](https://jobright.ai/jobs/info/6691a9955e5623ebe1a39fa6?utm_source=1049&utm_campaign=git)** | Little Rock, AR | On Site | Jul 12 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66925f9adcf568d27f2f7b21?utm_source=1049&utm_campaign=git)** | Tupelo, MS | On Site | Jul 12 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab53665f?utm_source=1049&utm_campaign=git)** | Las Vegas, NV | On Site | Jul 12 |
+| ↳ | **[COSMOS - Graduate Research Assistant (UI/UX)](https://jobright.ai/jobs/info/6691a9955e5623ebe1a39fa6?utm_source=1049&utm_campaign=git)** | Little Rock, AR | On Site | Jul 12 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66925f9adcf568d27f2f7b22?utm_source=1049&utm_campaign=git)** | Huntington, WV | On Site | Jul 12 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66919e394fd96cf1a63f18fd?utm_source=1049&utm_campaign=git)** | Chico, CA | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536660?utm_source=1049&utm_campaign=git)** | Bellingham, WA | On Site | Jul 12 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab53665f?utm_source=1049&utm_campaign=git)** | Las Vegas, NV | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536662?utm_source=1049&utm_campaign=git)** | Lexington, KY | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/669190484c69d669ab536666?utm_source=1049&utm_campaign=git)** | Laredo, TX | On Site | Jul 12 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66925f9adcf568d27f2f7b25?utm_source=1049&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 12 |
@@ -283,5 +293,4 @@ For a complete list, see the full spreadsheet below:
 | **[FIAF - French Institute Alliance Francaise](http://www.fiaf.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/669001786322084f2d52cd35?utm_source=1049&utm_campaign=git)** | Manhattan, NY | On Site | Jul 10 |
 | **[Weber State University](https://www.weber.edu)** | **[Graphic Artist for Student Involvement & Leadership](https://jobright.ai/jobs/info/6695280ff4d48d9756fb8233?utm_source=1049&utm_campaign=git)** | Ogden, UT | On Site | Jul 10 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Photographer (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/6693d405db9b5f876426ca31?utm_source=1049&utm_campaign=git)** | New York, NY | On Site | Jul 10 |
-| **[TruePoint Communications](https://www.truepointagency.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/668e61473c2b7d761b2166e8?utm_source=1049&utm_campaign=git)** | Dallas, TX | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
