@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ripple](http://ripple.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/66a32f53b11b852910a8207c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jul 26 |
 | **[Tecnologia Bancária](http://www.tecban.com.br)** | **[ESTÁGIO - User Experience](https://jobright.ai/jobs/info/66a3208aff57370d38e377c5?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Ferguson Construction Co.](http://ferguson-construction.com)** | **[Architecture Co-Op Fall 2024](https://jobright.ai/jobs/info/66a308256966215d449618ab?utm_campaign=1049&utm_source=git)** | Sidney, OH | On Site | Jul 26 |
 | **[Deluxe Corp](https://www.deluxe.com)** | **[UX Intern](https://jobright.ai/jobs/info/66a2feec6199d057adefb82d?utm_campaign=1049&utm_source=git)** | Trenton, NJ | Hybrid | Jul 26 |
@@ -90,7 +91,6 @@ For a complete list, see the full spreadsheet below:
 | **[Urbanspace](https://www.urbanspacelifestyle.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/66a13b0264d0e1054c2d328f?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 24 |
 | ↳ | **[Creative Intern](https://jobright.ai/jobs/info/66a137edd0ffe356c115e8eb?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 24 |
 | **[Cintas](http://www.cintas.com)** | **[Intern - Design](https://jobright.ai/jobs/info/66a12a3c7ebb84ddfa468c08?utm_campaign=1049&utm_source=git)** | Mason, OH | On Site | Jul 24 |
-| **[Overdrive Interactive](http://www.ovrdrv.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/66a2376aa3cccf144e98820f?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 24 |
 | **[Conservation Legacy](http://www.conservationlegacy.org)** | **[Sr Interior Design Professional](https://jobright.ai/jobs/info/66a26a538d694daaf8c0cca5?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 24 |
 | **[Melissa](https://www.melissa.com)** | **[Graphic Designer - Paid Internship](https://jobright.ai/jobs/info/66a23755a3cccf144e98804d?utm_campaign=1049&utm_source=git)** | Rancho Santa Margarita, CA | On Site | Jul 24 |
 | **[James Madison Innovations](https://www.jmu.edu/innovation/jmi.shtml)** | **[CISE Graphic Designer - IE](https://jobright.ai/jobs/info/66a0fd2c5902e5455fed6d02?utm_campaign=1049&utm_source=git)** | Harrisonburg, VA | On Site | Jul 24 |
@@ -105,7 +105,6 @@ For a complete list, see the full spreadsheet below:
 | **[Blundstone USA](http://Blundstone.com)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/66a01a224d688534c3b5dc99?utm_campaign=1049&utm_source=git)** | New Brunswick, NJ | On Site | Jul 23 |
 | **[IINE](https://iine.org/)** | **[[Fall 2024] Multimedia & Photography Intern, IINE Boston](https://jobright.ai/jobs/info/66a00c62353276c071fe9292?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 23 |
 | **[Bright Age Digital Creative Agency](https://brightage.com)** | **[Fall Graphic Design Internship](https://jobright.ai/jobs/info/66a004197f05eedcfa57840e?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Jul 23 |
-| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66a131eb31705ece1e4d0107?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Design Intern – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a0e?utm_campaign=1049&utm_source=git)** | Culver City, CA | Hybrid | Jul 23 |
 | **[Riithink Digital Marketing](https://riithink.com)** | **[Designer](https://jobright.ai/jobs/info/669fc7a3bd6f2ddb1fda02b9?utm_campaign=1049&utm_source=git)** | Chapel Hill, NC | Hybrid | Jul 23 |
 | **[Grace Hebert Curtis Architects](https://ghc-arch.com)** | **[Designer / Intern, Architecture](https://jobright.ai/jobs/info/669fd2e6ffe7a49a2618b5a2?utm_campaign=1049&utm_source=git)** | All, MO | On Site | Jul 23 |
