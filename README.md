@@ -58,7 +58,6 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ripple](http://ripple.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/66a32f53b11b852910a8207c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jul 26 |
-| **[Tecnologia Bancária](http://www.tecban.com.br)** | **[ESTÁGIO - User Experience](https://jobright.ai/jobs/info/66a3208aff57370d38e377c5?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Ferguson Construction Co.](http://ferguson-construction.com)** | **[Architecture Co-Op Fall 2024](https://jobright.ai/jobs/info/66a308256966215d449618ab?utm_campaign=1049&utm_source=git)** | Sidney, OH | On Site | Jul 26 |
 | **[Deluxe Corp](https://www.deluxe.com)** | **[UX Intern](https://jobright.ai/jobs/info/66a2feec6199d057adefb82d?utm_campaign=1049&utm_source=git)** | Trenton, NJ | Hybrid | Jul 26 |
 | **[David Zwirner Gallery](http://www.davidzwirner.com/)** | **[Registration and Production Intern](https://jobright.ai/jobs/info/66a3064952f762883154aa46?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 25 |
