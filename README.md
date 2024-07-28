@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SimpleCiti](http://www.simpleciti.com)** | **[Design Intern](https://jobright.ai/jobs/info/66a6391849aae853dec898ae?utm_campaign=1049&utm_source=git)** | Garden City, NY | Hybrid | Jul 28 |
 | **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66a5f528874144d8f8d9323e?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 28 |
 | **[Wolff Olins](https://www.wolffolins.com)** | **[Fall 2024 Design Internship (NY)](https://jobright.ai/jobs/info/66a5f528874144d8f8d93251?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 28 |
 | **[New York City Campaign Finance Board](http://www.nyccfb.info/)** | **[GRAPHIC DESIGN INTERN](https://jobright.ai/jobs/info/662801ca0dd8d8cc6930ad5b?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Jul 27 |
@@ -153,6 +154,4 @@ For a complete list, see the full spreadsheet below:
 | **[DL1961](https://www.dl1961.com)** | **[Creative Internship Experience](https://jobright.ai/jobs/info/669e5f61255889f99435db18?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 22 |
 | **[BCI Brands](https://www.bcibrands.com)** | **[Vince Camuto Design Team Intern - IMMEDIATE START (NYC)](https://jobright.ai/jobs/info/669e6552c170bee56b299d7d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 22 |
 | **[Conservation Legacy](http://www.conservationlegacy.org)** | **[Design Professional](https://jobright.ai/jobs/info/66a0de6428125a716783e3e8?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 22 |
-| **[Menasha Corp](http://www.menashacorporation.com/)** | **[Electrical Pre-Press (EPP) Graphic Design Co-Op (August-Dec 2024)](https://jobright.ai/jobs/info/6677d2bd97271e26801e330d?utm_campaign=1049&utm_source=git)** | Neenah, WI | On Site | Jul 21 |
-| **[Munchkin](http://www.munchkin.com)** | **[Industrial Design Intern (Fall 2024)](https://jobright.ai/jobs/info/6677c86464f2e472ffd64190?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
