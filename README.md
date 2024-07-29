@@ -58,7 +58,6 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SimpleCiti](http://www.simpleciti.com)** | **[Design Intern](https://jobright.ai/jobs/info/66a6391849aae853dec898ae?utm_campaign=1049&utm_source=git)** | Garden City, NY | Hybrid | Jul 28 |
-| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66a5f528874144d8f8d9323e?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 28 |
 | **[New York City Campaign Finance Board](http://www.nyccfb.info/)** | **[GRAPHIC DESIGN INTERN](https://jobright.ai/jobs/info/662801ca0dd8d8cc6930ad5b?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Jul 27 |
 | **[Delta Air Lines](http://www.delta.com)** | **[Intern, Innovation Designer (Fall 2024)](https://jobright.ai/jobs/info/66887ec9c8bd0591bd81c6d8?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 27 |
 | ↳ | **[Graduate Intern, Innovation Designer (Fall 2024)](https://jobright.ai/jobs/info/66887ebec8bd0591bd81c63e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 27 |
@@ -91,7 +90,6 @@ For a complete list, see the full spreadsheet below:
 | **[Georgia Tech Research Corporation](http://www.gtrc.gatech.edu)** | **[User Interface Design Intern - Fall 2024 - ASL](https://jobright.ai/jobs/info/66a2c843b4785fcea1faf992?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Jul 25 |
 | **[Alexander Wang](https://www.alexanderwang.com)** | **[Design Intern](https://jobright.ai/jobs/info/66a2a15bc1e76feabe4a6cac?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Jul 25 |
 | **[Crimson Design Group](https://crimsondesigngroup.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/66a3d345d7fee676c8404e62?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
-| **[CASE Agency](https://www.caseagency.com/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/66a5218ab4376a917b9c7f63?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Conservation Legacy](http://www.conservationlegacy.org)** | **[Design Professional](https://jobright.ai/jobs/info/66a3dac89f1d4690f1a40e6e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[Girl Scouts of Greater Atlanta](https://www.girlscoutsatl.org/)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/66a3dad29f1d4690f1a40f12?utm_campaign=1049&utm_source=git)** | Tate, GA | On Site | Jul 25 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/66a272dbcb20d2e9ba86916e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 25 |
