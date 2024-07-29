@@ -57,10 +57,12 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revent Solutions](https://reventsolutions.com/)** | **[User Experience Designer (Internship)](https://jobright.ai/jobs/info/66a79bc8ebe6c214d1e35586?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 29 |
 | **[SimpleCiti](http://www.simpleciti.com)** | **[Design Intern](https://jobright.ai/jobs/info/66a7457e32243a44fe99f0be?utm_campaign=1049&utm_source=git)** | Garden City, NY | Hybrid | Jul 29 |
 | **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66a7385f0a43bbd47ef8b7a2?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 29 |
 | **[Wolff Olins](https://www.wolffolins.com)** | **[Fall 2024 Design Internship (NY)](https://jobright.ai/jobs/info/66a72bf7f950415fe82de364?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 29 |
 | **[New York City Campaign Finance Board](http://www.nyccfb.info/)** | **[GRAPHIC DESIGN INTERN](https://jobright.ai/jobs/info/662801ca0dd8d8cc6930ad5b?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Jul 27 |
+| **[Conservation Legacy](http://www.conservationlegacy.org)** | **[Sr Interior Design Professional](https://jobright.ai/jobs/info/66a77650ef6b2f30b3858c09?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 27 |
 | **[Delta Air Lines](http://www.delta.com)** | **[Intern, Innovation Designer (Fall 2024)](https://jobright.ai/jobs/info/66887ec9c8bd0591bd81c6d8?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 27 |
 | ↳ | **[Graduate Intern, Innovation Designer (Fall 2024)](https://jobright.ai/jobs/info/66887ebec8bd0591bd81c63e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 27 |
 | **[Skylark](https://campskylark.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/66a3fda5d61cea1521a47333?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jul 27 |
@@ -101,7 +103,6 @@ For a complete list, see the full spreadsheet below:
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2024 Intern - Creative & Design](https://jobright.ai/jobs/info/6685dae55ce4828b52de8416?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Sysdig](https://www.sysdig.com)** | **[Product Design Internship](https://jobright.ai/jobs/info/66a20cfd0bb65784c3586452?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jul 25 |
 | **[Aramark](http://www.aramark.com)** | **[Student Intern - Marketing (Graphic Design) Tulane University](https://jobright.ai/jobs/info/66a341563a79edbec23c0ab6?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Jul 25 |
-| **[Strategic Factory](http://www.strategicfactory.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66a1c7dbba0edbc43ac6f3d4?utm_campaign=1049&utm_source=git)** | Owings Mills, MD | On Site | Jul 25 |
 | **[Generac Power Systems](http://www.generac.com)** | **[Industrial Design Co-Op](https://jobright.ai/jobs/info/66a1f646ac26990951853933?utm_campaign=1049&utm_source=git)** | Waukesha, WI | On Site | Jul 25 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern](https://jobright.ai/jobs/info/66a2fc377d87c2086e260f88?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[MCD Partners](https://mcdpartners.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/66a28d46b9f360f8b2611f44?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 25 |
@@ -114,6 +115,7 @@ For a complete list, see the full spreadsheet below:
 | **[Tribu Creative](https://www.wearetribu.com)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/66a13e96bfb37f3f681f0420?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Jul 24 |
 | **[Urbanspace](https://www.urbanspacelifestyle.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/66a13b0264d0e1054c2d328f?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 24 |
 | ↳ | **[Creative Intern](https://jobright.ai/jobs/info/66a137edd0ffe356c115e8eb?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 24 |
+| **[Melissa](https://www.melissa.com)** | **[Graphic Designer - Paid Internship](https://jobright.ai/jobs/info/66a780a71ac0bd69471efa49?utm_campaign=1049&utm_source=git)** | Rancho Santa Margarita, CA | On Site | Jul 24 |
 | **[James Madison Innovations](https://www.jmu.edu/innovation/jmi.shtml)** | **[CISE Graphic Designer - IE](https://jobright.ai/jobs/info/66a0fd2c5902e5455fed6d02?utm_campaign=1049&utm_source=git)** | Harrisonburg, VA | On Site | Jul 24 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Creative Services Trainee](https://jobright.ai/jobs/info/66843be828541b6ce54b5ad9?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
 | **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Alfred Fleishman Diversity Fellowship, Art Direction/Design - Summer 2024, New York](https://jobright.ai/jobs/info/666799c049717280c92acfe5?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Jul 24 |
@@ -147,9 +149,4 @@ For a complete list, see the full spreadsheet below:
 | **[The Asia Foundation](http://asiafoundation.org)** | **[Website Intern](https://jobright.ai/jobs/info/669eda6c445b4140a485db11?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jul 22 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/669eda75445b4140a485db7f?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jul 22 |
 | **[Hammitt](https://www.hammitt.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/669ecc30d13ec8010d80f384?utm_campaign=1049&utm_source=git)** | Hermosa Beach, CA | On Site | Jul 22 |
-| **[lds.org](https://www.lds.org)** | **[Junior Graphic Designer - BYU-Pathway Worldwide (Intern)](https://jobright.ai/jobs/info/66a10ea777417df7b9f096f6?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jul 22 |
-| **[Lifetime Products](http://www.lifetime.com)** | **[Industrial Design Researcher - Intern](https://jobright.ai/jobs/info/66a3f913c344e12ad5440e36?utm_campaign=1049&utm_source=git)** | Clearfield, UT | On Site | Jul 22 |
-| **[DL1961](https://www.dl1961.com)** | **[Creative Internship Experience](https://jobright.ai/jobs/info/669e5f61255889f99435db18?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 22 |
-| **[BCI Brands](https://www.bcibrands.com)** | **[Vince Camuto Design Team Intern - IMMEDIATE START (NYC)](https://jobright.ai/jobs/info/669e6552c170bee56b299d7d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 22 |
-| **[Conservation Legacy](http://www.conservationlegacy.org)** | **[Design Professional](https://jobright.ai/jobs/info/66a0de6428125a716783e3e8?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
