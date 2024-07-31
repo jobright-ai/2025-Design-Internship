@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spence Chapin Services](http://www.spence-chapin.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66a99c2976531eb15442671c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[University of Florida](https://www.ufl.edu)** | **[Student Assistant - Graphic Designer](https://jobright.ai/jobs/info/66a978e21132c5213ee12188?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Jul 30 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Co-op Industrial Design](https://jobright.ai/jobs/info/66a96ad8ea9c3ebad61dc303?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jul 30 |
 | **[SimpleCiti](http://www.simpleciti.com)** | **[Design Intern](https://jobright.ai/jobs/info/66a95fd3b9b42aed41e7f84b?utm_campaign=1049&utm_source=git)** | Garden City, NY | Hybrid | Jul 30 |
@@ -138,5 +139,4 @@ For a complete list, see the full spreadsheet below:
 | **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Alfred Fleishman Diversity Fellowship, Art Direction/Design - Summer 2024, New York](https://jobright.ai/jobs/info/666799c049717280c92acfe5?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Jul 24 |
 | **[Cascades Inc](http://www.cascades.com)** | **[Packaging Design Intern- Lancaster](https://jobright.ai/jobs/info/6684800054017d3eb190d4f6?utm_campaign=1049&utm_source=git)** | Lancaster, NY | On Site | Jul 24 |
 | **[Vida Shoes International](http://www.vidagroup.com/)** | **[Marketing Graphic Designer Fall Intern (ON-SITE)](https://jobright.ai/jobs/info/66a1fa842c35b37e3b785e08?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 24 |
-| **[National Parks Conservation Association](http://www.npca.org/)** | **[Design Intern](https://jobright.ai/jobs/info/66a07211dd8dd729727704a8?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
