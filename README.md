@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/66ab629aba7a250964cd802b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Aug 01 |
 | **[Auburn University, Montgomery](http://www.aum.edu/)** | **[Working Warhawk II - Graphic Designer, 13 Bridges Review](https://jobright.ai/jobs/info/66ab00ceac12cd3b25551df5?utm_campaign=1049&utm_source=git)** | Montgomery, AL | On Site | Aug 01 |
 | **[Getty Images](https://www.gettyimages.com)** | **[Intern for Editorial Entertainment Photography](https://jobright.ai/jobs/info/66aae449a0e041f408d7bc2b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
 | ↳ | **[Intern for Editorial News Photography](https://jobright.ai/jobs/info/66aae0eadeae4bc2811f95f1?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Aug 01 |
@@ -69,7 +70,7 @@ For a complete list, see the full spreadsheet below:
 | **[Weber State University](https://www.weber.edu)** | **[Visual Art & Design Office Assistant](https://jobright.ai/jobs/info/66aa724853a197412c50fa24?utm_campaign=1049&utm_source=git)** | Ogden, UT | On Site | Jul 31 |
 | **[Delta Fire Systems](https://www.deltafiresystems.com/)** | **[Design Intern](https://jobright.ai/jobs/info/66aa7dc9f68fae25b67f8c08?utm_campaign=1049&utm_source=git)** | Sparks, NV | On Site | Jul 31 |
 | **[Arkansas Department of Workforce Services](https://www.dws.arkansas.gov/)** | **[Graphic Design and Marketing - Student Worker](https://jobright.ai/jobs/info/66aa7b2140d8ecacd2f6a9c1?utm_campaign=1049&utm_source=git)** | Conway, AR | On Site | Jul 31 |
-| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66a9e27481314a33d33fd443?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 31 |
+| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66aa840ad2279ae999f73cb5?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 31 |
 | **[Wolff Olins](https://www.wolffolins.com)** | **[Fall 2024 Design Internship (NY)](https://jobright.ai/jobs/info/66aa4586e19bbddd915ee869?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | ↳ | **[Fall 2024 Design Internship (NY)](https://jobright.ai/jobs/info/66aaec12731bb4be1dc89572?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Spence Chapin Services](http://www.spence-chapin.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66a99c2976531eb15442671c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 31 |
@@ -127,5 +128,4 @@ For a complete list, see the full spreadsheet below:
 | **[Alexander Wang](https://www.alexanderwang.com)** | **[Design Intern](https://jobright.ai/jobs/info/66a2a15bc1e76feabe4a6cac?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Jul 25 |
 | **[Crimson Design Group](https://crimsondesigngroup.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/66a3d345d7fee676c8404e62?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/66a272dbcb20d2e9ba86916e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 25 |
-| **[ESPN](http://espncareers.com)** | **[ESPN Creative Studio & Visual Storytelling Intern, Remote, Fall 2024](https://jobright.ai/jobs/info/66a23889ecab4402ba8f2c55?utm_campaign=1049&utm_source=git)** | Bristol, CT | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
