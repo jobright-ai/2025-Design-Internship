@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Odika Furniture](odikafurniture.com)** | **[Intern - Creative Direction / Content Creation](https://jobright.ai/jobs/info/66acf3cd0c536f3bd4ce5fff?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Aug 02 |
 | **[MINNESOTA SPORTS & ENTERTAINMENT](https://www.linkedin.com/company/55865194)** | **[Iowa Wild - Junior Graphic Designer Intern](https://jobright.ai/jobs/info/66ac944cb3297a4e03db80fa?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Aug 02 |
 | **[Chartwells Higher Education](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Florida](https://jobright.ai/jobs/info/66ac8d83f850058e3cf945a6?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Aug 02 |
 | **[lds.org](https://www.lds.org)** | **[Junior Graphic Designer - BYU-Pathway Worldwide (Intern)](https://jobright.ai/jobs/info/66a10ea777417df7b9f096f6?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
@@ -82,7 +83,7 @@ For a complete list, see the full spreadsheet below:
 | **[Empirical](https://empiricalfoods.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66aa6308795e4e07631ab447?utm_campaign=1049&utm_source=git)** | North Sioux City, SD | On Site | Jul 31 |
 | **[Weber State University](https://www.weber.edu)** | **[Visual Art & Design Office Assistant](https://jobright.ai/jobs/info/66aa724853a197412c50fa24?utm_campaign=1049&utm_source=git)** | Ogden, UT | On Site | Jul 31 |
 | **[Arkansas Department of Workforce Services](https://www.dws.arkansas.gov/)** | **[Graphic Design and Marketing - Student Worker](https://jobright.ai/jobs/info/66aa7b2140d8ecacd2f6a9c1?utm_campaign=1049&utm_source=git)** | Conway, AR | On Site | Jul 31 |
-| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66aa5ae83ed5bb44e2e6ce07?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 31 |
+| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66a9e27481314a33d33fd443?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 31 |
 | **[Wolff Olins](https://www.wolffolins.com)** | **[Fall 2024 Design Internship (NY)](https://jobright.ai/jobs/info/66aa4586e19bbddd915ee869?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | ↳ | **[Fall 2024 Design Internship (NY)](https://jobright.ai/jobs/info/66aaec12731bb4be1dc89572?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Spence Chapin Services](http://www.spence-chapin.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66a99c2976531eb15442671c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 31 |
