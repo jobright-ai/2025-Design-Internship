@@ -57,9 +57,11 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZIMO](www.zimo.me)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/66ad5957840cef59d4cedab2?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 02 |
 | **[Your Book Team](https://yourbookteam.com/)** | **[3D Graphic Design Character Specialist Intern](https://jobright.ai/jobs/info/66ad22cca2153dd0564f52a7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design (Fall Internship)](https://jobright.ai/jobs/info/66ad24870480bf22e41f834b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
 | **[Odika Furniture](odikafurniture.com)** | **[Intern - Creative Direction / Content Creation](https://jobright.ai/jobs/info/66acf3cd0c536f3bd4ce5fff?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Aug 02 |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6690c8f150a8322cf99b81e0?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Aug 02 |
 | **[MINNESOTA SPORTS & ENTERTAINMENT](https://www.linkedin.com/company/55865194)** | **[Iowa Wild - Junior Graphic Designer Intern](https://jobright.ai/jobs/info/66ac944cb3297a4e03db80fa?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Aug 02 |
 | **[Chartwells Higher Education](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Florida](https://jobright.ai/jobs/info/66ac8d83f850058e3cf945a6?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Aug 02 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Production Design Intern (Year-round)  - New York](https://jobright.ai/jobs/info/66abf2ccff1a1dde686791f5?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 01 |
