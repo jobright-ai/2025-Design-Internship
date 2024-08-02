@@ -129,6 +129,4 @@ For a complete list, see the full spreadsheet below:
 | **[lds.org](https://www.lds.org)** | **[Paid Interior Design Intern (Full-Time) - Special Projects Department](https://jobright.ai/jobs/info/66a3ef4687fb29a0df318feb?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jul 26 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Media (Seasonal 2024-25)](https://jobright.ai/jobs/info/66a40dc1dfc0dce26146212f?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Jul 26 |
 | **[RQ Construction](http://rqconstruction.com)** | **[Design Intern](https://jobright.ai/jobs/info/66a4e4a8a26b0a8bab19f0c9?utm_campaign=1049&utm_source=git)** | Carlsbad, CA | On Site | Jul 26 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6672ce774b9042a3b2064377?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 26 |
-| **[MJH Life Sciences](https://www.mjhlifesciences.com/)** | **[2024 Summer Intern - Creative & Editorial](https://jobright.ai/jobs/info/6631c54de29394579b1bd27d?utm_campaign=1049&utm_source=git)** | North Olmsted, OH | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
