@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Callidus Agency](http://callidusagency.com)** | **[Graphic Designer Internship](https://jobright.ai/jobs/info/66ac3e658b7a337889b2f5b2?utm_campaign=1049&utm_source=git)** | Allentown, PA | On Site | Aug 02 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Production Design Intern (Year-round)  - New York](https://jobright.ai/jobs/info/66abf2ccff1a1dde686791f5?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 01 |
 | **[Perisphere](https://www.perisphere.io/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66abda12810cde333a24aa28?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Aug 01 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Intern](https://jobright.ai/jobs/info/66abe863eb5341937cd59116?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 01 |
@@ -67,6 +68,7 @@ For a complete list, see the full spreadsheet below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect](https://jobright.ai/jobs/info/66ab9120a836935dd81ff0ee?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Aug 01 |
 | **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/66ab629aba7a250964cd802b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Aug 01 |
 | **[Auburn University, Montgomery](http://www.aum.edu/)** | **[Working Warhawk II - Graphic Designer, 13 Bridges Review](https://jobright.ai/jobs/info/66ab00ceac12cd3b25551df5?utm_campaign=1049&utm_source=git)** | Montgomery, AL | On Site | Aug 01 |
+| **[Vimergy](https://www.vimergy.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/667ec8fde3e05fc18a9d7646?utm_campaign=1049&utm_source=git)** | Coral Springs, FL | Hybrid | Aug 01 |
 | **[Getty Images](https://www.gettyimages.com)** | **[Intern for Editorial Entertainment Photography](https://jobright.ai/jobs/info/66aae449a0e041f408d7bc2b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
 | ↳ | **[Intern for Editorial News Photography](https://jobright.ai/jobs/info/66aae0eadeae4bc2811f95f1?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Aug 01 |
 | **[KeyBank](https://www.key.com)** | **[2025 Summer CX+EX (Experience Design Track) Internship - Cleveland](https://jobright.ai/jobs/info/66abdb78550bd1b60dccd320?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Aug 01 |
@@ -77,7 +79,7 @@ For a complete list, see the full spreadsheet below:
 | **[Empirical](https://empiricalfoods.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66aa6308795e4e07631ab447?utm_campaign=1049&utm_source=git)** | North Sioux City, SD | On Site | Jul 31 |
 | **[Weber State University](https://www.weber.edu)** | **[Visual Art & Design Office Assistant](https://jobright.ai/jobs/info/66aa724853a197412c50fa24?utm_campaign=1049&utm_source=git)** | Ogden, UT | On Site | Jul 31 |
 | **[Arkansas Department of Workforce Services](https://www.dws.arkansas.gov/)** | **[Graphic Design and Marketing - Student Worker](https://jobright.ai/jobs/info/66aa7b2140d8ecacd2f6a9c1?utm_campaign=1049&utm_source=git)** | Conway, AR | On Site | Jul 31 |
-| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66a9e27481314a33d33fd443?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 31 |
+| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66aa5ae83ed5bb44e2e6ce07?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 31 |
 | **[Wolff Olins](https://www.wolffolins.com)** | **[Fall 2024 Design Internship (NY)](https://jobright.ai/jobs/info/66aa4586e19bbddd915ee869?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | ↳ | **[Fall 2024 Design Internship (NY)](https://jobright.ai/jobs/info/66aaec12731bb4be1dc89572?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Spence Chapin Services](http://www.spence-chapin.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66a99c2976531eb15442671c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 31 |
