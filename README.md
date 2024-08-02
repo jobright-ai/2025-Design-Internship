@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MINNESOTA SPORTS & ENTERTAINMENT](https://www.linkedin.com/company/55865194)** | **[Iowa Wild - Junior Graphic Designer Intern](https://jobright.ai/jobs/info/66ac944cb3297a4e03db80fa?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Aug 02 |
 | **[Chartwells Higher Education](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Florida](https://jobright.ai/jobs/info/66ac8d83f850058e3cf945a6?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Aug 02 |
 | **[Callidus Agency](http://callidusagency.com)** | **[Graphic Designer Internship](https://jobright.ai/jobs/info/66ac3e658b7a337889b2f5b2?utm_campaign=1049&utm_source=git)** | Allentown, PA | On Site | Aug 02 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Production Design Intern (Year-round)  - New York](https://jobright.ai/jobs/info/66abf2ccff1a1dde686791f5?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 01 |
