@@ -85,7 +85,7 @@ For a complete list, see the full spreadsheet below:
 | **[Shaw Industries Group](https://shawinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66aa66886cd586ba633cc930?utm_campaign=1049&utm_source=git)** | Dalton, GA | Hybrid | Jul 31 |
 | **[Empirical](https://empiricalfoods.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66aa6308795e4e07631ab447?utm_campaign=1049&utm_source=git)** | North Sioux City, SD | On Site | Jul 31 |
 | **[Arkansas Department of Workforce Services](https://www.dws.arkansas.gov/)** | **[Graphic Design and Marketing - Student Worker](https://jobright.ai/jobs/info/66aa7b2140d8ecacd2f6a9c1?utm_campaign=1049&utm_source=git)** | Conway, AR | On Site | Jul 31 |
-| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66aa840ad2279ae999f73cb5?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 31 |
+| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66a9e27481314a33d33fd443?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 31 |
 | **[Wolff Olins](https://www.wolffolins.com)** | **[Fall 2024 Design Internship (NY)](https://jobright.ai/jobs/info/66aa4586e19bbddd915ee869?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | ↳ | **[Fall 2024 Design Internship (NY)](https://jobright.ai/jobs/info/66aaec12731bb4be1dc89572?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Spence Chapin Services](http://www.spence-chapin.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66a99c2976531eb15442671c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 31 |
@@ -124,6 +124,4 @@ For a complete list, see the full spreadsheet below:
 | **[Conservation Legacy](http://www.conservationlegacy.org)** | **[Sr Interior Design Professional](https://jobright.ai/jobs/info/66a46cd85b77fbaa5c678533?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 27 |
 | ↳ | **[Sr Interior Design Professional](https://jobright.ai/jobs/info/66a46a4d3d73b8ffff0c4267?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 27 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Graphic Designer - Auburn Advancement](https://jobright.ai/jobs/info/66a47b9d2cf8b7993b355108?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jul 27 |
-| **[Patient-Centered Outcomes Research Institute](http://pcori.org)** | **[Fall Intern - DIGITAL, User Experience / Interaction Design](https://jobright.ai/jobs/info/66a3e866b020465e7d35ccc2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 27 |
-| **[Ripple](http://ripple.com)** | **[Digital Design Intern](https://jobright.ai/jobs/info/66a32f53b11b852910a8207c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
