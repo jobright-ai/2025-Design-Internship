@@ -58,7 +58,6 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ZIMO](www.zimo.me)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/66ad5957840cef59d4cedab2?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 02 |
-| **[Your Book Team](https://yourbookteam.com/)** | **[3D Graphic Design Character Specialist Intern](https://jobright.ai/jobs/info/66ad22cca2153dd0564f52a7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design (Fall Internship)](https://jobright.ai/jobs/info/66ad24870480bf22e41f834b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
 | **[Odika Furniture](odikafurniture.com)** | **[Intern - Creative Direction / Content Creation](https://jobright.ai/jobs/info/66acf3cd0c536f3bd4ce5fff?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Aug 02 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6690c8f150a8322cf99b81e0?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Aug 02 |
@@ -120,5 +119,4 @@ For a complete list, see the full spreadsheet below:
 | **[Conservation Legacy](http://www.conservationlegacy.org)** | **[Sr Interior Design Professional](https://jobright.ai/jobs/info/66a77650ef6b2f30b3858c09?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 27 |
 | **[Delta Air Lines](http://www.delta.com)** | **[Intern, Innovation Designer (Fall 2024)](https://jobright.ai/jobs/info/66887ec9c8bd0591bd81c6d8?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 27 |
 | ↳ | **[Graduate Intern, Innovation Designer (Fall 2024)](https://jobright.ai/jobs/info/66887ebec8bd0591bd81c63e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 27 |
-| **[Charleston Battery](https://www.charlestonbattery.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66a486842b3805d3aaf0b304?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
