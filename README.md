@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef49d352e5bf961123f13?utm_campaign=1049&utm_source=git)** | Elon, NC | On Site | Aug 04 |
 | **[GALA](https://sites.google.com/view/galaprotocol/home?authuser=0)** | **[Graphic Designer Internship](https://jobright.ai/jobs/info/66aed24105ea9b844374ce40?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Pep LLC](http://www.peppromotions.com/)** | **[Design Intern](https://jobright.ai/jobs/info/66751b5d1345ca9e335e7614?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 03 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6674ce04f7e94a7581ad181a?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 03 |
