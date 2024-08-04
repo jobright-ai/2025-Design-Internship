@@ -61,14 +61,15 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Digital Design Intern](https://jobright.ai/jobs/info/66af632ed6c7e581f1848d33?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 04 |
 | **[IBI Group](https://www.ibigroup.com/)** | **[Architecture Intern- Washington, DC](https://jobright.ai/jobs/info/66592c55fb1dd944df45b6b4?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 04 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/664e491de2794cc911da59d7?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Aug 04 |
+| **[Nexstar Media Group](http://www.nexstar.tv)** | **[Creative/Promo/Production Intern](https://jobright.ai/jobs/info/664f8866b4296966b65ee564?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Aug 04 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Designer Co-op](https://jobright.ai/jobs/info/66741e718f8ed70066b4bf6e?utm_campaign=1049&utm_source=git)** | Racine, WI | On Site | Aug 04 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/650ed9ce4bb8a0ba95012668?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Aug 04 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[UX/UI Intern](https://jobright.ai/jobs/info/66af2fdff8e9b337f5a5c0b8?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Aug 04 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f30?utm_campaign=1049&utm_source=git)** | Macon, GA | On Site | Aug 04 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f32?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Aug 04 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f31?utm_campaign=1049&utm_source=git)** | Missoula, MT | On Site | Aug 04 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f38?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f32?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Aug 04 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f36?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f38?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
 | **[lds.org](https://www.lds.org)** | **[Junior Graphic Designer - BYU-Pathway Worldwide (Intern)](https://jobright.ai/jobs/info/66af93833af1dbc7eb9b07c0?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 03 |
 | **[Pep LLC](http://www.peppromotions.com/)** | **[Design Intern](https://jobright.ai/jobs/info/66751b5d1345ca9e335e7614?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 03 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6674ce04f7e94a7581ad181a?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 03 |
