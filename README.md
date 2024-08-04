@@ -59,10 +59,10 @@ For a complete list, see the full spreadsheet below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[myGwork](https://www.mygwork.com/en/)** | **[UX/UI Intern](https://jobright.ai/jobs/info/66af2fdff8e9b337f5a5c0b8?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Aug 04 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f30?utm_campaign=1049&utm_source=git)** | Macon, GA | On Site | Aug 04 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f31?utm_campaign=1049&utm_source=git)** | Missoula, MT | On Site | Aug 04 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f32?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Aug 04 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f36?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f31?utm_campaign=1049&utm_source=git)** | Missoula, MT | On Site | Aug 04 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f38?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f36?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef49d352e5bf961123f13?utm_campaign=1049&utm_source=git)** | Elon, NC | On Site | Aug 04 |
 | **[GALA](https://sites.google.com/view/galaprotocol/home?authuser=0)** | **[Graphic Designer Internship](https://jobright.ai/jobs/info/66aed24105ea9b844374ce40?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Pep LLC](http://www.peppromotions.com/)** | **[Design Intern](https://jobright.ai/jobs/info/66751b5d1345ca9e335e7614?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 03 |
