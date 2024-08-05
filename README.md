@@ -66,10 +66,10 @@ For a complete list, see the full spreadsheet below:
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/650ed9ce4bb8a0ba95012668?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Aug 04 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[UX/UI Intern](https://jobright.ai/jobs/info/66af2fdff8e9b337f5a5c0b8?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Aug 04 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f30?utm_campaign=1049&utm_source=git)** | Macon, GA | On Site | Aug 04 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f31?utm_campaign=1049&utm_source=git)** | Missoula, MT | On Site | Aug 04 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f32?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Aug 04 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f38?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f31?utm_campaign=1049&utm_source=git)** | Missoula, MT | On Site | Aug 04 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f36?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66aef94ed9ae3c1cb4706f38?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
 | **[lds.org](https://www.lds.org)** | **[Junior Graphic Designer - BYU-Pathway Worldwide (Intern)](https://jobright.ai/jobs/info/66af93833af1dbc7eb9b07c0?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 03 |
 | **[Pep LLC](http://www.peppromotions.com/)** | **[Design Intern](https://jobright.ai/jobs/info/66751b5d1345ca9e335e7614?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 03 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6674ce04f7e94a7581ad181a?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 03 |
@@ -101,7 +101,7 @@ For a complete list, see the full spreadsheet below:
 | **[Shaw Industries Group](https://shawinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66aa66886cd586ba633cc930?utm_campaign=1049&utm_source=git)** | Dalton, GA | Hybrid | Jul 31 |
 | **[Delta Fire Systems](https://www.deltafiresystems.com/)** | **[Design Intern](https://jobright.ai/jobs/info/66af9f3e6be6897cc243e74f?utm_campaign=1049&utm_source=git)** | Sparks, NV | On Site | Jul 31 |
 | **[Empirical](https://empiricalfoods.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66aa6308795e4e07631ab447?utm_campaign=1049&utm_source=git)** | North Sioux City, SD | On Site | Jul 31 |
-| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66a9e27481314a33d33fd443?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 31 |
+| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/66aa840ad2279ae999f73cb5?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 31 |
 | **[Wolff Olins](https://www.wolffolins.com)** | **[Fall 2024 Design Internship (NY)](https://jobright.ai/jobs/info/66aa4586e19bbddd915ee869?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | ↳ | **[Fall 2024 Design Internship (NY)](https://jobright.ai/jobs/info/66aaec12731bb4be1dc89572?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Spence Chapin Services](http://www.spence-chapin.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66a99c2976531eb15442671c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 31 |
@@ -128,5 +128,4 @@ For a complete list, see the full spreadsheet below:
 | **[American Honda Motor Company](https://www.honda.com/)** | **[Design User Experience Co-op/Intern - Summer 2025](https://jobright.ai/jobs/info/66959b86a70b2fb207aed7b8?utm_campaign=1049&utm_source=git)** | Raymond, OH | On Site | Jul 29 |
 | **[Collins & Associates](https://www.insuredwithcollins.com)** | **[Digital Design Co-Op](https://jobright.ai/jobs/info/66a7e42f7c2992993b30f352?utm_campaign=1049&utm_source=git)** | Grand Rapids Metro | On Site | Jul 29 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/66a7d1ffd2a28b25abc8712c?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jul 29 |
-| **[JCDecaux](http://www.jcdecaux.com)** | **[Photography/Retouching Co-op Intern](https://jobright.ai/jobs/info/66a820a70ea73e0b8debf38c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
