@@ -67,22 +67,22 @@ Washington, United States | Hybrid | Aug 11 |
 | **[Abercrombie & Fitch](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2024](https://jobright.ai/jobs/info/65d21d30fd7208621bd0fded?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Aug 11 |
 | **[Munchkin](http://www.munchkin.com)** | **[Industrial Design Intern (Fall 2024)](https://jobright.ai/jobs/info/6677c86464f2e472ffd64190?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 11 |
 | **[HOKA](https://www.hoka.com)** | **[HOKA Footwear Design Intern - Performance](https://jobright.ai/jobs/info/667f3b3e61f2588c34187ad1?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Aug 11 |
-| **[A. N. Publishing](https://www.anpublishing.com/)** | **[Graphic Designer & Video Creation (Intern)](https://jobright.ai/jobs/info/66b88afea83fbdf6a87b5be6?utm_campaign=1049&utm_source=git)** | Multi Location
-New York, NY
-New York County, NY | On Site | Aug 11 |
+| **[Eryn AI, Corp](https://eryn.ai/)** | **[Design UX/UI Intern (Unpaid)](https://jobright.ai/jobs/info/66b98300decbd8ce73897619?utm_campaign=1049&utm_source=git)** | Atlanta Metro | On Site | Aug 11 |
 | **[LDR Advisory Partners](https://ldradvisory.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66b7f1ba56bc132887171a06?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Aug 10 |
 | **[Harley Ellis Devereaux (HED)](http://hed.design)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/669b776722734219f8c1afb0?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | Hybrid | Aug 10 |
-| **[Bridgeport Islanders](http://bridgeportislanders.com)** | **[Intern, Photography](https://jobright.ai/jobs/info/66b8aa9003a7838edf231299?utm_campaign=1049&utm_source=git)** | Floral Park, NY | On Site | Aug 10 |
+| **[A. N. Publishing](https://www.anpublishing.com/)** | **[Graphic Designer & Video Creation (Intern)](https://jobright.ai/jobs/info/66b89b6f5799e4fcd3fdb93c?utm_campaign=1049&utm_source=git)** | New York County, NY | On Site | Aug 10 |
 | **[Johnson County Community College](http://www.jccc.edu)** | **[MTC Graphic Design Intern](https://jobright.ai/jobs/info/669b02f692553d9511d71129?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Aug 10 |
 | **[Talbots](http://www.talbots.com)** | **[Apparel Design Intern - Woven Tops - Fall 2024 (for credit only)](https://jobright.ai/jobs/info/667df2e5a8cfb857af6f168c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 10 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Summer Creative Assistant](https://jobright.ai/jobs/info/6644a8e86aa28f8a337ddf72?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | On Site | Aug 10 |
 | **[TGW North America](https://www.tgw-group.com/us)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/669aa50bcff5836d3109b8e4?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Aug 10 |
 | **[Layton Construction](http://www.laytonconstruction.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/667df2baa8cfb857af6f133e?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Aug 10 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Emo Nite - Design Intern](https://jobright.ai/jobs/info/667e4dd95aa5edc421523ed2?utm_campaign=1049&utm_source=git)** | Calabasas, CA | On Site | Aug 10 |
+| **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Designer](https://jobright.ai/jobs/info/669afdbb6857f87d380fcbc7?utm_campaign=1049&utm_source=git)** | Multi Location
+Chicago, IL
+Chicago | Hybrid | Aug 10 |
 | **[ANSYS](http://www.ansys.com)** | **[Spring 2025 UX Intern (BS or MS)](https://jobright.ai/jobs/info/667df612d01f1b50f25ca15d?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Aug 10 |
 | **[Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu/)** | **[Web Designer Student Assistant](https://jobright.ai/jobs/info/66b6c2bf67f8dc2fd440b678?utm_campaign=1049&utm_source=git)** | College Station, TX | On Site | Aug 09 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/66b3edb61e478f617a7c56aa?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Aug 09 |
-| **[Vivir](www.viviroptima.com)** | **[Creative Intern](https://jobright.ai/jobs/info/66b66310a7fd4cd6b91bfb81?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 09 |
 | **[State Industrial Products](http://stateindustrial.com)** | **[Visual Media Intern](https://jobright.ai/jobs/info/66b7b32a2e38167220ad0e48?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Aug 09 |
 | **[The Tombras Group](http://tombras.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/66b661b5884242ce836425e1?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 09 |
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/66b661b5884242ce836425e2?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 09 |
@@ -156,4 +156,7 @@ Plano, TX | Hybrid | Aug 07 |
 | **[Google](https://www.google.com)** | **[User Experience Design Apprenticeship, January 2025 Start](https://jobright.ai/jobs/info/66b0f0722aa46b6e3ec7ef0e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[JBIER](https://www.jbierboutique.com)** | **[Website Design, Photography, and Videography Intern](https://jobright.ai/jobs/info/66b0e26e2181c3e4215a57ed?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 05 |
 | **[Perkins & Will](http://perkinswill.com)** | **[Intern - Architecture Students](https://jobright.ai/jobs/info/665a02ea885fdd850b3ed2fb?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Aug 05 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect](https://jobright.ai/jobs/info/6676a096573f97cc9db08d7f?utm_campaign=1049&utm_source=git)** | Multi Location
+Tampa, FL
+Houston, TX | Hybrid | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
