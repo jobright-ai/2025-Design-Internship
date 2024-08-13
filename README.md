@@ -57,7 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Parrot Finance](https://www.parrotfinance.io/)** | **[User Experience Researcher Intern](https://jobright.ai/jobs/info/66baa37c7c5957dc2d20b744?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 12 |
+| **[M&K Truck Centers](http://mktruckcenters.com)** | **[Part-time Graphic Designer](https://jobright.ai/jobs/info/66bace48ceebe88512f6ddd3?utm_campaign=1049&utm_source=git)** | Wyoming, MI | On Site | Aug 12 |
+| **[The Dennis Group](http://dennisgrp.com)** | **[Architect (Industrial) - Internship/Co-Op (Start May 2025)](https://jobright.ai/jobs/info/66bad2e067e278d84bf74d95?utm_campaign=1049&utm_source=git)** | Carlsbad, CA | Hybrid | Aug 12 |
 | **[80 Acres Farms](https://www.80acresfarms.com)** | **[Architecture Intern (Fall)](https://jobright.ai/jobs/info/66ba9bf7ffde1d9fe7800c40?utm_campaign=1049&utm_source=git)** | Hamilton, OH | On Site | Aug 12 |
 | **[Procter & Gamble Company](https://us.pg.com/)** | **[Design Co-op Spring 2025](https://jobright.ai/jobs/info/66ba964ff7734a8fe7e37bf2?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2024 Home Brand Product Design Internship](https://jobright.ai/jobs/info/66ba7fc925d4def33640aa27?utm_campaign=1049&utm_source=git)** | San Rafael, CA | On Site | Aug 12 |
@@ -67,15 +68,14 @@ For a complete list, see the full spreadsheet below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2024 Retail Design and Brand Experience Internship](https://jobright.ai/jobs/info/66ba6bc91d061d5bd587d649?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 12 |
 | **[Indira Cesarine Studio](http://indiracesarine.com)** | **[Photography + Video Internship](https://jobright.ai/jobs/info/66ba647d97922dded73e743e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 12 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2024 Photography Internship](https://jobright.ai/jobs/info/6696a0e21e4c13c6a6969e71?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 12 |
-| **[Callidus Agency](http://callidusagency.com)** | **[Graphic Designer Internship](https://jobright.ai/jobs/info/66ba3371abe22637cfe1ab1c?utm_campaign=1049&utm_source=git)** | Allentown, PA | On Site | Aug 12 |
+| **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6677cdd074ec1a95a89afa2f?utm_campaign=1049&utm_source=git)** | Multi Location
+Washington, United States
+Washington, DC | Hybrid | Aug 12 |
 | **[KNOXVILLE CHAMBER](https://www.knoxvillechamber.com)** | **[Marketing Graphic Design Student](https://jobright.ai/jobs/info/66ba030c54f867a09ab66e6f?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 12 |
 | **[E.L.F. Beauty](https://www.elfbeauty.com)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/66ba76662d1f86b307f3ea6b?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Aug 12 |
 | **[Maverick MKG](https://www.maverickmkg.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/66b8d67cc3665a2f86349cb0?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 11 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student Graphic Designer - SOA](https://jobright.ai/jobs/info/66b8ea68b42994183ec57cae?utm_campaign=1049&utm_source=git)** | Provo, UT | On Site | Aug 11 |
 | **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/6679561239ca2f81c4371335?utm_campaign=1049&utm_source=git)** | Multi Location
-Washington, DC
-Washington, United States | Hybrid | Aug 11 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6677c80964f2e472ffd63b6c?utm_campaign=1049&utm_source=git)** | Multi Location
 Washington, DC
 Washington, United States | Hybrid | Aug 11 |
 | **[Menasha Corp](http://www.menashacorporation.com/)** | **[Electrical Pre-Press (EPP) Graphic Design Co-Op (August-Dec 2024)](https://jobright.ai/jobs/info/6677d2bd97271e26801e330d?utm_campaign=1049&utm_source=git)** | Neenah, WI | On Site | Aug 11 |
@@ -115,7 +115,6 @@ Culver City, California | Hybrid | Aug 09 |
 | **[TowerPinkster](http://towerpinkster.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/66b57774ee7ce4d2001563cc?utm_campaign=1049&utm_source=git)** | Multi Location
 Kalamazoo, MI
 Grand Rapids, MI | On Site | Aug 09 |
-| **[Persimmon](https://www.persimmon.life/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66b56e2bedc57df79491188b?utm_campaign=1049&utm_source=git)** | Larkspur, CA | Hybrid | Aug 09 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Experiential Creative Intern](https://jobright.ai/jobs/info/6697ad9b1c55d63f4b198e2f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Apple Box Studios](https://www.appleboxstudios.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66b535e485e11291f6388033?utm_campaign=1049&utm_source=git)** | Carnegie, PA | On Site | Aug 08 |
 | **[Midwestern Pet Foods](https://midwesternpetfoods.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66b529be5109f67a88a65d59?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Aug 08 |
@@ -137,14 +136,15 @@ Grand Rapids, MI | On Site | Aug 09 |
 | **[Altronic](http://www.altronicinc.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66b781ae2c9f8afa7d5c59d2?utm_campaign=1049&utm_source=git)** | Girard, OH | On Site | Aug 07 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) CMF Design Co-op: June to December 2024](https://jobright.ai/jobs/info/66b60f71dad95dd23b43eac6?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 07 |
 | **[TLF Apparel](https://tlfapparel.com/)** | **[Fashion/Apparel Design Paid Internship (LOCAL CANDIDATES ONLY)](https://jobright.ai/jobs/info/66b9fd803aa6067914be460a?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 07 |
+| **[High Scale](https://highscale.ai/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/66b3745f2892b8f36b8be0e1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Fall 2024](https://jobright.ai/jobs/info/6691ab4fd78bfc47e3ab1eeb?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 07 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) Social Graphic Designer Co-op: July to December 2024](https://jobright.ai/jobs/info/66ae6d788f72acb612ab1939?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 07 |
 | **[Hush Studios](http://heyhush.com/)** | **[Intern: Architectural Design](https://jobright.ai/jobs/info/66b32822b9d3b8a70ee737a1?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Aug 07 |
 | ↳ | **[Intern: Design](https://jobright.ai/jobs/info/66b32822b9d3b8a70ee737a6?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Aug 07 |
 | **[Capital One](http://www.capitalone.com)** | **[Design Development Internship Program - Summer 2025](https://jobright.ai/jobs/info/66b2ce72cf30691ba46f5cde?utm_campaign=1049&utm_source=git)** | Multi Location
 McLean, VA
-Richmond, VA
-Plano, TX | Hybrid | Aug 07 |
+Plano, TX
+Richmond, VA | Hybrid | Aug 07 |
 | **[Florida International University](https://www.fiu.edu)** | **[2024-2025 Housing Residential Experience, Student Marketing & Graphic Design Assistant](https://jobright.ai/jobs/info/66b2e3069e118188dd193b36?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 07 |
 | **[Clarion Media Group](https://clarion1822.com/)** | **[Passionfruit Content Creator](https://jobright.ai/jobs/info/66b2d20c76a425dc6f2744b8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Aug 07 |
 | **[New York Islanders](http://newyorkislanders.com)** | **[Intern, Photography](https://jobright.ai/jobs/info/66b41393a2cd8e194adf97d4?utm_campaign=1049&utm_source=git)** | Floral Park, NY | On Site | Aug 07 |
