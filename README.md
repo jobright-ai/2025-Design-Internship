@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark AI](https://www.genpark.ai)** | **[User Experience Designer](https://jobright.ai/jobs/info/66bdc27d7076670c3c12fb7b?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 15 |
+| **[Connect link](https://myconnectlink.com/)** | **[3D Graphic Artist](https://jobright.ai/jobs/info/66bdad236c7692aad2516d44?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 15 |
 | **[Conservation Legacy](http://www.conservationlegacy.org)** | **[Sr Interior Design Professional](https://jobright.ai/jobs/info/66bd7d9e8ab27b01c145a9de?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | **[Woolpert](http://www.woolpert.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/66bd4b925b9a2f3b7f826298?utm_campaign=1049&utm_source=git)** | Bay St Louis, MS | Hybrid | Aug 14 |
 | **[Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu/)** | **[Web Designer Student Assistant](https://jobright.ai/jobs/info/66bd57afacb21d951cade2fd?utm_campaign=1049&utm_source=git)** | College Station, TX | On Site | Aug 14 |
@@ -70,11 +72,10 @@ For a complete list, see the full spreadsheet below:
 | **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Alfred Fleishman Diversity Fellowship, Art Direction/Design - Summer 2024, New York](https://jobright.ai/jobs/info/666799c049717280c92acfe5?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Aug 14 |
 | **[IINE](https://iine.org/)** | **[[Fall 2024] Multimedia & Photography Intern, IINE Boston](https://jobright.ai/jobs/info/66a00c62353276c071fe9292?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Aug 14 |
 | **[Retell AI](https://retellai.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/66bc586074429fe1cd0608b8?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Aug 14 |
-| **[Capital One](http://www.capitalone.com)** | **[Design Development Internship Program - Summer 2025](https://jobright.ai/jobs/info/66bc0c3cd4f2f09d357818b9?utm_campaign=1049&utm_source=git)** | Multi Location
-Plano, TX
+| **[Capital One](http://www.capitalone.com)** | **[Design Development Internship Program - Summer 2025](https://jobright.ai/jobs/info/66bc0c3cd4f2f09d357818ec?utm_campaign=1049&utm_source=git)** | Multi Location
 Richmond, VA
+Plano, TX
 McLean, VA | Hybrid | Aug 14 |
-| **[KeyBank](https://www.key.com)** | **[2025 Summer KeyBank Motion Graphics Designer/Animator Intern](https://jobright.ai/jobs/info/66b1125d14d4fe22643412cb?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Aug 14 |
 | **[Chargezoom](https://chargezoom.com)** | **[Graphic Designer (Internship Opportunity)](https://jobright.ai/jobs/info/66bc2d503fc2b4b25dd933c5?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
 | **[Perry Homes - A Trusted Texas Builder In Its 50th Year](http://perryhomes.com)** | **[2025 Summer Internship - Design (Architecture)](https://jobright.ai/jobs/info/66bd3ed296320f62d18263eb?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Aug 14 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Photographer](https://jobright.ai/jobs/info/66bce328ef46ea553807854a?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Aug 14 |
@@ -87,9 +88,6 @@ McLean, VA | Hybrid | Aug 14 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Technology UX Design](https://jobright.ai/jobs/info/66bbb722d7b1c3615bda6217?utm_campaign=1049&utm_source=git)** | Purchase, NY | On Site | Aug 13 |
 | **[The Forward Female](http://www.forwardfemale.com)** | **[Website & Graphic Design Intern](https://jobright.ai/jobs/info/66bba097e8d5030da5df1eef?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 13 |
 | **[PostNetNJ123](https://locations.postnet.com/nj/sewell/288-egg-harbor-rd)** | **[Graphic Designer/Production Intern](https://jobright.ai/jobs/info/66bcb18e4652b549b6fe4347?utm_campaign=1049&utm_source=git)** | Sewell, NJ | On Site | Aug 13 |
-| **[Kiss Products](https://www.kissusa.com)** | **[UI/UX & Web Production Intern](https://jobright.ai/jobs/info/66bb7ff796468e1a4c7e471a?utm_campaign=1049&utm_source=git)** | Multi Location
-Port Washington, NY
-HQ_Port Washington, NY | On Site | Aug 13 |
 | **[Shaw Industries Group](https://shawinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66bb59e02481df94996c24b7?utm_campaign=1049&utm_source=git)** | Dalton, GA | Hybrid | Aug 13 |
 | **[Allied Integrated Marketing](http://alliedim.com/)** | **[Experiential Creative Intern](https://jobright.ai/jobs/info/66bc45e5d017133143b8d2cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[GSD&M](http://www.gsdm.com)** | **[Fall 2024 - Creative (Writer) Assistant](https://jobright.ai/jobs/info/66b781ae2c9f8afa7d5c5ac9?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Aug 13 |
@@ -99,6 +97,9 @@ HQ_Port Washington, NY | On Site | Aug 13 |
 | **[Auburn University](https://www.auburn.edu/)** | **[TES War Eagle Creative Intern](https://jobright.ai/jobs/info/66bb94c8d7e59baa30f752bf?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Aug 13 |
 | **[Konrad Group](https://www.konrad.com)** | **[UI/UX Design, Intern - June 2025 (3 months)](https://jobright.ai/jobs/info/66bc02f9e05a591086073279?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Aug 13 |
 | **[Cincinnati](https://www.e-ci.com)** | **[Graphic Design/Communication Design Co-op (Spring 25)](https://jobright.ai/jobs/info/66bbac5fcedd1778150f8f58?utm_campaign=1049&utm_source=git)** | Harrison, OH | On Site | Aug 13 |
+| **[Kiss Products](https://www.kissusa.com)** | **[UI/UX & Web Production Intern](https://jobright.ai/jobs/info/66bbb78c5fe2cd2f90c90dd9?utm_campaign=1049&utm_source=git)** | Multi Location
+HQ_Port Washington, NY
+Port Washington, NY | On Site | Aug 13 |
 | **[M&K Truck Centers](http://mktruckcenters.com)** | **[Part-time Graphic Designer](https://jobright.ai/jobs/info/66bace48ceebe88512f6ddd3?utm_campaign=1049&utm_source=git)** | Wyoming, MI | On Site | Aug 12 |
 | **[The Dennis Group](http://dennisgrp.com)** | **[Architect (Industrial) - Internship/Co-Op (Start May 2025)](https://jobright.ai/jobs/info/66bad2e067e278d84bf74d95?utm_campaign=1049&utm_source=git)** | Carlsbad, CA | Hybrid | Aug 12 |
 | **[80 Acres Farms](https://www.80acresfarms.com)** | **[Architecture Intern (Fall)](https://jobright.ai/jobs/info/66ba9bf7ffde1d9fe7800c40?utm_campaign=1049&utm_source=git)** | Hamilton, OH | On Site | Aug 12 |
@@ -113,15 +114,15 @@ HQ_Port Washington, NY | On Site | Aug 13 |
 | **[Indira Cesarine Studio](http://indiracesarine.com)** | **[Photography + Video Internship](https://jobright.ai/jobs/info/66ba647d97922dded73e743e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 12 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2024 Photography Internship](https://jobright.ai/jobs/info/6696a0e21e4c13c6a6969e71?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 12 |
 | **[Brad Hall Fuel](https://bradhallfuel.com)** | **[Digital Designer (Intern/Marketing)](https://jobright.ai/jobs/info/66bb3d81e0dc6e9aeba807aa?utm_campaign=1049&utm_source=git)** | Gilbert, AZ | On Site | Aug 12 |
+| **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6677cdd074ec1a95a89afa2f?utm_campaign=1049&utm_source=git)** | Multi Location
+Washington, United States
+Washington, DC | Hybrid | Aug 12 |
 | **[KNOXVILLE CHAMBER](https://www.knoxvillechamber.com)** | **[Marketing Graphic Design Student](https://jobright.ai/jobs/info/66ba030c54f867a09ab66e6f?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 12 |
 | **[Utah Grizzlies](https://www.utahgrizzlies.com/en#tab_standings-groups-leaders-conference-eastern=north&tab_standings-groups-leaders-conference-western=mountain&tab_standings-groups-leaders=western&tab_statistics-players-leaders=forwards)** | **[Photography/Videography Internship](https://jobright.ai/jobs/info/66bc45e5d017133143b8d31e?utm_campaign=1049&utm_source=git)** | West Valley City, UT | Hybrid | Aug 12 |
 | **[Innovative Office Solutions](http://innovativeos.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/66bd86f010700f472e206d90?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Aug 12 |
 | **[E.L.F. Beauty](https://www.elfbeauty.com)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/66ba76662d1f86b307f3ea6b?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Aug 12 |
 | **[Cindy Castro New York](https://www.cindycastro.com)** | **[Fashion Design Internship / Fall 24](https://jobright.ai/jobs/info/66bd389e2d89931d24c4fdb4?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 11 |
 | **[Maverick MKG](https://www.maverickmkg.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/66b8d67cc3665a2f86349cb0?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 11 |
-| **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6677c80964f2e472ffd63b6c?utm_campaign=1049&utm_source=git)** | Multi Location
-Washington, DC
-Washington, United States | Hybrid | Aug 11 |
 | **[Menasha Corp](http://www.menashacorporation.com/)** | **[Electrical Pre-Press (EPP) Graphic Design Co-Op (August-Dec 2024)](https://jobright.ai/jobs/info/6677d2bd97271e26801e330d?utm_campaign=1049&utm_source=git)** | Neenah, WI | On Site | Aug 11 |
 | **[Abercrombie & Fitch](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2024](https://jobright.ai/jobs/info/65d21d30fd7208621bd0fded?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Aug 11 |
 | **[Munchkin](http://www.munchkin.com)** | **[Industrial Design Intern (Fall 2024)](https://jobright.ai/jobs/info/6677c86464f2e472ffd64190?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 11 |
@@ -141,6 +142,9 @@ Washington, DC | On Site | Aug 10 |
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/66b661b5884242ce836425e2?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 09 |
 | ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/66b64ffe157c49d41227d175?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 09 |
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Photography Assistant](https://jobright.ai/jobs/info/66b63ece77e1bdd3ff85d16c?utm_campaign=1049&utm_source=git)** | Lawrence, KS | On Site | Aug 09 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Development Intern, Sony Pictures Animation – Fall 2024](https://jobright.ai/jobs/info/66b63933c175fa709cdc7d27?utm_campaign=1049&utm_source=git)** | Multi Location
+Culver City, CA
+Culver City, California | Hybrid | Aug 09 |
 | **[Li & Fung](http://www.lifung.com)** | **[Menswear Design Intern](https://jobright.ai/jobs/info/66b60e6f1e3f2d868c102797?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Aug 09 |
 | **[Barr Engineering Co.](http://www.barr.com)** | **[Internship - Landscape Architect](https://jobright.ai/jobs/info/66998e4fd1ca770d2bb5ac05?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Aug 09 |
 | **[Rocket55](http://www.rocket55.com/)** | **[UX Intern (Paid)](https://jobright.ai/jobs/info/66b5a5ed05110ddfcb3f4e79?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 09 |
@@ -153,4 +157,5 @@ Grand Rapids, MI | On Site | Aug 09 |
 | **[Washington Adventist University](http://www.wau.edu/)** | **[WAU Student - Integrated Marketing and Communications - Fall 2024](https://jobright.ai/jobs/info/66b512c65c662f22c603375f?utm_campaign=1049&utm_source=git)** | Takoma Park, MD | On Site | Aug 08 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Design Intern - Fall 2024](https://jobright.ai/jobs/info/66b4fa598970baf157aee834?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 08 |
 | **[Pelle Media](https://www.pellemedia.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/66b4d3ac3da0292d47223c1c?utm_campaign=1049&utm_source=git)** | Delray Beach, FL | Hybrid | Aug 08 |
+| **[Dojohouse Media Group](http://www.dojohouse.com)** | **[Graphic Design Intern - Unpaid](https://jobright.ai/jobs/info/66b4aea5fbf2bf5ff105804f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
