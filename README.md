@@ -57,7 +57,10 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[UX/UI App Designer Unpaid Intern Female Founded Startup](https://jobright.ai/jobs/info/66c1017e0cc49b2628556144?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Aug 17 |
+| **[Maryland Institute College of Art](http://www.mica.edu/)** | **[Student Designer, Creative Entrepreneurship](https://jobright.ai/jobs/info/66c0d5ade604ea5a03cfcee7?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Aug 17 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99429 Graphic Artist](https://jobright.ai/jobs/info/66c0a589ab306c02290c55f6?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Aug 17 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Media (Seasonal 2024-25)](https://jobright.ai/jobs/info/66a40dc1dfc0dce26146212f?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Aug 17 |
 | **[Patient-Centered Outcomes Research Institute](http://pcori.org)** | **[Fall Intern - DIGITAL, User Experience / Interaction Design](https://jobright.ai/jobs/info/66a3e866b020465e7d35ccc2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 17 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[ARCHITECTURAL MASTERS CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/66c02a1b300d5f9f80162dab?utm_campaign=1049&utm_source=git)** | Erlanger, KY | On Site | Aug 16 |
 | **[Co](http://www.co-collections.com)** | **[Design Intern](https://jobright.ai/jobs/info/66c006437750a68992d31990?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Aug 16 |
@@ -67,216 +70,94 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Industrial Design Intern](https://jobright.ai/jobs/info/66bff91af4b15f92b6159541?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Aug 16 |
 | ↳ | **[Product Design & Graphics Intern](https://jobright.ai/jobs/info/66bff91af4b15f92b615954b?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Aug 16 |
 | ↳ | **[Visual Communications Design Intern](https://jobright.ai/jobs/info/66bfe6ecc45983606076a934?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Aug 16 |
-| **[The Public Company Accounting Oversight Board(PCAOB)](https://pcaobus.org)** | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2904?utm_campaign=1049&utm_source=git)** | Multi Location
-New York, NY
-Philadelphia, PA
-Denver, CO
-Irvine, CA
-Chicago, IL
-Boston, MA
-Dallas, TX
-Ashburn, VA
-Washington, DC
-Tampa, FL
-Houston, TX
-Charlotte, NC
+| **[The Public Company Accounting Oversight Board(PCAOB)](https://pcaobus.org)** | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bff014f64382608efdb314?utm_campaign=1049&utm_source=git)** | Multi Location
+Fort Lauderdale, FL
 Atlanta, GA
-Los Angeles, CA
+Dallas, TX
+Charlotte, NC
+Philadelphia, PA
+New York, NY
 San Francisco, CA
-Fort Lauderdale, FL | Hybrid | Aug 16 |
+Ashburn, VA
+Boston, MA
+Tampa, FL
+Washington, DC
+Denver, CO
+Chicago, IL
+Los Angeles, CA
+Houston, TX
+Irvine, CA | Hybrid | Aug 16 |
 | **[Cynthia Rowley](https://www.cynthiarowley.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/66bfbaf348b6fb703f2dc4d5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 16 |
 | **[SWE Homes](https://www.swehomes.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66bfa6743e6dff2f40cbe685?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Aug 16 |
 | **[Oracle](https://www.oracle.com)** | **[UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/66bf84b94e941210aee7ce9f?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 16 |
 | **[RS&H](http://www.rsandh.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66bf83666d8c69b152a7c8d0?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Aug 16 |
 | **[Purdue University](https://www.purdue.edu)** | **[Undergraduate Artist](https://jobright.ai/jobs/info/66bf72da9cf13bf015b6296a?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Aug 16 |
+| **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Graphic Design Co-op](https://jobright.ai/jobs/info/66c0ae6d0a50c4abdcb58dba?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Aug 16 |
 | **[Four Points Architectural Services, Inc.](http://4points.net)** | **[Architectural Intern](https://jobright.ai/jobs/info/66c0a1de95fc56e048905fac?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Aug 16 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6fa3?utm_campaign=1049&utm_source=git)** | Multi Location
-Fairbanks, AK
-Salt Lake City, UT
-Northridge, CA
-Mount Pleasant, SC
-Boise, ID
-Fort Collins, CO
-Gresham, OR
-Mililani Town, HI
-Geneseo, NY
-Lewiston, ME
-Pearl City, HI
-St Petersburg, FL
-Queens, NY
-Buffalo, NY
-Towson, MD
-Vancouver, WA
-Bellevue, WA
-Los Angeles, CA
-Portland, ME
-New York, NY
-Meridian, ID
-Hartford, CT
-Eugene, OR
-Bakersfield, CA
-Chico, CA
-Pomona, CA
-Manchester, NH
-San Diego, CA
-Charleston, SC
-Aurora, CO
-Portland, OR
-Potsdam, NY
-Colchester, VT
-Honolulu, HI
-Sacramento, CA
-Denver, CO
-Boca Raton, FL
-Waipahu, HI
-Yonkers, NY
-Tampa, FL
-Augusta, ME
-Hialeah, FL
-Miami, FL
-Orlando, FL
-Tucson, AZ
-Henderson, NV
-San Jose, CA
-San Luis Obispo, CA
-Bozeman, MT
-Thornton, CO
-Lansing, MI
-Raleigh, NC
-Hampton, VA
-Syracuse, NY
-Aurora, IL
-Dover, DE
-Pawtucket, RI
-Hagerstown, MD
-Annapolis, MD
-Middletown, DE
-Burlington, VT
-Jacksonville, FL
-Cranston, RI
-Jackson, TN
-Louisville, KY
-Colorado Springs, CO
-Tacoma, WA
-Melbourne, FL
-Montpelier, VT
-Fort Myers, FL
-Wilmington, DE
-Chesapeake, VA
-Bowie, MD
-Pittsburgh, PA
-Grand Rapids, MI
-Lexington, KY
-Bowling Green, OH
-Lawton, OK
-Sparks, NV
-Seattle, WA
-Rochester Hills, MI
-Biloxi, MS
-DeKalb, IL
-Kenner, LA
-Valdosta, GA
-Springfield, MA
-Merced, CA
-Houston, TX
-Huntsville, AL
-Kenosha, WI
-Plymouth, MN
-Kansas City, MO
-Morgantown, WV
-Nashville, TN
-Green Bay, WI
-Worcester, MA
-Minneapolis, MN
-Pierre, SD
-Columbus, GA
-Chandler, AZ
-Athens, GA
-Newark, NJ
-Billings, MT
-Cleveland, OH
-Savannah, GA
-Arlington, TX
-Glendale, AZ
-Adelphi, MD
-Sterling Heights, MI
-Duluth, MN
-Hamden, CT
-Smyrna, DE
-Missoula, MT
-Anchorage, AK
-Flagstaff, AZ
-Chicago, IL
-North Dartmouth, MA
-Rexburg, ID
-West Jordan, UT
-Trenton, NJ
-Rutland, VT
-Warwick, RI
-Kalamazoo, MI
-Lawrenceville, GA
-Joliet, IL
-Grand Forks, ND
-Corpus Christi, TX
-Tulsa, OK
-Chattanooga, TN
-Virginia Beach, VA
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f84?utm_campaign=1049&utm_source=git)** | Multi Location
 The Woodlands, TX
+Warwick, RI
 Annandale, VA
-Indiana, PA
-Fargo, ND
-Tupelo, MS
-Gary, IN
 Logan, UT
-Bangor, ME
-Largo, MD
-Lake Worth, FL
+Chattanooga, TN
+Aurora, IL
+Tucson, AZ
+Lansing, MI
+Tupelo, MS
+Indiana, PA
+Corpus Christi, TX
+Miami, FL
+Tampa, FL
+Hialeah, FL
+Sacramento, CA
+Bozeman, MT
+New York, NY
+Denver, CO
+Boise, ID
+St Petersburg, FL
+Gresham, OR
+San Jose, CA
+Potsdam, NY
+Chico, CA
+Portland, ME
+Pearl City, HI
+Boca Raton, FL
+Cranston, RI
+Rutland, VT
+Rexburg, ID
 Arcata, CA
-Baltimore, MD
-Topeka, KS
-Binghamton, NY
-Greeley, CO
-Menomonie, WI
-Des Moines, IA
-Little Rock, AR
-Bellingham, WA
-Elizabeth, NJ
-Waterloo, IA
-Pocatello, ID
-Richmond, VA
-Harrisburg, PA
-Alamogordo, NM
-Peoria, IL
-Allentown, PA
-Rockville, MD
-Concord, NH
-Terre Haute, IN
-Bristol, RI
-Jackson, MS
-Augusta, GA
-Detroit, MI
-Durham, NC
-Bismarck, ND
-Hammond, IN
-Bloomsburg, PA
-Helena, MT
-Harrisonburg, VA
-Derry, NH
-Lincoln, NE
-Phoenix, AZ
-Flint, MI
-Iowa City, IA
-Greenville, NC
-Juneau, AK
-Atlanta, GA
-San Marcos, TX
-Whitewater, WI
-Shreveport, LA
-Springfield, IL
-Santa Fe, NM
-Olympia, WA
-Laredo, TX
-Racine, WI
+Trenton, NJ
+Kalamazoo, MI
+North Dartmouth, MA
+Louisville, KY
+Montpelier, VT
+Lake Worth, FL
+Ogden, UT
+Cedar Rapids, IA
+West Jordan, UT
+Pomona, CA
+San Luis Obispo, CA
+Aurora, CO
+Eugene, OR
+Mililani Town, HI
+Manchester, NH
+Yonkers, NY
+Meridian, ID
+Portland, OR
+Honolulu, HI
+Northridge, CA
+Queens, NY
+San Diego, CA
+Lewiston, ME
+Vancouver, WA
+Mount Pleasant, SC
+Geneseo, NY
+Thornton, CO
+Colchester, VT
+Buffalo, NY
+Charleston, SC
+Augusta, ME
+Waipahu, HI
 Vestal, NY
 Norfolk, VA
 Broken Arrow, OK
@@ -288,65 +169,6 @@ Orem, UT
 Reading, PA
 Aberdeen, SD
 Las Cruces, NM
-Frankfort, KY
-Huntington, WV
-Charleston, WV
-New Orleans, LA
-Milwaukee, WI
-Columbus, OH
-Norwalk, CT
-Las Vegas, NV
-Rochester, NY
-Overland Park, KS
-Cedar Rapids, IA
-San Antonio, TX
-Essex Junction, VT
-Wheeling, WV
-Rock Springs, WY
-Coeur d'Alene, ID
-Minot, ND
-Newark, DE
-Covington, KY
-Edmond, OK
-Mesa, AZ
-Hattiesburg, MS
-Lake Charles, LA
-Danbury, CT
-Lynchburg, VA
-Davenport, IA
-Erie, PA
-Albuquerque, NM
-Clinton, IA
-Sioux Falls, SD
-South Bend, IN
-Nampa, ID
-Albany, NY
-Fresno, CA
-Toledo, OH
-Rockford, IL
-Milford, DE
-St Cloud, MN
-Frederick, MD
-Spokane, WA
-Prairie View, TX
-St Louis, MO
-Ogden, UT
-Rochester, MN
-Kearney, NE
-Ann Arbor, MI
-Independence, MO
-Auburn, ME
-Rock Hill, SC
-Bowling Green, KY
-Roswell, NM
-Nacogdoches, TX
-Moscow, ID
-Kansas City, KS
-Wellesley, MA
-Laramie, WY
-Madison, WI
-Scottsdale, AZ
-Edwardsville, IL
 Pensacola, FL
 Hot Springs, AR
 Memphis, TN
@@ -425,7 +247,189 @@ West Chester, PA
 Bellevue, NE
 Birmingham, AL
 Springdale, AR
-Fort Wayne, IN | On Site | Aug 16 |
+Fort Wayne, IN
+Bowie, MD
+Pittsburgh, PA
+Grand Rapids, MI
+Lexington, KY
+Bowling Green, OH
+Lawton, OK
+Sparks, NV
+Seattle, WA
+Rochester Hills, MI
+Biloxi, MS
+DeKalb, IL
+Kenner, LA
+Valdosta, GA
+Springfield, MA
+Merced, CA
+Houston, TX
+Huntsville, AL
+Kenosha, WI
+Plymouth, MN
+Kansas City, MO
+Morgantown, WV
+Nashville, TN
+Green Bay, WI
+Worcester, MA
+Minneapolis, MN
+Pierre, SD
+Joliet, IL
+Fairbanks, AK
+Salt Lake City, UT
+Chicago, IL
+Erie, PA
+Edwardsville, IL
+Chandler, AZ
+Essex Junction, VT
+Rockford, IL
+Albany, NY
+Duluth, MN
+South Bend, IN
+Hattiesburg, MS
+Hamden, CT
+Edmond, OK
+Mesa, AZ
+Newark, NJ
+Ann Arbor, MI
+Milwaukee, WI
+Frankfort, KY
+Spokane, WA
+Overland Park, KS
+Arlington, TX
+Anchorage, AK
+Lynchburg, VA
+Smyrna, DE
+New Orleans, LA
+Rock Hill, SC
+Newark, DE
+Columbus, GA
+Flagstaff, AZ
+Bowling Green, KY
+Cleveland, OH
+Sioux Falls, SD
+Fargo, ND
+Topeka, KS
+Baltimore, MD
+Colorado Springs, CO
+Pawtucket, RI
+Gary, IN
+Raleigh, NC
+Virginia Beach, VA
+Lawrenceville, GA
+Hagerstown, MD
+Dover, DE
+Orlando, FL
+Hartford, CT
+Fort Collins, CO
+Los Angeles, CA
+Bellevue, WA
+Henderson, NV
+Bakersfield, CA
+Largo, MD
+Towson, MD
+Jacksonville, FL
+Burlington, VT
+Bangor, ME
+Tulsa, OK
+Grand Forks, ND
+Hampton, VA
+Binghamton, NY
+Greeley, CO
+Wilmington, DE
+Middletown, DE
+Jackson, TN
+Tacoma, WA
+Melbourne, FL
+Syracuse, NY
+Fort Myers, FL
+Chesapeake, VA
+Annapolis, MD
+Albuquerque, NM
+San Antonio, TX
+Scottsdale, AZ
+St Cloud, MN
+Savannah, GA
+Charleston, WV
+Auburn, ME
+Nampa, ID
+Independence, MO
+Rochester, NY
+Rochester, MN
+Roswell, NM
+Minot, ND
+Athens, GA
+Missoula, MT
+Toledo, OH
+Columbus, OH
+Coeur d'Alene, ID
+Prairie View, TX
+Lake Charles, LA
+Wellesley, MA
+Las Vegas, NV
+Covington, KY
+Norwalk, CT
+Nacogdoches, TX
+Glendale, AZ
+Milford, DE
+Danbury, CT
+Clinton, IA
+Wheeling, WV
+Kansas City, KS
+Moscow, ID
+Davenport, IA
+St Louis, MO
+Madison, WI
+Laramie, WY
+Kearney, NE
+Billings, MT
+Huntington, WV
+Adelphi, MD
+Fresno, CA
+Rock Springs, WY
+Frederick, MD
+Sterling Heights, MI
+Menomonie, WI
+Des Moines, IA
+Little Rock, AR
+Bellingham, WA
+Elizabeth, NJ
+Waterloo, IA
+Pocatello, ID
+Richmond, VA
+Harrisburg, PA
+Alamogordo, NM
+Peoria, IL
+Allentown, PA
+Rockville, MD
+Concord, NH
+Terre Haute, IN
+Bristol, RI
+Jackson, MS
+Augusta, GA
+Detroit, MI
+Durham, NC
+Bismarck, ND
+Hammond, IN
+Bloomsburg, PA
+Helena, MT
+Harrisonburg, VA
+Derry, NH
+Lincoln, NE
+Phoenix, AZ
+Flint, MI
+Iowa City, IA
+Greenville, NC
+Juneau, AK
+Atlanta, GA
+San Marcos, TX
+Whitewater, WI
+Shreveport, LA
+Springfield, IL
+Santa Fe, NM
+Olympia, WA
+Laredo, TX
+Racine, WI | On Site | Aug 16 |
 | **[Johnson County Community College](http://www.jccc.edu)** | **[MTC Graphic Design Intern](https://jobright.ai/jobs/info/669b02f692553d9511d71129?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Aug 16 |
 | **[L’OCCITANE Group](https://group.loccitane.com/)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/66a2e2e6621b00551f36262f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
 | **[Hasbro](https://investor.hasbro.com/)** | **[Intern - Graphic Designer, Monopoly (Sept - Dec 2024)](https://jobright.ai/jobs/info/6668eaf703ac5afee7b103b4?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | On Site | Aug 16 |
@@ -435,34 +439,34 @@ Fort Wayne, IN | On Site | Aug 16 |
 | **[Chatbooks](http://chatbooks.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66bf08ea6139d299e1d366bc?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Eichleay, Inc.](http://eichleay.com)** | **[Design Internship](https://jobright.ai/jobs/info/66bef5718e02922908f33f5e?utm_campaign=1049&utm_source=git)** | Larkspur, CA | Hybrid | Aug 15 |
 | **[Elevation Church](http://elevationchurch.org/)** | **[Elevation Church Creative Ministry Apprenticeship (Spring 2025)](https://jobright.ai/jobs/info/66beedf075eb11c6272650b5?utm_campaign=1049&utm_source=git)** | Matthews, NC | On Site | Aug 15 |
-| **[KeyBank](https://www.key.com)** | **[2025 Summer KeyBank Motion Graphics Designer/Animator Intern](https://jobright.ai/jobs/info/66b1125d14d4fe22643412cb?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Aug 15 |
 | **[The Urban Electric](https://www.urbanelectric.com/)** | **[3D Modeling and Texturing Intern](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d0f1c?utm_campaign=1049&utm_source=git)** | North Charleston, SC | On Site | Aug 15 |
 | **[MZ Wallace](https://www.mzwallace.com/)** | **[Design Intern](https://jobright.ai/jobs/info/66beb1240d75d206d9739beb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Michigan State University Federal Credit Union](https://www.msufcu.org)** | **[Graphic Design Intern - Fall 2024](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b287e?utm_campaign=1049&utm_source=git)** | Greater Lansing | Hybrid | Aug 15 |
 | **[Shades](https://shades.onelink.me/t0Ay/linkedin)** | **[Product Design Intern](https://jobright.ai/jobs/info/66be99752fcffab11b9ac864?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18cee?utm_campaign=1049&utm_source=git)** | Multi Location
-Milwaukee, WI
+| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18cf5?utm_campaign=1049&utm_source=git)** | Multi Location
+Glenview, IL
 Pleasant Prairie, WI
-Kenosha, WI
 Waukegan, IL
-Glenview, IL | On Site | Aug 15 |
-| ↳ | **[Private Label Design Internship - Summer 2025](https://jobright.ai/jobs/info/66be7b8c0122d62156b0c0b4?utm_campaign=1049&utm_source=git)** | Multi Location
+Kenosha, WI
+Milwaukee, WI | On Site | Aug 15 |
+| ↳ | **[Print Design Internship - Summer 2025](https://jobright.ai/jobs/info/66be7b8c0122d62156b0c0c4?utm_campaign=1049&utm_source=git)** | Multi Location
+Kenosha, WI
+Glenview, IL
+Pleasant Prairie, WI
+Milwaukee, WI
+Waukegan, IL | On Site | Aug 15 |
+| ↳ | **[Private Label Design Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18d1f?utm_campaign=1049&utm_source=git)** | Multi Location
+Waukegan, IL
+Kenosha, WI
 Pleasant Prairie, WI
 Glenview, IL
-Waukegan, IL
-Milwaukee, WI
-Kenosha, WI | On Site | Aug 15 |
-| ↳ | **[UX Research Internship - Summer 2025](https://jobright.ai/jobs/info/66be7b8c0122d62156b0c0d2?utm_campaign=1049&utm_source=git)** | Multi Location
-Pleasant Prairie, WI
-Milwaukee, WI
-Kenosha, WI
-Waukegan, IL
-Glenview, IL | On Site | Aug 15 |
+Milwaukee, WI | On Site | Aug 15 |
 | **[Abercrombie & Fitch](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2025](https://jobright.ai/jobs/info/66be822e0dd074a9e756c13c?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Aug 15 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Intern, Film & TV Creative](https://jobright.ai/jobs/info/66be8ab7fd5a5a5f2484d4ee?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 15 |
 | **[Sunham Home Fashions](http://sunham.com)** | **[Design Intern](https://jobright.ai/jobs/info/66be6b4ddb9e81dfac9b1508?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[ARCC (The Anti-Racism Commitment Coalition)](http://www.joinarcc.org)** | **[Website UX and Technical Support Intern](https://jobright.ai/jobs/info/66be6b4ddb9e81dfac9b164c?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Rhinestahl](https://www.rhinestahl.com)** | **[Marketing  & Graphic Design Fall 2024 Co-Op](https://jobright.ai/jobs/info/66be4c3a2472b8d42d8d5eb9?utm_campaign=1049&utm_source=git)** | Mason, OH | On Site | Aug 15 |
+| **[Woolpert](http://www.woolpert.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/66c0d5ade604ea5a03cfd066?utm_campaign=1049&utm_source=git)** | Bay St Louis, MS | On Site | Aug 15 |
 | **[DCSA](https://www.dss.mil)** | **[Information & Arts Student Trainee (Visual Information Spec)](https://jobright.ai/jobs/info/66be2dd418ea9b9a2111e689?utm_campaign=1049&utm_source=git)** | Quantico, VA | Hybrid | Aug 15 |
 | **[Golden Hippo](http://goldenhippomedia.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/669b2be28e94ffc10da9cac9?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 15 |
 | **[American Structurepoint, Inc.](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis](https://jobright.ai/jobs/info/66be32cb772860b564ec9b82?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Aug 15 |
@@ -472,7 +476,6 @@ Glenview, IL | On Site | Aug 15 |
 | **[Bitarchitects](http://bitarchitectsllc.com)** | **[Architecture And Interior Design Internship](https://jobright.ai/jobs/info/66bf517c88dffccd8ee1e5bf?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | **[CDL Electrical](https://www.cdlelectric.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66c08a55cf4bac73d25f4457?utm_campaign=1049&utm_source=git)** | Pittsburg, KS | On Site | Aug 15 |
 | **[Sony](http://www.sony.net)** | **[Intern, Film & TV Creative](https://jobright.ai/jobs/info/66be5369ec7d60e73fca3103?utm_campaign=1049&utm_source=git)** | Culver City | On Site | Aug 14 |
-| **[Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu/)** | **[Web Designer Student Assistant](https://jobright.ai/jobs/info/66bd57afacb21d951cade2fd?utm_campaign=1049&utm_source=git)** | College Station, TX | On Site | Aug 14 |
 | **[Jarret Yoshida, Inc.](https://jarretyoshida.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/66be042fdedaea1a09e1bc7a?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Aug 14 |
 | **[Corsair](http://www.corsair.com)** | **[Photography and Video Intern](https://jobright.ai/jobs/info/66bd33f13d7a5e78cd643887?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 14 |
 | **[Wasserman](http://www.teamwass.com)** | **[Graphic Design Intern, NFL](https://jobright.ai/jobs/info/66bd389e2d89931d24c4f9c2?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Aug 14 |
@@ -525,16 +528,18 @@ HQ_Port Washington, NY | On Site | Aug 13 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2024 Photography Internship](https://jobright.ai/jobs/info/6696a0e21e4c13c6a6969e71?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 12 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student Graphic Designer - SOA](https://jobright.ai/jobs/info/66be0b909e44df3d39922b9d?utm_campaign=1049&utm_source=git)** | Provo, UT | On Site | Aug 12 |
 | **[Brad Hall Fuel](https://bradhallfuel.com)** | **[Digital Designer (Intern/Marketing)](https://jobright.ai/jobs/info/66bb3d81e0dc6e9aeba807aa?utm_campaign=1049&utm_source=git)** | Gilbert, AZ | On Site | Aug 12 |
+| **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6677cdd074ec1a95a89afa2f?utm_campaign=1049&utm_source=git)** | Multi Location
+Washington, United States
+Washington, DC | Hybrid | Aug 12 |
 | **[KNOXVILLE CHAMBER](https://www.knoxvillechamber.com)** | **[Marketing Graphic Design Student](https://jobright.ai/jobs/info/66ba030c54f867a09ab66e6f?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 12 |
 | **[Utah Grizzlies](https://www.utahgrizzlies.com/en#tab_standings-groups-leaders-conference-eastern=north&tab_standings-groups-leaders-conference-western=mountain&tab_standings-groups-leaders=western&tab_statistics-players-leaders=forwards)** | **[Photography/Videography Internship](https://jobright.ai/jobs/info/66bc45e5d017133143b8d31e?utm_campaign=1049&utm_source=git)** | West Valley City, UT | Hybrid | Aug 11 |
 | **[E.L.F. Beauty](https://www.elfbeauty.com)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/66ba76662d1f86b307f3ea6b?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Aug 11 |
 | **[Cindy Castro New York](https://www.cindycastro.com)** | **[Fashion Design Internship / Fall 24](https://jobright.ai/jobs/info/66bd389e2d89931d24c4fdb4?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 11 |
 | **[Maverick MKG](https://www.maverickmkg.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/66b8d67cc3665a2f86349cb0?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 11 |
-| **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6677c80964f2e472ffd63b6c?utm_campaign=1049&utm_source=git)** | Multi Location
+| **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/6679561239ca2f81c4371335?utm_campaign=1049&utm_source=git)** | Multi Location
 Washington, DC
 Washington, United States | Hybrid | Aug 11 |
 | **[Menasha Corp](http://www.menashacorporation.com/)** | **[Electrical Pre-Press (EPP) Graphic Design Co-Op (August-Dec 2024)](https://jobright.ai/jobs/info/6677d2bd97271e26801e330d?utm_campaign=1049&utm_source=git)** | Neenah, WI | On Site | Aug 11 |
 | **[Munchkin](http://www.munchkin.com)** | **[Industrial Design Intern (Fall 2024)](https://jobright.ai/jobs/info/6677c86464f2e472ffd64190?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 11 |
 | **[HOKA](https://www.hoka.com)** | **[HOKA Footwear Design Intern - Performance](https://jobright.ai/jobs/info/667f3b3e61f2588c34187ad1?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Aug 11 |
-| **[LDR Advisory Partners](https://ldradvisory.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66b7f1ba56bc132887171a06?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
