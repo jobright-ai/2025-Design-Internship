@@ -57,10 +57,16 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hennepin County](https://www.co.hennepin.mn.us)** | **[Internship: Graphic Design](https://jobright.ai/jobs/info/66c3d93f962d650d300beda1?utm_campaign=1049&utm_source=git)** | Hennepin County, MN | Hybrid | Aug 19 |
+| **[Southeast Toyota Distributors, LLC](https://jmfamily.com/our-businesses/southeast-toyota-distributors/)** | **[Intern, Junior Architectural/Interior Designer](https://jobright.ai/jobs/info/66c3e043edd00d129aa074da?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | On Site | Aug 19 |
+| **[AO Smith India](http://www.aosmithindia.com)** | **[Social Media & Graphics Intern](https://jobright.ai/jobs/info/66c3cf30ceceb596817c2d18?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 19 |
+| **[David Zwirner Gallery](http://www.davidzwirner.com/)** | **[Imaging Intern](https://jobright.ai/jobs/info/66c3d93f962d650d300bee80?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 19 |
+| **[Shaw Industries Group](https://shawinc.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/66c3d2185bbc84e96533b95e?utm_campaign=1049&utm_source=git)** | Cartersville, GA | On Site | Aug 19 |
+| **[RBB](https://rbbcommunications.com/)** | **[INTERN -Creative Services -Summer 2025](https://jobright.ai/jobs/info/66c3dc6b793e5042d6507354?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 19 |
+| ↳ | **[INTERN -Creative Services -Spring 2025](https://jobright.ai/jobs/info/66c3dc6b793e5042d6507058?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 19 |
 | **[Figma](http://figma.com)** | **[Product Design Intern (2025)](https://jobright.ai/jobs/info/66c3b64a4c4ce934bef2c16b?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 19 |
 | ↳ | **[Product Design Intern (2025)](https://jobright.ai/jobs/info/66c3b64a4c4ce934bef2c446?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
 | **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Photo/Video + Podcast Internship](https://jobright.ai/jobs/info/66c39c6bc1658c2fa338840f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 19 |
-| **[David Zwirner Gallery](http://www.davidzwirner.com/)** | **[Imaging Intern](https://jobright.ai/jobs/info/66c3a05b833c958e823e247e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | **[Mission Bit](https://www.missionbit.org)** | **[Fall 2024 TA - Intro to Game Design (in-person at Burton HS)](https://jobright.ai/jobs/info/66c39c6bc1658c2fa33884a2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 | **[meet the edge](http://www.meettheedge.com)** | **[Motion Graphics Intern -- Fall 2024](https://jobright.ai/jobs/info/66c3938a1340db0128fd4670?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Aug 19 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 Design Summer Internship - Albuquerque, NM](https://jobright.ai/jobs/info/66c3929884ee41c178136624?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Aug 19 |
@@ -81,7 +87,6 @@ For a complete list, see the full spreadsheet below:
 | **[Maryland Institute College of Art](http://www.mica.edu/)** | **[Student Designer, Creative Entrepreneurship](https://jobright.ai/jobs/info/66c0d5ade604ea5a03cfcee7?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Aug 17 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Media (Seasonal 2024-25)](https://jobright.ai/jobs/info/66a40dc1dfc0dce26146212f?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Aug 17 |
 | **[Patient-Centered Outcomes Research Institute](http://pcori.org)** | **[Fall Intern - DIGITAL, User Experience / Interaction Design](https://jobright.ai/jobs/info/66a3e866b020465e7d35ccc2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 17 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c04b43a03547a4103afe1c?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[ARCHITECTURAL MASTERS CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/66c02a1b300d5f9f80162dab?utm_campaign=1049&utm_source=git)** | Erlanger, KY | On Site | Aug 16 |
 | **[Co](http://www.co-collections.com)** | **[Design Intern](https://jobright.ai/jobs/info/66c006437750a68992d31990?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Aug 16 |
 | **[Aptima, Inc.](http://aptima.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66bffc00074e7c076e0bf40d?utm_campaign=1049&utm_source=git)** | Fairborn, OH | On Site | Aug 16 |
@@ -97,8 +102,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28df?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28ea?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28f2?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Aug 16 |
-| ↳ | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28f6?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28f4?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 16 |
+| ↳ | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28f6?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b28fb?utm_campaign=1049&utm_source=git)** | Ashburn, VA | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2906?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2904?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
@@ -106,7 +111,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2914?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Aug 16 |
 | ↳ | **[Spring 2025 Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66bfd2965dadc725bb6f7cd5?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Aug 16 |
 | **[SWE Homes](https://www.swehomes.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66bfa6743e6dff2f40cbe685?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Aug 16 |
-| **[Oracle](https://www.oracle.com)** | **[UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/66bf84b94e941210aee7ce9f?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 16 |
 | **[RS&H](http://www.rsandh.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66bf83666d8c69b152a7c8d0?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Aug 16 |
 | **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Graphic Design Co-op](https://jobright.ai/jobs/info/66c0ae6d0a50c4abdcb58dba?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Aug 16 |
 | **[Four Points Architectural Services, Inc.](http://4points.net)** | **[Architectural Intern](https://jobright.ai/jobs/info/66c0a1de95fc56e048905fac?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Aug 16 |
@@ -119,18 +123,18 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f0d?utm_campaign=1049&utm_source=git)** | Arcata, CA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f11?utm_campaign=1049&utm_source=git)** | Tupelo, MS | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f37?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f49?utm_campaign=1049&utm_source=git)** | Rutland, VT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f48?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f4c?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f49?utm_campaign=1049&utm_source=git)** | Rutland, VT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f51?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f53?utm_campaign=1049&utm_source=git)** | Bangor, ME | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f4c?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f55?utm_campaign=1049&utm_source=git)** | Topeka, KS | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f53?utm_campaign=1049&utm_source=git)** | Bangor, ME | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f5c?utm_campaign=1049&utm_source=git)** | West Jordan, UT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f8a?utm_campaign=1049&utm_source=git)** | Lawrenceville, GA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f84?utm_campaign=1049&utm_source=git)** | The Woodlands, TX | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f8b?utm_campaign=1049&utm_source=git)** | Rexburg, ID | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6fa3?utm_campaign=1049&utm_source=git)** | Fairbanks, AK | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f9d?utm_campaign=1049&utm_source=git)** | Gary, IN | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f8b?utm_campaign=1049&utm_source=git)** | Rexburg, ID | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f93?utm_campaign=1049&utm_source=git)** | Trenton, NJ | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6fb2?utm_campaign=1049&utm_source=git)** | Joliet, IL | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6fb1?utm_campaign=1049&utm_source=git)** | Chattanooga, TN | On Site | Aug 16 |
@@ -151,8 +155,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992e1?utm_campaign=1049&utm_source=git)** | Iowa City, IA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992e2?utm_campaign=1049&utm_source=git)** | Moscow, ID | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992e3?utm_campaign=1049&utm_source=git)** | Valdosta, GA | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992e5?utm_campaign=1049&utm_source=git)** | Bellevue, NE | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992e6?utm_campaign=1049&utm_source=git)** | Bowling Green, OH | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992e5?utm_campaign=1049&utm_source=git)** | Bellevue, NE | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992e8?utm_campaign=1049&utm_source=git)** | Biloxi, MS | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992e9?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992eb?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Aug 16 |
@@ -162,20 +166,20 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992f0?utm_campaign=1049&utm_source=git)** | Hattiesburg, MS | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992f1?utm_campaign=1049&utm_source=git)** | Flint, MI | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992f2?utm_campaign=1049&utm_source=git)** | Rock Hill, SC | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992f7?utm_campaign=1049&utm_source=git)** | Conway, AR | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992f5?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992f3?utm_campaign=1049&utm_source=git)** | Kennesaw, GA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992f4?utm_campaign=1049&utm_source=git)** | Menomonie, WI | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992f7?utm_campaign=1049&utm_source=git)** | Conway, AR | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992f6?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992f3?utm_campaign=1049&utm_source=git)** | Kennesaw, GA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992f5?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992f9?utm_campaign=1049&utm_source=git)** | Carrollton, GA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992fa?utm_campaign=1049&utm_source=git)** | Tuscaloosa, AL | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992fb?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992fd?utm_campaign=1049&utm_source=git)** | Rochester, NH | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992fc?utm_campaign=1049&utm_source=git)** | Waterbury, CT | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499300?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499301?utm_campaign=1049&utm_source=git)** | Hamden, CT | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992fe?utm_campaign=1049&utm_source=git)** | Minot, ND | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992fd?utm_campaign=1049&utm_source=git)** | Rochester, NH | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992ff?utm_campaign=1049&utm_source=git)** | Davenport, IA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499301?utm_campaign=1049&utm_source=git)** | Hamden, CT | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499300?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394992fe?utm_campaign=1049&utm_source=git)** | Minot, ND | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499302?utm_campaign=1049&utm_source=git)** | Essex Junction, VT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499303?utm_campaign=1049&utm_source=git)** | Danbury, CT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499305?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 16 |
@@ -184,82 +188,82 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499307?utm_campaign=1049&utm_source=git)** | Clinton, IA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499309?utm_campaign=1049&utm_source=git)** | Aberdeen, SD | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499308?utm_campaign=1049&utm_source=git)** | Providence, RI | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949930a?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949930d?utm_campaign=1049&utm_source=git)** | Bismarck, ND | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949930b?utm_campaign=1049&utm_source=git)** | Owensboro, KY | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949930c?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949930b?utm_campaign=1049&utm_source=git)** | Owensboro, KY | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949930a?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499310?utm_campaign=1049&utm_source=git)** | Kearney, NE | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949930f?utm_campaign=1049&utm_source=git)** | Helena, MT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949930e?utm_campaign=1049&utm_source=git)** | Duluth, MN | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949930f?utm_campaign=1049&utm_source=git)** | Helena, MT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499311?utm_campaign=1049&utm_source=git)** | Edison, NJ | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499312?utm_campaign=1049&utm_source=git)** | Erie, PA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499313?utm_campaign=1049&utm_source=git)** | Laredo, TX | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499312?utm_campaign=1049&utm_source=git)** | Erie, PA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499315?utm_campaign=1049&utm_source=git)** | McKinney, TX | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499317?utm_campaign=1049&utm_source=git)** | Sparks, NV | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499318?utm_campaign=1049&utm_source=git)** | Biddeford, ME | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949931a?utm_campaign=1049&utm_source=git)** | Tallahassee, FL | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949931b?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499319?utm_campaign=1049&utm_source=git)** | Shreveport, LA | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949931e?utm_campaign=1049&utm_source=git)** | Nacogdoches, TX | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949931a?utm_campaign=1049&utm_source=git)** | Tallahassee, FL | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949931d?utm_campaign=1049&utm_source=git)** | Casper, WY | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949931e?utm_campaign=1049&utm_source=git)** | Nacogdoches, TX | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949931f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499324?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499322?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499324?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499328?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949932b?utm_campaign=1049&utm_source=git)** | DeKalb, IL | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949932c?utm_campaign=1049&utm_source=git)** | High Point, NC | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949932d?utm_campaign=1049&utm_source=git)** | Kansas City, KS | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499331?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499332?utm_campaign=1049&utm_source=git)** | Anchorage, AK | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499333?utm_campaign=1049&utm_source=git)** | Terre Haute, IN | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499339?utm_campaign=1049&utm_source=git)** | Grand Island, NE | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499332?utm_campaign=1049&utm_source=git)** | Anchorage, AK | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499336?utm_campaign=1049&utm_source=git)** | Lake Charles, LA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949933b?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499338?utm_campaign=1049&utm_source=git)** | Bristol, RI | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499335?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949933c?utm_campaign=1049&utm_source=git)** | Berrien Springs, MI | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499336?utm_campaign=1049&utm_source=git)** | Lake Charles, LA | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499338?utm_campaign=1049&utm_source=git)** | Bristol, RI | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499339?utm_campaign=1049&utm_source=git)** | Grand Island, NE | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949933d?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949933e?utm_campaign=1049&utm_source=git)** | Wellesley, MA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949933f?utm_campaign=1049&utm_source=git)** | Broken Arrow, OK | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949934f?utm_campaign=1049&utm_source=git)** | Carson City, NV | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499341?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499346?utm_campaign=1049&utm_source=git)** | Adelphi, MD | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949934b?utm_campaign=1049&utm_source=git)** | Salem, OR | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499348?utm_campaign=1049&utm_source=git)** | Olympia, WA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499347?utm_campaign=1049&utm_source=git)** | Roswell, NM | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499343?utm_campaign=1049&utm_source=git)** | Mount Pleasant, MI | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499342?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949934c?utm_campaign=1049&utm_source=git)** | Hammond, IN | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499340?utm_campaign=1049&utm_source=git)** | Edwardsville, IL | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949934d?utm_campaign=1049&utm_source=git)** | Rock Springs, WY | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949934b?utm_campaign=1049&utm_source=git)** | Salem, OR | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499344?utm_campaign=1049&utm_source=git)** | Rapid City, SD | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499342?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949934f?utm_campaign=1049&utm_source=git)** | Carson City, NV | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499343?utm_campaign=1049&utm_source=git)** | Mount Pleasant, MI | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949934c?utm_campaign=1049&utm_source=git)** | Hammond, IN | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499349?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499348?utm_campaign=1049&utm_source=git)** | Olympia, WA | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499346?utm_campaign=1049&utm_source=git)** | Adelphi, MD | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499341?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499347?utm_campaign=1049&utm_source=git)** | Roswell, NM | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499344?utm_campaign=1049&utm_source=git)** | Rapid City, SD | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499350?utm_campaign=1049&utm_source=git)** | Stockton, CA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499353?utm_campaign=1049&utm_source=git)** | New Haven, CT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949935e?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949935f?utm_campaign=1049&utm_source=git)** | Worcester, MA | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499361?utm_campaign=1049&utm_source=git)** | Paterson, NJ | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499366?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499364?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499366?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499361?utm_campaign=1049&utm_source=git)** | Paterson, NJ | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499369?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499372?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499374?utm_campaign=1049&utm_source=git)** | El Paso, TX | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499373?utm_campaign=1049&utm_source=git)** | Gulfport, MS | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499376?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499374?utm_campaign=1049&utm_source=git)** | El Paso, TX | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499375?utm_campaign=1049&utm_source=git)** | Harrisonburg, VA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499376?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499378?utm_campaign=1049&utm_source=git)** | Toledo, OH | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949937a?utm_campaign=1049&utm_source=git)** | Elizabeth, NJ | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949937c?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499380?utm_campaign=1049&utm_source=git)** | Rockford, IL | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499383?utm_campaign=1049&utm_source=git)** | Jackson, MS | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949937e?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499382?utm_campaign=1049&utm_source=git)** | Independence, MO | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949937b?utm_campaign=1049&utm_source=git)** | Frankfort, KY | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949937f?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499383?utm_campaign=1049&utm_source=git)** | Jackson, MS | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949937e?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949937c?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499380?utm_campaign=1049&utm_source=git)** | Rockford, IL | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499382?utm_campaign=1049&utm_source=git)** | Independence, MO | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949937d?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949938b?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499386?utm_campaign=1049&utm_source=git)** | Beaumont, TX | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949938c?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499386?utm_campaign=1049&utm_source=git)** | Beaumont, TX | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949938b?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499392?utm_campaign=1049&utm_source=git)** | Juneau, AK | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499395?utm_campaign=1049&utm_source=git)** | Las Cruces, NM | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499396?utm_campaign=1049&utm_source=git)** | Bowling Green, KY | On Site | Aug 16 |
@@ -268,62 +272,62 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949939c?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993a3?utm_campaign=1049&utm_source=git)** | Jonesboro, AR | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993a2?utm_campaign=1049&utm_source=git)** | Little Rock, AR | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993a6?utm_campaign=1049&utm_source=git)** | Kenner, LA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993a7?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993ab?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993ad?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993ac?utm_campaign=1049&utm_source=git)** | Fort Wayne, IN | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993a6?utm_campaign=1049&utm_source=git)** | Kenner, LA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993a9?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993ac?utm_campaign=1049&utm_source=git)** | Fort Wayne, IN | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993ad?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993ab?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993af?utm_campaign=1049&utm_source=git)** | Fort Smith, AR | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993b0?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993b3?utm_campaign=1049&utm_source=git)** | Missoula, MT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993b7?utm_campaign=1049&utm_source=git)** | Racine, WI | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993b8?utm_campaign=1049&utm_source=git)** | Covington, KY | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993bf?utm_campaign=1049&utm_source=git)** | Alamogordo, NM | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993be?utm_campaign=1049&utm_source=git)** | Auburn, ME | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993c1?utm_campaign=1049&utm_source=git)** | Waterloo, IA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993b3?utm_campaign=1049&utm_source=git)** | Missoula, MT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993bd?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993cc?utm_campaign=1049&utm_source=git)** | Fresno, CA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993be?utm_campaign=1049&utm_source=git)** | Auburn, ME | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993bf?utm_campaign=1049&utm_source=git)** | Alamogordo, NM | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993c1?utm_campaign=1049&utm_source=git)** | Waterloo, IA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993cb?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993cc?utm_campaign=1049&utm_source=git)** | Fresno, CA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993d4?utm_campaign=1049&utm_source=git)** | Ogden, UT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993d3?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993dd?utm_campaign=1049&utm_source=git)** | Newark, DE | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993da?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993dd?utm_campaign=1049&utm_source=git)** | Newark, DE | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993e7?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993ea?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993f2?utm_campaign=1049&utm_source=git)** | Derry, NH | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993f5?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993f4?utm_campaign=1049&utm_source=git)** | Glendale, AZ | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993f7?utm_campaign=1049&utm_source=git)** | Huntsville, TX | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993f5?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993f9?utm_campaign=1049&utm_source=git)** | Whitewater, WI | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993f7?utm_campaign=1049&utm_source=git)** | Huntsville, TX | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993fb?utm_campaign=1049&utm_source=git)** | Prairie View, TX | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993fd?utm_campaign=1049&utm_source=git)** | Springdale, AR | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499400?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499401?utm_campaign=1049&utm_source=git)** | Huntington, WV | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499400?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394993ff?utm_campaign=1049&utm_source=git)** | Flagstaff, AZ | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499404?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499405?utm_campaign=1049&utm_source=git)** | Parkersburg, WV | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499406?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499407?utm_campaign=1049&utm_source=git)** | Nashua, NH | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499409?utm_campaign=1049&utm_source=git)** | Concord, NH | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949940b?utm_campaign=1049&utm_source=git)** | Bridgeport, CT | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499406?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949940a?utm_campaign=1049&utm_source=git)** | Barre Town, VT | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499418?utm_campaign=1049&utm_source=git)** | Rochester, MN | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949940f?utm_campaign=1049&utm_source=git)** | Great Falls, MT | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499416?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949940b?utm_campaign=1049&utm_source=git)** | Bridgeport, CT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499413?utm_campaign=1049&utm_source=git)** | Pocatello, ID | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499423?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499420?utm_campaign=1049&utm_source=git)** | San Marcos, TX | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949940f?utm_campaign=1049&utm_source=git)** | Great Falls, MT | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499418?utm_campaign=1049&utm_source=git)** | Rochester, MN | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499416?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499422?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949941f?utm_campaign=1049&utm_source=git)** | Nampa, ID | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499425?utm_campaign=1049&utm_source=git)** | Newark, NJ | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949941c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499426?utm_campaign=1049&utm_source=git)** | Springfield, IL | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949941b?utm_campaign=1049&utm_source=git)** | Montgomery, AL | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949941c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499423?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949941e?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499426?utm_campaign=1049&utm_source=git)** | Springfield, IL | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499425?utm_campaign=1049&utm_source=git)** | Newark, NJ | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949941f?utm_campaign=1049&utm_source=git)** | Nampa, ID | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499420?utm_campaign=1049&utm_source=git)** | San Marcos, TX | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949942b?utm_campaign=1049&utm_source=git)** | Pierre, SD | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499429?utm_campaign=1049&utm_source=git)** | Orem, UT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949942e?utm_campaign=1049&utm_source=git)** | Cheyenne, WY | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499429?utm_campaign=1049&utm_source=git)** | Orem, UT | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499432?utm_campaign=1049&utm_source=git)** | Allendale, MI | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499436?utm_campaign=1049&utm_source=git)** | South Portland, ME | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499450?utm_campaign=1049&utm_source=git)** | South Bend, IN | On Site | Aug 16 |
@@ -332,33 +336,33 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949945d?utm_campaign=1049&utm_source=git)** | Wilmington, NC | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499463?utm_campaign=1049&utm_source=git)** | Bowie, MD | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499465?utm_campaign=1049&utm_source=git)** | Chandler, AZ | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949946d?utm_campaign=1049&utm_source=git)** | Rochester Hills, MI | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949946e?utm_campaign=1049&utm_source=git)** | Southaven, MS | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949946a?utm_campaign=1049&utm_source=git)** | Conway, SC | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499469?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499467?utm_campaign=1049&utm_source=git)** | Brookings, SD | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499471?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499469?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949946d?utm_campaign=1049&utm_source=git)** | Rochester Hills, MI | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949946a?utm_campaign=1049&utm_source=git)** | Conway, SC | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499475?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499471?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499481?utm_campaign=1049&utm_source=git)** | Milford, DE | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949948e?utm_campaign=1049&utm_source=git)** | Mesa, AZ | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949948d?utm_campaign=1049&utm_source=git)** | New Brunswick, NJ | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949948c?utm_campaign=1049&utm_source=git)** | Edmond, OK | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c703949949a?utm_campaign=1049&utm_source=git)** | Pittsburg, KS | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994a5?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994ad?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994b7?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994a5?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994bc?utm_campaign=1049&utm_source=git)** | Hot Springs, AR | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994b9?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994bf?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994ce?utm_campaign=1049&utm_source=git)** | St Cloud, MN | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994d9?utm_campaign=1049&utm_source=git)** | Norman, OK | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994da?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994ed?utm_campaign=1049&utm_source=git)** | Idaho Falls, ID | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994da?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c70394994e0?utm_campaign=1049&utm_source=git)** | Merced, CA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c05504bf076c7039499504?utm_campaign=1049&utm_source=git)** | Lawton, OK | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154dca?utm_campaign=1049&utm_source=git)** | Commerce, TX | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154e03?utm_campaign=1049&utm_source=git)** | Coeur d'Alene, ID | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154e14?utm_campaign=1049&utm_source=git)** | Vestal, NY | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154e03?utm_campaign=1049&utm_source=git)** | Coeur d'Alene, ID | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154e1c?utm_campaign=1049&utm_source=git)** | Charleston, WV | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154e42?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154e47?utm_campaign=1049&utm_source=git)** | Brockton, MA | On Site | Aug 16 |
@@ -366,23 +370,23 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154e4a?utm_campaign=1049&utm_source=git)** | Seaford, DE | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154f13?utm_campaign=1049&utm_source=git)** | West Chester, PA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154f29?utm_campaign=1049&utm_source=git)** | Reading, PA | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154f94?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154f86?utm_campaign=1049&utm_source=git)** | Allentown, PA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154f87?utm_campaign=1049&utm_source=git)** | Smyrna, DE | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154f92?utm_campaign=1049&utm_source=git)** | Bloomsburg, PA | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154f94?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154f81?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154fb6?utm_campaign=1049&utm_source=git)** | Bellingham, WA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154fa0?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154faa?utm_campaign=1049&utm_source=git)** | Santa Fe, NM | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2154fb6?utm_campaign=1049&utm_source=git)** | Bellingham, WA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2155027?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2155044?utm_campaign=1049&utm_source=git)** | Tucson, AZ | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2155059?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2155080?utm_campaign=1049&utm_source=git)** | Greeley, CO | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b2155091?utm_campaign=1049&utm_source=git)** | Hampton, VA | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b21550c0?utm_campaign=1049&utm_source=git)** | Hagerstown, MD | On Site | Aug 16 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b21550be?utm_campaign=1049&utm_source=git)** | Fargo, ND | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b21550d1?utm_campaign=1049&utm_source=git)** | Binghamton, NY | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b21550bd?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Aug 16 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b21550be?utm_campaign=1049&utm_source=git)** | Fargo, ND | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b21550e6?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b21551c3?utm_campaign=1049&utm_source=git)** | Aurora, IL | On Site | Aug 16 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c055b2251f0c57b21551c2?utm_campaign=1049&utm_source=git)** | Annapolis, MD | On Site | Aug 16 |
@@ -397,8 +401,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c0302c89ee32006710b25b?utm_campaign=1049&utm_source=git)** | Middletown, DE | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c0302c89ee32006710b25c?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c0302c89ee32006710b25d?utm_campaign=1049&utm_source=git)** | Jackson, TN | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c0302c89ee32006710b25e?utm_campaign=1049&utm_source=git)** | Fort Myers, FL | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c0302c89ee32006710b25f?utm_campaign=1049&utm_source=git)** | Burlington, VT | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c0302c89ee32006710b25e?utm_campaign=1049&utm_source=git)** | Fort Myers, FL | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c0302c89ee32006710b260?utm_campaign=1049&utm_source=git)** | Wilmington, DE | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c0302c89ee32006710b261?utm_campaign=1049&utm_source=git)** | Cranston, RI | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c0302c89ee32006710b262?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Aug 15 |
@@ -408,47 +412,47 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d104b?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d104c?utm_campaign=1049&utm_source=git)** | Geneseo, NY | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d104d?utm_campaign=1049&utm_source=git)** | Honolulu, HI | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1054?utm_campaign=1049&utm_source=git)** | Augusta, ME | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1051?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1052?utm_campaign=1049&utm_source=git)** | Hartford, CT | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1054?utm_campaign=1049&utm_source=git)** | Augusta, ME | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1053?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1055?utm_campaign=1049&utm_source=git)** | Bozeman, MT | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1057?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1055?utm_campaign=1049&utm_source=git)** | Bozeman, MT | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1058?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d105a?utm_campaign=1049&utm_source=git)** | Manchester, NH | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d105c?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1059?utm_campaign=1049&utm_source=git)** | Aurora, CO | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d105b?utm_campaign=1049&utm_source=git)** | St Petersburg, FL | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d105d?utm_campaign=1049&utm_source=git)** | Lewiston, ME | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d105f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1059?utm_campaign=1049&utm_source=git)** | Aurora, CO | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d105c?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1060?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1067?utm_campaign=1049&utm_source=git)** | Henderson, NV | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d105f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d105d?utm_campaign=1049&utm_source=git)** | Lewiston, ME | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1065?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1064?utm_campaign=1049&utm_source=git)** | Colchester, VT | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1062?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1067?utm_campaign=1049&utm_source=git)** | Henderson, NV | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1066?utm_campaign=1049&utm_source=git)** | Meridian, ID | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1061?utm_campaign=1049&utm_source=git)** | Chico, CA | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1062?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1068?utm_campaign=1049&utm_source=git)** | Waipahu, HI | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d106a?utm_campaign=1049&utm_source=git)** | Hialeah, FL | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1064?utm_campaign=1049&utm_source=git)** | Colchester, VT | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1069?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d106a?utm_campaign=1049&utm_source=git)** | Hialeah, FL | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1068?utm_campaign=1049&utm_source=git)** | Waipahu, HI | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d106e?utm_campaign=1049&utm_source=git)** | Pearl City, HI | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d106d?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d106c?utm_campaign=1049&utm_source=git)** | Pomona, CA | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1071?utm_campaign=1049&utm_source=git)** | Vancouver, WA | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d106f?utm_campaign=1049&utm_source=git)** | Gresham, OR | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1070?utm_campaign=1049&utm_source=git)** | Yonkers, NY | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1074?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1076?utm_campaign=1049&utm_source=git)** | San Luis Obispo, CA | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1073?utm_campaign=1049&utm_source=git)** | Northridge, CA | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1078?utm_campaign=1049&utm_source=git)** | Mililani Town, HI | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1075?utm_campaign=1049&utm_source=git)** | Potsdam, NY | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1076?utm_campaign=1049&utm_source=git)** | San Luis Obispo, CA | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1074?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1078?utm_campaign=1049&utm_source=git)** | Mililani Town, HI | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d107c?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d107b?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1079?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d107a?utm_campaign=1049&utm_source=git)** | Queens, NY | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d107b?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d107c?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Aug 15 |
-| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1081?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d107f?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1080?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Aug 15 |
+| ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d1081?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | On Site | Aug 15 |
 | **[Eichleay, Inc.](http://eichleay.com)** | **[Design Internship](https://jobright.ai/jobs/info/66bef5718e02922908f33f5e?utm_campaign=1049&utm_source=git)** | Larkspur, CA | Hybrid | Aug 15 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66beedf075eb11c627265127?utm_campaign=1049&utm_source=git)** | Largo, MD | On Site | Aug 15 |
 | ↳ | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66beedf075eb11c627265129?utm_campaign=1049&utm_source=git)** | Lake Worth, FL | On Site | Aug 15 |
