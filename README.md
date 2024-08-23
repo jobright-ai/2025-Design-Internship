@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[XIRCLS](https://www.xircls.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66c88dd0fd98effc6c3e8e11?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Aug 23 |
 | **[Novarus Technologies](https://novarustech.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66c827ccc444fa56f550fce0?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Aug 22 |
 | **[Sam's Club](http://www.samsclub.com)** | **[2024 Intern Conversion - 2025 FT: UX Designer III](https://jobright.ai/jobs/info/66c8238c8b7dbd6595fd2b71?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Aug 22 |
 | **[Biasly](http://www.biasly.com)** | **[Graphics Designer Intern](https://jobright.ai/jobs/info/66c81ea61d41fdcafe7eb03e?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Aug 22 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[DreamWorld](https://www.playdreamworld.com/)** | **[Internship: 3D Artist Unreal Engine (Fall-Winter)](https://jobright.ai/jobs/info/66c76272bc8683ba47a14b02?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Aug 22 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Print Design Intern](https://jobright.ai/jobs/info/66c75d1577d68ab36d15165c?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Aug 22 |
 | **[IRLY](https://www.irly.app)** | **[UI/UX Intern](https://jobright.ai/jobs/info/66c7481f246b3cb4e392584a?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Aug 22 |
-| **[KAI Enterprises](https://kai-db.com/)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/66c71f7910221e06eedb1f65?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Aug 22 |
+| **[Protiviti](http://www.protiviti.com)** | **[Houston Digital Intern - 2025](https://jobright.ai/jobs/info/66c875232c039f582bb83ff3?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Aug 22 |
 | **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/66ab629aba7a250964cd802b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Aug 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66c70bb172042ef9dfd4014f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 22 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect](https://jobright.ai/jobs/info/66ab9120a836935dd81ff0ee?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Aug 22 |
@@ -114,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[MotoRad](https://motorad.com)** | **[Photo Intern](https://jobright.ai/jobs/info/66c682114f6c4b8845b42d68?utm_campaign=1049&utm_source=git)** | Mount Carmel, IL | Hybrid | Aug 20 |
 | **[Wendel Energy Services](https://wendelcompanies.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/66c646291c24e45b3f5dfe6b?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Aug 20 |
 | **[Attwood Corporation](http://attwoodmarine.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/66c63224a5c06328d210b75b?utm_campaign=1049&utm_source=git)** | Champaign, IL | On Site | Aug 20 |
-| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Communications Content Creator](https://jobright.ai/jobs/info/66c546efb8ec8eecf48189ed?utm_campaign=1049&utm_source=git)** | Richmond, KY | On Site | Aug 20 |
+| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Communications Content Creator](https://jobright.ai/jobs/info/66c5464ab8ec8eecf4817a57?utm_campaign=1049&utm_source=git)** | Richmond, KY | On Site | Aug 20 |
 | **[Crown Equipment](http://www.crown.com)** | **[Design Technical Writing Co-Op Fall 2024](https://jobright.ai/jobs/info/66c51878d76449da38c44533?utm_campaign=1049&utm_source=git)** | New Bremen, OH | On Site | Aug 20 |
 | **[Chartwells Higher Education](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / Connecticut College](https://jobright.ai/jobs/info/66c5288e9f4da919a6e2d744?utm_campaign=1049&utm_source=git)** | New London, CT | On Site | Aug 20 |
 | **[Trivium Interactive](https://www.triviuminteractive.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66c4f1e3e1fd05e296264f5a?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Aug 20 |
@@ -130,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[BCI Brands](https://www.bcibrands.com)** | **[Vince Camuto Sweater Team INTERN (START ASAP)](https://jobright.ai/jobs/info/66c5246e93950544f36d9210?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[brandsymbol](http://brandsymbol.com)** | **[Production Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d9221?utm_campaign=1049&utm_source=git)** | Matthews, NC | Hybrid | Aug 20 |
 | **[Jaipur Living](http://www.jaipurliving.com)** | **[Textile Designer Internship](https://jobright.ai/jobs/info/66c4b724a36d79408a4642f2?utm_campaign=1049&utm_source=git)** | Acworth, GA | On Site | Aug 20 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[2025 Design Summer Internship - Albuquerque, NM](https://jobright.ai/jobs/info/66c88a74ad0faacc36d3aaf3?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Aug 20 |
 | **[Kemper Corporation](http://kemper.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66c5d39cb04a9efdb60cdd18?utm_campaign=1049&utm_source=git)** | McAllen, TX | Hybrid | Aug 20 |
 | **[STMicroelectronics](https://www.st.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225bf5e?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | Hybrid | Aug 20 |
 | **[Place Showroom](http://placeshowroom.com)** | **[NYC Internship Fall 2024](https://jobright.ai/jobs/info/66c5246e93950544f36d9284?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 20 |
@@ -139,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Graphic Design Co-op_](https://jobright.ai/jobs/info/66c4201621411e3b8fdb21b1?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Aug 19 |
 | **[Hamilton Canucks](https://syracusecrunch.com/)** | **[GRAPHIC DESIGN INTERNSHIP](https://jobright.ai/jobs/info/66c40d8339979b46f4c654b8?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Aug 19 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Corporate Partnerships Photographer/Videographer Intern](https://jobright.ai/jobs/info/66c3f76edafdc30aeb7110bf?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 19 |
-| **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: UX Designer II](https://jobright.ai/jobs/info/66c540a617e670de8122cb00?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Aug 19 |
-| ↳ | **[2024 Intern Conversion - 2025 FT: UX Designer II](https://jobright.ai/jobs/info/66c540a617e670de8122cb09?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Aug 19 |
+| **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: UX Designer II](https://jobright.ai/jobs/info/66c540a617e670de8122cb09?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Aug 19 |
+| ↳ | **[2024 Intern Conversion - 2025 FT: UX Designer II](https://jobright.ai/jobs/info/66c540a617e670de8122cb00?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Aug 19 |
 | **[AO Smith India](http://www.aosmithindia.com)** | **[Social Media & Graphics Intern](https://jobright.ai/jobs/info/66c3cf30ceceb596817c2d18?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 19 |
 | **[David Zwirner Gallery](http://www.davidzwirner.com/)** | **[Imaging Intern](https://jobright.ai/jobs/info/66c3d93f962d650d300bee80?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | **[Shaw Industries Group](https://shawinc.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/66c3d2185bbc84e96533b95e?utm_campaign=1049&utm_source=git)** | Cartersville, GA | On Site | Aug 19 |
