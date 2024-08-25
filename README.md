@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[College of Lake County, Grayslake](http://www.clcillinois.edu/)** | **[Graphic Design and Social Media Assistant](https://jobright.ai/jobs/info/66caa6507d6c46db18771ec8?utm_campaign=1049&utm_source=git)** | Grayslake, IL | On Site | Aug 24 |
+| **[MyDataProduct](https://www.mydataproduct.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/66ca84c223d8625c96c115f8?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 24 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Graphic Design Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66ca8d075eb29493df3c4148?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 24 |
+| **[Iconica](http://iconicacreates.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/66ca82f210cf3432c1321d40?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 24 |
 | **[Healing Hand Tech](https://healinghand.tech)** | **[Game Design Intern Project-Based](https://jobright.ai/jobs/info/66ca5ce683f309425888dded?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Aug 24 |
-| **[Fair Observer](http://www.fairobserver.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/66ca4eb602883ace3f37c323?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Aug 24 |
 | **[University of New Mexico](http://unm.edu)** | **[Graphics Assistant](https://jobright.ai/jobs/info/66ca2667374ee4a0ae8c4232?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Aug 24 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Digital CX Intern](https://jobright.ai/jobs/info/66c9f33e821431d2cba7e72b?utm_campaign=1049&utm_source=git)** | Vadnais Heights, MN | Hybrid | Aug 24 |
 | **[Idea Peddler](https://ideapeddler.com)** | **[Design Intern](https://jobright.ai/jobs/info/66c9c120b4e0127d3c7943f1?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Aug 23 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect](https://jobright.ai/jobs/info/66ab9120a836935dd81ff0ee?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Aug 22 |
 | **[Auburn University](https://www.auburn.edu/)** | **[3D Modeler Student Worker](https://jobright.ai/jobs/info/66c7eb9c7f9fd0b637de72a3?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Aug 21 |
 | **[Fusion 360](https://fusion360agency.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66c69174d1d1d2757a2c312f?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | Aug 21 |
-| **[MyDataProduct](https://www.mydataproduct.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/66c6901316aa30f5ffb5765a?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 21 |
 | **[New Breed](http://www.newbreedrevenue.com)** | **[Web Design and Strategy Intern (Fall 2024, Full-Time, On-Site)](https://jobright.ai/jobs/info/66c7b2e6749f595db9b2f3bc?utm_campaign=1049&utm_source=git)** | Burlington, VT | On Site | Aug 21 |
 | **[Highsnobiety](http://www.highsnobiety.com/)** | **[Visuals Intern (all genders)](https://jobright.ai/jobs/info/66c770680549cbf707ab420f?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Aug 21 |
 | **[OPTION Model and Media](http://optionmodelandmedia.com)** | **[Art Department Intern](https://jobright.ai/jobs/info/66c67e6289d6136c4923e973?utm_campaign=1049&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Aug 21 |
