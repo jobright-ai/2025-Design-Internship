@@ -155,4 +155,13 @@ For a complete list, click the following sortable link below:
 | **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Graphic Design Co-op_](https://jobright.ai/jobs/info/66c4201621411e3b8fdb21b1?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Aug 19 |
 | **[Hamilton Canucks](https://syracusecrunch.com/)** | **[GRAPHIC DESIGN INTERNSHIP](https://jobright.ai/jobs/info/66c40d8339979b46f4c654b8?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Aug 19 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Corporate Partnerships Photographer/Videographer Intern](https://jobright.ai/jobs/info/66c3f76edafdc30aeb7110bf?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 19 |
+| **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: UX Designer II](https://jobright.ai/jobs/info/66c540a617e670de8122cb00?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Aug 19 |
+| ↳ | **[2024 Intern Conversion - 2025 FT: UX Designer II](https://jobright.ai/jobs/info/66c540a617e670de8122cb09?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Aug 19 |
+| **[David Zwirner Gallery](http://www.davidzwirner.com/)** | **[Imaging Intern](https://jobright.ai/jobs/info/66c3d93f962d650d300bee80?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 19 |
+| **[Shaw Industries Group](https://shawinc.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/66c3d2185bbc84e96533b95e?utm_campaign=1049&utm_source=git)** | Cartersville, GA | On Site | Aug 19 |
+| **[RBB](https://rbbcommunications.com/)** | **[INTERN -Creative Services -Summer 2025](https://jobright.ai/jobs/info/66c3dc6b793e5042d6507354?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 19 |
+| ↳ | **[INTERN -Creative Services -Spring 2025](https://jobright.ai/jobs/info/66c3dc6b793e5042d6507058?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 19 |
+| **[Figma](http://figma.com)** | **[Product Design Intern (2025)](https://jobright.ai/jobs/info/66c3b64a4c4ce934bef2c16b?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 19 |
+| ↳ | **[Product Design Intern (2025)](https://jobright.ai/jobs/info/66c3b64a4c4ce934bef2c446?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
+| **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Photo/Video + Podcast Internship](https://jobright.ai/jobs/info/66c39c6bc1658c2fa338840f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
