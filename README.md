@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Astratek Solutions](http://www.astrateksol.com/projects.html)** | **[UX Research Intern](https://jobright.ai/jobs/info/66cb88233a719f7401bddc79?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Aug 25 |
+| **[HalloweenEveryNight](https://halloweeneverynight.com)** | **[Graphics/Illustrations Intern](https://jobright.ai/jobs/info/66cbc8e81fd5f22a722e02e2?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 25 |
+| **[A. N. Publishing](https://www.anpublishing.com/)** | **[Graphic Designer & Video Creation (Intern)](https://jobright.ai/jobs/info/66cbae666952ead26869891f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
+| **[Strive](Https://striveskin.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/66cb8fc7d8ce0bb391b0b404?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Illustrator + Artist/Graphic Designer Unpaid Fall Intern Berkeley Female Founded Startup](https://jobright.ai/jobs/info/66cb659a30e0a60b396ed07e?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Aug 25 |
-| **[Nabidios](www.nabidios.com)** | **[Print Design Intern](https://jobright.ai/jobs/info/66cb3b0d3363b26ecc18089a?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Aug 25 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99429 Graphic Artist](https://jobright.ai/jobs/info/66cb34aa5c0f4dddae160cf9?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Aug 25 |
+| **[Berry Plastics](https://www.berryglobal.com)** | **[Laminate Tube Printing Assistant](https://jobright.ai/jobs/info/6628174a63da74834abea8b1?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Aug 25 |
 | **[IBI Group](https://www.ibigroup.com/)** | **[Architecture Intern- Washington, DC](https://jobright.ai/jobs/info/66592c55fb1dd944df45b6b4?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 25 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/664e491de2794cc911da59d7?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Aug 25 |
+| **[Modine Manufacturing Company](http://www.modine.com)** | **[Designer Co-op](https://jobright.ai/jobs/info/66741e718f8ed70066b4bf6e?utm_campaign=1049&utm_source=git)** | Racine, WI | On Site | Aug 25 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Creative/Promo/Production Intern](https://jobright.ai/jobs/info/664f8866b4296966b65ee564?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Aug 25 |
 | **[Heike](https://www.heike-ny.com)** | **[patternmaking and design intern](https://jobright.ai/jobs/info/66cab9a11833be8d5d2b6817?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Aug 24 |
 | **[College of Lake County, Grayslake](http://www.clcillinois.edu/)** | **[Graphic Design and Social Media Assistant](https://jobright.ai/jobs/info/66caa6507d6c46db18771ec8?utm_campaign=1049&utm_source=git)** | Grayslake, IL | On Site | Aug 24 |
@@ -166,5 +169,4 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage](https://www.uhm.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/66c378853df2e299c0adc23b?utm_campaign=1049&utm_source=git)** | Strongsville, OH | On Site | Aug 19 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/66c328014dfb3f803046b280?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Aug 19 |
 | ↳ | **[Product Designer, Internship](https://jobright.ai/jobs/info/66c328014dfb3f803046b281?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 19 |
-| **[Savannah Ghost Pirates](http://ghostpirateshockey.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66c593af79ab183bf2adf5e0?utm_campaign=1049&utm_source=git)** | Savannah, GA | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
