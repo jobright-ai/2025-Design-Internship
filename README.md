@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cynthia Rowley](https://www.cynthiarowley.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/66ccb0ca86a3524cf525a4c9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 26 |
+| **[Rocket Companies](https://www.rocketcompanies.com)** | **[Graphic Design Intern - Fall 2024](https://jobright.ai/jobs/info/66cc9d0ec73fa6ed06fcd564?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Aug 26 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Private Label Design Intern](https://jobright.ai/jobs/info/66cc0b52c8a783311264da25?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Aug 25 |
 | **[HalloweenEveryNight](https://halloweeneverynight.com)** | **[Graphics/Illustrations Intern](https://jobright.ai/jobs/info/66cbc8e81fd5f22a722e02e2?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 25 |
 | **[ESPN](http://espncareers.com)** | **[WDI Graphic Fabrication Designer Intern, Spring 2025](https://jobright.ai/jobs/info/66cc25e186b53aa94e114a10?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Aug 25 |
@@ -152,12 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Kirtland Federal Credit Union](https://www.kirtlandfcu.org)** | **[Intern](https://jobright.ai/jobs/info/66c6ce675f810009f8601139?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Aug 19 |
 | **[Villager Studio](https://www.villager.studio/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/66c426489489feae9c8bacf3?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Aug 19 |
 | **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Graphic Design Co-op_](https://jobright.ai/jobs/info/66c4201621411e3b8fdb21b1?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Aug 19 |
-| **[Hamilton Canucks](https://syracusecrunch.com/)** | **[GRAPHIC DESIGN INTERNSHIP](https://jobright.ai/jobs/info/66c40d8339979b46f4c654b8?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Aug 19 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Corporate Partnerships Photographer/Videographer Intern](https://jobright.ai/jobs/info/66c3f76edafdc30aeb7110bf?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 19 |
-| **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: UX Designer II](https://jobright.ai/jobs/info/66c540a617e670de8122cb09?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Aug 19 |
-| ↳ | **[2024 Intern Conversion - 2025 FT: UX Designer II](https://jobright.ai/jobs/info/66c540a617e670de8122cb00?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Aug 19 |
-| **[David Zwirner Gallery](http://www.davidzwirner.com/)** | **[Imaging Intern](https://jobright.ai/jobs/info/66c3d93f962d650d300bee80?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 19 |
-| **[Shaw Industries Group](https://shawinc.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/66c3d2185bbc84e96533b95e?utm_campaign=1049&utm_source=git)** | Cartersville, GA | On Site | Aug 19 |
-| **[RBB](https://rbbcommunications.com/)** | **[INTERN -Creative Services -Summer 2025](https://jobright.ai/jobs/info/66c3dc6b793e5042d6507354?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 19 |
-| ↳ | **[INTERN -Creative Services -Spring 2025](https://jobright.ai/jobs/info/66c3dc6b793e5042d6507058?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
