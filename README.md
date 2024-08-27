@@ -151,7 +151,4 @@ For a complete list, click the following sortable link below:
 | **[STMicroelectronics](https://www.st.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225bf5e?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | Hybrid | Aug 20 |
 | **[Place Showroom](http://placeshowroom.com)** | **[NYC Internship Fall 2024](https://jobright.ai/jobs/info/66c5246e93950544f36d9284?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/66c46f81531e8106f5e168d1?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 20 |
-| **[Kirtland Federal Credit Union](https://www.kirtlandfcu.org)** | **[Intern](https://jobright.ai/jobs/info/66c6ce675f810009f8601139?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Aug 19 |
-| **[Villager Studio](https://www.villager.studio/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/66c426489489feae9c8bacf3?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Aug 19 |
-| **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Graphic Design Co-op_](https://jobright.ai/jobs/info/66c4201621411e3b8fdb21b1?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
