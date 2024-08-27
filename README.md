@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Astratek Solutions](http://www.astrateksol.com/projects.html)** | **[Print Design Intern](https://jobright.ai/jobs/info/66cd6a60005c23995341f5b2?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Aug 26 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Graphic Fabrication Designer Intern, Spring 2025](https://jobright.ai/jobs/info/66cdb1b9fc9d494ed26bfcdc?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Production Design Intern, Spring 2025](https://jobright.ai/jobs/info/66cdb0e3c9ee2d7c301e419e?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 27 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Concept Design Intern, Spring 2025](https://jobright.ai/jobs/info/66cdb1b9fc9d494ed26bfce8?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 27 |
+| ↳ | **[WDI Show Set Design Intern, Spring 2025](https://jobright.ai/jobs/info/66cdb1b9fc9d494ed26bfcee?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 27 |
+| ↳ | **[WDI Graphic Design Intern, Spring 2025](https://jobright.ai/jobs/info/66cdb1b9fc9d494ed26bfcef?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Design Intern, Visual or Design System (TikTok Design) - 2024 Fall Intern (BS/MS)](https://jobright.ai/jobs/info/66965f714d48854a89941bd8?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 27 |
+| **[Workiva](http://www.workiva.com)** | **[2025 Spring and Summer Intern - Creative Marketing](https://jobright.ai/jobs/info/66cda3db0bb06267b7de38da?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 27 |
+| **[Dallas Wings](http://dallaswingsbasketball.com)** | **[Graphic Design Intern - College Credit Only](https://jobright.ai/jobs/info/66b15094c60b762532b91185?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Aug 27 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Spring 2025](https://jobright.ai/jobs/info/66cd9adcb818d06d8e027e76?utm_campaign=1049&utm_source=git)** | Independence, OH | Hybrid | Aug 27 |
 | **[Unique Vintage](https://www.unique-vintage.com/)** | **[Unpaid Fashion Ecommerce Internship](https://jobright.ai/jobs/info/66cd64e09f8ef96cd47b9ef2?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Aug 26 |
 | **[AE2S (Advanced Engineering and Environmental Services, Inc.)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/66cd5faf7d1a7c06c6d29ae1?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Aug 26 |
 | **[Khaite](https://khaite.com/)** | **[Wovens Design Intern](https://jobright.ai/jobs/info/66c7fb7d2a96218b475d9ffb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 26 |
-| **[ESPN](http://espncareers.com)** | **[Yellow Shoes Creative Art Direction Intern, Spring 2025](https://jobright.ai/jobs/info/66cd762143cc9ce906cbb36f?utm_campaign=1049&utm_source=git)** | Celebration, FL, USA | On Site | Aug 26 |
 | **[Trimble](http://www.trimble.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/66cd2b933183177678432c92?utm_campaign=1049&utm_source=git)** | Westminster, CO | On Site | Aug 26 |
 | **[Kuttner](https://www.kuettner.com)** | **[Student - Landscape Architect Intern](https://jobright.ai/jobs/info/66cd3dc23b63803a946ce8d3?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Aug 26 |
 | **[HNTB](http://www.hntb.com/)** | **[Landscape/Urban Design Planning Intern- Summer 2025](https://jobright.ai/jobs/info/66cd05d08444ec5f9d04f2ac?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Aug 26 |
@@ -151,8 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Attwood Corporation](http://attwoodmarine.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/66c63224a5c06328d210b75b?utm_campaign=1049&utm_source=git)** | Champaign, IL | On Site | Aug 20 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Communications Content Creator](https://jobright.ai/jobs/info/66c546efb8ec8eecf48189ed?utm_campaign=1049&utm_source=git)** | Richmond, KY | On Site | Aug 20 |
 | **[Crown Equipment](http://www.crown.com)** | **[Design Technical Writing Co-Op Fall 2024](https://jobright.ai/jobs/info/66c51878d76449da38c44533?utm_campaign=1049&utm_source=git)** | New Bremen, OH | On Site | Aug 20 |
-| **[Chartwells Higher Education](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / Connecticut College](https://jobright.ai/jobs/info/66c5288e9f4da919a6e2d744?utm_campaign=1049&utm_source=git)** | New London, CT | On Site | Aug 20 |
-| **[Trivium Interactive](https://www.triviuminteractive.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66c4f1e3e1fd05e296264f5a?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Aug 20 |
-| **[Tighe & Bond](https://www.tighebond.com)** | **[2025 Entry Level Landscape Designer](https://jobright.ai/jobs/info/66c50736da5b4380373e1341?utm_campaign=1049&utm_source=git)** | Shelton, CT | Hybrid | Aug 20 |
-| **[Seven Letter](http://sevenletter.com)** | **[Design Internship](https://jobright.ai/jobs/info/66c4e1fd22c004bf04847da9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
