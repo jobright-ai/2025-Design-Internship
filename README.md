@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66ce64c931316161b6c1d7e4?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Aug 27 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66ce740fae6d77d046fcd428?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Aug 27 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66ce64c931316161b6c1d7e4?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Aug 27 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66ce6260bfc1b969cd335d17?utm_campaign=1049&utm_source=git)** | Charleston County, SC | On Site | Aug 27 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66ce6260bfc1b969cd335f8f?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 27 |
 | **[Luno](https://lunolife.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/66ce6260bfc1b969cd335d75?utm_campaign=1049&utm_source=git)** | Bend, OR | Hybrid | Aug 27 |
@@ -161,6 +162,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Youth Product Model](https://jobright.ai/jobs/info/66c5fffde0ca938ac09a6c6a?utm_campaign=1049&utm_source=git)** | Kearney, NE | Hybrid | Aug 21 |
 | **[Loftie](http://www.byloftie.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66c5f98e6b811d0986bfa2b1?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Creative Intern, TikTok (Fall 2024)](https://jobright.ai/jobs/info/66c72955e2d02ee1448a1f62?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Aug 21 |
-| **[Dassault Systemes](http://www.3ds.com)** | **[INTERNSHIP - SOLIDWORKS Visualization](https://jobright.ai/jobs/info/66c5b830dea04a4405252cc3?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | Aug 21 |
-| **[LoveShackFancy](https://loveshackfancy.com)** | **[Digital Design Internship (Fall 2024)](https://jobright.ai/jobs/info/66c5c7980b7d57d04a94d435?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
