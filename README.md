@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Verkada](https://www.verkada.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/66b2882549470f7b6bdf580c?utm_campaign=1049&utm_source=git)** | San Mateo, CA | On Site | Aug 28 |
+| **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Fall 2024](https://jobright.ai/jobs/info/6691ab4fd78bfc47e3ab1eeb?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 28 |
 | **[US Signal](https://ussignal.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66cecb586666b94ddb949841?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Aug 27 |
 | **[AE2S (Advanced Engineering and Environmental Services, Inc.)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/66ceb14017cd9ff0692ec907?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Aug 27 |
 | **[MyDataProduct](https://www.mydataproduct.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/66ce8ecfceff72143e82fc02?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 27 |
@@ -152,6 +154,4 @@ For a complete list, click the following sortable link below:
 | **[OPTION Model and Media](http://optionmodelandmedia.com)** | **[Art Department Intern](https://jobright.ai/jobs/info/66c67e6289d6136c4923e973?utm_campaign=1049&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Aug 21 |
 | **[Interface Inc.](http://www.interface.com/)** | **[Design Studio Intern](https://jobright.ai/jobs/info/66c671ec2f6a768ed47f63fb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Aug 21 |
 | **[Snowbasin Resort](http://snowbasin.com)** | **[Design Project Intern](https://jobright.ai/jobs/info/66c66d300210a3771a76f196?utm_campaign=1049&utm_source=git)** | Huntsville, UT | Hybrid | Aug 21 |
-| **[Brunswick](http://www.brunswick.com)** | **[UI Design Intern](https://jobright.ai/jobs/info/66c644f101ace18b44ec7e38?utm_campaign=1049&utm_source=git)** | Champaign, IL | On Site | Aug 21 |
-| ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/66c6395a1ee4edadbc49ceb3?utm_campaign=1049&utm_source=git)** | Champaign, IL | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
