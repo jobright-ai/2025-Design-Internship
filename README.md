@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MyDataProduct](https://www.mydataproduct.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/66cfd7264290f4bb7e3de7dd?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
+| **[IBM](http://www.ibm.com)** | **[User Research (UR) Design Intern: 2025](https://jobright.ai/jobs/info/66cfe0c80a9cedc371cddb80?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Aug 28 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cfed2eb879f214ba80d275?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 28 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cfed2eb879f214ba80d276?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Aug 28 |
+| **[Teressa Foglia](https://teressafoglia.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/66cfc90e0d040a05fce80780?utm_campaign=1049&utm_source=git)** | Laguna Beach, CA | On Site | Aug 28 |
+| **[Thomas & Hutton](http://thomasandhutton.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cfe67f2da4263b1d9cc2d8?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 28 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cfd33d6e9eb5cbfb9b6c3d?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Aug 28 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/66cfb43f806f18a8e5b6862a?utm_campaign=1049&utm_source=git)** | Ohio, United States | On Site | Aug 28 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cfb43f806f18a8e5b6869b?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Aug 28 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cfb43f806f18a8e5b686a3?utm_campaign=1049&utm_source=git)** | St Petersburg, FL | On Site | Aug 28 |
@@ -84,12 +91,11 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Fall 2024](https://jobright.ai/jobs/info/6691ab4fd78bfc47e3ab1eeb?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 28 |
 | **[NKBA](https://nkba.org/)** | **[Kitchen Design Assistant](https://jobright.ai/jobs/info/66cf106e61c30a0f71e35e1f?utm_campaign=1049&utm_source=git)** | Spring Hill, TN | On Site | Aug 28 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Spring 2025 - Interior Design Intern](https://jobright.ai/jobs/info/66cf106e61c30a0f71e35e43?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 28 |
-| ↳ | **[Summer 2025 - Industrial Design Intern - Cabin Innovation](https://jobright.ai/jobs/info/66cf106e61c30a0f71e35e44?utm_campaign=1049&utm_source=git)** | Savannah, GA | Hybrid | Aug 28 |
 | ↳ | **[Summer 2025 - UI/UX Intern - Cabin Innovation](https://jobright.ai/jobs/info/66cf106e61c30a0f71e35e45?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 28 |
 | ↳ | **[Summer 2025 - Interior Design Intern](https://jobright.ai/jobs/info/66cf106e61c30a0f71e35e4a?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 28 |
+| ↳ | **[Summer 2025 - Industrial Design Intern - Cabin Innovation](https://jobright.ai/jobs/info/66cf106e61c30a0f71e35e44?utm_campaign=1049&utm_source=git)** | Savannah, GA | Hybrid | Aug 28 |
 | **[US Signal](https://ussignal.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66cecb586666b94ddb949841?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Aug 27 |
 | **[AE2S (Advanced Engineering and Environmental Services, Inc.)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/66ceb14017cd9ff0692ec907?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Aug 27 |
-| **[MyDataProduct](https://www.mydataproduct.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/66ce8ecfceff72143e82fc02?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 27 |
 | **[GBA (George Butler Associates)](http://gbateam.com)** | **[Architecture Internship- Life Sciences](https://jobright.ai/jobs/info/66cf8476c8a3af72d31327f5?utm_campaign=1049&utm_source=git)** | Lenexa, KS | On Site | Aug 27 |
 | ↳ | **[Landscape Architecture & Planning Internship](https://jobright.ai/jobs/info/66cf8476c8a3af72d3132800?utm_campaign=1049&utm_source=git)** | Lenexa, KS | On Site | Aug 27 |
 | ↳ | **[Architecture Internship- Life Sciences](https://jobright.ai/jobs/info/66cf6eddfadaa10c4e6604e3?utm_campaign=1049&utm_source=git)** | Broomfield, CO | On Site | Aug 27 |
@@ -174,7 +180,4 @@ For a complete list, click the following sortable link below:
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Designer - 2024 Fall Internship](https://jobright.ai/jobs/info/66c77c1718217fb2c3f9a205?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | **[Highsnobiety](http://www.highsnobiety.com/)** | **[Visuals Intern (all genders)](https://jobright.ai/jobs/info/66c7793917a14cc6306d8213?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Aug 22 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Digital Intern - 2025](https://jobright.ai/jobs/info/66c875232c039f582bb83ff3?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Aug 22 |
-| **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/66ab629aba7a250964cd802b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Aug 22 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66c70bb172042ef9dfd4014f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 22 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect](https://jobright.ai/jobs/info/66ab9120a836935dd81ff0ee?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
