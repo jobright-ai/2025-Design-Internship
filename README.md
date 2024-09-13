@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Creative Development & Inclusive Strategies Intern](https://jobright.ai/jobs/info/66e439d8f6db60c36e69b0d5?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 13 |
+| **[Twine](https://www.twine.net)** | **[Graphic Designer - Part time](https://jobright.ai/jobs/info/66e439d8f6db60c36e69b03f?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 13 |
+| **[Houston Chronicle Interactive](http://www.houstonchronicle.com/)** | **[Visuals Internship](https://jobright.ai/jobs/info/66e427c1f1806f0600622846?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Sep 13 |
+| **[Ditch Witch of Florida](https://ditchwitchfl.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/66e424bce598c86d63dddf4a?utm_campaign=1049&utm_source=git)** | Perry, OK | On Site | Sep 13 |
+| **[Second Dinner Studios](http://seconddinner.com)** | **[Concept Artist / Illustrator Intern](https://jobright.ai/jobs/info/66e42bdea6a21a2d1f92e416?utm_campaign=1049&utm_source=git)** | Irvine, CA | Remote | Sep 13 |
+| ↳ | **[Feature Design Intern](https://jobright.ai/jobs/info/66e4368a3e184a39d31c297a?utm_campaign=1049&utm_source=git)** | Irvine, CA | Remote | Sep 13 |
+| **[Carths Group](www.carthsgroup.com)** | **[Fashion Designer Intern](https://jobright.ai/jobs/info/66e420d25186d990fe6aed0e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 13 |
+| **[Second Dinner Studios](http://seconddinner.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/66e423d418dcd2ff02c64b99?utm_campaign=1049&utm_source=git)** | Irvine, CA | Remote | Sep 13 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, UI Designer, Design](https://jobright.ai/jobs/info/66e416f30e699abcfcd23a05?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Sep 13 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66c70bb172042ef9dfd4014f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect](https://jobright.ai/jobs/info/66ab9120a836935dd81ff0ee?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Sep 13 |
 | **[Compadre](https://hicompadre.com)** | **[Design/Animation Intern](https://jobright.ai/jobs/info/66e3f5f82cbe5be39debc610?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Sep 13 |
 | **[University of Cincinnati Technology Accelerator for Commercialization](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Graphic Design/Communication Design Co-op](https://jobright.ai/jobs/info/66e3c45ff0c75a69b34c65be?utm_campaign=1049&utm_source=git)** | Harrison, OH | On Site | Sep 12 |
 | **[Auxiliary Services](https://www.oswego.edu/auxiliary-services/auxiliary-services-0)** | **[Social Media Photography and Videography Intern](https://jobright.ai/jobs/info/66e3c266b87efba0367213e6?utm_campaign=1049&utm_source=git)** | Oswego, NY | On Site | Sep 12 |
@@ -100,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[College of Lake County, Grayslake](http://www.clcillinois.edu/)** | **[Graphic Design and Social Media Assistant](https://jobright.ai/jobs/info/66e2685e5a3084d97acc5a04?utm_campaign=1049&utm_source=git)** | Grayslake, IL | On Site | Sep 11 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/66e24f66cbc3fa8c76735646?utm_campaign=1049&utm_source=git)** | Cincinnati Metro | Hybrid | Sep 11 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/66e25cf6520168c8407bfc06?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Sep 11 |
-| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/66e25cf6520168c8407bfc08?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Sep 11 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/66e25cf6520168c8407bfc07?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Sep 11 |
+| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/66e25cf6520168c8407bfc08?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Sep 11 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/66e2583ff1e6d59468c0b4a5?utm_campaign=1049&utm_source=git)** | Appleton, WI | On Site | Sep 11 |
 | **[La Cima Elementary Charter School](http://www.lacimacharterschool.org)** | **[Social Media and Web Design Internship](https://jobright.ai/jobs/info/66e25509d37de584c97e586d?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Sep 11 |
 | **[Universal Processing](https://www.uprocessing.com/)** | **[Graphic Design Intern - Bilingual in Chinese](https://jobright.ai/jobs/info/66e301123e2e06d1ab9690f1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 11 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Designer II](https://jobright.ai/jobs/info/66c59090d4bb1cdc732afb3c?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Sep 11 |
 | **[STMicroelectronics](https://www.st.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225bf5e?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | Hybrid | Sep 11 |
 | **[Stockton Unified School District](http://www.stocktonusd.net)** | **[Graphic Artist - Classified Substitute Application](https://jobright.ai/jobs/info/66e2b145ae829b627d512e1f?utm_campaign=1049&utm_source=git)** | Stockton, CA | On Site | Sep 11 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, UX Designer, Enterprise (Spring/Summer 2025)](https://jobright.ai/jobs/info/66e16e9696c4586584a3c758?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Sep 11 |
-| ↳ | **[Internship, Architecture](https://jobright.ai/jobs/info/66e16e9696c4586584a3c6f8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Sep 11 |
-| ↳ | **[Internship, Car Design (Spring/Summer 2025)](https://jobright.ai/jobs/info/66e16e9696c4586584a3c769?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Sep 11 |
-| ↳ | **[Internship, UX Designer, Discovery (Spring/Summer 2025)](https://jobright.ai/jobs/info/66e187fd6deeb009ca023579?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Sep 11 |
-| **[La Ligne](https://www.lalignenyc.com/)** | **[Creative Intern - Part Time](https://jobright.ai/jobs/info/66e10086943e1c93ac6de8db?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 10 |
-| **[Epic Games](http://www.epicgames.com)** | **[UI Art Intern](https://jobright.ai/jobs/info/66e0fefece7551994f68e10c?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Sep 10 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[User Interface Designer Intern](https://jobright.ai/jobs/info/66e0f1e6dc370daf86b802cc?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Sep 10 |
-| ↳ | **[Product Designer Intern](https://jobright.ai/jobs/info/66e0f1e6dc370daf86b802f0?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Sep 10 |
-| **[Epic Games](http://www.epicgames.com)** | **[Environment Art Intern](https://jobright.ai/jobs/info/66e0ef69f88d7bd011d88a3c?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Sep 10 |
-| **[Siemens](https://www.siemens.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/66e0ed04beb80ce7641ae81a?utm_campaign=1049&utm_source=git)** | Cary, NC | Remote | Sep 10 |
-| **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/66e0f34875ee46673715d0f9?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
