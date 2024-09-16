@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MyDataProduct](https://www.mydataproduct.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/66e77a0c633694eace35cd03?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 15 |
 | **[Design and Customize](https://www.designandcustomize.com)** | **[Print Design and Illustrator Intern](https://jobright.ai/jobs/info/66e707506e7b3966ce5fdb8e?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Sep 15 |
 | **[Blayzer](https://www.blayzer.com/)** | **[Web Design Intern](https://jobright.ai/jobs/info/66e6fddfd92d056e46b49044?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Sep 15 |
 | **[Berry Plastics](https://www.berryglobal.com)** | **[Laminate Tube Printing Assistant](https://jobright.ai/jobs/info/6628174a63da74834abea8b1?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Sep 15 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Designer Co-op](https://jobright.ai/jobs/info/66741e718f8ed70066b4bf6e?utm_campaign=1049&utm_source=git)** | Racine, WI | On Site | Sep 15 |
 | **[Graphcom](https://graphcom.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66e664d847f2e0edc8707f7d?utm_campaign=1049&utm_source=git)** | Gettysburg, PA | On Site | Sep 14 |
 | **[Gordon Food Service](https://www.gfs.com/en-us)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/66e6601239fefc008e80a409?utm_campaign=1049&utm_source=git)** | Wyoming, MI | On Site | Sep 14 |
-| **[FreeUp](https://freeup.net/)** | **[Remote UX Designer](https://jobright.ai/jobs/info/66e6573035a9cbae87d21b95?utm_campaign=1049&utm_source=git)** | Little Ferry, NJ | Remote | Sep 14 |
 | **[University of Cincinnati Technology Accelerator for Commercialization](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Graphic Design/Communication Design Co-op](https://jobright.ai/jobs/info/66e6573035a9cbae87d21b99?utm_campaign=1049&utm_source=git)** | Harrison, OH | On Site | Sep 14 |
 | **[Auxiliary Services](https://www.oswego.edu/auxiliary-services/auxiliary-services-0)** | **[Social Media Photography and Videography Intern](https://jobright.ai/jobs/info/66e6573035a9cbae87d21ba2?utm_campaign=1049&utm_source=git)** | Oswego, NY | On Site | Sep 14 |
 | **[Harrisburg University of Science and Technology](http://www.harrisburgu.edu/)** | **[User Experience Research Assistant - Gamification Project](https://jobright.ai/jobs/info/66e5bc388ba9fc9e5c965537?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Sep 14 |
@@ -79,10 +79,9 @@ For a complete list, click the following sortable link below:
 | **[Cirrus Design Corporation](http://cirrusaircraft.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66e4e0a54a3ab1d92eb7cc0e?utm_campaign=1049&utm_source=git)** | Alcoa, TN | On Site | Sep 13 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship](https://jobright.ai/jobs/info/66c328014dfb3f803046b281?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 13 |
 | **[Comcast](http://corporate.comcast.com)** | **[UX Visual Designer Intern](https://jobright.ai/jobs/info/66e4cc7d96a7b4e49ec1487c?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 13 |
-| **[FIND Services](https://linktr.ee/find.services)** | **[Video Creation Intern](https://jobright.ai/jobs/info/66e4c4b2ce1d5622f44ba45e?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 13 |
 | **[PBS SoCal](http://www.pbssocal.org/home/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66e4c24f1886e7bcb4b07757?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | Hybrid | Sep 13 |
 | **[Optimal Sports Management](http://www.optimalsports.net)** | **[Sports Graphic Design Internship](https://jobright.ai/jobs/info/66e4a5897714474e1bc1972f?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 13 |
-| **[Menasha Corp](http://www.menashacorporation.com/)** | **[Electrical Pre-Press (EPP) Graphic Design Co-op](https://jobright.ai/jobs/info/66e4a2adba227f94793e8c65?utm_campaign=1049&utm_source=git)** | Neenah, WI | On Site | Sep 13 |
+| **[Menasha Corp](http://www.menashacorporation.com/)** | **[Electrical Pre-Press (EPP) Graphic Design Co-op](https://jobright.ai/jobs/info/66e4a2adba227f94793e8c25?utm_campaign=1049&utm_source=git)** | Neenah, WI | On Site | Sep 13 |
 | **[Rebecca Taylor](https://www.rebeccataylor.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/66e49929ec7211c70f4a9a7b?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Sep 13 |
 | **[Henkel](http://www.henkel.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/66e48f9f3e4695c3ce33070e?utm_campaign=1049&utm_source=git)** | Trumbull, CT | On Site | Sep 13 |
 | **[RoseBernard Studio](http://www.rosebernardstudio.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/66e4838959e59f33b27102cb?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Sep 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Houston Chronicle Interactive](http://www.houstonchronicle.com/)** | **[Visuals Internship](https://jobright.ai/jobs/info/66e22bd53ae5f486348e02b4?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Sep 11 |
 | **[TGW North America](https://www.tgw-group.com/us)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/669aa50bcff5836d3109b8e4?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Sep 11 |
 | **[Sargento Foods Inc.](http://www.sargento.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66e2391b51dab3f73d37e799?utm_campaign=1049&utm_source=git)** | Plymouth, WI | Hybrid | Sep 11 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Youth Product Model](https://jobright.ai/jobs/info/66c5fffde0ca938ac09a6c6a?utm_campaign=1049&utm_source=git)** | Kearney, NE | Hybrid | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
