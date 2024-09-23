@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MyDataProduct](https://www.mydataproduct.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/66f0b43794a3b5a7060f317b?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 22 |
 | **[Noyack Logistics Income REIT](https://noyacklogistics.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/66f061c3da386f512cc9c5bc?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Sep 22 |
 | **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/66464b35bce3147923b9671b?utm_campaign=1049&utm_source=git)** | Washington, United States | Hybrid | Sep 22 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6677c80964f2e472ffd63b6c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Sep 22 |
@@ -87,20 +88,20 @@ For a complete list, click the following sortable link below:
 | **[The Public Company Accounting Oversight Board(PCAOB)](https://pcaobus.org)** | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee33a990fd7ea20e1737a9?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Sep 20 |
 | ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee33a990fd7ea20e1737aa?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Sep 20 |
 | ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee313ff1e5e0eb9d593695?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Sep 20 |
+| ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec9c?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Sep 20 |
 | ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec9d?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 20 |
 | ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eeca5?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Sep 20 |
-| ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec9c?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Sep 20 |
-| ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eecb2?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 20 |
 | ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eecb0?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 20 |
+| ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eecb2?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 20 |
 | **[KeyBank](https://www.key.com)** | **[CX+EX (Experience Design Track) Internship](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f566?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Sep 20 |
 | **[Seamgen](http://www.seamgen.com/)** | **[User Experience Internship](https://jobright.ai/jobs/info/66ee28ae8daf78cc7f9d8d54?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Sep 20 |
 | **[The Public Company Accounting Oversight Board(PCAOB)](https://pcaobus.org)** | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d110ce?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 20 |
 | ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11381?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Sep 20 |
 | ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d1138b?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Sep 20 |
 | ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d1138c?utm_campaign=1049&utm_source=git)** | Ashburn, VA | Hybrid | Sep 20 |
+| ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11396?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 20 |
 | ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11398?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
 | ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11393?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Sep 20 |
-| ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11396?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 20 |
 | ↳ | **[Communications & Graphic Design Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d1139e?utm_campaign=1049&utm_source=git)** | Irvine, CA | Hybrid | Sep 20 |
 | **[Little League](https://www.littleleague.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66ee2f215d971dd5ae547209?utm_campaign=1049&utm_source=git)** | Williamsport, PA | On Site | Sep 20 |
 | **[Arkansas Center for Data Sciences](https://www.acds.co)** | **[Marketing Graphic Designer Intern](https://jobright.ai/jobs/info/66ee1910ec7f2e43efbdb7d5?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Sep 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Internship - UI/UX Designer Research](https://jobright.ai/jobs/info/66ecd54f233cdf4275077899?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Sep 19 |
 | **[Lowe’s](https://www.lowes.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/66ecf0476ac3222d315b2ec6?utm_campaign=1049&utm_source=git)** | Mooresville, NC | On Site | Sep 19 |
 | **[Near East Foundation](https://neareast.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66ece8558313f63f28b92293?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Sep 19 |
-| **[National Building Museum in Washington](http://www.nbm.org)** | **[Collections Intern - Photography](https://jobright.ai/jobs/info/66ee1f246ad79e5a88104855?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
