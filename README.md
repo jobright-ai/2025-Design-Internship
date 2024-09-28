@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMAGINE](https://www.theimaginegroup.com)** | **[Summer 2025 Charlotte Intern](https://jobright.ai/jobs/info/66f750c076236dd53c87920f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Sep 27 |
+| **[GenPark AI](https://www.genpark.ai)** | **[Multimedia Intern](https://jobright.ai/jobs/info/66f74ec184862758fd9f9fe0?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 27 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Technical Designer Intern](https://jobright.ai/jobs/info/66f72845d990f672ad7cd46c?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Sep 27 |
 | ↳ | **[Technical Designer Intern](https://jobright.ai/jobs/info/66f71a500281fc729f696036?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
 | **[Promega](http://www.promega.com/es)** | **[Multi-Media Design Intern](https://jobright.ai/jobs/info/66f72845d990f672ad7cd37d?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Sep 27 |
@@ -90,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Print Design Internship](https://jobright.ai/jobs/info/66be8302b232d66271b18ced?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Sep 27 |
 | ↳ | **[Print Design Internship](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc81c?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 27 |
 | ↳ | **[Print Design Internship](https://jobright.ai/jobs/info/66be7b8c0122d62156b0c0c4?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 27 |
+| ↳ | **[UX Research Internship](https://jobright.ai/jobs/info/66be8302b232d66271b18ce7?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 27 |
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/66da27fbf34d4f0d5de82d2a?utm_campaign=1049&utm_source=git)** | Fullerton, CA | On Site | Sep 27 |
 | **[American Structurepoint, Inc.](http://structurepoint.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/66f68e381b456bb45c4eb050?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Sep 27 |
 | ↳ | **[Architecture Design Internship](https://jobright.ai/jobs/info/66be32cb772860b564ec9b82?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Sep 27 |
@@ -107,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Photography + Multi Media Internship](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd7?utm_campaign=1049&utm_source=git)** | Stanford, CA | On Site | Sep 27 |
 | **[Commvault](https://www.commvault.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66da3384621e8b6769c945d1?utm_campaign=1049&utm_source=git)** | New Jersey, United States | On Site | Sep 27 |
 | **[Fox News](http://foxnews.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5702?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 27 |
-| **[Arkansas Center for Data Sciences](https://www.acds.co)** | **[Website Lead Intern](https://jobright.ai/jobs/info/66f63484398bc1ce443ca00d?utm_campaign=1049&utm_source=git)** | Rogers, AR | On Site | Sep 26 |
-| ↳ | **[Website Lead Intern](https://jobright.ai/jobs/info/66f634bc398bc1ce443caa93?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Sep 26 |
+| **[Arkansas Center for Data Sciences](https://www.acds.co)** | **[Website Design and Content Specialist](https://jobright.ai/jobs/info/66f634bc398bc1ce443caa93?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Sep 26 |
+| ↳ | **[Website Design and Content Specialist](https://jobright.ai/jobs/info/66f63484398bc1ce443ca00d?utm_campaign=1049&utm_source=git)** | Rogers, AR | On Site | Sep 26 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[Architectural Design Co-Op/Internship](https://jobright.ai/jobs/info/66f69188dc673fbac252e0f6?utm_campaign=1049&utm_source=git)** | Erlanger, KY | On Site | Sep 26 |
 | **[GAF](http://www.gaf.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/66f616f33087c8fa9512086f?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Sep 26 |
 | **[DePaul Cristo Rey High School](http://www.depaulcristorey.org)** | **[Sports Photography Internship](https://jobright.ai/jobs/info/66f705d6a45ed7a3ac073009?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nike](http://www.nike.com)** | **[Digital Product Design Undergraduate Intern](https://jobright.ai/jobs/info/66e570f6d154ffd95045b0c1?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Sep 26 |
 | **[General Motors](https://www.gm.com)** | **[2025 Summer Intern - Creative Designer](https://jobright.ai/jobs/info/66d907df57fd23cac6bcb190?utm_campaign=1049&utm_source=git)** | Pasadena, CA | Hybrid | Sep 26 |
 | **[AE2S (Advanced Engineering and Environmental Services, Inc.)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/66f51f315077d627f823c17e?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Sep 26 |
-| **[Li & Fung](http://www.lifung.com)** | **[Menswear Design Intern](https://jobright.ai/jobs/info/66f51f315077d627f823befb?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Sep 26 |
-| **[Jefferson County](https://jeffco.us)** | **[Innovation and Digital Transformation Internship](https://jobright.ai/jobs/info/66f4f0f362d76cd0edf8c650?utm_campaign=1049&utm_source=git)** | Golden, CO | Hybrid | Sep 25 |
-| **[ServiceNow](http://www.servicenow.com)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/66f4d0b1d5cb6b0abcef7d0a?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
