@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[AMERICAN EAGLE OUTFITTERS INC.](https://www.aeo-inc.com/)** | **[Aerie Concept Design Intern](https://jobright.ai/jobs/info/66f45f99638b18949eb31de0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[IBM](http://www.ibm.com)** | **[Design Intern](https://jobright.ai/jobs/info/66db7e1ec31625e8d8051288?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Sep 28 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern - UX Design](https://jobright.ai/jobs/info/66dba962d8ce32c8b40d4274?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 28 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative](https://jobright.ai/jobs/info/66dbc3b9f6115f3f65038c94?utm_campaign=1049&utm_source=git)** | Jackson, MS | Hybrid | Sep 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66dba09d77369ef63412917a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Sep 28 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/66dba962d8ce32c8b40d4273?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Sep 28 |
 | **[Lyft](http://lyft.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/66db41c3e9f063610bd08740?utm_campaign=1049&utm_source=git)** | San Francisco County, CA | Hybrid | Sep 28 |
@@ -74,6 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/66f7a9a7735f98eaaf132f8c?utm_campaign=1049&utm_source=git)** | Spring, TX | On Site | Sep 27 |
 | **[IMAGINE](https://www.theimaginegroup.com)** | **[Summer 2025 Charlotte Intern](https://jobright.ai/jobs/info/66f750c076236dd53c87920f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Sep 27 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/66f7ac5c0ea40f940f6d3510?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Sep 27 |
+| **[Global Nomadic](https://globalnomadic.com/)** | **[Photography + Multi Media Internship](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd2?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Retail Creative Graphic Design Intern](https://jobright.ai/jobs/info/66f41892bbe64c6ef0dd7220?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 27 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Technical Designer Intern](https://jobright.ai/jobs/info/66f72845d990f672ad7cd46c?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Sep 27 |
 | ↳ | **[Technical Designer Intern](https://jobright.ai/jobs/info/66f71a500281fc729f696036?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
 | **[Promega](http://www.promega.com/es)** | **[Multi-Media Design Intern](https://jobright.ai/jobs/info/66f72845d990f672ad7cd37d?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Sep 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legrand North America](http://www.legrand.us)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66f5f1a6603f18790a5c91d4?utm_campaign=1049&utm_source=git)** | Carlsbad, CA | On Site | Sep 26 |
 | **[GE Appliances](http://geappliancesco.com/)** | **[Interaction Design Internship](https://jobright.ai/jobs/info/66f5c5d11038d0480335ec5c?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Sep 26 |
 | **[LabCorp](https://www.labcorp.com/)** | **[Intern - Creative Design](https://jobright.ai/jobs/info/66f5e0f5620b7bcad52c01fe?utm_campaign=1049&utm_source=git)** | Burlington, NC | On Site | Sep 26 |
-| **[C Spire Wireless](https://cspire5ginternet.com/)** | **[Creative Design Internship](https://jobright.ai/jobs/info/66f5b5b5d8cfcd9bcd67c03a?utm_campaign=1049&utm_source=git)** | Ridgeland, MS | On Site | Sep 26 |
-| **[General Motors](https://www.gm.com)** | **[2025 Summer Intern - Creative Digital Sculptor](https://jobright.ai/jobs/info/66d9019ab3fd9ae969b757ed?utm_campaign=1049&utm_source=git)** | Warren, MI | Hybrid | Sep 26 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/66f60327602baad3d186dd05?utm_campaign=1049&utm_source=git)** | Irving, TX | Remote | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
