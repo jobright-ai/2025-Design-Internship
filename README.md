@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Astratek Solutions](http://www.astrateksol.com/projects.html)** | **[Print Design Intern](https://jobright.ai/jobs/info/66f9a57ad626280756dba775?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | Remote | Sep 29 |
 | **[Travoom](https://travoom.com/)** | **[UXUI Intern](https://jobright.ai/jobs/info/66f95563f367e4c576b4a54b?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Sep 29 |
 | **[AMERICAN EAGLE OUTFITTERS INC.](https://www.aeo-inc.com/)** | **[Aerie Concept Design Intern](https://jobright.ai/jobs/info/66f45f99638b18949eb31de0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[West Allis Blueprint](https://www.westallisblueprint.com)** | **[Branding and Signage Installer Internship](https://jobright.ai/jobs/info/66f92833127fc0fe2868d0f4?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Sep 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Spring 2025 FOX News Media Internship Program - Graphic Design](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838867?utm_campaign=1049&utm_source=git)** | New York, New York, USA | On Site | Sep 26 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern - UX Analyst Intern](https://jobright.ai/jobs/info/66f5f73dd7c0f11fe26a0c44?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | **[LabCorp](https://www.labcorp.com/)** | **[Intern - Creative Design](https://jobright.ai/jobs/info/66f5cab90fbbd96829d71507?utm_campaign=1049&utm_source=git)** | Raritan, NJ | On Site | Sep 26 |
-| **[Legrand North America](http://www.legrand.us)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66f5f1a6603f18790a5c91d4?utm_campaign=1049&utm_source=git)** | Carlsbad, CA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
