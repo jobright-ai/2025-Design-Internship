@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Photo Editor/Photographer Internship](https://jobright.ai/jobs/info/66f772737dbcf81f17e3e3ed?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Go Local Interactive](http://golocalinteractive.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/66f76e1a29958e90fce1370b?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Sep 27 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/66f7a9a7735f98eaaf132f8c?utm_campaign=1049&utm_source=git)** | Spring, TX | On Site | Sep 27 |
+| **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/66da27fbf34d4f0d5de82d7f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Sep 27 |
 | **[IMAGINE](https://www.theimaginegroup.com)** | **[Summer 2025 Charlotte Intern](https://jobright.ai/jobs/info/66f750c076236dd53c87920f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Sep 27 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/66f7ac5c0ea40f940f6d3510?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Sep 27 |
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Photography + Multi Media Internship](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd2?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LabCorp](https://www.labcorp.com/)** | **[Intern - Creative Design](https://jobright.ai/jobs/info/66f5cab90fbbd96829d71507?utm_campaign=1049&utm_source=git)** | Raritan, NJ | On Site | Sep 26 |
 | **[Legrand North America](http://www.legrand.us)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66f5f1a6603f18790a5c91d4?utm_campaign=1049&utm_source=git)** | Carlsbad, CA | On Site | Sep 26 |
 | **[GE Appliances](http://geappliancesco.com/)** | **[Interaction Design Internship](https://jobright.ai/jobs/info/66f5c5d11038d0480335ec5c?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Sep 26 |
-| **[LabCorp](https://www.labcorp.com/)** | **[Intern - Creative Design](https://jobright.ai/jobs/info/66f5e0f5620b7bcad52c01fe?utm_campaign=1049&utm_source=git)** | Burlington, NC | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
