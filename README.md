@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Axle & Manufacturing](http://aam.com)** | **[CAD Designer Co-op](https://jobright.ai/jobs/info/66faf3df8c6f538e1808d26c?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Sep 30 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Intern UX Designer](https://jobright.ai/jobs/info/66fafa5d7e0d49852c48d613?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 30 |
+| **[Children's Museum Of Indianapolis](https://www.childrensmuseum.org)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/66fade06d910dcdc3e562622?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
+| **[OMA](http://www.oma.com/)** | **[Internship Architecture – Spring 2025](https://jobright.ai/jobs/info/66fab40e062c4a2c84e125a1?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Sep 30 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/66faa85b59dcb582f6cdccea?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 30 |
 | ↳ | **[Architectural Internship](https://jobright.ai/jobs/info/66faa85b59dcb582f6cdccfa?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 30 |
 | ↳ | **[Interior Design Internship](https://jobright.ai/jobs/info/66fa9fc23529961d0b97dae7?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Cider](https://shop.shopcider.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66d52031814001989b7cdd41?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/66f9fe71938a44f6a78ce424?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 29 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Intern UX Designer](https://jobright.ai/jobs/info/66faeb3665186ee199ea9563?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Sep 29 |
 | **[Jones Lang LaSalle](http://www.jll.com/)** | **[Graphic Design Summer 2025 Internship](https://jobright.ai/jobs/info/66faa2002e9f5922e2213c59?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[AMERICAN EAGLE OUTFITTERS INC.](https://www.aeo-inc.com/)** | **[Aerie Concept Design Intern](https://jobright.ai/jobs/info/66f45f99638b18949eb31de0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[CRB Group](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/66d898678373028d1cca432a?utm_campaign=1049&utm_source=git)** | Broomfield, CO | On Site | Sep 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Textile/Print Design Internship](https://jobright.ai/jobs/info/66f5898e1a51e7bea5bf3576?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Sep 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Destinations Communications Intern](https://jobright.ai/jobs/info/66f56176d0ed902428edea6c?utm_campaign=1049&utm_source=git)** | Celebration, FL | Hybrid | Sep 26 |
 | ↳ | **[Post-Theatrical Creative Marketing Graphic Design Intern](https://jobright.ai/jobs/info/66f56176d0ed902428edea85?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Sep 26 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/66f56176d0ed902428edea57?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 26 |
-| **[International Flavors & Fragrances](http://iff.com)** | **[Intern](https://jobright.ai/jobs/info/66d856dfc799138e083fe12e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| **[General Motors](https://www.gm.com)** | **[Summer Intern - Creative Clay Sculptor](https://jobright.ai/jobs/info/66d9019ab3fd9ae969b757f6?utm_campaign=1049&utm_source=git)** | Warren, MI | Hybrid | Sep 26 |
-| **[Royal Credit Union](https://www.rcu.org)** | **[Digital Experience Intern](https://jobright.ai/jobs/info/66f54bbfbfec17788bd608fa?utm_campaign=1049&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 26 |
-| ↳ | **[Graphic Designer Marketing Intern](https://jobright.ai/jobs/info/66f5622cc6a3bab598057bef?utm_campaign=1049&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
