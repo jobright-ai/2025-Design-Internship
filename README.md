@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/66f9fe71938a44f6a78ce424?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 29 |
+| **[MyDataProduct](https://www.mydataproduct.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/66f9fbd029265dcb031cc1c9?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 29 |
 | **[IH Concepts](https://ihconceptsonline.com)** | **[Graphic Design Intern for Fall](https://jobright.ai/jobs/info/66f9daf7fa9d21ce13e4a28e?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Sep 29 |
+| **[meet the edge](http://www.meettheedge.com)** | **[Branding and Design Intern](https://jobright.ai/jobs/info/66fa0f37040ecfa5ed651188?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Sep 29 |
 | **[Astratek Solutions](http://www.astrateksol.com/projects.html)** | **[Print Design Intern](https://jobright.ai/jobs/info/66f9a57ad626280756dba775?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | Remote | Sep 29 |
 | **[Travoom](https://travoom.com/)** | **[UXUI Intern](https://jobright.ai/jobs/info/66f95563f367e4c576b4a54b?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Sep 29 |
 | **[AMERICAN EAGLE OUTFITTERS INC.](https://www.aeo-inc.com/)** | **[Aerie Concept Design Intern](https://jobright.ai/jobs/info/66f45f99638b18949eb31de0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 28 |
@@ -74,13 +77,13 @@ For a complete list, click the following sortable link below:
 | **[RS&H](http://www.rsandh.com/)** | **[Graphic Design Intern - Summer 2025](https://jobright.ai/jobs/info/66bf83666d8c69b152a7c8d0?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Sep 28 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Culinology & Digital Food Content Creation Intern](https://jobright.ai/jobs/info/66db4c26d529bc90ff3a2245?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | On Site | Sep 28 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Creative Intern](https://jobright.ai/jobs/info/66f7cc286d9284e6e00ab4c5?utm_campaign=1049&utm_source=git)** | Longwood, FL | On Site | Sep 28 |
-| **[MyDataProduct](https://www.mydataproduct.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/66f77d748b9f01743bd92a61?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Photo Editor/Photographer Internship](https://jobright.ai/jobs/info/66f772737dbcf81f17e3e3ed?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Go Local Interactive](http://golocalinteractive.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/66f76e1a29958e90fce1370b?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Sep 27 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/66f7a9a7735f98eaaf132f8c?utm_campaign=1049&utm_source=git)** | Spring, TX | On Site | Sep 27 |
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/66da27fbf34d4f0d5de82d7f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Sep 27 |
 | **[IMAGINE](https://www.theimaginegroup.com)** | **[Summer 2025 Charlotte Intern](https://jobright.ai/jobs/info/66f750c076236dd53c87920f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Sep 27 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/66f7ac5c0ea40f940f6d3510?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Sep 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Networks Motion Design & VFX Intern](https://jobright.ai/jobs/info/66fa013dfe02d4341e4e3817?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | On Site | Sep 27 |
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Photography + Multi Media Internship](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd2?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Retail Creative Graphic Design Intern](https://jobright.ai/jobs/info/66f41892bbe64c6ef0dd7220?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 27 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Technical Designer Intern](https://jobright.ai/jobs/info/66f72845d990f672ad7cd46c?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Sep 27 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[DePaul Cristo Rey High School](http://www.depaulcristorey.org)** | **[Sports Photography Internship](https://jobright.ai/jobs/info/66f705d6a45ed7a3ac073009?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 26 |
 | **[Unison](http://www.unison.com)** | **[Graphic and Web Design Intern](https://jobright.ai/jobs/info/66e46266e36a9dc28344d0f5?utm_campaign=1049&utm_source=git)** | Omaha, NE | Hybrid | Sep 26 |
 | **[Oil Price Information Service (OPIS)](http://www.opisnet.com)** | **[Photo Editor/Photographer Internship](https://jobright.ai/jobs/info/66f6f97930bb623a9f86ecc3?utm_campaign=1049&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
-| **[News Corp India](https://newscorp.com/)** | **[Graphics Internship](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025eeb?utm_campaign=1049&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Sep 26 |
-| ↳ | **[Photo Editor/Photographer Internship](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838c3e?utm_campaign=1049&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Sep 26 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Spring 2025 FOX News Media Internship Program - Graphic Design](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838867?utm_campaign=1049&utm_source=git)** | New York, New York, USA | On Site | Sep 26 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern - UX Analyst Intern](https://jobright.ai/jobs/info/66f5f73dd7c0f11fe26a0c44?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 26 |
+| **[News Corp India](https://newscorp.com/)** | **[Photo Editor/Photographer Internship](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838c3e?utm_campaign=1049&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
