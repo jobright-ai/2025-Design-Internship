@@ -122,9 +122,9 @@ For a complete list, click the following sortable link below:
 | **[Lockton Affinity](https://locktonaffinity.com/)** | **[Graphic Design Intern- Summer 2025](https://jobright.ai/jobs/info/66fe10ef567b3f1e981ce3bd?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Oct 02 |
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Product Design (UX) - Summer 2025 Corporate Internship](https://jobright.ai/jobs/info/670202b6c63ccabd14cce88c?utm_campaign=1049&utm_source=git)** | Coraopolis, PA | Hybrid | Oct 02 |
 | **[KHAITE](https://khaite.com/)** | **[Wovens Design Intern](https://jobright.ai/jobs/info/66c7fb7d2a96218b475d9ffb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 02 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Presentation Graphic Design Intern, Spring 2025](https://jobright.ai/jobs/info/66fe5edecbe7c834c60e5304?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Oct 02 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Retail Creative Graphic Design Intern, Spring 2025](https://jobright.ai/jobs/info/66fe5edecbe7c834c60e530a?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Oct 02 |
+| ↳ | **[Presentation Graphic Design Intern, Spring 2025](https://jobright.ai/jobs/info/66fe5edecbe7c834c60e5304?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Oct 02 |
 | ↳ | **[Retail Store Design Intern, Spring 2025](https://jobright.ai/jobs/info/66fe5edecbe7c834c60e5308?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Oct 02 |
-| ↳ | **[Retail Creative Graphic Design Intern, Spring 2025](https://jobright.ai/jobs/info/66fe5edecbe7c834c60e530a?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Oct 02 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Wealth Management Digital Client and Partner Experience Intern](https://jobright.ai/jobs/info/66fee1828bb80c920e273425?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | **[Fortrea](https://www.fortrea.com)** | **[User Experience Design Internship](https://jobright.ai/jobs/info/66fedf89d077de7fc1bba639?utm_campaign=1049&utm_source=git)** | Burlington NC | On Site | Oct 02 |
 | ↳ | **[User Experience Design Internship](https://jobright.ai/jobs/info/66fedf89d077de7fc1bba718?utm_campaign=1049&utm_source=git)** | Remote_United States | On Site | Oct 02 |
@@ -150,9 +150,9 @@ For a complete list, click the following sortable link below:
 | **[ColonialWebb](https://www.colonialwebb.com/)** | **[Web Design Intern](https://jobright.ai/jobs/info/66fca4fbe062243b568136d3?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Oct 01 |
 | **[SeatGeek](https://seatgeek.com)** | **[UX Design - Internship](https://jobright.ai/jobs/info/66fc9e77b641f2c1f487158e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 01 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Experience Design](https://jobright.ai/jobs/info/66fca475fd6b1c3a6e171454?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
+| ↳ | **[2025 Intern - Experience Design](https://jobright.ai/jobs/info/66fca475fd6b1c3a6e171455?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 01 |
 | ↳ | **[2025 Intern - Experience Design](https://jobright.ai/jobs/info/66fca475fd6b1c3a6e171457?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Oct 01 |
 | ↳ | **[2025 Intern - Experience Design](https://jobright.ai/jobs/info/66fca475fd6b1c3a6e171456?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 01 |
-| ↳ | **[2025 Intern - Experience Design](https://jobright.ai/jobs/info/66fca475fd6b1c3a6e171455?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 01 |
 | ↳ | **[2025 Intern - Experience Design](https://jobright.ai/jobs/info/66fc9aa9c8046710697eef2b?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 01 |
 | ↳ | **[2025 Intern - Experience Design](https://jobright.ai/jobs/info/66fca475fd6b1c3a6e171459?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Visual Effects Design Intern, Spring 2025](https://jobright.ai/jobs/info/66fdb9050a0ec215940679b2?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Oct 01 |
