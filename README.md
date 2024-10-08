@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Design Workshop](https://www.designworkshop.com/)** | **[2025 Spring Internship](https://jobright.ai/jobs/info/6704dacc999cb2cb5e55486d?utm_campaign=1049&utm_source=git)** | Aspen, CO | On Site | Oct 07 |
+| **[Sammons Financial Group Companies](https://www.sammonsfinancialgroup.com)** | **[Graphic Design Intern - Summer 2025](https://jobright.ai/jobs/info/6704b8e5b284ecf656d1e46a?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | On Site | Oct 07 |
+| **[KTGY](http://ktgy.com)** | **[Intern Associate, Interiors (Spring 2024)](https://jobright.ai/jobs/info/6704ad3f29f40e016cb13fca?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Designer, Infotainment UI (Winter/Spring 2025)](https://jobright.ai/jobs/info/67049f7e081d65b3241c3bb0?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Oct 07 |
 | **[AHBL Inc.](http://ahbl.com)** | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/6704a4bfa0781c2f765b28dc?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Oct 07 |
 | **[Fusion 360](https://fusion360agency.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6704827be8b1442a97fef6fb?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | Oct 07 |
@@ -145,7 +148,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Year Round (Digital Media)](https://jobright.ai/jobs/info/66fe7e5cda4915e68048d056?utm_campaign=1049&utm_source=git)** | Pensacola, FL | Hybrid | Oct 03 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/66e24f66cbc3fa8c76735646?utm_campaign=1049&utm_source=git)** | Cincinnati Metro | Hybrid | Oct 03 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Digital Intern - 2025](https://jobright.ai/jobs/info/66c51637a71ed5d1f55c8676?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Oct 03 |
-| **[Epic Games](http://www.epicgames.com)** | **[Game Design Intern](https://jobright.ai/jobs/info/66fe43053b28925d50a82764?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Oct 02 |
+| **[Epic Games](http://www.epicgames.com)** | **[Game Design Intern](https://jobright.ai/jobs/info/66fe43053b28925d50a8274c?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Oct 02 |
 | **[Big Ass Fans](http://www.bigassfans.com)** | **[Marketing Intern - Graphic Design - (Summer Semester 2025)](https://jobright.ai/jobs/info/66fe323a9f68c732304ec7d4?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Oct 02 |
 | **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: UX Designer II](https://jobright.ai/jobs/info/6702138a2b54bd24b93a271e?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Oct 02 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Technical Environment Art Intern](https://jobright.ai/jobs/info/66fe1894b77e087d8ccecd8a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Product Design (UX) - Summer 2025 Corporate Internship](https://jobright.ai/jobs/info/670202b6c63ccabd14cce88c?utm_campaign=1049&utm_source=git)** | Coraopolis, PA | Hybrid | Oct 02 |
 | **[KHAITE](https://khaite.com/)** | **[Wovens Design Intern](https://jobright.ai/jobs/info/66c7fb7d2a96218b475d9ffb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Retail Store Design Intern, Spring 2025](https://jobright.ai/jobs/info/66fe5edecbe7c834c60e5308?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Oct 02 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Wealth Management Digital Client and Partner Experience Intern](https://jobright.ai/jobs/info/66fee1828bb80c920e2733af?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
-| **[Fortrea](https://www.fortrea.com)** | **[User Experience Design Internship](https://jobright.ai/jobs/info/66fedf89d077de7fc1bba718?utm_campaign=1049&utm_source=git)** | Remote_United States | On Site | Oct 02 |
-| ↳ | **[User Experience Design Internship](https://jobright.ai/jobs/info/66fedf89d077de7fc1bba639?utm_campaign=1049&utm_source=git)** | Burlington NC | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
