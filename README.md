@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Recharge](https://rechargepayments.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/670822a31534677356f83a72?utm_campaign=1049&utm_source=git)** | Los Angeles | On Site | Oct 10 |
+| **[Posh Peanut®️](https://poshpeanut.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6707ebaeef956bf535a51908?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 10 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Landscape Architecture Intern- Summer 2025](https://jobright.ai/jobs/info/6707ebaeef956bf535a5193c?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Oct 10 |
 | **[Bilt Rewards](https://www.biltrewards.com)** | **[Freelance - Print Designer](https://jobright.ai/jobs/info/6707b627eb7dd40253197139?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Bishop Fox](https://bishopfox.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66a022ee46b8641105c98bc8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 10 |
+| **[IBM](http://www.ibm.com)** | **[User Experience (UX) Designer Intern: 2025](https://jobright.ai/jobs/info/66eb74a2e8e939ab8aca93af?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 10 |
 | **[JPMorgan Chase & Co.](http://www.jpmorganchase.com)** | **[2025 Firmwide Design Development Program Summer Internship](https://jobright.ai/jobs/info/66eac2ae2eaa00042c7a9173?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - UI/UX Designer Intern](https://jobright.ai/jobs/info/66f7c09909e7e35c42b19088?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Oct 10 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern (Kansas City)](https://jobright.ai/jobs/info/66eb3f0632b4204a3f80d463?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Oct 10 |
 | **[Allstate](http://www.allstate.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/66ebc5617205764d134d062d?utm_campaign=1049&utm_source=git)** | Illinois, United States | Remote | Oct 10 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Warner Bros. Animation Creative Services Design Intern: LA - Spring 2025](https://jobright.ai/jobs/info/67078d0721156ca41afaa0fa?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Oct 10 |
 | **[Seamgen](http://www.seamgen.com/)** | **[User Experience Internship](https://jobright.ai/jobs/info/67078d0721156ca41afaa245?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 09 |
@@ -87,74 +92,69 @@ For a complete list, click the following sortable link below:
 | **[Wayfair](https://www.wayfair.com)** | **[Junior Motion Designer](https://jobright.ai/jobs/info/670633cb54e321f9a6b62592?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 08 |
 | **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Photography (Part-time)](https://jobright.ai/jobs/info/670745a51bc9a0acc5d6fa2c?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Oct 08 |
 | **[Lockton](https://global.lockton.com)** | **[Design Intern](https://jobright.ai/jobs/info/6705ff6f6a5c8c40d6be3575?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Oct 08 |
-| **[Google](https://www.google.com)** | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b30?utm_campaign=1049&utm_source=git)** | Durham, NC, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b3d?utm_campaign=1049&utm_source=git)** | San Bruno, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b33?utm_campaign=1049&utm_source=git)** | San Jose, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b3e?utm_campaign=1049&utm_source=git)** | Reston, VA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b47?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b48?utm_campaign=1049&utm_source=git)** | Irvine, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b34?utm_campaign=1049&utm_source=git)** | Raleigh, NC, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b40?utm_campaign=1049&utm_source=git)** | Santa Cruz, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b44?utm_campaign=1049&utm_source=git)** | Boulder, CO, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b46?utm_campaign=1049&utm_source=git)** | San Diego, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b4b?utm_campaign=1049&utm_source=git)** | Bellevue, WA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b43?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b3a?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b3b?utm_campaign=1049&utm_source=git)** | Kirkland, WA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b2f?utm_campaign=1049&utm_source=git)** | Redwood City, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b3c?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062bd5307d727fae363f94?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Oct 08 |
+| **[Google](https://www.google.com)** | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b38?utm_campaign=1049&utm_source=git)** | Goleta, CA, USA | On Site | Oct 08 |
 | ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b39?utm_campaign=1049&utm_source=git)** | Mountain View, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b49?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b4a?utm_campaign=1049&utm_source=git)** | Cambridge, MA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b42?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b41?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | On Site | Oct 08 |
 | ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b37?utm_campaign=1049&utm_source=git)** | Chicago, IL, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b3c?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, USA | On Site | Oct 08 |
 | ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b3f?utm_campaign=1049&utm_source=git)** | Madison, WI, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b45?utm_campaign=1049&utm_source=git)** | Washington D.C., DC, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b46?utm_campaign=1049&utm_source=git)** | San Diego, CA, USA | On Site | Oct 08 |
 | ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b32?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b31?utm_campaign=1049&utm_source=git)** | Redmond, WA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b34?utm_campaign=1049&utm_source=git)** | Raleigh, NC, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b42?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b3b?utm_campaign=1049&utm_source=git)** | Kirkland, WA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b3d?utm_campaign=1049&utm_source=git)** | San Bruno, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b30?utm_campaign=1049&utm_source=git)** | Durham, NC, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b47?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b4b?utm_campaign=1049&utm_source=git)** | Bellevue, WA, USA | On Site | Oct 08 |
 | ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b36?utm_campaign=1049&utm_source=git)** | Atlanta, GA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b45?utm_campaign=1049&utm_source=git)** | Washington D.C., DC, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b4a?utm_campaign=1049&utm_source=git)** | Cambridge, MA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b40?utm_campaign=1049&utm_source=git)** | Santa Cruz, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b3e?utm_campaign=1049&utm_source=git)** | Reston, VA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b33?utm_campaign=1049&utm_source=git)** | San Jose, CA, USA | On Site | Oct 08 |
 | ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b35?utm_campaign=1049&utm_source=git)** | Portland, OR, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b38?utm_campaign=1049&utm_source=git)** | Goleta, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bde?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bc9?utm_campaign=1049&utm_source=git)** | San Jose, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364be4?utm_campaign=1049&utm_source=git)** | San Bruno, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364be3?utm_campaign=1049&utm_source=git)** | Irvine, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364be1?utm_campaign=1049&utm_source=git)** | Boulder, CO, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd3?utm_campaign=1049&utm_source=git)** | Mountain View, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bcc?utm_campaign=1049&utm_source=git)** | Bellevue, WA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd7?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bdb?utm_campaign=1049&utm_source=git)** | Cambridge, MA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bce?utm_campaign=1049&utm_source=git)** | Kirkland, WA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364be2?utm_campaign=1049&utm_source=git)** | San Diego, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd4?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bcd?utm_campaign=1049&utm_source=git)** | Portland, OR, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd5?utm_campaign=1049&utm_source=git)** | Goleta, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bda?utm_campaign=1049&utm_source=git)** | Raleigh, NC, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bcb?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd9?utm_campaign=1049&utm_source=git)** | Santa Cruz, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bc8?utm_campaign=1049&utm_source=git)** | Reston, VA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062bd5307d727fae363f9d?utm_campaign=1049&utm_source=git)** | Atlanta, GA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd2?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bcf?utm_campaign=1049&utm_source=git)** | Redwood City, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364be0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bdd?utm_campaign=1049&utm_source=git)** | Madison, WI, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bca?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bc7?utm_campaign=1049&utm_source=git)** | Redmond, WA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b44?utm_campaign=1049&utm_source=git)** | Boulder, CO, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b41?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b3a?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062bd5307d727fae363f94?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b48?utm_campaign=1049&utm_source=git)** | Irvine, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b49?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b31?utm_campaign=1049&utm_source=git)** | Redmond, WA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b43?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364b2f?utm_campaign=1049&utm_source=git)** | Redwood City, CA, USA | On Site | Oct 08 |
 | ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bdc?utm_campaign=1049&utm_source=git)** | Durham, NC, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd0?utm_campaign=1049&utm_source=git)** | Washington D.C., DC, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bcc?utm_campaign=1049&utm_source=git)** | Bellevue, WA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bc7?utm_campaign=1049&utm_source=git)** | Redmond, WA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bc9?utm_campaign=1049&utm_source=git)** | San Jose, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364be2?utm_campaign=1049&utm_source=git)** | San Diego, CA, USA | On Site | Oct 08 |
 | ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bdf?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI, USA | On Site | Oct 08 |
 | ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd6?utm_campaign=1049&utm_source=git)** | South San Francisco, CA, USA | On Site | Oct 08 |
 | ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd8?utm_campaign=1049&utm_source=git)** | Chicago, IL, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Design Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364c26?utm_campaign=1049&utm_source=git)** | Madison, WI, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Design Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364c31?utm_campaign=1049&utm_source=git)** | Boulder, CO, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Design Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364c25?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Design Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364c2b?utm_campaign=1049&utm_source=git)** | South San Francisco, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd9?utm_campaign=1049&utm_source=git)** | Santa Cruz, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364be0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd4?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bda?utm_campaign=1049&utm_source=git)** | Raleigh, NC, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bde?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364be3?utm_campaign=1049&utm_source=git)** | Irvine, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd0?utm_campaign=1049&utm_source=git)** | Washington D.C., DC, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bc8?utm_campaign=1049&utm_source=git)** | Reston, VA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bca?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bcd?utm_campaign=1049&utm_source=git)** | Portland, OR, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bcf?utm_campaign=1049&utm_source=git)** | Redwood City, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd7?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bdb?utm_campaign=1049&utm_source=git)** | Cambridge, MA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364be4?utm_campaign=1049&utm_source=git)** | San Bruno, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd2?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364be1?utm_campaign=1049&utm_source=git)** | Boulder, CO, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd3?utm_campaign=1049&utm_source=git)** | Mountain View, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062bd5307d727fae363f9d?utm_campaign=1049&utm_source=git)** | Atlanta, GA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd5?utm_campaign=1049&utm_source=git)** | Goleta, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bce?utm_campaign=1049&utm_source=git)** | Kirkland, WA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bd1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bdd?utm_campaign=1049&utm_source=git)** | Madison, WI, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Research Intern, MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364bcb?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364c17?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, USA | On Site | Oct 08 |
 | ↳ | **[User Experience Design Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364c32?utm_campaign=1049&utm_source=git)** | Durham, NC, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Design Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364c20?utm_campaign=1049&utm_source=git)** | Irvine, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Design Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364c1d?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Design Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364c22?utm_campaign=1049&utm_source=git)** | Chicago, IL, USA | On Site | Oct 08 |
-| ↳ | **[User Experience Design Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364c24?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364c23?utm_campaign=1049&utm_source=git)** | San Bruno, CA, USA | On Site | Oct 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2025](https://jobright.ai/jobs/info/67062c95307d727fae364c28?utm_campaign=1049&utm_source=git)** | Redmond, WA, USA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
