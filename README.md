@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pella Corporation](http://www.pella.com)** | **[Tech Pub Graphic Design Intern - Summer 2025](https://jobright.ai/jobs/info/66d412045ffbdc030c9d89e5?utm_campaign=1049&utm_source=git)** | Pella, IA | On Site | Oct 13 |
+| **[IBM](http://www.ibm.com)** | **[Landscape Architecture Design Intern: 2025](https://jobright.ai/jobs/info/66eeba78aa89d3a9707b820e?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 13 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 Cabinet Designer Summer Internship - Cicero, NY](https://jobright.ai/jobs/info/66ee76e318376b4d3948167b?utm_campaign=1049&utm_source=git)** | Cicero, NY | On Site | Oct 12 |
 | **[Fuss & O'Neill](http://www.fando.com)** | **[Internship - Landscape Designer](https://jobright.ai/jobs/info/66ed39c305594ab16cf41d7a?utm_campaign=1049&utm_source=git)** | Hartford, CT | Hybrid | Oct 12 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/66c586ae93a6fcca6e253be0?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Oct 12 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 Designer Summer Internship - Charlotte, NC](https://jobright.ai/jobs/info/66ee76e318376b4d3948165f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Oct 12 |
 | ↳ | **[2025 Designer Summer Internship - Mansfield, MA](https://jobright.ai/jobs/info/66ee76e318376b4d39481604?utm_campaign=1049&utm_source=git)** | Mansfield, MA | On Site | Oct 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66ed48abbf263aa98d6dac9b?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Oct 12 |
+| **[Barnard College](https://barnard.edu/)** | **[Creative Writing Graduate Fellow](https://jobright.ai/jobs/info/670b9aac73f7746dc39a21fd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 12 |
 | **[IBM](http://www.ibm.com)** | **[User Experience (UX) Design Intern: 2025 (Cloud)](https://jobright.ai/jobs/info/66d2c5982dc7cf2f12fb4c51?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66d20153aa876eac75f1ac0c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Oct 12 |
 | **[Oracle](https://www.oracle.com)** | **[UX Data Science Intern - Fusion](https://jobright.ai/jobs/info/670a4b0c1012209d07f6e223?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Oct 12 |
@@ -79,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Embark Intern (Summer 2025)](https://jobright.ai/jobs/info/670a920dace1001fba2ae8af?utm_campaign=1049&utm_source=git)** | Petersburg, KY | On Site | Oct 11 |
 | **[EXPRESS](http://express.com)** | **[eCommerce Site Production Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34021?utm_campaign=1049&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 11 |
 | ↳ | **[Women's Design Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34031?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
-| ↳ | **[Tech Design Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef3401f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Art Direction, Brand Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34025?utm_campaign=1049&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 11 |
+| ↳ | **[Tech Design Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef3401f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Design Summer Internship Bonobos](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34036?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Men's Design Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef3404e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[Electronic Arts (EA)](http://www.ea.com)** | **[Creative Media Design Intern](https://jobright.ai/jobs/info/6709c5170309bcfb5ef3406d?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 11 |
@@ -120,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cf4d379f819eaf00b4de49?utm_campaign=1049&utm_source=git)** | Celina, TX | On Site | Oct 11 |
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[UX Product Designer – Co-Op](https://jobright.ai/jobs/info/66ed1bd210e483e0438e90a0?utm_campaign=1049&utm_source=git)** | Framingham, MA | On Site | Oct 11 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Design Intern](https://jobright.ai/jobs/info/66ec6856e643fd87b6c5d81d?utm_campaign=1049&utm_source=git)** | Ridgefield, CT | Hybrid | Oct 11 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2025 - UI/UX Intern - Cabin Innovation](https://jobright.ai/jobs/info/66cf106e61c30a0f71e35e45?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Oct 11 |
 | **[Fox News Media](http://foxnews.com)** | **[Summer 2025 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/6708e29b5d3446a0702c76c0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Architectural Intern Summer 2025](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770dc8?utm_campaign=1049&utm_source=git)** | US - CA, Pasadena | On Site | Oct 11 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Summer 2025 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a2e?utm_campaign=1049&utm_source=git)** | New York, New York, USA | On Site | Oct 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - UI/UX Designer Intern](https://jobright.ai/jobs/info/66f7c09909e7e35c42b19088?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Oct 10 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Op Intern Fall 2025](https://jobright.ai/jobs/info/66eb4c559311abb1781756e3?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Oct 10 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66ce6260bfc1b969cd335d17?utm_campaign=1049&utm_source=git)** | Charleston County, SC | On Site | Oct 10 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern (Kansas City)](https://jobright.ai/jobs/info/66eb3f0632b4204a3f80d463?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Oct 10 |
-| **[Allstate](http://www.allstate.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/66ebc5617205764d134d062d?utm_campaign=1049&utm_source=git)** | Illinois, United States | Remote | Oct 10 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[Warner Bros. Animation Creative Services Design Intern: LA - Spring 2025](https://jobright.ai/jobs/info/67078d0721156ca41afaa0fa?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Oct 10 |
-| **[American University](http://american.edu)** | **[Graphic Design and Web Coordinator (Student)](https://jobright.ai/jobs/info/6707747c842bfc4dec54a455?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
