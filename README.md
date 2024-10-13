@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Builders FirstSource](http://www.bldr.com)** | **[2025 Cabinet Designer Summer Internship - Cicero, NY](https://jobright.ai/jobs/info/66ee76e318376b4d3948167b?utm_campaign=1049&utm_source=git)** | Cicero, NY | On Site | Oct 12 |
 | **[Fuss & O'Neill](http://www.fando.com)** | **[Internship - Landscape Designer](https://jobright.ai/jobs/info/66ed39c305594ab16cf41d7a?utm_campaign=1049&utm_source=git)** | Hartford, CT | Hybrid | Oct 12 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/66c586ae93a6fcca6e253be0?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Oct 12 |
 | **[Altruist](https://altruist.com)** | **[Product Design Intern - Summer 2025](https://jobright.ai/jobs/info/66edf14c2e01da21219438c2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 12 |
@@ -71,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[User Research (UR) Design Intern: 2025](https://jobright.ai/jobs/info/670a2449aa14f8dd455bdd50?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 12 |
 | **[L’OCCITANE Group](https://group.loccitane.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6709f8ec099640e47225cd05?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 11 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Youth Product Model](https://jobright.ai/jobs/info/66c5fffde0ca938ac09a6c6a?utm_campaign=1049&utm_source=git)** | Kearney, NE | Hybrid | Oct 11 |
-| **[Barnard College](https://barnard.edu/)** | **[Creative Writing Graduate Fellow](https://jobright.ai/jobs/info/670a368caa9aeb15d12f7b6b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
+| **[Barnard College](https://barnard.edu/)** | **[Creative Writing Graduate Fellow](https://jobright.ai/jobs/info/670b30a53d791545ab3c686d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[LinkedIn](http://linkedin.com)** | **[User Experience Research Intern - Summer 2025](https://jobright.ai/jobs/info/6709df4b397a5339ee4966cd?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | Hybrid | Oct 11 |
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Visual Media Embark Intern Summer 2025](https://jobright.ai/jobs/info/670a8c74e4d3f52c613e3a24?utm_campaign=1049&utm_source=git)** | Petersburg, KY | On Site | Oct 11 |
 | ↳ | **[Graphic Design Embark Intern (Summer 2025)](https://jobright.ai/jobs/info/670a920dace1001fba2ae8af?utm_campaign=1049&utm_source=git)** | Petersburg, KY | On Site | Oct 11 |
@@ -144,7 +145,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cfb43f806f18a8e5b6869b?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Oct 10 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66c58b854031dddaece8f715?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 10 |
 | **[Bishop Fox](https://bishopfox.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/66a022ee46b8641105c98bc8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 10 |
-| **[IBM](http://www.ibm.com)** | **[User Experience (UX) Designer Intern: 2025](https://jobright.ai/jobs/info/66eb74a2e8e939ab8aca93af?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 10 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - Experience Design Intern](https://jobright.ai/jobs/info/66eb85f8c2296c114b2c60b3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Spring 2025 - Interior Design Intern](https://jobright.ai/jobs/info/66cf106e61c30a0f71e35e43?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Oct 10 |
 | **[JPMorgan Chase & Co.](http://www.jpmorganchase.com)** | **[2025 Firmwide Design Development Program Summer Internship](https://jobright.ai/jobs/info/66eac2ae2eaa00042c7a9173?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
