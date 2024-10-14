@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Design And Customize](https://www.designandcustomize.com)** | **[Print Design and Illustrator Intern](https://jobright.ai/jobs/info/670d50d072230f1fa32a84f1?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Oct 14 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/6679561239ca2f81c4371335?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Oct 14 |
+| ↳ | **[Motion Graphics Intern](https://jobright.ai/jobs/info/66464b35bce3147923b9671b?utm_campaign=1049&utm_source=git)** | Washington, United States | Hybrid | Oct 14 |
 | **[Pella Corporation](http://www.pella.com)** | **[Retail Displays Intern - Summer 2025](https://jobright.ai/jobs/info/66eeabcde4a15ac8331bd7d5?utm_campaign=1049&utm_source=git)** | Pella, IA | On Site | Oct 13 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/66c586ae93a6fcca6e253bdd?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Oct 13 |
 | **[Pella Corporation](http://www.pella.com)** | **[Tech Pub Graphic Design Intern - Summer 2025](https://jobright.ai/jobs/info/66d412045ffbdc030c9d89e5?utm_campaign=1049&utm_source=git)** | Pella, IA | On Site | Oct 13 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Graphic Design Intern, Summer 2025](https://jobright.ai/jobs/info/670c93a8bc8b0a4190c7510b?utm_campaign=1049&utm_source=git)** | Orrville, OH | Hybrid | Oct 13 |
 | **[IBM](http://www.ibm.com)** | **[Landscape Architecture Design Intern: 2025](https://jobright.ai/jobs/info/66eeba78aa89d3a9707b820e?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 13 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine UX/UI Design Intern- Summer 2025](https://jobright.ai/jobs/info/66d0bca838095685e472ff71?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Oct 13 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Design Co-op Spring 2025](https://jobright.ai/jobs/info/66ba964ff7734a8fe7e37bf2?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Oct 12 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 Design Summer Internship - Albuquerque, NM](https://jobright.ai/jobs/info/66ee9c42bc7ca2bd2136bc35?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Oct 12 |
 | **[Layton Construction](http://www.laytonconstruction.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/667df2baa8cfb857af6f133e?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Oct 12 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2024 Internship - Creative](https://jobright.ai/jobs/info/66d0cc706df78098fa17af76?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Oct 12 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Visual Media Embark Intern Summer 2025](https://jobright.ai/jobs/info/670a8c74e4d3f52c613e3a24?utm_campaign=1049&utm_source=git)** | Petersburg, KY | On Site | Oct 11 |
 | **[EXPRESS](http://express.com)** | **[eCommerce Site Production Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34021?utm_campaign=1049&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 11 |
 | ↳ | **[Women's Design Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34031?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
-| ↳ | **[Tech Design Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef3401f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Art Direction, Brand Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34025?utm_campaign=1049&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 11 |
+| ↳ | **[Tech Design Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef3401f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Design Summer Internship Bonobos](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34036?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Men's Design Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef3404e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Design Intern](https://jobright.ai/jobs/info/66d10a571649a2ceb79f29a8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photography Internship - Summer 2025](https://jobright.ai/jobs/info/66eb79f05d0f4d9f247f1d69?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Oct 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cf613a1e9accfd71329785?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | On Site | Oct 11 |
 | **[Uline](http://www.uline.com)** | **[Photography Internship - Summer 2025](https://jobright.ai/jobs/info/66eb8294964911d079f7369b?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Oct 11 |
-| **[H&R Block](http://www.hrblock.com)** | **[Embark Summer 2025 Intern - Designer, UX Design, Product Design; Marketing & Experience](https://jobright.ai/jobs/info/66ec8128e361eb260c3350c1?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/66c5867b93a6fcca6e253913?utm_campaign=1049&utm_source=git)** | Rogers, AR | On Site | Oct 11 |
 | **[Cirrus](http://cirrusaircraft.com)** | **[CAD Designer Co-Op, January through August 2025](https://jobright.ai/jobs/info/66cf983301881ba5985aa646?utm_campaign=1049&utm_source=git)** | Duluth, MN | On Site | Oct 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66ed4ed0b0e4d39c8aab36ff?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Oct 11 |
