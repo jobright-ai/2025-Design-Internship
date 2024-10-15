@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - Product Designer](https://jobright.ai/jobs/info/670daffba3816b8136071f45?utm_campaign=1049&utm_source=git)** | SeaTac, WA | On Site | Oct 14 |
+| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer Intern - Summer 2025](https://jobright.ai/jobs/info/670daffba3816b8136071f67?utm_campaign=1049&utm_source=git)** | Warren, NJ | Hybrid | Oct 14 |
+| **[SGK](https://www.sgkinc.com)** | **[Production Design Intern](https://jobright.ai/jobs/info/670d8c7afb555a4d13262f25?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 14 |
+| ↳ | **[Production Design Intern](https://jobright.ai/jobs/info/670d8c7afb555a4d132632b6?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Oct 14 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Spring 2025 - Interior Design Intern (Dallas)](https://jobright.ai/jobs/info/670d7c0ac3e2909122b7a39e?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Oct 14 |
 | **[Design And Customize](https://www.designandcustomize.com)** | **[Print Design and Illustrator Intern](https://jobright.ai/jobs/info/670d50d072230f1fa32a84f1?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Oct 14 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/6679561239ca2f81c4371335?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Oct 14 |
 | ↳ | **[Motion Graphics Intern](https://jobright.ai/jobs/info/66464b35bce3147923b9671b?utm_campaign=1049&utm_source=git)** | Washington, United States | Hybrid | Oct 14 |
+| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Motion Graphics Design (Part-time)](https://jobright.ai/jobs/info/670d91d2e50cb81924a52c4c?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Oct 13 |
 | **[Pella Corporation](http://www.pella.com)** | **[Retail Displays Intern - Summer 2025](https://jobright.ai/jobs/info/66eeabcde4a15ac8331bd7d5?utm_campaign=1049&utm_source=git)** | Pella, IA | On Site | Oct 13 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/66c586ae93a6fcca6e253bdd?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Oct 13 |
 | **[Pella Corporation](http://www.pella.com)** | **[Tech Pub Graphic Design Intern - Summer 2025](https://jobright.ai/jobs/info/66d412045ffbdc030c9d89e5?utm_campaign=1049&utm_source=git)** | Pella, IA | On Site | Oct 13 |
@@ -91,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Visual Media Embark Intern Summer 2025](https://jobright.ai/jobs/info/670a8c74e4d3f52c613e3a24?utm_campaign=1049&utm_source=git)** | Petersburg, KY | On Site | Oct 11 |
 | **[EXPRESS](http://express.com)** | **[eCommerce Site Production Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34021?utm_campaign=1049&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 11 |
 | ↳ | **[Women's Design Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34031?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
-| ↳ | **[Art Direction, Brand Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34025?utm_campaign=1049&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 11 |
 | ↳ | **[Tech Design Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef3401f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
+| ↳ | **[Art Direction, Brand Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34025?utm_campaign=1049&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 11 |
 | ↳ | **[Design Summer Internship Bonobos](https://jobright.ai/jobs/info/6709c5170309bcfb5ef34036?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Men's Design Summer Internship](https://jobright.ai/jobs/info/6709c5170309bcfb5ef3404e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Design Intern](https://jobright.ai/jobs/info/66d10a571649a2ceb79f29a8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cfb43f806f18a8e5b686a3?utm_campaign=1049&utm_source=git)** | St Petersburg, FL | On Site | Oct 10 |
 | **[Kendra Scott](http://www.kendrascott.com)** | **[Design Intern](https://jobright.ai/jobs/info/670c01cf5d001f33964fe130?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disneyland Resort Corporate Social Responsibility Intern, Spring 2025](https://jobright.ai/jobs/info/6708c259be3a6c2b92977be3?utm_campaign=1049&utm_source=git)** | Anaheim, CA | Hybrid | Oct 10 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66ce64c931316161b6c1d7e4?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
-| **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2025 - Photography, Videography Student Internship](https://jobright.ai/jobs/info/66f7167d53924c5339729aa3?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Oct 10 |
-| **[Posh Peanut®️](https://poshpeanut.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6707ebaeef956bf535a51908?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 10 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Landscape Architecture Intern- Summer 2025](https://jobright.ai/jobs/info/6707ebaeef956bf535a5193c?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Oct 10 |
-| **[Bilt Rewards](https://www.biltrewards.com)** | **[Freelance - Print Designer](https://jobright.ai/jobs/info/6707b627eb7dd40253197139?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
-| **[Stitch Fix](http://stitchfix.com)** | **[Styling Talent Community- Join Today!](https://jobright.ai/jobs/info/66b4d1398dc46123fa4d1f9c?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
