@@ -57,10 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Intern - Marketing Graphic Design](https://jobright.ai/jobs/info/670f042bf421c5c40d2ecec9?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Oct 15 |
+| **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Salty Snack Packaging Co-Op (Fall 2025)](https://jobright.ai/jobs/info/670efa5755873856a3f3a750?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 15 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Design Intern - Summer 2025 (GARNER, North Carolina, United States, 27529)](https://jobright.ai/jobs/info/670ef7428aa77300ce61c64a?utm_campaign=1049&utm_source=git)** | Garner, NC | On Site | Oct 15 |
+| ↳ | **[Marketing Graphic Design Intern - Summer 2025 (Georgia, United States)](https://jobright.ai/jobs/info/670ef7428aa77300ce61c662?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Oct 15 |
+| **[Cintas](http://www.cintas.com)** | **[Intern - Design](https://jobright.ai/jobs/info/670ee377eea26065611d11f2?utm_campaign=1049&utm_source=git)** | Mason, OH | On Site | Oct 15 |
+| **[HNTB](http://www.hntb.com/)** | **[Co-Op/Intern Architect - Spring/Summer 2024 - 2025](https://jobright.ai/jobs/info/670ed8cb34ce25c335e0cb7a?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 15 |
+| **[Flash Social](https://www.flashsocial.app/)** | **[Motion Graphics Designer](https://jobright.ai/jobs/info/670ed2ee30b4f9028dfa53e4?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 15 |
+| **[Koddi](http://www.koddi.com)** | **[User Experience (UX) Designer - Cohort](https://jobright.ai/jobs/info/670ed8cb34ce25c335e0cbde?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Oct 15 |
+| **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/670ecb9546551c046dd61154?utm_campaign=1049&utm_source=git)** | Ripon, WI | Remote | Oct 15 |
+| **[ATPCO](http://www.atpco.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/670ec72762d4c49bccaf74b2?utm_campaign=1049&utm_source=git)** | Herndon, VA | Remote | Oct 15 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern - Research - Web Design](https://jobright.ai/jobs/info/670e99bc375bc23ed54cf321?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Oct 15 |
+| **[BHDP Architecture](http://bhdp.com)** | **[2025 Spring Columbus Architectural Internship](https://jobright.ai/jobs/info/6705e7ea6b564fdef641313f?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Oct 15 |
 | **[UNICEF](https://agora.unicef.org/)** | **[Internship - Communications and Graphic Design for Sustainability, Sustainable Operations Unit, DFAM, NYHQ - Duration 6 Months Fully Remote](https://jobright.ai/jobs/info/67074c45bb2addd53a81be2a?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 15 |
+| **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/670ec72762d4c49bccaf760f?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Oct 15 |
 | **[Koddi](http://www.koddi.com)** | **[User Experience (UX) Designer - Cohort](https://jobright.ai/jobs/info/670e7bd6a74fad48e795be22?utm_campaign=1049&utm_source=git)** | Fort Worth, Texas | On Site | Oct 15 |
-| **[Amway](http://www.amway.com)** | **[Digital Product Design (UI/IX) Intern, Summer 2025](https://jobright.ai/jobs/info/66f231d047aac89868ca05bc?utm_campaign=1049&utm_source=git)** | Ada, MI | Hybrid | Oct 15 |
+| **[Amway](http://www.amway.com)** | **[Event Experience Design Intern, Summer 2025](https://jobright.ai/jobs/info/66f231d047aac89868ca0589?utm_campaign=1049&utm_source=git)** | Ada, MI | Hybrid | Oct 15 |
+| ↳ | **[Digital Product Design (UI/IX) Intern, Summer 2025](https://jobright.ai/jobs/info/66f231d047aac89868ca05bc?utm_campaign=1049&utm_source=git)** | Ada, MI | Hybrid | Oct 15 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6677cdd074ec1a95a89afa2f?utm_campaign=1049&utm_source=git)** | Washington, United States | Hybrid | Oct 15 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Photography Intern - Summer 2025 (Calhoun, Georgia, United States, 30701)](https://jobright.ai/jobs/info/66f1bca5291a19364fb97dff?utm_campaign=1049&utm_source=git)** | Calhoun, GA | On Site | Oct 15 |
 | **[Tanium](http://www.tanium.com)** | **[User Experience Design Intern (UX/UI)](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53dd?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | Oct 15 |
@@ -92,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Landscape Architecture Design Intern: 2025](https://jobright.ai/jobs/info/66eeba78aa89d3a9707b820e?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 13 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine UX/UI Design Intern- Summer 2025](https://jobright.ai/jobs/info/66d0bca838095685e472ff71?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Oct 13 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[Design Intern](https://jobright.ai/jobs/info/670e286d581775258aa32495?utm_campaign=1049&utm_source=git)** | Carol Stream, IL | On Site | Oct 13 |
+| **[Barr Engineering Co.](http://www.barr.com)** | **[Internship - Landscape Architect (Hybrid)](https://jobright.ai/jobs/info/66998e4fd1ca770d2bb5ac05?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 12 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 Design Summer Internship - Albuquerque, NM](https://jobright.ai/jobs/info/66ee9c42bc7ca2bd2136bc35?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Oct 12 |
 | **[Layton Construction](http://www.laytonconstruction.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/667df2baa8cfb857af6f133e?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Oct 12 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2024 Internship - Creative](https://jobright.ai/jobs/info/66d0cc706df78098fa17af76?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Oct 12 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cirrus](http://cirrusaircraft.com)** | **[CAD Designer Co-Op, January through August 2025](https://jobright.ai/jobs/info/66cf983301881ba5985aa646?utm_campaign=1049&utm_source=git)** | Duluth, MN | On Site | Oct 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66ed4ed0b0e4d39c8aab36ff?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Oct 11 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66ed5ca89340144da7b550fb?utm_campaign=1049&utm_source=git)** | Tallahassee, FL | On Site | Oct 11 |
-| **[ASML](https://www.asml.com)** | **[Internship - UI/UX Designer Research](https://jobright.ai/jobs/info/66ecd54f233cdf4275077899?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 11 |
-| **[The Haskell Company](http://www.haskell.com)** | **[Interior Design Intern - Oklahoma City, OK](https://jobright.ai/jobs/info/66ec3c74e7fbe102a08dd592?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Oct 11 |
-| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[UI/UX & Web Production Intern](https://jobright.ai/jobs/info/66cf771864786e060cc4226c?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Oct 11 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66d00432eb861cdb5c5f8630?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Oct 11 |
-| **[Michelin](http://www.michelin.com/)** | **[Summer 2025 Graphic Design Intern_Greenville, SC](https://jobright.ai/jobs/info/66ec75a77e3f4d2bca89c2d9?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Oct 11 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2025 Graduate Intern - UX Intern - Monetary Affairs](https://jobright.ai/jobs/info/66ecaf9340f7ddcfa7aeda02?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Oct 11 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66c58b854031dddaece8f712?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Oct 11 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cfb43f806f18a8e5b686af?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Oct 11 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cf4d379f819eaf00b4de3a?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Oct 11 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66cf4d379f819eaf00b4de57?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Oct 11 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Design Intern](https://jobright.ai/jobs/info/66d112cacffc3355260a7589?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Oct 11 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66d0b394a852b522219c6d77?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Oct 11 |
-| **[Uline](http://www.uline.com)** | **[Photography Internship - Summer 2025](https://jobright.ai/jobs/info/66eb6fb17b8112708d860e3d?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 11 |
-| **[The Haskell Company](http://www.haskell.com)** | **[Architecture Intern - Oklahoma City, OK](https://jobright.ai/jobs/info/66ec3c74e7fbe102a08dd581?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
