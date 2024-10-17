@@ -57,15 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MTS Systems Corporation](http://www.mts.com)** | **[Designer/Drafter Intern](https://jobright.ai/jobs/info/67107f8ce50f3435f7709db9?utm_campaign=1049&utm_source=git)** | Minnesota, United States | On Site | Oct 16 |
 | **[Icon Commerce](https://iconmc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/67103c983765cce015c17cb5?utm_campaign=1049&utm_source=git)** | Covington, KY | On Site | Oct 16 |
 | **[Nokia](http://www.nokia.com)** | **[Industrial Design Co-op](https://jobright.ai/jobs/info/6710358e4031d8ed1acf1a09?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment Costume Design Intern, Spring 2025](https://jobright.ai/jobs/info/67102265cfbe528ca5165917?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Oct 16 |
 | **[Henkel](http://www.henkel.com)** | **[Industrial Design Intern, Consumer Brands – Spring 2025](https://jobright.ai/jobs/info/67101ca52ce9b425eeae5857?utm_campaign=1049&utm_source=git)** | Trumbull, CT | On Site | Oct 16 |
-| **[nCino, Inc.](http://ncino.com)** | **[Summer 2025 Product Design Intern / Utah](https://jobright.ai/jobs/info/6710152000f4f82cc2f98bfb?utm_campaign=1049&utm_source=git)** | US - Utah - Lehi | On Site | Oct 16 |
-| **[Adam Lippes](https://adamlippes.com)** | **[Fashion Design/PD Intern](https://jobright.ai/jobs/info/670ffc35f5fbb92f91170464?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 16 |
+| **[nCino, Inc.](http://ncino.com)** | **[Summer 2025 Product Design Intern / Utah](https://jobright.ai/jobs/info/6710152000f4f82cc2f98bfa?utm_campaign=1049&utm_source=git)** | US - Utah - Lehi | On Site | Oct 16 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/670fe6d55445045f8d6ab1eb?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 16 |
-| **[Fortrea](https://www.fortrea.com)** | **[UX/UI Intern - Digital Product Team](https://jobright.ai/jobs/info/670fd98fddc378dd947bf0e2?utm_campaign=1049&utm_source=git)** | Remote_United States | On Site | Oct 16 |
-| ↳ | **[UX/UI Intern - Digital Product Team](https://jobright.ai/jobs/info/670fd98fddc378dd947bf0b1?utm_campaign=1049&utm_source=git)** | Raleigh NC | On Site | Oct 16 |
+| **[Fortrea](https://www.fortrea.com)** | **[UX/UI Intern - Digital Product Team](https://jobright.ai/jobs/info/670fd98fddc378dd947bf0b1?utm_campaign=1049&utm_source=git)** | Raleigh NC | On Site | Oct 16 |
+| ↳ | **[UX/UI Intern - Digital Product Team](https://jobright.ai/jobs/info/670fd98fddc378dd947bf0e2?utm_campaign=1049&utm_source=git)** | Remote_United States | On Site | Oct 16 |
 | **[Lush Decor Home](http://trianglehf.com/)** | **[Visual & Copy Performance Intern](https://jobright.ai/jobs/info/670fd8081077e0f5b8d092b0?utm_campaign=1049&utm_source=git)** | East Brunswick, NJ | Hybrid | Oct 16 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Design Intern - Richmond, VA (Rising Seniors)](https://jobright.ai/jobs/info/670fcc3362a2d8aaa92346a8?utm_campaign=1049&utm_source=git)** | US-VA Richmond | Hybrid | Oct 16 |
 | **[tms](https://themarketingstore.com)** | **[Summer Creative Intern](https://jobright.ai/jobs/info/66d7a8e04162ed59cde4d465?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
@@ -142,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Landscape Architecture Design Intern: 2025](https://jobright.ai/jobs/info/66eeba78aa89d3a9707b820e?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 13 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine UX/UI Design Intern- Summer 2025](https://jobright.ai/jobs/info/66d0bca838095685e472ff71?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Oct 13 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[Design Intern](https://jobright.ai/jobs/info/670e286d581775258aa32495?utm_campaign=1049&utm_source=git)** | Carol Stream, IL | On Site | Oct 13 |
+| **[Barnard College](https://barnard.edu/)** | **[Creative Writing Graduate Fellow](https://jobright.ai/jobs/info/67107bb510adfa2a3113f61a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 12 |
 | **[Barr Engineering Co.](http://www.barr.com)** | **[Internship - Landscape Architect (Hybrid)](https://jobright.ai/jobs/info/66998e4fd1ca770d2bb5ac05?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 12 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 Design Summer Internship - Albuquerque, NM](https://jobright.ai/jobs/info/66ee9c42bc7ca2bd2136bc35?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Oct 12 |
 | **[Layton Construction](http://www.laytonconstruction.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/667df2baa8cfb857af6f133e?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Oct 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Graphic Design Embark Intern (Summer 2025)](https://jobright.ai/jobs/info/670cec30ac8302bc0356f5a7?utm_campaign=1049&utm_source=git)** | Petersburg, KY | On Site | Oct 12 |
 | **[IBM](http://www.ibm.com)** | **[User Experience (UX) Design Intern: 2025 (Cloud)](https://jobright.ai/jobs/info/66d2c5982dc7cf2f12fb4c51?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66d20153aa876eac75f1ac0c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Oct 12 |
-| **[Oracle](https://www.oracle.com)** | **[UX Data Science Intern - Fusion](https://jobright.ai/jobs/info/670a4b0c1012209d07f6e223?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
