@@ -80,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Technical Designer Intern - Summer 2025 (Apex Legends)](https://jobright.ai/jobs/info/66f72845d990f672ad7cd46c?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Oct 19 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2025 Spring Internship](https://jobright.ai/jobs/info/67138016bef757edd7907795?utm_campaign=1049&utm_source=git)** | Denver County, CO | On Site | Oct 19 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - Product Designer](https://jobright.ai/jobs/info/670daffba3816b8136071f45?utm_campaign=1049&utm_source=git)** | SeaTac, WA | On Site | Oct 18 |
-| **[Draper](https://www.draper.com)** | **[User Experience & Performance Intern](https://jobright.ai/jobs/info/671426fa086b8b2f26a06b08?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Oct 18 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Project Management Intern](https://jobright.ai/jobs/info/6712f1c6d42cfd3e326a28e9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Magnopus](http://www.magnopus.com)** | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6712de8cfdcdb5be10401358?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | On Site | Oct 18 |
 | **[The New York Times](https://www.nytco.com/)** | **[Kitchen Team, Wirecutter Intern ](https://jobright.ai/jobs/info/6712dd617c526ca553713995?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Apparel Technical Design Undergraduate Internship](https://jobright.ai/jobs/info/66f4c64e68a2da80132d297b?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 17 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Living Design Intern - Home Accessories](https://jobright.ai/jobs/info/66f3e437b4dd7291e7a6eda7?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 17 |
 | **[Epic Games](http://www.epicgames.com)** | **[Character Intern](https://jobright.ai/jobs/info/66f45f99638b18949eb31d51?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Oct 17 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Experience Team (EX) - UX Researcher Internships - Summer 2025](https://jobright.ai/jobs/info/66f4d0b1d5cb6b0abcef7d0a?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
