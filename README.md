@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment CAD Design Intern, Spring 2025](https://jobright.ai/jobs/info/671f8b52301551cc6d0f2adc?utm_campaign=1049&utm_source=git)** | Anaheim, CA, USA | Hybrid | Oct 28 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Women's Design Intern](https://jobright.ai/jobs/info/671f566d951e4f6a78b51fd8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[Concord](https://concord.com/)** | **[KIDZ BOP Design Intern](https://jobright.ai/jobs/info/671f36b2ee8b7157e2311888?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Women's Design Intern](https://jobright.ai/jobs/info/671f1123538783a582eac1a0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 27 |
 | **[HYPEBEAST](http://hypebeast.com)** | **[Design Intern](https://jobright.ai/jobs/info/671ef7721589691ccdaadbdc?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 27 |
 | **[Bilt Rewards](https://www.biltrewards.com)** | **[Freelance - Print Designer](https://jobright.ai/jobs/info/671e26515d0829d8436c45b5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Snowflake](https://www.snowflake.com)** | **[Educational Services, UX Intern](https://jobright.ai/jobs/info/671e1496d87127797e10ceff?utm_campaign=1049&utm_source=git)** | Dublin, CA | On Site | Oct 27 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Electrical Pre-Press (EPP) Graphic Design Co-op (Spring 2025 Jan-June)](https://jobright.ai/jobs/info/66e4a2adba227f94793e8c65?utm_campaign=1049&utm_source=git)** | Neenah, WI | On Site | Oct 27 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, HCI & Visualization Research (Graduate level)](https://jobright.ai/jobs/info/671d97fed2d05120747e4da9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 26 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66c70bb172042ef9dfd4014f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 26 |
 | **[Icon Commerce](https://iconmc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/67103c983765cce015c17cb5?utm_campaign=1049&utm_source=git)** | Covington, KY | On Site | Oct 26 |
@@ -89,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Page Southerland Page, Inc.](http://pagethink.com)** | **[Tradewell Fellowship](https://jobright.ai/jobs/info/671c4dd5b52b09468c22ce9f?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Oct 25 |
 | **[Duluth Trading Company](http://www.duluthtrading.com)** | **[Product Design Internship - 2025](https://jobright.ai/jobs/info/671c212dcc81a5f4e8650624?utm_campaign=1049&utm_source=git)** | Mount Horeb, WI | On Site | Oct 25 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Visual Merchandising Spring Intern](https://jobright.ai/jobs/info/671c1bdd27e38f20215216ae?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 25 |
-| ↳ | **[Graphic Design Spring Intern - Entertainment](https://jobright.ai/jobs/info/671c1bdd27e38f202152169f?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 25 |
 | ↳ | **[Graphic Design Lifestyle Spring Intern](https://jobright.ai/jobs/info/671c1bdd27e38f20215216a3?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 25 |
+| ↳ | **[Graphic Design Spring Intern - Entertainment](https://jobright.ai/jobs/info/671c1bdd27e38f202152169f?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 25 |
 | **[American Medical Association](http://ama-assn.org)** | **[Intern – Medical Illustration (Hybrid)](https://jobright.ai/jobs/info/671c10c69fd4b8fe1ed5c232?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
 | **[Barr Engineering Co.](http://www.barr.com)** | **[Internship – Landscape Architect (Hybrid)](https://jobright.ai/jobs/info/671c0812e85cd4db21752512?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 25 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Graphic Design - Entertainment Spring Intern](https://jobright.ai/jobs/info/671bffb73fc960fae9bed3fe?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 25 |
@@ -102,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disneyland Resort Communications Event Systems Intern, Spring 2025](https://jobright.ai/jobs/info/671bd35c7d8efd924f44ddf8?utm_campaign=1049&utm_source=git)** | Anaheim, CA, USA | Hybrid | Oct 25 |
 | **[ERG](https://www.erg.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/671bcf779b2624420f2169da?utm_campaign=1049&utm_source=git)** | Morrisville, NC | Remote | Oct 25 |
 | **[Duluth Trading Company](http://www.duluthtrading.com)** | **[Graphic Design Internship - 2025](https://jobright.ai/jobs/info/671bcd6ca616b5caf6cd968d?utm_campaign=1049&utm_source=git)** | Mount Horeb, WI | On Site | Oct 25 |
-| **[PUMA Group](http://us.puma.com/)** | **[Apprentice - Sportstyle Footwear Design](https://jobright.ai/jobs/info/671bc524896aa75b20b383ae?utm_campaign=1049&utm_source=git)** | PUMA Boston International Office | On Site | Oct 25 |
-| ↳ | **[Apprentice, RCC Apparel Development](https://jobright.ai/jobs/info/671bc524896aa75b20b383cd?utm_campaign=1049&utm_source=git)** | PUMA Boston International Office | On Site | Oct 25 |
+| **[PUMA Group](http://us.puma.com/)** | **[Apprentice, RCC Apparel Development](https://jobright.ai/jobs/info/671bc524896aa75b20b3839d?utm_campaign=1049&utm_source=git)** | PUMA Boston International Office | On Site | Oct 25 |
+| ↳ | **[Apprentice - Sportstyle Footwear Design](https://jobright.ai/jobs/info/671bc524896aa75b20b383ae?utm_campaign=1049&utm_source=git)** | PUMA Boston International Office | On Site | Oct 25 |
 | ↳ | **[Apprentice, RCC Apparel Design](https://jobright.ai/jobs/info/671bc524896aa75b20b383d2?utm_campaign=1049&utm_source=git)** | PUMA Boston International Office | On Site | Oct 25 |
 | **[ERG](https://www.erg.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/671bd461c1573085ae0025c3?utm_campaign=1049&utm_source=git)** | Morrisville, NC | On Site | Oct 25 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Landscape Designer - Landscape Maintenance](https://jobright.ai/jobs/info/671bd1d979f71109788a514f?utm_campaign=1049&utm_source=git)** | Lilburn, GA | On Site | Oct 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](http://www.delta.com)** | **[Intern, Innovation Designer (Spring 2025)](https://jobright.ai/jobs/info/66e2de5a56bc504c283c4a43?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
 | **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/66e0f34875ee46673715d0fb?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Oct 24 |
 | ↳ | **[Landscape Architect Intern](https://jobright.ai/jobs/info/66e0f34875ee46673715d0f9?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | Hybrid | Oct 24 |
-| **[Epic Games](http://www.epicgames.com)** | **[UI Art Intern](https://jobright.ai/jobs/info/6707ca85dde8b06bf02b0a37?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Oct 24 |
-| **[Respawn Entertainment](http://www.respawn.com/)** | **[Concept Art Intern - Summer 2025 (Star Wars Jedi)](https://jobright.ai/jobs/info/671779b7fbe799d0053729d2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 24 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[Web Design Internship](https://jobright.ai/jobs/info/66fd9657475779bc219d40a6?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
