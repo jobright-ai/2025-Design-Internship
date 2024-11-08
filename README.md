@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nike](http://www.nike.com)** | **[Nike, Inc. Store Design Undergraduate Internship](https://jobright.ai/jobs/info/672e58299fbfc3bb56ce91b2?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 08 |
+| **[Fleur du Mal](http://fleurdumal.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/672e49185638c6d2c86d9e56?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Design](https://jobright.ai/jobs/info/6711d30b4a12706420f49dca?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Nov 08 |
 | **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Graphic Design](https://jobright.ai/jobs/info/67116f7ab9059bad22a3a5cd?utm_campaign=1049&utm_source=git)** | Avon, OH | Hybrid | Nov 08 |
 | **[GAF](http://www.gaf.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/672df7bbe003bbee1655031a?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Nov 08 |
@@ -112,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[tms](https://themarketingstore.com)** | **[Summer Creative Intern](https://jobright.ai/jobs/info/66d7a8e04162ed59cde4d465?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
 | **[Atlassian](https://www.atlassian.com)** | **[UX Research Intern, 2025 Summer U.S.](https://jobright.ai/jobs/info/672c20615c971cbb7a962684?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 06 |
 | ↳ | **[UX Research Intern, 2025 Summer U.S.](https://jobright.ai/jobs/info/672c20615c971cbb7a9625df?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 06 |
-| **[Dreamwear](https://www.dreamwear.com/)** | **[Print Design Intern](https://jobright.ai/jobs/info/672d18bef7bbd59729cab846?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/672d18bef7bbd59729cab83e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
+| **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern](https://jobright.ai/jobs/info/672d18bef7bbd59729cab83e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
+| ↳ | **[Print Design Intern](https://jobright.ai/jobs/info/672d18bef7bbd59729cab846?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Experience Design](https://jobright.ai/jobs/info/67296ed7aed74ff39cd938d1?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Nov 06 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern - Sleepwear](https://jobright.ai/jobs/info/672d2566926b4980b5545ea9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Marketing Photography and Videography](https://jobright.ai/jobs/info/672c0a6b4c6ce94bdbe5c83d?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Nov 06 |
@@ -131,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, UX/UI Design](https://jobright.ai/jobs/info/672b96bea29017855b21f2b4?utm_campaign=1049&utm_source=git)** | Oakland, CA | Hybrid | Nov 06 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Graphic Design Intern - 2025 Season](https://jobright.ai/jobs/info/672b950dc3ed234b41a36d83?utm_campaign=1049&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105 | On Site | Nov 06 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/672b87907cd8a1bd3ad981bc?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Nov 06 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/66f3107607cfcb3f4e4116e1?utm_campaign=1049&utm_source=git)** | Dayton, OH | On Site | Nov 06 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[3D Artist Intern - Summer 2025 (Georgia, United States)](https://jobright.ai/jobs/info/672b7c40f645acc803dc5fd5?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Nov 06 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/670ecb9546551c046dd61154?utm_campaign=1049&utm_source=git)** | Ripon, WI | Remote | Nov 06 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Creative Intern - Summer 2025](https://jobright.ai/jobs/info/672b586337d97873ac408f76?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2025 US Summer Internship - VFX](https://jobright.ai/jobs/info/672abc822950b19d74b20c8f?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 05 |
 | **[GSD&M](http://www.gsdm.com)** | **[Spring 2025 - Creative Assistant (Copywriter)](https://jobright.ai/jobs/info/672ab12ebac3ec9f1b8c27b5?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Nov 05 |
 | **[Riot Games](http://www.riotgames.com)** | **[Technical Artist Intern - Tools & Pipeline - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6725a19a4ca64ed677064492?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 05 |
-| **[Blackstone](http://blackstone.com)** | **[2025 Blackstone LaunchPad Summer Analyst – Corporate Affairs, Visual Design](https://jobright.ai/jobs/info/672aa530accfa86d33ef7ee3?utm_campaign=1049&utm_source=git)** | New York | On Site | Nov 05 |
-| **[GitHub](https://github.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/672aa2cb3bc24e73f890ea06?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 05 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Winter Intern - Architecture](https://jobright.ai/jobs/info/672a89c1b485983d9e5acbd8?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
