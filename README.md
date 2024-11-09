@@ -57,17 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Game Night Photography Internship (Spring 2025)](https://jobright.ai/jobs/info/672f24d8520f59e543f60ebb?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
+| **[Design Workshop](https://www.designworkshop.com/)** | **[2025 DIGILAB Spring Internship](https://jobright.ai/jobs/info/672effeafad33ff244b32c67?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Nov 08 |
+| **[Nike](http://www.nike.com)** | **[Nike, Inc. Global Brand Experience + Innovation Undergraduate Internship](https://jobright.ai/jobs/info/672edd9d3b7d607e451bb63b?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 08 |
 | **[Volkswagen of America, Inc](https://www.vw.com/)** | **[Design Intern](https://jobright.ai/jobs/info/672ec92682ea6200f04909c5?utm_campaign=1049&utm_source=git)** | Oxnard, CA | On Site | Nov 08 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2025 - Multimedia Specialist Intern](https://jobright.ai/jobs/info/672ebeaaa67a9bc5d2d6d19f?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Nov 08 |
 | **[Texas A&M University](http://www.tamu.edu/)** | **[Postdoctoral Research Associate, Submerged Gulf of Mexico Landscapes](https://jobright.ai/jobs/info/672eb0deb85ef69ee27965d3?utm_campaign=1049&utm_source=git)** | College Station, TX | On Site | Nov 08 |
-| **[ShipHawk](http://shiphawk.com)** | **[Technical Writing Internship I Spring 2025](https://jobright.ai/jobs/info/672ea7bcc7dd19a038950845?utm_campaign=1049&utm_source=git)** | Santa Barbara, CA | On Site | Nov 08 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433be?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - UX Quantitative Research](https://jobright.ai/jobs/info/672eadb11f7929df6c4433ae?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e5?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 08 |
-| ↳ | **[2025 Intern - UX Research Operations](https://jobright.ai/jobs/info/672eadb11f7929df6c4433b1?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Nov 08 |
-| ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - UX Research Operations](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 08 |
+| ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
+| ↳ | **[2025 Intern - UX Research Operations](https://jobright.ai/jobs/info/672eadb11f7929df6c4433b1?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Nov 08 |
 | **[Nike](http://www.nike.com)** | **[Nike, Inc. Global Brand Experience + Innovation Undergraduate Internship](https://jobright.ai/jobs/info/672e9e39f970ddc1e2139530?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 08 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern Summer 2025 - Human Centered Design](https://jobright.ai/jobs/info/672e9441f44d10ba109490be?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | Nov 08 |
 | **[Cisco](http://www.cisco.com)** | **[UX/UI Design Intern - Summer 2025 Internship (Cisco Network User Experience)](https://jobright.ai/jobs/info/672e933bdb87c7f1f358c739?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 08 |
@@ -127,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[UX Designer Intern](https://jobright.ai/jobs/info/66d8e3ed027e5a450863fdb5?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Nov 07 |
 | **[Nike](http://www.nike.com)** | **[Jordan Footwear Color & Materials Design Undergraduate Internship](https://jobright.ai/jobs/info/672ca95cd887a81aae6321ae?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 07 |
 | ↳ | **[Jordan Virtual Studios 3D Design Undergraduate Internship](https://jobright.ai/jobs/info/66f467601f194ab277a0b0ae?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 07 |
-| **[Cintas](http://www.cintas.com)** | **[Intern - Design](https://jobright.ai/jobs/info/670ee377eea26065611d11f2?utm_campaign=1049&utm_source=git)** | Mason, OH | On Site | Nov 06 |
+| **[Nike](http://www.nike.com)** | **[NIKE Inc. Product Graphics Design Internship](https://jobright.ai/jobs/info/66f37bfee99d9c8ee84b2950?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 06 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Beauty Creative Internship (Spring 2025)](https://jobright.ai/jobs/info/672c85e22906d8c566abefda?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Photoshop Content Specialist](https://jobright.ai/jobs/info/672968d4b934ac6799e4c217?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Nov 06 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Marketing Photography and Videography](https://jobright.ai/jobs/info/672c64081521de41d5fd9af4?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Nov 06 |
@@ -136,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, UX/UI Design](https://jobright.ai/jobs/info/672c30484c2cf15f3398995b?utm_campaign=1049&utm_source=git)** | Oakland, CA | Hybrid | Nov 06 |
 | ↳ | **[Intern, UX/UI Design](https://jobright.ai/jobs/info/672c3c639f60750f7b196f30?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Experience Design](https://jobright.ai/jobs/info/67296ed7aed74ff39cd938f2?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Nov 06 |
+| **[WillowTree](http://www.willowtreeapps.com)** | **[Design (UX/UI) Intern (US) - Summer 2025](https://jobright.ai/jobs/info/6708c16839119dd5c7b346a5?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | Nov 06 |
 | **[Graphic Packaging International, LLC](http://www.graphicpkg.com)** | **[Intern (Print Production)](https://jobright.ai/jobs/info/672c287ab317fca7f12aefff?utm_campaign=1049&utm_source=git)** | Clemson, SC | On Site | Nov 06 |
 | **[Paramount](https://www.paramount.com)** | **[UX & Product Design Internships (Summer 2025, Hybrid - NYC/LA)](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c71?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 06 |
 | **[tms](https://themarketingstore.com)** | **[Summer Creative Intern](https://jobright.ai/jobs/info/66d7a8e04162ed59cde4d465?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Landscape Architecture](https://jobright.ai/jobs/info/672bdd440c8cc7dcab5af6fb?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Nov 06 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Student Involvement-Student Graphic Designer](https://jobright.ai/jobs/info/672bc60db4102983b9ce75d6?utm_campaign=1049&utm_source=git)** | Huntsville, TX | On Site | Nov 06 |
 | **[JD Finish Line](http://www.finishline.com)** | **[Photo Studio Spring 2025 Intern (Seeking Internal JD Finish Line Candidates Only)](https://jobright.ai/jobs/info/672bb39f15b272559cd7a475?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Nov 06 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Interior Design](https://jobright.ai/jobs/info/672bb39f15b272559cd7a4a1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| **[STV](http://www.stvinc.com/)** | **[Summer 2025 - Architecture Intern](https://jobright.ai/jobs/info/672b9c8499e53bdfef0b74a2?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Nov 06 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, UX/UI Design](https://jobright.ai/jobs/info/672b96bea29017855b21f2b4?utm_campaign=1049&utm_source=git)** | Oakland, CA | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
