@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e5?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | ↳ | **[2025 Intern - UX Research Operations](https://jobright.ai/jobs/info/672eadb11f7929df6c4433b1?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Nov 08 |
-| ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - UX Research Operations](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 08 |
+| ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
 | **[Nike](http://www.nike.com)** | **[Nike, Inc. Global Brand Experience + Innovation Undergraduate Internship](https://jobright.ai/jobs/info/672e9e39f970ddc1e2139530?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 08 |
 | ↳ | **[Nike, Inc. Store Design Undergraduate Internship](https://jobright.ai/jobs/info/672f81194d26d82192e22c81?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 08 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern Summer 2025 - Human Centered Design](https://jobright.ai/jobs/info/672e9441f44d10ba109490be?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | Nov 08 |
@@ -152,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[Graphic Packaging International, LLC](http://www.graphicpkg.com)** | **[Intern (Print Production)](https://jobright.ai/jobs/info/672c287ab317fca7f12aefff?utm_campaign=1049&utm_source=git)** | Clemson, SC | On Site | Nov 06 |
 | **[Paramount](https://www.paramount.com)** | **[UX & Product Design Internships (Summer 2025, Hybrid - NYC/LA)](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c71?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 06 |
 | **[tms](https://themarketingstore.com)** | **[Summer Creative Intern](https://jobright.ai/jobs/info/66d7a8e04162ed59cde4d465?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
-| **[Atlassian](https://www.atlassian.com)** | **[UX Research Intern, 2025 Summer U.S.](https://jobright.ai/jobs/info/672c20615c971cbb7a9625df?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 06 |
-| ↳ | **[UX Research Intern, 2025 Summer U.S.](https://jobright.ai/jobs/info/672c20615c971cbb7a962684?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 06 |
+| **[Atlassian](https://www.atlassian.com)** | **[UX Research Intern, 2025 Summer U.S.](https://jobright.ai/jobs/info/672c20615c971cbb7a962684?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 06 |
+| ↳ | **[UX Research Intern, 2025 Summer U.S.](https://jobright.ai/jobs/info/672c20615c971cbb7a9625df?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 06 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Print Design Intern](https://jobright.ai/jobs/info/672d18bef7bbd59729cab846?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/672d18bef7bbd59729cab83e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Experience Design](https://jobright.ai/jobs/info/67296ed7aed74ff39cd938d1?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Nov 06 |
