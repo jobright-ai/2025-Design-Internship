@@ -87,9 +87,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Intern - UX Quantitative Research](https://jobright.ai/jobs/info/672eadb11f7929df6c4433ae?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e5?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| ↳ | **[2025 Intern - UX Research Operations](https://jobright.ai/jobs/info/672eadb11f7929df6c4433b1?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Nov 08 |
 | ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - UX Research Operations](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 08 |
-| ↳ | **[2025 Intern - UX Research Operations](https://jobright.ai/jobs/info/672eadb11f7929df6c4433b1?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Nov 08 |
 | **[Nike](http://www.nike.com)** | **[Nike, Inc. Global Brand Experience + Innovation Undergraduate Internship](https://jobright.ai/jobs/info/672e9e39f970ddc1e2139530?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 08 |
 | **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2025](https://jobright.ai/jobs/info/66bf4fcb5a35909648e182f5?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Nov 08 |
 | **[Nike](http://www.nike.com)** | **[Nike, Inc. Store Design Undergraduate Internship](https://jobright.ai/jobs/info/672f81194d26d82192e22c81?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 08 |
@@ -104,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Nike](http://www.nike.com)** | **[Nike, Inc. Store Design Undergraduate Internship](https://jobright.ai/jobs/info/672e58299fbfc3bb56ce91b2?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 08 |
 | **[Fleur du Mal](http://fleurdumal.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/672e49185638c6d2c86d9e56?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Creative Design Internship](https://jobright.ai/jobs/info/671132ed8dc1dcde78b146bb?utm_campaign=1049&utm_source=git)** | East Lansing, MI | On Site | Nov 08 |
-| **[ASML](https://www.asml.com)** | **[Internship - UI/UX Designer Research](https://jobright.ai/jobs/info/6711c8db4d51f1b036fb5504?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Design](https://jobright.ai/jobs/info/6711d30b4a12706420f49dca?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Nov 08 |
 | **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Graphic Design](https://jobright.ai/jobs/info/67116f7ab9059bad22a3a5cd?utm_campaign=1049&utm_source=git)** | Avon, OH | Hybrid | Nov 08 |
 | **[GAF](http://www.gaf.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/672df7bbe003bbee1655031a?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Nov 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Photoshop Content Specialist](https://jobright.ai/jobs/info/672968d4b934ac6799e4c217?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Nov 06 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Marketing Photography and Videography](https://jobright.ai/jobs/info/672c64081521de41d5fd9af4?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Nov 06 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Architecture](https://jobright.ai/jobs/info/672d74c17c1d1176e4584958?utm_campaign=1049&utm_source=git)** | 730 Second Avenue South, Minneapolis, MN, US | On Site | Nov 06 |
+| **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/6708b934acb8fbf22b4ca59f?utm_campaign=1049&utm_source=git)** | Conshohocken, PA | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
