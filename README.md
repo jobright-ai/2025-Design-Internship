@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nucor Corporation](http://www.nucor.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6732c0aa7731df20cb738f9d?utm_campaign=1049&utm_source=git)** | Lewisville, TX | On Site | Nov 11 |
+| **[University of Utah](http://utah.edu)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6732c43138b5e5c36e4abf37?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Nov 11 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2025 Summer Intern: Software & Advisory UX Intern](https://jobright.ai/jobs/info/67329a3d21dd7c373d7f0d36?utm_campaign=1049&utm_source=git)** | Northbrook, IL | On Site | Nov 11 |
 | ↳ | **[2025 Summer Intern: Software & Advisory UX Intern](https://jobright.ai/jobs/info/67329a3d21dd7c373d7f0daa?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 11 |
 | **[MathWorks](http://www.mathworks.com)** | **[User Experience Internship - Graduate Students](https://jobright.ai/jobs/info/673280d85e9a971111fa7851?utm_campaign=1049&utm_source=git)** | Natick, MA | Hybrid | Nov 11 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/673278d5b66f3c08ab370029?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 11 |
 | **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern (New graduate)](https://jobright.ai/jobs/info/673263abe7d8491d69022f79?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 11 |
 | **[Alexander Wang LLC](https://www.alexanderwang.com)** | **[PT Soft Wovens Design Intern](https://jobright.ai/jobs/info/673240f3a29f087367b9dfb5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 11 |
-| **[Snowflake](https://www.snowflake.com)** | **[Educational Services, UX Intern](https://jobright.ai/jobs/info/67322b91e38d8dcfe18f9ea1?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Nov 11 |
 | **[KeyBank](https://www.key.com)** | **[2025 Summer CX+EX (Experience Design Track) Internship - Cleveland](https://jobright.ai/jobs/info/67322a1a237fd248ccfb5498?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Nov 11 |
 | **[One More Child](https://onemorechild.org)** | **[Intern - Graphic Design Job at One More Child in Lakeland](https://jobright.ai/jobs/info/673239bb5e778507030248ee?utm_campaign=1049&utm_source=git)** | Lakeland, FL | Hybrid | Nov 11 |
 | **[UWorld](http://uworld.com)** | **[UWorld is hiring: Internal Medicine Physician Author - Nonclinical in Dallas](https://jobright.ai/jobs/info/6732371f48126c27bb0e1a60?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Nov 11 |
@@ -85,9 +86,10 @@ For a complete list, click the following sortable link below:
 | **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[InterVarsity Christian Fellowship is hiring: Graphic Design Intern in Madison](https://jobright.ai/jobs/info/67322c338ad391f3b60e70f8?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Nov 11 |
 | **[Medtronic](https://www.medtronic.com)** | **[Intern – Human Factors & User Experience](https://jobright.ai/jobs/info/673225d57bcf86ad20a3d349?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 11 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/6731bf39079f169f4eeeeb8f?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Nov 10 |
-| **[Radio Flyer](http://radioflyer.com)** | **[Industrial & Graphic Design Intern](https://jobright.ai/jobs/info/6731ba2f5506bb1776fc3311?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 10 |
-| ↳ | **[Industrial Design Intern - Summer 2025](https://jobright.ai/jobs/info/6731ba2f5506bb1776fc3315?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 10 |
+| **[Radio Flyer](http://radioflyer.com)** | **[Industrial Design Intern - Summer 2025](https://jobright.ai/jobs/info/6731ba2f5506bb1776fc3315?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 10 |
+| ↳ | **[Industrial & Graphic Design Intern](https://jobright.ai/jobs/info/6731ba2f5506bb1776fc3311?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 10 |
 | ↳ | **[Visual Communications Design Intern - Summer 2025](https://jobright.ai/jobs/info/6731ba2f5506bb1776fc3318?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 10 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - UI/UX Design](https://jobright.ai/jobs/info/6732aa5387f4148174441ba4?utm_campaign=1049&utm_source=git)** | Jacksonville, FL, US | On Site | Nov 10 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Intern, Industrial Design (Summer 2025)](https://jobright.ai/jobs/info/66db35899789273ad4bc0e2b?utm_campaign=1049&utm_source=git)** | Oak Brook, IL | On Site | Nov 10 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Creative Services Intern, CBS News Boston (Summer 2025)](https://jobright.ai/jobs/info/67306c7c46a3e1b9ff6d1c06?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 09 |
 | **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2025](https://jobright.ai/jobs/info/66be7b8c0122d62156b0c0c4?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 09 |
@@ -109,14 +111,13 @@ For a complete list, click the following sortable link below:
 | **[Volkswagen of America, Inc](https://www.vw.com/)** | **[Design Intern](https://jobright.ai/jobs/info/672ec92682ea6200f04909c5?utm_campaign=1049&utm_source=git)** | Oxnard, CA | On Site | Nov 08 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2025 - Multimedia Specialist Intern](https://jobright.ai/jobs/info/672ebeaaa67a9bc5d2d6d19f?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Nov 08 |
 | **[Texas A&M University](http://www.tamu.edu/)** | **[Postdoctoral Research Associate, Submerged Gulf of Mexico Landscapes](https://jobright.ai/jobs/info/672eb0deb85ef69ee27965d3?utm_campaign=1049&utm_source=git)** | College Station, TX | On Site | Nov 08 |
-| **[ShipHawk](http://shiphawk.com)** | **[Technical Writing Internship I Spring 2025](https://jobright.ai/jobs/info/672ea7bcc7dd19a038950845?utm_campaign=1049&utm_source=git)** | Santa Barbara, CA | On Site | Nov 08 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433be?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - UX Quantitative Research](https://jobright.ai/jobs/info/672eadb11f7929df6c4433ae?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e5?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | ↳ | **[2025 Intern - UX Research Operations](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 08 |
-| ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
 | ↳ | **[2025 Intern - UX Research Operations](https://jobright.ai/jobs/info/672eadb11f7929df6c4433b1?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Nov 08 |
+| ↳ | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/672eadb11f7929df6c4433e7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
 | **[Nike](http://www.nike.com)** | **[Nike, Inc. Global Brand Experience + Innovation Undergraduate Internship](https://jobright.ai/jobs/info/672e9e39f970ddc1e2139530?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 08 |
 | **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2025](https://jobright.ai/jobs/info/66bf4fcb5a35909648e182f5?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Nov 08 |
 | **[Nike](http://www.nike.com)** | **[Nike, Inc. Store Design Undergraduate Internship](https://jobright.ai/jobs/info/672f81194d26d82192e22c81?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 08 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Industrial Design - Summer Internship 2025](https://jobright.ai/jobs/info/672d536e6cf83abb318bf823?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 07 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Instructional / Graphic Design](https://jobright.ai/jobs/info/672d4531b0cdbcc7e80da327?utm_campaign=1049&utm_source=git)** | Marlborough, MA | On Site | Nov 07 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/672d3d2c227af53f717122f4?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 07 |
-| **[Radio Flyer](http://radioflyer.com)** | **[Product Design & Graphics Intern](https://jobright.ai/jobs/info/672d390b25410156e82def47?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 07 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Industrial Design - Summer Internship 2025](https://jobright.ai/jobs/info/672d2755737f68aa28a082a6?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 07 |
 | **[General Motors](https://www.gm.com)** | **[2025 Summer Intern - Creative Designer](https://jobright.ai/jobs/info/6722fbe6849aeaf5a16178b2?utm_campaign=1049&utm_source=git)** | Pasadena, CA | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
