@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/67368812b7d3f521e2173b91?utm_campaign=1049&utm_source=git)** | Portland, OR US | On Site | Nov 14 |
+| **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Intern, SPACE+ Design](https://jobright.ai/jobs/info/67367970a11813393104179a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Nov 14 |
+| **[Deeplocal](http://deeplocal.com)** | **[Summer 2025 Design Internship](https://jobright.ai/jobs/info/67368361ad7ad2458df134d6?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Nov 14 |
+| **[ATPCO](http://www.atpco.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67366f6e6524546e43061648?utm_campaign=1049&utm_source=git)** | Herndon, VA | On Site | Nov 14 |
+| **[John Deere](https://www.deere.com)** | **[User Experience Research Summer Intern 2025a](https://jobright.ai/jobs/info/67367128f945879c4022b4af?utm_campaign=1049&utm_source=git)** | Urbandale, IA | Hybrid | Nov 14 |
+| **[Penn State University](http://psu.edu)** | **[Part-time Visual Content Creator](https://jobright.ai/jobs/info/673656d68205de8453273448?utm_campaign=1049&utm_source=git)** | Penn State University Park | On Site | Nov 14 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[CMF Designer Intern (Spring)](https://jobright.ai/jobs/info/673655510232179e83799cb6?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Nov 14 |
 | **[AF - Group](http://www.afgroup.com)** | **[Internship UX Product & Visual Designer](https://jobright.ai/jobs/info/673650d11d11ad13fbcd8b8c?utm_campaign=1049&utm_source=git)** |  , Lansing, MI, 48901, US | On Site | Nov 14 |
 | **[Coinbase](http://www.coinbase.com)** | **[User Research Intern](https://jobright.ai/jobs/info/6736439b9f0a385c8acce13b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
 | **[Sony Interactive Entertainment](https://www.sie.com)** | **[Brand Experience Design Intern - Undergraduate](https://jobright.ai/jobs/info/67355b698953df310ef569f6?utm_campaign=1049&utm_source=git)** | United States, San Mateo, CA | On Site | Nov 14 |
@@ -91,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6735912213c2fd437e57cc44?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Nov 13 |
 | ↳ | **[Content Design Intern](https://jobright.ai/jobs/info/67356de01c0ebdc19a3a5971?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Nov 13 |
 | **[Electronic Arts (EA)](http://www.ea.com)** | **["Associate Character Artist Intern"](https://jobright.ai/jobs/info/67355dc7721d4f803c836971?utm_campaign=1049&utm_source=git)** | Kirkland, WA | On Site | Nov 13 |
+| **[Kaleidoscope Innovation](https://kascope.com/)** | **[Design Research Co-op/Internship](https://jobright.ai/jobs/info/67368361ad7ad2458df13580?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Nov 13 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time Paid Intern – Youth Digital Designer](https://jobright.ai/jobs/info/67356905f39501db7baf304a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67354c65032bd122ee37f685?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Nov 13 |
 | **[Pinterest](https://pinterest.com)** | **[UX Quantitative Research Intern (USA)](https://jobright.ai/jobs/info/673555bae16dd58f465166e7?utm_campaign=1049&utm_source=git)** | US, Remote | Remote | Nov 13 |
@@ -104,6 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Talbots](http://www.talbots.com)** | **[Woven Tops Design Intern - Spring 25](https://jobright.ai/jobs/info/67351dd36f379e13656c563f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[Microsoft](https://www.microsoft.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/673511b21e662d8d0b182bbe?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Nov 13 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/67350a3405ced7645ba8b801?utm_campaign=1049&utm_source=git)** | Redmond, Washington, United States | On Site | Nov 13 |
+| **[Weston & Sampson](http://westonandsampson.com)** | **[Landscape Designer - Spring Co-Op 2025](https://jobright.ai/jobs/info/6718283891c6c3351d62410d?utm_campaign=1049&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 13 |
+| **[Garver](https://garverusa.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6717cd3a5bffda7c997bfb49?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Nov 13 |
 | **[Neel-Schaffer, Inc.](http://neel-schaffer.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/67350871a1ac560720271a69?utm_campaign=1049&utm_source=git)** | Hattiesburg, MS | On Site | Nov 13 |
 | **[Airbus](https://us.airbus.com)** | **[Working student (d/f/m) for Website design and internal communication](https://jobright.ai/jobs/info/6734eb9450ceeb2d6e739572?utm_campaign=1049&utm_source=git)** | Hamburg Area | Hybrid | Nov 13 |
 | **[Leidos](https://www.leidos.com/)** | **[Landscape Maintenance Internship](https://jobright.ai/jobs/info/6734daefc5ebc4fc70162302?utm_campaign=1049&utm_source=git)** | Annapolis, MD | On Site | Nov 13 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FedPoint](https://www.fedpointusa.com/)** | **[UX Research and Web Data Analyst Internship - Part Time](https://jobright.ai/jobs/info/6734192fd8186e51b386b23d?utm_campaign=1049&utm_source=git)** | Portsmouth, NH | On Site | Nov 12 |
 | **[Rita's Catering](https://www.ritascatering.com)** | **[Web Designer](https://jobright.ai/jobs/info/67342414c10132382d26aabc?utm_campaign=1049&utm_source=git)** | Everett, MA | Hybrid | Nov 12 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern – Graphic Designer (NBS)](https://jobright.ai/jobs/info/67341e509f6f3ee9c69c1bc5?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Nov 12 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/67342414c10132382d26ab83?utm_campaign=1049&utm_source=git)** | Elmhurst, IL | On Site | Nov 12 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/67342414c10132382d26ab8c?utm_campaign=1049&utm_source=git)** | Greater Sacramento | On Site | Nov 12 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/67342414c10132382d26ab98?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Nov 12 |
-| **[University of Utah](http://utah.edu)** | **[Football Graphic Design Intern](https://jobright.ai/jobs/info/673418888c8a747b8f4eae29?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Nov 12 |
-| **[Progressive Companies](http://www.progressiveae.com)** | **[Summer 2025 Interior Design Student Intern](https://jobright.ai/jobs/info/673401134d7626964168fe81?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Nov 12 |
-| ↳ | **[Summer 2025 Landscape Architecture Intern](https://jobright.ai/jobs/info/673401134d7626964168fd84?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Nov 12 |
-| ↳ | **[Summer 2025 Interior Design Student Intern](https://jobright.ai/jobs/info/6733f7dfad505cecf9aafa6e?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Nov 12 |
-| ↳ | **[Summer 2025 Architectural Student Intern](https://jobright.ai/jobs/info/6733f7dfad505cecf9aafa5d?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Nov 12 |
-| ↳ | **[Summer 2025 Architectural Student Intern](https://jobright.ai/jobs/info/6733f7dfad505cecf9aafed3?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Nov 12 |
-| **[Riot Games](http://www.riotgames.com)** | **[Technical Artist Intern - Tools & Pipeline - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6725a19a4ca64ed677064492?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
