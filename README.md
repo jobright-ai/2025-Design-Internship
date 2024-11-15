@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/671add15187add573008bc4b?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Nov 15 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Digital Media)](https://jobright.ai/jobs/info/67372a8c3dad49e94b78eba8?utm_campaign=1049&utm_source=git)** | Pensacola, FL | Hybrid | Nov 15 |
+| **[Epic Games](http://www.epicgames.com)** | **[Game Design Intern](https://jobright.ai/jobs/info/66fe43053b28925d50a82764?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Nov 15 |
+| **[Blayzer Digital](https://www.blayzer.com/)** | **[Web Design Intern](https://jobright.ai/jobs/info/673737044ac3d4e525f0b1c2?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/6736cd5f01b445790ec786f4?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Nov 14 |
 | **[Mindgruve](http://www.mindgruve.com)** | **[Design Intern - Marketplaces](https://jobright.ai/jobs/info/6736c5516fc2f026059f8299?utm_campaign=1049&utm_source=git)** | San Diego, CA | Remote | Nov 14 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2025)](https://jobright.ai/jobs/info/6736d03db73c11624ccd9492?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Nov 14 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Coinbase](http://www.coinbase.com)** | **[User Research Intern](https://jobright.ai/jobs/info/6736439b9f0a385c8acce13b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
 | **[Sony Interactive Entertainment](https://www.sie.com)** | **[Brand Experience Design Intern - Undergraduate](https://jobright.ai/jobs/info/67355b698953df310ef569f6?utm_campaign=1049&utm_source=git)** | United States, San Mateo, CA | On Site | Nov 14 |
 | **[Awesome Inc](https://www.awesomeinc.org/links)** | **[Graphic Design Intern - Awesome Inc](https://jobright.ai/jobs/info/673638af37a45feed032ed2d?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Nov 14 |
-| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[User Experience Internship - Summer 2025](https://jobright.ai/jobs/info/673624d20d84d3627da60c63?utm_campaign=1049&utm_source=git)** | Lansing, MI | On Site | Nov 14 |
 | **[Blayzer Digital](https://www.blayzer.com/)** | **[Web Design Intern Job at Blayzer Digital Marketing in St Louis](https://jobright.ai/jobs/info/67362d7141d461e848968659?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Nov 14 |
 | **[MadTree Brewing Company](https://www.madtreebrewing.com)** | **[Graphic Design Intern Job at MadTree Brewing Company in Cincinnati](https://jobright.ai/jobs/info/67362d7141d461e8489687c0?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Nov 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern - Research - Web Design](https://jobright.ai/jobs/info/6736210a02a76bbe512ef9e9?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Nov 14 |
@@ -84,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[League of Southeastern Credit Unions & Affiliates](https://lscu.coop/)** | **[Marketing &amp; Design Intern Job at League of Southeastern Credit Unions in Tal](https://jobright.ai/jobs/info/6736306b58a2c2cabfd01b50?utm_campaign=1049&utm_source=git)** | Tallahassee, FL | On Site | Nov 14 |
 | ↳ | **[Marketing &amp; Design Intern Job at League of Southeastern Credit Unions in Dul](https://jobright.ai/jobs/info/6736210a02a76bbe512ef8eb?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Nov 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment Industrial Design Intern, Spring 2025](https://jobright.ai/jobs/info/673606d013158beef367921c?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Nov 14 |
-| **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Design (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/6736210a02a76bbe512ef936?utm_campaign=1049&utm_source=git)** | Chautauqua, NY | On Site | Nov 14 |
-| ↳ | **[Internship - Photographer (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/6736210a02a76bbe512ef93b?utm_campaign=1049&utm_source=git)** | Chautauqua, NY | On Site | Nov 14 |
+| **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Photographer (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/6736210a02a76bbe512ef93b?utm_campaign=1049&utm_source=git)** | Chautauqua, NY | On Site | Nov 14 |
+| ↳ | **[Internship - Design (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/6736210a02a76bbe512ef936?utm_campaign=1049&utm_source=git)** | Chautauqua, NY | On Site | Nov 14 |
 | **[Pape-Dawson Engineers](http://pape-dawson.com)** | **[Internship Summer 2025 - Land Planning Intern](https://jobright.ai/jobs/info/6719b9d979f26da71f5dd662?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Nov 14 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis](https://jobright.ai/jobs/info/6735d5d0d0bf8e4b808b53bf?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Nov 14 |
 | **[Epic Games](http://www.epicgames.com)** | **[Environment Art Intern](https://jobright.ai/jobs/info/66e0ef69f88d7bd011d88a3c?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Nov 14 |
@@ -110,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[The Boldt Company](https://www.boldt.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/673543b62f4aebd16538ce90?utm_campaign=1049&utm_source=git)** | Appleton, WI | On Site | Nov 13 |
 | **[Kendall Wilkinson Design, LLC](https://www.kendallwilkinson.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6735363515d57384d8ea10a8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Digital Design CO-OP](https://jobright.ai/jobs/info/6735363515d57384d8ea10fd?utm_campaign=1049&utm_source=git)** | Beverly, MA | On Site | Nov 13 |
-| **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2025 (US)](https://jobright.ai/jobs/info/673526d271cb4a4a82e81daf?utm_campaign=1049&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 13 |
-| ↳ | **[User Experience Research Intern Internship – 2025 (US)](https://jobright.ai/jobs/info/673526d271cb4a4a82e81d9e?utm_campaign=1049&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 13 |
+| **[Amazon](https://amazon.com)** | **[User Experience Research Intern Internship – 2025 (US)](https://jobright.ai/jobs/info/673526d271cb4a4a82e81d9e?utm_campaign=1049&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 13 |
+| ↳ | **[User Experience (UX) Designer Internship – 2025 (US)](https://jobright.ai/jobs/info/673526d271cb4a4a82e81daf?utm_campaign=1049&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 13 |
 | **[Microsoft](https://www.microsoft.com)** | **[Content Design Intern](https://jobright.ai/jobs/info/6735231702345e1bcff4f055?utm_campaign=1049&utm_source=git)** | Redmond, Washington, United States | On Site | Nov 13 |
 | **[Talbots](http://www.talbots.com)** | **[Woven Tops Design Intern - Spring 25](https://jobright.ai/jobs/info/67351dd36f379e13656c563f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[Microsoft](https://www.microsoft.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/673511b21e662d8d0b182bbe?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Nov 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Veterinary Emergency Group](https://veterinaryemergencygroup.com)** | **[Social Video Creative Internship](https://jobright.ai/jobs/info/6734660b099779993e379f10?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Nov 12 |
 | **[Volkswagen of America, Inc](https://www.vw.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6735a734d0f2fa480d7f6d13?utm_campaign=1049&utm_source=git)** | Oxnard, CA | On Site | Nov 12 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Service Design](https://jobright.ai/jobs/info/67348b9335ac65a518fe059b?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Nov 12 |
-| **[Ansys](http://www.ansys.com)** | **[Summer 2025 UI/UX Intern (Bachelors)](https://jobright.ai/jobs/info/67344dab2a477e6a2849596f?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Nov 12 |
-| **[Tyndale House Publishers](http://www.tyndale.com)** | **[Design Intern](https://jobright.ai/jobs/info/67344220863f01a62cfed96f?utm_campaign=1049&utm_source=git)** | Carol Stream, IL | On Site | Nov 12 |
-| **[Seamgen](http://www.seamgen.com/)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/6734370c838e781590b6d2a5?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
