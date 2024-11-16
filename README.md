@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KLN Family Brands](https://www.klnfamilybrands.com/)** | **[KLN Family Brands is hiring: Communication Design Internship in Perham](https://jobright.ai/jobs/info/6738f4269efc829f5531e3b2?utm_campaign=1049&utm_source=git)** | Perham, MN | On Site | Nov 16 |
+| **[One More Child](https://onemorechild.org)** | **[One More Child is hiring: Intern - Graphic Design in Lakeland](https://jobright.ai/jobs/info/6738c20e0f9216a903b71016?utm_campaign=1049&utm_source=git)** | Lakeland, FL | On Site | Nov 16 |
+| **[Toole Design Group](http://www.tooledesign.com)** | **[Design Intern Job at Toole Design in Raleigh](https://jobright.ai/jobs/info/6738c20e0f9216a903b71021?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Nov 16 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Development Intern, Screen Gems - Spring 2025](https://jobright.ai/jobs/info/67389361d2a5e52a16da4a91?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Nov 16 |
 | **[Munchkin](http://www.munchkin.com)** | **[Industrial Design Intern (Spring 2025)](https://jobright.ai/jobs/info/671b80c8554d870b528147f0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 16 |
 | **[Duluth Trading Company](http://www.duluthtrading.com)** | **[Product Design Internship - 2025](https://jobright.ai/jobs/info/671c212dcc81a5f4e8650624?utm_campaign=1049&utm_source=git)** | Mount Horeb, WI | On Site | Nov 16 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Visual Display Intern - Spring](https://jobright.ai/jobs/info/671c719e608f8cab6245848b?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 16 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Fixed Assets Intern](https://jobright.ai/jobs/info/670025b82692dfa0442ccff7?utm_campaign=1049&utm_source=git)** | Kokomo, IN | On Site | Nov 16 |
 | **[Lockton](https://global.lockton.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8b7?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Nov 16 |
-| **[Textron](http://textron.com)** | **[2025 Graphic Design Intern](https://jobright.ai/jobs/info/673866db9d980e2eb01b416c?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Nov 16 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Architectural Design Intern - Summer 2025](https://jobright.ai/jobs/info/67383d8566232bde2cb19294?utm_campaign=1049&utm_source=git)** | Troy, MI | Hybrid | Nov 15 |
-| **[Cisco](http://www.cisco.com)** | **[UX Research Intern (Masters) - Summer 2025 Internship (Meraki)](https://jobright.ai/jobs/info/673815b274318bd7cfcb2267?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Wefluens](https://www.wefluens.com)** | **[Wefluens is hiring: Design Intern in Los Angeles](https://jobright.ai/jobs/info/673822325fe32628d92b87c7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
 | **[Elevation Church](http://elevationchurch.org/)** | **[Elevation Church Creative Ministry Apprenticeship (Spring 2025) Job at Elevation](https://jobright.ai/jobs/info/67381b4c9559f95eac1d76e5?utm_campaign=1049&utm_source=git)** | Matthews, NC | On Site | Nov 15 |
 | **[CASE Agency](https://www.caseagency.com/)** | **[Digital Design Intern Job at CASE Agency in New York](https://jobright.ai/jobs/info/67381b4c9559f95eac1d76e9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 15 |
@@ -84,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Design Intern](https://jobright.ai/jobs/info/6737a943d3219f92bf97321a?utm_campaign=1049&utm_source=git)** | DC-Baltimore Area | Remote | Nov 15 |
 | **[KHAITE](https://khaite.com/)** | **[Technical Design, Production, Wovens Internship (Spring 2025)](https://jobright.ai/jobs/info/6737a01b8a002e6398f12b77?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[Medtronic](https://www.medtronic.com)** | **[Intern – Human Factors & User Experience](https://jobright.ai/jobs/info/67379f8bc4c205022f2482e7?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Remote | Nov 15 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Research - Web Design](https://jobright.ai/jobs/info/66e23db9bac7610a4347d197?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Nov 15 |
 | **[Uline](http://www.uline.com)** | **[Web Design Internship - Summer 2025](https://jobright.ai/jobs/info/67379754c607401a448dc960?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 15 |
 | ↳ | **[Web Design Internship - Summer 2025](https://jobright.ai/jobs/info/67378d67a15695328c712ccf?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 15 |
 | ↳ | **[Web Design Internship - Summer 2025](https://jobright.ai/jobs/info/67379754c607401a448dc962?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Nov 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Escalade Sports](https://www.escaladesports.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/6737a943d3219f92bf973560?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Nov 13 |
 | **[Weston & Sampson](http://westonandsampson.com)** | **[Landscape Designer - Spring Co-Op 2025](https://jobright.ai/jobs/info/6718283891c6c3351d62410d?utm_campaign=1049&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 13 |
 | **[Garver](https://garverusa.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6717cd3a5bffda7c997bfb49?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Nov 13 |
-| **[Electronic Arts (EA)](http://www.ea.com)** | **[Intern, FC Graphic Design](https://jobright.ai/jobs/info/6734b04be174e284c60f843a?utm_campaign=1049&utm_source=git)** | Oregon, United States | On Site | Nov 13 |
-| **[Neel-Schaffer, Inc.](http://neel-schaffer.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/67350871a1ac560720271a69?utm_campaign=1049&utm_source=git)** | Hattiesburg, MS | On Site | Nov 13 |
-| **[Airbus](https://us.airbus.com)** | **[Working student (d/f/m) for Website design and internal communication](https://jobright.ai/jobs/info/6734eb9450ceeb2d6e739572?utm_campaign=1049&utm_source=git)** | Hamburg Area | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
