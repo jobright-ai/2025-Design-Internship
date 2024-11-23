@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/6741482b7b1fa134faad9f1b?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Nov 22 |
+| **[Tetra Tech](http://www.tetratech.com)** | **[INTERN ARCHITECT](https://jobright.ai/jobs/info/67412c33a3251d9587d37df7?utm_campaign=1049&utm_source=git)** | Ithaca, NY | On Site | Nov 22 |
+| **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern](https://jobright.ai/jobs/info/67412418613852b5e5c60f4d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 22 |
+| **[Slack](http://www.slack.com)** | **[Summer 2025 Intern - Content Design - Slack](https://jobright.ai/jobs/info/67412418613852b5e5c60f8b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 22 |
 | **[Q Prime Artist Management](http://qprime.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/67410f7881d57c7ef9d3f2eb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Content Design - Slack](https://jobright.ai/jobs/info/67411876ebaa782b51eef50c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 22 |
 | **[State of Missouri](http://mo.gov)** | **[Interior Design Unit Intern](https://jobright.ai/jobs/info/6740fecd93022351f40537fd?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Nov 22 |
@@ -91,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Industrial Design Intern (Summer 2025) ](https://jobright.ai/jobs/info/67404ee08ac592b5302e60f5?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Nov 22 |
 | **[GoDaddy](https://www.godaddy.com)** | **[2023 ColorStack Fall Stacked Up Summit](https://jobright.ai/jobs/info/67404a4dfc07a0d5d78f6cc0?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 22 |
 | **[Epic Games](http://www.epicgames.com)** | **[Game Design Intern](https://jobright.ai/jobs/info/674055a58fda03530576f1fa?utm_campaign=1049&utm_source=git)** | Cary,North Carolina,United States | On Site | Nov 22 |
-| ↳ | **[Character Intern](https://jobright.ai/jobs/info/67404ee08ac592b5302e6254?utm_campaign=1049&utm_source=git)** | Cary,North Carolina,United States | On Site | Nov 22 |
 | ↳ | **[Environment Art Intern](https://jobright.ai/jobs/info/67404ee08ac592b5302e6239?utm_campaign=1049&utm_source=git)** | Cary,North Carolina,United States | On Site | Nov 22 |
+| ↳ | **[Character Intern](https://jobright.ai/jobs/info/67404ee08ac592b5302e6254?utm_campaign=1049&utm_source=git)** | Cary,North Carolina,United States | On Site | Nov 22 |
 | **[Viget](http://viget.com)** | **[UX Researcher Intern (2025)](https://jobright.ai/jobs/info/67403ceb3fd002488c14ab46?utm_campaign=1049&utm_source=git)** | Boulder, CO | On Site | Nov 21 |
 | ↳ | **[Product Designer Intern (2025)](https://jobright.ai/jobs/info/67403ceb3fd002488c14ab33?utm_campaign=1049&utm_source=git)** | Boulder, CO | On Site | Nov 21 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[UX Designer- Summer 2025 Intern](https://jobright.ai/jobs/info/67401c6c54c8437d3e03d1e8?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 21 |
@@ -100,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Kendra Scott](http://www.kendrascott.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/674007085ebbe0531ca652dd?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 21 |
 | **[Allstate](http://www.allstate.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/673ff82ad16e42ae51d6c7c2?utm_campaign=1049&utm_source=git)** | Illinois, United States | Remote | Nov 21 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - UX Research and Design (Health AI)](https://jobright.ai/jobs/info/67400531d68c4a6a2bcaa544?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Nov 21 |
+| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Design Technologist Automotive Experience - Part Time](https://jobright.ai/jobs/info/6722b4671e2ea8bba46a96b0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Creative Content Communications (Spring 2025)](https://jobright.ai/jobs/info/673fdd78adfbfa277934bda3?utm_campaign=1049&utm_source=git)** | Dublin, VA | On Site | Nov 21 |
 | **[Principia College](http://www.principiacollege.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/6740fecd93022351f405399f?utm_campaign=1049&utm_source=git)** | Elsah, IL | On Site | Nov 21 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Design Internship (Spring 2025)](https://jobright.ai/jobs/info/673fdf59b8266793017509d3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 21 |
@@ -123,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Riot Games](http://www.riotgames.com)** | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/673f5e1d8f479049a2846b0e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Landscape Architecture](https://jobright.ai/jobs/info/673f4364cf33001c845f3285?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Nov 21 |
 | ↳ | **[DOD SkillBridge Intern - Landscape Architecture](https://jobright.ai/jobs/info/673f48aa6880da9ac9d663ee?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
-| ↳ | **[DOD SkillBridge Intern - Landscape Architecture](https://jobright.ai/jobs/info/673f48aa6880da9ac9d663f1?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Nov 21 |
 | ↳ | **[DOD SkillBridge Intern - Landscape Architecture](https://jobright.ai/jobs/info/673f48aa6880da9ac9d663f0?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Nov 21 |
+| ↳ | **[DOD SkillBridge Intern - Landscape Architecture](https://jobright.ai/jobs/info/673f48aa6880da9ac9d663f1?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Nov 21 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[2025 Firmwide Design Development Program Summer Internship](https://jobright.ai/jobs/info/66eac2ae2eaa00042c7a9173?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2025 Intern - UX Researcher ](https://jobright.ai/jobs/info/673f3831768366daf27d07c8?utm_campaign=1049&utm_source=git)** | Lake Forest, California | On Site | Nov 21 |
 | **[Oracle](https://www.oracle.com/)** | **[UX Design Intern - Fusion Applications Development](https://jobright.ai/jobs/info/67237b6ffa782cbb63bcecb9?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 21 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/673e676861b2c2d3955563ed?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 | ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/673e66e961b2c2d395555ca5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/673e66e961b2c2d395555c9b?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
-| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/673e66e961b2c2d395555ca3?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/673e66e961b2c2d395555caa?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
+| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/673e66e961b2c2d395555ca3?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/673e676861b2c2d3955563ef?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
 | ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/673ec0faa7e897c26543c1c8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[FedPoint](https://www.fedpointusa.com/)** | **[UX Research and Web Data Analyst Internship - Part Time](https://jobright.ai/jobs/info/673e79e95760227f21bd6f80?utm_campaign=1049&utm_source=git)** | Portsmouth, NH | On Site | Nov 20 |
 | **[Target](https://www.target.com)** | **[UX Design Internship - Minneapolis, MN (Starting Summer, 2025)](https://jobright.ai/jobs/info/673e7349144bdd628337b8d0?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 20 |
 | **[Inteva Products](https://www.intevaproducts.com/)** | **[Automotive Product Design Intern](https://jobright.ai/jobs/info/673cf77c5286654a6f5b8333?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Nov 20 |
-| **[David Zwirner](http://www.davidzwirner.com/)** | **[Design Intern](https://jobright.ai/jobs/info/673e6bc04ee0256875701971?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/673e05def88533339761295c?utm_campaign=1049&utm_source=git)** | New York | On Site | Nov 20 |
-| ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/673e05def885333397612957?utm_campaign=1049&utm_source=git)** | New York | On Site | Nov 20 |
-| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/673e05def88533339761296d?utm_campaign=1049&utm_source=git)** | New York | On Site | Nov 20 |
-| ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/673e05def88533339761295a?utm_campaign=1049&utm_source=git)** | Washington DC | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
