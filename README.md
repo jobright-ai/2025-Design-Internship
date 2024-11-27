@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - Product Design (UX)](https://jobright.ai/jobs/info/67477441fc7881c2d7ac6729?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Nov 27 |
+| **[Advantage Unified Commerce](https://advantageunifiedcommerce.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/67475aaf1285b9c55e11923e?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 27 |
+| **[DriveTime](https://www.drivetime.com)** | **[UX Design Intern (Summer 2025)](https://jobright.ai/jobs/info/6747594adf4f492ea1f17898?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
+| **[University of West Georgia](http://www.westga.edu)** | **[Print Production Specialist](https://jobright.ai/jobs/info/67474a25e50b087a2889f991?utm_campaign=1049&utm_source=git)** | Carrollton, GA | On Site | Nov 27 |
+| **[Cisco](http://www.cisco.com)** | **[UX Research Intern (Masters) - Summer 2025 Internship (Meraki)](https://jobright.ai/jobs/info/674740b6888a29adfb97483b?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 27 |
+| **[Visa](https://www.visa.com)** | **[Visa Experience Design Intern - Summer 2025](https://jobright.ai/jobs/info/674740b6888a29adfb974848?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Nov 27 |
+| **[Universal Studios Hollywood](http://www.universalstudioshollywood.com)** | **[Universal Destinations & Experiences Summer 2025 Internship - Entertainment, Production Design](https://jobright.ai/jobs/info/67473b61da33f48098b048e8?utm_campaign=1049&utm_source=git)** | Universal City, CA | On Site | Nov 27 |
 | **[Fifth Third Bank](http://53.com)** | **[Workplace Designer Co-Op - Spring 2025](https://jobright.ai/jobs/info/674709a4ebaa2229df09064c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Nov 27 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2025 US Summer Internship - VFX](https://jobright.ai/jobs/info/674707c45fb2fc8decb836d4?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 27 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Spring 2025](https://jobright.ai/jobs/info/6729abb5a1b500a53e600331?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 27 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/672a89c1b485983d9e5acdca?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Nov 27 |
 | **[GitHub](https://github.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/672aa2cb3bc24e73f890ea06?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 27 |
-| **[Riot Games](http://www.riotgames.com)** | **[Concept Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6746fcac1133cde08b46c814?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 27 |
-| ↳ | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6746e655ba47364e916ae673?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 27 |
+| **[Riot Games](http://www.riotgames.com)** | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6746e655ba47364e916ae673?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 27 |
 | ↳ | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6746e655ba47364e916ae674?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 27 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2025 Intern / Graphic Designer](https://jobright.ai/jobs/info/6746b09d6e093b2d0a2fcc3c?utm_campaign=1049&utm_source=git)** | Kirkland, WA | On Site | Nov 26 |
 | **[Wefluens](https://www.wefluens.com)** | **[Design Intern](https://jobright.ai/jobs/info/6746b006278ab939c30396b4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 26 |
@@ -130,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[SA Group LLC](https://sagroupllc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6744f89868ae41c86b212c14?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Nov 25 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Art Director Intern](https://jobright.ai/jobs/info/6744f70d97d95701c36b594e?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Nov 25 |
 | **[TH Experiential](https://thexperiential.com)** | **[Motion Graphic Specialist](https://jobright.ai/jobs/info/6744e46ad648711f5e8a224a?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 25 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/6744eee0e80a7811a298bbcb?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Nov 25 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Global Environments & Architecture Internships](https://jobright.ai/jobs/info/6744de35d85ae582193c14e3?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
 | ↳ | **[Summer Visual Merchandising Internships](https://jobright.ai/jobs/info/6744de35d85ae582193c14df?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Architectural Intern](https://jobright.ai/jobs/info/6744d13a750da448c527ac8e?utm_campaign=1049&utm_source=git)** | St Joseph, MI | Hybrid | Nov 25 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social  Media Creative Intern](https://jobright.ai/jobs/info/674432be1a24af61ef0779cf?utm_campaign=1049&utm_source=git)** | Work From Home - California - Los Angeles | On Site | Nov 25 |
 | **[Tapestry](http://www.tapestry.com/)** | **[2025 Design Apprentice - Jewelry / Hardware](https://jobright.ai/jobs/info/67442d652634e39fa24568d4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | ↳ | **[2025 Design Apprentice - Footwear](https://jobright.ai/jobs/info/67442d652634e39fa24568d3?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| ↳ | **[2025 Design Apprentice - Handbag Design](https://jobright.ai/jobs/info/67442d652634e39fa24568d9?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | ↳ | **[2025 Design Apprentice - Concept & Color](https://jobright.ai/jobs/info/67442d652634e39fa24568d5?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
+| ↳ | **[2025 Design Apprentice - Handbag Design](https://jobright.ai/jobs/info/67442d652634e39fa24568d9?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | ↳ | **[2025 Design Apprentice - 3D Design](https://jobright.ai/jobs/info/67442d652634e39fa24568d6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
-| ↳ | **[2025 Design Apprentice - 3D Visual Experience](https://jobright.ai/jobs/info/67442d652634e39fa24568d2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
-| ↳ | **[2025 Design Apprentice - Cut & Sew (Knits)](https://jobright.ai/jobs/info/674433b9587b291d2091bc8f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| ↳ | **[2025 Design Apprentice - RTW](https://jobright.ai/jobs/info/674433b9587b291d2091bc8b?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| ↳ | **[2025 Design Apprentice - Craftperson](https://jobright.ai/jobs/info/67442d652634e39fa24568d7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
-| ↳ | **[2025 Design Apprentice - Print & Color](https://jobright.ai/jobs/info/67442d652634e39fa24568d8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: UX Design Internship - Summer 2025](https://jobright.ai/jobs/info/6744200e64f83e245d9698d8?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Nov 24 |
-| **[Tapestry](http://www.tapestry.com/)** | **[2025 Design Apprentice - 3D Visual Experience](https://jobright.ai/jobs/info/67441a70a87d67582f849ebd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
