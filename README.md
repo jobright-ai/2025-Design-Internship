@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wefluens](https://www.wefluens.com)** | **[Wefluens is hiring: Design Intern in Los Angeles](https://jobright.ai/jobs/info/674a878a49b2f76db570dad8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 29 |
+| **[HLB Lighting Design](https://hlblighting.com)** | **[HLB Lighting Design is hiring: Design Intern - Future Opportunities in Denver](https://jobright.ai/jobs/info/674a878a49b2f76db570da6f?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Nov 29 |
+| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2025 Summer Intern - Interior Design](https://jobright.ai/jobs/info/674a7f923237ca71fe51da50?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Nov 29 |
+| ↳ | **[2025 Summer Intern - Interior Design](https://jobright.ai/jobs/info/674a7f923237ca71fe51da44?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Nov 29 |
+| ↳ | **[2025 Summer Intern - Interior Design](https://jobright.ai/jobs/info/674a7f923237ca71fe51da54?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Nov 29 |
+| ↳ | **[2025 Summer Intern - Interior Design](https://jobright.ai/jobs/info/674a7930fd9038520cf1cfb3?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[UX Design Internship 2025](https://jobright.ai/jobs/info/674a72c7c2996a05730a9f6c?utm_campaign=1049&utm_source=git)** | Arden Hills, MN | On Site | Nov 29 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Instructional / Graphic Design](https://jobright.ai/jobs/info/672d4531b0cdbcc7e80da327?utm_campaign=1049&utm_source=git)** | Marlborough, MA | On Site | Nov 29 |
 | **[Nike](http://www.nike.com)** | **[Jordan Footwear Color & Materials Design Undergraduate Internship](https://jobright.ai/jobs/info/672ca95cd887a81aae6321ae?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 29 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2025] Product Designer - Intern](https://jobright.ai/jobs/info/6711bd9b4598ba866014e3c4?utm_campaign=1049&utm_source=git)** | San Mateo, CA | Hybrid | Nov 29 |
@@ -132,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Landscape Architect's / Urban Forestry Office Intern](https://jobright.ai/jobs/info/674683d91a718ae11c720769?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Nov 26 |
 | **[Textron](http://textron.com)** | **[2025 Internship - Industrial Design](https://jobright.ai/jobs/info/67461b4bc77265d63529ea28?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Nov 26 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Landscape Architecture](https://jobright.ai/jobs/info/67468293b63c3de5cf21f6ab?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Nov 26 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Innovation Designer (Spring 2025)](https://jobright.ai/jobs/info/66ee4a30c8b84c610de4d157?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[HP](http://www.hp.com)** | **[Ph.D. Intern - AI/LLM Edge Systems - User Experience Research](https://jobright.ai/jobs/info/674665aa410c05aab4591917?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States of America | On Site | Nov 26 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[SALSU Student Event Photographer](https://jobright.ai/jobs/info/6746572e9492827c0bfd7164?utm_campaign=1049&utm_source=git)** | Riverside, CA | On Site | Nov 26 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Digital Graphic Design Intern (Summer 2025)](https://jobright.ai/jobs/info/67464f4681cc97c8a0796b36?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Nov 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Laminate Tube Printing Assistant](https://jobright.ai/jobs/info/67460c480b24c02d16acdedc?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Nov 26 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Industrial Design - Pinehurst, NC](https://jobright.ai/jobs/info/6745e5b352f397e09743f29b?utm_campaign=1049&utm_source=git)** | Pinehurst, NC | On Site | Nov 26 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/670d50d072230f1fa32a8397?utm_campaign=1049&utm_source=git)** | Northbrook, IL | Hybrid | Nov 26 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - UX Research](https://jobright.ai/jobs/info/672912fc353101456f970092?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 26 |
-| **[Protiviti](http://www.protiviti.com)** | **[Seattle Digital Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8d?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Nov 26 |
-| **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Multimedia & Photography Intern, IINE Boston](https://jobright.ai/jobs/info/6728f18414b9983099d39017?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 26 |
-| **[DriveWealth](https://drivewealth.com)** | **[Summer 2025 Intern, Product Design](https://jobright.ai/jobs/info/672952e14296de8fe60073a0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 26 |
-| **[APCO](http://www.apcoworldwide.com)** | **[Graphic Designer, Creative + Paid Media Internship – Spring '25](https://jobright.ai/jobs/info/6745b6ec8d2a2288b20abba8?utm_campaign=1049&utm_source=git)** | Washington, United States | Hybrid | Nov 26 |
-| **[Snowflake](https://www.snowflake.com)** | **[Educational Services, UX Intern](https://jobright.ai/jobs/info/67375429a89bb1df94dd2644?utm_campaign=1049&utm_source=git)** | Dublin, CA | On Site | Nov 26 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Audiovisual Design Intern](https://jobright.ai/jobs/info/674988e522f21fa6a6bcc5e1?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 26 |
-| ↳ | **[Interior Design Intern (Winter)](https://jobright.ai/jobs/info/674988e522f21fa6a6bcc61d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
