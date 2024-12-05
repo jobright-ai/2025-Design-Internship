@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TH Experiential](https://thexperiential.com)** | **[Motion Graphic Specialist](https://jobright.ai/jobs/info/6751f73a0fde8e9a3267bf60?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 05 |
+| **[The Lab Consulting](http://www.thelabconsulting.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6751ddfc8c2834300ffeeab4?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Dec 05 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[2025 Designer Summer Internship - Mansfield, MA](https://jobright.ai/jobs/info/6751e119e49dfd668770382e?utm_campaign=1049&utm_source=git)** | Mansfield, MA | On Site | Dec 05 |
+| ↳ | **[2025 Designer Summer Internship - Charlotte, NC](https://jobright.ai/jobs/info/6751d824a6abeff04058c884?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 05 |
+| **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Creative Services Intern, CBS Philadelphia (Summer 2025)](https://jobright.ai/jobs/info/6751e1211e49b7a287c7dda2?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 05 |
+| **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Multimedia & Photography Intern, IINE Boston](https://jobright.ai/jobs/info/6751c7108c92b43c81119e09?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Dec 05 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6751cb6fbcfa674f9a79f9d4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2025 (US)](https://jobright.ai/jobs/info/67357c4719856c00fc60fc9b?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
+| **[Uline](http://www.uline.com)** | **[Private Label Design Internship - Summer 2025](https://jobright.ai/jobs/info/6734e5b1490f5a4f417d3ede?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Dec 05 |
 | **[Electronic Arts (EA)](http://www.ea.com)** | **[2D Artist Intern - Summer 2025](https://jobright.ai/jobs/info/6734b04be174e284c60f843f?utm_campaign=1049&utm_source=git)** | Kirkland, WA | Hybrid | Dec 05 |
 | ↳ | **[Technical Environment Art Intern - Summer 2025 (Apex Legends)](https://jobright.ai/jobs/info/6734b04be174e284c60f846d?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Dec 05 |
 | ↳ | **[Intern, FC Graphic Design](https://jobright.ai/jobs/info/6734b04be174e284c60f843a?utm_campaign=1049&utm_source=git)** | Oregon, United States | Hybrid | Dec 05 |
@@ -75,16 +83,17 @@ For a complete list, click the following sortable link below:
 | **[Movius](http://www.movius.ai)** | **[Creative and Social Media Intern (Winter 2025)](https://jobright.ai/jobs/info/67516663d34f4a556a705e98?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Dec 04 |
 | **[Energizer Holdings](http://energizerholdings.com/)** | **[Intern Digital Content](https://jobright.ai/jobs/info/67515f5ff7bf2c8c071e2b38?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Dec 04 |
 | **[ADC Engineering, Inc](https://www.adcengineering.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/675114b85787c17a5367caae?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Dec 04 |
+| **[Purdue University](https://www.purdue.edu)** | **[Multimedia Design Intern - Student Services](https://jobright.ai/jobs/info/6751b9d0681c49ccd5600d81?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Dec 04 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/675126dacadb1edb71119de3?utm_campaign=1049&utm_source=git)** | Portland, OR US | On Site | Dec 04 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 Design Summer Internship - Albuquerque, NM](https://jobright.ai/jobs/info/6750f44df04c8d43e42555e9?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Dec 04 |
 | ↳ | **[2025 Designer Summer Internship - Charlotte, NC](https://jobright.ai/jobs/info/6750f44df04c8d43e42555ea?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 04 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Landscape](https://jobright.ai/jobs/info/6750eddf40a819af2633d451?utm_campaign=1049&utm_source=git)** | New York | On Site | Dec 04 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6750c6a2712417332dae73b2?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Dec 04 |
-| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Brand Creative Studio: Production](https://jobright.ai/jobs/info/6750c6a2712417332dae743a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6750bb84eb126c53ce4ad5ff?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Dec 04 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Brand Creative Studio: Design](https://jobright.ai/jobs/info/67509f3bb6cb54bd5142fe3f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
+| ↳ | **[Summer Intern, Brand Creative Studio: Production](https://jobright.ai/jobs/info/67509f3bb6cb54bd5142fe55?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
 | **[VIVO](https://vivotheagency.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/675099231d709c23fbe598cd?utm_campaign=1049&utm_source=git)** | Norcross, GA | On Site | Dec 04 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67509d20976888504663e426?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 04 |
+| **[Figma](https://www.figma.com)** | **[Product Design Intern (2025)](https://jobright.ai/jobs/info/674a9f1166e01e83c4ef6b43?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | **[Riot Games](http://www.riotgames.com)** | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67507ef09d682f3dd266ac64?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 04 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Automotive Digital Design Intern- Spring 2025- San Diego, CA](https://jobright.ai/jobs/info/67505f97c1467d0fb8bbe461?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 04 |
 | ↳ | **[Automotive Design Intern- Spring 2025- San Diego, CA](https://jobright.ai/jobs/info/67505f97c1467d0fb8bbe462?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 04 |
@@ -126,35 +135,26 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Motion Graphics Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6737c53ce12bd1bd242dde3e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 03 |
 | ↳ | **[Technical Artist Intern, Tools & Pipeline - League of Legends - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6725a19a4ca64ed677064492?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 03 |
 | **[Cambria](http://www.cambriausa.com)** | **[Designer Intern](https://jobright.ai/jobs/info/674f8b04538012ef3b6cb392?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 03 |
-| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90d6?utm_campaign=1049&utm_source=git)** | Birmingham - 2216 7th | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90f2?utm_campaign=1049&utm_source=git)** | Dayton - Webster | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90f3?utm_campaign=1049&utm_source=git)** | Overland Park - College | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90d3?utm_campaign=1049&utm_source=git)** | Billings - 3289 Gabel | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90bc?utm_campaign=1049&utm_source=git)** | Phoenix - E. Camelback | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9113?utm_campaign=1049&utm_source=git)** | Opelika - Corporate | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9091?utm_campaign=1049&utm_source=git)** | Denver - 17th St | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90de?utm_campaign=1049&utm_source=git)** | Virginia Beach - Columbus | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9094?utm_campaign=1049&utm_source=git)** | Naples - Tamiami | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90f6?utm_campaign=1049&utm_source=git)** | Gainesville - Jesse | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a909c?utm_campaign=1049&utm_source=git)** | Rochester - Linden Oaks | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90eb?utm_campaign=1049&utm_source=git)** | Memphis - 6410 Poplar | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90b7?utm_campaign=1049&utm_source=git)** | Fort Worth - Seventh | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90d2?utm_campaign=1049&utm_source=git)** | Alpharetta - 2520 Northwinds | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90c6?utm_campaign=1049&utm_source=git)** | Greenville - South Main | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a910a?utm_campaign=1049&utm_source=git)** | Abilene - Industrial | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90a8?utm_campaign=1049&utm_source=git)** | Richmond - Libbie | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9090?utm_campaign=1049&utm_source=git)** | Miami - SW 7th St | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90dc?utm_campaign=1049&utm_source=git)** | Buffalo - Seneca | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9101?utm_campaign=1049&utm_source=git)** | San Ramon - Crow | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9118?utm_campaign=1049&utm_source=git)** | Cincinnati - Vine | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a910f?utm_campaign=1049&utm_source=git)** | Fort Lauderdale - Corporate | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9110?utm_campaign=1049&utm_source=git)** | Norfolk - Main | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90b1?utm_campaign=1049&utm_source=git)** | Woodstock - Cherokee | On Site | Dec 03 |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90f3?utm_campaign=1049&utm_source=git)** | Overland Park - College | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90b9?utm_campaign=1049&utm_source=git)** | Milwaukee - E. Wisconsin | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90d0?utm_campaign=1049&utm_source=git)** | Winston-Salem - Cherry | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90c2?utm_campaign=1049&utm_source=git)** | Pensacola - Garden | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90d9?utm_campaign=1049&utm_source=git)** | Noblesville - Westfield | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9093?utm_campaign=1049&utm_source=git)** | Watkinsville - Julian | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90c9?utm_campaign=1049&utm_source=git)** | Chicago - Canal | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90bd?utm_campaign=1049&utm_source=git)** | Seattle - Fifth Avenue | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90bb?utm_campaign=1049&utm_source=git)** | Chagrin Falls - Franklin | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90b6?utm_campaign=1049&utm_source=git)** | Coeur d'Alene - Front | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90a6?utm_campaign=1049&utm_source=git)** | Minneapolis - South Seventh | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9111?utm_campaign=1049&utm_source=git)** | San Diego - Camino | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90cd?utm_campaign=1049&utm_source=git)** | Spokane - Riverpoint | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a909f?utm_campaign=1049&utm_source=git)** | Greensboro - North Elm | On Site | Dec 03 |
 | ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90ee?utm_campaign=1049&utm_source=git)** | Dallas - Walnut Hill Lane | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a908e?utm_campaign=1049&utm_source=git)** | Indianapolis - Monument | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9103?utm_campaign=1049&utm_source=git)** | Philadelphia - 15th | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90a3?utm_campaign=1049&utm_source=git)** | Fargo - Broadway | On Site | Dec 03 |
 | ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90ea?utm_campaign=1049&utm_source=git)** | Carrollton - Tom Reeve | On Site | Dec 03 |
 | ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9098?utm_campaign=1049&utm_source=git)** | Lafayette - Congress | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a910e?utm_campaign=1049&utm_source=git)** | Frederick - Corporate | On Site | Dec 03 |
-| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90ca?utm_campaign=1049&utm_source=git)** | San Antonio - Broadway | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a909b?utm_campaign=1049&utm_source=git)** | King of Prussia - 2300 Renaiss | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9106?utm_campaign=1049&utm_source=git)** | Sacramento - River | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90d3?utm_campaign=1049&utm_source=git)** | Billings - 3289 Gabel | On Site | Dec 03 |
+| ↳ | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a9104?utm_campaign=1049&utm_source=git)** | Sioux Falls - Cherapa | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
