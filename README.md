@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cider](https://shop.shopcider.com)** | **[Styling Intern](https://jobright.ai/jobs/info/67527182d567239875e5ca23?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Landscape Maintenance Internship](https://jobright.ai/jobs/info/67526a820e9f02e0dd7f0168?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Dec 05 |
+| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Technical Design Modern/Lady Wrangler Intern](https://jobright.ai/jobs/info/67525ca5191fdc5ca3db0b07?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 05 |
 | **[Chico's FAS, Inc.](http://www.chicos.com)** | **[Design Co-op Spring 2025 (in person Fort Myers Florida!)](https://jobright.ai/jobs/info/67523d46f27938e7f0646b02?utm_campaign=1049&utm_source=git)** | Fort Myers, FL | On Site | Dec 05 |
 | **[Ensign College](https://www.ldsbc.edu/)** | **[Student Employee - MarComm Video Producer - Creative Crew](https://jobright.ai/jobs/info/675232c86ef56a79e3b5b537?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Dec 05 |
 | **[OCLC](http://www.oclc.org)** | **[UX Accessibility Intern](https://jobright.ai/jobs/info/6752235f164052be430b1429?utm_campaign=1049&utm_source=git)** | Dublin, OH | Hybrid | Dec 05 |
@@ -101,6 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67516af9913b556684ad8e58?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Dec 04 |
 | **[Movius](http://www.movius.ai)** | **[Creative and Social Media Intern (Winter 2025)](https://jobright.ai/jobs/info/67516663d34f4a556a705e98?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Dec 04 |
 | **[Energizer Holdings](http://energizerholdings.com/)** | **[Intern Digital Content](https://jobright.ai/jobs/info/67515f5ff7bf2c8c071e2b38?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Dec 04 |
+| **[FUJIFILM Dimatix, Inc.](https://www.fujifilm.com/us/en/about/region/affiliates/dimatix)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6752552453c181ddeb3df78b?utm_campaign=1049&utm_source=git)** | 21919 30th Drive SE, Bothell, WA, US | On Site | Dec 04 |
+| **[Activision](https://www.activision.com/)** | **[2025 US Summer Internship - UI/UX Design](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec8ee?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Dec 04 |
 | **[ADC Engineering, Inc](https://www.adcengineering.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/675114b85787c17a5367caae?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Dec 04 |
 | **[Purdue University](https://www.purdue.edu)** | **[Multimedia Design Intern - Student Services](https://jobright.ai/jobs/info/6751b9d0681c49ccd5600d81?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Dec 04 |
 | **[Graphcom](https://graphcom.com)** | **[Creative Editorial Intern](https://jobright.ai/jobs/info/675232c86ef56a79e3b5b71d?utm_campaign=1049&utm_source=git)** | Gettysburg, PA | On Site | Dec 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ulla Johnson](https://ullajohnson.com)** | **[Production and Technical Design Internship](https://jobright.ai/jobs/info/674f90c9e356d01932225e86?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 03 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2025 College Internships Charlotte, NC](https://jobright.ai/jobs/info/66f750c076236dd53c87920f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 03 |
 | **[APTIM](https://www.aptim.com/)** | **[Junior Graphic Designer/Publisher -- Intern](https://jobright.ai/jobs/info/674f90c9e356d01932225eac?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 03 |
-| **[Riot Games](http://www.riotgames.com)** | **[Technical Art Intern, Rendering - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6737ae6352a952b0528876b8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 03 |
-| ↳ | **[Motion Graphics Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6737c53ce12bd1bd242dde3e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 03 |
-| ↳ | **[Technical Artist Intern, Tools & Pipeline - League of Legends - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6725a19a4ca64ed677064492?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 03 |
-| **[Cambria](http://www.cambriausa.com)** | **[Designer Intern](https://jobright.ai/jobs/info/674f8b04538012ef3b6cb392?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 03 |
-| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Graphic Design Production Intern](https://jobright.ai/jobs/info/674f86fc5c687a5a151a90de?utm_campaign=1049&utm_source=git)** | Virginia Beach - Columbus | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
