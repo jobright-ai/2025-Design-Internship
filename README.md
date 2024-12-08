@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 Design Summer Internship - Albuquerque, NM](https://jobright.ai/jobs/info/6750f44df04c8d43e42555e9?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Dec 04 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Landscape](https://jobright.ai/jobs/info/6750eddf40a819af2633d451?utm_campaign=1049&utm_source=git)** | New York | On Site | Dec 04 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6750c6a2712417332dae73b2?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Dec 04 |
-| **[The Haskell Company](http://www.haskell.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6750bb84eb126c53ce4ad5ff?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Dec 04 |
+| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Brand Creative Studio: Production](https://jobright.ai/jobs/info/6750c6a2712417332dae743a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
