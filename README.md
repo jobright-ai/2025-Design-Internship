@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centene Corporation](http://www.centene.com)** | **[Content Design Intern](https://jobright.ai/jobs/info/6754bac87c73dd4ae59db02b?utm_campaign=1049&utm_source=git)** | Virginia, United States | On Site | Dec 07 |
 | **[Riot Games](http://www.riotgames.com)** | **[Concept Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67546fa21bed53346d268870?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 07 |
 | ↳ | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67546fa21bed53346d268871?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 07 |
 | ↳ | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67547a03506bbd9819022ff2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 07 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2025 Design and Production Internship, Los Angeles - Onsite](https://jobright.ai/jobs/info/6753a9f78c840fe8d24479f1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 06 |
 | ↳ | **[Summer 2025 Design and Production Internship, New York City - Onsite](https://jobright.ai/jobs/info/6753a9f78c840fe8d24479b4?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Strategic Communication Outreach and Education-UX Design Internship](https://jobright.ai/jobs/info/6741cafd1cf63e5570c846d5?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
+| **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Multimedia & Photography Intern, IINE Boston](https://jobright.ai/jobs/info/6754da3d899bbe185026caa9?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Dec 06 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Research](https://jobright.ai/jobs/info/6753781bce0626af105d2ee2?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Dec 06 |
 | **[Longwood Gardens](http://longwoodgardens.org)** | **[DISPLAY DESIGN 12-MONTH INTERNSHIP](https://jobright.ai/jobs/info/67537993b637c6eabd3042a1?utm_campaign=1049&utm_source=git)** | Kennett Square, PA | On Site | Dec 06 |
 | **[Inteva Products](https://www.intevaproducts.com/)** | **[Automotive Product Design Intern](https://jobright.ai/jobs/info/673cf77c5286654a6f5b8333?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Dec 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Landscape](https://jobright.ai/jobs/info/6750eddf40a819af2633d451?utm_campaign=1049&utm_source=git)** | New York | On Site | Dec 04 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6750c6a2712417332dae73b2?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Dec 04 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6750bb84eb126c53ce4ad5ff?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Dec 04 |
-| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Brand Creative Studio: Production](https://jobright.ai/jobs/info/67509f3bb6cb54bd5142fe55?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
-| ↳ | **[Summer Intern, Brand Creative Studio: Design](https://jobright.ai/jobs/info/67509f3bb6cb54bd5142fe3f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
