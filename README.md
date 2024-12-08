@@ -94,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Cider](https://shop.shopcider.com)** | **[Styling Intern](https://jobright.ai/jobs/info/67527182d567239875e5ca23?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Architect](https://jobright.ai/jobs/info/67527af20e36c2dc08398e91?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Dec 05 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[2025 Season Photography Intern Job at FC Dallas in Frisco](https://jobright.ai/jobs/info/675288e16199329e37dd0012?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Dec 05 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Experience Design](https://jobright.ai/jobs/info/673f3a70b1ad2905df3fda90?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 05 |
 | **[FUJIFILM Sonosite, Inc.](http://www.sonosite.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/675280c4f7b3e634d2556f18?utm_campaign=1049&utm_source=git)** | Bothell, WA | On Site | Dec 05 |
 | **[Virginia Museum of History & Culture](https://virginiahistory.org)** | **[Photography &amp; Digital Asset Intern](https://jobright.ai/jobs/info/67527f92590934997eb16b2e?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Dec 05 |
 | **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/66e0e9d96d924a07dc04e652?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Dec 05 |
@@ -148,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Energizer Holdings](http://energizerholdings.com/)** | **[Intern Digital Content](https://jobright.ai/jobs/info/67515f5ff7bf2c8c071e2b38?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Dec 04 |
 | **[FUJIFILM Dimatix, Inc.](https://www.fujifilm.com/us/en/about/region/affiliates/dimatix)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6752552453c181ddeb3df78b?utm_campaign=1049&utm_source=git)** | 21919 30th Drive SE, Bothell, WA, US | On Site | Dec 04 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2025 US Summer Internship - Computer Graphics](https://jobright.ai/jobs/info/67527f92590934997eb16d0b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 04 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/6716fbd910a4024af8e3b64e?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | On Site | Dec 04 |
 | **[Activision](https://www.activision.com/)** | **[2025 US Summer Internship - UI/UX Design](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec8ee?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Dec 04 |
 | **[ADC Engineering, Inc](https://www.adcengineering.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/675114b85787c17a5367caae?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Dec 04 |
 | **[Purdue University](https://www.purdue.edu)** | **[Multimedia Design Intern - Student Services](https://jobright.ai/jobs/info/6751b9d0681c49ccd5600d81?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Dec 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/675126dacadb1edb71119de3?utm_campaign=1049&utm_source=git)** | Portland, OR US | On Site | Dec 04 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 Design Summer Internship - Albuquerque, NM](https://jobright.ai/jobs/info/6750f44df04c8d43e42555e9?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Dec 04 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Landscape](https://jobright.ai/jobs/info/6750eddf40a819af2633d451?utm_campaign=1049&utm_source=git)** | New York | On Site | Dec 04 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6750c6a2712417332dae73b2?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Dec 04 |
-| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Brand Creative Studio: Production](https://jobright.ai/jobs/info/6750c6a2712417332dae743a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
