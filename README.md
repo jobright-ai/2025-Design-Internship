@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coinbase](https://www.coinbase.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/674982f06f269ee713e36742?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 09 |
 | **[VeeFriends](https://www.veefriends.com)** | **[Graphic Designer Resident (Intern)](https://jobright.ai/jobs/info/675654fb0daa2b1bfb65a617?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 08 |
 | **[Alexander Wang LLC](https://www.alexanderwang.com)** | **[Alexander Wang LLC / Design Intern / new york city, ny](https://jobright.ai/jobs/info/6755c78fadc0f65b07c11a6e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Ulla Johnson  ](https://ullajohnson.com)** | **[Ulla Johnson / Production and Technical Design Internship / new york city, ny](https://jobright.ai/jobs/info/6755baa3fef5f2d5ee1b2123?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 08 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Content Production College Associate](https://jobright.ai/jobs/info/6717d81a850554eefb2d1012?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Dec 06 |
 | **[FedPoint](https://www.fedpointusa.com/)** | **[UX Research and Web Data Analyst Internship - Part Time](https://jobright.ai/jobs/info/6752c02ff0687e2328640cb2?utm_campaign=1049&utm_source=git)** | Portsmouth, NH | Hybrid | Dec 06 |
 | **[Microsoft](https://www.microsoft.com)** | **[Content Design Intern](https://jobright.ai/jobs/info/67356de01c0ebdc19a3a5971?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Dec 05 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Innovation Designer (Spring 2025)](https://jobright.ai/jobs/info/6756a14138ee7d267d55e472?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[Making Waves Education Foundation](http://www.making-waves.org)** | **[UX Researcher Paid Internship](https://jobright.ai/jobs/info/6752b75d4965f007b8a9cd74?utm_campaign=1049&utm_source=git)** | Richmond, CA | On Site | Dec 05 |
 | **[Uline](http://www.uline.com)** | **[Private Label Design Internship - Summer 2025](https://jobright.ai/jobs/info/67349bc0407b1dd844ed2082?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 05 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6735912213c2fd437e57cc44?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Dec 05 |
@@ -133,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Creative Services Intern, CBS Philadelphia (Summer 2025)](https://jobright.ai/jobs/info/6751e1211e49b7a287c7dda2?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6751cb6fbcfa674f9a79f9d4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
 | **[Amazon](https://amazon.com)** | **[User Experience Research Intern Internship – 2025 (US)](https://jobright.ai/jobs/info/6735afe50a580f67c34e7fe4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
+| **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[Architectural Designer - UMIAQ Design](https://jobright.ai/jobs/info/67357c4481aa836c276aba5c?utm_campaign=1049&utm_source=git)** | Anchorage, AK | On Site | Dec 05 |
 | **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2025](https://jobright.ai/jobs/info/66e0a0b5a692cb8ec3d5de8a?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Dec 05 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2025 (US)](https://jobright.ai/jobs/info/67357c4719856c00fc60fc9b?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[UX Research Internship](https://jobright.ai/jobs/info/6734978528ac0e6e4c14af49?utm_campaign=1049&utm_source=git)** | Poughkeepsie, NY | On Site | Dec 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Lippincott - Winter Intern, Visual Communication Design](https://jobright.ai/jobs/info/6752a32c0fb3ba8bdd87c254?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
 | **[Energizer Holdings](http://energizerholdings.com/)** | **[Intern Digital Content](https://jobright.ai/jobs/info/67515f5ff7bf2c8c071e2b38?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Dec 04 |
 | **[FUJIFILM Dimatix, Inc.](https://www.fujifilm.com/us/en/about/region/affiliates/dimatix)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6752552453c181ddeb3df78b?utm_campaign=1049&utm_source=git)** | 21919 30th Drive SE, Bothell, WA, US | On Site | Dec 04 |
-| **[Blizzard Entertainment](http://blizzard.com)** | **[2025 US Summer Internship - Computer Graphics](https://jobright.ai/jobs/info/67527f92590934997eb16d0b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
