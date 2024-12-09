@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VeeFriends](https://www.veefriends.com)** | **[Graphic Designer Resident (Intern)](https://jobright.ai/jobs/info/675654fb0daa2b1bfb65a617?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 08 |
 | **[Alexander Wang LLC](https://www.alexanderwang.com)** | **[Alexander Wang LLC / Design Intern / new york city, ny](https://jobright.ai/jobs/info/6755c78fadc0f65b07c11a6e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Ulla Johnson](https://ullajohnson.com)** | **[Ulla Johnson / Production and Technical Design Internship / new york city, ny](https://jobright.ai/jobs/info/6755baa3fef5f2d5ee1b2123?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Riot Games](http://www.riotgames.com)** | **[Concept Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6755baa3fef5f2d5ee1b2206?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 08 |
-| ↳ | **[Motion Graphics Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6755baa3fef5f2d5ee1b2209?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 08 |
+| **[Uline](http://www.uline.com)** | **[Web Design Internship - Summer 2025](https://jobright.ai/jobs/info/67379754c607401a448dc963?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Dec 07 |
 | **[Centene Corporation](http://www.centene.com)** | **[Content Design Intern](https://jobright.ai/jobs/info/6754bac87c73dd4ae59db02b?utm_campaign=1049&utm_source=git)** | Virginia, United States | On Site | Dec 07 |
 | **[Riot Games](http://www.riotgames.com)** | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67546fa21bed53346d268871?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 07 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Development Intern, Screen Gems - Spring 2025](https://jobright.ai/jobs/info/67389361d2a5e52a16da4a91?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Dec 07 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Energizer Holdings](http://energizerholdings.com/)** | **[Intern Digital Content](https://jobright.ai/jobs/info/67515f5ff7bf2c8c071e2b38?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Dec 04 |
 | **[FUJIFILM Dimatix, Inc.](https://www.fujifilm.com/us/en/about/region/affiliates/dimatix)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6752552453c181ddeb3df78b?utm_campaign=1049&utm_source=git)** | 21919 30th Drive SE, Bothell, WA, US | On Site | Dec 04 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2025 US Summer Internship - Computer Graphics](https://jobright.ai/jobs/info/67527f92590934997eb16d0b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 04 |
+| **[Walmart](http://www.walmart.com)** | **[2025 Summer Undergraduate Intern: Walmart Fashion Design](https://jobright.ai/jobs/info/67566612d5fd0574f6748642?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/6716fbd910a4024af8e3b64e?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | On Site | Dec 04 |
 | **[Activision](https://www.activision.com/)** | **[2025 US Summer Internship - UI/UX Design](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec8ee?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Dec 04 |
-| **[ADC Engineering, Inc](https://www.adcengineering.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/675114b85787c17a5367caae?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Dec 04 |
-| **[Purdue University](https://www.purdue.edu)** | **[Multimedia Design Intern - Student Services](https://jobright.ai/jobs/info/6751b9d0681c49ccd5600d81?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
