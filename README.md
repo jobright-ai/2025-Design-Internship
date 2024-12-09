@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Motion Graphics Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6755baa3fef5f2d5ee1b2209?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 08 |
 | **[Centene Corporation](http://www.centene.com)** | **[Content Design Intern](https://jobright.ai/jobs/info/6754bac87c73dd4ae59db02b?utm_campaign=1049&utm_source=git)** | Virginia, United States | On Site | Dec 07 |
 | **[Riot Games](http://www.riotgames.com)** | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67546fa21bed53346d268871?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 07 |
-| ↳ | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67547a03506bbd9819022ff2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 07 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Creative Development Intern, Screen Gems - Spring 2025](https://jobright.ai/jobs/info/67389361d2a5e52a16da4a91?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Dec 07 |
 | **[Paycor](http://www.paycor.com)** | **[Product Design Co-op (Summer 2025)](https://jobright.ai/jobs/info/6753c98329e70e3e7d944346?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 06 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2025 Design and Production Internship, Los Angeles - Onsite](https://jobright.ai/jobs/info/6753a9f78c840fe8d24479f1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 06 |
@@ -79,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2025 Internship - Womens Design](https://jobright.ai/jobs/info/67536e59f53141500761f3f0?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 06 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - UX Design](https://jobright.ai/jobs/info/6715be5b390c4acbf65b05d1?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Dec 06 |
 | **[Activision](https://www.activision.com/)** | **[2025 US Summer Internship - Game Design](https://jobright.ai/jobs/info/67536b20fa3b4f98905645d2?utm_campaign=1049&utm_source=git)** | Carlsbad, CA | On Site | Dec 06 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Product Design Internships (Product, Visual and Content Design) - Summer 2025](https://jobright.ai/jobs/info/672374935f498c2edf1a34dc?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
 | **[Domi Station](http://www.domistation.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/675358d9a892b5082ec41bb7?utm_campaign=1049&utm_source=git)** | Tallahassee, FL | On Site | Dec 06 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2025 Internship - Concept](https://jobright.ai/jobs/info/6753521cc0748deaa17b0c22?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 06 |
 | ↳ | **[Spring 2025 Internship - Mens Design](https://jobright.ai/jobs/info/6753521cc0748deaa17b0c75?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 06 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Print Design Internship - Summer 2025](https://jobright.ai/jobs/info/6734e5b1490f5a4f417d3edf?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Dec 05 |
 | **[Electronic Arts (EA)](https://www.ea.com/)** | **[2D Artist Intern - Summer 2025](https://jobright.ai/jobs/info/6734b04be174e284c60f843f?utm_campaign=1049&utm_source=git)** | Kirkland, WA | Hybrid | Dec 05 |
 | ↳ | **[Technical Environment Art Intern - Summer 2025 (Apex Legends)](https://jobright.ai/jobs/info/6734b04be174e284c60f846d?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Dec 05 |
-| ↳ | **[Intern, FC Graphic Design](https://jobright.ai/jobs/info/6734b04be174e284c60f843a?utm_campaign=1049&utm_source=git)** | Oregon, United States | Hybrid | Dec 05 |
 | ↳ | **[Game Design Intern (Summer 2025)](https://jobright.ai/jobs/info/6734c55d04d471e5296498d9?utm_campaign=1049&utm_source=git)** | Kirkland, WA | Hybrid | Dec 05 |
+| ↳ | **[Intern, FC Graphic Design](https://jobright.ai/jobs/info/6734b04be174e284c60f843a?utm_campaign=1049&utm_source=git)** | Oregon, United States | Hybrid | Dec 05 |
 | ↳ | **[UI Artist Intern - Summer 2025 (Apex Legends)](https://jobright.ai/jobs/info/6734d961550e1d60ea13712d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 05 |
 | ↳ | **[Associate Character Artist Intern](https://jobright.ai/jobs/info/67355dc7721d4f803c836971?utm_campaign=1049&utm_source=git)** | Kirkland, WA | On Site | Dec 05 |
 | ↳ | **[Tech Art Intern - Summer 2025 (Apex Legends)](https://jobright.ai/jobs/info/6734b04be174e284c60f846e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 05 |
