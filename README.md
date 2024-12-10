@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Riot Games](http://www.riotgames.com)** | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6757b091863734d30e265749?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 09 |
+| ↳ | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6757b091863734d30e26574a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 09 |
+| ↳ | **[Concept Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6757b091863734d30e26574c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 09 |
+| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Brand Strategy Intern](https://jobright.ai/jobs/info/6757b2c91f739bf7e7f5cc45?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Dec 09 |
+| **[Zoox](https://www.zoox.com/)** | **[UX Designer Intern (January 2025 Start)](https://jobright.ai/jobs/info/67578c53d6eabfdf01b01fa4?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Dec 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Destinations & Experiences Summer 2025 Internship - Creative, Industrial Design](https://jobright.ai/jobs/info/675789b2d2fc3be881e96736?utm_campaign=1049&utm_source=git)** | Universal City, CA | On Site | Dec 09 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Group Benefit Solutions (GBS) Graphic Design Summer Internship](https://jobright.ai/jobs/info/67576cf224dd903206bfc39d?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Destinations & Experiences Summer 2025 Internship - Entertainment, Production Design](https://jobright.ai/jobs/info/6757872e844ab64cd479d92d?utm_campaign=1049&utm_source=git)** | Universal City, CA | On Site | Dec 09 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[The Lab Consulting](http://www.thelabconsulting.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6751ddfc8c2834300ffeeab4?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Dec 05 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 Design Summer Internship - Albuquerque, NM](https://jobright.ai/jobs/info/67529ea3f7d4eca108cc9498?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Dec 05 |
 | ↳ | **[2025 Designer Summer Internship - Mansfield, MA](https://jobright.ai/jobs/info/6751e119e49dfd668770382e?utm_campaign=1049&utm_source=git)** | Mansfield, MA | On Site | Dec 05 |
-| ↳ | **[2025 Designer Summer Internship - Charlotte, NC](https://jobright.ai/jobs/info/6751d824a6abeff04058c884?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 05 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Creative Services Intern, CBS Philadelphia (Summer 2025)](https://jobright.ai/jobs/info/6751e1211e49b7a287c7dda2?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 05 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/66e24f66cbc3fa8c76735646?utm_campaign=1049&utm_source=git)** | Cincinnati Metro | Hybrid | Dec 05 |
 | **[Weston & Sampson](http://westonandsampson.com)** | **[Landscape Designer - Spring Co-Op 2025](https://jobright.ai/jobs/info/6718444e0cb799a37ec24b2e?utm_campaign=1049&utm_source=git)** | Foxborough, MA | Hybrid | Dec 05 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6751cb6fbcfa674f9a79f9d4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
-| **[Amazon](https://amazon.com)** | **[User Experience Research Intern Internship – 2025 (US)](https://jobright.ai/jobs/info/6735afe50a580f67c34e7fe4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
-| **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[Architectural Designer - UMIAQ Design](https://jobright.ai/jobs/info/67357c4481aa836c276aba5c?utm_campaign=1049&utm_source=git)** | Anchorage, AK | On Site | Dec 05 |
-| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2025](https://jobright.ai/jobs/info/66e0a0b5a692cb8ec3d5de8a?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
