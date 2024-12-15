@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altruist](https://altruist.com)** | **[Product Design Intern - Summer 2025](https://jobright.ai/jobs/info/66edf14c2e01da21219438c2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 15 |
+| **[Riot Games](http://www.riotgames.com)** | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/675eccb4f0ff0edbe05f8b42?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 15 |
+| ↳ | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/675eae0764d80667df53b9b8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 15 |
+| ↳ | **[Concept Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/675eae0764d80667df53b9ba?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 15 |
 | **[Seamgen](http://www.seamgen.com/)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/675e79383398f1831c58737b?utm_campaign=1049&utm_source=git)** | La Jolla, CA | On Site | Dec 14 |
 | **[Primal Wear](https://www.primalwear.com/)** | **[Design Artist Intern Job at Primal Wear in Denver](https://jobright.ai/jobs/info/675e59d26ecda6a3ee3b6bed?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 14 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Photographer (The Chautauquan Daily)/Seasonal Employment Job at Cha](https://jobright.ai/jobs/info/675e5709402c8972306de8aa?utm_campaign=1049&utm_source=git)** | Chautauqua, NY | On Site | Dec 14 |
@@ -108,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Apparel Production Intern](https://jobright.ai/jobs/info/675ba3346aa6229ca1a4889e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/673e676861b2c2d3955563ed?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, CMF Design, Summer 2025](https://jobright.ai/jobs/info/675b9acc7f0fae5183f80a1c?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Dec 12 |
-| **[Visual Concepts](https://www.vcentertainment.com)** | **[Technical Artist (Intern)](https://jobright.ai/jobs/info/675b6fea9d1223773274ee59?utm_campaign=1049&utm_source=git)** | Novato, CA | On Site | Dec 12 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/673e676861b2c2d3955563ef?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[Social Media Marketing & Graphic Design Internship (Spring 2025)](https://jobright.ai/jobs/info/675b6d4e467b06d4d233147a?utm_campaign=1049&utm_source=git)** | Naperville, IL | On Site | Dec 12 |
 | **[TD SYNNEX](https://www.tdsynnex.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/675b790feccafae910b90ebc?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Dec 12 |
@@ -118,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Interaction Design Internship (Year-Long)](https://jobright.ai/jobs/info/675b5428b5592661fb236d15?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Dec 12 |
 | ↳ | **[Industrial Design Internship (Year-Long)](https://jobright.ai/jobs/info/675b49078ff7f0d903150cf5?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Dec 12 |
 | **[2K](http://2k.com)** | **[Technical Artist (Intern)](https://jobright.ai/jobs/info/675b49078ff7f0d903150d67?utm_campaign=1049&utm_source=git)** | Novato, California, United States | On Site | Dec 12 |
+| **[Visual Concepts](https://www.vcentertainment.com)** | **[Technical Artist (Intern)](https://jobright.ai/jobs/info/675b49078ff7f0d903150db8?utm_campaign=1049&utm_source=git)** | Novato, CA | On Site | Dec 12 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/675b287ca1e19c49fa51cc11?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Dec 12 |
 | **[NEOGOV](http://www.neogov.com)** | **[Ascend Internship - Landscape Architect](https://jobright.ai/jobs/info/675b13eff978ab876d88b3b7?utm_campaign=1049&utm_source=git)** | City of Sioux Falls, SD | On Site | Dec 12 |
 | **[IFF](http://iff.com)** | **[Intern-1](https://jobright.ai/jobs/info/675b13eff978ab876d88b3c1?utm_campaign=1049&utm_source=git)** | Holmdel, NJ USA | On Site | Dec 12 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Multistudio](http://www.gouldevans.com)** | **[Intern Designer - City Design](https://jobright.ai/jobs/info/675a1ba143247957c963816d?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Dec 11 |
 | **[SPS Commerce](http://spscommerce.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/675a18a821d923d03f544ff9?utm_campaign=1049&utm_source=git)** | Rogers, AR | Hybrid | Dec 11 |
 | **[PTC](http://www.ptc.com)** | **[PLM UX and Research Intern](https://jobright.ai/jobs/info/675a0d5feeb6d47cb06343e7?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Dec 11 |
-| **[Bask Health](https://www.bask.bio/)** | **[Visual Designer](https://jobright.ai/jobs/info/675a1ed122142ec86ae37b00?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 11 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[CO-OP PACKAGING DESIGN](https://jobright.ai/jobs/info/675a107c6a886f63e1f347e2?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD | On Site | Dec 11 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/675a04bc83d6bcddb525a58d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 11 |
 | **[HDR](http://www.hdrinc.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/66e9ba2fe09b534a5ff228a6?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Dec 11 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Research Park Communications Specialist internship (UIUC Summer 2025 Internship)](https://jobright.ai/jobs/info/6759e8c5e14bd9222e117dee?utm_campaign=1049&utm_source=git)** | Champaign, IL (IL169) | On Site | Dec 11 |
 | **[PTC](http://www.ptc.com)** | **[PLM UX and Research Intern](https://jobright.ai/jobs/info/6759ce69668dc15f60ce5929?utm_campaign=1049&utm_source=git)** | Boston, MA, USA | On Site | Dec 11 |
 | **[McKesson](http://www.mckesson.com)** | **[Innovation Intern - Summer 2025](https://jobright.ai/jobs/info/6759cd23cb0d1c712fda03a6?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Dec 11 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Photo Equipment](https://jobright.ai/jobs/info/6759cdfe224db3d4e01c296b?utm_campaign=1049&utm_source=git)** | Manassas, VA | On Site | Dec 11 |
-| **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/650ed9ce4bb8a0ba95012668?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Dec 11 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Creative Cloud, Community Engagement](https://jobright.ai/jobs/info/6759ab6b8c5e1b2e336b7b46?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
