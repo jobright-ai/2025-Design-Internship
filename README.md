@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATPCO](http://www.atpco.net)** | **[ATPCO is hiring: Graphic Design Intern in Herndon](https://jobright.ai/jobs/info/675f083904aadf1294c0c87f?utm_campaign=1049&utm_source=git)** | Herndon, VA | On Site | Dec 15 |
+| **[Notion](https://www.notion.so)** | **[Notion, LLC is hiring: Graphic Design Intern in Saint Louis](https://jobright.ai/jobs/info/675efdd9d854573a560092a9?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Dec 15 |
+| **[Vector Media](http://vectormedia.com)** | **[Freelance Photographer for Outdoor Advertising in Chicago, IL](https://jobright.ai/jobs/info/675efdd9d854573a5600925e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 15 |
 | **[Altruist](https://altruist.com)** | **[Product Design Intern - Summer 2025](https://jobright.ai/jobs/info/66edf14c2e01da21219438c2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 15 |
 | **[Riot Games](http://www.riotgames.com)** | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/675eccb4f0ff0edbe05f8b42?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 15 |
 | ↳ | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/675eae0764d80667df53b9b8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 15 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern - Research - Web Design](https://jobright.ai/jobs/info/675dc7152aca6e3081a9001b?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Dec 14 |
 | **[Primal Wear](https://www.primalwear.com/)** | **[Primal Wear is hiring: Design Artist Intern in Denver](https://jobright.ai/jobs/info/675dbeb06c34268fdc774775?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 14 |
 | **[Reach Records](https://www.reachrecords.com)** | **[Design Internship - Spring 2025](https://jobright.ai/jobs/info/675dc47984d6e0c4f71e20b0?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 14 |
+| **[Michelin](http://www.michelin.com/)** | **[Summer 2025 Graphic Design Intern_Greenville, SC](https://jobright.ai/jobs/info/66ec75a77e3f4d2bca89c2d9?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Dec 14 |
 | **[Chicken N Pickle](https://chickennpickle.com)** | **[Graphic Design Internship and Professional Development Program](https://jobright.ai/jobs/info/675d8b771bdd66a4fc94a77e?utm_campaign=1049&utm_source=git)** | North Kansas City, MO | On Site | Dec 14 |
 | **[Fuss & O'Neill](http://www.fando.com)** | **[Internship - Landscape Designer](https://jobright.ai/jobs/info/675d8b771bdd66a4fc94a71d?utm_campaign=1049&utm_source=git)** | Springfield, MA | On Site | Dec 14 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Design Intern](https://jobright.ai/jobs/info/66d112cacffc3355260a7589?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Dec 14 |
@@ -91,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Meta](https://www.metacareers.com/)** | **[MR Product Design Intern (BS/MS)](https://jobright.ai/jobs/info/675c966b4b321f042dc338d2?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 13 |
 | **[Chicken N Pickle](https://chickennpickle.com)** | **[Graphic Design Internship and Professional Development Program](https://jobright.ai/jobs/info/675ca4d5a1944589b4f51b8f?utm_campaign=1049&utm_source=git)** | Kansas City, KS | On Site | Dec 13 |
 | **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Wrangler Design Intern](https://jobright.ai/jobs/info/675c8808ec57e633c57605fc?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 13 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66d00432eb861cdb5c5f8630?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Dec 13 |
 | **[NEOGOV](http://www.neogov.com)** | **[Internship - Libraries (Marketing, Graphic Design, and Public Relations)](https://jobright.ai/jobs/info/675c72df6d223e31f5bba83e?utm_campaign=1049&utm_source=git)** | Hudson, FL | On Site | Dec 13 |
 | **[AARP](http://www.aarp.org)** | **[Human-Centered Design Insights Intern](https://jobright.ai/jobs/info/674854b66f9ff59149e1b476?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 | **[Congressional Hispanic Caucus Institute (CHCI)](http://chci.org/)** | **[Staff Intern, Visual and Graphic Design Job at Congressional Hispanic Caucus Ins](https://jobright.ai/jobs/info/675c66e166c395321012f1b2?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
@@ -113,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/673e676861b2c2d3955563ed?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, CMF Design, Summer 2025](https://jobright.ai/jobs/info/675b9acc7f0fae5183f80a1c?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Dec 12 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/673e676861b2c2d3955563ef?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
-| **[North Central College](http://www.northcentralcollege.edu/)** | **[Social Media Marketing & Graphic Design Internship (Spring 2025)](https://jobright.ai/jobs/info/675b6d4e467b06d4d233147a?utm_campaign=1049&utm_source=git)** | Naperville, IL | On Site | Dec 12 |
 | **[TD SYNNEX](https://www.tdsynnex.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/675b790feccafae910b90ebc?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Dec 12 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Digital Design & Social Media Intern](https://jobright.ai/jobs/info/675b5175db099ac09781d662?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Dec 12 |
 | **[IFF](http://iff.com)** | **[Intern-1](https://jobright.ai/jobs/info/675b4fbca689c5ed224eb3b2?utm_campaign=1049&utm_source=git)** | Holmdel, NJ | On Site | Dec 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://www.ptc.com)** | **[PLM UX and Research Intern](https://jobright.ai/jobs/info/675a0d5feeb6d47cb06343e7?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Dec 11 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[CO-OP PACKAGING DESIGN](https://jobright.ai/jobs/info/675a107c6a886f63e1f347e2?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD | On Site | Dec 11 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/675a04bc83d6bcddb525a58d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 11 |
-| **[HDR](http://www.hdrinc.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/66e9ba2fe09b534a5ff228a6?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Dec 11 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Research Park Communications Specialist internship (UIUC Summer 2025 Internship)](https://jobright.ai/jobs/info/6759e8c5e14bd9222e117dee?utm_campaign=1049&utm_source=git)** | Champaign, IL (IL169) | On Site | Dec 11 |
-| **[PTC](http://www.ptc.com)** | **[PLM UX and Research Intern](https://jobright.ai/jobs/info/6759ce69668dc15f60ce5929?utm_campaign=1049&utm_source=git)** | Boston, MA, USA | On Site | Dec 11 |
-| **[McKesson](http://www.mckesson.com)** | **[Innovation Intern - Summer 2025](https://jobright.ai/jobs/info/6759cd23cb0d1c712fda03a6?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
