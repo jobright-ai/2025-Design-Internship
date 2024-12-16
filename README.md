@@ -59,9 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/675f37845b907ef302cb0254?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Dec 15 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Photographer (The Chautauquan Daily)/Seasonal Employment Job at Cha](https://jobright.ai/jobs/info/675f10d017909aaf5b03f157?utm_campaign=1049&utm_source=git)** | Chautauqua, NY | On Site | Dec 15 |
-| **[ATPCO](http://www.atpco.net)** | **[ATPCO is hiring: Graphic Design Intern in Herndon](https://jobright.ai/jobs/info/675f083904aadf1294c0c87f?utm_campaign=1049&utm_source=git)** | Herndon, VA | On Site | Dec 15 |
-| **[Notion](https://www.notion.so)** | **[Notion, LLC is hiring: Graphic Design Intern in Saint Louis](https://jobright.ai/jobs/info/675efdd9d854573a560092a9?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Dec 15 |
 | **[Vector Media](http://vectormedia.com)** | **[Freelance Photographer for Outdoor Advertising in Chicago, IL](https://jobright.ai/jobs/info/675efdd9d854573a5600925e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 15 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/66c586ae93a6fcca6e253be0?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Dec 15 |
 | **[Altruist](https://altruist.com)** | **[Product Design Intern - Summer 2025](https://jobright.ai/jobs/info/66edf14c2e01da21219438c2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 15 |
 | **[Uline](http://www.uline.com)** | **[Photography Internship - Summer 2025](https://jobright.ai/jobs/info/66eb79f05d0f4d9f247f1d68?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 15 |
 | **[Riot Games](http://www.riotgames.com)** | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/675eccb4f0ff0edbe05f8b42?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Page](http://pagethink.com)** | **[College Intern- Architecture - Summer 2025](https://jobright.ai/jobs/info/675a41af866fea43bd55f10e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Dec 11 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Research Park Communications Specialist internship (UIUC Summer 2025 Internship)](https://jobright.ai/jobs/info/675a2fc68f8f60e33a435a2f?utm_campaign=1049&utm_source=git)** | Champaign, IL | Hybrid | Dec 11 |
 | **[NEOGOV](http://www.neogov.com)** | **[Student Assistant - Graphic Design & Digital Media Assistant](https://jobright.ai/jobs/info/675a2fcafebb162d9d3dbe05?utm_campaign=1049&utm_source=git)** | Lansing, MI | On Site | Dec 11 |
+| **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2025 Internship - Technical Design](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0a855?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
