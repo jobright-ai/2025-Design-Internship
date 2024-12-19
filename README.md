@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6763603e6e0e512866915e33?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Dec 18 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6763603e6e0e512866915cc8?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Dec 18 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6763603e6e0e512866915e45?utm_campaign=1049&utm_source=git)** | McKinney, TX | On Site | Dec 18 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6763603e6e0e512866915e47?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Dec 18 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6763603e6e0e512866915e44?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Dec 18 |
 | **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern – Sacramento, CA](https://jobright.ai/jobs/info/676361a6774af1d2b90ce27d?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Dec 18 |
 | **[CBRE](https://www.cbre.com)** | **[Design Program Intern](https://jobright.ai/jobs/info/67635f7b1221ec36deb132d1?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | Dec 18 |
@@ -80,26 +81,25 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Design Apprentice - RTW](https://jobright.ai/jobs/info/6763336d3597cbb443ba3154?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | ↳ | **[2025 Design Apprentice - Handbag Design](https://jobright.ai/jobs/info/6763336d3597cbb443ba3155?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | ↳ | **[2025 Design Apprentice - Concept & Color](https://jobright.ai/jobs/info/6763336d3597cbb443ba3158?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
-| ↳ | **[Summer Visual Merchandising Internships](https://jobright.ai/jobs/info/6763336d3597cbb443ba315e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | ↳ | **[2025 Design Apprentice - Footwear](https://jobright.ai/jobs/info/6763336d3597cbb443ba315b?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
+| ↳ | **[Summer Visual Merchandising Internships](https://jobright.ai/jobs/info/6763336d3597cbb443ba315e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | ↳ | **[2025 Design Apprentice - Print & Color](https://jobright.ai/jobs/info/67633862aa5ecac54f04a7e0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | ↳ | **[2025 Design Apprentice - 3D Design](https://jobright.ai/jobs/info/67633862aa5ecac54f04a7e1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[3D Artist Internship - Summer 2025](https://jobright.ai/jobs/info/67633574ed46d41004a5ac7d?utm_campaign=1049&utm_source=git)** | Ashburn, VA | On Site | Dec 18 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/676344bf426013ad6882057f?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Dec 18 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/676344bf426013ad68820594?utm_campaign=1049&utm_source=git)** | McKinney, TX | On Site | Dec 18 |
 | **[ASU Enterprise Partners](http://asuenterprisepartners.org/)** | **[Student Web Design & Content Specialist](https://jobright.ai/jobs/info/67632b6772cf489fdff9b62d?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Hybrid | Dec 18 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Baseball - Graphic Design, Apprentice](https://jobright.ai/jobs/info/67632478dd38a8ef53ec5b9e?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Dec 18 |
 | **[Two Circles](http://www.twocircles.com/)** | **[Creative Content Intern](https://jobright.ai/jobs/info/67635e2c8afa1114b92575ad?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Dec 18 |
-| ↳ | **[Creative Content Intern](https://jobright.ai/jobs/info/67635e2c8afa1114b92575af?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 18 |
 | ↳ | **[Creative Content Intern](https://jobright.ai/jobs/info/67635e2c8afa1114b92575ae?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Dec 18 |
+| ↳ | **[Creative Content Intern](https://jobright.ai/jobs/info/67635e2c8afa1114b92575af?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 18 |
 | ↳ | **[Creative Content Intern](https://jobright.ai/jobs/info/67635e2c8afa1114b92575b0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/676344d1426013ad688209d6?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Dec 18 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/676344bf426013ad688205c4?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Dec 18 |
 | **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Managment Intern](https://jobright.ai/jobs/info/67631b9ee65139b20108f9ad?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | Dec 18 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67631217ebedeb261b5d7ff7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 18 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67631b9ee65139b20108faf3?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Dec 18 |
 | **[DL1961](https://www.dl1961.com)** | **[Technical Design Internship Experience](https://jobright.ai/jobs/info/67632b6772cf489fdff9b6e1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 18 |
+| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Web Design & Content Specialist](https://jobright.ai/jobs/info/67631b9ee65139b20108ffa5?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Hybrid | Dec 18 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Graphic Design Internship - Summer 2025](https://jobright.ai/jobs/info/67631217ebedeb261b5d7f5d?utm_campaign=1049&utm_source=git)** | Fairfax, VA | Hybrid | Dec 18 |
-| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Web Design & Content Specialist](https://jobright.ai/jobs/info/6762f9000cd6f437fed8ed9c?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Hybrid | Dec 18 |
 | **[League of Southeastern Credit Unions & Affiliates](https://lscu.coop/)** | **[League of Southeastern Credit Unions is hiring: Marketing & Design Intern in Dul](https://jobright.ai/jobs/info/67631217ebedeb261b5d807d?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Dec 18 |
 | ↳ | **[Marketing & Design Intern Job at League of Southeastern Credit Unions in Tallaha](https://jobright.ai/jobs/info/6762f39077e1fc4303451e38?utm_campaign=1049&utm_source=git)** | Tallahassee, FL | On Site | Dec 18 |
 | **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Spring 2025)](https://jobright.ai/jobs/info/6762e19a98c15b484c72a6ac?utm_campaign=1049&utm_source=git)** | United States-Virginia-Glen Allen | On Site | Dec 18 |
@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Shepherd University](https://www.shepherd.edu/)** | **[Graphic Design Assistant](https://jobright.ai/jobs/info/67620c51d03d46f04888fd47?utm_campaign=1049&utm_source=git)** | Shepherdstown, WV | On Site | Dec 17 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Print Graphic Design Intern (Summer)- Diablo/Freud Tools](https://jobright.ai/jobs/info/67621d993c7e2fb1c5f5cf21?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 17 |
 | ↳ | **[UX/UI Design Intern (Summer)- Diablo/Freud Tools](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff50a7?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 17 |
-| **[Riot Games](http://www.riotgames.com)** | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67621d993c7e2fb1c5f5cf60?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 17 |
 | **[Barge Design Solutions](https://www.bargedesign.com/)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5ca62?utm_campaign=1049&utm_source=git)** | Chattanooga, TN | On Site | Dec 17 |
 | ↳ | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/67621d993c7e2fb1c5f5d14e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 17 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Media Services Intern](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5cab1?utm_campaign=1049&utm_source=git)** | Media, PA | Hybrid | Dec 17 |
@@ -142,19 +141,20 @@ For a complete list, click the following sortable link below:
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Motion Artist Intern](https://jobright.ai/jobs/info/6761ccf9e9fe338c43d94638?utm_campaign=1049&utm_source=git)** | Home, SD | Remote | Dec 17 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - HQF Architectural Drafter](https://jobright.ai/jobs/info/6761c555a5658fcbefc983c5?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Dec 17 |
 | **[Bosch](http://www.bosch.com)** | **[UX/UI Design Intern (Summer)- Diablo/Freud Tools](https://jobright.ai/jobs/info/6761c4041bbc91961ae7b46f?utm_campaign=1049&utm_source=git)** | 251 Armour Dr NE, Atlanta, GA 30324, USA | On Site | Dec 17 |
-| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6761c0dfc38c83e0d88629e1?utm_campaign=1049&utm_source=git)** | Lexington, Kentucky | On Site | Dec 17 |
+| **[Xometry](https://www.xometry.com)** | **[UX Writing Intern](https://jobright.ai/jobs/info/6761c0dfc38c83e0d88629df?utm_campaign=1049&utm_source=git)** | Lexington, Kentucky | On Site | Dec 17 |
 | ↳ | **[UX Writing Intern](https://jobright.ai/jobs/info/6761c0dfc38c83e0d88629c6?utm_campaign=1049&utm_source=git)** | North Bethesda, Maryland | On Site | Dec 17 |
-| ↳ | **[UX Writing Intern](https://jobright.ai/jobs/info/6761c0dfc38c83e0d88629df?utm_campaign=1049&utm_source=git)** | Lexington, Kentucky | On Site | Dec 17 |
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6761c138c65e9348a3fc5d9d?utm_campaign=1049&utm_source=git)** | North Bethesda, Maryland | On Site | Dec 17 |
-| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6761c0dfc38c83e0d88629c9?utm_campaign=1049&utm_source=git)** | North Bethesda, Maryland | On Site | Dec 17 |
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6761c138c65e9348a3fc5da0?utm_campaign=1049&utm_source=git)** | Lexington, Kentucky | On Site | Dec 17 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6761c0dfc38c83e0d88629c9?utm_campaign=1049&utm_source=git)** | North Bethesda, Maryland | On Site | Dec 17 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6761c0dfc38c83e0d88629e1?utm_campaign=1049&utm_source=git)** | Lexington, Kentucky | On Site | Dec 17 |
 | **[Riot Games](http://www.riotgames.com)** | **[Visual Design Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6737c53ce12bd1bd242ddda2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | ↳ | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6762e0b860dfb838bb80880d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 17 |
 | ↳ | **[Motion Graphics Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6762e0b860dfb838bb80880f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 17 |
-| ↳ | **[Concept Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6762e0b860dfb838bb808813?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 17 |
 | ↳ | **[Technical Artist Intern, Tools & Pipeline - League of Legends - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6725a19a4ca64ed677064492?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 17 |
 | ↳ | **[Technical Art Intern, Rendering - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6737ae6352a952b0528876b8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | **[Andrew Wommack Ministries, Inc.](http://www.awmi.net/)** | **[ANDREW WOMMACK MINISTRIES INC is hiring: GTN Story Editor II in Woodland Park](https://jobright.ai/jobs/info/676105ee59285ad3c03afb01?utm_campaign=1049&utm_source=git)** | Woodland Park, CO | On Site | Dec 17 |
 | **[Toole Design Group](http://www.tooledesign.com)** | **[Design Intern Job at Toole Design in Raleigh](https://jobright.ai/jobs/info/6760f9f2bd75694f86949068?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 17 |
 | **[Swimwear Anywhere Inc.](http://www.swimwearanywhere.com/)** | **[Swimwear Anywhere Inc. is hiring: Design Internship in Farmingdale](https://jobright.ai/jobs/info/6761029714017ed4e1679048?utm_campaign=1049&utm_source=git)** | Farmingdale, NY | On Site | Dec 17 |
+| **[Centric Brands](https://centricbrands.com)** | **[Licensing Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/674528c6918491d68dc15da4?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 17 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66d20153aa876eac75f1ac0c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
