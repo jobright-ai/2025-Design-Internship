@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/676b46f827175c6599a0e98d?utm_campaign=1049&utm_source=git)** | St Petersburg, FL | On Site | Dec 24 |
+| **[Corsair](http://www.corsair.com)** | **[Web Design Intern - ORIGIN PC](https://jobright.ai/jobs/info/676b6a130334b04a06b03545?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Dec 24 |
+| **[Capella Space](http://www.capellaspace.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/676b70805a51f4299399f2b0?utm_campaign=1049&utm_source=git)** | Louisville, CO | On Site | Dec 24 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/676b46f827175c6599a0e9b0?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Dec 24 |
 | **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Intern, Design (Spring 2025 Start)](https://jobright.ai/jobs/info/676b3cd112f26dc13af6358c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Web Design Intern - ORIGIN PC](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ac8?utm_campaign=1049&utm_source=git)** | 12400 SW 134 Court Ste #8, Miami, FL, 33186, US | On Site | Dec 24 |
 | **[Capella Space](http://www.capellaspace.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/676b1c4b23a937a13653c074?utm_campaign=1049&utm_source=git)** | Louisville, CO | On Site | Dec 24 |
 | **[Locus Robotics](http://www.locusrobotics.com)** | **[UX Design Intern (Summer 2025)](https://jobright.ai/jobs/info/676b20ba95c7f20f65a96093?utm_campaign=1049&utm_source=git)** | Wilmington, MA | Remote | Dec 24 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/676b108cfcd3478c3cd2560f?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Dec 24 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/676b1c4b23a937a13653c0c3?utm_campaign=1049&utm_source=git)** | St Petersburg, FL | On Site | Dec 24 |
 | **[PACSUN](http://www.pacsun.com/)** | **[Men's Design Intern- Summer 2025](https://jobright.ai/jobs/info/676af971db4e7e6a179a98dd?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Dec 24 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/676b108cfcd3478c3cd255e1?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Dec 24 |
 | **[PACSUN](http://www.pacsun.com/)** | **[Men's Design Intern - Summer 2025](https://jobright.ai/jobs/info/676af5dadbd57951f417fe13?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Dec 24 |
@@ -122,12 +124,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Intern - Product UX Designer](https://jobright.ai/jobs/info/676a6ddee550532cb715891e?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/676a6ddee550532cb7158920?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/676a613c144d2b678a4d73dc?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Dec 20 |
-| ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba872086009f?utm_campaign=1049&utm_source=git)** | Indiana - Indianapolis | On Site | Dec 20 |
-| ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba872086009e?utm_campaign=1049&utm_source=git)** | Washington - Seattle | On Site | Dec 20 |
+| ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba872086009d?utm_campaign=1049&utm_source=git)** | California - San Francisco | On Site | Dec 20 |
+| ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba872086009c?utm_campaign=1049&utm_source=git)** | Massachusetts - Burlington | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba872086009b?utm_campaign=1049&utm_source=git)** | Georgia - Atlanta | On Site | Dec 20 |
-| ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba87208600a4?utm_campaign=1049&utm_source=git)** | California - San Francisco | On Site | Dec 20 |
+| ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba872086009f?utm_campaign=1049&utm_source=git)** | Indiana - Indianapolis | On Site | Dec 20 |
+| ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba87208600a1?utm_campaign=1049&utm_source=git)** | Washington - Seattle | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba87208600a5?utm_campaign=1049&utm_source=git)** | Washington - Bellevue | On Site | Dec 20 |
-| ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba87208600a6?utm_campaign=1049&utm_source=git)** | Massachusetts - Burlington | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/676a5cf780ee74ce576cfe6e?utm_campaign=1049&utm_source=git)** | Burlington, MA | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer](https://jobright.ai/jobs/info/676a510fd8a04b0c4e8bb8ab?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/676a4b98e2fae74fb45ba48a?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Dec 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Verizon Consumer Retail Design Summer 2025 Internship](https://jobright.ai/jobs/info/6765fdae02a89fd5c82be758?utm_campaign=1049&utm_source=git)** | Basking Ridge, NJ | Hybrid | Dec 20 |
 | ↳ | **[Verizon Consumer Retail Design Summer 2025 Internship](https://jobright.ai/jobs/info/6765e3038e465cac3b7b1203?utm_campaign=1049&utm_source=git)** | Rolling Meadows, IL | Hybrid | Dec 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6765dbec17e41d3f8f8f5909?utm_campaign=1049&utm_source=git)** | United States-Nebraska-Lincoln | On Site | Dec 20 |
-| ↳ | **[Interior Design Intern (Summer 2025)](https://jobright.ai/jobs/info/6765dbec17e41d3f8f8f5919?utm_campaign=1049&utm_source=git)** | United States-Nebraska-Omaha | On Site | Dec 20 |
-| **[Twitch](https://www.twitch.tv)** | **[Creator Clubs Intern](https://jobright.ai/jobs/info/6765d70aa1db3b4416d1d0a3?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
