@@ -61,10 +61,9 @@ For a complete list, click the following sortable link below:
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/676cbacc21821eb412974323?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Dec 25 |
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Landscape Design Internship](https://jobright.ai/jobs/info/676c936dfe24e45f4fa5d335?utm_campaign=1049&utm_source=git)** | Highland Park, IL | On Site | Dec 25 |
 | **[FM](https://www.fmglobal.com)** | **[User Experience Design Co-Op](https://jobright.ai/jobs/info/676c444dc689d6278bcd9cca?utm_campaign=1049&utm_source=git)** | Johnston, RI | Remote | Dec 25 |
-| **[Riot Games](http://www.riotgames.com)** | **[Concept Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/676c1b6dcccafa61a4f24f63?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 25 |
-| **[FM](https://www.fmglobal.com)** | **[User Experience Design Co-Op](https://jobright.ai/jobs/info/676c23973cba2511de95eb91?utm_campaign=1049&utm_source=git)** | Johnston, RI | On Site | Dec 25 |
-| **[Riot Games](http://www.riotgames.com)** | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/676c18329c45b0ed25969b1f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 25 |
+| ↳ | **[User Experience Design Co-Op](https://jobright.ai/jobs/info/676c23973cba2511de95eb91?utm_campaign=1049&utm_source=git)** | Johnston, RI | On Site | Dec 25 |
 | **[The Associated Press](http://www.ap.org)** | **[Artist (Global News Intern, Data Visualization Designer)](https://jobright.ai/jobs/info/673264e409d247ddfb443f46?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 25 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66de3bb7707d184c9c65bb88?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Dec 25 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[VCU Athletics *Creative Content" Graduate Assistant](https://jobright.ai/jobs/info/676b9e5e9e1ec809a14833b3?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Web Design Intern - ORIGIN PC](https://jobright.ai/jobs/info/676b6a130334b04a06b03545?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Dec 24 |
 | **[Capella Space](http://www.capellaspace.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/676b70805a51f4299399f2b0?utm_campaign=1049&utm_source=git)** | Louisville, CO | On Site | Dec 24 |
@@ -126,23 +125,22 @@ For a complete list, click the following sortable link below:
 | **[Radio Flyer](http://radioflyer.com)** | **[Industrial Design Intern - Summer 2025](https://jobright.ai/jobs/info/676755ac448491ce363800a7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Dec 21 |
 | **[HDR](http://www.hdrinc.com)** | **[Digital Design Intern](https://jobright.ai/jobs/info/672d3f5dfccb423711ef2979?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Dec 21 |
 | **[Frost & Sullivan](http://www.frost.com)** | **[Internship - Video Management System](https://jobright.ai/jobs/info/66c580f38ff0494bd674f041?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Dec 21 |
-| **[LandDesign](http://landdesign.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67662bfdaae55ce1797ffdfb?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 21 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Digital Product Design & Front-End Development Intern](https://jobright.ai/jobs/info/6766d3cac456c838004addac?utm_campaign=1049&utm_source=git)** | Roswell, GA | Hybrid | Dec 21 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/676a76e4cb9d452c181ada71?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 21 |
-| **[LandDesign](http://landdesign.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6766327ea565e8314b20d952?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Urban, Creative Intern](https://jobright.ai/jobs/info/6747a62b852d82c5e24a6589?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product UX Designer](https://jobright.ai/jobs/info/676a6ddee550532cb715891d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer](https://jobright.ai/jobs/info/676a6ddee550532cb715891e?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/676a6ddee550532cb7158920?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/676a613c144d2b678a4d73dc?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Dec 20 |
-| ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba87208600a0?utm_campaign=1049&utm_source=git)** | Washington - Bellevue | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba872086009e?utm_campaign=1049&utm_source=git)** | Washington - Seattle | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba872086009b?utm_campaign=1049&utm_source=git)** | Georgia - Atlanta | On Site | Dec 20 |
+| ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba87208600a5?utm_campaign=1049&utm_source=git)** | Washington - Bellevue | On Site | Dec 20 |
+| ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba87208600a6?utm_campaign=1049&utm_source=git)** | Massachusetts - Burlington | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba87208600a2?utm_campaign=1049&utm_source=git)** | Indiana - Indianapolis | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba87208600a4?utm_campaign=1049&utm_source=git)** | California - San Francisco | On Site | Dec 20 |
-| ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/67696814e873ba87208600a6?utm_campaign=1049&utm_source=git)** | Massachusetts - Burlington | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/676a5cf780ee74ce576cfe6e?utm_campaign=1049&utm_source=git)** | Burlington, MA | On Site | Dec 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Equity Design Research Intern](https://jobright.ai/jobs/info/676badb4ca22887d043e540a?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
+| **[Splunk](https://www.splunk.com)** | **[UX Design Intern (Summer 2025 - US, Remote)](https://jobright.ai/jobs/info/676cfcd2631938957d84d1f9?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Remote | Dec 20 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product UX Designer](https://jobright.ai/jobs/info/676a510fd8a04b0c4e8bb8ab?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Product UX Designer-2](https://jobright.ai/jobs/info/676a4b98e2fae74fb45ba48a?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Dec 20 |
 | ↳ | **[Summer 2025 Intern - Design Intern](https://jobright.ai/jobs/info/676a43c08910eaa64a8c4579?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
@@ -155,6 +153,8 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/67663f25dcc9097ca591146d?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Dec 20 |
 | ↳ | **[Interior Design Intern (Summer 2025)](https://jobright.ai/jobs/info/676646fe2c9f66ab4ba4b5f6?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Dec 20 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product UX Designer](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded50b?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Dec 20 |
-| **[LandDesign](http://landdesign.com)** | **[Internship - Landscape Architecture](https://jobright.ai/jobs/info/67662bfdaae55ce1797ffdd4?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Dec 20 |
+| **[LandDesign](http://landdesign.com)** | **[Internship - Landscape Architecture](https://jobright.ai/jobs/info/6766327ea565e8314b20d952?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 20 |
+| ↳ | **[Internship - Landscape Architecture](https://jobright.ai/jobs/info/67662bfdaae55ce1797ffdfb?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
+| ↳ | **[Internship - Landscape Architecture](https://jobright.ai/jobs/info/67662bfdaae55ce1797ffdd4?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Dec 20 |
 | ↳ | **[Internship - Landscape Architecture](https://jobright.ai/jobs/info/67662bfdaae55ce1797ffe5c?utm_campaign=1049&utm_source=git)** | Boulder, CO | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
