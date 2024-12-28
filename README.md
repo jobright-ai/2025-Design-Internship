@@ -57,9 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Riot Games](http://www.riotgames.com)** | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/676f6f5e06ef76db40c3244b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 27 |
-| ↳ | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/676f6f5e06ef76db40c3244e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 27 |
-| ↳ | **[Concept Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/676f6f5e06ef76db40c32452?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 27 |
+| **[Riot Games](http://www.riotgames.com)** | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/676f6f5e06ef76db40c3244e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 27 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2025](https://jobright.ai/jobs/info/676f2388495bf3d844d97012?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Dec 27 |
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Intern, Architecture Design](https://jobright.ai/jobs/info/676f15fc6144d856522d329a?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Dec 27 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2025)](https://jobright.ai/jobs/info/674a9f1166e01e83c4ef6b43?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
@@ -70,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Nucor Warehouse Systems](https://nucorwarehousesystems.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/676e0fd2df890fa0b90a5f69?utm_campaign=1049&utm_source=git)** | Lewisville, TX | On Site | Dec 26 |
 | **[J-U-B ENGINEERS, Inc.](http://jub.com)** | **[Landscape Architect Intern 2024-57](https://jobright.ai/jobs/info/6740fce80c4335e838ea9314?utm_campaign=1049&utm_source=git)** | Kaysville, UT | On Site | Dec 26 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/676dba0651e384ec62a5e234?utm_campaign=1049&utm_source=git)** | Lewisville, TX | On Site | Dec 26 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - UX of AI](https://jobright.ai/jobs/info/674f227d201c7c22d9dfac71?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Dec 26 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Landscape](https://jobright.ai/jobs/info/67518559143f378310a7e62a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | **[Arup](http://www.arup.com)** | **[Architecture Intern (Available June 2025)](https://jobright.ai/jobs/info/66de5807552928d6009c39e0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
 | **[Frost & Sullivan](http://www.frost.com)** | **[Internship - Video Management System](https://jobright.ai/jobs/info/66c580f38ff0494bd674f041?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Dec 25 |
@@ -118,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Brand Creative Experience and Innovation Undergraduate Internship](https://jobright.ai/jobs/info/676a060a83295d2b4071e9ae?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Dec 23 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/676a04350171aeff7a767ff8?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 23 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/676a04350171aeff7a768027?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Dec 23 |
-| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/676a04350171aeff7a768003?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | Dec 23 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/676a04350171aeff7a767fff?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Dec 23 |
+| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/676a04350171aeff7a768003?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | Dec 23 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/676a04350171aeff7a767ffb?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 23 |
 | **[PACSUN](http://www.pacsun.com/)** | **[Women's Design Intern - Summer 2025](https://jobright.ai/jobs/info/6769f11e058373b622eb772a?utm_campaign=1049&utm_source=git)** | Anaheim, CA | Hybrid | Dec 23 |
 | **[pep, LLC.](http://www.peppromotions.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6769f988b58e9412cc69d92e?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Dec 23 |
@@ -139,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Texas A&M University](http://www.tamu.edu/)** | **[Postdoctoral Research Associate, Submerged Gulf of Mexico Landscapes](https://jobright.ai/jobs/info/672eb0deb85ef69ee27965d3?utm_campaign=1049&utm_source=git)** | College Station, TX | On Site | Dec 22 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/674af3af2e771cc432c946fc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6767c8ae8e731c44083ba11c?utm_campaign=1049&utm_source=git)** | Massachusetts, United States | Hybrid | Dec 21 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Instructional / Graphic Design](https://jobright.ai/jobs/info/672d4531b0cdbcc7e80da327?utm_campaign=1049&utm_source=git)** | Marlborough, MA | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
