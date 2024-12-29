@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2025 Internship - Womens/Girls Design](https://jobright.ai/jobs/info/675359dff7435cdf9796f630?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 28 |
 | **[Riot Games](http://www.riotgames.com)** | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/676f6f5e06ef76db40c3244e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 27 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2025](https://jobright.ai/jobs/info/676f2388495bf3d844d97012?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Dec 27 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Experience Design](https://jobright.ai/jobs/info/673f2a9ad70ba267a339fb29?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Intern, Architecture Design](https://jobright.ai/jobs/info/676f15fc6144d856522d329a?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Dec 27 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2025)](https://jobright.ai/jobs/info/674a9f1166e01e83c4ef6b43?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
+| **[Material Bank®](https://www.materialbank.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/67520b8d0d3f789ac022b53e?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Dec 27 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/676ecdfe85549c1c54e36782?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Dec 27 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - HQF Architectural Drafter](https://jobright.ai/jobs/info/6761c555a5658fcbefc983c5?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Dec 26 |
 | **[Proper Cloth](https://propercloth.com)** | **[Spring 2025 Product Styling Internship](https://jobright.ai/jobs/info/676e32014554e86314efb849?utm_campaign=1049&utm_source=git)** | New York County, NY | On Site | Dec 26 |
@@ -137,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Graphic Design Intern - Summer 2025 (Georgia, United States)](https://jobright.ai/jobs/info/670ef7428aa77300ce61c662?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Dec 23 |
 | **[Texas A&M University](http://www.tamu.edu/)** | **[Postdoctoral Research Associate, Submerged Gulf of Mexico Landscapes](https://jobright.ai/jobs/info/672eb0deb85ef69ee27965d3?utm_campaign=1049&utm_source=git)** | College Station, TX | On Site | Dec 22 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/674af3af2e771cc432c946fc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6767c8ae8e731c44083ba11c?utm_campaign=1049&utm_source=git)** | Massachusetts, United States | Hybrid | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
