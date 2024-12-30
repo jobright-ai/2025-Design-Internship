@@ -135,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6769c0ed276f3e84ba674379?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Dec 23 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6769a08154801f3bc41e724b?utm_campaign=1049&utm_source=git)** | Deerfield, IL | On Site | Dec 23 |
 | **[DC Water](https://dcwater.com/)** | **[Summer Intern, Creative Writer and Website Content, Customer Care (25-CC-600003-035)](https://jobright.ai/jobs/info/67695e767698f9918a78208d?utm_campaign=1049&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - UX Research](https://jobright.ai/jobs/info/672912fc353101456f970092?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Graphic Design Intern - Summer 2025 (Georgia, United States)](https://jobright.ai/jobs/info/670ef7428aa77300ce61c662?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
