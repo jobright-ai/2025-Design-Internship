@@ -58,10 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/677169da5a1ead1ef066c502?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Dec 29 |
-| **[Riot Games](http://www.riotgames.com)** | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/677118046b8644af9c44df82?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 29 |
-| ↳ | **[Concept Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/677118046b8644af9c44df83?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 29 |
-| ↳ | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/677118046b8644af9c44df85?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 29 |
-| **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2025 Internship - Womens/Girls Design](https://jobright.ai/jobs/info/675359dff7435cdf9796f630?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 28 |
+| **[Riot Games](http://www.riotgames.com)** | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/677118046b8644af9c44df85?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 29 |
+| **[Microsoft](https://www.microsoft.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/673511b21e662d8d0b182bbe?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Dec 28 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2025](https://jobright.ai/jobs/info/676f2388495bf3d844d97012?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Dec 27 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Experience Design](https://jobright.ai/jobs/info/673f2a9ad70ba267a339fb29?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Intern, Architecture Design](https://jobright.ai/jobs/info/676f15fc6144d856522d329a?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Dec 27 |
