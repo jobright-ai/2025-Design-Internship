@@ -127,14 +127,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/676a04350171aeff7a767fff?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Dec 23 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/676a04350171aeff7a767ffb?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 23 |
 | **[PACSUN](http://www.pacsun.com/)** | **[Women's Design Intern - Summer 2025](https://jobright.ai/jobs/info/6769f11e058373b622eb772a?utm_campaign=1049&utm_source=git)** | Anaheim, CA | Hybrid | Dec 23 |
-| **[pep, LLC.](http://www.peppromotions.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6769f988b58e9412cc69d92e?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Dec 23 |
-| **[Chapman University](https://www.chapman.edu/)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0ae26?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Dec 23 |
-| **[Ensign College ](https://www.ldsbc.edu/)** | **[Student Employee - MarComm Graphic Designer](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0ae1d?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Dec 23 |
-| ↳ | **[Student Employee - On-Campus Studio E](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0ae22?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Dec 23 |
-| **[WillowTree](http://www.willowtreeapps.com)** | **[Design (UX/UI) Intern (US) - Summer 2025](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd500?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | Dec 23 |
-| ↳ | **[Design (UX/UI) Intern (US) - Summer 2025](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd501?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | Dec 23 |
-| **[Unison](http://www.unison.com)** | **[Graphic and Web Design Intern](https://jobright.ai/jobs/info/6769e9ededbf29b43f28a9de?utm_campaign=1049&utm_source=git)** | Omaha, NE | Hybrid | Dec 23 |
-| **[WillowTree](http://www.willowtreeapps.com)** | **[Design (UX/UI) Intern (US) - Summer 2025](https://jobright.ai/jobs/info/6769cda120fc5041762ccf11?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | Hybrid | Dec 23 |
-| **[Unison](http://www.unison.com)** | **[Graphic and Web Design Intern ](https://jobright.ai/jobs/info/6769c4fcce959d15cde3f353?utm_campaign=1049&utm_source=git)** | Omaha, NE | Hybrid | Dec 23 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6769c0ed276f3e84ba674379?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
