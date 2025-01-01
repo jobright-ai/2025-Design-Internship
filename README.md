@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FM](https://www.fmglobal.com)** | **[User Experience Design Co-Op](https://jobright.ai/jobs/info/67753402ad158bd827c2e0c4?utm_campaign=1049&utm_source=git)** | Johnston, RI | Remote | Jan 01 |
+| **[Riot Games](http://www.riotgames.com)** | **[Concept Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6775658ed0e0580e47933fcc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 01 |
+| **[FM](https://www.fmglobal.com)** | **[User Experience Design Co-Op](https://jobright.ai/jobs/info/67752dd1543e4924e7d24358?utm_campaign=1049&utm_source=git)** | Johnston, RI | Remote | Jan 01 |
+| ↳ | **[User Experience Design Co-Op](https://jobright.ai/jobs/info/67753402ad158bd827c2e0c4?utm_campaign=1049&utm_source=git)** | Johnston, RI | Remote | Jan 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67753905c7b5485885dc1263?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 01 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67753402ad158bd827c2dfeb?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | Jan 01 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67753402ad158bd827c2e0c5?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Jan 01 |
 | **[J-U-B ENGINEERS, Inc.](http://jub.com)** | **[Landscape Architect Intern 2024-57](https://jobright.ai/jobs/info/6775105a99f33e64071e2c03?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 01 |
 | **[Riot Games](http://www.riotgames.com)** | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/677522febb646be9f0b76083?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 01 |
-| **[Skechers](http://www.skechers.com)** | **[Footwear Design Intern, Girls Sport Division](https://jobright.ai/jobs/info/677505114fab05d86d187035?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | On Site | Jan 01 |
+| **[Skechers](http://www.skechers.com)** | **[Footwear Design Intern, Girls Sport Division](https://jobright.ai/jobs/info/6775047c87c405dc0e4345e8?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | On Site | Jan 01 |
+| **[Riot Games](http://www.riotgames.com)** | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/677552d5d71c234327042bd0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 01 |
 | **[Cambria](http://www.cambriausa.com)** | **[Designer Intern](https://jobright.ai/jobs/info/6774ff291d9979851fa17b2b?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 31 |
 | **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern](https://jobright.ai/jobs/info/67753daa51d8725f2c719e8f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 31 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67753402ad158bd827c2e139?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
@@ -79,8 +82,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Designer - Summer Co-Op 2025](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b0da?utm_campaign=1049&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 31 |
 | ↳ | **[Landscape Designer - Summer Co-Op 2025](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b262?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Dec 31 |
 | ↳ | **[Landscape Designer - Summer Co-Op 2025](https://jobright.ai/jobs/info/6774c3804a2b747bd700c47b?utm_campaign=1049&utm_source=git)** | Albany, NY | Hybrid | Dec 31 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - UX Quantitative Research](https://jobright.ai/jobs/info/6740520bcdcc3dc7aa8bfc5f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Graphic Design Intern - Ira Acura Westwood](https://jobright.ai/jobs/info/67741417488d991f1f874b71?utm_campaign=1049&utm_source=git)** | Westwood, MA | On Site | Dec 31 |
 | **[Bvlgari](https://www.bulgari.com/en-sg/)** | **[Fragrance Store Design & Merchandising Intern](https://jobright.ai/jobs/info/674e14dc5a55fe6d8c476e2b?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Dec 31 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66c70bb172042ef9dfd4014f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
 | **[Momentum Worldwide](http://www.momentumww.com)** | **[2025 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/674866a6c06e4902814411f3?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 31 |
 | **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Creative Cloud, Community Engagement](https://jobright.ai/jobs/info/67599ad55a958ecfc12829a7?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
 | **[Momentum Worldwide](http://www.momentumww.com)** | **[2025 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/674866a6c06e49028144120c?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Dec 31 |
@@ -124,7 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - UX of AI](https://jobright.ai/jobs/info/674f227d201c7c22d9dfac71?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Dec 26 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Landscape](https://jobright.ai/jobs/info/67518559143f378310a7e62a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | **[Arup](http://www.arup.com)** | **[Architecture Intern (Available June 2025)](https://jobright.ai/jobs/info/66de5807552928d6009c39e0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Automotive Digital Design Intern- Summer 2025- San Diego, CA](https://jobright.ai/jobs/info/6750511a2315c28f7d79a523?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 25 |
-| **[Blizzard Entertainment](http://blizzard.com)** | **[2025 US Summer Internship - Computer Graphics](https://jobright.ai/jobs/info/67527f92590934997eb16d0b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 25 |
-| **[Mariani Landscape](http://marianilandscape.com)** | **[Landscape Design Internship](https://jobright.ai/jobs/info/676c936dfe24e45f4fa5d335?utm_campaign=1049&utm_source=git)** | Highland Park, IL | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
