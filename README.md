@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/6774a859ba023047c842d1c2?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Dec 31 |
+| **[Design Workshop](https://www.designworkshop.com/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/67749ed56658b85a073bb17a?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 31 |
 | **[Weston & Sampson](http://westonandsampson.com)** | **[Architect Co-op Summer 2025 (Foxborough, MA)](https://jobright.ai/jobs/info/67748390066c140d0be05099?utm_campaign=1049&utm_source=git)** | Foxborough, MA | Hybrid | Dec 31 |
 | ↳ | **[Landscape Designer - Summer Co-Op 2025](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b0da?utm_campaign=1049&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 31 |
 | ↳ | **[Landscape Designer - Summer Co-Op 2025](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b262?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Dec 31 |
-| **[Folio](https://folio.works/)** | **[Digital Artist Intern](https://jobright.ai/jobs/info/67745006081d010a69e299e5?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 31 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Graphic Design Intern - Ira Acura Westwood](https://jobright.ai/jobs/info/67741417488d991f1f874b71?utm_campaign=1049&utm_source=git)** | Westwood, MA | On Site | Dec 31 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Graphic Design Intern - Spring 2025](https://jobright.ai/jobs/info/67742091246ef09888de41e9?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Dec 31 |
 | **[Bvlgari](https://www.bulgari.com/en-sg/)** | **[Fragrance Store Design & Merchandising Intern](https://jobright.ai/jobs/info/674e14dc5a55fe6d8c476e2b?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Dec 31 |
@@ -110,7 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2025 US Summer Internship - Computer Graphics](https://jobright.ai/jobs/info/67527f92590934997eb16d0b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 25 |
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Landscape Design Internship](https://jobright.ai/jobs/info/676c936dfe24e45f4fa5d335?utm_campaign=1049&utm_source=git)** | Highland Park, IL | On Site | Dec 25 |
 | **[FM](https://www.fmglobal.com)** | **[User Experience Design Co-Op](https://jobright.ai/jobs/info/676c23973cba2511de95eb91?utm_campaign=1049&utm_source=git)** | Johnston, RI | On Site | Dec 25 |
-| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internship - UI/UX Design](https://jobright.ai/jobs/info/6752e63af7448bce58d30c88?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Dec 25 |
-| **[The Associated Press](http://www.ap.org)** | **[Artist (Global News Intern, Data Visualization Designer)](https://jobright.ai/jobs/info/673264e409d247ddfb443f46?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 25 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66de3bb7707d184c9c65bb88?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
