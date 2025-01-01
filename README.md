@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skechers](http://www.skechers.com)** | **[Footwear Design Intern, Girls Sport Division](https://jobright.ai/jobs/info/6775047c87c405dc0e4345e8?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | On Site | Jan 01 |
+| **[Cambria](http://www.cambriausa.com)** | **[Designer Intern](https://jobright.ai/jobs/info/6774ff291d9979851fa17b2b?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 31 |
+| **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern (New graduate)](https://jobright.ai/jobs/info/6774f7dbc6123312dd7e76fe?utm_campaign=1049&utm_source=git)** | Alexandria, VA | Hybrid | Dec 31 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/6774a859ba023047c842d1c2?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Dec 31 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/67749ed56658b85a073bb17a?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 31 |
 | **[Weston & Sampson](http://westonandsampson.com)** | **[Architect Co-op Summer 2025 (Foxborough, MA)](https://jobright.ai/jobs/info/67748390066c140d0be05099?utm_campaign=1049&utm_source=git)** | Foxborough, MA | Hybrid | Dec 31 |
 | ↳ | **[Landscape Designer - Summer Co-Op 2025](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b0da?utm_campaign=1049&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 31 |
 | ↳ | **[Landscape Designer - Summer Co-Op 2025](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b262?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Dec 31 |
+| ↳ | **[Landscape Designer - Summer Co-Op 2025](https://jobright.ai/jobs/info/6774c3804a2b747bd700c47b?utm_campaign=1049&utm_source=git)** | Albany, NY | Hybrid | Dec 31 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Graphic Design Intern - Ira Acura Westwood](https://jobright.ai/jobs/info/67741417488d991f1f874b71?utm_campaign=1049&utm_source=git)** | Westwood, MA | On Site | Dec 31 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Graphic Design Intern - Spring 2025](https://jobright.ai/jobs/info/67742091246ef09888de41e9?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Dec 31 |
 | **[Bvlgari](https://www.bulgari.com/en-sg/)** | **[Fragrance Store Design & Merchandising Intern](https://jobright.ai/jobs/info/674e14dc5a55fe6d8c476e2b?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Dec 31 |
+| **[Momentum Worldwide](http://www.momentumww.com)** | **[2025 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/674866a6c06e4902814411f3?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 31 |
+| ↳ | **[2025 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/674866a6c06e49028144120c?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Dec 31 |
 | **[Studio71, LP](https://www.studio71.com/us)** | **[Graphic Design Internship Winter/Spring 25'](https://jobright.ai/jobs/info/672b96a310c0003cef330c20?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Dec 31 |
 | **[Chicago Public Media](http://www.wbez.org/)** | **[Graphic Design & Marketing Intern](https://jobright.ai/jobs/info/677354e15886aece8d3ec94e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[Kahler Slater](https://www.kahlerslater.com)** | **[Summer Architectural Student Intern](https://jobright.ai/jobs/info/6774634873ad79609ae73b42?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Dec 30 |
@@ -76,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b90fe?utm_campaign=1049&utm_source=git)** | Tallahassee, FL | On Site | Dec 30 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b9064?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Dec 30 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b9108?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Dec 30 |
-| **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Creative Cloud, Community Engagement](https://jobright.ai/jobs/info/67599ad55a958ecfc12829a7?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | **[Chicken N Pickle](https://chickennpickle.com)** | **[Graphic Design Internship and Professional Development Program](https://jobright.ai/jobs/info/67731c30e647b348c3f1d3e0?utm_campaign=1049&utm_source=git)** | Kansas City, KS | On Site | Dec 30 |
 | **[Frost & Sullivan](http://www.frost.com)** | **[Internship - Video Management System](https://jobright.ai/jobs/info/66c580f38ff0494bd674f041?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Experience Design Prototyping](https://jobright.ai/jobs/info/674af3af2e771cc432c946f3?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
@@ -110,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Automotive Digital Design Intern- Summer 2025- San Diego, CA](https://jobright.ai/jobs/info/6750511a2315c28f7d79a523?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 25 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2025 US Summer Internship - Computer Graphics](https://jobright.ai/jobs/info/67527f92590934997eb16d0b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 25 |
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Landscape Design Internship](https://jobright.ai/jobs/info/676c936dfe24e45f4fa5d335?utm_campaign=1049&utm_source=git)** | Highland Park, IL | On Site | Dec 25 |
-| **[FM](https://www.fmglobal.com)** | **[User Experience Design Co-Op](https://jobright.ai/jobs/info/676c23973cba2511de95eb91?utm_campaign=1049&utm_source=git)** | Johnston, RI | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
