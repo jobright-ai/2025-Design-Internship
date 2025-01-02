@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FM](https://www.fmglobal.com)** | **[User Experience Design Co-Op](https://jobright.ai/jobs/info/67752dd1543e4924e7d24358?utm_campaign=1049&utm_source=git)** | Johnston, RI | Remote | Jan 01 |
+| **[VSP Vision](https://vspglobal.com/)** | **[Internship, Associate UX Designer](https://jobright.ai/jobs/info/67764ebf74e14c7557b7763f?utm_campaign=1049&utm_source=git)** | Remote US | Remote | Jan 02 |
+| **[Marchon Eyewear](https://marchon.com/)** | **[Internship, Product Design Development](https://jobright.ai/jobs/info/67764434ee65f3c3fa00059a?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jan 01 |
+| **[Munich Re](https://www.munichre.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/677643dcdafec4c2f5d0fbb9?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 01 |
+| **[VSP Vision](https://vspglobal.com/)** | **[Internship, Product Design Development](https://jobright.ai/jobs/info/6776225b4a1dc4218220b1de?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| **[FM](https://www.fmglobal.com)** | **[User Experience Design Co-Op](https://jobright.ai/jobs/info/67753402ad158bd827c2e0c4?utm_campaign=1049&utm_source=git)** | Johnston, RI | Remote | Jan 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67753905c7b5485885dc1263?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 01 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67753402ad158bd827c2dfeb?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | Jan 01 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67753402ad158bd827c2e0c5?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Jan 01 |
@@ -66,13 +70,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Intern (target start summer 2025)](https://jobright.ai/jobs/info/66e25cf6520168c8407bfc06?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Jan 01 |
 | **[J-U-B ENGINEERS, Inc.](http://jub.com)** | **[Landscape Architect Intern 2024-57](https://jobright.ai/jobs/info/6775105a99f33e64071e2c03?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 01 |
 | **[Skechers](http://www.skechers.com)** | **[Footwear Design Intern, Girls Sport Division](https://jobright.ai/jobs/info/677505114fab05d86d187035?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | On Site | Jan 01 |
-| **[Riot Games](http://www.riotgames.com)** | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/677552d5d71c234327042bd0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 01 |
 | **[Cambria](http://www.cambriausa.com)** | **[Designer Intern](https://jobright.ai/jobs/info/6774ff291d9979851fa17b2b?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 31 |
 | **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern](https://jobright.ai/jobs/info/67753daa51d8725f2c719e8f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 31 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67753402ad158bd827c2e139?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
 | **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern (New graduate)](https://jobright.ai/jobs/info/6774f7dbc6123312dd7e76fe?utm_campaign=1049&utm_source=git)** | Alexandria, VA | Hybrid | Dec 31 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67752cea248b5fcad08c068a?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 31 |
-| **[Stellantis](https://www.stellantis.com)** | **[Product Design Office - User Experience Design Intern - Summer 2025](https://jobright.ai/jobs/info/6776084bf8ac63ea124cd3ad?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | On Site | Dec 31 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/67753c8274c66a43a6126545?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Dec 31 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/6774a859ba023047c842d1c2?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Dec 31 |
 | **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Intern Architect](https://jobright.ai/jobs/info/67753daa51d8725f2c719eb3?utm_campaign=1049&utm_source=git)** | Alexandria, VA | Hybrid | Dec 31 |
@@ -89,8 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Bvlgari](https://www.bulgari.com/en-sg/)** | **[Fragrance Store Design & Merchandising Intern](https://jobright.ai/jobs/info/674e14dc5a55fe6d8c476e2b?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Dec 31 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/66c70bb172042ef9dfd4014f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
 | **[Momentum Worldwide](http://www.momentumww.com)** | **[2025 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/674866a6c06e4902814411f3?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 31 |
-| **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Creative Cloud, Community Engagement](https://jobright.ai/jobs/info/67599ad55a958ecfc12829a7?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
-| **[Momentum Worldwide](http://www.momentumww.com)** | **[2025 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/674866a6c06e49028144120c?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Dec 31 |
+| ↳ | **[2025 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/674866a6c06e49028144120c?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Dec 31 |
 | **[Studio71, LP](https://www.studio71.com/us)** | **[Graphic Design Internship Winter/Spring 25'](https://jobright.ai/jobs/info/672b96a310c0003cef330c20?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Dec 31 |
 | **[Chicago Public Media](http://www.wbez.org/)** | **[Graphic Design & Marketing Intern](https://jobright.ai/jobs/info/677354e15886aece8d3ec94e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[Kahler Slater](https://www.kahlerslater.com)** | **[Summer Architectural Student Intern](https://jobright.ai/jobs/info/6774634873ad79609ae73b42?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Dec 30 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Intern - Experience Design](https://jobright.ai/jobs/info/673f2a9ad70ba267a339fb29?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | ↳ | **[2025 SAMI Intern - Experience Design](https://jobright.ai/jobs/info/673f3a70b1ad2905df3fdb25?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Dec 30 |
 | **[Munchkin](http://www.munchkin.com)** | **[Industrial Design Intern (Spring 2025)](https://jobright.ai/jobs/info/671b80c8554d870b528147f0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 30 |
-| **[Pape-Dawson Engineers](http://pape-dawson.com)** | **[Internship Summer 2025 - Land Planning](https://jobright.ai/jobs/info/67725bdab34c14f82cc4e436?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 29 |
-| ↳ | **[Internship - Land Planning](https://jobright.ai/jobs/info/67725bdab34c14f82cc4e427?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Dec 29 |
+| **[Pape-Dawson Engineers](http://pape-dawson.com)** | **[Internship - Land Planning](https://jobright.ai/jobs/info/67725bdab34c14f82cc4e427?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Dec 29 |
+| ↳ | **[Internship Summer 2025 - Land Planning](https://jobright.ai/jobs/info/67725bdab34c14f82cc4e436?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 29 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2025 Internship - Womens/Girls Design](https://jobright.ai/jobs/info/677377fdc466b5f4ba0212a5?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 28 |
 | **[Microsoft](https://www.microsoft.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/673511b21e662d8d0b182bbe?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Dec 28 |
 | **[Uline](http://www.uline.com)** | **[Private Label Design Internship - Summer 2025](https://jobright.ai/jobs/info/67359dd084ce40f2b3858938?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Dec 27 |
@@ -126,6 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Proper Cloth](https://propercloth.com)** | **[Spring 2025 Product Styling Internship](https://jobright.ai/jobs/info/676e32014554e86314efb849?utm_campaign=1049&utm_source=git)** | New York County, NY | On Site | Dec 26 |
 | **[HNTB](http://www.hntb.com/)** | **[Intern Architect – Summer 2025](https://jobright.ai/jobs/info/676e0c4b6e1091b6f671ac7a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | **[J-U-B ENGINEERS, Inc.](http://jub.com)** | **[Landscape Architect Intern 2024-57](https://jobright.ai/jobs/info/6740fce80c4335e838ea9314?utm_campaign=1049&utm_source=git)** | Kaysville, UT | On Site | Dec 26 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Automotive Design Intern- Summer 2025- San Diego, CA](https://jobright.ai/jobs/info/6750511a2315c28f7d79a524?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 26 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - UX of AI](https://jobright.ai/jobs/info/674f227d201c7c22d9dfac71?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
