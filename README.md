@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Munchkin](http://www.munchkin.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67201cf70f0cd17b0a68ca59?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 06 |
+| **[TD](https://www.td.com)** | **[Creative Services Intern/Co-op (Summer 2025)](https://jobright.ai/jobs/info/677baedaea11c696d822d95b?utm_campaign=1049&utm_source=git)** | Greater Morgantown Area | Hybrid | Jan 06 |
+| **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8d8?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Jan 06 |
 | **[The Culinary Edge](http://theculinaryedge.com/)** | **[Spring Strategy Internship](https://jobright.ai/jobs/info/677b97c2d1752494eb483645?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
-| **[Maxar Technologies](https://www.maxar.com)** | **[Intern, Web Design and Communications](https://jobright.ai/jobs/info/677b7909f748ae228246615e?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jan 05 |
-| ↳ | **[Intern, Web Design and Social Media](https://jobright.ai/jobs/info/677b75182740209c235983fd?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jan 05 |
+| **[Maxar Technologies](https://www.maxar.com)** | **[Intern, Web Design and Social Media](https://jobright.ai/jobs/info/677b822e2848408719643531?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jan 05 |
+| ↳ | **[Intern, Web Design and Communications](https://jobright.ai/jobs/info/677b75182740209c235983ed?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jan 05 |
 | **[New Jersey Institute of Technology](https://www.njit.edu/)** | **[Summer Photographer](https://jobright.ai/jobs/info/677b883803cca0bf0bf5a95c?utm_campaign=1049&utm_source=git)** | Newark, NJ | On Site | Jan 05 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[Workplace Design Coordinator (Summer Internship)](https://jobright.ai/jobs/info/6764ab8fc9114368eecd5f02?utm_campaign=1049&utm_source=git)** | Malvern, PA | Hybrid | Jan 05 |
 | **[Alexander Wang LLC](https://www.alexanderwang.com)** | **[Design Intern](https://jobright.ai/jobs/info/677b531a1144079dbd6329fe?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[Swimwear Anywhere Inc.](http://www.swimwearanywhere.com/)** | **[Design Internship](https://jobright.ai/jobs/info/677b531a1144079dbd632986?utm_campaign=1049&utm_source=git)** | Farmingdale, NY | On Site | Jan 05 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2025 Summer Internship - Planner](https://jobright.ai/jobs/info/677afda96b2483efff55aeef?utm_campaign=1049&utm_source=git)** | Denver County, CO | On Site | Jan 05 |
-| **[Riot Games](http://www.riotgames.com)** | **[3D Character Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/677aa7137dc2da34a5fb9d20?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 05 |
-| ↳ | **[Animation Art Intern - TFT - Summer 2025 (Remote)](https://jobright.ai/jobs/info/677aa7137dc2da34a5fb9d24?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 05 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Automobile User Interface Graphic Design Summer Intern- San Diego, CA](https://jobright.ai/jobs/info/677a8c827ab8e42cee8d2af1?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 05 |
 | ↳ | **[Automotive Visualization Design Intern- Summer 2025- San Diego, CA](https://jobright.ai/jobs/info/677a8c827ab8e42cee8d2af0?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 05 |
 | ↳ | **[Automotive Design Intern- Summer 2025- San Diego, CA](https://jobright.ai/jobs/info/677a8c827ab8e42cee8d2af2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 05 |
@@ -96,20 +97,20 @@ For a complete list, click the following sortable link below:
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2025 US Summer Internship - VFX](https://jobright.ai/jobs/info/67518559143f378310a7ebe1?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 03 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Intern, SPACE+ Design](https://jobright.ai/jobs/info/6736b490c6322e672c99f96e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[adidas](https://www.adidas-group.com)** | **[2025 US Undergraduate Internship - Digital Visual Merchandising](https://jobright.ai/jobs/info/6778c7a421d75a60ba176dff?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Jan 03 |
-| **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6778c0c7ac646737b4138a4b?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Jan 03 |
-| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/6778c0c7ac646737b4138a42?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jan 03 |
+| **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6778c0c7ac646737b4138a42?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jan 03 |
+| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/6778c0c7ac646737b4138a4b?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Jan 03 |
 | **[Meta](https://www.metacareers.com/)** | **[Product Design Intern, Reality Labs](https://jobright.ai/jobs/info/6778b5e5064732461cbcb4d5?utm_campaign=1049&utm_source=git)** | Burlingame, CA | On Site | Jan 03 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/6778b903966bb957645486a0?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Jan 03 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/675b287ca1e19c49fa51cc11?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jan 03 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/6705bcfc3fd115098140f4ed?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Architecture - Summer 2025 - San Diego](https://jobright.ai/jobs/info/6778b0b0148c9c832dd7278d?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 03 |
-| ↳ | **[Student Internship – Architecture – Summer 2025 - Northwest Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72bff?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 03 |
 | ↳ | **[Student Internship - Architecture - Summer 2025 - Denver](https://jobright.ai/jobs/info/6778b0b0148c9c832dd727ab?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 03 |
+| ↳ | **[Student Internship – Architecture – Summer 2025 - Northwest Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72bff?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 03 |
 | ↳ | **[Student Internship – Architecture – Summer 2025 - Northwest Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72c0c?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72c0b?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Jan 03 |
 | ↳ | **[Student Internship – Architecture – Summer 2025 – South Central Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72c16?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jan 03 |
-| ↳ | **[Student Internship – Architecture – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72c18?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jan 03 |
 | ↳ | **[Student Internship - Architecture - Summer 2025 - Los Angeles](https://jobright.ai/jobs/info/6778b0b0148c9c832dd7288f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
+| ↳ | **[Student Internship – Architecture – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72c18?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jan 03 |
 | ↳ | **[Student Internship - Interior Design - Summer 2025 - Phoenix](https://jobright.ai/jobs/info/6778b0b0148c9c832dd727ea?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72c1f?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 – South Central Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72c23?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 03 |
@@ -121,25 +122,25 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Internship – Architecture – Summer 2025 – South Central Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72c73?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 – South Central Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72c93?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
 | ↳ | **[Student Internship – Architecture – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72c94?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
-| ↳ | **[Student Internship - Interior Design - Summer 2025 - Los Angeles](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72836?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | ↳ | **[Student Internship – Architecture – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72caa?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 03 |
+| ↳ | **[Student Internship - Interior Design - Summer 2025 - Los Angeles](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72836?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 – South Central Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72cac?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Jan 03 |
 | ↳ | **[Student Internship – Architecture – Summer 2025 – South Central Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72cb9?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 - Northwest Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72cba?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Jan 03 |
-| ↳ | **[Student Internship - Brand Design - Summer 2025 - Los Angeles](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72857?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72cbc?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 03 |
-| ↳ | **[Student Internship – Architecture – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72cc0?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Jan 03 |
+| ↳ | **[Student Internship - Brand Design - Summer 2025 - Los Angeles](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72857?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | ↳ | **[Student Internship - Interior Design - Summer 2025 - San Diego](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72845?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 03 |
+| ↳ | **[Student Internship – Architecture – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72cc0?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Jan 03 |
 | ↳ | **[Student Internship - Interior Design - Summer 2025 - Denver](https://jobright.ai/jobs/info/6778a265bcaf60756af28f59?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 03 |
 | ↳ | **[Student Internship - Architecture - Summer 2025 - Newport Beach](https://jobright.ai/jobs/info/67789bc07a863a9e00c72770?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/67789bc07a863a9e00c72779?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
-| ↳ | **[Student Internship - Architecture - Summer 2025 - Phoenix](https://jobright.ai/jobs/info/67789bc07a863a9e00c7276f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jan 03 |
 | ↳ | **[Student Internship – Architecture – Summer 2025 – South Central Region](https://jobright.ai/jobs/info/67789bc07a863a9e00c72762?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
+| ↳ | **[Student Internship - Architecture - Summer 2025 - Phoenix](https://jobright.ai/jobs/info/67789bc07a863a9e00c7276f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 - Northwest Region](https://jobright.ai/jobs/info/67789bc07a863a9e00c72655?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 03 |
-| ↳ | **[Student Internship – Architecture – Summer 2025 - Northwest Region](https://jobright.ai/jobs/info/67789bc07a863a9e00c72650?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 03 |
 | ↳ | **[Student Internship - Design Strategy - Summer 2025 - Los Angeles](https://jobright.ai/jobs/info/67789bc07a863a9e00c72758?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
-| ↳ | **[Student Internship – Interior Design – Summer 2025 – South Central Region](https://jobright.ai/jobs/info/67789bc07a863a9e00c7264b?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Jan 03 |
 | ↳ | **[Student Internship – Architecture – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/67789bc07a863a9e00c72671?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 03 |
+| ↳ | **[Student Internship – Architecture – Summer 2025 - Northwest Region](https://jobright.ai/jobs/info/67789bc07a863a9e00c72650?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 03 |
+| ↳ | **[Student Internship – Interior Design – Summer 2025 – South Central Region](https://jobright.ai/jobs/info/67789bc07a863a9e00c7264b?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778a70a1348604ae24f47f4?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jan 03 |
 | ↳ | **[Student Internship – Architecture – Summer 2025 – South Central Region](https://jobright.ai/jobs/info/6778a70a1348604ae24f47f5?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 03 |
 | ↳ | **[Student Internship – Architecture – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/67789bc07a863a9e00c72846?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Jan 03 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2025] Exhibition Design Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af28fe6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | ↳ | **[[Summer 2025] Graphic Design Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af28fdd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Design Strategy - Summer 2025 - Los Angeles](https://jobright.ai/jobs/info/6778895e1b26e05c48d09386?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Jan 03 |
-| ↳ | **[Student Internship - Interior Design - Summer 2025 - Phoenix](https://jobright.ai/jobs/info/6778895e1b26e05c48d09395?utm_campaign=1049&utm_source=git)** | Phoenix, AZ, US | On Site | Jan 03 |
 | ↳ | **[Student Internship - Interior Design - Summer 2025 - Denver](https://jobright.ai/jobs/info/6778895e1b26e05c48d0939e?utm_campaign=1049&utm_source=git)** | Denver, CO, US | On Site | Jan 03 |
+| ↳ | **[Student Internship - Interior Design - Summer 2025 - Phoenix](https://jobright.ai/jobs/info/6778895e1b26e05c48d09395?utm_campaign=1049&utm_source=git)** | Phoenix, AZ, US | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778895e1b26e05c48d093f4?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Jan 03 |
-| ↳ | **[Student Internship – Interior Design – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778895e1b26e05c48d093f3?utm_campaign=1049&utm_source=git)** | Baltimore, MD, US | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778895e1b26e05c48d093ac?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | Jan 03 |
-| ↳ | **[Student Internship – Interior Design – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778895e1b26e05c48d093f2?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778895e1b26e05c48d093f6?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, US | On Site | Jan 03 |
 | ↳ | **[Student Internship – Interior Design – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778895e1b26e05c48d093f5?utm_campaign=1049&utm_source=git)** | Miami, FL, US | On Site | Jan 03 |
+| ↳ | **[Student Internship – Interior Design – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/6778895e1b26e05c48d093f3?utm_campaign=1049&utm_source=git)** | Baltimore, MD, US | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
