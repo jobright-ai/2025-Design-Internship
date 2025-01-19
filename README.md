@@ -92,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Summer 2025](https://jobright.ai/jobs/info/678ad2f0b0e0276d9d35f7aa?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 17 |
 | **[Southwire Company](http://southwire.com)** | **[Packaging Co-op](https://jobright.ai/jobs/info/678ad53b2ef675b65243afe0?utm_campaign=1049&utm_source=git)** | Carrollton, GA | Hybrid | Jan 17 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Intern, Design Ann Taylor](https://jobright.ai/jobs/info/678ae7f27791999c9b4804cd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 17 |
-| **[LOFT](http://anninc.com/)** | **[Intern, Design LOFT](https://jobright.ai/jobs/info/678ae7f27791999c9b4804ce?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 17 |
+| **[LOFT](http://anninc.com/)** | **[Intern, Design LOFT](https://jobright.ai/jobs/info/678accf5c065c1ead5f74821?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/678accf5c065c1ead5f74a43?utm_campaign=1049&utm_source=git)** | Pennington, NJ | On Site | Jan 17 |
 | **[Progressive Companies](http://www.progressiveae.com)** | **[Summer 2025 Landscape Architecture Intern](https://jobright.ai/jobs/info/6788622680757b33f8dcd613?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Jan 17 |
 | ↳ | **[Design Strategy Intern](https://jobright.ai/jobs/info/678ab6bfbcd21d0af91c1cf8?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Jan 17 |
@@ -117,13 +117,13 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2025 Summer Internship: Merchandise & Retail Opportunities: (CA, NY, PA)](https://jobright.ai/jobs/info/678089b1c0fe16ed3e174f87?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789f03c3d32ccd27895fb0b?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Jan 16 |
 | **[Skechers](http://www.skechers.com)** | **[CMF Design Intern (Summer 2025)](https://jobright.ai/jobs/info/6789cacc482497791a3db434?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | On Site | Jan 16 |
-| **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0c992?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jan 16 |
-| ↳ | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d2cba9e2b25e9ff0d471?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jan 16 |
+| **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d2cba9e2b25e9ff0d471?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jan 16 |
+| ↳ | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d2cba9e2b25e9ff0d472?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jan 16 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Landscape Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/6789c3f6dc42984c7bdc3506?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Jan 16 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Summer 2025 UX Interaction Design Co-op 1](https://jobright.ai/jobs/info/6789c8afbb29aba916d175a0?utm_campaign=1049&utm_source=git)** | New Bremen, OH | On Site | Jan 16 |
 | **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/678b6955caf09692ceb2250c?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Jan 16 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/6789ca54bb29aba916d17871?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Jan 16 |
-| **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789a57c166c99173d565727?utm_campaign=1049&utm_source=git)** | St. Louis, MO, USA | On Site | Jan 16 |
+| **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789a57c166c99173d5656b0?utm_campaign=1049&utm_source=git)** | St. Louis, MO, USA | On Site | Jan 16 |
 | ↳ | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789a57c166c99173d5656b8?utm_campaign=1049&utm_source=git)** | Raleigh, NC, USA | On Site | Jan 16 |
 | ↳ | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789a57c166c99173d5656b2?utm_campaign=1049&utm_source=git)** | Kansas City, MO, USA | On Site | Jan 16 |
 | **[North Texas Tollway Authority](https://www.ntta.org/)** | **[Internship - Asset Management](https://jobright.ai/jobs/info/678204db760c0b7e103db2e4?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jan 16 |
