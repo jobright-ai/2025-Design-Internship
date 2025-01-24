@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6776b09fc088f2a15ac40146?utm_campaign=1049&utm_source=git)** | Ridgefield, CT | Hybrid | Jan 24 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/67935aa20c2690c9d8f3890a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/67936265a342a0b7d497a4f8?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Jan 24 |
+| **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Industrial Design Internship (Year-Long)](https://jobright.ai/jobs/info/679370d4a52afdfdf1a4113d?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Jan 24 |
+| ↳ | **[Interaction Design Internship (Year-Long)](https://jobright.ai/jobs/info/679370d4a52afdfdf1a41140?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Jan 24 |
 | **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2025 ](https://jobright.ai/jobs/info/67923d79b1444cbdde538f64?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Jan 23 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Interior Design Intern](https://jobright.ai/jobs/info/67933011cd4eb1c4c080c2c5?utm_campaign=1049&utm_source=git)** | 1400 N Uhle St, Arlington, VA, 22201, US | On Site | Jan 23 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/67934945cbc6072fd6830183?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Jan 23 |
@@ -74,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Public Space Landscape Architect Intern - Seattle City Light](https://jobright.ai/jobs/info/67930f7a5d343494cd940964?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Jan 23 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Photographer/Photo Archive Intern](https://jobright.ai/jobs/info/6792f882a90c1a38fca338bd?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 23 |
 | **[Dennis Group](http://dennisgrp.com)** | **[Architect (Industrial) - Internship/Co-Op (Start May 2025)](https://jobright.ai/jobs/info/6792efc62f43338ab5a50c25?utm_campaign=1049&utm_source=git)** | Springfield, MA | On Site | Jan 23 |
-| **[onsemi](http://www.onsemi.com)** | **[Applications Intern - Summer 2025](https://jobright.ai/jobs/info/6792de854ae73e6fa4390ba4?utm_campaign=1049&utm_source=git)** | 5701 N Pima Road, Scottsdale, AZ, 85250, US | On Site | Jan 23 |
+| **[onsemi](http://www.onsemi.com)** | **[Applications Intern - Summer 2025](https://jobright.ai/jobs/info/6792de854ae73e6fa4390bb1?utm_campaign=1049&utm_source=git)** | 5701 N Pima Road, Scottsdale, AZ, 85250, US | On Site | Jan 23 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[User Experience (UX) Design Intern, Summer 2025 (Internship) - 10 weeks](https://jobright.ai/jobs/info/6792e971cb33c27a427df998?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Marketing Graphic Designer](https://jobright.ai/jobs/info/6792d76f59034638ee5f897a?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Jan 23 |
 | **[Mississippi State University](https://coastal.msstate.edu)** | **[Intern](https://jobright.ai/jobs/info/6792df1b898288c416f64da6?utm_campaign=1049&utm_source=git)** | Gulf Hills, MS | On Site | Jan 23 |
@@ -104,10 +108,10 @@ For a complete list, click the following sortable link below:
 | **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2025 ](https://jobright.ai/jobs/info/67923d79b1444cbdde538f6e?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 23 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2025 ](https://jobright.ai/jobs/info/67923d79b1444cbdde538f7e?utm_campaign=1049&utm_source=git)** | Tucson, Arizona, United States | On Site | Jan 23 |
 | ↳ | **[Architectural Design Intern / Summer 2025 ](https://jobright.ai/jobs/info/67923d79b1444cbdde538f6d?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States | On Site | Jan 23 |
-| ↳ | **[Architectural Design Intern / Summer 2025 ](https://jobright.ai/jobs/info/67923d79b1444cbdde538f90?utm_campaign=1049&utm_source=git)** | Denver, Colorado, United States | On Site | Jan 23 |
-| ↳ | **[Architectural Design Intern / Summer 2025 ](https://jobright.ai/jobs/info/67923d79b1444cbdde53907e?utm_campaign=1049&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jan 23 |
-| ↳ | **[Architectural Design Intern / Summer 2025 ](https://jobright.ai/jobs/info/67923d79b1444cbdde538fb2?utm_campaign=1049&utm_source=git)** | Colorado Springs, Colorado, United States | On Site | Jan 23 |
 | ↳ | **[Architectural Design Intern / Summer 2025 ](https://jobright.ai/jobs/info/67923d79b1444cbdde538fe2?utm_campaign=1049&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Jan 23 |
+| ↳ | **[Architectural Design Intern / Summer 2025 ](https://jobright.ai/jobs/info/67923d79b1444cbdde538f90?utm_campaign=1049&utm_source=git)** | Denver, Colorado, United States | On Site | Jan 23 |
+| ↳ | **[Architectural Design Intern / Summer 2025 ](https://jobright.ai/jobs/info/67923d79b1444cbdde538fb2?utm_campaign=1049&utm_source=git)** | Colorado Springs, Colorado, United States | On Site | Jan 23 |
+| ↳ | **[Architectural Design Intern / Summer 2025 ](https://jobright.ai/jobs/info/67923d79b1444cbdde53907e?utm_campaign=1049&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jan 23 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architectural Intern (target start summer 2025)](https://jobright.ai/jobs/info/679227acd2e555e2fcaf13bc?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jan 23 |
 | **[Gray AES](https://www.graysolutions.com)** | **[Intern, Architecture Design](https://jobright.ai/jobs/info/67920d76b7d99d82de0ff2f9?utm_campaign=1049&utm_source=git)** | Fullerton, CA | On Site | Jan 23 |
 | **[DAHLIN Architecture | Planning | Interiors](http://dahlingroup.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/67920d76b7d99d82de0ff065?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Inktern - Summer 2025 Internship](https://jobright.ai/jobs/info/6791551d4159a4243531db02?utm_campaign=1049&utm_source=git)** | Los Angeles | Hybrid | Jan 22 |
 | **[Typeface](https://www.typeface.ai)** | **[ Intern-Visual Design](https://jobright.ai/jobs/info/6791551d4159a4243531db4b?utm_campaign=1049&utm_source=git)** | Palo Alto, CA or Seattle, WA | Hybrid | Jan 22 |
 | ↳ | **[ Intern-Product Design](https://jobright.ai/jobs/info/6791551d4159a4243531db4e?utm_campaign=1049&utm_source=git)** | Palo Alto, CA or Seattle, WA | Hybrid | Jan 22 |
-| **[HP](http://www.hp.com)** | **[Personal Systems UX Design & Human Factors Internship](https://jobright.ai/jobs/info/6791d873c0804d908616ab7c?utm_campaign=1049&utm_source=git)** | Scotts Valley, CA | On Site | Jan 22 |
-| ↳ | **[Personal Systems UX Design & Human Factors Internship](https://jobright.ai/jobs/info/679144f2dc2010a088d06ee8?utm_campaign=1049&utm_source=git)** | Spring, TX | Hybrid | Jan 22 |
-| ↳ | **[Personal Systems UX Design & Human Factors Internship](https://jobright.ai/jobs/info/67914a31f56d0cbef19ce337?utm_campaign=1049&utm_source=git)** | Fountain Valley, CA | Hybrid | Jan 22 |
-| **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2025](https://jobright.ai/jobs/info/67915e1cc671c793c0a52caf?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
