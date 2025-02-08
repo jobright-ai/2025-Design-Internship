@@ -57,19 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Staples](http://www.staples.com)** | **[Digital Designer Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/67a760651e82bd7e7bcda4b6?utm_campaign=1049&utm_source=git)** | Framingham, MA | Hybrid | Feb 08 |
 | **[HOK](http://www.hok.com/)** | **[Architectural Student Intern - Summer 2025](https://jobright.ai/jobs/info/67a7505562c8951a8e6d8702?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 08 |
+| **[Olsson](https://www.olsson.com)** | **[Landscape Architecture/Design Internship](https://jobright.ai/jobs/info/67520b8d0d3f789ac022b3b6?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 08 |
 | **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/66d76ec386dfc693f74e0dd8?utm_campaign=1049&utm_source=git)** | Sarpy County, NE | Hybrid | Feb 08 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern I](https://jobright.ai/jobs/info/67a711f7538d9a0c4c636a8d?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 07 |
 | ↳ | **[Design Intern I](https://jobright.ai/jobs/info/67a6fa6166ff15759c7945c0?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 07 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Graphic Design Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67a6e7204b6e10a0f0bf7f97?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 07 |
-| ↳ | **[WDI Graphic Design Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67a6e7204b6e10a0f0bf7fa7?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Feb 07 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Graphic Design Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67a6e7204b6e10a0f0bf7fa7?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Feb 07 |
+| ↳ | **[WDI Graphic Design Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67a6e7204b6e10a0f0bf7f97?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 07 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Graphic Design Intern / Moody Center / Part-Time](https://jobright.ai/jobs/info/67a743b70beb929fc1e3d69f?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[Divisions Maintenance Group](https://divisionsmg.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/67a6d41052e0fc97671c36cb?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Feb 07 |
 | **[Citizant](https://citizant.com)** | **[SkillBridge Internship: Graphics - 100% Remote  (REF1732P)**](https://jobright.ai/jobs/info/67a6e1de3fa670fc0881db51?utm_campaign=1049&utm_source=git)** | Chantilly, VA | Remote | Feb 07 |
 | **[Hallmark Cards](http://www.hallmark.com)** | **[2025 Creative Summer Internship - 3D Design & Illustration](https://jobright.ai/jobs/info/67a6db0dd4da5bfbd8a69b12?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Feb 07 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Graphic Design Intern, Communications and External Affairs](https://jobright.ai/jobs/info/67a6db0dd4da5bfbd8a69e10?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 07 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Hybrid Brand/Interiors Designer – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/67a6d41052e0fc97671c38da?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
-| **[Pendo.io](http://www.pendo.io)** | **[Product Design Intern (Summer 2025)](https://jobright.ai/jobs/info/67a6cd9650ad618aee3975bc?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 07 |
 | **[WRA Architects, Inc.](https://www.wraarchitects.com)** | **[College Internship](https://jobright.ai/jobs/info/67a6b4613adb707c4f3cff15?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Hybrid Brand/Interiors Designer – Summer 2025 – Southeast Region](https://jobright.ai/jobs/info/67a6ae9c389e6d9f3335840f?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | Hybrid | Feb 07 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67a6b2074877c04b173da2ca?utm_campaign=1049&utm_source=git)** | Newark, NJ | On Site | Feb 07 |
@@ -100,17 +101,13 @@ For a complete list, click the following sortable link below:
 | **[Haworth](http://www.haworth.com/)** | **[Interior Design Intern - Holland, MI](https://jobright.ai/jobs/info/67a643afbee0c27a9ab436a1?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Feb 07 |
 | **[GSD&M](http://www.gsdm.com)** | **[Summer 2025 - Graphic Design Intern](https://jobright.ai/jobs/info/67a64f6c6981f27919ff4558?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 | ↳ | **[Summer 2025- Creative Intern (Art)](https://jobright.ai/jobs/info/67a64f6c6981f27919ff4591?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/67897ddd8cef63184bfee07d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Marketing Graphic Design Intern - Summer 2025](https://jobright.ai/jobs/info/67a648a25d6f942aba6e83f6?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Feb 07 |
 | ↳ | **[Exhibit Design Intern - Summer 2025](https://jobright.ai/jobs/info/67a648a25d6f942aba6e838a?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Feb 07 |
 | **[GSD&M](http://www.gsdm.com)** | **[Summer 2025 - Creative Intern (Writer)](https://jobright.ai/jobs/info/67a639a560427092bbb3dfba?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 | **[Graco](http://graco.com/in/en/)** | **[Interior Planning and Design Intern](https://jobright.ai/jobs/info/67a634c78eae1c148cff51ea?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, USA (Riverside Manufacturing) | On Site | Feb 07 |
 | ↳ | **[Interior Planning and Design Intern](https://jobright.ai/jobs/info/67a633bebb1d8ddccb273883?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Landscape Maintenance Internship](https://jobright.ai/jobs/info/67a6d5b252e0fc97671c3f55?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | **[G70](https://www.g70.design)** | **[Interior Design Intern (Summer 2025)](https://jobright.ai/jobs/info/67a6420990016b8587681693?utm_campaign=1049&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Landscape Maintenance Internship](https://jobright.ai/jobs/info/67a7236fe433f76bfbbe787e?utm_campaign=1049&utm_source=git)** | Forestville, MD | On Site | Feb 07 |
-| ↳ | **[Landscape Maintenance Internship](https://jobright.ai/jobs/info/67a7236fe433f76bfbbe7888?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Feb 07 |
-| ↳ | **[Landscape Maintenance Internship](https://jobright.ai/jobs/info/67a6e9037c90877debe26bfc?utm_campaign=1049&utm_source=git)** | Manassas, VA | On Site | Feb 07 |
-| ↳ | **[Landscape Maintenance Internship](https://jobright.ai/jobs/info/67a6f77c18cee046e7d7241e?utm_campaign=1049&utm_source=git)** | Elkridge, MD | On Site | Feb 07 |
 | **[Qlik](https://www.qlik.com/)** | **[Program Management User Experience/User Interface Intern](https://jobright.ai/jobs/info/67a61b0a58058319a53887a7?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Feb 07 |
 | ↳ | **[Program Management User Experience/User Interface Intern](https://jobright.ai/jobs/info/67a61b0a58058319a53887a8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | ↳ | **[Program Management User Experience/User Interface Intern](https://jobright.ai/jobs/info/67a61b0a58058319a53887af?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | Feb 07 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Hallmark Cards](http://www.hallmark.com)** | **[2025 Creative Summer Internship - Graphic Designer, Visual Merchandising](https://jobright.ai/jobs/info/67a528b82faa6b3aa986d582?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Feb 06 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d2cba9e2b25e9ff0d472?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 06 |
 | ↳ | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d2cba9e2b25e9ff0d471?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 06 |
+| **[BrightView Landscapes](https://www.brightview.com)** | **[Landscape Development Internship](https://jobright.ai/jobs/info/67a52ac4050f8230ed7c528e?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 06 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/67a52efce5b8e58b16c3b538?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Feb 06 |
+| **[Architecture Incorporated](https://www.architectureinc.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/67a53febd4fcbb5aff2becc9?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
