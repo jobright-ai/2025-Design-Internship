@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[Brand & Creative Intern](https://jobright.ai/jobs/info/677f1aee53e19167e7d8153e?utm_campaign=1049&utm_source=git)** | Fort Washington, PA | On Site | Feb 14 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[UX Design Internship](https://jobright.ai/jobs/info/67af03af7f9482b486259eac?utm_campaign=1049&utm_source=git)** | Arden Hills, MN | On Site | Feb 13 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Graphic Design & Project Management, Food & Beverage* (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a14?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
-| ↳ | **[Internship – Video Editing, Creative Production (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a36?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | ↳ | **[Internship – Horticulture Design (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a1d?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
+| ↳ | **[Internship – Video Editing, Creative Production (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a36?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | ↳ | **[Internship – Graphic Design & Project Management, Food & Beverage (Academic Year, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a39?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
-| ↳ | **[Internship – Experience Strategy & Graphic Design, Digital & Technology (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a11?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | ↳ | **[Internship – UXUI Experience Design* (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a16?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
+| ↳ | **[Internship – Experience Strategy & Graphic Design, Digital & Technology (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a11?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | ↳ | **[Internship – Visual Merchandise Design (Academic Year, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/67aee30203d558e5f7f66063?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Global Visual Merchandising (NARS)](https://jobright.ai/jobs/info/67aec88ba87663c36c4bdfc6?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Feb 13 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[UX Design Internship](https://jobright.ai/jobs/info/67aec4bfc607de9d775b1eb5?utm_campaign=1049&utm_source=git)** | Arden Hills US-MN, United States | US-MN-Mankato/Rochester | On Site | Feb 13 |
+| **[Mussett Nicholas Associates](https://www.m-n-a.com/)** | **[Architectural Internship](https://jobright.ai/jobs/info/67aed141b9591c59faf347f1?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Feb 13 |
 | **[Innovative Systems, Inc.](http://www.innovativesystems.com/)** | **[Intern-User Experience (UX) Design-Summer 2025](https://jobright.ai/jobs/info/67ac7a4079d284145dd55b10?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 13 |
 | **[Common Sense Media](http://graphite.org/)** | **[Brand Design Intern](https://jobright.ai/jobs/info/67aeda51fdb19253fc0f76a8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 13 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6764bba662795f5ff50cc373?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
@@ -104,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Digital Experience Intern](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dd41?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 13 |
 | **[Splunk](https://www.splunk.com)** | **[UX Researcher Intern (Boulder, CO – Summer 2025)](https://jobright.ai/jobs/info/67adeea6b599f3871032bce5?utm_campaign=1049&utm_source=git)** | Hybrid Remote, Boulder, Colorado | Hybrid | Feb 13 |
 | ↳ | **[Product Designer Intern (Boulder, Colorado - Summer 2025)](https://jobright.ai/jobs/info/67adeea6b599f3871032bca7?utm_campaign=1049&utm_source=git)** | Hybrid Remote, Boulder, Colorado | Hybrid | Feb 13 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/66f3273c1b89349c294cde3c?utm_campaign=1049&utm_source=git)** | Westminster, CO | On Site | Feb 13 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/678215808d1a16ca08ae450e?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Feb 13 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc NXT SPACE Design Innovation Graduate Internship](https://jobright.ai/jobs/info/67add111b0d13c7c7d6ada0a?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Feb 13 |
 | **[Wayfair](https://www.wayfair.com)** | **[Stylist & Visual Merchant Co-op - July 2025](https://jobright.ai/jobs/info/67adafbd39d579bd27a88124?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 13 |
@@ -140,9 +143,9 @@ For a complete list, click the following sortable link below:
 | **[AMSOIL INC.](http://amsoil.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67acebd6ad5f970b81a9ed7d?utm_campaign=1049&utm_source=git)** | 925 Tower Ave, Superior, WI 54880, USA | Hybrid | Feb 12 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Junior Graphic Designer - BYU-Pathway Worldwide (Full-time, Intern)](https://jobright.ai/jobs/info/67acf711526b539f609c2114?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 12 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Studio Production Intern](https://jobright.ai/jobs/info/67ace86fe770eda4294af734?utm_campaign=1049&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Feb 12 |
-| **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Retail, Food & Beverage Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e5509b?utm_campaign=1049&utm_source=git)** | Denver, Colorado | On Site | Feb 12 |
+| **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e55096?utm_campaign=1049&utm_source=git)** | Denver, Colorado | On Site | Feb 12 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e5509c?utm_campaign=1049&utm_source=git)** | Denver, Colorado | On Site | Feb 12 |
-| ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e55096?utm_campaign=1049&utm_source=git)** | Denver, Colorado | On Site | Feb 12 |
+| ↳ | **[Retail, Food & Beverage Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e5509b?utm_campaign=1049&utm_source=git)** | Denver, Colorado | On Site | Feb 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67acf711526b539f609c22cf?utm_campaign=1049&utm_source=git)** | St Paul, MN | On Site | Feb 12 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/67ad00a2c02c8690dcae8f84?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 12 |
 | ↳ | **[Retail, Food & Beverage Intern](https://jobright.ai/jobs/info/67ad00a2c02c8690dcae8fa1?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Label Design Internship - Summer 2025](https://jobright.ai/jobs/info/67ad7269404009f584a66dd1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Feb 12 |
 | ↳ | **[Private Label Design Internship - Summer 2025](https://jobright.ai/jobs/info/67ad7269404009f584a66e2f?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Feb 12 |
 | ↳ | **[Private Label Design Internship - Summer 2025](https://jobright.ai/jobs/info/67ad7269404009f584a66e66?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Feb 12 |
-| ↳ | **[Private Label Design Internship - Summer 2025](https://jobright.ai/jobs/info/67ad7269404009f584a66e81?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Feb 12 |
-| **[Slate Magazine](http://www.slate.com)** | **[Spring 2025 Illustration Intern](https://jobright.ai/jobs/info/67acd49f73788a65266cdddd?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia | Hybrid | Feb 12 |
-| **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/67acd49f73788a65266cde79?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
