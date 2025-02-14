@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Design Strategy Intern](https://jobright.ai/jobs/info/67ae88056e31e5697c4438af?utm_campaign=1049&utm_source=git)** | Chicago (Green St), IL | On Site | Feb 13 |
+| **[Sparrow](https://www.sparrowup.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/67ae8191b4f1f53b5bfb6e30?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 13 |
+| **[Springer Nature](https://group.springernature.com/)** | **[Graphics Intern, Scientific American](https://jobright.ai/jobs/info/67ae7b33418f6050be456e8d?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Feb 13 |
+| **[Stream Realty Partners](http://streamrealty.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67ae7fb9b4f1f53b5bfb6ad2?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 13 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2025 Intern – Strategic Design](https://jobright.ai/jobs/info/67ae7fb9b4f1f53b5bfb6cc3?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | Feb 13 |
+| **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/67ae6e11648841486bd9a398?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Feb 13 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2025 Intern – Strategic Design](https://jobright.ai/jobs/info/67ae6218653aa864e7bd410e?utm_campaign=1049&utm_source=git)** | 733 St. Antoine St., Detroit, MI, 48226, US | On Site | Feb 13 |
+| **[NRG Energy](http://www.nrg.com/)** | **[UX Intern](https://jobright.ai/jobs/info/67ae58e6798c1aca6ce0c38e?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Feb 13 |
+| **[Woolpert](http://www.woolpert.com)** | **[Architectural Intern Summer 2025](https://jobright.ai/jobs/info/67ae500f35b6d5529c0dedb4?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Feb 13 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/67ae4510432d1a7e9439de82?utm_campaign=1049&utm_source=git)** | Chicago | On Site | Feb 13 |
 | **[3M](https://www.3m.com)** | **[Internship - 2025 Undergraduate Designer. Maplewood, MN - Safety & Industrial Business Group (SIBG)](https://jobright.ai/jobs/info/67ae4510432d1a7e9439e129?utm_campaign=1049&utm_source=git)** | Minnesota, United States | On Site | Feb 13 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/67ae370fb4edee95996ef48e?utm_campaign=1049&utm_source=git)** | HY US Greenville, NC (WPDC) | On Site | Feb 13 |
@@ -73,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Wayfair](https://www.wayfair.com)** | **[Stylist & Visual Merchant Co-op - July 2025](https://jobright.ai/jobs/info/67adafbd39d579bd27a88124?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | ↳ | **[Interior Design Co-op - July 2025](https://jobright.ai/jobs/info/67adafbd39d579bd27a8812e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Product Design](https://jobright.ai/jobs/info/67adba2d51a2774a37d81ad5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[Links Global](http://www.linksglobal.org/)** | **[Graphics Designer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81ff6?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
 | **[Schaefer](http://schaefer-inc.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/67ada4c44ccac8b88bfe5bf5?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Feb 12 |
 | **[Slate Magazine](http://www.slate.com)** | **[Spring 2025 Illustration Intern](https://jobright.ai/jobs/info/67add90e1d390e6b1bf9362e?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 12 |
 | ↳ | **[Spring 2025 Illustration Intern](https://jobright.ai/jobs/info/67ad88dce49033116f8470f2?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 12 |
@@ -105,9 +113,9 @@ For a complete list, click the following sortable link below:
 | **[AMSOIL INC.](http://amsoil.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67acebd6ad5f970b81a9ed7d?utm_campaign=1049&utm_source=git)** | 925 Tower Ave, Superior, WI 54880, USA | Hybrid | Feb 12 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Junior Graphic Designer - BYU-Pathway Worldwide (Full-time, Intern)](https://jobright.ai/jobs/info/67acf711526b539f609c2114?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 12 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Studio Production Intern](https://jobright.ai/jobs/info/67ace86fe770eda4294af734?utm_campaign=1049&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Feb 12 |
-| **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Retail, Food & Beverage Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e5509b?utm_campaign=1049&utm_source=git)** | Denver, Colorado | On Site | Feb 12 |
+| **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e55096?utm_campaign=1049&utm_source=git)** | Denver, Colorado | On Site | Feb 12 |
+| ↳ | **[Retail, Food & Beverage Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e5509b?utm_campaign=1049&utm_source=git)** | Denver, Colorado | On Site | Feb 12 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e5509c?utm_campaign=1049&utm_source=git)** | Denver, Colorado | On Site | Feb 12 |
-| ↳ | **[Video Production Intern](https://jobright.ai/jobs/info/67acec7eaea7bba132e55096?utm_campaign=1049&utm_source=git)** | Denver, Colorado | On Site | Feb 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67acf711526b539f609c22cf?utm_campaign=1049&utm_source=git)** | St Paul, MN | On Site | Feb 12 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Video Production Intern](https://jobright.ai/jobs/info/67ad00a2c02c8690dcae8f84?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 12 |
 | ↳ | **[Retail, Food & Beverage Intern](https://jobright.ai/jobs/info/67ad00a2c02c8690dcae8fa1?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 12 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/67a80e5214ac5f21ce4a4302?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Feb 11 |
 | **[HOK](http://www.hok.com/)** | **[Architectural Student Intern - Summer 2025](https://jobright.ai/jobs/info/67ac110629bee3a7519c3440?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2025 ](https://jobright.ai/jobs/info/67ac110629bee3a7519c3490?utm_campaign=1049&utm_source=git)** | Sacramento, California, United States | On Site | Feb 11 |
-| **[Page](http://pagethink.com)** | **[University of California Berkeley 2025 Spring Architecture & Environmental Design Career & Internship Fair](https://jobright.ai/jobs/info/67adbc37a5f63c7597e41715?utm_campaign=1049&utm_source=git)** | San Francisco, California | On Site | Feb 11 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2025](https://jobright.ai/jobs/info/67ac095cd8a31693de1d87c7?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Feb 11 |
-| ↳ | **[Architectural Design Intern / Summer 2025](https://jobright.ai/jobs/info/67ac095cd8a31693de1d8856?utm_campaign=1049&utm_source=git)** | Riverside, CA | On Site | Feb 11 |
-| **[Cincinnati Reds](https://reds.mlb.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/67ac632bfb36640e34f58715?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Feb 11 |
-| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[Paid College Internship, DriveOhio Communications & Outreach, PN 20049617](https://jobright.ai/jobs/info/67abf999357c3540940c0a3a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Feb 11 |
-| **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2025](https://jobright.ai/jobs/info/67abf999357c3540940c0ab5?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 11 |
-| **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/67abec1846c78e900b5a693c?utm_campaign=1049&utm_source=git)** | Bloomington, IN, USA | On Site | Feb 11 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[National Geographic Cartographic Intern, Summer 2025](https://jobright.ai/jobs/info/67abec1846c78e900b5a6993?utm_campaign=1049&utm_source=git)** | Washington, DC, USA | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
