@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Design - UI Internship](https://jobright.ai/jobs/info/67afcc490c91b105fcba809a?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Feb 14 |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Writer Intern (Spring)](https://jobright.ai/jobs/info/67afd01aa5847141837c87f3?utm_campaign=1049&utm_source=git)** | New York | On Site | Feb 14 |
+| **[WWE](http://wwe.com)** | **[Intern, Creative Services - Art Directing](https://jobright.ai/jobs/info/67afd01aa5847141837c898d?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Feb 14 |
+| ↳ | **[Intern, Creative Services - Project Management](https://jobright.ai/jobs/info/67afd01aa5847141837c89a9?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Feb 14 |
+| **[Leo Burnett](https://www.leoburnett.com.au/)** | **[2025 Leo Burnett Summer Internship- Creative](https://jobright.ai/jobs/info/67afd01aa5847141837c89b2?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 14 |
+| **[DriveTime](https://www.drivetime.com)** | **[Media Intern (Summer 2025)](https://jobright.ai/jobs/info/67afb6d625a675bb7c18ea7a?utm_campaign=1049&utm_source=git)** | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | On Site | Feb 14 |
+| **[POWER Engineers](http://www.powereng.com)** | **[Visual Resource Intern](https://jobright.ai/jobs/info/67afbd1fc9e7043f19ac88ef?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Feb 14 |
+| **[Falcon's Creative Group](http://falconscreativegroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67afd1d0a5847141837c9127?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 14 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Creative Services Intern](https://jobright.ai/jobs/info/67afa79fc0dbe6842b11cf1b?utm_campaign=1049&utm_source=git)** | 755 Auditorium Dr, Redding, CA, 96001, US | On Site | Feb 14 |
+| **[HDR](http://www.hdrinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/67afb3ae2ee21a261f100e3b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
+| ↳ | **[Education Science and Community Intern](https://jobright.ai/jobs/info/67afac079f4e3e9e843a7d03?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Marketing/ Graphic Design Intern / Summer 2025](https://jobright.ai/jobs/info/67afb3ae2ee21a261f100f67?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Feb 14 |
+| **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[2025 Summer Internship - Design, Vehicle User Experience](https://jobright.ai/jobs/info/67afac079f4e3e9e843a7e32?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Feb 14 |
+| ↳ | **[2025 Summer Internship - Growth](https://jobright.ai/jobs/info/67afac079f4e3e9e843a7e63?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Feb 14 |
 | **[Exclusive Resorts](http://www.exclusiveresorts.com)** | **[User Experience Designer](https://jobright.ai/jobs/info/67af9c07292968382147f9bc?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Feb 14 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Design - UI Internship](https://jobright.ai/jobs/info/67af8dea15b8a32bd7faa9f4?utm_campaign=1049&utm_source=git)** | Chicago (Green St), IL | On Site | Feb 14 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[2025 Summer Internship - Growth](https://jobright.ai/jobs/info/67af9306686dec09800c5a77?utm_campaign=1049&utm_source=git)** | Fremont, California, United States | On Site | Feb 14 |
@@ -66,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[GameChanger](https://gc.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/67af9c07292968382147fc5f?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67af8b42d5668bef233feab1?utm_campaign=1049&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Feb 14 |
 | **[Continental](https://www.continental.com)** | **[2025 Internship - Digital Content and Videography](https://jobright.ai/jobs/info/67af7d5dacf1e8ece36aa2b6?utm_campaign=1049&utm_source=git)** | Lakeville, IN | On Site | Feb 14 |
-| **[dentsu](https://www.dentsu.com)** | **[Art Director Summer Internship (Paid) - Creative Development, Social Creative & Performance Creative](https://jobright.ai/jobs/info/67af831f99525c19c98f2875?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 14 |
-| ↳ | **[Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af831f99525c19c98f2503?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 14 |
+| **[dentsu](https://www.dentsu.com)** | **[Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af831f99525c19c98f2503?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 14 |
+| ↳ | **[Art Director Summer Internship (Paid) - Creative Development, Social Creative & Performance Creative](https://jobright.ai/jobs/info/67af831f99525c19c98f2875?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 14 |
 | ↳ | **[Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af84e299525c19c98f2dd9?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 14 |
 | ↳ | **[Summer Internship Experience – Internships in UX/UI and Strategy](https://jobright.ai/jobs/info/67af831f99525c19c98f24f7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 14 |
 | ↳ | **[Motion Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af831f99525c19c98f2879?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 14 |
@@ -81,18 +95,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art Director Summer Internship (Paid) - Creative Development, Social Creative & Performance Creative](https://jobright.ai/jobs/info/67af7d13c79d5c1605c74811?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Feb 14 |
 | ↳ | **[Motion Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af7d13c79d5c1605c74810?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 14 |
 | **[HDR](http://www.hdrinc.com)** | **[Education Science and Community Intern](https://jobright.ai/jobs/info/67af64fede7d547d848b69e5?utm_campaign=1049&utm_source=git)** | United States-California-San Francisco | On Site | Feb 14 |
-| **[dentsu](https://www.dentsu.com)** | **[Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af5b1dd9843cc39b9bc9d9?utm_campaign=1049&utm_source=git)** | New York | On Site | Feb 14 |
+| **[dentsu](https://www.dentsu.com)** | **[Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af5b1dd9843cc39b9bc9d8?utm_campaign=1049&utm_source=git)** | Chicago - N. State | On Site | Feb 14 |
 | ↳ | **[Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af5906d9843cc39b9bbe9a?utm_campaign=1049&utm_source=git)** | San Francisco - California St | On Site | Feb 14 |
-| ↳ | **[Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af5b1dd9843cc39b9bc9d8?utm_campaign=1049&utm_source=git)** | Chicago - N. State | On Site | Feb 14 |
+| ↳ | **[Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af5b1dd9843cc39b9bc9d9?utm_campaign=1049&utm_source=git)** | New York | On Site | Feb 14 |
 | ↳ | **[Summer Internship Experience – Internships in UX/UI and Strategy](https://jobright.ai/jobs/info/67af5b1dd9843cc39b9bc9de?utm_campaign=1049&utm_source=git)** | New York | On Site | Feb 14 |
+| ↳ | **[Summer Internship Experience – Internships in UX/UI and Strategy](https://jobright.ai/jobs/info/67af5906d9843cc39b9bbe97?utm_campaign=1049&utm_source=git)** | Detroit - 3000 Town Center | On Site | Feb 14 |
 | ↳ | **[Summer Internship Experience – Internships in UX/UI and Strategy](https://jobright.ai/jobs/info/67af5b1dd9843cc39b9bc9dd?utm_campaign=1049&utm_source=git)** | Chicago - N. State | On Site | Feb 14 |
 | ↳ | **[Summer Internship Experience – Internships in UX/UI and Strategy](https://jobright.ai/jobs/info/67af5b1dd9843cc39b9bc9dc?utm_campaign=1049&utm_source=git)** | Remote Working | Remote | Feb 14 |
-| ↳ | **[Summer Internship Experience – Internships in UX/UI and Strategy](https://jobright.ai/jobs/info/67af5906d9843cc39b9bbe97?utm_campaign=1049&utm_source=git)** | Detroit - 3000 Town Center | On Site | Feb 14 |
 | ↳ | **[Art Director Summer Internship (Paid) - Creative Development, Social Creative & Performance Creative](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6de5?utm_campaign=1049&utm_source=git)** | Chicago - N. State | On Site | Feb 14 |
-| ↳ | **[Art Director Summer Internship (Paid) - Creative Development, Social Creative & Performance Creative](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6de6?utm_campaign=1049&utm_source=git)** | New York | On Site | Feb 14 |
 | ↳ | **[Art Director Summer Internship (Paid) - Creative Development, Social Creative & Performance Creative](https://jobright.ai/jobs/info/67af4d3c57ddeb887fad625e?utm_campaign=1049&utm_source=git)** | San Francisco - California St | On Site | Feb 14 |
-| ↳ | **[Motion Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af4d3c57ddeb887fad627b?utm_campaign=1049&utm_source=git)** | San Francisco - California St | On Site | Feb 14 |
+| ↳ | **[Art Director Summer Internship (Paid) - Creative Development, Social Creative & Performance Creative](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6de6?utm_campaign=1049&utm_source=git)** | New York | On Site | Feb 14 |
 | ↳ | **[Motion Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6dec?utm_campaign=1049&utm_source=git)** | New York | On Site | Feb 14 |
+| ↳ | **[Motion Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af4d3c57ddeb887fad627b?utm_campaign=1049&utm_source=git)** | San Francisco - California St | On Site | Feb 14 |
 | ↳ | **[Motion Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6deb?utm_campaign=1049&utm_source=git)** | Chicago - N. State | On Site | Feb 14 |
 | **[Weston & Sampson](http://westonandsampson.com)** | **[Landscape Designer - Summer Co-Op 2025](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b0da?utm_campaign=1049&utm_source=git)** | Rocky Hill, CT | Hybrid | Feb 14 |
 | **[MullenLowe U.S.](https://mullen.com)** | **[Creative Inktern - Summer 2025 Internship](https://jobright.ai/jobs/info/67919d5f63d60e1b81d5cb89?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 14 |
@@ -101,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[UX Design Internship](https://jobright.ai/jobs/info/67af03af7f9482b486259eac?utm_campaign=1049&utm_source=git)** | Arden Hills, MN | On Site | Feb 13 |
 | **[Haworth](http://www.haworth.com/)** | **[Graphic Design Intern - Holland, MI](https://jobright.ai/jobs/info/679d6520a7522eddbcb66953?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Feb 13 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Graphic Design & Project Management, Food & Beverage* (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a14?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
-| ↳ | **[Internship – Video Editing, Creative Production (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a36?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | ↳ | **[Internship – Horticulture Design (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a1d?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
+| ↳ | **[Internship – Video Editing, Creative Production (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a36?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | ↳ | **[Internship – UXUI Experience Design* (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a16?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | ↳ | **[Internship – Experience Strategy & Graphic Design, Digital & Technology (Fall 2025)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a11?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
 | ↳ | **[Internship – Graphic Design & Project Management, Food & Beverage (Academic Year, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/67aefb98a6806d6e35636a39?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 13 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[IT User Experience Co-op](https://jobright.ai/jobs/info/67af0d0867fbb93cc7325542?utm_campaign=1049&utm_source=git)** | Massachusetts, United States | On Site | Feb 13 |
 | ↳ | **[IT User Experience Co-op](https://jobright.ai/jobs/info/67af0d0867fbb93cc732560f?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[The Variable](https://thevariable.com/)** | **[Vandals Intern](https://jobright.ai/jobs/info/67ae1ce8a508960373e1cfe8?utm_campaign=1049&utm_source=git)** | Triad Area | On Site | Feb 13 |
-| **[3M](https://www.3m.com)** | **[Internship - 2025 Undergraduate Designer. Maplewood, MN - Safety & Industrial Business Group (SIBG)](https://jobright.ai/jobs/info/67ae162444c3d896160d832b?utm_campaign=1049&utm_source=git)** | US, Minnesota, Maplewood | On Site | Feb 13 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Digital Experience Intern](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dd41?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 13 |
-| **[Splunk](https://www.splunk.com)** | **[UX Researcher Intern (Boulder, CO – Summer 2025)](https://jobright.ai/jobs/info/67adeea6b599f3871032bce5?utm_campaign=1049&utm_source=git)** | Hybrid Remote, Boulder, Colorado | Hybrid | Feb 13 |
-| ↳ | **[Product Designer Intern (Boulder, Colorado - Summer 2025)](https://jobright.ai/jobs/info/67adeea6b599f3871032bca7?utm_campaign=1049&utm_source=git)** | Hybrid Remote, Boulder, Colorado | Hybrid | Feb 13 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/66f3273c1b89349c294cde3c?utm_campaign=1049&utm_source=git)** | Westminster, CO | On Site | Feb 13 |
-| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/678215808d1a16ca08ae450e?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Feb 13 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc NXT SPACE Design Innovation Graduate Internship](https://jobright.ai/jobs/info/67add111b0d13c7c7d6ada0a?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Feb 13 |
-| **[Wayfair](https://www.wayfair.com)** | **[Stylist & Visual Merchant Co-op - July 2025](https://jobright.ai/jobs/info/67adafbd39d579bd27a88124?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 13 |
-| ↳ | **[Interior Design Co-op - July 2025](https://jobright.ai/jobs/info/67adafbd39d579bd27a8812e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 13 |
-| **[Kargo](http://www.kargo.com)** | **[Intern, Product Design](https://jobright.ai/jobs/info/67adba2d51a2774a37d81ad5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[Schaefer](http://schaefer-inc.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/67ada4c44ccac8b88bfe5bf5?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Feb 12 |
-| **[Slate Magazine](http://www.slate.com)** | **[Spring 2025 Illustration Intern](https://jobright.ai/jobs/info/67ad88dce49033116f8470f2?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 12 |
-| ↳ | **[Spring 2025 Illustration Intern](https://jobright.ai/jobs/info/67ad8a9ee49033116f847b9b?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 12 |
-| **[AFL](http://www.AFLglobal.com)** | **[Graphic Design Intern - Summer 2025](https://jobright.ai/jobs/info/67ad88dce49033116f8471d2?utm_campaign=1049&utm_source=git)** | Duncan, SC | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
