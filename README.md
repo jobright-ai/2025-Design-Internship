@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Space Planning Intern (Architecture/Interior Design) (Administrative) (Dulles VA) - R10184892](https://jobright.ai/jobs/info/67b14862e433634f909272d4?utm_campaign=1049&utm_source=git)** | Dulles, VA | On Site | Feb 15 |
-| **[Chapman University](https://www.chapman.edu/)** | **[Admin/Graphic Design Assistant - Stand Up for Kids](https://jobright.ai/jobs/info/67b12045260ed58084c52de4?utm_campaign=1049&utm_source=git)** | Orange, CA | Hybrid | Feb 15 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2025 Long-Term Internship](https://jobright.ai/jobs/info/67b1144a491d453eba9c54a9?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 15 |
 | **[The HEINEKEN Company](http://www.theHEINEKENcompany.com)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/67b103b60eea464823f78203?utm_campaign=1049&utm_source=git)** | White Plains, NY | Hybrid | Feb 15 |
 | **[Adam Lippes](https://adamlippes.com)** | **[Fashion Design and Development Intern](https://jobright.ai/jobs/info/67b0e4a86a979c61273d1d52?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 15 |
@@ -77,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Ramp](https://ramp.com)** | **[Product Designer Internship](https://jobright.ai/jobs/info/6791bace78f9cbb43ec3e4b0?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 15 |
 | **[HOK](http://www.hok.com/)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/67b0c18da938e8cb564bb136?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Feb 15 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Experience Team (EX) - UX Researcher Internships - Summer 2025](https://jobright.ai/jobs/info/67234c0b2ae79a2612aa33f4?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Feb 15 |
+| **[BOSS SNOWPLOW](http://bossplow.com)** | **[Video Production Editor Intern - BOSS Snowplow](https://jobright.ai/jobs/info/66f2ab2607a75121d38b2465?utm_campaign=1049&utm_source=git)** | Iron Mountain, MI | On Site | Feb 15 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/674fa2025e24845df525fb86?utm_campaign=1049&utm_source=git)** | Cleveland, OH | Hybrid | Feb 15 |
 | **[Intrinsic](https://www.intrinsic.ai)** | **[Intern: UX Researcher](https://jobright.ai/jobs/info/67917e688145109e48d26ab9?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | Feb 15 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern (Summer 2025)](https://jobright.ai/jobs/info/66edb39082ff7346bcbaa5b5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 15 |
@@ -104,7 +104,9 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Innovation Designer (Summer 2025)](https://jobright.ai/jobs/info/67814f204d69cbdf6279b936?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/67b08e5153c8566e02396287?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 15 |
 | **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/678f4a9cdd981f79710440e0?utm_campaign=1049&utm_source=git)** | Huntington Beach, CA | On Site | Feb 15 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year Round - Creative Services, Hybrid](https://jobright.ai/jobs/info/678fed48b849986584758a2f?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 15 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Architect Trainee (Summer 2025)](https://jobright.ai/jobs/info/67b07186c532c3717229fd36?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 15 |
+| **[Haworth](http://www.haworth.com/)** | **[Interior Design Intern - Holland, MI](https://jobright.ai/jobs/info/67a643afbee0c27a9ab436a1?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Feb 15 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Creative Services Intern](https://jobright.ai/jobs/info/67b05915072940ac9ac40625?utm_campaign=1049&utm_source=git)** | Redding, CA | On Site | Feb 15 |
 | **[Haworth](http://www.haworth.com/)** | **[Design Research Intern - Holland, MI](https://jobright.ai/jobs/info/67a699bd702de8b3308e183b?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Feb 14 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2025](https://jobright.ai/jobs/info/67b0a20f123da9642df84d28?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Motion Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af831f99525c19c98f2879?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 14 |
 | ↳ | **[Summer Internship Experience – Internships in UX/UI and Strategy](https://jobright.ai/jobs/info/67af84e299525c19c98f2dde?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Feb 14 |
 | ↳ | **[Summer Internship Experience – Internships in UX/UI and Strategy](https://jobright.ai/jobs/info/67af84e299525c19c98f2ddf?utm_campaign=1049&utm_source=git)** | Detroit Metro | Hybrid | Feb 14 |
-| ↳ | **[Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af84e299525c19c98f2de0?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Feb 14 |
-| **[WWE](http://wwe.com)** | **[Intern, Creative Services - Project Management](https://jobright.ai/jobs/info/67af7bbf657fe95dadb43921?utm_campaign=1049&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
