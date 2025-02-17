@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sanford Research](https://research.sanfordhealth.org)** | **[Intern / Sanford FIT (Graphic Design/Social Media)](https://jobright.ai/jobs/info/67b26ae4a95c1914ed880285?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | Hybrid | Feb 16 |
-| **[Innovative Systems ](http://innovsys.com)** | **[Intern-User Experience (UX) Design-Summer 2025](https://jobright.ai/jobs/info/67b250a17ec5e08c9be4f4e4?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 16 |
 | **[Savion](https://savionenergy.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67b238ee118b455fb52a26e1?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Feb 16 |
 | **[Iris](https://www.iris-worldwide.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/67b1f626a578b5b8eeea47d9?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 16 |
 | **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2025](https://jobright.ai/jobs/info/6759b0a113090e4ab7fc4634?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Feb 16 |
+| **[Konica Minolta Business Solutions Canada](https://konicaminolta.ca)** | **[UX Research & Design Intern](https://jobright.ai/jobs/info/67b2a471cda608b01c0861fc?utm_campaign=1049&utm_source=git)** | Ramsey, NJ | On Site | Feb 15 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Space Planning Intern (Architecture/Interior Design) (Administrative) (Dulles VA) - R10184892](https://jobright.ai/jobs/info/67b14862e433634f909272d4?utm_campaign=1049&utm_source=git)** | Dulles, VA | On Site | Feb 15 |
+| **[Perkins&Will](http://perkinswill.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/6785be7e27c916c0f842cc2b?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 15 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - UX of AI](https://jobright.ai/jobs/info/674f227d201c7c22d9dfac71?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Feb 15 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Graphics Internship, New York (Summer 2025)](https://jobright.ai/jobs/info/67913f5ea4ca9b41be4b787a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 15 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2025 Long-Term Internship](https://jobright.ai/jobs/info/67b1144a491d453eba9c54a9?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 15 |
