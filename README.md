@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Twitch](https://www.twitch.tv)** | **[Art Direction Intern (Dec 2025/May 2026)](https://jobright.ai/jobs/info/679942d1b3f758bf846caea9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 19 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Graphic Design Intern - Summer 2025](https://jobright.ai/jobs/info/677d6a93512b17e04af5113d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
+| **[ISlide, Inc.](https://www.islideusa.com/)** | **[Summer 2025 Marketing Design Intern](https://jobright.ai/jobs/info/67b5c2395b1e2044fd82665d?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 19 |
+| **[TikTok](https://www.tiktok.com)** | **[(General Hire) UX Design Intern (TikTok-Design)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b5b10c3317aa153ba86afe?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 19 |
+| **[ENVE Composites](http://enve.com)** | **[Graphic Design Intern, Product](https://jobright.ai/jobs/info/67b5b8ea56edd290be7cfb57?utm_campaign=1049&utm_source=git)** | Ogden, UT | On Site | Feb 19 |
+| **[Acadium](http://www.acadium.com)** | **[Social Media, Content Marketing and Graphic Design Intern](https://jobright.ai/jobs/info/67b5a7f2e5e231d671960fc6?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 19 |
 | **[AECOM](http://www.aecom.com/)** | **[Sports Practice- Architecture and Interior Summer Interns](https://jobright.ai/jobs/info/67b58e26be5e4d4ef579ff4a?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 18 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[Digital Workplace Intern](https://jobright.ai/jobs/info/67b56a7d73a5ab0882d50248?utm_campaign=1049&utm_source=git)** | Tacoma, WA | Hybrid | Feb 18 |
 | **[Condé Nast](http://www.condenast.com)** | **[Design Intern, Allure & SELF](https://jobright.ai/jobs/info/67b5590f5d4fa424c6b700aa?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 18 |
@@ -95,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Site Intern](https://jobright.ai/jobs/info/67b4eabad7f67d8c4e87b243?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Architecture Intern (Health)](https://jobright.ai/jobs/info/67b4eabad7f67d8c4e87affe?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 18 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/67b4eabad7f67d8c4e87b256?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 18 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/67b4eabad7f67d8c4e87b267?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Education Science and Community Intern](https://jobright.ai/jobs/info/67b4eabad7f67d8c4e87b26b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 18 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/67b4eabad7f67d8c4e87b267?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/67b4eabad7f67d8c4e87b274?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/67b4eabad7f67d8c4e87b2f2?utm_campaign=1049&utm_source=git)** | Pennington, NJ | On Site | Feb 18 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/67b4eabad7f67d8c4e87b2f7?utm_campaign=1049&utm_source=git)** | Greater Houston | On Site | Feb 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/67b3d410447c75b24ed48952?utm_campaign=1049&utm_source=git)** | Urbana, Iowa | On Site | Feb 17 |
 | **[Axis Communications](http://www.axis.com/)** | **[Graphic Design Intern (summer)](https://jobright.ai/jobs/info/67b3d7f69e79e30d44b955c4?utm_campaign=1049&utm_source=git)** | USA - MA - Chelmsford | On Site | Feb 17 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/67b3e0f72fa43d44d09bf430?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Feb 17 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/67b3d59ff1a09047ac6d13b6?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Feb 17 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Fanatics Collectibles Summer 2025 Pre-Press Intern](https://jobright.ai/jobs/info/67b3cd0512bf9c60d0502b09?utm_campaign=1049&utm_source=git)** | Miramar, FL | On Site | Feb 17 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Innovation Intern](https://jobright.ai/jobs/info/67b3d410447c75b24ed48a0b?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 17 |
-| **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/67abe4edfe93e40b6c1c21d7?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Feb 17 |
-| **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/67b3bf79b267ffebed32a07c?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Feb 17 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Graphic Design Internship (IT Intern 3)](https://jobright.ai/jobs/info/67b3cd0512bf9c60d0502b33?utm_campaign=1049&utm_source=git)** | Fairfax, VA | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
