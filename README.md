@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SET ACTIVE](https://setactive.co)** | **[Creative Intern](https://jobright.ai/jobs/info/67bb8f04275eb8245377a714?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 23 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Services Student Assistant](https://jobright.ai/jobs/info/67bb52910cff28dbee199d47?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Feb 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WTVD ABC11 Marketing/Creative Intern, Summer 2025](https://jobright.ai/jobs/info/67bb4b8fb4abf9b7c9869be7?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Feb 23 |
 | **[Boncom](https://www.boncom.com/)** | **[2025 Advertising Agency Art Director Intern](https://jobright.ai/jobs/info/67bb150c188ffb42f663887e?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 23 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Allegion](https://www.allegion.com)** | **[Industrial Design Co-op](https://jobright.ai/jobs/info/67b646034957885d1c9872ac?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Feb 21 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[UX Design Internship](https://jobright.ai/jobs/info/67b98fdcc69e2a4bd33baca0?utm_campaign=1049&utm_source=git)** | Arden Hills, MN | On Site | Feb 21 |
 | **[Garver](https://garverusa.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6717cd3a5bffda7c997bfb49?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Feb 21 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce605?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Feb 21 |
-| ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/67b945418f70c73ca83cf0f6?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 21 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/67b945418f70c73ca83cf0f6?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 21 |
+| ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce605?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Feb 21 |
 | ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce62e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 21 |
 | **[Pluto TV](http://www.pluto.tv)** | **[Jr. Product Designer Intern, Pluto TV (Summer 2025 Remote or Hybrid NYC / LA)](https://jobright.ai/jobs/info/67b939bd53e36e95d3a4c231?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Character Technical Art Intern](https://jobright.ai/jobs/info/67b9265c25af46a282daa4e6?utm_campaign=1049&utm_source=git)** | Onsite - Bellevue, WA | On Site | Feb 21 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design (Summer)](https://jobright.ai/jobs/info/67b91483157223c924a846a4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 21 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Technical Art Intern](https://jobright.ai/jobs/info/67b90bb6462845fc17bf8013?utm_campaign=1049&utm_source=git)** | Onsite - Bellevue, WA | On Site | Feb 21 |
 | ↳ | **[External Art Intern  ](https://jobright.ai/jobs/info/67b90bb6462845fc17bf8005?utm_campaign=1049&utm_source=git)** | Onsite - Bellevue, WA | On Site | Feb 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Graphic Design Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b8ff76fab35b3d0f4bccff?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Feb 21 |
-| ↳ | **[Character Art Intern, Summer/Fall, 2025](https://jobright.ai/jobs/info/67b8ff76fab35b3d0f4bccfc?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 21 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Character Art Intern, Summer/Fall, 2025](https://jobright.ai/jobs/info/67b8ff76fab35b3d0f4bccfc?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 21 |
+| ↳ | **[Graphic Design Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b8ff76fab35b3d0f4bccff?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Feb 21 |
 | ↳ | **[Disney Live Entertainment Creative Development  & Inclusive Strategy Communication Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b8ff76fab35b3d0f4bcd4c?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Feb 21 |
 | **[Crystal Dynamics](http://crystald.com)** | **[External Art Intern](https://jobright.ai/jobs/info/67b90bb6462845fc17bf8175?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Feb 21 |
 | ↳ | **[Technical Art Intern](https://jobright.ai/jobs/info/67b90bb6462845fc17bf817d?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Feb 21 |
@@ -103,13 +104,12 @@ For a complete list, click the following sortable link below:
 | **[The Johns Hopkins University Applied Physics Laboratory](http://jhuapl.edu/)** | **[2025 Internship - Graphic Design](https://jobright.ai/jobs/info/67b9ab05a48b4bcbbd5959d4?utm_campaign=1049&utm_source=git)** | Laurel, MD | On Site | Feb 21 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Design Intern - Summer 2025 (GARNER, North Carolina, United States, 27529)](https://jobright.ai/jobs/info/67b8f204da85d01212092a72?utm_campaign=1049&utm_source=git)** | Garner, NC | On Site | Feb 21 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/67b8e890894454ce6065b504?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Feb 21 |
-| **[eXp Realty](http://www.ChadPopulis.com)** | **[Graphic Designer Internship](https://jobright.ai/jobs/info/67b8e890894454ce6065b62d?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | Hybrid | Feb 21 |
 | **[Intuit](https://www.intuit.com)** | **[Product Design Intern - VEP - Digital Help / Intuit Assist](https://jobright.ai/jobs/info/67b8e0196b54602b0ed87e44?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Creative Production Services Manager Intern: LA - Summer 2025](https://jobright.ai/jobs/info/679c3911c4fea47eabb8c4a2?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Feb 21 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/67b8ce204bcfe65d6cd99b5b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 21 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Intern - Architectural Design](https://jobright.ai/jobs/info/67b8e890894454ce6065b9d4?utm_campaign=1049&utm_source=git)** | Lebanon, NJ | Hybrid | Feb 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment Visual Effects Design Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b8ca9560bbe30d2be1878e?utm_campaign=1049&utm_source=git)** | Orlando, FL, USA | On Site | Feb 21 |
-| ↳ | **[Disney Live Entertainment-Disney Signature Experiences Technical Design Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b8ca9560bbe30d2be187c9?utm_campaign=1049&utm_source=git)** | Celebration, FL, USA | On Site | Feb 21 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment-Disney Signature Experiences Technical Design Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b8ca9560bbe30d2be187c9?utm_campaign=1049&utm_source=git)** | Celebration, FL, USA | On Site | Feb 21 |
+| ↳ | **[Disney Live Entertainment Visual Effects Design Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b8ca9560bbe30d2be1878e?utm_campaign=1049&utm_source=git)** | Orlando, FL, USA | On Site | Feb 21 |
 | ↳ | **[Disney Live Entertainment Lighting Design Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b8ca9560bbe30d2be18755?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 21 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2025: CG Artist Intern](https://jobright.ai/jobs/info/67b8c258bebb78df355c9083?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Feb 21 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/67b8d76b008cd5df56055f58?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
@@ -139,18 +139,18 @@ For a complete list, click the following sortable link below:
 | **[nCino, Inc.](http://ncino.com)** | **[Summer 2025 Product Design Intern / Utah](https://jobright.ai/jobs/info/67b7f29c07ea8c8cbb6f2b68?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Feb 20 |
 | **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Internship, Packaging Design and Development](https://jobright.ai/jobs/info/67b945418f70c73ca83ceda3?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 20 |
 | **[Evans](http://www.evansonline.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/67b7f90aebe0b965317a352d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
-| **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/67b7ea70033a2799237987a4?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Feb 20 |
+| **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/67b7ea70033a2799237987a3?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Feb 20 |
 | **[NRG Energy](http://www.nrg.com/)** | **[UX Intern](https://jobright.ai/jobs/info/67b7f150952490b3f8130c83?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Feb 20 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2025](https://jobright.ai/jobs/info/67b8082566865c2c9a62f92f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 20 |
 | **[Chico's FAS, Inc.](http://www.chicos.com)** | **[Intern, Design (All Brands)](https://jobright.ai/jobs/info/67b7f90aebe0b965317a3545?utm_campaign=1049&utm_source=git)** | Fort Myers, FL | On Site | Feb 20 |
-| ↳ | **[Intern, CAD Artist (Soma)](https://jobright.ai/jobs/info/67b7f90aebe0b965317a3535?utm_campaign=1049&utm_source=git)** | Fort Myers, FL | On Site | Feb 20 |
 | ↳ | **[Intern, Technical Design (Soma)](https://jobright.ai/jobs/info/67b7f90aebe0b965317a37d7?utm_campaign=1049&utm_source=git)** | Fort Myers, FL | On Site | Feb 20 |
+| ↳ | **[Intern, CAD Artist (Soma)](https://jobright.ai/jobs/info/67b7f90aebe0b965317a3535?utm_campaign=1049&utm_source=git)** | Fort Myers, FL | On Site | Feb 20 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/67b90bb6462845fc17bf8410?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Feb 20 |
 | ↳ | **[Interior Design Student Intern](https://jobright.ai/jobs/info/67b90bb6462845fc17bf841e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Highline Warren](https://highlinewarren.com)** | **[Creative Operations Summer Intern](https://jobright.ai/jobs/info/67b7dfd68ca6ba083dd2d0a3?utm_campaign=1049&utm_source=git)** | Memphis, TN | Hybrid | Feb 20 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/67b7d4cad98ab6ae5ff1913e?utm_campaign=1049&utm_source=git)** | St. Louis, MO | On Site | Feb 20 |
-| ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/67b7d4cad98ab6ae5ff190e9?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/67b7d4cad98ab6ae5ff190c3?utm_campaign=1049&utm_source=git)** | St. Louis, MO | On Site | Feb 20 |
+| ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/67b7d4cad98ab6ae5ff190e9?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern, Workplace / Summer 2025](https://jobright.ai/jobs/info/67aa99626419143aed2426ed?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States | On Site | Feb 20 |
 | ↳ | **[Interior Design Intern, Hospitality ](https://jobright.ai/jobs/info/67923d79b1444cbdde538f53?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States | On Site | Feb 20 |
 | **[KHAITE](https://khaite.com/)** | **[Design Intern, Knitwear](https://jobright.ai/jobs/info/67b7d4cad98ab6ae5ff1915b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 20 |
