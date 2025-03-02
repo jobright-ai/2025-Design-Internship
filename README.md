@@ -70,15 +70,14 @@ For a complete list, click the following sortable link below:
 | **[LOFT](http://anninc.com/)** | **[Intern, Technical Design](https://jobright.ai/jobs/info/679de2f60ada78bacb9a9dbf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67a8456812fa60800ecb9450?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Mar 01 |
 | **[Clarity Partners](http://claritypartners.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/67c31154f9b362d997903c20?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 01 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Horticulture Design (Fall 2025)](https://jobright.ai/jobs/info/67c2f88c707b58f80e74e7b2?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Mar 01 |
 | **[Alo Yoga](https://www.aloyoga.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/67c2a8c26bcf330d4b09209d?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Technical Artist, Vehicle User Interface (Summer 2025)](https://jobright.ai/jobs/info/67c2b14622f4c4ddf5e53ee0?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Feb 28 |
-| **[Addepar](https://addepar.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/67c29fd311c62f6724963277?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 28 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/67c29fd311c62f672496327a?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 28 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/67c29fd311c62f6724963276?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
+| **[Addepar](https://addepar.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/67c29fd311c62f672496327a?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 28 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/67c29fd311c62f6724963277?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 28 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/67c29fd311c62f6724963278?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Feb 28 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/67c29fd311c62f672496327c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 28 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/67c29fd311c62f6724963276?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/67c29fd311c62f672496327b?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 28 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/67c29fd311c62f672496327c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 28 |
 | **[URBN (Urban Outfitters, Anthropologie Group, Free People & Nuuly)](http://urbn.com)** | **[Anthropologie Home - Design Intern](https://jobright.ai/jobs/info/67c2969efae6c7ddb9d388f9?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
 | **[Addepar](https://addepar.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f07d3?utm_campaign=1049&utm_source=git)** | Mountain View, CA | Hybrid | Feb 28 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/67c290a922ca75d52d2f1306?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Intern (Freshman, Sophomore & Junior)](https://jobright.ai/jobs/info/67c16a2f4bcf57d2fc7c1a02?utm_campaign=1049&utm_source=git)** | Menomonie, WI | Hybrid | Feb 27 |
 | ↳ | **[Technical Intern (Freshman, Sophomore & Junior)](https://jobright.ai/jobs/info/67c16a2f4bcf57d2fc7c1a05?utm_campaign=1049&utm_source=git)** | Ashland, WI | Hybrid | Feb 27 |
 | **[VML](https://www.vmlyr.com/)** | **[Intern - Experience Design](https://jobright.ai/jobs/info/67c1849bee3481cacc2bd19c?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Feb 27 |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2025](https://jobright.ai/jobs/info/67a412454adb17d7f7a96411?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
