@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bemus Landscape, Inc.](https://bemus.com/)** | **[2025 Internship Program](https://jobright.ai/jobs/info/67cccc2d5563efe18f041a0d?utm_campaign=1049&utm_source=git)** | San Clemente, CA | On Site | Mar 08 |
-| ↳ | **[2025 Internship Program](https://jobright.ai/jobs/info/67cccc2d5563efe18f041a10?utm_campaign=1049&utm_source=git)** | Riverside, CA | On Site | Mar 08 |
 | ↳ | **[2025 Internship Program](https://jobright.ai/jobs/info/67cccc2d5563efe18f041a11?utm_campaign=1049&utm_source=git)** | Santa Ana, CA | On Site | Mar 08 |
+| ↳ | **[2025 Internship Program](https://jobright.ai/jobs/info/67cccc2d5563efe18f041a10?utm_campaign=1049&utm_source=git)** | Riverside, CA | On Site | Mar 08 |
 | ↳ | **[2025 Internship Program](https://jobright.ai/jobs/info/67ccb7368a479c1b28a5f29e?utm_campaign=1049&utm_source=git)** | San Marcos, CA | On Site | Mar 08 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Architectural Designer - 2025 Summer Internship](https://jobright.ai/jobs/info/67ccb7368a479c1b28a5f2b2?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 08 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Graphic Design Team Member - e2i](https://jobright.ai/jobs/info/67ccc8ec7d9b5c45c8b7f0c2?utm_campaign=1049&utm_source=git)** | Orem, UT | On Site | Mar 08 |
@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[MERGE](http://www.mergeworld.com/)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/67cb5baf5d60346486c5e3bc?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 07 |
 | ↳ | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/67cb6cd344f1b2350ca048f4?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 07 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/67cb6cd344f1b2350ca0493a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 07 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Corporate Creative Resources UX Design Intern, Summer 2025](https://jobright.ai/jobs/info/67cb471ba24f55b253945f0e?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Mar 07 |
-| ↳ | **[Disney Corporate Creative Resources  Digital Production Intern, Summer 2025](https://jobright.ai/jobs/info/67cb471ba24f55b253945f2b?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Mar 07 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Corporate Creative Resources  Digital Production Intern, Summer 2025](https://jobright.ai/jobs/info/67cb471ba24f55b253945f2b?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Mar 07 |
+| ↳ | **[Disney Corporate Creative Resources UX Design Intern, Summer 2025](https://jobright.ai/jobs/info/67cb471ba24f55b253945f0e?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Mar 07 |
 | ↳ | **[D23 Digital Production Intern, Summer 2025](https://jobright.ai/jobs/info/67cb471ba24f55b253945f2e?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Mar 07 |
 | **[IMAX](http://www.imax.com)** | **[Intern, UX Design & Digital Marketing](https://jobright.ai/jobs/info/67c64fbd98c6130294f4d1d4?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
 | **[Electrify America](https://www.electrifyamerica.com)** | **[Intern - Graphic Design Marketing](https://jobright.ai/jobs/info/67cb537f254f97f16e477904?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Mar 07 |
