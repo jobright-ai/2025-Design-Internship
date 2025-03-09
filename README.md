@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Dolls Kill](http://dollskill.com)** | **[Non-Apparel Product Design Intern (Bay Area)](https://jobright.ai/jobs/info/6705ccf67dc1b592f137820d?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Mar 09 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/67cd72c49c57469b6f7471ae?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Mar 09 |
 | **[Bemus Landscape, Inc.](https://bemus.com/)** | **[2025 Internship Program](https://jobright.ai/jobs/info/67cccc2d5563efe18f041a0d?utm_campaign=1049&utm_source=git)** | San Clemente, CA | On Site | Mar 08 |
 | ↳ | **[2025 Internship Program](https://jobright.ai/jobs/info/67cccc2d5563efe18f041a10?utm_campaign=1049&utm_source=git)** | Riverside, CA | On Site | Mar 08 |
 | ↳ | **[2025 Internship Program](https://jobright.ai/jobs/info/67cccc2d5563efe18f041a11?utm_campaign=1049&utm_source=git)** | Santa Ana, CA | On Site | Mar 08 |
@@ -144,17 +145,16 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/67ca6b65474d7b47602baa84?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Mar 06 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/67ca6b65474d7b47602bac0c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Landscape Architecture Internship - Summer 2025](https://jobright.ai/jobs/info/67ca6ae6bf3449f60e1bd22b?utm_campaign=1049&utm_source=git)** | Gainesville, VA | On Site | Mar 06 |
-| **[Columbia College](https://www.ccis.edu/admissions/visit/summer-camps/girls-who-game)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67cb9eb5faa575407403fb59?utm_campaign=1049&utm_source=git)** | Columbia, MO | Hybrid | Mar 06 |
+| **[Columbia College](http://www.ccis.edu/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67cb9eb5faa575407403fb59?utm_campaign=1049&utm_source=git)** | Columbia, MO | Hybrid | Mar 06 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Web Production Intern](https://jobright.ai/jobs/info/67abecd187795a764d3c143c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 06 |
 | **[Mattel, Inc.](http://www.mattel.com)** | **[IPS Product Design (Little People) Intern - Summer 2025](https://jobright.ai/jobs/info/67ca52375dc203c4065cacea?utm_campaign=1049&utm_source=git)** | East Aurora, NY | Hybrid | Mar 06 |
 | **[The h.wood Group](https://hwoodgroup.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/67cb9eb5faa575407403fbab?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Mar 06 |
-| **[ServiceNow](http://www.servicenow.com)** | **[UX Researcher - Emerging Talent Intern (July 2025 - December 2025)](https://jobright.ai/jobs/info/67ca3f7c0e1d8d409868b8aa?utm_campaign=1049&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Mar 06 |
-| ↳ | **[Product Designer - Emerging Talent Intern (July 2025 - December 2025)](https://jobright.ai/jobs/info/67ca3f7c0e1d8d409868b884?utm_campaign=1049&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Mar 06 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Product Designer - Emerging Talent Intern (July 2025 - December 2025)](https://jobright.ai/jobs/info/67ca3f7c0e1d8d409868b884?utm_campaign=1049&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Mar 06 |
+| ↳ | **[UX Researcher - Emerging Talent Intern (July 2025 - December 2025)](https://jobright.ai/jobs/info/67ca3f7c0e1d8d409868b8aa?utm_campaign=1049&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Mar 06 |
 | **[Haworth](http://www.haworth.com/)** | **[Marketing Graphics & Content Intern - Dallas, TX](https://jobright.ai/jobs/info/67ca51d6c92c5898cb455ad1?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 06 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern I](https://jobright.ai/jobs/info/67ca51d6c92c5898cb455ce8?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 06 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/67ca4784f396a0b1481b9eb8?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Mar 06 |
 | **[Industrial Light & Magic](http://ilm.com/)** | **[Industrial Light & Magic Modeling Artist Intern, Summer 2025](https://jobright.ai/jobs/info/67ca40c9f4acae9f8e9f2f66?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 06 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/67ca40c9f4acae9f8e9f2f9f?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Mar 06 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Summer Intern - UX Designer](https://jobright.ai/jobs/info/67ca4b3862f14936fc4aa3f6?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 06 |
-| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship Summer Program- Graphic Design](https://jobright.ai/jobs/info/67ca356611846c08f54bddd3?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
