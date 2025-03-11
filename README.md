@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sonatus](https://sonatus.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/67d02be7c3bf8ad6efa134bf?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Mar 11 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/67d010f254b18a3229e66bff?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Mar 11 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney’s Corporate Creative Resources Graphic Design Intern, Summer 2025](https://jobright.ai/jobs/info/67d007d5871a6e90e5f01ac7?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Mar 11 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (Summer 2025)](https://jobright.ai/jobs/info/67cffddcb305ac61d4d84595?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Mar 11 |
-| **[Sonatus](https://sonatus.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/67cfdeda86f4ba4d8deb9103?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Mar 10 |
+| **[SGNL](https://sgnl.ai/)** | **[Product Design Intern (Summer 2025)](https://jobright.ai/jobs/info/67d001c7dc3e30d9ccbe4558?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Remote | Mar 11 |
 | **[Clear Channel Outdoor](http://clearchanneloutdoor.com)** | **[Marketing & Creative Intern](https://jobright.ai/jobs/info/67cfb92ec34ff396d0d8a894?utm_campaign=1049&utm_source=git)** | Allentown, PA | On Site | Mar 10 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Architectural Intern - Summer 2025](https://jobright.ai/jobs/info/67cfc601b378ff0b65ca1ea7?utm_campaign=1049&utm_source=git)** | Alexandria, VA | Hybrid | Mar 10 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[User Experience Research Internship - 2025 Summer Experience](https://jobright.ai/jobs/info/67cfa17ec47323d4321aa835?utm_campaign=1049&utm_source=git)** | Jersey City, NJ, United States | Hybrid | Mar 10 |
@@ -127,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Brooks Running](http://www.brooksrunning.com)** | **[Run Perception Graduate Internship, Run Research Team - Summer 2025](https://jobright.ai/jobs/info/67b00f680501151b27348d38?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Architectural Designer - 2025 Summer Internship](https://jobright.ai/jobs/info/67ccb7368a479c1b28a5f2b2?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 08 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Graphic Design Team Member - e2i](https://jobright.ai/jobs/info/67ccc8ec7d9b5c45c8b7f0c2?utm_campaign=1049&utm_source=git)** | Orem, UT | On Site | Mar 08 |
+| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Internal Communications Creative Intern / Acushnet Company](https://jobright.ai/jobs/info/67cbc514ed529997906bc1da?utm_campaign=1049&utm_source=git)** | Fairhaven, MA | Hybrid | Mar 08 |
 | **[HP](http://www.hp.com)** | **[Personal Systems UX Design & Human Factors Internship](https://jobright.ai/jobs/info/67c5326294ebde4771a1ee95?utm_campaign=1049&utm_source=git)** | Fountain Valley, CA | On Site | Mar 08 |
 | **[Leo Burnett](https://www.leoburnett.com.au/)** | **[2025 Leo Burnett Summer Internship- Creative](https://jobright.ai/jobs/info/67afd01aa5847141837c89b2?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 08 |
 | **[dentsu](https://www.dentsu.com)** | **[Design Summer Internship (Paid)](https://jobright.ai/jobs/info/67af84e299525c19c98f2de0?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 08 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[IMAX](http://www.imax.com)** | **[Intern, Design](https://jobright.ai/jobs/info/67c64893386704b3cd862fdf?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
 | **[International Paper](http://www.internationalpaper.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6792b1e99b57d4bb6471881e?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Mar 07 |
 | **[ITS](http://www.its.aero)** | **[Architectural Designer / Intern Architect / Architect](https://jobright.ai/jobs/info/67cbdd1e79cd773a48b4d8f1?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Mar 07 |
-| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Internal Communications Creative Intern](https://jobright.ai/jobs/info/67cbc514ed529997906bc1da?utm_campaign=1049&utm_source=git)** | Fairhaven, MA | Hybrid | Mar 07 |
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Media Asset Management](https://jobright.ai/jobs/info/67cbad50cd566c774fe3d6d0?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Mar 07 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/67cb8ea993d3d48e99581f7c?utm_campaign=1049&utm_source=git)** | Washington - Pullman | On Site | Mar 07 |
 | **[Dialpad](https://www.dialpad.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/67cb9eb5faa575407403f8e5?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Mar 07 |
-| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Visual Designer/3D Render Artist](https://jobright.ai/jobs/info/67cb9eb5faa575407403f975?utm_campaign=1049&utm_source=git)** | Framingham, MA | On Site | Mar 07 |
-| **[Common Sense Media](http://graphite.org/)** | **[Brand Design Intern](https://jobright.ai/jobs/info/67aeda51fdb19253fc0f76a8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 07 |
-| **[Munchkin](http://www.munchkin.com)** | **[Industrial Design Intern (Summer 2025)](https://jobright.ai/jobs/info/67cb867d849161df4c4fd30b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
