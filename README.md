@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[vineyard vines](http://www.vineyardvines.com)** | **[Summer 2025 Internship - Graphic Design](https://jobright.ai/jobs/info/67db7cc0ddd72c6778cf1b05?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Mar 19 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Creative Content Intern, MPG - Summer 2025](https://jobright.ai/jobs/info/67db6ac93b3dfe8dfeb40f11?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Mar 19 |
+| **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/67db74600d798a95a4c056c6?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Mar 19 |
+| ↳ | **[Industrial Design Intern](https://jobright.ai/jobs/info/67db773be3b4bec5793aee3d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 19 |
+| **[Komatsu](http://www.ehrbar.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67db638ff2091c05391a4d7e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 19 |
+| **[Actian](http://www.actian.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/67db69c6ad550d688703ec6d?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 19 |
 | **[iRobot](https://www.irobot.com)** | **[Product Design/Illustration Intern (Summer 2025)](https://jobright.ai/jobs/info/67db521dc9abf078c01db955?utm_campaign=1049&utm_source=git)** | Bedford, MA | Hybrid | Mar 19 |
 | **[TEAM](http://www.weareteam.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/67db5df2e9d9089b5582c319?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 19 |
 | **[ODK Media](https://www.odkmedia.net/)** | **[Visual and Graphic Design Intern (Unpaid)](https://jobright.ai/jobs/info/67db54f3c39337369d12d242?utm_campaign=1049&utm_source=git)** | Fullerton, CA | On Site | Mar 19 |
@@ -90,13 +96,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photography Internship - Summer 2025](https://jobright.ai/jobs/info/67dae2b93ce69dc12f8031a4?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 19 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/664e491de2794cc911da59d7?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Mar 19 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Art Intern](https://jobright.ai/jobs/info/67be17fbcc090b67517b818c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
+| **[Monigle](https://www.monigle.com)** | **[Intern, Client Experience](https://jobright.ai/jobs/info/67be30fca3b8c007dfd0a71a?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 19 |
 | **[Leidos](https://www.leidos.com/)** | **[User Experience (UX) Intern](https://jobright.ai/jobs/info/67daa29d320e4fda64ba94fb?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Mar 19 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789f03c3d32ccd27895fb0b?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 19 |
 | ↳ | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3263?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 19 |
 | ↳ | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/67c63a8b1e26ba00cca4a54c?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Mar 19 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2025](https://jobright.ai/jobs/info/67a17821ccbef5667d448676?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 19 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/67b5024ae8b5c7367fafce45?utm_campaign=1049&utm_source=git)** | Broomfield, CO | On Site | Mar 19 |
-| ↳ | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d2cba9e2b25e9ff0d472?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Mar 19 |
+| ↳ | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0c992?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Mar 19 |
 | ↳ | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d2cba9e2b25e9ff0d471?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 19 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Architectural Intern - Summer 2025](https://jobright.ai/jobs/info/67da3cd5ef87d6768631ded7?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Mar 18 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[College Student -Creative Communications - Animation](https://jobright.ai/jobs/info/67da415b21a1a49a6017d8c0?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 18 |
@@ -108,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[tastylive](https://www.tastylive.com)** | **[Junior Graphics Assistant Intern](https://jobright.ai/jobs/info/67da255e2250eda994c383f8?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 18 |
 | **[UKG](https://www.ukg.com)** | **[Graphic Design Internship - Summer 2025](https://jobright.ai/jobs/info/67da10f67b68c8a41cb5ce47?utm_campaign=1049&utm_source=git)** | Lowell, MA | Remote | Mar 18 |
 | ↳ | **[Graphic Design Internship - Summer 2025](https://jobright.ai/jobs/info/67da10f67b68c8a41cb5ce48?utm_campaign=1049&utm_source=git)** | Weston, FL | Remote | Mar 18 |
-| **[Dolls Kill](http://dollskill.com)** | **[Apparel Design Intern (SF Bay Area)](https://jobright.ai/jobs/info/67da020f2f2f75f813a350dc?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Mar 18 |
+| **[Dolls Kill](http://dollskill.com)** | **[Apparel Design Intern (SF Bay Area)](https://jobright.ai/jobs/info/67da10f67b68c8a41cb5ccab?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Mar 18 |
 | **[Abilene Christian University](http://www.acu.edu/)** | **[Web Content Editor - Student Employee](https://jobright.ai/jobs/info/67da132965ccd0761397aacf?utm_campaign=1049&utm_source=git)** | Abilene, TX | Hybrid | Mar 18 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Intern, Graphic Design (49598)](https://jobright.ai/jobs/info/67da04be7df6b0eede9ba481?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 18 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Biology Student Illustrator](https://jobright.ai/jobs/info/67da10f67b68c8a41cb5ccfb?utm_campaign=1049&utm_source=git)** | Riverside, CA | On Site | Mar 18 |
@@ -117,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Green Bay Packers](http://www.packers.com/)** | **[Communications Photography Intern](https://jobright.ai/jobs/info/67d9fd0fb5d76c452c27d46a?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Mar 18 |
 | **[JCPenney](http://jcp.com)** | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352a96?utm_campaign=1049&utm_source=git)** | Chandler, AZ | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b31?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Mar 18 |
+| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b49?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b4c?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b55?utm_campaign=1049&utm_source=git)** | Holyoke, MA | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b5c?utm_campaign=1049&utm_source=git)** | Coral Springs, FL | On Site | Mar 18 |
@@ -124,37 +132,29 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b63?utm_campaign=1049&utm_source=git)** | Flagstaff, AZ | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b66?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b6c?utm_campaign=1049&utm_source=git)** | Fargo, ND | On Site | Mar 18 |
-| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b71?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b6e?utm_campaign=1049&utm_source=git)** | Rochester, MN | On Site | Mar 18 |
+| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b71?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b76?utm_campaign=1049&utm_source=git)** | Tyler, TX | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b77?utm_campaign=1049&utm_source=git)** | Harlingen, TX | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b7e?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b8a?utm_campaign=1049&utm_source=git)** | Orange Park, FL | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b8e?utm_campaign=1049&utm_source=git)** | Kelso, WA | On Site | Mar 18 |
-| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b8f?utm_campaign=1049&utm_source=git)** | Port Charlotte, FL | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b8c?utm_campaign=1049&utm_source=git)** | Toms River, NJ | On Site | Mar 18 |
+| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b8f?utm_campaign=1049&utm_source=git)** | Port Charlotte, FL | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b8d?utm_campaign=1049&utm_source=git)** | Whitehall, PA | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b95?utm_campaign=1049&utm_source=git)** | Fort Smith, AR | On Site | Mar 18 |
+| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b9c?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352b9d?utm_campaign=1049&utm_source=git)** | Clearwater, FL | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352ba5?utm_campaign=1049&utm_source=git)** | Brownsville, TX | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bab?utm_campaign=1049&utm_source=git)** | Staten Island, NY | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bb2?utm_campaign=1049&utm_source=git)** | Lithonia, GA | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bbe?utm_campaign=1049&utm_source=git)** | Puyallup, WA | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bc6?utm_campaign=1049&utm_source=git)** | La Crosse, WI | On Site | Mar 18 |
-| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bcb?utm_campaign=1049&utm_source=git)** | Fresno, CA | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bc8?utm_campaign=1049&utm_source=git)** | Saginaw, MI | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bc9?utm_campaign=1049&utm_source=git)** | Cherry Hill, NJ | On Site | Mar 18 |
+| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bcb?utm_campaign=1049&utm_source=git)** | Fresno, CA | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bcc?utm_campaign=1049&utm_source=git)** | Metairie, LA | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bce?utm_campaign=1049&utm_source=git)** | Eau Claire, WI | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bd5?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Mar 18 |
 | ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bd7?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Mar 18 |
-| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352be2?utm_campaign=1049&utm_source=git)** | Ames, IA | On Site | Mar 18 |
-| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352be8?utm_campaign=1049&utm_source=git)** | Duluth, MN | On Site | Mar 18 |
-| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bf1?utm_campaign=1049&utm_source=git)** | Bismarck, ND | On Site | Mar 18 |
-| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bf9?utm_campaign=1049&utm_source=git)** | Weslaco, TX | On Site | Mar 18 |
-| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bfd?utm_campaign=1049&utm_source=git)** | Altoona, PA | On Site | Mar 18 |
-| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352bff?utm_campaign=1049&utm_source=git)** | Goodyear, AZ | On Site | Mar 18 |
-| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352c06?utm_campaign=1049&utm_source=git)** | Farmington, CT | On Site | Mar 18 |
-| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352c0f?utm_campaign=1049&utm_source=git)** | Coralville, IA | On Site | Mar 18 |
-| ↳ | **[Designer in Training](https://jobright.ai/jobs/info/67da316d632622c624352c11?utm_campaign=1049&utm_source=git)** | Frederick, MD | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
