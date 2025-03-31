@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Popmenu](https://get.popmenu.com)** | **[Web Design- Summer Internship](https://jobright.ai/jobs/info/67e9d7fa86668037910f275b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Mar 30 |
 | **[Verkada](https://www.verkada.com)** | **[3D Visualization Design Intern ](https://jobright.ai/jobs/info/67e9ac7970f3d3bac62034d4?utm_campaign=1049&utm_source=git)** | San Mateo, CA United States | On Site | Mar 30 |
+| **[Woolpert](http://www.woolpert.com)** | **[Architectural Intern Summer 2025](https://jobright.ai/jobs/info/67ae500f35b6d5529c0dedb4?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Mar 30 |
 | **[Leo Burnett](https://leoburnett.com)** | **[2025 Leo Burnett Summer Internship- Creative](https://jobright.ai/jobs/info/67e935925232406963b244ff?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/67af9c07292968382147fc0a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 30 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/67e916625340d33d0ac292e7?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Mar 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Research Intern / Summer 2025](https://jobright.ai/jobs/info/67e57ab378cd7ba4d7ee7add?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Mar 27 |
 | **[Mullins Mechanical](https://www.mullins-mechanical.com)** | **[Media Designer Intern](https://jobright.ai/jobs/info/67e58ef6794ae47af9c66810?utm_campaign=1049&utm_source=git)** | Carrollton, GA | On Site | Mar 27 |
 | **[AFL](http://www.AFLglobal.com)** | **[Graphic Design Intern - Summer 2025](https://jobright.ai/jobs/info/67ad88dce49033116f8471d2?utm_campaign=1049&utm_source=git)** | Duncan, SC | On Site | Mar 27 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/67e562d8b8351f3ff580a589?utm_campaign=1049&utm_source=git)** | New York | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
