@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chico's FAS, Inc.](http://www.chicos.com)** | **[Intern, CAD Artist (Soma)](https://jobright.ai/jobs/info/67f11bc9e9e506649e10505b?utm_campaign=1049&utm_source=git)** | Fort Myers, FL | On Site | Apr 05 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern - 3D Production](https://jobright.ai/jobs/info/67f0de6cedbd321758042d2f?utm_campaign=1049&utm_source=git)** | El Segundo, California | On Site | Apr 04 |
 | **[Saatchi & Saatchi (We Are Saatchi)](https://www.wearesaatchi.com/)** | **[Intern - 3D Production](https://jobright.ai/jobs/info/67f0bea51815b408de353696?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Apr 04 |
 | **[Skydance Animation](https://skydance.com/animation/#-)** | **[Visual Development Apprentice](https://jobright.ai/jobs/info/67f0ac76015cd57062ce69ff?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Apr 04 |
@@ -73,15 +74,15 @@ For a complete list, click the following sortable link below:
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/67f04ad8e992d68e6524c1a3?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Apr 04 |
 | **[HOK](http://www.hok.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/67f0531c6abcbbdab9e1dee3?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 04 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Web/UX Design College Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524baa8?utm_campaign=1049&utm_source=git)** | Santa Rosa, California | On Site | Apr 04 |
-| **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524babf?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
+| **[Tombras](http://tombras.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524baa0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
+| ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524babf?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[Pike Engineering](https://pikeengineering.com)** | **[Student Intern (Designer 1)](https://jobright.ai/jobs/info/67f0406c2f389ebb3f321949?utm_campaign=1049&utm_source=git)** | 2000 TECHNOLOGY DRIVE, 3RD FLOOR, Pittsburgh, PA, 15219, US | On Site | Apr 04 |
 | **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bd8e?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
-| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bdd5?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bdd6?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[Medica](https://www.medica.com)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524be18?utm_campaign=1049&utm_source=git)** | Hopkins, MN | On Site | Apr 04 |
 | ↳ | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/67f04ad8e992d68e6524c579?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Photography Intern (Buffalo Sabres & Buffalo Bandits)](https://jobright.ai/jobs/info/67f03ed21ad4e104601a2ed9?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Apr 04 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/67f040db1ad4e104601a3772?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 04 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/67f03ed21ad4e104601a30ba?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 04 |
 | **[Arcadis](http://www.arcadis.com)** | **[Internship Architecture](https://jobright.ai/jobs/info/67f029e688fc7e3c4175e02f?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Apr 04 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67f02bce88fc7e3c4175e640?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Apr 04 |
 | **[LCS](https://www.lcsnet.com/)** | **[Architectural Design Internship - 2025](https://jobright.ai/jobs/info/67f02030330e4ca458eb3c9f?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Apr 04 |
@@ -90,12 +91,13 @@ For a complete list, click the following sortable link below:
 | **[Ripple](http://ripple.com)** | **[Design Intern (Summer 2025)](https://jobright.ai/jobs/info/67efef0c887f340f1f8bc119?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/6705bcfc3fd115098140f4ed?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[G2](https://www.g2.com)** | **[Product Experience Design Intern](https://jobright.ai/jobs/info/67d358a2d62724735d9966be?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
+| **[NRG Energy](http://www.nrg.com/)** | **[UX Intern](https://jobright.ai/jobs/info/67b7f150952490b3f8130c83?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Apr 04 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/67d3bbe2055ee3c2bbe103af?utm_campaign=1049&utm_source=git)** | Lake Forest, CA | On Site | Apr 04 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Art Director Intern](https://jobright.ai/jobs/info/67efbed50e78192fef0d1362?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
+| **[Lasko Products](https://www.lasko.com/)** | **[Industrial Design Summer Internship](https://jobright.ai/jobs/info/67b4dd277d0663fc75137ab9?utm_campaign=1049&utm_source=git)** | West Chester, PA | On Site | Apr 04 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Product Design Intern](https://jobright.ai/jobs/info/67f0bea51815b408de353a9a?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | Apr 04 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Architectural Internship - Tacoma](https://jobright.ai/jobs/info/67ef9d07f1ebff023755b01b?utm_campaign=1049&utm_source=git)** | Tacoma, WA | Hybrid | Apr 04 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Digital Designer Intern](https://jobright.ai/jobs/info/67f03ed21ad4e104601a32f3?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | Apr 04 |
-| **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/67f0e3f339cfe314c7d98e35?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Apr 03 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Landscape Maintenance Internship](https://jobright.ai/jobs/info/67f0ca80cec7b97db7d9c916?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Apr 03 |
 | ↳ | **[Landscape Maintenance Internship](https://jobright.ai/jobs/info/67f0ca80cec7b97db7d9c918?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Apr 03 |
 | ↳ | **[Landscape Maintenance Internship](https://jobright.ai/jobs/info/67f0ca80cec7b97db7d9c920?utm_campaign=1049&utm_source=git)** | Manassas, VA | On Site | Apr 03 |
@@ -115,16 +117,16 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[CECS Graphic Designer (Student Temporary)](https://jobright.ai/jobs/info/67f0c0b21815b408de354189?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Apr 03 |
 | **[Farnsworth Group, Inc.](http://f-w.com)** | **[Architectural Intern - Summer 2025](https://jobright.ai/jobs/info/67ef50b7c51bb5bdf22d0d46?utm_campaign=1049&utm_source=git)** | Champaign, IL | Hybrid | Apr 03 |
 | **[iFIT](http://www.ifit.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/67e311e39799481f5c2d27f4?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Primerica](https://www.primerica.com)** | **[UX Analyst Intern](https://jobright.ai/jobs/info/67ef24e1112cbfac276199df?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Apr 03 |
 | **[Promenade Group](https://getpromenade.com)** | **[Floral Design Assistant Trainee](https://jobright.ai/jobs/info/67ef25adc343c6e79581b7cf?utm_campaign=1049&utm_source=git)** | Kailua, HI | On Site | Apr 03 |
 | **[University of Michigan](https://www.umich.edu)** | **[CECS Graphic Designer (Student Temporary)](https://jobright.ai/jobs/info/67ef25adc343c6e79581b9c2?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Apr 03 |
 | **[POWER Engineers](http://www.powereng.com)** | **[Visual Resource Intern](https://jobright.ai/jobs/info/67afbd1fc9e7043f19ac88ef?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Apr 03 |
 | **[Two Barrels LLC](https://www.twobarrels.com/)** | **[Graphic Designer Internship](https://jobright.ai/jobs/info/67ef1bda67c5bb19c72d97bc?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Apr 03 |
+| **[Primerica](https://www.primerica.com)** | **[UX Analyst Intern](https://jobright.ai/jobs/info/67eeff85f396115fdde81ded?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Apr 03 |
 | **[Operation Smile](http://www.operationsmile.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67ef2fe4e0b9b5b9f804fb54?utm_campaign=1049&utm_source=git)** | Virginia, United States | Remote | Apr 03 |
 | **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Summer Internships: Creative Departments](https://jobright.ai/jobs/info/67b4d96b62fbf0daee9b2a57?utm_campaign=1049&utm_source=git)** | Trenton, NJ | On Site | Apr 03 |
 | **[F.H. Paschen](http://fhpaschen.com)** | **[Graphic Design & Communications Intern - Summer 2025](https://jobright.ai/jobs/info/67eef3b02998919d2fdafe2c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[MERGE](http://www.mergeworld.com/)** | **[Creative Intern - Art](https://jobright.ai/jobs/info/67eef5a22998919d2fdb0427?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Apr 03 |
-| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Summer Intern, Lash Category](https://jobright.ai/jobs/info/67eef3b02998919d2fdafee0?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Apr 03 |
+| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Summer Intern, Lash Category](https://jobright.ai/jobs/info/67eef5a22998919d2fdb0630?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Apr 03 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/67eef5a22998919d2fdb0462?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Apr 03 |
 | **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/67e614e5597918f59e166a44?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Apr 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/67ef181f6d8f5fd201bfc915?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 03 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Gordon Brothers](http://gordonbrothers.com)** | **[Northeastern Graphic Design Marketing Coop](https://jobright.ai/jobs/info/67ef5d35615aaa2dfdf7f3af?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 03 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Digital Asset and Administrative Intern](https://jobright.ai/jobs/info/67c8facd62db9802bfc27003?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Art Intern](https://jobright.ai/jobs/info/67eedf657ff7179d40475150?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
-| **[Glydways](https://www.glydways.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f138?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 03 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Apr 03 |
 | **[SupplyOne, Inc.](http://www.supplyone.com)** | **[Design Internship](https://jobright.ai/jobs/info/67eeb73931ee51a1d0900a0b?utm_campaign=1049&utm_source=git)** | Greater Tucson Area | On Site | Apr 03 |
 | ↳ | **[Design Internship](https://jobright.ai/jobs/info/67eeb73931ee51a1d0900bcb?utm_campaign=1049&utm_source=git)** | Bay Minette, AL | On Site | Apr 03 |
@@ -140,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Summer Intern, Lash Category](https://jobright.ai/jobs/info/67ee8cf2b81c2f08440096a9?utm_campaign=1049&utm_source=git)** | HQ_Port Washington, NY | On Site | Apr 03 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Design Intern 2025](https://jobright.ai/jobs/info/67a5ab604c67a1a9125fe67b?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Apr 03 |
 | **[Zyscovich](http://zyscovich.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/67ee7cec94508c692c41b553?utm_campaign=1049&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
+| **[SOB's](https://sobs.com)** | **[Summer 2025 Internships (Marketing, Booking, Graphic Design)](https://jobright.ai/jobs/info/67edd3a99a492362f8a37386?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Education Science and Community Intern](https://jobright.ai/jobs/info/67e7a32b8d3edf2fdd445a49?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[Allstate](http://www.allstate.com)** | **[Marketing Customer Experience UX Design Apprentice](https://jobright.ai/jobs/info/67d20365ed8612ba28555c02?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Uline](http://www.uline.com)** | **[Web Production Design Internship - Summer 2025](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f529?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VML](https://www.vmlyr.com/)** | **[Intern - UI Design](https://jobright.ai/jobs/info/67ee58ecb4dd13b72b1a00d6?utm_campaign=1049&utm_source=git)** | Kansas City, KS | Hybrid | Apr 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Visual Communications Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ee38399409013d14b3922a?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Apr 03 |
 | **[NV5](http://www.nv5.com)** | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/67ee2ea60f195a0791b8a712?utm_campaign=1049&utm_source=git)** | Alachua, FL | On Site | Apr 02 |
-| **[AminoChain](https://aminochain.io)** | **[User Research Intern](https://jobright.ai/jobs/info/67ee145e7a31cd038b62c563?utm_campaign=1049&utm_source=git)** | New York County, NY | On Site | Apr 02 |
-| **[Unique Industries](https://www.favors.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/67ef3ac38459ff38f478b701?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
