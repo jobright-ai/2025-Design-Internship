@@ -72,17 +72,19 @@ For a complete list, click the following sortable link below:
 | **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Digital Graphic Design Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca245c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 04 |
 | **[Zyscovich](http://zyscovich.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/67f073e52aba6d83900383d4?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Apr 04 |
 | **[American Public Power Association (APPA)](http://www.publicpower.org)** | **[Integrated Media Intern](https://jobright.ai/jobs/info/67f071ed2aba6d8390037e44?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Apr 04 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Multimedia Design Intern](https://jobright.ai/jobs/info/6798d8dff256be5da760dc54?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 04 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2025 Summer Internship Program: Verve Label Group (Onsite: NY)](https://jobright.ai/jobs/info/67d99aa2f78199aec39f34d6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2025](https://jobright.ai/jobs/info/67997e2ab1daa2ebe81606ec?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | On Site | Apr 04 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/67f04ad8e992d68e6524c1a3?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Apr 04 |
 | **[HOK](http://www.hok.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/67f0531c6abcbbdab9e1dee3?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 04 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Web/UX Design College Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524baa8?utm_campaign=1049&utm_source=git)** | Santa Rosa, California | On Site | Apr 04 |
-| **[Tombras](http://tombras.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524baa0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
+| **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bab2?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524babf?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[Pike Engineering](https://pikeengineering.com)** | **[Student Intern (Designer 1)](https://jobright.ai/jobs/info/67f0406c2f389ebb3f321949?utm_campaign=1049&utm_source=git)** | 2000 TECHNOLOGY DRIVE, 3RD FLOOR, Pittsburgh, PA, 15219, US | On Site | Apr 04 |
-| **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bd8e?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
+| **[Tombras](http://tombras.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bdd5?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bdd6?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
-| **[Medica](https://www.medica.com)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/67f04ad8e992d68e6524c579?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Apr 04 |
-| ↳ | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524be18?utm_campaign=1049&utm_source=git)** | Hopkins, MN | On Site | Apr 04 |
+| **[Medica](https://www.medica.com)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524be18?utm_campaign=1049&utm_source=git)** | Hopkins, MN | On Site | Apr 04 |
+| ↳ | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/67f04ad8e992d68e6524c579?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Photography Intern (Buffalo Sabres & Buffalo Bandits)](https://jobright.ai/jobs/info/67f03ed21ad4e104601a2ed9?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Apr 04 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/67f040db1ad4e104601a3772?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 04 |
 | **[Arcadis](http://www.arcadis.com)** | **[Internship Architecture](https://jobright.ai/jobs/info/67f029e688fc7e3c4175e02f?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Apr 04 |
@@ -130,8 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Global Brand & Creative Intern](https://jobright.ai/jobs/info/67eea4b246e56248ba42ca55?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Apr 03 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Summer Intern, Lash Category](https://jobright.ai/jobs/info/67ee8cf2b81c2f08440096a9?utm_campaign=1049&utm_source=git)** | HQ_Port Washington, NY | On Site | Apr 03 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Design Intern 2025](https://jobright.ai/jobs/info/67a5ab604c67a1a9125fe67b?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Apr 03 |
-| **[Zyscovich](http://zyscovich.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/67ee7cec94508c692c41b553?utm_campaign=1049&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
-| **[SOB's](https://sobs.com)** | **[Summer 2025 Internships (Marketing, Booking, Graphic Design)](https://jobright.ai/jobs/info/67edd3a99a492362f8a37386?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Education Science and Community Intern](https://jobright.ai/jobs/info/67e7a32b8d3edf2fdd445a49?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[Allstate](http://www.allstate.com)** | **[Marketing Customer Experience UX Design Apprentice](https://jobright.ai/jobs/info/67d20365ed8612ba28555c02?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Uline](http://www.uline.com)** | **[Web Production Design Internship - Summer 2025](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f529?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Apr 03 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Web Production Design Internship - Summer 2025](https://jobright.ai/jobs/info/67eecd2c0300c0e253e6fa38?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Apr 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Photopass Photographer Summer Internship - Part Time, $22.00/hour](https://jobright.ai/jobs/info/67ee664194e4834a6d0f3510?utm_campaign=1049&utm_source=git)** | Kapolei, HI | On Site | Apr 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Landscape Architectural Design Intern](https://jobright.ai/jobs/info/67e7a32b8d3edf2fdd445945?utm_campaign=1049&utm_source=git)** | Pennington, NJ | On Site | Apr 03 |
-| **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/67d1f29464280308f672a35c?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | Hybrid | Apr 03 |
-| ↳ | **[Landscape Architect Intern](https://jobright.ai/jobs/info/67d1f29464280308f672a35b?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Apr 03 |
+| **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/67d1f29464280308f672a35b?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Apr 03 |
+| ↳ | **[Landscape Architect Intern](https://jobright.ai/jobs/info/67d1f29464280308f672a35c?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | Hybrid | Apr 03 |
 | ↳ | **[Landscape Architect Intern](https://jobright.ai/jobs/info/67d1f29464280308f672a35a?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Apr 03 |
 | **[VML](https://www.vmlyr.com/)** | **[Intern - UI Design](https://jobright.ai/jobs/info/67ee58ecb4dd13b72b1a00d6?utm_campaign=1049&utm_source=git)** | Kansas City, KS | Hybrid | Apr 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Visual Communications Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ee38399409013d14b3922a?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Apr 03 |
