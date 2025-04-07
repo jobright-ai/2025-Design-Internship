@@ -84,14 +84,14 @@ For a complete list, click the following sortable link below:
 | **[HOK](http://www.hok.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/67f0531c6abcbbdab9e1dee3?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 04 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Web/UX Design College Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524baa8?utm_campaign=1049&utm_source=git)** | Santa Rosa, California | On Site | Apr 04 |
 | **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524babf?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
-| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524baa0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
+| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bab2?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[Pike Engineering](https://pikeengineering.com)** | **[Student Intern (Designer 1)](https://jobright.ai/jobs/info/67f0406c2f389ebb3f321949?utm_campaign=1049&utm_source=git)** | 2000 TECHNOLOGY DRIVE, 3RD FLOOR, Pittsburgh, PA, 15219, US | On Site | Apr 04 |
-| **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bd8e?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
+| **[Tombras](http://tombras.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bdd5?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bdd6?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[Medica](https://www.medica.com)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524be18?utm_campaign=1049&utm_source=git)** | Hopkins, MN | On Site | Apr 04 |
 | ↳ | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/67f04ad8e992d68e6524c579?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Photography Intern (Buffalo Sabres & Buffalo Bandits)](https://jobright.ai/jobs/info/67f03ed21ad4e104601a2ed9?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Apr 04 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/67f040db1ad4e104601a3772?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 04 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/67f03ed21ad4e104601a30ba?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 04 |
 | **[Arcadis](http://www.arcadis.com)** | **[Internship Architecture](https://jobright.ai/jobs/info/67f029e688fc7e3c4175e02f?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Apr 04 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67f02bce88fc7e3c4175e640?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Apr 04 |
 | **[LCS](https://www.lcsnet.com/)** | **[Architectural Design Internship - 2025](https://jobright.ai/jobs/info/67f02030330e4ca458eb3c9f?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Apr 04 |
@@ -125,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Summer Internships: Creative Departments](https://jobright.ai/jobs/info/67b4d96b62fbf0daee9b2a57?utm_campaign=1049&utm_source=git)** | Trenton, NJ | On Site | Apr 03 |
 | **[F.H. Paschen](http://fhpaschen.com)** | **[Graphic Design & Communications Intern - Summer 2025](https://jobright.ai/jobs/info/67eef3b02998919d2fdafe2c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[MERGE](http://www.mergeworld.com/)** | **[Creative Intern - Art](https://jobright.ai/jobs/info/67eef5a22998919d2fdb0427?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Apr 03 |
-| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Summer Intern, Lash Category](https://jobright.ai/jobs/info/67eef3b02998919d2fdafee0?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Apr 03 |
+| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Summer Intern, Lash Category](https://jobright.ai/jobs/info/67eef5a22998919d2fdb0630?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Apr 03 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/67eef5a22998919d2fdb0462?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Apr 03 |
 | **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/67e614e5597918f59e166a44?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Apr 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/67ef181f6d8f5fd201bfc915?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 03 |
@@ -138,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[SupplyOne, Inc.](http://www.supplyone.com)** | **[Design Internship](https://jobright.ai/jobs/info/67eeb73931ee51a1d0900a0b?utm_campaign=1049&utm_source=git)** | Greater Tucson Area | On Site | Apr 03 |
 | ↳ | **[Design Internship](https://jobright.ai/jobs/info/67eeb73931ee51a1d0900bcb?utm_campaign=1049&utm_source=git)** | Bay Minette, AL | On Site | Apr 03 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Global Brand & Creative Intern](https://jobright.ai/jobs/info/67eea4b246e56248ba42ca55?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Apr 03 |
-| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Summer Intern, Lash Category](https://jobright.ai/jobs/info/67ee8cf2b81c2f08440096af?utm_campaign=1049&utm_source=git)** | HQ_Port Washington, NY | On Site | Apr 03 |
+| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Summer Intern, Lash Category](https://jobright.ai/jobs/info/67ee8cf2b81c2f08440096a9?utm_campaign=1049&utm_source=git)** | HQ_Port Washington, NY | On Site | Apr 03 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Design Intern 2025](https://jobright.ai/jobs/info/67a5ab604c67a1a9125fe67b?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Apr 03 |
 | **[Legends](http://legends.net)** | **[Intern, Legends College (Creative Specialist)](https://jobright.ai/jobs/info/67c7a28be6f48842641a5052?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Apr 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Education Science and Community Intern](https://jobright.ai/jobs/info/67e7a32b8d3edf2fdd445a49?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
