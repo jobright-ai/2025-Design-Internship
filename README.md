@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TAIT](http://www.taittowers.com)** | **[Planning and Environmental Design Intern](https://jobright.ai/jobs/info/680c4a5fcd08a3a2dd3a0925?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Apr 25 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 New York Marketing & Digital Design – Academic Year 2025-2026](https://jobright.ai/jobs/info/680c1c55dc2d551620908d51?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 25 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Student Graphic Designer - Wellness and Sport](https://jobright.ai/jobs/info/680c17a698af0fe9135cf541?utm_campaign=1049&utm_source=git)** | Edmond, OK | On Site | Apr 25 |
 | **[Brown & Brown](http://www.bbinsurance.com/)** | **[Communications/Graphic Design Intern](https://jobright.ai/jobs/info/680c16a595c710d7116f9e2f?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 25 |
@@ -66,25 +67,27 @@ For a complete list, click the following sortable link below:
 | **[Crescent Hotels & Resorts](http://www.chrco.com)** | **[DIGITAL ASSET MANAGEMENT INTERN](https://jobright.ai/jobs/info/680c035bb1631c63370b3ec6?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | On Site | Apr 25 |
 | **[J.Crew Factory](https://factory.jcrew.com/)** | **[Intern - Madewell Concept Design](https://jobright.ai/jobs/info/680bdc54eae6489e75b5b0a4?utm_campaign=1049&utm_source=git)** | New York, NY, USA (Headquarters) | Hybrid | Apr 25 |
 | **[Saatchi & Saatchi (We Are Saatchi)](https://www.wearesaatchi.com/)** | **[Junior Creative, Copywriter (Internship)](https://jobright.ai/jobs/info/67f7b24c0bb3f8b39a3c5c4a?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Apr 25 |
-| ↳ | **[Junior Creative - Product Designer (Internship)](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a57b2?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Apr 25 |
 | ↳ | **[Junior Creative - Content (Internship)](https://jobright.ai/jobs/info/67f88f48016f5467a8a3fb51?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Apr 25 |
+| ↳ | **[Junior Creative - Product Designer (Internship)](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a57b2?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Apr 25 |
 | **[Saatchi & Saatchi X](http://www.saatchix.net/)** | **[Intern, Production Designer](https://jobright.ai/jobs/info/680bd0bf4fb4ef2a19904a53?utm_campaign=1049&utm_source=git)** | Springdale, AR | Hybrid | Apr 25 |
 | **[Brakebush Chicken](http://brakebush.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/680bd0bf4fb4ef2a199046f1?utm_campaign=1049&utm_source=git)** | Westfield, WI | Hybrid | Apr 25 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Internship (Multimedia Production Creator) Hybrid](https://jobright.ai/jobs/info/680bceda5cbee8dfc8f67010?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | Apr 25 |
+| **[Saatchi & Saatchi (We Are Saatchi)](https://www.wearesaatchi.com/)** | **[Junior Creative - Art (Internship)](https://jobright.ai/jobs/info/67f90bf359e1d25558ea86ba?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Apr 25 |
 | **[Canopy](https://getcanopy.co/)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/680bc91a968f71640d77d55d?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 25 |
 | **[the community](https://www.thecommunityagency.com/)** | **[Design Intern](https://jobright.ai/jobs/info/67cb867d849161df4c4fd5af?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Apr 25 |
 | **[Apiture](https://www.apiture.com/)** | **[Product Design Intern ](https://jobright.ai/jobs/info/680bc04dbd3aed8e15d7f183?utm_campaign=1049&utm_source=git)** | Wilmington, NC | On Site | Apr 25 |
-| **[Saatchi & Saatchi (We Are Saatchi)](https://www.wearesaatchi.com/)** | **[Junior Creative - Art (Internship)](https://jobright.ai/jobs/info/67f7b24c0bb3f8b39a3c5c64?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Apr 25 |
-| ↳ | **[Intern- Creative](https://jobright.ai/jobs/info/67dcebdd63685ca47f6068a7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
+| **[Saatchi & Saatchi (We Are Saatchi)](https://www.wearesaatchi.com/)** | **[Intern- Creative](https://jobright.ai/jobs/info/67dcebdd63685ca47f6068a7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[Sun World International](http://sun-world.com)** | **[UX-UI Design Intern](https://jobright.ai/jobs/info/680badd6382282dc43f48377?utm_campaign=1049&utm_source=git)** | Bakersfield, CA | Hybrid | Apr 25 |
 | **[Apiture](https://www.apiture.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/680bc91a968f71640d77d8e2?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 25 |
 | **[Staples](http://www.staples.com)** | **[Digital Designer Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/680ba1cb4af6318b02656845?utm_campaign=1049&utm_source=git)** | Framingham, MA | Hybrid | Apr 25 |
-| **[ZEISS Group](http://www.zeiss.com)** | **[Intern- Human Factors UX Engineer](https://jobright.ai/jobs/info/680bff56efbe30342a38f194?utm_campaign=1049&utm_source=git)** | Dublin, CA | On Site | Apr 25 |
+| **[ZEISS Group](http://www.zeiss.com)** | **[Intern- Human Factors UX Engineer](https://jobright.ai/jobs/info/680c4a5fcd08a3a2dd3a0ac0?utm_campaign=1049&utm_source=git)** | Dublin, CA | On Site | Apr 25 |
+| ↳ | **[Intern- Human Factors UX Engineer](https://jobright.ai/jobs/info/680bff56efbe30342a38f194?utm_campaign=1049&utm_source=git)** | Dublin, CA | On Site | Apr 25 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Apr 25 |
 | **[SET ACTIVE](https://setactive.co)** | **[Creative Intern](https://jobright.ai/jobs/info/680b0b25f98c7a6ae66255f2?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Apr 24 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Graduate Intern - Parks Architectural Design](https://jobright.ai/jobs/info/680b0b25f98c7a6ae662554e?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Apr 24 |
 | **[American Public Power Association (APPA)](http://www.publicpower.org)** | **[Integrated Media Intern](https://jobright.ai/jobs/info/680b0b25f98c7a6ae662534e?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Apr 24 |
 | **[Sun World International](http://sun-world.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/680af7229807011690541d2c?utm_campaign=1049&utm_source=git)** | Bakersfield, CA | Hybrid | Apr 24 |
+| **[Delta Galil Industries](http://deltagalil.com/)** | **[Design Intern](https://jobright.ai/jobs/info/67d0c362bd3dbd964571a79a?utm_campaign=1049&utm_source=git)** | New Jersey, United States | On Site | Apr 24 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Photography + Digital Marketing Intern](https://jobright.ai/jobs/info/680ae63c83bc68c90326863e?utm_campaign=1049&utm_source=git)** | Versailles, OH | On Site | Apr 24 |
 | **[Sun World International](http://sun-world.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/680ae2d84dddc36df2413c8e?utm_campaign=1049&utm_source=git)** | Bakersfield, CA | Hybrid | Apr 24 |
 | **[Syntegon](https://www.syntegon.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/680ade422c05e3c4b90c8a1d?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 24 |
@@ -143,18 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67eab80839a006578fbb82c5?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Apr 22 |
 | **[Emerson](http://www.emerson.com)** | **[User Experience Designer Co-Op](https://jobright.ai/jobs/info/6809c3b5906b0cafe3da2e85?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Apr 22 |
 | **[New World Application Design & Development](https://www.newworldnow.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68084d4e2ef97d52e5bed1a6?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Apr 22 |
+| **[Pure Fishing](https://www.purefishing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/680c4a5fcd08a3a2dd3a0da0?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Apr 22 |
 | **[Olson Kundig](http://olsonkundig.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/6808469d9ac2e2d7a3f759e0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Apr 22 |
 | **[Hasbro](https://investor.hasbro.com/)** | **[Intern - Graphic Designer (Summer 2025)](https://jobright.ai/jobs/info/6787b037bbb4512f3d0fd044?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | On Site | Apr 22 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Digital Creative Products Internships- Academic Year 2025-2026](https://jobright.ai/jobs/info/68082aa951246f8e727b9e8d?utm_campaign=1049&utm_source=git)** | Universal City, CA | On Site | Apr 22 |
 | ↳ | **[TV Entertainment Digital and Design Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/68082572eedfbf665ed7d4fc?utm_campaign=1049&utm_source=git)** | Universal City, CA | On Site | Apr 22 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Motion Graphics (Animation) & Video Editing Internship at AI-Based Sports Start-Up](https://jobright.ai/jobs/info/68081d70bcda5c9758dcd3d4?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 22 |
+| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6808151f2d70fd08bed3949b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Apr 22 |
 | **[Fleur du Mal](http://fleurdumal.com)** | **[Creative Intern](https://jobright.ai/jobs/info/68080aa4bf373162fb6735e4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6808034d89ea5d9449bada54?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6807efb43ecc744688a2a1c8?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 22 |
 | ↳ | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6807efb43ecc744688a2a1c7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 22 |
-| **[National Education Association](http://www.nea.org)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications (Summer 2025)](https://jobright.ai/jobs/info/68080aa4bf373162fb673819?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 22 |
-| **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6807e84258b6988abcd9cdc9?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 22 |
-| ↳ | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6807e84258b6988abcd9caae?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
-| **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[Video Intern](https://jobright.ai/jobs/info/676a0aa7a4167ab74136c1b8?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Apr 22 |
-| **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6807e01ff75e18c61dd539bd?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
