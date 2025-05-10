@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smartech](https://www.smartech.buzz)** | **[Creative Content & Digital Media Intern](https://jobright.ai/jobs/info/681eb8670c54c1233bc7e5d6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 09 |
+| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Intern-Administrative Internship-Creative Department-Mount Sinai Health System-Hybrid-Part Time-Days](https://jobright.ai/jobs/info/681eb8670c54c1233bc7e535?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 09 |
+| **[VHB](https://www.vhb.com/)** | **[Architectural Historian Intern](https://jobright.ai/jobs/info/681ea9de07973d976173902e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | May 09 |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internships - Game Design - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e155?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - UX Design - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e15a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Character Art - Infinity Ward](https://jobright.ai/jobs/info/681ea64732cf5d558f19e159?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
 | **[Savvy Wealth](https://savvywealth.com/)** | **[User Research Intern](https://jobright.ai/jobs/info/681e97b4170e24f29079e18c?utm_campaign=1049&utm_source=git)** | United States | Remote | May 09 |
-| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internships - Character Art - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd32ba?utm_campaign=1049&utm_source=git)** | Woodland Hills | On Site | May 09 |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 US Summer Internships - UX Design - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd34dc?utm_campaign=1049&utm_source=git)** | Woodland Hills | On Site | May 09 |
+| ↳ | **[2025 US Summer Internships - Character Art - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd32ba?utm_campaign=1049&utm_source=git)** | Woodland Hills | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - UX Design - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3507?utm_campaign=1049&utm_source=git)** | Woodland Hills - Activision - Infinity Ward | On Site | May 09 |
-| ↳ | **[2025 US Summer Internships - UX Design - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd34dc?utm_campaign=1049&utm_source=git)** | Woodland Hills | On Site | May 09 |
 | ↳ | **[2025 US Summer Internships - Game Design - Infinity Ward](https://jobright.ai/jobs/info/681e8e9fcb7a37ce98cd3518?utm_campaign=1049&utm_source=git)** | Woodland Hills | On Site | May 09 |
 | **[Aura Home, Inc.](https://auraframes.com)** | **[Creative/Graphic Design Intern](https://jobright.ai/jobs/info/681e7bf7b6400f8365c664ce?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | May 09 |
-| **[Supplyframe](http://www.supplyframe.com)** | **[UX/UI Design Intern (Supplyframe)](https://jobright.ai/jobs/info/681e6139fe197e8114a241ab?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | May 09 |
 | **[HOK](http://www.hok.com/)** | **[Interiors - Summer Student Intern](https://jobright.ai/jobs/info/681e6139fe197e8114a23fc4?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | May 09 |
 | **[Formcraft](https://formcraft.net)** | **[Interior Design Intern](https://jobright.ai/jobs/info/681e599c5f462331d33e41cf?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
 | **[Zyscovich, LLC](http://zyscovich.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/681e42b44a7b2a0016b5311f?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | May 09 |
@@ -136,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Architecture](https://jobright.ai/jobs/info/681aa71bbe40a219f7a04372?utm_campaign=1049&utm_source=git)** | Honolulu County, HI | On Site | May 06 |
 | **[Fizz](http://fizzsocial.app)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/681be0e1789093f640599661?utm_campaign=1049&utm_source=git)** | United States | Remote | May 06 |
 | **[Cast & Crew](http://www.castandcrew.com)** | **[Intern, UI/UX Design](https://jobright.ai/jobs/info/681a99e91098e4ea6bd11e27?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | May 06 |
+| **[rbb Communications](https://rbbcommunications.com/)** | **[INTERN, Content and Social Media, Fall 2025](https://jobright.ai/jobs/info/67fd67273bec07b2ef21cc13?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | Hybrid | May 06 |
 | **[Jabil](https://www.jabil.com)** | **[Mold Design Intern](https://jobright.ai/jobs/info/681a7b3c9c672d5c2f9851e7?utm_campaign=1049&utm_source=git)** | Clinton, MA | On Site | May 06 |
 | **[Pickering Firm, Inc.](http://pickeringfirm.com)** | **[Intern Architect](https://jobright.ai/jobs/info/681a694295b90afda7cf9e9b?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | May 06 |
 | **[I-Pro Americas](http://www.I-pro.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/681acfa12ad698f4bdaac265?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yami](http://www.yamibuy.com/en/)** | **[Product Design Intern](https://jobright.ai/jobs/info/681952673ad838db7a6507b6?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | May 05 |
 | **[alice + olivia](http://www.aliceandolivia.com)** | **[Design Intern - Soft & Tailored Wovens](https://jobright.ai/jobs/info/68194e8217f79db62029d0c7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Corporate Creative Design Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/68194e8217f79db62029d21f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
-| **[Proper Cloth](https://propercloth.com)** | **[Summer 2025 Product Styling Internship](https://jobright.ai/jobs/info/68193bd6d77e9b5cc3e0a0db?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
-| ↳ | **[Summer 2025 Design & AI Internship](https://jobright.ai/jobs/info/68193bd6d77e9b5cc3e0a2c2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
-| **[SpreeAI](https://www.spreeai.com)** | **[Design Team Summer Internship](https://jobright.ai/jobs/info/6818fc24c7c8fe2b0fcd56cf?utm_campaign=1049&utm_source=git)** | United States | Remote | May 05 |
-| **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6818f3d3ebb113904ab231c4?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 05 |
-| **[Jabil](https://www.jabil.com)** | **[Mold Design Intern](https://jobright.ai/jobs/info/6818e99a21c7311b43419e43?utm_campaign=1049&utm_source=git)** | Clinton, MA | On Site | May 05 |
-| **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/6818d57daae045450d1a99b9?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
