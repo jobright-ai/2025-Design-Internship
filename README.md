@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[iDesign](http://www.idesignedu.org)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/682becfb802e2c34f4bf334f?utm_campaign=1049&utm_source=git)** | Dallas, TX | Remote | May 19 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Assistant Director of Creative Media](https://jobright.ai/jobs/info/682be1e21f21f5b2ea4ab048?utm_campaign=1049&utm_source=git)** | Triangle Area | On Site | May 19 |
+| **[Leidos](https://www.leidos.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/682bd33988d1774205ef2828?utm_campaign=1049&utm_source=git)** | United States | Remote | May 19 |
+| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/682bcc05107266e4fa0b9360?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | May 19 |
+| **[Crown Equipment Corporation](http://www.crown.com)** | **[Fall 2025 UX Interaction Design Co-op 1](https://jobright.ai/jobs/info/682becfb802e2c34f4bf3442?utm_campaign=1049&utm_source=git)** | New Bremen, OH | On Site | May 19 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content High School Intern](https://jobright.ai/jobs/info/682ba112575c873b7a36e66d?utm_campaign=1049&utm_source=git)** | US - VA - Remote | Remote | May 19 |
 | **[Whataburger](http://www.whataburger.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/682b99e3ce5fe6899ef00f22?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | May 19 |
 | ↳ | **[Architecture Design Intern](https://jobright.ai/jobs/info/682b8beb6d4e9a19c0733b76?utm_campaign=1049&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 19 |
 | **[Actian](http://www.actian.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/682b8beb6d4e9a19c0733ec5?utm_campaign=1049&utm_source=git)** | United States | Remote | May 19 |
 | **[Velan Studios, Inc.](http://www.velanstudios.com)** | **[Intern / Technical Artist](https://jobright.ai/jobs/info/682bc2272d1a8faab67c3991?utm_campaign=1049&utm_source=git)** | Troy, NY | On Site | May 19 |
-| **[Medcor](https://www.medcor.com/)** | **[Production Artist Intern](https://jobright.ai/jobs/info/682b815aa73e9ca2b385f974?utm_campaign=1049&utm_source=git)** | McHenry, IL | Hybrid | May 19 |
 | **[Costello Medical](https://www.costellomedical.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/682b815aa73e9ca2b385f85a?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | May 19 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Video Production & Motion Graphics Intern](https://jobright.ai/jobs/info/682b7e5e3d1db86ce870506d?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | May 19 |
 | **[Actian](http://www.actian.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/682b7c95e316da0c02805d13?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | May 19 |
@@ -73,14 +77,13 @@ For a complete list, click the following sortable link below:
 | **[Saatchi & Saatchi (We Are Saatchi)](https://www.wearesaatchi.com/)** | **[Junior Creative - Content Copywriter (Internship)](https://jobright.ai/jobs/info/67f88f48016f5467a8a3fb51?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | May 19 |
 | ↳ | **[Junior Creative - Art (Internship)](https://jobright.ai/jobs/info/67f90bf359e1d25558ea86ba?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | May 19 |
 | **[Taylor](https://taylorstrategy.com/)** | **[Creative Strategy HBCU Fellowship](https://jobright.ai/jobs/info/682b3c72954a88120c498341?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 19 |
-| **[Actian](http://www.actian.com)** | **[UX Intern](https://jobright.ai/jobs/info/682b3c72954a88120c4983e8?utm_campaign=1049&utm_source=git)** | United States | Remote | May 19 |
 | **[Saatchi & Saatchi (We Are Saatchi)](https://www.wearesaatchi.com/)** | **[Intern- Creative Art Director](https://jobright.ai/jobs/info/67dcebdd63685ca47f6068a7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 19 |
 | ↳ | **[Junior Creative - Product Designer (Internship)](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a57b2?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | May 19 |
 | **[Human Systems Integration, Inc.](http://www.humansystemsintegration.com/)** | **[Apparel Technical Design intern](https://jobright.ai/jobs/info/682b2fa3358b278183a9dda2?utm_campaign=1049&utm_source=git)** | Walpole, MA | On Site | May 19 |
 | **[Actian](http://www.actian.com)** | **[UX Intern](https://jobright.ai/jobs/info/682b269c69542e0e28e7239e?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | May 19 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2025 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/682ad2a2f6953592b0a9b139?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[Video/Graphic Design Intern](https://jobright.ai/jobs/info/682ac636603b5455b965ed05?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | May 18 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2025 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/682ab60bc33d887b035c21e6?utm_campaign=1049&utm_source=git)** | New York, New York, USA | On Site | May 18 |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2025 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/682ab1254c786d2883bacfd3?utm_campaign=1049&utm_source=git)** | New York, New York, USA | On Site | May 18 |
 | **[Medcor](https://www.medcor.com/)** | **[Production Artist Intern](https://jobright.ai/jobs/info/682b3c72954a88120c498404?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | Hybrid | May 18 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Design Graduate Intern (Summer 2025)](https://jobright.ai/jobs/info/67e1f2575a73301d5dd8af68?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | May 18 |
 | **[Performance Engineered Products](https://pepincplastics.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6829ee60a2281ce1fac903b4?utm_campaign=1049&utm_source=git)** | Pomona, CA | On Site | May 18 |
@@ -89,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Arcadis](http://www.arcadis.com)** | **[Internship Architecture](https://jobright.ai/jobs/info/67f029e688fc7e3c4175e02f?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | May 17 |
 | **[AAM - American Axle & Manufacturing](http://aam.com)** | **[Graphic Design College Co-Op](https://jobright.ai/jobs/info/6815a6fa1cc33ac2455dde36?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | May 17 |
 | **[Vladimir Jones](http://vladimirjones.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6827f40962df9ad68f698bfc?utm_campaign=1049&utm_source=git)** | Glendale, CO | On Site | May 16 |
+| **[iFIT](http://www.ifit.com)** | **[Design Intern](https://jobright.ai/jobs/info/682bef205074c515a7aa2957?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | May 16 |
 | **[AARP](http://www.aarp.org)** | **[Creative Digital Intern](https://jobright.ai/jobs/info/677e0af29fae9cead8651097?utm_campaign=1049&utm_source=git)** | Montgomery, AL | Hybrid | May 16 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6827c305f232c47deef415c6?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | Remote | May 16 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6827aca1d8a067bcfd474fc5?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | May 16 |
@@ -122,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[Creative Internship, Art Direction](https://jobright.ai/jobs/info/67ecc5113a3946dccc613ee1?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 15 |
 | **[Hudl](http://www.hudl.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/67ee28ffe84485085b69c0ce?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | May 15 |
 | **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study Marketing Graphic Design Student Assistant for Dean of Students Office](https://jobright.ai/jobs/info/6826743d35e01abbfe174c4a?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | May 15 |
-| **[Council for Exceptional Children (CEC)](https://www.exceptionalchildren.org)** | **[Digital Content Intern (Hybrid or Remote)](https://jobright.ai/jobs/info/682641ae0b030bf2760d0916?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | May 15 |
 | **[The Edward E. Haddock, Jr. Family Foundation](https://www.linkedin.com/company/106185957)** | **[Common Pictures Intern](https://jobright.ai/jobs/info/682613524eb98579dc3bee52?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | May 15 |
+| **[Council for Exceptional Children (CEC)](https://www.exceptionalchildren.org)** | **[Digital Content Intern (Hybrid or Remote)](https://jobright.ai/jobs/info/68260c24d57fb3ccb3124c3a?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | May 15 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Motion Graphics Artist Intern](https://jobright.ai/jobs/info/6825ebe8f1a7e9fa97dc5650?utm_campaign=1049&utm_source=git)** | Leawood, KS | Hybrid | May 15 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/680a0bc6548edbe0234e9713?utm_campaign=1049&utm_source=git)** | Lancaster, NY | On Site | May 15 |
 | **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Summer Internships: Creative Departments](https://jobright.ai/jobs/info/67b4d96b62fbf0daee9b2a57?utm_campaign=1049&utm_source=git)** | Trenton, NJ | On Site | May 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Paper](http://www.internationalpaper.com/)** | **[Design Intern](https://jobright.ai/jobs/info/682a9c98f2d8c4efb2b21c14?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | May 13 |
 | **[Youth Villages](http://www.youthvillages.org)** | **[Creative Services - Digital Intern](https://jobright.ai/jobs/info/6823e9fe3bfbde056baa7e5d?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | May 13 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6823e9fe3bfbde056baa7e60?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | May 13 |
-| **[Columbus Blue Jackets](http://bluejackets.com)** | **[2025-26 Season Motion Graphics Intern](https://jobright.ai/jobs/info/6823e4885477a27952f3b123?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | May 13 |
-| **[Chartbeat](http://chartbeat.com)** | **[Product Design Intern ](https://jobright.ai/jobs/info/6823e4885477a27952f3ad53?utm_campaign=1049&utm_source=git)** | United States | Remote | May 13 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/67eb2f40c3d9fbbefd7bde2d?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | May 13 |
-| **[Columbus Blue Jackets](http://bluejackets.com)** | **[2025-26 Season Creative Services Internship](https://jobright.ai/jobs/info/6823d4f3a8762c2f7361e797?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
