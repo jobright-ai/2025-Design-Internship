@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David Yurman](http://www.davidyurman.com)** | **[Social Creative Intern](https://jobright.ai/jobs/info/681e37f11eec04915f078d94?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 31 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Athletics Marketing/Graphic Design Internship / Part-Time / Ryan Center and Boss Ice Arena (U of Rhode Island)](https://jobright.ai/jobs/info/683ac7db68c7a3c89f0db0f8?utm_campaign=1049&utm_source=git)** | Kingston, RI | On Site | May 31 |
 | **[Pagliacci Pizza](https://pagliacci.com)** | **[Creative Intern](https://jobright.ai/jobs/info/683a5ce38585670ac0ce7471?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | May 30 |
 | **[TomoCredit](https://www.tomocredit.com)** | **[Summer Marketing Internship – Graphic Design & Video Production](https://jobright.ai/jobs/info/683a4f10018e850cfc42a911?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | May 30 |
@@ -65,14 +66,13 @@ For a complete list, click the following sortable link below:
 | **[Making Waves Education Foundation](http://www.making-waves.org)** | **[UX Research Intern, Fall 2025](https://jobright.ai/jobs/info/683a118c95793c98b81278dd?utm_campaign=1049&utm_source=git)** | San Pablo, CA | Remote | May 30 |
 | **[Playground](https://www.tryplayground.com/)** | **[UI/UX Intern](https://jobright.ai/jobs/info/68336c7cf9c8a3185a1df0c7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Fall 2025 Visual Design Co-op 1](https://jobright.ai/jobs/info/683a0b4290a2856439790f28?utm_campaign=1049&utm_source=git)** | New Bremen, OH | On Site | May 30 |
-| **[Bialek Environments](http://bialek.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f9544?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | May 30 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6839eb8f8c6b678f41abf1b2?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
 | **[Janji](http://janji.com/)** | **[Technical Design & Product Development Intern (2 days/week)](https://jobright.ai/jobs/info/6839cd9c125280c6d6414a09?utm_campaign=1049&utm_source=git)** | Greater Boston | On Site | May 30 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CMF Design Co-op (July through December)](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac466?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | May 30 |
 | **[Hornig Companies, Inc.](https://www.hornigcompanies.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/683a82b45ca1e8b598e7adef?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | May 29 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6823e9fe3bfbde056baa7e60?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2025](https://jobright.ai/jobs/info/6838f965dbcb3bb5fade27b5?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | May 29 |
-| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/6838bd69f24ef6cf0106670c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 29 |
+| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/6838c16727208a923cb060e3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 29 |
 | **[Magnopus](http://www.magnopus.com)** | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6838b0341aafedfea489ec21?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
 | ↳ | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6838a631fd63d5b213931f60?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | On Site | May 29 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Graphic Designer-Psychology Department - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/6838c16727208a923cb060d7?utm_campaign=1049&utm_source=git)** | North Adams, MA | On Site | May 29 |
@@ -84,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[University of Central Florida](https://www.ucf.edu)** | **[Application Systems Analyst I - Student Systems User Experience](https://jobright.ai/jobs/info/68376f0efd011d61ae4d7d9b?utm_campaign=1049&utm_source=git)** | Greater Orlando | Hybrid | May 28 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - UX Design - Cloud, AI, Solutions & Enablement (BS/MS)](https://jobright.ai/jobs/info/68375ef67e434f9491b8e0cf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 28 |
 | **[Huckberry](http://huckberry.com)** | **[Apparel Design Intern](https://jobright.ai/jobs/info/67fec146dd174d346366a1bd?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 28 |
+| **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Aftermarket Photography Intern](https://jobright.ai/jobs/info/681ed3a749eb76b4bf2e7f64?utm_campaign=1049&utm_source=git)** | Danville, IL | On Site | May 28 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Interior Communications - Master Tradesperson (SkillBridge Intern) - 18125](https://jobright.ai/jobs/info/66cb13e034a1a605c8620537?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | May 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/68366f0ecd5feade1f6f5ba1?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 27 |
 | **[Profitable Ideas Exchange](https://www.profitableideas.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/683664b828e8571f8e248a3b?utm_campaign=1049&utm_source=git)** | Bozeman, Montana, United States | On Site | May 27 |
