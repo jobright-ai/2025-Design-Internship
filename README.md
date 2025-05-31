@@ -65,7 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Making Waves Education Foundation](http://www.making-waves.org)** | **[UX Research Intern, Fall 2025](https://jobright.ai/jobs/info/683a118c95793c98b81278dd?utm_campaign=1049&utm_source=git)** | San Pablo, CA | Remote | May 30 |
 | **[Playground](https://www.tryplayground.com/)** | **[UI/UX Intern](https://jobright.ai/jobs/info/68336c7cf9c8a3185a1df0c7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Fall 2025 Visual Design Co-op 1](https://jobright.ai/jobs/info/683a0b4290a2856439790f28?utm_campaign=1049&utm_source=git)** | New Bremen, OH | On Site | May 30 |
-| **[Bialek Environments](http://bialek.com)** | **[Design Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f9544?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | May 30 |
+| **[Bialek Environments](http://bialek.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f9544?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | May 30 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6839eb8f8c6b678f41abf1b2?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
 | **[Janji](http://janji.com/)** | **[Technical Design & Product Development Intern (2 days/week)](https://jobright.ai/jobs/info/6839cd9c125280c6d6414a09?utm_campaign=1049&utm_source=git)** | Greater Boston | On Site | May 30 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CMF Design Co-op (July through December)](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac466?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | May 30 |
@@ -107,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0c992?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | May 25 |
 | **[Flow](https://flowai.tech)** | **[Senior Visual Communications Graphic Designer Intern (May 2025 Start)](https://jobright.ai/jobs/info/6836a20e6b17423d37d55f3a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 24 |
 | **[ITS](http://www.its.aero)** | **[Architectural Designer / Intern Architect / Architect](https://jobright.ai/jobs/info/68328b8475616953e84e6a40?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 24 |
-| **[Fusion 360](https://fusion360agency.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/682e64c934f270ad9eb6c699?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
