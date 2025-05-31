@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Athletics Marketing/Graphic Design Internship / Part-Time / Ryan Center and Boss Ice Arena (U of Rhode Island)](https://jobright.ai/jobs/info/683ac7db68c7a3c89f0db0f8?utm_campaign=1049&utm_source=git)** | Kingston, RI | On Site | May 31 |
 | **[Pagliacci Pizza](https://pagliacci.com)** | **[Creative Intern](https://jobright.ai/jobs/info/683a5ce38585670ac0ce7471?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | May 30 |
 | **[TomoCredit](https://www.tomocredit.com)** | **[Summer Marketing Internship – Graphic Design & Video Production](https://jobright.ai/jobs/info/683a4f10018e850cfc42a911?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | May 30 |
 | **[Pennant](https://pennantgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/683a330fbc974a6dfbdc2331?utm_campaign=1049&utm_source=git)** | Remote, USA | Remote | May 30 |
@@ -64,9 +65,12 @@ For a complete list, click the following sortable link below:
 | **[Making Waves Education Foundation](http://www.making-waves.org)** | **[UX Research Intern, Fall 2025](https://jobright.ai/jobs/info/683a118c95793c98b81278dd?utm_campaign=1049&utm_source=git)** | San Pablo, CA | Remote | May 30 |
 | **[Playground](https://www.tryplayground.com/)** | **[UI/UX Intern](https://jobright.ai/jobs/info/68336c7cf9c8a3185a1df0c7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Fall 2025 Visual Design Co-op 1](https://jobright.ai/jobs/info/683a0b4290a2856439790f28?utm_campaign=1049&utm_source=git)** | New Bremen, OH | On Site | May 30 |
-| **[Bialek Environments](http://bialek.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f9544?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | May 30 |
+| **[Bialek Environments](http://bialek.com)** | **[Design Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f9544?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | May 30 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6839eb8f8c6b678f41abf1b2?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
 | **[Janji](http://janji.com/)** | **[Technical Design & Product Development Intern (2 days/week)](https://jobright.ai/jobs/info/6839cd9c125280c6d6414a09?utm_campaign=1049&utm_source=git)** | Greater Boston | On Site | May 30 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CMF Design Co-op (July through December)](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac466?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | May 30 |
+| **[Hornig Companies, Inc.](https://www.hornigcompanies.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/683a82b45ca1e8b598e7adef?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | May 29 |
+| **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6823e9fe3bfbde056baa7e60?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2025](https://jobright.ai/jobs/info/6838f965dbcb3bb5fade27b5?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | May 29 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/6838bd69f24ef6cf0106670c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 29 |
 | **[Magnopus](http://www.magnopus.com)** | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6838b0341aafedfea489ec21?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
@@ -80,13 +84,12 @@ For a complete list, click the following sortable link below:
 | **[University of Central Florida](https://www.ucf.edu)** | **[Application Systems Analyst I - Student Systems User Experience](https://jobright.ai/jobs/info/68376f0efd011d61ae4d7d9b?utm_campaign=1049&utm_source=git)** | Greater Orlando | Hybrid | May 28 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - UX Design - Cloud, AI, Solutions & Enablement (BS/MS)](https://jobright.ai/jobs/info/68375ef67e434f9491b8e0cf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 28 |
 | **[Huckberry](http://huckberry.com)** | **[Apparel Design Intern](https://jobright.ai/jobs/info/67fec146dd174d346366a1bd?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 28 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Interior Communications - Master Tradesperson (SkillBridge Intern) - 18125](https://jobright.ai/jobs/info/66cb13e034a1a605c8620537?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | May 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/68366f0ecd5feade1f6f5ba1?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 27 |
 | **[Profitable Ideas Exchange](https://www.profitableideas.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/683664b828e8571f8e248a3b?utm_campaign=1049&utm_source=git)** | Bozeman, Montana, United States | On Site | May 27 |
 | **[Porter](https://porter.in)** | **[Design Intern](https://jobright.ai/jobs/info/683664b828e8571f8e248939?utm_campaign=1049&utm_source=git)** | US-WA-Seattle | On Site | May 27 |
-| **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/6818c89207dd2b1ca7957afd?utm_campaign=1049&utm_source=git)** | New Castle, DE | On Site | May 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/68365e67c507878e0ad341b4?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | May 27 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Design Intern](https://jobright.ai/jobs/info/683675f8b13369de1a896b6c?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | May 27 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6823e9fe3bfbde056baa7e60?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | May 27 |
 | **[WSP](https://www.wsp.com/en-om/services/mine-infrastructure)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/68364656fc658832fd475dbd?utm_campaign=1049&utm_source=git)** | 30 North Lasalle Street, Chicago, IL, 60602, US | On Site | May 27 |
 | **[SpreeAI](https://www.spreeai.com)** | **[Design Team Summer Internship](https://jobright.ai/jobs/info/68362a577dccb9f63f5e8727?utm_campaign=1049&utm_source=git)** | United States | Remote | May 27 |
 | **[Delta Zeta Sorority](http://www.deltazeta.org/Home)** | **[Graphic Design Graduate Internship](https://jobright.ai/jobs/info/6836f9cb78976ce8f60ef585?utm_campaign=1049&utm_source=git)** | Oxford, OH | On Site | May 27 |
@@ -105,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Flow](https://flowai.tech)** | **[Senior Visual Communications Graphic Designer Intern (May 2025 Start)](https://jobright.ai/jobs/info/6836a20e6b17423d37d55f3a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 24 |
 | **[ITS](http://www.its.aero)** | **[Architectural Designer / Intern Architect / Architect](https://jobright.ai/jobs/info/68328b8475616953e84e6a40?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 24 |
 | **[Fusion 360](https://fusion360agency.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/682e64c934f270ad9eb6c699?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | May 24 |
-| **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3263?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
