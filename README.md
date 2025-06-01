@@ -72,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Hornig Companies, Inc.](https://www.hornigcompanies.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/683a82b45ca1e8b598e7adef?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | May 29 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6823e9fe3bfbde056baa7e60?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2025](https://jobright.ai/jobs/info/6838f965dbcb3bb5fade27b5?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | May 29 |
-| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/6838c16727208a923cb060e3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 29 |
+| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/6838bd69f24ef6cf0106670c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 29 |
 | **[Magnopus](http://www.magnopus.com)** | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6838b0341aafedfea489ec21?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
 | ↳ | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6838a631fd63d5b213931f60?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | On Site | May 29 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Graphic Designer-Psychology Department - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/6838c16727208a923cb060d7?utm_campaign=1049&utm_source=git)** | North Adams, MA | On Site | May 29 |
@@ -106,6 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern - UI/UX Researcher – Human Factor Engineer](https://jobright.ai/jobs/info/67dc6fdfa1a6e4f7706368e2?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | May 25 |
 | **[HDR](http://www.hdrinc.com)** | **[NOMA HBCU Professional Development Career Fair](https://jobright.ai/jobs/info/67dc2f6844b4e8d74ae5d781?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | May 25 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0c992?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | May 25 |
-| **[Flow](https://flowai.tech)** | **[Senior Visual Communications Graphic Designer Intern (May 2025 Start)](https://jobright.ai/jobs/info/6836a20e6b17423d37d55f3a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 24 |
-| **[ITS](http://www.its.aero)** | **[Architectural Designer / Intern Architect / Architect](https://jobright.ai/jobs/info/68328b8475616953e84e6a40?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
