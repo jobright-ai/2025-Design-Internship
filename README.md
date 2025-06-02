@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[CSUMB Scientific Illustration Internship (September - December)](https://jobright.ai/jobs/info/68241b65fbe7ee2962c69ab3?utm_campaign=1049&utm_source=git)** | Monterey, CA | On Site | Jun 02 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Social Creative Intern](https://jobright.ai/jobs/info/681e37f11eec04915f078d94?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 31 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Athletics Marketing/Graphic Design Internship / Part-Time / Ryan Center and Boss Ice Arena (U of Rhode Island)](https://jobright.ai/jobs/info/683ac7db68c7a3c89f0db0f8?utm_campaign=1049&utm_source=git)** | Kingston, RI | On Site | May 31 |
 | **[Pagliacci Pizza](https://pagliacci.com)** | **[Creative Intern](https://jobright.ai/jobs/info/683a5ce38585670ac0ce7471?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | May 30 |
@@ -71,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Hornig Companies, Inc.](https://www.hornigcompanies.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/683a82b45ca1e8b598e7adef?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | May 29 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6823e9fe3bfbde056baa7e60?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2025](https://jobright.ai/jobs/info/6838f965dbcb3bb5fade27b5?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | May 29 |
-| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/6838c16727208a923cb060e3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 29 |
+| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/6838bd69f24ef6cf0106670c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 29 |
 | **[Magnopus](http://www.magnopus.com)** | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6838b0341aafedfea489ec21?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
 | ↳ | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6838a631fd63d5b213931f60?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | On Site | May 29 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Graphic Designer-Psychology Department - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/6838c16727208a923cb060d7?utm_campaign=1049&utm_source=git)** | North Adams, MA | On Site | May 29 |
@@ -84,13 +85,13 @@ For a complete list, click the following sortable link below:
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - UX Design - Cloud, AI, Solutions & Enablement (BS/MS)](https://jobright.ai/jobs/info/68375ef67e434f9491b8e0cf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 28 |
 | **[Huckberry](http://huckberry.com)** | **[Apparel Design Intern](https://jobright.ai/jobs/info/67fec146dd174d346366a1bd?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 28 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Aftermarket Photography Intern](https://jobright.ai/jobs/info/681ed3a749eb76b4bf2e7f64?utm_campaign=1049&utm_source=git)** | Danville, IL | On Site | May 28 |
+| **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/683675f8b13369de1a896b6c?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/683be54086d1fc2ec8b3ed23?utm_campaign=1049&utm_source=git)** | New Castle, DE | On Site | May 27 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Interior Communications - Master Tradesperson (SkillBridge Intern) - 18125](https://jobright.ai/jobs/info/66cb13e034a1a605c8620537?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | May 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/68366f0ecd5feade1f6f5ba1?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 27 |
 | **[Profitable Ideas Exchange](https://www.profitableideas.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/683664b828e8571f8e248a3b?utm_campaign=1049&utm_source=git)** | Bozeman, Montana, United States | On Site | May 27 |
 | **[Porter](https://porter.in)** | **[Design Intern](https://jobright.ai/jobs/info/683664b828e8571f8e248939?utm_campaign=1049&utm_source=git)** | US-WA-Seattle | On Site | May 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/68365e67c507878e0ad341b4?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | May 27 |
-| **[One Workplace](http://www.oneworkplace.com/)** | **[Design Intern](https://jobright.ai/jobs/info/683675f8b13369de1a896b6c?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | May 27 |
 | **[WSP](https://www.wsp.com/en-om/services/mine-infrastructure)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/68364656fc658832fd475dbd?utm_campaign=1049&utm_source=git)** | 30 North Lasalle Street, Chicago, IL, 60602, US | On Site | May 27 |
 | **[SpreeAI](https://www.spreeai.com)** | **[Design Team Summer Internship](https://jobright.ai/jobs/info/68362a577dccb9f63f5e8727?utm_campaign=1049&utm_source=git)** | United States | Remote | May 27 |
 | **[Delta Zeta Sorority](http://www.deltazeta.org/Home)** | **[Graphic Design Graduate Internship](https://jobright.ai/jobs/info/6836f9cb78976ce8f60ef585?utm_campaign=1049&utm_source=git)** | Oxford, OH | On Site | May 27 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Sunrise Senior Living](https://www.sunriseseniorliving.com)** | **[Interior Design Intern (onsite)](https://jobright.ai/jobs/info/6835fd92c94414e8485e55b6?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | May 27 |
 | **[Ci Design, Inc.](https://www.ci-designinc.com/)** | **[INTERN DESIGNER/ARCHITECT - BOSTON, MA](https://jobright.ai/jobs/info/68361e5fc280b3d72f4d9c66?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | May 27 |
 | **[Pond & Company](http://pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | May 27 |
+| **[Barrel](http://www.barrelny.com)** | **[Design Intern](https://jobright.ai/jobs/info/683da07cb88633abea850e6c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[alice + olivia](http://www.aliceandolivia.com)** | **[Design Intern - Soft & Tailored Wovens](https://jobright.ai/jobs/info/68194e8217f79db62029d0c7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Apiture](https://www.apiture.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/680bc91a968f71640d77d8e2?utm_campaign=1049&utm_source=git)** | Wilmington, NC | Hybrid | May 27 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/6818d57daae045450d1a99b9?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | May 27 |
