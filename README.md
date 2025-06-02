@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Pagliacci Pizza](https://pagliacci.com)** | **[Creative Intern](https://jobright.ai/jobs/info/683a5ce38585670ac0ce7471?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | May 30 |
 | **[TomoCredit](https://www.tomocredit.com)** | **[Summer Marketing Internship – Graphic Design & Video Production](https://jobright.ai/jobs/info/683a4f10018e850cfc42a911?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | May 30 |
 | **[Pennant](https://pennantgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/683a330fbc974a6dfbdc2331?utm_campaign=1049&utm_source=git)** | Remote, USA | Remote | May 30 |
+| **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/680057d308219b024064bca1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 30 |
 | **[Carters Inc.](https://www.carters.com/)** | **[Apparel Design Co-Op](https://jobright.ai/jobs/info/683a1a16f8ff108af3410635?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 30 |
 | **[Playground](https://www.tryplayground.com/)** | **[UI/UX Intern](https://jobright.ai/jobs/info/68336c7cf9c8a3185a1df0c7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 30 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Fall 2025 Visual Design Co-op 1](https://jobright.ai/jobs/info/683a0b4290a2856439790f28?utm_campaign=1049&utm_source=git)** | New Bremen, OH | On Site | May 30 |
@@ -70,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Hornig Companies, Inc.](https://www.hornigcompanies.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/683a82b45ca1e8b598e7adef?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | May 29 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6823e9fe3bfbde056baa7e60?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2025](https://jobright.ai/jobs/info/6838f965dbcb3bb5fade27b5?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | May 29 |
-| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/6838bd69f24ef6cf0106670c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 29 |
+| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/6838c16727208a923cb060e3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 29 |
 | **[Magnopus](http://www.magnopus.com)** | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6838b0341aafedfea489ec21?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
 | ↳ | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6838a631fd63d5b213931f60?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | On Site | May 29 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Graphic Designer-Psychology Department - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/6838c16727208a923cb060d7?utm_campaign=1049&utm_source=git)** | North Adams, MA | On Site | May 29 |
