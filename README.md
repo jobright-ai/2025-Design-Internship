@@ -57,14 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tampa Electric](http://www.tampaelectric.com)** | **[FALL 2025 - Photography & Video Student Internship/Co-Op](https://jobright.ai/jobs/info/683e44439994d71654486b07?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jun 02 |
 | **[SUNMI](http://www.sunmi.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/683e1f71dbc0537bbe99143b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 02 |
 | **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/683e11dedce0d944cdfe8a73?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 02 |
-| **[Deckers Brands](http://deckers.com)** | **[Design Intern](https://jobright.ai/jobs/info/683e02204fb1d73af4cb0cbe?utm_campaign=1049&utm_source=git)** | Santa Barbara, CA | On Site | Jun 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Design Co-Op Program](https://jobright.ai/jobs/info/683df73dc2e8f1df620d6ed9?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Jun 02 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/683df139abb1ff44979fe822?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jun 02 |
 | **[Alstom](https://www.alstom.com/)** | **[Graphic Design Co-op (Fall 2025)](https://jobright.ai/jobs/info/683df139abb1ff44979fe75b?utm_campaign=1049&utm_source=git)** | West Mifflin, PA | On Site | Jun 02 |
 | **[Architecture Incorporated](https://www.architectureinc.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/683decd130370cafb03570d4?utm_campaign=1049&utm_source=git)** | Rapid City, SD | On Site | Jun 02 |
-| **[Deckers Brands](http://deckers.com)** | **[Design Intern](https://jobright.ai/jobs/info/683dd33a5445f45ee0489712?utm_campaign=1049&utm_source=git)** | Goleta, California | On Site | Jun 02 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Photography Apprentice](https://jobright.ai/jobs/info/683dcff933c535607ff9333e?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jun 02 |
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[CSUMB Scientific Illustration Internship (September - December)](https://jobright.ai/jobs/info/68241b65fbe7ee2962c69ab3?utm_campaign=1049&utm_source=git)** | Monterey, CA | On Site | Jun 02 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Athletics Marketing/Graphic Design Internship / Part-Time / Ryan Center and Boss Ice Arena (U of Rhode Island)](https://jobright.ai/jobs/info/683ac7db68c7a3c89f0db0f8?utm_campaign=1049&utm_source=git)** | Kingston, RI | On Site | May 31 |
@@ -82,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6838a631fd63d5b213931f60?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | On Site | May 29 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Graphic Designer-Psychology Department - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/6838c16727208a923cb060d7?utm_campaign=1049&utm_source=git)** | North Adams, MA | On Site | May 29 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2025](https://jobright.ai/jobs/info/681c0fae47d1e1c6242910be?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | May 29 |
-| **[Porter](https://porter.in)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6837b4285f785b23b9195cbf?utm_campaign=1049&utm_source=git)** | US-WA-Seattle | On Site | May 28 |
 | **[Morrison Container Handling Solutions](https://www.morrison-chs.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6837785cb5580bb3c2f3c2c3?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | On Site | May 28 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Application Systems Analyst I - Student Systems User Experience](https://jobright.ai/jobs/info/68376f0efd011d61ae4d7d9b?utm_campaign=1049&utm_source=git)** | Greater Orlando | Hybrid | May 28 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - UX Design - Cloud, AI, Solutions & Enablement (BS/MS)](https://jobright.ai/jobs/info/68375ef67e434f9491b8e0cf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 28 |
@@ -103,6 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Ci Design, Inc.](https://www.ci-designinc.com/)** | **[INTERN DESIGNER/ARCHITECT - BOSTON, MA](https://jobright.ai/jobs/info/68361e5fc280b3d72f4d9c66?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | May 27 |
 | **[Pond & Company](http://pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | May 27 |
 | **[Apiture](https://www.apiture.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/680bc91a968f71640d77d8e2?utm_campaign=1049&utm_source=git)** | Wilmington, NC | Hybrid | May 27 |
-| **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/6818d57daae045450d1a99b9?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | May 27 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/683583a62c053d3649c906f3?utm_campaign=1049&utm_source=git)** | United States - Remote | Remote | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
