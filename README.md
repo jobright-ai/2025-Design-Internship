@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mead & Hunt](https://meadhunt.com/)** | **[Interior & Commercial Design Intern](https://jobright.ai/jobs/info/683f56dab9d6f40322e65879?utm_campaign=1049&utm_source=git)** | Bloomington, MN | On Site | Jun 03 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/68301607d46f14f4867c9a89?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jun 03 |
 | **[mPulse](http://www.mpulsemobile.com)** | **[Intern](https://jobright.ai/jobs/info/683e9cf0a66f2ed58b76f9e2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[FALL 2025 - Photography & Video Student Internship/Co-Op](https://jobright.ai/jobs/info/683e44439994d71654486b07?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jun 02 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/683675f8b13369de1a896b6c?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 02 |
@@ -89,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - UX Design - Cloud, AI, Solutions & Enablement (BS/MS)](https://jobright.ai/jobs/info/68375ef67e434f9491b8e0cf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 28 |
 | **[Huckberry](http://huckberry.com)** | **[Apparel Design Intern](https://jobright.ai/jobs/info/67fec146dd174d346366a1bd?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 28 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Aftermarket Photography Intern](https://jobright.ai/jobs/info/681ed3a749eb76b4bf2e7f64?utm_campaign=1049&utm_source=git)** | Danville, IL | On Site | May 28 |
-| **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/683be54086d1fc2ec8b3ed23?utm_campaign=1049&utm_source=git)** | New Castle, DE | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
