@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 UX Intern](https://jobright.ai/jobs/info/683f9d8a1801444deab50fea?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 03 |
 | **[Mead & Hunt](https://meadhunt.com/)** | **[Interior & Commercial Design Intern](https://jobright.ai/jobs/info/683f56dab9d6f40322e65879?utm_campaign=1049&utm_source=git)** | Bloomington, MN | On Site | Jun 03 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/68301607d46f14f4867c9a89?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jun 03 |
-| **[mPulse](http://www.mpulsemobile.com)** | **[Intern](https://jobright.ai/jobs/info/683e9cf0a66f2ed58b76f9e2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[FALL 2025 - Photography & Video Student Internship/Co-Op](https://jobright.ai/jobs/info/683e44439994d71654486b07?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jun 02 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/683675f8b13369de1a896b6c?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 02 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6823e9fe3bfbde056baa7e60?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Jun 02 |
@@ -88,8 +87,5 @@ For a complete list, click the following sortable link below:
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2025](https://jobright.ai/jobs/info/681c0fae47d1e1c6242910be?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | May 29 |
 | **[Porter](https://porter.in)** | **[Interior Design Intern](https://jobright.ai/jobs/info/683e9af9fb6832dce529a710?utm_campaign=1049&utm_source=git)** | US-WA-Seattle | On Site | May 28 |
 | **[Morrison Container Handling Solutions](https://www.morrison-chs.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6837785cb5580bb3c2f3c2c3?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | On Site | May 28 |
-| **[University of Central Florida](https://www.ucf.edu)** | **[Application Systems Analyst I - Student Systems User Experience](https://jobright.ai/jobs/info/68376f0efd011d61ae4d7d9b?utm_campaign=1049&utm_source=git)** | Greater Orlando | Hybrid | May 28 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - UX Design - Cloud, AI, Solutions & Enablement (BS/MS)](https://jobright.ai/jobs/info/68375ef67e434f9491b8e0cf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 28 |
-| **[Huckberry](http://huckberry.com)** | **[Apparel Design Intern](https://jobright.ai/jobs/info/67fec146dd174d346366a1bd?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 28 |
-| **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Aftermarket Photography Intern](https://jobright.ai/jobs/info/681ed3a749eb76b4bf2e7f64?utm_campaign=1049&utm_source=git)** | Danville, IL | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
