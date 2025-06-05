@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stealth Startup](https://www.claimbrite.com)** | **[Design & Marketing Intern – B2C Fintech (Remote or Boston)](https://jobright.ai/jobs/info/6840a55d76145f29765bef11?utm_campaign=1049&utm_source=git)** | Cambridge, MA | Remote | Jun 04 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Exhibition Design Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f70?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | Jun 04 |
 | ↳ | **[[Fall 2025] Graphic Design Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f61?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 04 |
+| **[Evans](http://www.evansonline.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/67b7f90aebe0b965317a352d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 04 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Photographer (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/684069fda088c610bb1c3d75?utm_campaign=1049&utm_source=git)** | Chautauqua, NY | On Site | Jun 04 |
-| **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6840656e9c89ad8e50486631?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
-| ↳ | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6840656e9c89ad8e504868f8?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 04 |
+| **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6840656e9c89ad8e504868f8?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 04 |
+| ↳ | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6840656e9c89ad8e50486631?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
 | **[Tinuiti](https://tinuiti.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/68296f36e24209bb5e385835?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Arcadis](http://www.arcadis.com)** | **[Summer Internship](https://jobright.ai/jobs/info/683e7f7924304d31f3b4f61b?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Jun 04 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 UX Intern](https://jobright.ai/jobs/info/683f9d8a1801444deab50fea?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 03 |
