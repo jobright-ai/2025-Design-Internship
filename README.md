@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/67ec78fd6f76696fd2810915?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Jun 05 |
 | **[Stantec](http://www.stantec.com)** | **[Lighting Design Intern](https://jobright.ai/jobs/info/68415032adb2cc834ae08d0f?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Jun 05 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Packaging Design](https://jobright.ai/jobs/info/684134524871972eb4701e72?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/6840f9b0b3b146380c1279f9?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Jun 04 |
@@ -69,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[Fall 2025] Graphic Design Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f61?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Evans](http://www.evansonline.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/67b7f90aebe0b965317a352d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 04 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Photographer (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/684069fda088c610bb1c3d75?utm_campaign=1049&utm_source=git)** | Chautauqua, NY | On Site | Jun 04 |
-| **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6840656e9c89ad8e50486631?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
-| ↳ | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6840656e9c89ad8e504868f8?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 04 |
+| **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6840656e9c89ad8e504868f8?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 04 |
+| ↳ | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6840656e9c89ad8e50486631?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Site Speed &UX Performance Specialist](https://jobright.ai/jobs/info/682955a19e0a93b00c54aa57?utm_campaign=1049&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 04 |
 | **[Tinuiti](https://tinuiti.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/68296f36e24209bb5e385835?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications (Summer 2025)](https://jobright.ai/jobs/info/68080aa4bf373162fb673819?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jun 04 |
@@ -100,8 +101,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CMF Design Co-op (July through December)](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac466?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | May 30 |
 | **[Hornig Companies, Inc.](https://www.hornigcompanies.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/683a82b45ca1e8b598e7adef?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | May 29 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2025](https://jobright.ai/jobs/info/6838f965dbcb3bb5fade27b5?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | May 29 |
-| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/6838bd69f24ef6cf0106670c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 29 |
-| **[Magnopus](http://www.magnopus.com)** | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6838b0341aafedfea489ec21?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
-| ↳ | **[Intern - 3D Technical Art - Solutions Team](https://jobright.ai/jobs/info/6838a631fd63d5b213931f60?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | On Site | May 29 |
-| **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Graphic Designer-Psychology Department - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/6838c16727208a923cb060d7?utm_campaign=1049&utm_source=git)** | North Adams, MA | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
