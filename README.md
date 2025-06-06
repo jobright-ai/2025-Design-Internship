@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Medcor](https://www.medcor.com/)** | **[Production Artist Intern](https://jobright.ai/jobs/info/6842ee59dd64fe988321540f?utm_campaign=1049&utm_source=git)** | McHenry, IL | Hybrid | Jun 06 |
+| **[John Deere](https://www.deere.com)** | **[Part-Time Student - User Experience Designer - East Moline, IL](https://jobright.ai/jobs/info/684342824a34a9c562327978?utm_campaign=1049&utm_source=git)** | East Moline, IL | Hybrid | Jun 06 |
+| **[Broad River Retail](https://www.broadriverretail.com/)** | **[Showroom Design Intern](https://jobright.ai/jobs/info/6843354ac765a3b6f7e5cc1a?utm_campaign=1049&utm_source=git)** | Asheville, NC | On Site | Jun 06 |
+| **[Carrum Health](https://www.carrumhealth.com)** | **[Digital Asset Management Summer Internship](https://jobright.ai/jobs/info/68433184ed19d3f3dc2990c4?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Jun 06 |
+| **[Swimwear Anywhere Inc.](http://www.swimwearanywhere.com/)** | **[Design Internship](https://jobright.ai/jobs/info/684305c58fc65c39056403f8?utm_campaign=1049&utm_source=git)** | Farmingdale, NY | On Site | Jun 06 |
+| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Interaction Design Intern](https://jobright.ai/jobs/info/682670fbe54ffba663c50561?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 06 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Jun 06 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Graphic Design & Project Management, Food & Beverage* (Spring 2026)](https://jobright.ai/jobs/info/6842a944ede2108159f62df3?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
 | ↳ | **[Internship – Global UXUI Experience Design* (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa361b?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c9a18b17403c3ff26c1ac?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 05 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6808151f2d70fd08bed3949b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jun 05 |
 | **[Stantec](http://www.stantec.com)** | **[Lighting Design Intern](https://jobright.ai/jobs/info/68415032adb2cc834ae08d0f?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Jun 05 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Packaging Design](https://jobright.ai/jobs/info/684134524871972eb4701e72?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/6840f9b0b3b146380c1279f9?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Jun 04 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/683675f8b13369de1a896b6c?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore+ Summit - Summer 2025](https://jobright.ai/jobs/info/6840ecc13fcae41300c09dad?utm_campaign=1049&utm_source=git)** | Columbus, OH, USA | On Site | Jun 04 |
@@ -111,7 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[CSUMB Scientific Illustration Internship (September - December)](https://jobright.ai/jobs/info/68241b65fbe7ee2962c69ab3?utm_campaign=1049&utm_source=git)** | Monterey, CA | On Site | Jun 02 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Athletics Marketing/Graphic Design Internship / Part-Time / Ryan Center and Boss Ice Arena (U of Rhode Island)](https://jobright.ai/jobs/info/683ac7db68c7a3c89f0db0f8?utm_campaign=1049&utm_source=git)** | Kingston, RI | On Site | May 31 |
 | **[Making Waves Education Foundation](http://www.making-waves.org)** | **[UX Research Intern, Fall 2025](https://jobright.ai/jobs/info/683e9145c8eff275d8ebc329?utm_campaign=1049&utm_source=git)** | San Pablo, CA | On Site | May 30 |
-| **[TomoCredit](https://www.tomocredit.com)** | **[Summer Marketing Internship – Graphic Design & Video Production](https://jobright.ai/jobs/info/683a4f10018e850cfc42a911?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | May 30 |
-| **[Pennant](https://pennantgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/683a330fbc974a6dfbdc2331?utm_campaign=1049&utm_source=git)** | Remote, USA | Remote | May 30 |
-| **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/680057d308219b024064bca1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
