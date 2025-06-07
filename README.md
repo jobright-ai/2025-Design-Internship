@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hudl](http://www.hudl.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/6844434e920e04df48b14082?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Jun 07 |
 | **[NORR](https://norr.com)** | **[Student, Interior Design](https://jobright.ai/jobs/info/6843edf6bc0e2307a7b45628?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Jun 07 |
 | **[Powerdata Group Consulting](https://www.powerdatagroup.com/)** | **[Graphic Designer Interns](https://jobright.ai/jobs/info/6843ddef4702ecb31a7bb66e?utm_campaign=1049&utm_source=git)** | Remote job | Remote | Jun 06 |
 | **[Carrum Health](https://www.carrumhealth.com)** | **[Digital Asset Management Summer Internship](https://jobright.ai/jobs/info/68435a3442a8434e1368479b?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Jun 06 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - User Experience Designer - East Moline, IL](https://jobright.ai/jobs/info/684342824a34a9c562327978?utm_campaign=1049&utm_source=git)** | East Moline, IL | Hybrid | Jun 06 |
 | **[Broad River Retail](https://www.broadriverretail.com/)** | **[Showroom Design Intern](https://jobright.ai/jobs/info/6843354ac765a3b6f7e5cc1a?utm_campaign=1049&utm_source=git)** | Asheville, NC | On Site | Jun 06 |
 | **[Carrum Health](https://www.carrumhealth.com)** | **[Digital Asset Management Summer Internship](https://jobright.ai/jobs/info/68433184ed19d3f3dc2990c4?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Jun 06 |
+| **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[Architectural Designer - UMIAQ Design](https://jobright.ai/jobs/info/67357c4481aa836c276aba5c?utm_campaign=1049&utm_source=git)** | Anchorage, AK | On Site | Jun 06 |
 | **[Swimwear Anywhere Inc.](http://www.swimwearanywhere.com/)** | **[Design Internship](https://jobright.ai/jobs/info/684305c58fc65c39056403f8?utm_campaign=1049&utm_source=git)** | Farmingdale, NY | On Site | Jun 06 |
 | **[kate spade new york](https://www.katespade.com/)** | **[Design Apprentice - Novelty](https://jobright.ai/jobs/info/682689e4c91368e834e07494?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 06 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Interaction Design Intern](https://jobright.ai/jobs/info/682670fbe54ffba663c50561?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 06 |
@@ -88,10 +90,10 @@ For a complete list, click the following sortable link below:
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/683675f8b13369de1a896b6c?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore+ Summit - Summer 2025](https://jobright.ai/jobs/info/6840ecc13fcae41300c09dad?utm_campaign=1049&utm_source=git)** | Columbus, OH, USA | On Site | Jun 04 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/6840eca5821f651a15422bb5?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | Jun 04 |
-| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Graphic Design Internship](https://jobright.ai/jobs/info/6840e4600ae2704e22dea8cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 04 |
-| ↳ | **[[Fall 2025] Exhibition Design Internship](https://jobright.ai/jobs/info/6840e4600ae2704e22dea898?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 04 |
-| ↳ | **[[Fall 2025] Exhibition Design Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f70?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | Jun 04 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Exhibition Design Internship](https://jobright.ai/jobs/info/6840e4600ae2704e22dea898?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 04 |
+| ↳ | **[[Fall 2025] Graphic Design Internship](https://jobright.ai/jobs/info/6840e4600ae2704e22dea8cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | ↳ | **[[Fall 2025] Graphic Design Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f61?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 04 |
+| ↳ | **[[Fall 2025] Exhibition Design Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f70?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | Jun 04 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Creative Services Trainee](https://jobright.ai/jobs/info/679ef3fe1cce1953b839853d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 04 |
 | **[Evans](http://www.evansonline.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/67b7f90aebe0b965317a352d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 04 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Photographer (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/684069fda088c610bb1c3d75?utm_campaign=1049&utm_source=git)** | Chautauqua, NY | On Site | Jun 04 |
