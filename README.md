@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship – Visual Merchandise Design (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d10bd?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
 | **[Alstom](https://www.alstom.com/)** | **[Graphic Design Co-op (Fall 2025)](https://jobright.ai/jobs/info/683df139abb1ff44979fe75b?utm_campaign=1049&utm_source=git)** | West Mifflin, PA | On Site | Jun 05 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Creative Design Apprentice](https://jobright.ai/jobs/info/6809527e3ce3dbb25bbb82cb?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Jun 05 |
-| **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6841ab343ad9b71c90f95767?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 05 |
-| ↳ | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6841ab343ad9b71c90f95753?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 05 |
+| **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6841ab343ad9b71c90f95753?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 05 |
+| ↳ | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6841ab343ad9b71c90f95767?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/680a0bc6548edbe0234e9713?utm_campaign=1049&utm_source=git)** | Lancaster, NY | On Site | Jun 05 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/67ec78fd6f76696fd2810915?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Jun 05 |
 | **[IGT](http://igt.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/682955cae53309afe94b00d8?utm_campaign=1049&utm_source=git)** | Providence County, RI | Remote | Jun 05 |
@@ -94,13 +94,13 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2025](https://jobright.ai/jobs/info/6840eca5821f651a15422bb5?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | Jun 04 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Graphic Design Internship](https://jobright.ai/jobs/info/6840e4600ae2704e22dea8cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | ↳ | **[[Fall 2025] Exhibition Design Internship](https://jobright.ai/jobs/info/6840e4600ae2704e22dea898?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 04 |
-| ↳ | **[[Fall 2025] Exhibition Design Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f70?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | Jun 04 |
 | ↳ | **[[Fall 2025] Graphic Design Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f61?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 04 |
+| ↳ | **[[Fall 2025] Exhibition Design Internship](https://jobright.ai/jobs/info/68409b704ec0693395bd9f70?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | Jun 04 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Creative Services Trainee](https://jobright.ai/jobs/info/679ef3fe1cce1953b839853d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 04 |
 | **[Evans](http://www.evansonline.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/67b7f90aebe0b965317a352d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 04 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Photographer (The Chautauquan Daily)/Seasonal Employment](https://jobright.ai/jobs/info/684069fda088c610bb1c3d75?utm_campaign=1049&utm_source=git)** | Chautauqua, NY | On Site | Jun 04 |
-| **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6840656e9c89ad8e504868f8?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 04 |
-| ↳ | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6840656e9c89ad8e50486631?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
+| **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6840656e9c89ad8e50486631?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
+| ↳ | **[PhD UX Research Intern - Summer 2025](https://jobright.ai/jobs/info/6840656e9c89ad8e504868f8?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 04 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 UI/UX Intern (Batchelors)](https://jobright.ai/jobs/info/67c9a36ae3c71a18db9a8c09?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 04 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Site Speed &UX Performance Specialist](https://jobright.ai/jobs/info/682955a19e0a93b00c54aa57?utm_campaign=1049&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 04 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications (Summer 2025)](https://jobright.ai/jobs/info/68080aa4bf373162fb673819?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jun 04 |
@@ -115,6 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/683e11dedce0d944cdfe8a73?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Design Co-Op Program](https://jobright.ai/jobs/info/683df73dc2e8f1df620d6ed9?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Jun 02 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/683df139abb1ff44979fe822?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jun 02 |
-| **[Houston Astros](https://astros.mlb.com/)** | **[Photography Apprentice](https://jobright.ai/jobs/info/683dcff933c535607ff9333e?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jun 02 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - The Central - New Business Design](https://jobright.ai/jobs/info/68345a81db8a5ae2d77c5f10?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Hybrid | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
