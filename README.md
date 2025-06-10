@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6847758c24eacdd4b7f65f67?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 09 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Design Center Intern](https://jobright.ai/jobs/info/68478247fb5cdf8c5cb3074a?utm_campaign=1049&utm_source=git)** | Altamonte Springs, FL | Hybrid | Jun 09 |
+| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/68479a62e65221a5d4d141ad?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 09 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Design Center Intern](https://jobright.ai/jobs/info/68474b3149d66ce393068a21?utm_campaign=1049&utm_source=git)** | CP FOREST CITY COVE9439 FOREST CITY COVE | On Site | Jun 09 |
 | ↳ | **[Design Center Intern](https://jobright.ai/jobs/info/68474b3149d66ce393068d43?utm_campaign=1049&utm_source=git)** | US-FL-Altamonte Springs | On Site | Jun 09 |
 | **[Barrel](http://www.barrelny.com)** | **[Design Intern](https://jobright.ai/jobs/info/6847434690a4855705eba66e?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 09 |
