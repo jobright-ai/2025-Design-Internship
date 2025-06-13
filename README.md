@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FIGS](http://www.wearfigs.com)** | **[Manager, Graphic Design (International)](https://jobright.ai/jobs/info/684bc077bc94e0abd307075d?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Jun 12 |
 | **[Amherst H. Wilder Foundation](https://www.wilder.org)** | **[Content Creation Intern](https://jobright.ai/jobs/info/684b8fa8a36551061370d80f?utm_campaign=1049&utm_source=git)** | St Paul, MN | On Site | Jun 12 |
 | **[New York Blood Center](https://www.nybc.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/684b8d4aafcacdc80b9c492a?utm_campaign=1049&utm_source=git)** | Rye, NY | On Site | Jun 12 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/684b8a9e86dff4492d60edb4?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 12 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[OMA](http://www.oma.com/)** | **[Internship Architecture – Fall 2025](https://jobright.ai/jobs/info/684aee6d128176656f8016a7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Searchlight Creative Advertising Intern, Fall 2025](https://jobright.ai/jobs/info/684ae7af482a40e62175d089?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Jun 12 |
 | **[Arcadis](http://www.arcadis.com)** | **[Interior Design Materials Library Intern](https://jobright.ai/jobs/info/683fea3a54e5502422acc033?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 12 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Packaging Design](https://jobright.ai/jobs/info/682e66f64de36dfb980acce5?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67e25b7461ae2e5d7d2a1925?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 12 |
 | **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Creative Content Communications (Fall 2025)](https://jobright.ai/jobs/info/684a40528f8eca54df285340?utm_campaign=1049&utm_source=git)** | Dublin, VA | On Site | Jun 11 |
 | **[iRobot](https://www.irobot.com)** | **[Fall 2025: Creative Services Intern (Undergraduate)](https://jobright.ai/jobs/info/684a2ed6f60c101fb82a39d2?utm_campaign=1049&utm_source=git)** | Bedford, MA | On Site | Jun 11 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[eLocal](https://www.elocal.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6824eb2346e340d990dac266?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[INTERN ARCHITECT / ASSOCIATE](https://jobright.ai/jobs/info/6849df55a24bffc7139e827f?utm_campaign=1049&utm_source=git)** | Ithaca, NY | On Site | Jun 11 |
 | **[NPR](http://www.npr.org)** | **[Design Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/6849ca803c600c61a575ae2c?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 11 |
-| **[BlueHalo](https://www.bluehalo.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6848aed4c5692f03bef7d160?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 11 |
 | **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/68114774ac0e5e4a48a7ea5d?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Jun 11 |
 | **[BCI Brands](https://www.bcibrands.com)** | **[Sweater Design (Intern)](https://jobright.ai/jobs/info/684917b19d9c78fe66bc4838?utm_campaign=1049&utm_source=git)** | New York County, NY | On Site | Jun 10 |
 | **[Escalade Sports](https://www.escaladesports.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/684a498064fc6ac7462a84c0?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Jun 10 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[University of Florida](https://www.ufl.edu)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/6849ee596f5358f0dde4b96a?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Jun 10 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Graphic Design Intern, Partnerships](https://jobright.ai/jobs/info/6848bdf97e4423f1ae1989f1?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Jun 10 |
 | **[Auberge Resorts Collection](https://aubergeresorts.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68489cbd40e3b9e432d35440?utm_campaign=1049&utm_source=git)** | Bethesda, MD | On Site | Jun 10 |
+| **[BlueHalo](https://www.bluehalo.com)** | **[Design Intern](https://jobright.ai/jobs/info/6848aed4c5692f03bef7d160?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 10 |
 | **[Code and Theory](http://www.codeandtheory.com)** | **[Design Fellowship](https://jobright.ai/jobs/info/6848959d7f92b9d5c784e0be?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[Editorial Graphics/Research, Archives & Data Strategy Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/684892b64383b04aa192c92a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - User Experience Designer - East Moline, IL](https://jobright.ai/jobs/info/68488fe6d08fb4f7582e5161?utm_campaign=1049&utm_source=git)** | East Moline, IL | Hybrid | Jun 10 |
@@ -107,9 +109,10 @@ For a complete list, click the following sortable link below:
 | **[NPR](http://www.npr.org)** | **[Editorial Graphics/Research, Archives & Data Strategy Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217eb9?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Jun 10 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 UX Intern](https://jobright.ai/jobs/info/683f9d8a1801444deab50fea?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 10 |
 | **[Hudl](http://www.hudl.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/68481251c95817661f8447a2?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Jun 10 |
+| **[Priority Designs](http://www.prioritydesigns.com)** | **[Fall Semester 2025 Industrial Design Co-op](https://jobright.ai/jobs/info/684bb35bacd623d722c67e40?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | Jun 09 |
 | **[Barrel](http://www.barrelny.com)** | **[Design Intern](https://jobright.ai/jobs/info/6847434690a4855705eba66e?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 09 |
-| **[BHDP Architecture](http://bhdp.com)** | **[Fall 2025 Architect Internship / Cincinnati](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0acfc?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
-| ↳ | **[Fall 2025 Architect Internship / Charlotte](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0ad08?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 09 |
+| **[BHDP Architecture](http://bhdp.com)** | **[Fall 2025 Architect Internship / Charlotte](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0ad08?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 09 |
+| ↳ | **[Fall 2025 Architect Internship / Cincinnati](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0acfc?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
 | ↳ | **[Fall 2025 Interior Design Internship / Cincinnati](https://jobright.ai/jobs/info/684735a077aaacabe63192bf?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
 | **[Influur](https://www.influur.com)** | **[Design Ninja Internship](https://jobright.ai/jobs/info/684731c616dfbddd20857427?utm_campaign=1049&utm_source=git)** | Florida, United States | Remote | Jun 09 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Experience Strategy & Graphic Design, Digital Technology (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d1011?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 09 |
@@ -132,8 +135,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Interior Design Paid Intern (Full-Time) - Special Projects Department](https://jobright.ai/jobs/info/68434c39ac43eee0f9136831?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jun 06 |
 | **[Broad River Retail](https://www.broadriverretail.com/)** | **[Showroom Design Intern](https://jobright.ai/jobs/info/6843354ac765a3b6f7e5cc1a?utm_campaign=1049&utm_source=git)** | Asheville, NC | On Site | Jun 06 |
 | **[Carrum Health](https://www.carrumhealth.com)** | **[Digital Asset Management Summer Internship](https://jobright.ai/jobs/info/68433184ed19d3f3dc2990c4?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Jun 06 |
-| **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[Architectural Designer - UMIAQ Design](https://jobright.ai/jobs/info/67357c4481aa836c276aba5c?utm_campaign=1049&utm_source=git)** | Anchorage, AK | On Site | Jun 06 |
-| **[Swimwear Anywhere Inc.](http://www.swimwearanywhere.com/)** | **[Design Internship](https://jobright.ai/jobs/info/684305c58fc65c39056403f8?utm_campaign=1049&utm_source=git)** | Farmingdale, NY | On Site | Jun 06 |
-| **[kate spade new york](https://www.katespade.com/)** | **[Design Apprentice - Novelty](https://jobright.ai/jobs/info/682689e4c91368e834e07494?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 06 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Interaction Design Intern](https://jobright.ai/jobs/info/682670fbe54ffba663c50561?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
