@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Caltech](http://www.caltech.edu)** | **[Research Intern](https://jobright.ai/jobs/info/684b67131981744e3f959f0c?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Jun 12 |
+| **[ShipHawk](http://shiphawk.com)** | **[Product / UX Intern - Summer 25](https://jobright.ai/jobs/info/684b5fc885557cd1fb9999cf?utm_campaign=1049&utm_source=git)** | Santa Barbara, CA | On Site | Jun 12 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/684b4cbaa1f17468271abe6b?utm_campaign=1049&utm_source=git)** | Portland, Oregon | On Site | Jun 12 |
+| ↳ | **[Industrial Designer Intern](https://jobright.ai/jobs/info/684b4cbaa1f17468271abe5e?utm_campaign=1049&utm_source=git)** | Olathe, Kansas | On Site | Jun 12 |
+| **[Gibraltar Industries](http://www.gibraltar1.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/684b3eefc556f7d812f5f48a?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Jun 12 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Future Product Innovation Research Intern, HCI Creativity](https://jobright.ai/jobs/info/684b1ba8de776858be73d715?utm_campaign=1049&utm_source=git)** | Los Altos, CA | Hybrid | Jun 12 |
 | **[ShipHawk](http://shiphawk.com)** | **[Product / UX Intern - Summer 25 ](https://jobright.ai/jobs/info/684b1ba8de776858be73d6b9?utm_campaign=1049&utm_source=git)** | Santa Barbara, CA | On Site | Jun 12 |
 | **[D&A Communications](https://davisimpact.com/)** | **[Graphic Design/Production Intern](https://jobright.ai/jobs/info/684b05b323129a0b22785dd8?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Jun 12 |
@@ -79,8 +84,6 @@ For a complete list, click the following sortable link below:
 | **[eLocal](https://www.elocal.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6824eb2346e340d990dac266?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[INTERN ARCHITECT / ASSOCIATE](https://jobright.ai/jobs/info/6849df55a24bffc7139e827f?utm_campaign=1049&utm_source=git)** | Ithaca, NY | On Site | Jun 11 |
 | **[NPR](http://www.npr.org)** | **[Design Intern - Fall/Winter 2025](https://jobright.ai/jobs/info/6849ca803c600c61a575ae2c?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 11 |
-| **[IFF](http://iff.com)** | **[Intern, HCI Global Home Care Category](https://jobright.ai/jobs/info/6849bae57dfaec6520a74006?utm_campaign=1049&utm_source=git)** | Holmdel, NJ | On Site | Jun 11 |
-| ↳ | **[Intern, HCI Global Home Care Category](https://jobright.ai/jobs/info/684993c69c6e20dc63064d30?utm_campaign=1049&utm_source=git)** | Holmdel, NJ USA | On Site | Jun 11 |
 | **[BlueHalo](https://www.bluehalo.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6848aed4c5692f03bef7d160?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 11 |
 | **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/68114774ac0e5e4a48a7ea5d?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Jun 11 |
 | **[BCI Brands](https://www.bcibrands.com)** | **[Sweater Design (Intern)](https://jobright.ai/jobs/info/684917b19d9c78fe66bc4838?utm_campaign=1049&utm_source=git)** | New York County, NY | On Site | Jun 10 |
@@ -131,7 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Interaction Design Intern](https://jobright.ai/jobs/info/682670fbe54ffba663c50561?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 06 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Jun 06 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Graphic Design & Project Management, Food & Beverage* (Spring 2026)](https://jobright.ai/jobs/info/6842a944ede2108159f62df3?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
-| ↳ | **[Internship – Global UXUI Experience Design* (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa361b?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
-| ↳ | **[Internship – Horticulture Design (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa3579?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Visual Merchandise Design (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d10bd?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
