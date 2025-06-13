@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amherst H. Wilder Foundation](https://www.wilder.org)** | **[Content Creation Intern](https://jobright.ai/jobs/info/684b8fa8a36551061370d80f?utm_campaign=1049&utm_source=git)** | St Paul, MN | On Site | Jun 12 |
+| **[New York Blood Center](https://www.nybc.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/684b8d4aafcacdc80b9c492a?utm_campaign=1049&utm_source=git)** | Rye, NY | On Site | Jun 12 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/684b8a9e86dff4492d60edb4?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 12 |
+| ↳ | **[Industrial Designer Intern](https://jobright.ai/jobs/info/684b84b44025a751a37f995b?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Jun 12 |
 | **[Caltech](http://www.caltech.edu)** | **[Research Intern](https://jobright.ai/jobs/info/684b67131981744e3f959f0c?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Jun 12 |
 | **[ShipHawk](http://shiphawk.com)** | **[Product / UX Intern - Summer 25](https://jobright.ai/jobs/info/684b5fc885557cd1fb9999cf?utm_campaign=1049&utm_source=git)** | Santa Barbara, CA | On Site | Jun 12 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/684b4cbaa1f17468271abe6b?utm_campaign=1049&utm_source=git)** | Portland, Oregon | On Site | Jun 12 |
@@ -132,6 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Swimwear Anywhere Inc.](http://www.swimwearanywhere.com/)** | **[Design Internship](https://jobright.ai/jobs/info/684305c58fc65c39056403f8?utm_campaign=1049&utm_source=git)** | Farmingdale, NY | On Site | Jun 06 |
 | **[kate spade new york](https://www.katespade.com/)** | **[Design Apprentice - Novelty](https://jobright.ai/jobs/info/682689e4c91368e834e07494?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 06 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Interaction Design Intern](https://jobright.ai/jobs/info/682670fbe54ffba663c50561?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 06 |
-| **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Jun 06 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Graphic Design & Project Management, Food & Beverage* (Spring 2026)](https://jobright.ai/jobs/info/6842a944ede2108159f62df3?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
