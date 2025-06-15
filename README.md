@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rule Joy Trammell Rubio](https://rjtrdesign.com/)** | **[Architectural & Interior Design Internship](https://jobright.ai/jobs/info/684ea0512018faca7d1ae767?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 15 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3263?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jun 14 |
 | **[Profitable Ideas Exchange](https://www.profitableideas.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/684e37cbb6a955464d6dbdcd?utm_campaign=1049&utm_source=git)** | Bozeman, MT | On Site | Jun 14 |
 | **[Community Options, Inc.](https://www.comop.org/)** | **[UX Design Intern](https://jobright.ai/jobs/info/684d1e9e7d73e770fd2777ae?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 14 |
@@ -110,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[FALL 2025 - Photography & Video Student Internship/Co-Op](https://jobright.ai/jobs/info/683e44439994d71654486b07?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jun 11 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Packaging Designer Intern/Co-op (Marshfield, WI)](https://jobright.ai/jobs/info/683924e09e14dc367946d66b?utm_campaign=1049&utm_source=git)** | Marshfield, WI | On Site | Jun 11 |
 | **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/68114774ac0e5e4a48a7ea5d?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Jun 11 |
+| **[BlueHalo](https://www.bluehalo.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6848aed4c5692f03bef7d160?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 11 |
 | **[University of Florida](https://www.ufl.edu)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/684e6be7a29d413a8d422509?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Jun 10 |
 | **[BCI Brands](https://www.bcibrands.com)** | **[Sweater Design (Intern)](https://jobright.ai/jobs/info/684917b19d9c78fe66bc4838?utm_campaign=1049&utm_source=git)** | New York County, NY | On Site | Jun 10 |
 | **[Escalade Sports](https://www.escaladesports.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/684a498064fc6ac7462a84c0?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Jun 10 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 2](https://jobright.ai/jobs/info/6848d6bc8af5a8702e6efde9?utm_campaign=1049&utm_source=git)** | York Pennsylvania | Hybrid | Jun 10 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Graphic Design Intern, Partnerships](https://jobright.ai/jobs/info/6848bdf97e4423f1ae1989f1?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Jun 10 |
 | **[Auberge Resorts Collection](https://aubergeresorts.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68489cbd40e3b9e432d35440?utm_campaign=1049&utm_source=git)** | Bethesda, MD | On Site | Jun 10 |
-| **[BlueHalo](https://www.bluehalo.com)** | **[Design Intern](https://jobright.ai/jobs/info/6848aed4c5692f03bef7d160?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 10 |
 | **[Code and Theory](http://www.codeandtheory.com)** | **[Design Fellowship](https://jobright.ai/jobs/info/6848959d7f92b9d5c784e0be?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[Editorial Graphics/Research, Archives & Data Strategy Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/684892b64383b04aa192c92a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - User Experience Designer - East Moline, IL](https://jobright.ai/jobs/info/68488fe6d08fb4f7582e5161?utm_campaign=1049&utm_source=git)** | East Moline, IL | Hybrid | Jun 10 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Hudl](http://www.hudl.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/68481251c95817661f8447a2?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Jun 10 |
 | **[Priority Designs](http://www.prioritydesigns.com)** | **[Fall Semester 2025 Industrial Design Co-op](https://jobright.ai/jobs/info/684bb35bacd623d722c67e40?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | Jun 09 |
 | **[Barrel](http://www.barrelny.com)** | **[Design Intern](https://jobright.ai/jobs/info/6847434690a4855705eba66e?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 09 |
-| **[BHDP Architecture](http://bhdp.com)** | **[Fall 2025 Architect Internship / Charlotte](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0ad08?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 09 |
-| ↳ | **[Fall 2025 Architect Internship / Cincinnati](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0acfc?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
+| **[BHDP Architecture](http://bhdp.com)** | **[Fall 2025 Architect Internship / Cincinnati](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0acfc?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
+| ↳ | **[Fall 2025 Architect Internship / Charlotte](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0ad08?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 09 |
 | ↳ | **[Fall 2025 Interior Design Internship / Cincinnati](https://jobright.ai/jobs/info/684735a077aaacabe63192bf?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
 | **[Influur](https://www.influur.com)** | **[Design Ninja Internship](https://jobright.ai/jobs/info/684731c616dfbddd20857427?utm_campaign=1049&utm_source=git)** | Florida, United States | Remote | Jun 09 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Experience Strategy & Graphic Design, Digital Technology (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d1011?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 09 |
