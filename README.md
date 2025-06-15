@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0c992?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jun 15 |
+| **[HDR](http://www.hdrinc.com)** | **[NOMA HBCU Professional Development Career Fair](https://jobright.ai/jobs/info/67dc2f6844b4e8d74ae5d781?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Jun 15 |
 | **[Rule Joy Trammell Rubio](https://rjtrdesign.com/)** | **[Architectural & Interior Design Internship](https://jobright.ai/jobs/info/684ea0512018faca7d1ae767?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 15 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3263?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jun 14 |
 | **[Profitable Ideas Exchange](https://www.profitableideas.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/684e37cbb6a955464d6dbdcd?utm_campaign=1049&utm_source=git)** | Bozeman, MT | On Site | Jun 14 |
@@ -81,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[TapBlaze](http://www.tapblaze.com)** | **[Creative Assistant Internship](https://jobright.ai/jobs/info/684c951cba4db2b77202404b?utm_campaign=1049&utm_source=git)** | Los Angeles Office | On Site | Jun 12 |
 | **[Caltech](http://www.caltech.edu)** | **[Research Intern](https://jobright.ai/jobs/info/684b67131981744e3f959f0c?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Jun 12 |
 | **[ShipHawk](http://shiphawk.com)** | **[Product / UX Intern - Summer 25](https://jobright.ai/jobs/info/684b5fc885557cd1fb9999cf?utm_campaign=1049&utm_source=git)** | Santa Barbara, CA | On Site | Jun 12 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/684b4cbaa1f17468271abe6b?utm_campaign=1049&utm_source=git)** | Portland, Oregon | On Site | Jun 12 |
-| ↳ | **[Industrial Designer Intern](https://jobright.ai/jobs/info/684b4cbaa1f17468271abe5e?utm_campaign=1049&utm_source=git)** | Olathe, Kansas | On Site | Jun 12 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/684b4cbaa1f17468271abe5e?utm_campaign=1049&utm_source=git)** | Olathe, Kansas | On Site | Jun 12 |
+| ↳ | **[Industrial Designer Intern](https://jobright.ai/jobs/info/684b4cbaa1f17468271abe6b?utm_campaign=1049&utm_source=git)** | Portland, Oregon | On Site | Jun 12 |
 | **[Gibraltar Industries](http://www.gibraltar1.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/684b3eefc556f7d812f5f48a?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Jun 12 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Future Product Innovation Research Intern, HCI Creativity](https://jobright.ai/jobs/info/684b1ba8de776858be73d715?utm_campaign=1049&utm_source=git)** | Los Altos, CA | Hybrid | Jun 12 |
 | **[ShipHawk](http://shiphawk.com)** | **[Product / UX Intern - Summer 25 ](https://jobright.ai/jobs/info/684b1ba8de776858be73d6b9?utm_campaign=1049&utm_source=git)** | Santa Barbara, CA | On Site | Jun 12 |
