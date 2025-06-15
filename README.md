@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[VEGA Level and Pressure](http://vega.com)** | **[Graphic Design Co-Op - Fall 2025](https://jobright.ai/jobs/info/684dcb903dd451d16f944926?utm_campaign=1049&utm_source=git)** | Mason, OH | On Site | Jun 14 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3263?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jun 14 |
 | **[New York Blood Center](https://www.nybc.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/684d59002c0723c7e31d0b9e?utm_campaign=1049&utm_source=git)** | Rye, NY | Hybrid | Jun 14 |
 | **[Community Options, Inc.](https://www.comop.org/)** | **[UX Design Intern](https://jobright.ai/jobs/info/684d1e9e7d73e770fd2777ae?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 14 |
