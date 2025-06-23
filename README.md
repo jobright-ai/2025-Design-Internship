@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bialek Environments](http://bialek.com)** | **[Design Intern](https://jobright.ai/jobs/info/6858c3311a2153f3f29fd715?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jun 22 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Photography Intern / Scotty Cameron Putters](https://jobright.ai/jobs/info/68586478f902c9f7ecba7e8a?utm_campaign=1049&utm_source=git)** | San Marcos, CA | On Site | Jun 22 |
+| **[Frank Shirley Architects](http://www.frankshirleyarchitects.com)** | **[Junior Designer / Intern Architect](https://jobright.ai/jobs/info/6858c14eb0556ba5f8d328aa?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jun 22 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/685860070704af3717b5c178?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 22 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[EMM Student Graphic Designer (Remote)](https://jobright.ai/jobs/info/6857df63503a0fee7e08394f?utm_campaign=1049&utm_source=git)** | Naperville, IL | Remote | Jun 22 |
 | **[Newton Public Schools](https://www.newton.k12.ma.us)** | **[Summer Intern/Graphics](https://jobright.ai/jobs/info/6857ccaf5ac3faa0219c1c26?utm_campaign=1049&utm_source=git)** | Newton, MA | On Site | Jun 22 |
@@ -77,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - UX Design - Cloud, AI, Solutions & Enablement (BS/MS)](https://jobright.ai/jobs/info/68375ef67e434f9491b8e0cf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 19 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Interior Communications - Master Tradesperson (SkillBridge Intern) - 18125](https://jobright.ai/jobs/info/66cb13e034a1a605c8620537?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Jun 19 |
 | **[Inspire](https://inspirebrands.com)** | **[Design & Creative Intern](https://jobright.ai/jobs/info/685411cc29aa7224b99acbac?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 19 |
-| **[Southern Utah University](http://www.suu.edu/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bebf?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
-| ↳ | **[Photography Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bee7?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
+| **[Southern Utah University](http://www.suu.edu/)** | **[Photography Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bee7?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bebf?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
 | **[Everspring](http://everspringpartners.com)** | **[Creative Director](https://jobright.ai/jobs/info/6853d36881868f79ea07c921?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 19 |
 | **[RPA](http://www.rpa.com)** | **[The Advertising Internship - Fall 2025 - All Departments (Except Art Direction and Copywriting)](https://jobright.ai/jobs/info/6853d36881868f79ea07caf7?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Remote | Jun 18 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Production Intern](https://jobright.ai/jobs/info/6853e515a268d6d82f3d6526?utm_campaign=1049&utm_source=git)** | Gilbert, AZ | Hybrid | Jun 18 |
@@ -104,18 +106,17 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CG Artist Intern (September to December)](https://jobright.ai/jobs/info/6850fd9aee61051f79f3343b?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 16 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2025 Graphic Design/Creative Undergraduate Internship](https://jobright.ai/jobs/info/6850dec4b74c6cfc50088015?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[ECU Health](http://www.ECUHealth.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6850c107e5a6ebcd0e55c301?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Jun 16 |
-| **[Page](http://pagethink.com)** | **[Visual Computational Storytelling Intern](https://jobright.ai/jobs/info/6850be4cf4b2684588eea353?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jun 16 |
-| ↳ | **[Visual Computational Storytelling Intern](https://jobright.ai/jobs/info/6850be4cf4b2684588eea350?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 16 |
+| **[Page](http://pagethink.com)** | **[Visual Computational Storytelling Intern](https://jobright.ai/jobs/info/6850be4cf4b2684588eea350?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 16 |
+| ↳ | **[Visual Computational Storytelling Intern](https://jobright.ai/jobs/info/6850be4cf4b2684588eea353?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jun 16 |
 | ↳ | **[Visual Computational Storytelling Intern](https://jobright.ai/jobs/info/6850bb764bc4e2d9774a9b26?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jun 16 |
 | ↳ | **[Visual Computational Storytelling Intern](https://jobright.ai/jobs/info/6850bb634bc4e2d9774a934b?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Jun 16 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2025 - Interior Design - College Intern (Appleton)](https://jobright.ai/jobs/info/6850a639e7248cb8f36e767b?utm_campaign=1049&utm_source=git)** | Appleton, WI | On Site | Jun 16 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CG Artist Intern (September to December)](https://jobright.ai/jobs/info/68509cfd9772f1cac9e318ed?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jun 16 |
-| **[Page](http://pagethink.com)** | **[Visual Computational Storytelling Intern](https://jobright.ai/jobs/info/68506dee1c7b907b2da1be7f?utm_campaign=1049&utm_source=git)** | San Francisco, California | On Site | Jun 16 |
+| **[Page](http://pagethink.com)** | **[Visual Computational Storytelling Intern](https://jobright.ai/jobs/info/68506dee1c7b907b2da1bed0?utm_campaign=1049&utm_source=git)** | Austin, Texas | On Site | Jun 16 |
 | ↳ | **[Visual Computational Storytelling Intern](https://jobright.ai/jobs/info/68506dee1c7b907b2da1bf59?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Jun 16 |
+| ↳ | **[Visual Computational Storytelling Intern](https://jobright.ai/jobs/info/68506dee1c7b907b2da1be7f?utm_campaign=1049&utm_source=git)** | San Francisco, California | On Site | Jun 16 |
 | ↳ | **[Visual Computational Storytelling Intern](https://jobright.ai/jobs/info/68506dee1c7b907b2da1bef6?utm_campaign=1049&utm_source=git)** | Houston, Texas | On Site | Jun 16 |
-| ↳ | **[Visual Computational Storytelling Intern](https://jobright.ai/jobs/info/68506dee1c7b907b2da1bed0?utm_campaign=1049&utm_source=git)** | Austin, Texas | On Site | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685026cd4bc72090b9c1de68?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 16 |
 | ↳ | **[(General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685023a33db3601c8302c705?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 16 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern - UI/UX Researcher – Human Factor Engineer](https://jobright.ai/jobs/info/67dc6fdfa1a6e4f7706368e2?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jun 16 |
-| **[Sevenson Environmental Services Inc.](http://www.sevenson.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/684fe1f5477081aefbc18c31?utm_campaign=1049&utm_source=git)** | Niagara Falls, NY | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
