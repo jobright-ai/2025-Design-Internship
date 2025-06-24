@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/683e11dedce0d944cdfe8a73?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 24 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Industrial Design Co-op (late July through December)](https://jobright.ai/jobs/info/685a973bd1c64545349dff4e?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 24 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Game Design Intern](https://jobright.ai/jobs/info/685a50feb61b97102caf06eb?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 24 |
 | **[Stantec](http://www.stantec.com)** | **[Library Intern, Interior Design Buildings (Fall 2025),](https://jobright.ai/jobs/info/685a4b755888d5aac58189ce?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 23 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Game Design Intern](https://jobright.ai/jobs/info/685a1edcd04fc67202166678?utm_campaign=1049&utm_source=git)** | Dallas | On Site | Jun 23 |
@@ -98,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[GBBN Architects](https://www.gbbn.com/)** | **[Fall 2025 Architecture Co-Op](https://jobright.ai/jobs/info/68532b335e267793b9948383?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 18 |
 | **[Inspire](https://inspirebrands.com)** | **[Design & Creative Intern](https://jobright.ai/jobs/info/685315305cd31e0b4ade727c?utm_campaign=1049&utm_source=git)** | Atlanta Support Center | On Site | Jun 18 |
 | **[Stantec](http://www.stantec.com)** | **[Lighting Design Intern](https://jobright.ai/jobs/info/68530d29efd641355a20d650?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Jun 18 |
-| **[Huckberry](http://huckberry.com)** | **[Apparel Design Intern](https://jobright.ai/jobs/info/67fec146dd174d346366a1bd?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jun 18 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/683be54086d1fc2ec8b3ed23?utm_campaign=1049&utm_source=git)** | New Castle, DE | On Site | Jun 18 |
 | ↳ | **[Internship - Designer](https://jobright.ai/jobs/info/6818d57daae045450d1a99b9?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Jun 18 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Visual Development Intern, DreamWorks, Fall 2025](https://jobright.ai/jobs/info/6852080396a63c79dcded42e?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Jun 17 |
@@ -108,6 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Overdrive Interactive](http://www.ovrdrv.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6851e2a69d0e7776947976eb?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jun 17 |
 | **[BNO a creative agency (Baldwin & Obenauf, Inc.)](http://bnoinc.com)** | **[Creative Design Internship](https://jobright.ai/jobs/info/6851e2909d0e77769479712d?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | Hybrid | Jun 17 |
 | **[Stevenson University](http://www.stevenson.edu/)** | **[Student Assistant – Exhibitions](https://jobright.ai/jobs/info/6851dd52d6b38026301bfa58?utm_campaign=1049&utm_source=git)** | Owings Mills, MD | On Site | Jun 17 |
-| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Visual Arts Archive and Exhibition Framer Intern](https://jobright.ai/jobs/info/6851d503e5840b62a717731b?utm_campaign=1049&utm_source=git)** | BYU–Hawaii | On Site | Jun 17 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Outreach Communications and Design Assistant](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c08d3?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
