@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pacagen](http://pacagen.com/)** | **[TikTok Creator Intern](https://jobright.ai/jobs/info/68599ff61e0ccd0524a78a81?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 23 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Apprentice Product Designer](https://jobright.ai/jobs/info/68599df503ce8919a76a5b85?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 23 |
+| **[Primal Wear](https://www.primalwear.com/)** | **[Design Artist Intern](https://jobright.ai/jobs/info/6859c36b8c4ce1f832dd8cd1?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 23 |
+| **[Pinterest](https://www.pinterest.com/)** | **[Apprentice Product Designer](https://jobright.ai/jobs/info/6859b4bff33d05e394eee9e8?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Jun 23 |
+| ↳ | **[Apprentice Product Designer](https://jobright.ai/jobs/info/68599df503ce8919a76a5b85?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 23 |
 | **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[Apprentice Product Designer](https://jobright.ai/jobs/info/685999ee90e3e2ff27fa1d74?utm_campaign=1049&utm_source=git)** | San Francisco, CA, US | On Site | Jun 23 |
 | **[Atmosfy](https://atmosfy.io)** | **[UX Research Intern](https://jobright.ai/jobs/info/6853412e6089533c0e276fd8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 23 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Industrial Design Co-op (late July through December)](https://jobright.ai/jobs/info/685967d6273d1b6e4dba0a76?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jun 23 |
@@ -77,11 +78,10 @@ For a complete list, click the following sortable link below:
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 UI/UX Intern (Batchelors)](https://jobright.ai/jobs/info/67c9a36ae3c71a18db9a8c09?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 20 |
 | ↳ | **[Fall 2025 UX Intern](https://jobright.ai/jobs/info/683f9d8a1801444deab50fea?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 20 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/685603aee2751676a9c7cb0a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
-| **[HealingHand Tech](https://healinghand.tech)** | **[Game UX Design Intern](https://jobright.ai/jobs/info/685448af8cb3a6046c704c9d?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Jun 19 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - UX Design - Cloud, AI, Solutions & Enablement (BS/MS)](https://jobright.ai/jobs/info/68375ef67e434f9491b8e0cf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 19 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Interior Communications - Master Tradesperson (SkillBridge Intern) - 18125](https://jobright.ai/jobs/info/66cb13e034a1a605c8620537?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Jun 19 |
-| **[Southern Utah University](http://www.suu.edu/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bebf?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
-| ↳ | **[Photography Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bee7?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
+| **[Southern Utah University](http://www.suu.edu/)** | **[Photography Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bee7?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bebf?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
 | **[Everspring](http://everspringpartners.com)** | **[Creative Director](https://jobright.ai/jobs/info/6853d36881868f79ea07c921?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 19 |
 | **[RPA](http://www.rpa.com)** | **[The Advertising Internship - Fall 2025 - All Departments (Except Art Direction and Copywriting)](https://jobright.ai/jobs/info/6853d36881868f79ea07caf7?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Remote | Jun 18 |
 | **[Pond & Company](http://pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Jun 18 |
@@ -104,6 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Visual Arts Archive and Exhibition Framer Intern](https://jobright.ai/jobs/info/6851d503e5840b62a717731b?utm_campaign=1049&utm_source=git)** | BYU–Hawaii | On Site | Jun 17 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Outreach Communications and Design Assistant](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c08d3?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 17 |
 | **[Getty Images](https://www.gettyimages.com)** | **[Intern for Editorial Entertainment Photography](https://jobright.ai/jobs/info/68518d7c000c4536d467c3aa?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CG Artist Intern (September to December)](https://jobright.ai/jobs/info/6850fd9aee61051f79f3343b?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 16 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2025 Graphic Design/Creative Undergraduate Internship](https://jobright.ai/jobs/info/6850dec4b74c6cfc50088015?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
