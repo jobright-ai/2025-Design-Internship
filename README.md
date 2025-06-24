@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HKS, Inc.](http://www.hksinc.com/)** | **[Game Design Intern](https://jobright.ai/jobs/info/685a50feb61b97102caf06eb?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 24 |
+| **[Stantec](http://www.stantec.com)** | **[Library Intern, Interior Design Buildings (Fall 2025),](https://jobright.ai/jobs/info/685a4b755888d5aac58189ce?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 23 |
+| **[HKS, Inc.](http://www.hksinc.com/)** | **[Game Design Intern](https://jobright.ai/jobs/info/685a1edcd04fc67202166678?utm_campaign=1049&utm_source=git)** | Dallas | On Site | Jun 23 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Experiential Designer - Internship](https://jobright.ai/jobs/info/685a0539eb7d70052484be50?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 23 |
+| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Fall 2025)](https://jobright.ai/jobs/info/685a22d59b2e71193bbd0a52?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 23 |
+| **[Eccalon, LLC](https://www.eccalon.com)** | **[Internship](https://jobright.ai/jobs/info/685a4ad9a0b2587615a905b1?utm_campaign=1049&utm_source=git)** | Hanover, MD | On Site | Jun 23 |
 | **[NEON](https://neonrated.com)** | **[NEON Digital Distribution Intern, Fall 2025](https://jobright.ai/jobs/info/685a16f526818caaa6a10a61?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | **[Primal Wear](https://www.primalwear.com/)** | **[Design Artist Intern](https://jobright.ai/jobs/info/6859c36b8c4ce1f832dd8cd1?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 23 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Apprentice Product Designer](https://jobright.ai/jobs/info/6859b4bff33d05e394eee9e8?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Jun 23 |
@@ -82,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/685603aee2751676a9c7cb0a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - UX Design - Cloud, AI, Solutions & Enablement (BS/MS)](https://jobright.ai/jobs/info/68375ef67e434f9491b8e0cf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 19 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Interior Communications - Master Tradesperson (SkillBridge Intern) - 18125](https://jobright.ai/jobs/info/66cb13e034a1a605c8620537?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Jun 19 |
-| **[Southern Utah University](http://www.suu.edu/)** | **[Photography Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bee7?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bebf?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
+| **[Southern Utah University](http://www.suu.edu/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bebf?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
+| ↳ | **[Photography Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bee7?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
 | **[Everspring](http://everspringpartners.com)** | **[Creative Director](https://jobright.ai/jobs/info/6853d36881868f79ea07c921?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 19 |
 | **[RPA](http://www.rpa.com)** | **[The Advertising Internship - Fall 2025 - All Departments (Except Art Direction and Copywriting)](https://jobright.ai/jobs/info/6853d36881868f79ea07caf7?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Remote | Jun 18 |
 | **[Pond & Company](http://pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Jun 18 |
@@ -103,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Overdrive Interactive](http://www.ovrdrv.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6851e2a69d0e7776947976eb?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jun 17 |
 | **[BNO a creative agency (Baldwin & Obenauf, Inc.)](http://bnoinc.com)** | **[Creative Design Internship](https://jobright.ai/jobs/info/6851e2909d0e77769479712d?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | Hybrid | Jun 17 |
 | **[Stevenson University](http://www.stevenson.edu/)** | **[Student Assistant – Exhibitions](https://jobright.ai/jobs/info/6851dd52d6b38026301bfa58?utm_campaign=1049&utm_source=git)** | Owings Mills, MD | On Site | Jun 17 |
-| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Visual Arts Archive and Exhibition Framer Intern](https://jobright.ai/jobs/info/6851d503e5840b62a7177059?utm_campaign=1049&utm_source=git)** | BYU–Hawaii | On Site | Jun 17 |
+| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Visual Arts Archive and Exhibition Framer Intern](https://jobright.ai/jobs/info/6851d503e5840b62a717731b?utm_campaign=1049&utm_source=git)** | BYU–Hawaii | On Site | Jun 17 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Outreach Communications and Design Assistant](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c08d3?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 17 |
-| **[Getty Images](https://www.gettyimages.com)** | **[Intern for Editorial Entertainment Photography](https://jobright.ai/jobs/info/68518d7c000c4536d467c3aa?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
