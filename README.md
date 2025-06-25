@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/685c466bb6b7da2813273198?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| **[Pearson](https://www.pearson.com/)** | **[UX Designer Intern](https://jobright.ai/jobs/info/685c26d20a8889bf2fe358a0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jun 25 |
+| **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/685860070704af3717b5c178?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 25 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Customer Experience Design (Spring, 2025)](https://jobright.ai/jobs/info/68490330be92f0249e52fc97?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Creative Technologist, Vehicle User Interface (Fall 2025)](https://jobright.ai/jobs/info/685bac011ca634db84c5419b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Jun 24 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Liahona Design (Church Magazines)](https://jobright.ai/jobs/info/685b67c16e69f66aa2681aec?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 24 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Graphic Designer - Auburn Advancement](https://jobright.ai/jobs/info/685b5a6c5c940c71bad1d9aa?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 24 |
@@ -92,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Industrial Design Co-op (late July through December)](https://jobright.ai/jobs/info/685967d6273d1b6e4dba0a76?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jun 23 |
 | **[Bialek Environments](http://bialek.com)** | **[Design Intern](https://jobright.ai/jobs/info/6858c3311a2153f3f29fd715?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jun 22 |
 | **[Frank Shirley Architects](http://www.frankshirleyarchitects.com)** | **[Junior Designer / Intern Architect](https://jobright.ai/jobs/info/6858c14eb0556ba5f8d328aa?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jun 22 |
-| **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/685860070704af3717b5c178?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Newton Public Schools](https://www.newton.k12.ma.us)** | **[Summer Intern/Graphics](https://jobright.ai/jobs/info/6857ccaf5ac3faa0219c1c26?utm_campaign=1049&utm_source=git)** | Newton, MA | On Site | Jun 22 |
 | **[ITS](http://www.its.aero)** | **[Architectural Designer / Intern Architect / Architect](https://jobright.ai/jobs/info/68577c6a583d98ddb7ff927b?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jun 21 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CMF Design Co-op (July through December)](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac466?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 21 |
@@ -103,12 +106,8 @@ For a complete list, click the following sortable link below:
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/685603aee2751676a9c7cb0a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - UX Design - Cloud, AI, Solutions & Enablement (BS/MS)](https://jobright.ai/jobs/info/68375ef67e434f9491b8e0cf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 19 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Interior Communications - Master Tradesperson (SkillBridge Intern) - 18125](https://jobright.ai/jobs/info/66cb13e034a1a605c8620537?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Jun 19 |
-| **[Southern Utah University](http://www.suu.edu/)** | **[Photography Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bee7?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bebf?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
+| **[Southern Utah University](http://www.suu.edu/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bebf?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
+| ↳ | **[Photography Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bee7?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
 | **[Everspring](http://everspringpartners.com)** | **[Creative Director](https://jobright.ai/jobs/info/6853d36881868f79ea07c921?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 19 |
 | **[Pond & Company](http://pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Jun 18 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[Production Intern](https://jobright.ai/jobs/info/6853e515a268d6d82f3d6526?utm_campaign=1049&utm_source=git)** | Gilbert, AZ | Hybrid | Jun 18 |
-| **[GBBN Architects](https://www.gbbn.com/)** | **[Fall 2025 Interior Design Co-Op](https://jobright.ai/jobs/info/685331d5a372cfa7941ab33a?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 18 |
-| **[Bowling Green State University](http://www.bgsu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/685331d5a372cfa7941ab3dc?utm_campaign=1049&utm_source=git)** | Bowling Green, OH | On Site | Jun 18 |
-| **[GBBN Architects](https://www.gbbn.com/)** | **[Fall 2025 Architecture Co-Op](https://jobright.ai/jobs/info/68532b335e267793b9948383?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
