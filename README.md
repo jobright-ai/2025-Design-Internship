@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Creative Technologist, Vehicle User Interface (Fall 2025)](https://jobright.ai/jobs/info/685bac011ca634db84c5419b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Jun 24 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Liahona Design (Church Magazines)](https://jobright.ai/jobs/info/685b67c16e69f66aa2681aec?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 24 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Graphic Designer - Auburn Advancement](https://jobright.ai/jobs/info/685b5a6c5c940c71bad1d9aa?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 24 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Game Design Intern](https://jobright.ai/jobs/info/685b5297960682eefd696c0e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 24 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design- Intern ](https://jobright.ai/jobs/info/685b0355dd7529e50a877989?utm_campaign=1049&utm_source=git)** | Torrance, California, United States | On Site | Jun 24 |
 | **[National Parks Conservation Association](http://www.npca.org/)** | **[Design Intern](https://jobright.ai/jobs/info/685afaf6c056354424642f81?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 24 |
 | **[PPM America, Inc.](http://www.ppmamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/685ae2b4cea78762867a5a1e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 24 |
+| **[ThunderSoft](http://www.thundersoft.com)** | **[Architectural Designer- Intern](https://jobright.ai/jobs/info/685ae8eed911132f38115459?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 24 |
 | **[Jackson](https://www.jackson.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/685ac78df16523a5c38e7d7a?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 24 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/683df139abb1ff44979fe822?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jun 24 |
 | **[Barrel](http://www.barrelny.com)** | **[Design Intern](https://jobright.ai/jobs/info/685abed1cc53d152a062f5f6?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 24 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Atmosfy](https://atmosfy.io)** | **[UX Research Intern](https://jobright.ai/jobs/info/6853412e6089533c0e276fd8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 23 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Industrial Design Co-op (late July through December)](https://jobright.ai/jobs/info/685967d6273d1b6e4dba0a76?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jun 23 |
 | **[Bialek Environments](http://bialek.com)** | **[Design Intern](https://jobright.ai/jobs/info/6858c3311a2153f3f29fd715?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jun 22 |
-| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Photography Intern / Scotty Cameron Putters](https://jobright.ai/jobs/info/68586478f902c9f7ecba7e8a?utm_campaign=1049&utm_source=git)** | San Marcos, CA | On Site | Jun 22 |
 | **[Frank Shirley Architects](http://www.frankshirleyarchitects.com)** | **[Junior Designer / Intern Architect](https://jobright.ai/jobs/info/6858c14eb0556ba5f8d328aa?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jun 22 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/685860070704af3717b5c178?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Newton Public Schools](https://www.newton.k12.ma.us)** | **[Summer Intern/Graphics](https://jobright.ai/jobs/info/6857ccaf5ac3faa0219c1c26?utm_campaign=1049&utm_source=git)** | Newton, MA | On Site | Jun 22 |
