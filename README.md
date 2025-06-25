@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Long Beach](http://www.longbeach.gov/)** | **[COMMUNICATIONS INTERN (SENIOR ADMINISTRATIVE INTERN)](https://jobright.ai/jobs/info/685b3aa8144299321de80f2e?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Jun 24 |
+| **[CadCamNYC](https://cadcamnyc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/685b2e2510b92db11c6c6922?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 24 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Liahona Design (Church Magazines)](https://jobright.ai/jobs/info/685b2859e90dfb232033bc89?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 24 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Student Graphic Designer - Auburn Advancement](https://jobright.ai/jobs/info/685b36bbdd39184e8871e00a?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 24 |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Graphic Design Intern - Fall Recruitment (Hybrid - MD/DC/VA)](https://jobright.ai/jobs/info/685b134e7c5d28fa8273117e?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Jun 24 |
+| **[URBN (Urban Outfitters, Anthropologie Group, Free People & Nuuly)](http://urbn.com)** | **[Visual Display Intern- Interiors](https://jobright.ai/jobs/info/685b1036eb4542877f092105?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jun 24 |
+| **[DocMagic](https://www.docmagic.com)** | **[Graphic Design Intern (Unpaid)](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc173?utm_campaign=1049&utm_source=git)** | Torrance, CA | On Site | Jun 24 |
+| ↳ | **[Graphic Design- Intern ](https://jobright.ai/jobs/info/685b0355dd7529e50a877989?utm_campaign=1049&utm_source=git)** | Torrance, California, United States | On Site | Jun 24 |
 | **[National Parks Conservation Association](http://www.npca.org/)** | **[Design Intern](https://jobright.ai/jobs/info/685afaf6c056354424642f81?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 24 |
 | **[ThunderSoft](http://www.thundersoft.com)** | **[Architectural Designer- Intern](https://jobright.ai/jobs/info/685ae8eed911132f38115459?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 24 |
 | **[PPM America, Inc.](http://www.ppmamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/685ae2b4cea78762867a5a1e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 24 |
@@ -70,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Game Design Intern](https://jobright.ai/jobs/info/685a1edcd04fc67202166678?utm_campaign=1049&utm_source=git)** | Dallas | On Site | Jun 23 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Experiential Designer - Internship](https://jobright.ai/jobs/info/685a0539eb7d70052484be50?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 23 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Fall 2025)](https://jobright.ai/jobs/info/685a22d59b2e71193bbd0a52?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 23 |
-| **[City of Long Beach](http://www.longbeach.gov/)** | **[COMMUNICATIONS INTERN (SENIOR ADMINISTRATIVE INTERN)](https://jobright.ai/jobs/info/685afa588e3eaaed78cfc60b?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Jun 23 |
 | **[Eccalon, LLC](https://www.eccalon.com)** | **[Internship](https://jobright.ai/jobs/info/685a4ad9a0b2587615a905b1?utm_campaign=1049&utm_source=git)** | Hanover, MD | On Site | Jun 23 |
 | **[NEON](https://neonrated.com)** | **[NEON Digital Distribution Intern, Fall 2025](https://jobright.ai/jobs/info/685a16f526818caaa6a10a61?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | **[Primal Wear](https://www.primalwear.com/)** | **[Design Artist Intern](https://jobright.ai/jobs/info/6859c36b8c4ce1f832dd8cd1?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 23 |
@@ -94,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/685603aee2751676a9c7cb0a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - UX Design - Cloud, AI, Solutions & Enablement (BS/MS)](https://jobright.ai/jobs/info/68375ef67e434f9491b8e0cf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 19 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Interior Communications - Master Tradesperson (SkillBridge Intern) - 18125](https://jobright.ai/jobs/info/66cb13e034a1a605c8620537?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Jun 19 |
-| **[Southern Utah University](http://www.suu.edu/)** | **[Photography Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bee7?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bebf?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
+| **[Southern Utah University](http://www.suu.edu/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bebf?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
+| ↳ | **[Photography Intern](https://jobright.ai/jobs/info/6853eb96963664268c62bee7?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Jun 19 |
 | **[Everspring](http://everspringpartners.com)** | **[Creative Director](https://jobright.ai/jobs/info/6853d36881868f79ea07c921?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 19 |
 | **[Pond & Company](http://pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Jun 18 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Production Intern](https://jobright.ai/jobs/info/6853e515a268d6d82f3d6526?utm_campaign=1049&utm_source=git)** | Gilbert, AZ | Hybrid | Jun 18 |
