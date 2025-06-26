@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/685d3d9bd36c48a3b72cd704?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
+| **[IGT](http://igt.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/682955cae53309afe94b00d8?utm_campaign=1049&utm_source=git)** | West Greenwich, RI | Remote | Jun 26 |
 | **[Inspire](https://inspirebrands.com)** | **[Design & Creative Intern](https://jobright.ai/jobs/info/685cb5d008795d438859532a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/685cab9b3c088b537bde99ea?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Design - Crew Resources (Fall, 2025)](https://jobright.ai/jobs/info/685ca597f335184ef725dd3d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 25 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design- Intern ](https://jobright.ai/jobs/info/685b0355dd7529e50a877989?utm_campaign=1049&utm_source=git)** | Torrance, California, United States | On Site | Jun 24 |
 | **[National Parks Conservation Association](http://www.npca.org/)** | **[Design Intern](https://jobright.ai/jobs/info/685afaf6c056354424642f81?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 24 |
 | **[PPM America, Inc.](http://www.ppmamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/685ae2b4cea78762867a5a1e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 24 |
-| **[ThunderSoft](http://www.thundersoft.com)** | **[Architectural Designer- Intern](https://jobright.ai/jobs/info/685ae8eed911132f38115459?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 24 |
 | **[Jackson](https://www.jackson.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/685ac78df16523a5c38e7d7a?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 24 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/683df139abb1ff44979fe822?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jun 24 |
 | **[Barrel](http://www.barrelny.com)** | **[Design Intern](https://jobright.ai/jobs/info/685abed1cc53d152a062f5f6?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 24 |
