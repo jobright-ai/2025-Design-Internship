@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/685dacf692471452f2c9eb45?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 26 |
 | **[Primal Wear](https://www.primalwear.com/)** | **[Design Artist Intern](https://jobright.ai/jobs/info/685dc24f329c3e3edf717a27?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 | **[Wycliffe Bible Translators USA](https://www.wycliffe.org)** | **[Digital Media Intern](https://jobright.ai/jobs/info/685d9875b4b079eea36de40b?utm_campaign=1049&utm_source=git)** | Florida, United States | On Site | Jun 26 |
+| **[LWCC](https://www.lwcc.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6839586b9c7cf2f93624120e?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jun 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services Intern - Fall](https://jobright.ai/jobs/info/685d696d177baca7d145d875?utm_campaign=1049&utm_source=git)** | LA, Baton Rouge | On Site | Jun 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Site Speed &UX Performance Specialist](https://jobright.ai/jobs/info/684f955763c37689377dbc29?utm_campaign=1049&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 26 |
 | **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/685d3d9bd36c48a3b72cd704?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
@@ -77,9 +78,9 @@ For a complete list, click the following sortable link below:
 | **[amika](https://loveamika.com/)** | **[Creative + Production Intern](https://jobright.ai/jobs/info/685c803cad32d5a5e9fbcd62?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 25 |
 | **[Atmosfy](https://atmosfy.io)** | **[UX Research Intern](https://jobright.ai/jobs/info/6853412e6089533c0e276fd8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 25 |
 | **[Tombras](http://tombras.com)** | **[Digital Writer Intern](https://jobright.ai/jobs/info/685c55c1d305f2473e54d659?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
-| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/685c466bb6b7da2813273198?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 UI/UX Intern (Batchelors)](https://jobright.ai/jobs/info/67c9a36ae3c71a18db9a8c09?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 25 |
-| ↳ | **[Fall 2025 UX Intern](https://jobright.ai/jobs/info/683f9d8a1801444deab50fea?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 25 |
+| **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/685c3faa3fe0619ea0a1ad59?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| **[Ansys](http://www.ansys.com)** | **[Fall 2025 UX Intern](https://jobright.ai/jobs/info/683f9d8a1801444deab50fea?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 25 |
 | **[Mead & Hunt](https://meadhunt.com/)** | **[Interior & Commercial Design Intern](https://jobright.ai/jobs/info/683f56dab9d6f40322e65879?utm_campaign=1049&utm_source=git)** | Bloomington, MN | On Site | Jun 25 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/685860070704af3717b5c178?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Customer Experience Design (Spring, 2025)](https://jobright.ai/jobs/info/68490330be92f0249e52fc97?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Industrial Design Co-op (late July through December)](https://jobright.ai/jobs/info/685967d6273d1b6e4dba0a76?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jun 23 |
 | **[Bialek Environments](http://bialek.com)** | **[Design Intern](https://jobright.ai/jobs/info/6858c3311a2153f3f29fd715?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jun 22 |
 | **[Frank Shirley Architects](http://www.frankshirleyarchitects.com)** | **[Junior Designer / Intern Architect](https://jobright.ai/jobs/info/6858c14eb0556ba5f8d328aa?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jun 22 |
-| **[North Central College](http://www.northcentralcollege.edu/)** | **[EMM Student Graphic Designer (Remote)](https://jobright.ai/jobs/info/685d5d6d931829e6ab0cf9f9?utm_campaign=1049&utm_source=git)** | Naperville, IL | Remote | Jun 22 |
 | **[Newton Public Schools](https://www.newton.k12.ma.us)** | **[Summer Intern/Graphics](https://jobright.ai/jobs/info/6857ccaf5ac3faa0219c1c26?utm_campaign=1049&utm_source=git)** | Newton, MA | On Site | Jun 22 |
 | **[ITS](http://www.its.aero)** | **[Architectural Designer / Intern Architect / Architect](https://jobright.ai/jobs/info/68577c6a583d98ddb7ff927b?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jun 21 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CMF Design Co-op (July through December)](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac466?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 21 |
