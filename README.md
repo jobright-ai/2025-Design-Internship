@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ansys](http://www.ansys.com)** | **[Fall 2025 UX Intern](https://jobright.ai/jobs/info/683f9d8a1801444deab50fea?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 27 |
 | **[Atmosfy](https://atmosfy.io)** | **[UX Design Intern](https://jobright.ai/jobs/info/685ec9cd3365184f36a12d42?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 27 |
+| **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c9a18b17403c3ff26c1ac?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 27 |
 | **[Farm Bureau Bank](https://www.farmbureaubank.com/)** | **[Graphic Design Intern (Part Time)](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7e79?utm_campaign=1049&utm_source=git)** | San Antonio, TX | Remote | Jun 26 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Fall 2025)](https://jobright.ai/jobs/info/685e0b6cce08e482ea1b2bc0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 26 |
@@ -80,9 +82,8 @@ For a complete list, click the following sortable link below:
 | **[amika](https://loveamika.com/)** | **[Creative + Production Intern](https://jobright.ai/jobs/info/685c803cad32d5a5e9fbcd62?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 25 |
 | **[Atmosfy](https://atmosfy.io)** | **[UX Research Intern](https://jobright.ai/jobs/info/6853412e6089533c0e276fd8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 25 |
 | **[Tombras](http://tombras.com)** | **[Digital Writer Intern](https://jobright.ai/jobs/info/685c55c1d305f2473e54d659?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/685c466bb6b7da2813273198?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 UI/UX Intern (Batchelors)](https://jobright.ai/jobs/info/67c9a36ae3c71a18db9a8c09?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 25 |
-| **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/685c3faa3fe0619ea0a1ad59?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
-| **[Ansys](http://www.ansys.com)** | **[Fall 2025 UX Intern](https://jobright.ai/jobs/info/683f9d8a1801444deab50fea?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Customer Experience Design (Spring, 2025)](https://jobright.ai/jobs/info/68490330be92f0249e52fc97?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Creative Technologist, Vehicle User Interface (Fall 2025)](https://jobright.ai/jobs/info/685bac011ca634db84c5419b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Jun 24 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Liahona Design (Church Magazines)](https://jobright.ai/jobs/info/685b67c16e69f66aa2681aec?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 24 |
@@ -110,15 +111,10 @@ For a complete list, click the following sortable link below:
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Fall 2025)](https://jobright.ai/jobs/info/685a22d59b2e71193bbd0a52?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | **[Eccalon, LLC](https://www.eccalon.com)** | **[Internship](https://jobright.ai/jobs/info/685a4ad9a0b2587615a905b1?utm_campaign=1049&utm_source=git)** | Hanover, MD | On Site | Jun 23 |
 | **[NEON](https://neonrated.com)** | **[NEON Digital Distribution Intern, Fall 2025](https://jobright.ai/jobs/info/685a16f526818caaa6a10a61?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 23 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Apprentice Product Designer](https://jobright.ai/jobs/info/6859b4bff33d05e394eee9e8?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Jun 23 |
-| ↳ | **[Apprentice Product Designer](https://jobright.ai/jobs/info/68599df503ce8919a76a5b85?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 23 |
-| **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[Apprentice Product Designer](https://jobright.ai/jobs/info/685999ee90e3e2ff27fa1d74?utm_campaign=1049&utm_source=git)** | San Francisco, CA, US | On Site | Jun 23 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Industrial Design Co-op (late July through December)](https://jobright.ai/jobs/info/685967d6273d1b6e4dba0a76?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jun 23 |
 | **[Bialek Environments](http://bialek.com)** | **[Design Intern](https://jobright.ai/jobs/info/6858c3311a2153f3f29fd715?utm_campaign=1049&utm_source=git)** | Rockville, MD | On Site | Jun 22 |
 | **[Frank Shirley Architects](http://www.frankshirleyarchitects.com)** | **[Junior Designer / Intern Architect](https://jobright.ai/jobs/info/6858c14eb0556ba5f8d328aa?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jun 22 |
 | **[Newton Public Schools](https://www.newton.k12.ma.us)** | **[Summer Intern/Graphics](https://jobright.ai/jobs/info/6857ccaf5ac3faa0219c1c26?utm_campaign=1049&utm_source=git)** | Newton, MA | On Site | Jun 22 |
 | **[ITS](http://www.its.aero)** | **[Architectural Designer / Intern Architect / Architect](https://jobright.ai/jobs/info/68577c6a583d98ddb7ff927b?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jun 21 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CMF Design Co-op (July through December)](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac466?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 21 |
-| **[iRobot](https://www.irobot.com)** | **[Fall 2025: Creative Services Intern (Undergraduate)](https://jobright.ai/jobs/info/68565873a855aaec6022d478?utm_campaign=1049&utm_source=git)** | Bedford, MA | On Site | Jun 21 |
-| **[Hudl](http://www.hudl.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/685cd7b43f50673d4ea67a30?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Jun 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
