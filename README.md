@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Central Oklahoma](http://www.uco.edu/)** | **[Regular Student Technical - Photo Services](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1ff?utm_campaign=1049&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| **[TikTok](https://www.tiktok.com)** | **[(General Hire) UX Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d1a0fb2b6df044cb0b7267?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 28 |
 | **[Dekker](http://dpsdesign.org)** | **[Intern Architect ](https://jobright.ai/jobs/info/685f4ee926684de5750b49cb?utm_campaign=1049&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jun 27 |
 | ↳ | **[Intern Architect ](https://jobright.ai/jobs/info/685f4ee926684de5750b49ce?utm_campaign=1049&utm_source=git)** | Albuquerque, New Mexico, United States | Hybrid | Jun 27 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 UI/UX Intern (Batchelors)](https://jobright.ai/jobs/info/67c9a36ae3c71a18db9a8c09?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 27 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Creative Technologist, Vehicle User Interface (Fall 2025)](https://jobright.ai/jobs/info/685bac011ca634db84c5419b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Jun 24 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Liahona Design (Church Magazines)](https://jobright.ai/jobs/info/685b67c16e69f66aa2681aec?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 24 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Graphic Designer - Auburn Advancement](https://jobright.ai/jobs/info/685b5a6c5c940c71bad1d9aa?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 24 |
-| **[HKS, Inc.](http://www.hksinc.com/)** | **[Game Design Intern](https://jobright.ai/jobs/info/685b5297960682eefd696c0e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment Creative Development & Inclusive Strategy Communication Intern, Fall 2025](https://jobright.ai/jobs/info/685b4b072506f81b26df9cde?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Jun 24 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[COMMUNICATIONS INTERN (SENIOR ADMINISTRATIVE INTERN)](https://jobright.ai/jobs/info/685b3aa8144299321de80f2e?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Jun 24 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Liahona Design (Church Magazines)](https://jobright.ai/jobs/info/685b2859e90dfb232033bc89?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 24 |
