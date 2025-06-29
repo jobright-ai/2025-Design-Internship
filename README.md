@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Handel Architects](http://handelarchitects.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/68610965fa6ab3fa86ad5ba7?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 29 |
+| **[Primal Wear](https://www.primalwear.com/)** | **[Design Artist Intern](https://jobright.ai/jobs/info/6860b78279cde293c45d808b?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 28 |
 | **[Atmosfy](https://atmosfy.io)** | **[UX Research Intern](https://jobright.ai/jobs/info/6853412e6089533c0e276fd8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 28 |
 | **[PCI Pharma Services](http://www.pciservices.com)** | **[Packaging Development Intern](https://jobright.ai/jobs/info/685ffded2b546975433fa885?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, USA | On Site | Jun 28 |
 | ↳ | **[Packaging Development Intern](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f238?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jun 28 |
@@ -64,8 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Regular Student Technical - OGA](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f2f0?utm_campaign=1049&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[FWSP Student Graphic Designer - Wellness and Sport](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4d5?utm_campaign=1049&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) UX Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d1a0fb2b6df044cb0b7267?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 28 |
-| **[Dekker](http://dpsdesign.org)** | **[Intern Architect ](https://jobright.ai/jobs/info/685f4ee926684de5750b49cb?utm_campaign=1049&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jun 27 |
-| ↳ | **[Intern Architect ](https://jobright.ai/jobs/info/685f4ee926684de5750b49ce?utm_campaign=1049&utm_source=git)** | Albuquerque, New Mexico, United States | Hybrid | Jun 27 |
+| **[Dekker](http://dpsdesign.org)** | **[Intern Architect ](https://jobright.ai/jobs/info/685f4ee926684de5750b49ce?utm_campaign=1049&utm_source=git)** | Albuquerque, New Mexico, United States | Hybrid | Jun 27 |
+| ↳ | **[Intern Architect ](https://jobright.ai/jobs/info/685f4ee926684de5750b49cb?utm_campaign=1049&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jun 27 |
 | **[kate spade new york](https://www.katespade.com/)** | **[Design Apprentice - Novelty](https://jobright.ai/jobs/info/682689e4c91368e834e07494?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 27 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 UI/UX Intern (Batchelors)](https://jobright.ai/jobs/info/67c9a36ae3c71a18db9a8c09?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 27 |
 | ↳ | **[Fall 2025 UX Intern](https://jobright.ai/jobs/info/683f9d8a1801444deab50fea?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 27 |
