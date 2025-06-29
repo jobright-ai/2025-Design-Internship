@@ -94,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Celebree School](https://www.celebree.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/685cc71455ca884380a30592?utm_campaign=1049&utm_source=git)** | Nottingham, MD | On Site | Jun 25 |
 | **[amika](https://loveamika.com/)** | **[Creative + Production Intern](https://jobright.ai/jobs/info/685c803cad32d5a5e9fbcd62?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 25 |
 | **[Tombras](http://tombras.com)** | **[Digital Writer Intern](https://jobright.ai/jobs/info/685c55c1d305f2473e54d659?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
-| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/685c466bb6b7da2813273198?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/685c3faa3fe0619ea0a1ad59?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Game Design Intern](https://jobright.ai/jobs/info/6860061b7f2a42d0dca79789?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Customer Experience Design (Spring, 2025)](https://jobright.ai/jobs/info/68490330be92f0249e52fc97?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Creative Technologist, Vehicle User Interface (Fall 2025)](https://jobright.ai/jobs/info/685bac011ca634db84c5419b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Jun 24 |
@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Eccalon, LLC](https://www.eccalon.com)** | **[Internship](https://jobright.ai/jobs/info/685a4ad9a0b2587615a905b1?utm_campaign=1049&utm_source=git)** | Hanover, MD | On Site | Jun 23 |
 | **[NEON](https://neonrated.com)** | **[NEON Digital Distribution Intern, Fall 2025](https://jobright.ai/jobs/info/685a16f526818caaa6a10a61?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Industrial Design Co-op (late July through December)](https://jobright.ai/jobs/info/685967d6273d1b6e4dba0a76?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jun 23 |
-| **[Frank Shirley Architects](http://www.frankshirleyarchitects.com)** | **[Junior Designer / Intern Architect](https://jobright.ai/jobs/info/6858c14eb0556ba5f8d328aa?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
