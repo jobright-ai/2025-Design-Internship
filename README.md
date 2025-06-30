@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Atmosfy](https://atmosfy.io)** | **[Atmsofy UX Discovery Intern](https://jobright.ai/jobs/info/68619d6506a6cbe93b693e8d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 29 |
 | **[Handel Architects](http://handelarchitects.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/68610965fa6ab3fa86ad5ba7?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 29 |
 | **[Primal Wear](https://www.primalwear.com/)** | **[Design Artist Intern](https://jobright.ai/jobs/info/6860b78279cde293c45d808b?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 28 |
+| **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX Design Intern](https://jobright.ai/jobs/info/685ec9cd3365184f36a12d42?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 28 |
 | **[PCI Pharma Services](http://www.pciservices.com)** | **[Packaging Development Intern](https://jobright.ai/jobs/info/685ffded2b546975433fa885?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, USA | On Site | Jun 28 |
 | ↳ | **[Packaging Development Intern](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f238?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jun 28 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Regular Student Technical - Photo Services](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1ff?utm_campaign=1049&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Creative Design Apprentice](https://jobright.ai/jobs/info/6809527e3ce3dbb25bbb82cb?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Jun 27 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 UI/UX Intern (Batchelors)](https://jobright.ai/jobs/info/67c9a36ae3c71a18db9a8c09?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 27 |
 | ↳ | **[Fall 2025 UX Intern](https://jobright.ai/jobs/info/683f9d8a1801444deab50fea?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Jun 27 |
-| **[Atmosfy](https://atmosfy.io)** | **[UX Design Intern](https://jobright.ai/jobs/info/685ec9cd3365184f36a12d42?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 27 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c9a18b17403c3ff26c1ac?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 27 |
 | **[Princeton University Press](http://press.princeton.edu)** | **[Graphic Design Internship: Fall 2025 (NJ or PA)](https://jobright.ai/jobs/info/6860ae217737b6c6d0e68aaa?utm_campaign=1049&utm_source=git)** | Princeton, NJ | On Site | Jun 26 |
@@ -95,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Celebree School](https://www.celebree.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/685cc71455ca884380a30592?utm_campaign=1049&utm_source=git)** | Nottingham, MD | On Site | Jun 25 |
 | **[amika](https://loveamika.com/)** | **[Creative + Production Intern](https://jobright.ai/jobs/info/685c803cad32d5a5e9fbcd62?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 25 |
 | **[Tombras](http://tombras.com)** | **[Digital Writer Intern](https://jobright.ai/jobs/info/685c55c1d305f2473e54d659?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
-| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/685c466bb6b7da2813273198?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/685c3faa3fe0619ea0a1ad59?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Game Design Intern](https://jobright.ai/jobs/info/6860061b7f2a42d0dca79789?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Customer Experience Design (Spring, 2025)](https://jobright.ai/jobs/info/68490330be92f0249e52fc97?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Creative Technologist, Vehicle User Interface (Fall 2025)](https://jobright.ai/jobs/info/685bac011ca634db84c5419b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Jun 24 |
