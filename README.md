@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BHDP Architecture](http://bhdp.com)** | **[Fall 2025 Architect Internship / Charlotte](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0ad08?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 01 |
-| ↳ | **[Fall 2025 Interior Design Internship / Cincinnati](https://jobright.ai/jobs/info/684735a077aaacabe63192bf?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 01 |
+| **[Amherst H. Wilder Foundation](https://www.wilder.org)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68642c2e0033bef502c86b7e?utm_campaign=1049&utm_source=git)** | St Paul, MN | On Site | Jul 01 |
+| **[BHDP Architecture](http://bhdp.com)** | **[Fall 2025 Interior Design Internship / Cincinnati](https://jobright.ai/jobs/info/684735a077aaacabe63192bf?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 01 |
+| ↳ | **[Fall 2025 Architect Internship / Charlotte](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0ad08?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 01 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6863c90c1cbb40d518ca267b?utm_campaign=1049&utm_source=git)** | Pinehurst, NC | On Site | Jul 01 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall 2025 Architect Internship / Cincinnati](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0acfc?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6863931b9a5b6ca6b25ca3a8?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 01 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Design & Digital Fall 2025 Internship](https://jobright.ai/jobs/info/6862fa2ae4591759d560bc7d?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jun 30 |
 | **[Target](https://www.target.com)** | **[Current Interns Only - UX Designer - Summer 2025](https://jobright.ai/jobs/info/6862f8184f40875a63edfe1d?utm_campaign=1049&utm_source=git)** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | On Site | Jun 30 |
 | **[C-A-L Ranch Stores](https://www.calranch.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6862e1801c754ff5556acc18?utm_campaign=1049&utm_source=git)** | Idaho Falls, ID | On Site | Jun 30 |
-| **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/685dacf692471452f2c9eb45?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[D&A Communications](https://davisimpact.com/)** | **[Graphic Design/Production Intern](https://jobright.ai/jobs/info/6862d2a819e601a56f35c80b?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Jun 30 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6862c7a80800812da7d539bd?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jun 30 |
 | **[American University](http://american.edu)** | **[Research Translation Website Designer (Student)](https://jobright.ai/jobs/info/6862b4184f75c4ce607ad1d3?utm_campaign=1049&utm_source=git)** | Main Campus (Washington, DC) | On Site | Jun 30 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Wycliffe Bible Translators USA](https://www.wycliffe.org)** | **[Digital Media Intern](https://jobright.ai/jobs/info/685d9875b4b079eea36de40b?utm_campaign=1049&utm_source=git)** | Florida, United States | On Site | Jun 26 |
 | **[LWCC](https://www.lwcc.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6839586b9c7cf2f93624120e?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jun 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services Intern - Fall](https://jobright.ai/jobs/info/685d696d177baca7d145d875?utm_campaign=1049&utm_source=git)** | LA, Baton Rouge | On Site | Jun 26 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Site Speed &UX Performance Specialist](https://jobright.ai/jobs/info/684f955763c37689377dbc29?utm_campaign=1049&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 26 |
 | **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/685d3d9bd36c48a3b72cd704?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/685cab9b3c088b537bde99ea?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Design - Crew Resources (Fall, 2025)](https://jobright.ai/jobs/info/685ca597f335184ef725dd3d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 25 |
@@ -117,13 +116,9 @@ For a complete list, click the following sortable link below:
 | **[Celebree School](https://www.celebree.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/685cc71455ca884380a30592?utm_campaign=1049&utm_source=git)** | Nottingham, MD | On Site | Jun 25 |
 | **[amika](https://loveamika.com/)** | **[Creative + Production Intern](https://jobright.ai/jobs/info/685c803cad32d5a5e9fbcd62?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 25 |
 | **[Tombras](http://tombras.com)** | **[Digital Writer Intern](https://jobright.ai/jobs/info/685c55c1d305f2473e54d659?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
-| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/685c3faa3fe0619ea0a1ad59?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/685c466bb6b7da2813273198?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6862d141004a84237299fd28?utm_campaign=1049&utm_source=git)** | Pinehurst, North Carolina, USA, 28374 | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Customer Experience Design (Spring, 2025)](https://jobright.ai/jobs/info/68490330be92f0249e52fc97?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Creative Technologist, Vehicle User Interface (Fall 2025)](https://jobright.ai/jobs/info/685bac011ca634db84c5419b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Jun 24 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Liahona Design (Church Magazines)](https://jobright.ai/jobs/info/685b67c16e69f66aa2681aec?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 24 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Student Graphic Designer - Auburn Advancement](https://jobright.ai/jobs/info/685b5a6c5c940c71bad1d9aa?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 24 |
-| **[City of Long Beach](http://www.longbeach.gov/)** | **[COMMUNICATIONS INTERN (SENIOR ADMINISTRATIVE INTERN)](https://jobright.ai/jobs/info/685b3aa8144299321de80f2e?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Jun 24 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Liahona Design (Church Magazines)](https://jobright.ai/jobs/info/685b2859e90dfb232033bc89?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 24 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Student Graphic Designer - Auburn Advancement](https://jobright.ai/jobs/info/685b36bbdd39184e8871e00a?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
