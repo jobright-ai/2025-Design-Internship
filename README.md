@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Assistant Director of Creative Media](https://jobright.ai/jobs/info/6863482375a7d35fe59d5749?utm_campaign=1049&utm_source=git)** | Triangle Area | On Site | Jun 30 |
+| **[Impulse](www.findyourimpulse.com)** | **[UX UI Designer](https://jobright.ai/jobs/info/6863482375a7d35fe59d54f1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 30 |
+| **[American University](http://american.edu)** | **[Research Translation Website Designer (Student)](https://jobright.ai/jobs/info/68633caeae595f0d5d048276?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jun 30 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX Research Intern](https://jobright.ai/jobs/info/68619d6506a6cbe93b693e8d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Design & Digital Fall 2025 Internship](https://jobright.ai/jobs/info/6862fa2ae4591759d560bc7d?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jun 30 |
 | **[Target](https://www.target.com)** | **[Current Interns Only - UX Designer - Summer 2025](https://jobright.ai/jobs/info/6862f8184f40875a63edfe1d?utm_campaign=1049&utm_source=git)** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | On Site | Jun 30 |
@@ -69,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Stonefield Engineering & Design](http://stonefieldeng.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/686299b6196f190bbb8c1d6c?utm_campaign=1049&utm_source=git)** | Rutherford, NJ | On Site | Jun 30 |
 | ↳ | **[Graphic Designer Intern](https://jobright.ai/jobs/info/686299b6196f190bbb8c1d6a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[Bullard](http://www.bullard.com/)** | **[Internship- Web, WordPress & CSS](https://jobright.ai/jobs/info/686299b6196f190bbb8c1ac9?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Jun 30 |
-| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Multimedia Content Intern](https://jobright.ai/jobs/info/68628c7b70bd07d88b6ce422?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Jun 30 |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Multimedia Content Intern](https://jobright.ai/jobs/info/68628c7b70bd07d88b6ce420?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Jun 30 |
 | **[Budderfly](https://www.budderfly.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/686255b5e4e7576819e81107?utm_campaign=1049&utm_source=git)** | Shelton, CT | Remote | Jun 30 |
 | **[Budderfly](https://www.budderfly.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/686211cfba8716ce4f3bb961?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | Jun 29 |
 | **[Hudl](http://www.hudl.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/6844434e920e04df48b14082?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Jun 29 |
@@ -107,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Celebree School](https://www.celebree.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/685cc71455ca884380a30592?utm_campaign=1049&utm_source=git)** | Nottingham, MD | On Site | Jun 25 |
 | **[amika](https://loveamika.com/)** | **[Creative + Production Intern](https://jobright.ai/jobs/info/685c803cad32d5a5e9fbcd62?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 25 |
 | **[Tombras](http://tombras.com)** | **[Digital Writer Intern](https://jobright.ai/jobs/info/685c55c1d305f2473e54d659?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
-| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/685c3faa3fe0619ea0a1ad59?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/685c466bb6b7da2813273198?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6862d141004a84237299fd28?utm_campaign=1049&utm_source=git)** | Pinehurst, North Carolina, USA, 28374 | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Customer Experience Design (Spring, 2025)](https://jobright.ai/jobs/info/68490330be92f0249e52fc97?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Creative Technologist, Vehicle User Interface (Fall 2025)](https://jobright.ai/jobs/info/685bac011ca634db84c5419b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Jun 24 |
@@ -125,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Barrel](http://www.barrelny.com)** | **[Design Intern](https://jobright.ai/jobs/info/685abed1cc53d152a062f5f6?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 24 |
 | **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/683e11dedce0d944cdfe8a73?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 24 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Industrial Design Co-op (late July through December)](https://jobright.ai/jobs/info/685a973bd1c64545349dff4e?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 24 |
-| **[Hal Smith Restaurants](https://halsmith.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/685bd711f1561ce635caa90c?utm_campaign=1049&utm_source=git)** | Norman, OK | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
