@@ -64,8 +64,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design - Marketing (Open to Work Study and Non-Work Study)](https://jobright.ai/jobs/info/68643b9df82958bc64f0c1ea?utm_campaign=1049&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 01 |
 | **[Amherst H. Wilder Foundation](https://www.wilder.org)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68642c2e0033bef502c86b7e?utm_campaign=1049&utm_source=git)** | St Paul, MN | On Site | Jul 01 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Packaging Designer Intern/Co-op (Marshfield, WI)](https://jobright.ai/jobs/info/683924e09e14dc367946d66b?utm_campaign=1049&utm_source=git)** | Marshfield, WI | On Site | Jul 01 |
-| **[BHDP Architecture](http://bhdp.com)** | **[Fall 2025 Interior Design Internship / Cincinnati](https://jobright.ai/jobs/info/684735a077aaacabe63192bf?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 01 |
-| ↳ | **[Fall 2025 Architect Internship / Charlotte](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0ad08?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 01 |
+| **[BHDP Architecture](http://bhdp.com)** | **[Fall 2025 Architect Internship / Charlotte](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0ad08?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 01 |
+| ↳ | **[Fall 2025 Interior Design Internship / Cincinnati](https://jobright.ai/jobs/info/684735a077aaacabe63192bf?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 01 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6863c90c1cbb40d518ca267b?utm_campaign=1049&utm_source=git)** | Pinehurst, NC | On Site | Jul 01 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall 2025 Architect Internship / Cincinnati](https://jobright.ai/jobs/info/684740cdcb0c2ff82bb0acfc?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6863931b9a5b6ca6b25ca3a8?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 01 |
@@ -81,11 +81,11 @@ For a complete list, click the following sortable link below:
 | **[D&A Communications](https://davisimpact.com/)** | **[Graphic Design/Production Intern](https://jobright.ai/jobs/info/6862d2a819e601a56f35c80b?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Jun 30 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6862c7a80800812da7d539bd?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jun 30 |
 | **[American University](http://american.edu)** | **[Research Translation Website Designer (Student)](https://jobright.ai/jobs/info/6862b4184f75c4ce607ad1d3?utm_campaign=1049&utm_source=git)** | Main Campus (Washington, DC) | On Site | Jun 30 |
-| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6862a1e2cbee442d4839784c?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jun 30 |
+| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2025)](https://jobright.ai/jobs/info/68629e5a3bd3d5d6b270f4bb?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jun 30 |
 | **[Stonefield Engineering & Design](http://stonefieldeng.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/686299b6196f190bbb8c1d6c?utm_campaign=1049&utm_source=git)** | Rutherford, NJ | On Site | Jun 30 |
 | ↳ | **[Graphic Designer Intern](https://jobright.ai/jobs/info/686299b6196f190bbb8c1d6a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[Bullard](http://www.bullard.com/)** | **[Internship- Web, WordPress & CSS](https://jobright.ai/jobs/info/686299b6196f190bbb8c1ac9?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Jun 30 |
-| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Multimedia Content Intern](https://jobright.ai/jobs/info/68628c7b70bd07d88b6ce420?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Jun 30 |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Multimedia Content Intern](https://jobright.ai/jobs/info/68628c7b70bd07d88b6ce422?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Jun 30 |
 | **[Budderfly](https://www.budderfly.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/686255b5e4e7576819e81107?utm_campaign=1049&utm_source=git)** | Shelton, CT | Remote | Jun 30 |
 | **[Budderfly](https://www.budderfly.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/686211cfba8716ce4f3bb961?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | Jun 29 |
 | **[Hudl](http://www.hudl.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/6844434e920e04df48b14082?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Jun 29 |
@@ -123,6 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Celebree School](https://www.celebree.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/685cc71455ca884380a30592?utm_campaign=1049&utm_source=git)** | Nottingham, MD | On Site | Jun 25 |
 | **[amika](https://loveamika.com/)** | **[Creative + Production Intern](https://jobright.ai/jobs/info/685c803cad32d5a5e9fbcd62?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 25 |
 | **[Tombras](http://tombras.com)** | **[Digital Writer Intern](https://jobright.ai/jobs/info/685c55c1d305f2473e54d659?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
-| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/685c466bb6b7da2813273198?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/685c3faa3fe0619ea0a1ad59?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6862d141004a84237299fd28?utm_campaign=1049&utm_source=git)** | Pinehurst, North Carolina, USA, 28374 | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
