@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685026cd4bc72090b9c1de68?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Design Intern- Buildings (Fall 2025)](https://jobright.ai/jobs/info/686cd4a165ca97161f3d41d6?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[College Internship - Visual Communications Intern](https://jobright.ai/jobs/info/686caadc35584b6542ef44d8?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Jul 07 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Graphic Design Intern Fall 2025 / Springfield](https://jobright.ai/jobs/info/686c2b4f35584b65421888f7?utm_campaign=1049&utm_source=git)** | Springfield, MO | Hybrid | Jul 07 |
@@ -101,7 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/67ec78fd6f76696fd2810915?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 02 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Graphic Design Intern (Fall 2025) - Cincinnati, OH](https://jobright.ai/jobs/info/68648a7584153b63ff401c47?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 01 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern - High School](https://jobright.ai/jobs/info/6864685096b6a252e9790b23?utm_campaign=1049&utm_source=git)** | United States - Remote | Remote | Jul 01 |
-| **[Sealed Air Corporation](https://www.sealedair.com/)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6864431af84fe8d668248a48?utm_campaign=1049&utm_source=git)** | Streetsboro, OH | On Site | Jul 01 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Graphic Design - Marketing (Open to Work Study and Non-Work Study)](https://jobright.ai/jobs/info/68643b9df82958bc64f0c1ea?utm_campaign=1049&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 01 |
-| ↳ | **[Dirck Halstead Photo Archive Internship](https://jobright.ai/jobs/info/68643b9df82958bc64f0c1b4?utm_campaign=1049&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
