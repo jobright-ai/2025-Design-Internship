@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685026cd4bc72090b9c1de68?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
+| **[Austin Community College](http://austincc.edu)** | **[Marketing Graphic Design Student Intern (Hourly)](https://jobright.ai/jobs/info/686d3c1e9f97117d5db0b501?utm_campaign=1049&utm_source=git)** | Highland Campus | On Site | Jul 08 |
+| **[TikTok](https://www.tiktok.com)** | **[(General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685023a33db3601c8302c705?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
+| ↳ | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685026cd4bc72090b9c1de68?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Design Intern- Buildings (Fall 2025)](https://jobright.ai/jobs/info/686cd4a165ca97161f3d41d6?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[College Internship - Visual Communications Intern](https://jobright.ai/jobs/info/686caadc35584b6542ef44d8?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Jul 07 |
+| **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern](https://jobright.ai/jobs/info/686d6618b494246d3922f5cb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 07 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Graphic Design Intern Fall 2025 / Springfield](https://jobright.ai/jobs/info/686c2b4f35584b65421888f7?utm_campaign=1049&utm_source=git)** | Springfield, MO | Hybrid | Jul 07 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Digital Intern - 2026](https://jobright.ai/jobs/info/686c299f35584b65420c8961?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jul 07 |
 | **[FIRST](https://firstagency.com/)** | **[Video Design Intern (Fall)](https://jobright.ai/jobs/info/686c204435584b6542c689bd?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 07 |
@@ -97,9 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Oklahoma City Community College](http://www.occc.edu/)** | **[Pioneer Graphic Designer - Student](https://jobright.ai/jobs/info/6865af06b013aba30deb62a9?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jul 02 |
 | **[Enchanté Accessories](http://enchanteaccessories.com)** | **[Design Intern](https://jobright.ai/jobs/info/6865913b5a467cb6264ea4a6?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Jul 02 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Fall 2025 Design Research Co-Op](https://jobright.ai/jobs/info/6865860b0e5363198828bee3?utm_campaign=1049&utm_source=git)** | New Bremen, OH | On Site | Jul 02 |
+| **[Auberge Resorts Collection](https://aubergeresorts.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68489cbd40e3b9e432d35440?utm_campaign=1049&utm_source=git)** | Bethesda, MD | On Site | Jul 02 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/682bcc05107266e4fa0b9360?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jul 02 |
 | **[C-A-L Ranch Stores](https://www.calranch.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6865083ea5a14702e2b68285?utm_campaign=1049&utm_source=git)** | Idaho Falls, ID | On Site | Jul 02 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/67ec78fd6f76696fd2810915?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 02 |
-| **[Messer Construction Co.](http://www.messer.com)** | **[Graphic Design Intern (Fall 2025) - Cincinnati, OH](https://jobright.ai/jobs/info/68648a7584153b63ff401c47?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 01 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern - High School](https://jobright.ai/jobs/info/6864685096b6a252e9790b23?utm_campaign=1049&utm_source=git)** | United States - Remote | Remote | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
