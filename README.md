@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Austin Community College](http://austincc.edu)** | **[Marketing Graphic Design Student Intern (Hourly)](https://jobright.ai/jobs/info/686d3c1e9f97117d5db0b501?utm_campaign=1049&utm_source=git)** | Highland Campus | On Site | Jul 08 |
+| **[Jacobs](http://www.jacobs.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142b?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af51427?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92da7f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92da7e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92d9f3?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jul 08 |
+| **[HEDK Architects](https://hedk.com)** | **[Intern architectural designer](https://jobright.ai/jobs/info/686d948bb495f664a24eb606?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Jul 08 |
+| **[Austin Community College](http://austincc.edu)** | **[Marketing Graphic Design Student Intern (Hourly)](https://jobright.ai/jobs/info/686d82a035d173f099671a5e?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 08 |
+| ↳ | **[Marketing Graphic Design Student Intern (Hourly)](https://jobright.ai/jobs/info/686d3c1e9f97117d5db0b501?utm_campaign=1049&utm_source=git)** | Highland Campus | On Site | Jul 08 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685023a33db3601c8302c705?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
 | ↳ | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685026cd4bc72090b9c1de68?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Design Intern- Buildings (Fall 2025)](https://jobright.ai/jobs/info/686cd4a165ca97161f3d41d6?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
@@ -91,11 +100,9 @@ For a complete list, click the following sortable link below:
 | **[Teads](https://www.teads.com)** | **[Design Intern](https://jobright.ai/jobs/info/686704fbb0e073b4dcfd792e?utm_campaign=1049&utm_source=git)** | Chicago | On Site | Jul 03 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[MarCom Intern](https://jobright.ai/jobs/info/6866f841683f2a45bfe45428?utm_campaign=1049&utm_source=git)** | Watsonville, California | On Site | Jul 03 |
 | **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/6849e2befef6a65076fe2062?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Jul 03 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6866d1e880abf94b253f9913?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/684a0d63ab18d2944e05294d?utm_campaign=1049&utm_source=git)** | Alameda, CA | On Site | Jul 03 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/68662e8db301d8ad783d5c7c?utm_campaign=1049&utm_source=git)** | Houston, TX | Remote | Jul 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Design Intern (TikTok LIVE) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/686a0b3035584b65425398ce?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 02 |
-| **[John Deere](https://www.deere.com)** | **[Part-Time Student - User Experience Designer - East Moline, IL](https://jobright.ai/jobs/info/68688ce735584b654246936d?utm_campaign=1049&utm_source=git)** | East Moline, IL | Hybrid | Jul 02 |
 | **[Primal Wear](https://www.primalwear.com/)** | **[Design Artist Intern](https://jobright.ai/jobs/info/68659e8676eebf05c6984788?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jul 02 |
 | **[Oklahoma City Community College](http://www.occc.edu/)** | **[Pioneer Graphic Designer - Student](https://jobright.ai/jobs/info/6865af06b013aba30deb62a9?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jul 02 |
 | **[Enchanté Accessories](http://enchanteaccessories.com)** | **[Design Intern](https://jobright.ai/jobs/info/6865913b5a467cb6264ea4a6?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Jul 02 |
