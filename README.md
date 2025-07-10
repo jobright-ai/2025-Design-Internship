@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[Production Intern](https://jobright.ai/jobs/info/6853e515a268d6d82f3d6526?utm_campaign=1049&utm_source=git)** | Gilbert, AZ | Hybrid | Jul 10 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025 UX/UI Internship Kroger Technology & Digital](https://jobright.ai/jobs/info/686f6a7a04229046f5decb8f?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 09 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/686f6cce3b68d916938a06c2?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Jul 09 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Sports Boston Internship - Academic Year 25-26](https://jobright.ai/jobs/info/686f1d8c3058270130913774?utm_campaign=1049&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jul 09 |
@@ -76,13 +77,13 @@ For a complete list, click the following sortable link below:
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/686ae3ac35584b6542bd60a1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 08 |
 | ↳ | **[Atmosfy UX Research Intern](https://jobright.ai/jobs/info/68619d6506a6cbe93b693e8d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 08 |
 | **[Stantec](http://www.stantec.com)** | **[Architecture Co-op/Intern- Buildings (Fall 2025)](https://jobright.ai/jobs/info/686dd20c35fda722f573382b?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
-| **[Jacobs](http://www.jacobs.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 08 |
-| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af51427?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Jul 08 |
-| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142b?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jul 08 |
+| **[Jacobs](http://www.jacobs.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142b?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af51427?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92da7e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92da7f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92d9f3?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jul 08 |
-| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92da7e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686dd20c35fda722f5733965?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jul 08 |
 | **[Austin Community College](http://austincc.edu)** | **[Marketing Graphic Design Student Intern (Hourly)](https://jobright.ai/jobs/info/686d82a035d173f099671a5e?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 08 |
 | ↳ | **[Marketing Graphic Design Student Intern (Hourly)](https://jobright.ai/jobs/info/686d3c1e9f97117d5db0b501?utm_campaign=1049&utm_source=git)** | Highland Campus | On Site | Jul 08 |
@@ -118,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[MarCom Intern](https://jobright.ai/jobs/info/68672cadd903f56ccb6f314e?utm_campaign=1049&utm_source=git)** | Watsonville, CA | On Site | Jul 03 |
 | **[Teads](https://www.teads.com)** | **[Design Intern](https://jobright.ai/jobs/info/686704fbb0e073b4dcfd792e?utm_campaign=1049&utm_source=git)** | Chicago | On Site | Jul 03 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[MarCom Intern](https://jobright.ai/jobs/info/6866f841683f2a45bfe45428?utm_campaign=1049&utm_source=git)** | Watsonville, California | On Site | Jul 03 |
-| **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/6849e2befef6a65076fe2062?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
