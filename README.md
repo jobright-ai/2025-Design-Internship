@@ -70,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687011594a49c2ad447b5db2?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 10 |
 | **[Signify](https://www.signify.com)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68702e35a5ae807a59cf6683?utm_campaign=1049&utm_source=git)** | Burlington, MA | On Site | Jul 10 |
 | ↳ | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68703cce01cc0956e7e80736?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | On Site | Jul 10 |
-| ↳ | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68700f169a77984d3d150be4?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | On Site | Jul 10 |
+| **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/6849e2befef6a65076fe2062?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
+| **[Signify](https://www.signify.com)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68700f169a77984d3d150be4?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | On Site | Jul 10 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/68703e9801cc0956e7e8085c?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Jul 10 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/686ae3ac35584b6542bd60a1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Ansys](http://www.ansys.com)** | **[Fall 2025 Intern - UX Design - Cloud, AI, Solutions & Enablement (BS/MS)](https://jobright.ai/jobs/info/68375ef67e434f9491b8e0cf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern](https://jobright.ai/jobs/info/686d6618b494246d3922f5cb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 07 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Graphic Design Intern Fall 2025 / Springfield](https://jobright.ai/jobs/info/686c2b4f35584b65421888f7?utm_campaign=1049&utm_source=git)** | Springfield, MO | Hybrid | Jul 07 |
 | **[FIRST](https://firstagency.com/)** | **[Video Design Intern (Fall)](https://jobright.ai/jobs/info/686c204435584b6542c689bd?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 07 |
-| ↳ | **[3D Design Intern (Fall)](https://jobright.ai/jobs/info/686c1ebb35584b6542bf16d5?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 07 |
 | ↳ | **[2D Design Intern (Fall)](https://jobright.ai/jobs/info/686c373835584b65426787fa?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 07 |
 | ↳ | **[2D Design Intern (Fall)](https://jobright.ai/jobs/info/686bdd8335584b65422a1390?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | Jul 07 |
 | ↳ | **[Video Design Intern (Fall)](https://jobright.ai/jobs/info/686bdb9835584b65421e55ac?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | Jul 07 |
@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore+ Summit - Summer 2025](https://jobright.ai/jobs/info/684cd521b7fb7d31f5f1234c?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Jul 06 |
 | **[Getty Images](https://www.gettyimages.com)** | **[Intern for Editorial Entertainment Photography](https://jobright.ai/jobs/info/68701db906ad7073463bb2ed?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 06 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/664e491de2794cc911da59d7?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Jul 05 |
-| **[Weston & Sampson](http://westonandsampson.com)** | **[Architect Co-op Fall 2025 (Foxborough, MA)](https://jobright.ai/jobs/info/684aee6d128176656f8015f1?utm_campaign=1049&utm_source=git)** | Foxborough, MA | Hybrid | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
