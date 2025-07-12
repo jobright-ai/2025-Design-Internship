@@ -94,11 +94,11 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Architecture Co-op/Intern- Buildings (Fall 2025)](https://jobright.ai/jobs/info/686dd20c35fda722f573382b?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
 | **[Jacobs](http://www.jacobs.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af51427?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Jul 08 |
-| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142b?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142b?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92da7f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 08 |
-| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92da7e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92d9f3?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92da7e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686dd20c35fda722f5733965?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jul 08 |
 | **[Austin Community College](http://austincc.edu)** | **[Marketing Graphic Design Student Intern (Hourly)](https://jobright.ai/jobs/info/686d82a035d173f099671a5e?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 08 |
 | **[ECU Health](http://www.ECUHealth.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6850c107e5a6ebcd0e55c301?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Jul 08 |
