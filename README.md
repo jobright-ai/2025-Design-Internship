@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Data Visualization Intern - iDeas Lab (Fall 2025)](https://jobright.ai/jobs/info/6874b44cae2f413e4a59f692?utm_campaign=1049&utm_source=git)** | Becket, MA | On Site | Jul 12 |
 | **[SAFEbuilt](http://safebuilt.com/)** | **[Landscape Intern Part Time](https://jobright.ai/jobs/info/68719d3806ad7073463c63fd?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 11 |
 | **[Innovaccer](https://www.innovaccer.com)** | **[3194-Product Design - Intern](https://jobright.ai/jobs/info/6874bd2aae2f413e4a59fe1a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jul 11 |
-| **[TH Experiential](https://thexperiential.com)** | **[Motion Graphic 2025 Summer Intern](https://jobright.ai/jobs/info/6874cc79ae2f413e4a5a05f5?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Jul 11 |
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/6870791401cc0956e7e82192?utm_campaign=1049&utm_source=git)** | Laramie, WY | On Site | Jul 10 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687064f5a5ae807a59cf8080?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 10 |
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/687061214ec78aa84e9b7b0d?utm_campaign=1049&utm_source=git)** | Laramie, WY US (Primary) | On Site | Jul 10 |
@@ -97,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Fall 2025)](https://jobright.ai/jobs/info/686e9cd8c26e3704376d62c1?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 09 |
 | **[Stantec](http://www.stantec.com)** | **[Architecture Co-op/Intern- Buildings (Fall 2025)](https://jobright.ai/jobs/info/686dd20c35fda722f573382b?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
 | **[Jacobs](http://www.jacobs.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af51427?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Jul 08 |
-| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142b?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92da7f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686dd20c35fda722f5733965?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jul 08 |
@@ -114,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern](https://jobright.ai/jobs/info/686d6618b494246d3922f5cb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 07 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Graphic Design Intern Fall 2025 / Springfield](https://jobright.ai/jobs/info/686c2b4f35584b65421888f7?utm_campaign=1049&utm_source=git)** | Springfield, MO | Hybrid | Jul 07 |
 | **[FIRST](https://firstagency.com/)** | **[Video Design Intern (Fall)](https://jobright.ai/jobs/info/686c204435584b6542c689bd?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 07 |
-| ↳ | **[2D Design Intern (Fall)](https://jobright.ai/jobs/info/686c373835584b65426787fa?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
