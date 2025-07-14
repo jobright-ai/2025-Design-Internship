@@ -94,10 +94,10 @@ For a complete list, click the following sortable link below:
 | **[Evans](http://www.evansonline.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/67b7f90aebe0b965317a352d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jul 09 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Fall 2025)](https://jobright.ai/jobs/info/686e9cd8c26e3704376d62c1?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 09 |
 | **[Stantec](http://www.stantec.com)** | **[Architecture Co-op/Intern- Buildings (Fall 2025)](https://jobright.ai/jobs/info/686dd20c35fda722f573382b?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
-| **[Jacobs](http://www.jacobs.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142b?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jul 08 |
-| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 08 |
+| **[Jacobs](http://www.jacobs.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af51427?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Jul 08 |
-| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142b?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jul 08 |
+| ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db9764bbc328d8af5142e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686db47eb3502aea3b92da7f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 08 |
 | ↳ | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/686dd20c35fda722f5733965?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jul 08 |
 | **[Austin Community College](http://austincc.edu)** | **[Marketing Graphic Design Student Intern (Hourly)](https://jobright.ai/jobs/info/686d82a035d173f099671a5e?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 08 |
@@ -116,5 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2D Design Intern (Fall)](https://jobright.ai/jobs/info/686bdd8335584b65422a1390?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | Jul 07 |
 | ↳ | **[Video Design Intern (Fall)](https://jobright.ai/jobs/info/686bdb9835584b65421e55ac?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | Jul 07 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0c992?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jul 07 |
-| **[HDR](http://www.hdrinc.com)** | **[NOMA HBCU Professional Development Career Fair](https://jobright.ai/jobs/info/67dc2f6844b4e8d74ae5d781?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
