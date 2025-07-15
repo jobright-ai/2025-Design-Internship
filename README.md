@@ -106,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685023a33db3601c8302c705?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
 | ↳ | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685026cd4bc72090b9c1de68?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Design Intern- Buildings (Fall 2025)](https://jobright.ai/jobs/info/686cd4a165ca97161f3d41d6?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[College Internship - Visual Communications Intern](https://jobright.ai/jobs/info/686caadc35584b6542ef44d8?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
