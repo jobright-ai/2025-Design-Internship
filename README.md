@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[SAFEbuilt](http://safebuilt.com/)** | **[Landscape Intern Part Time](https://jobright.ai/jobs/info/68719d3806ad7073463c63fd?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 11 |
 | **[Innovaccer](https://www.innovaccer.com)** | **[3194-Product Design - Intern](https://jobright.ai/jobs/info/6874bd2aae2f413e4a59fe1a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jul 11 |
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/6870791401cc0956e7e82192?utm_campaign=1049&utm_source=git)** | Laramie, WY | On Site | Jul 10 |
+| **[Stantec](http://www.stantec.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/6875da47ae2f413e4a5aa507?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Jul 10 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687064f5a5ae807a59cf8080?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 10 |
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/687061214ec78aa84e9b7b0d?utm_campaign=1049&utm_source=git)** | Laramie, WY US (Primary) | On Site | Jul 10 |
 | **[ByteDance](http://bytedance.com)** | **[Music Product Designer Intern (Music Design) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687052c0a5ae807a59cf78ec?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 10 |
