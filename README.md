@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carters Inc.](https://www.carters.com/)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/6877a87f866a435525ab30e0?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jul 16 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Industrial Design Co Op](https://jobright.ai/jobs/info/687713d8299cbc74b876332a?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jul 15 |
-| **[Carters Inc.](https://www.carters.com/)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/6876c65f5cebcd1dd51cc47a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jul 15 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6876c4e85cebcd1dd51cc36e?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Jul 15 |
 | **[Ignitium: ABX Orchestration](https://www.ignitium.com/)** | **[Part Time Graphic Design Intern - In Person](https://jobright.ai/jobs/info/6876c0a9299cbc74b8760459?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Jul 15 |
 | **[KHAITE](https://khaite.com/)** | **[Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6876b22eae2f413e4a5b291a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 15 |
@@ -102,7 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In Person) Fall 2025](https://jobright.ai/jobs/info/686eef5ccf38b2fb906da1c2?utm_campaign=1049&utm_source=git)** | AL, Mobile | On Site | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Digital Intern - 2026](https://jobright.ai/jobs/info/686c299f35584b65420c8961?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jul 09 |
 | **[Teads](https://www.teads.com)** | **[Design Intern](https://jobright.ai/jobs/info/686748087f06bf1f7bb5559d?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 09 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Fall 2025)](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60b0f?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 09 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Resource Recovery Intern - Graphic Design & Social Media Open to Work Study and Non-Work Study Students](https://jobright.ai/jobs/info/686ed5447662ea8f920c7bc4?utm_campaign=1049&utm_source=git)** | AUSTIN, TX | On Site | Jul 09 |
-| **[Elevation Church](http://elevationchurch.org/)** | **[Elevation Church Creative Ministry Apprenticeship (Fall 2025)](https://jobright.ai/jobs/info/686ec4019ac195524dc1da8d?utm_campaign=1049&utm_source=git)** | Matthews, NC | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
