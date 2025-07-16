@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Carters Inc.](https://www.carters.com/)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/6877a87f866a435525ab30e0?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jul 16 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Industrial Design Co Op](https://jobright.ai/jobs/info/687713d8299cbc74b876332a?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jul 15 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6876c4e85cebcd1dd51cc36e?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Jul 15 |
 | **[Ignitium: ABX Orchestration](https://www.ignitium.com/)** | **[Part Time Graphic Design Intern - In Person](https://jobright.ai/jobs/info/6876c0a9299cbc74b8760459?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Jul 15 |
@@ -70,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/686ae3ac35584b6542bd60a1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Creative & Design](https://jobright.ai/jobs/info/68754f30299cbc74b87538dd?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
 | **[Goodwill Industries of the Inland Northwest](https://discovergoodwill.org/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/687540ba299cbc74b8753312?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Jul 14 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Print Intern - Art - College of Fine Arts](https://jobright.ai/jobs/info/6875158b299cbc74b8751d07?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jul 14 |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Print Intern - Art - College of Fine Arts](https://jobright.ai/jobs/info/68753def5cebcd1dd51bedec?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jul 14 |
 | **[Concord](https://concord.com/)** | **[KIDZ BOP Design Intern](https://jobright.ai/jobs/info/68762158ae2f413e4a5ad255?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 13 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CMF Design Co-op (July through December)](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac466?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jul 13 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Multimedia Designer)](https://jobright.ai/jobs/info/6839fe9a5ae2eb9b7f7d0f55?utm_campaign=1049&utm_source=git)** | Winchester, VA | Hybrid | Jul 13 |
@@ -89,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Capstone](https://capstonedc.com)** | **[Fall 2025 - Graphic Design and UX Design Intern](https://jobright.ai/jobs/info/6870420a01cc0956e7e80aaa?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Jul 10 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/68703c2601cc0956e7e806da?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Jul 10 |
 | **[Capstone](https://capstonedc.com)** | **[Fall 2025 - Graphic Design and UX Design Intern](https://jobright.ai/jobs/info/68703b6e01cc0956e7e80667?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 10 |
-| **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687011594a49c2ad447b5db2?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 10 |
 | **[Signify](https://www.signify.com)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68702e35a5ae807a59cf6683?utm_campaign=1049&utm_source=git)** | Burlington, MA | On Site | Jul 10 |
 | ↳ | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68703cce01cc0956e7e80736?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | On Site | Jul 10 |
 | **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/6849e2befef6a65076fe2062?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
@@ -99,7 +97,4 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Sports Boston Internship - Academic Year 25-26](https://jobright.ai/jobs/info/686f1d8c3058270130913774?utm_campaign=1049&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Jul 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In Person) Fall 2025](https://jobright.ai/jobs/info/686f1d3dd47b21ea06b08bfb?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Jul 09 |
 | **[Influur](https://www.influur.com)** | **[Design Ninja Internship](https://jobright.ai/jobs/info/686f26d790d7b66951c276c7?utm_campaign=1049&utm_source=git)** | Florida, United States | Remote | Jul 09 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In Person) Fall 2025](https://jobright.ai/jobs/info/686eef5ccf38b2fb906da1c2?utm_campaign=1049&utm_source=git)** | AL, Mobile | On Site | Jul 09 |
-| **[Protiviti](http://www.protiviti.com)** | **[Houston Digital Intern - 2026](https://jobright.ai/jobs/info/686c299f35584b65420c8961?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jul 09 |
-| **[Teads](https://www.teads.com)** | **[Design Intern](https://jobright.ai/jobs/info/686748087f06bf1f7bb5559d?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
