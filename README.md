@@ -57,20 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Industrial Design Co Op](https://jobright.ai/jobs/info/68771a55ae2f413e4a5b6a59?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jul 15 |
+| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Industrial Design Co Op](https://jobright.ai/jobs/info/687713d8299cbc74b876332a?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jul 15 |
 | **[Carters Inc.](https://www.carters.com/)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/6876c65f5cebcd1dd51cc47a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jul 15 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6876c4e85cebcd1dd51cc36e?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Jul 15 |
 | **[Ignitium: ABX Orchestration](https://www.ignitium.com/)** | **[Part Time Graphic Design Intern - In Person](https://jobright.ai/jobs/info/6876c0a9299cbc74b8760459?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Jul 15 |
+| **[KHAITE](https://khaite.com/)** | **[Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6876b22eae2f413e4a5b291a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6876c900299cbc74b8760a01?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jul 15 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6876da6f5cebcd1dd51cd140?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Jul 15 |
 | ↳ | **[Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6876aab0ae2f413e4a5b2248?utm_campaign=1049&utm_source=git)** | Baltimore, Maryland, United States | On Site | Jul 15 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6876a6c4299cbc74b875f1f5?utm_campaign=1049&utm_source=git)** | Salt Lake City Office | On Site | Jul 15 |
-| **[KHAITE](https://khaite.com/)** | **[Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6876d455ae2f413e4a5b419d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/683e11dedce0d944cdfe8a73?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jul 15 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/686ae3ac35584b6542bd60a1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Creative & Design](https://jobright.ai/jobs/info/68754f30299cbc74b87538dd?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
 | **[Goodwill Industries of the Inland Northwest](https://discovergoodwill.org/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/687540ba299cbc74b8753312?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Jul 14 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Print Intern - Art - College of Fine Arts](https://jobright.ai/jobs/info/6875158b299cbc74b8751d07?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jul 14 |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Print Intern - Art - College of Fine Arts](https://jobright.ai/jobs/info/68753def5cebcd1dd51bedec?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jul 14 |
 | **[Concord](https://concord.com/)** | **[KIDZ BOP Design Intern](https://jobright.ai/jobs/info/68762158ae2f413e4a5ad255?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 13 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CMF Design Co-op (July through December)](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac466?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jul 13 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Multimedia Designer)](https://jobright.ai/jobs/info/6839fe9a5ae2eb9b7f7d0f55?utm_campaign=1049&utm_source=git)** | Winchester, VA | Hybrid | Jul 13 |
