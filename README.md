@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rho](https://rho.co)** | **[Design Intern, Motion (Part-time)](https://jobright.ai/jobs/info/68799eb42097a271a8978e3e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 17 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Architecture - Fall 2025](https://jobright.ai/jobs/info/6879988a2097a271a8978a61?utm_campaign=1049&utm_source=git)** | Houston, TX, US | On Site | Jul 17 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2025 Marketing Design Intern](https://jobright.ai/jobs/info/68798378a7fc8904e3963645?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 17 |
 | **[Summit Fire & Security](https://summitfiresecurity.com)** | **[Designer, Trainee](https://jobright.ai/jobs/info/6879616ba7fc8904e39624c8?utm_campaign=1049&utm_source=git)** | Hartford, CT | On Site | Jul 17 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Playfly Creates Fall/Winter Design Intern](https://jobright.ai/jobs/info/68795986ed63844c9449ae37?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 17 |
