@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a6c29764c3d7411c2d038?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/687a6be8ed63844c944a2e94?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Intern](https://jobright.ai/jobs/info/687a5837ed63844c944a281e?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Jul 18 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Architecture - Fall 2025](https://jobright.ai/jobs/info/6879e153a7fc8904e3966843?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jul 17 |
 | **[Rho](https://rho.co)** | **[Design Intern, Motion (Part-time)](https://jobright.ai/jobs/info/6879b263ed63844c9449d75d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 17 |
