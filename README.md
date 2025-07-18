@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2025 Marketing Design Intern](https://jobright.ai/jobs/info/68798378a7fc8904e3963645?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 17 |
 | **[Summit Fire & Security](https://summitfiresecurity.com)** | **[Designer, Trainee](https://jobright.ai/jobs/info/6879616ba7fc8904e39624c8?utm_campaign=1049&utm_source=git)** | Hartford, CT | On Site | Jul 17 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Playfly Creates Fall/Winter Design Intern](https://jobright.ai/jobs/info/68795986ed63844c9449ae37?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 17 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2025 Marketing Design Intern](https://jobright.ai/jobs/info/68795404a7fc8904e3961dda?utm_campaign=1049&utm_source=git)** | Hyde Park, MA | On Site | Jul 17 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Creative Design Apprentice](https://jobright.ai/jobs/info/68792f85ed63844c944996e5?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Jul 17 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/686ae3ac35584b6542bd60a1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 17 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Fashion Design Internship (Fall 2025)](https://jobright.ai/jobs/info/687907b62097a271a8973e1c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 17 |
+| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Creative Services Trainee](https://jobright.ai/jobs/info/679ef3fe1cce1953b839853d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 17 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/685cab9b3c088b537bde99ea?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 17 |
 | **[TH Experiential](https://thexperiential.com)** | **[Fall 2025 Graphic Design Internship](https://jobright.ai/jobs/info/687876c05cebcd1dd51dad28?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | ↳ | **[Fall 2025 Creative Strategy Internship](https://jobright.ai/jobs/info/6878746c5cebcd1dd51dac2d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
@@ -71,11 +73,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 UX/UI Design Internship](https://jobright.ai/jobs/info/68786564ae2f413e4a5c243a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Lactalis U.S. Yogurt](https://lactalisyogurtusa.com/)** | **[Digital Assets Intern](https://jobright.ai/jobs/info/68784c1b866a435525ab82d1?utm_campaign=1049&utm_source=git)** | BUFFALO, NY USA SHARED SERVICES | On Site | Jul 16 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Fashion Design Internship (Fall 2025)](https://jobright.ai/jobs/info/687849a0ae2f413e4a5c1199?utm_campaign=1049&utm_source=git)** | NYC Office | On Site | Jul 16 |
+| **[Rho](https://rho.co)** | **[Design Intern, Motion (Part-time)](https://jobright.ai/jobs/info/68797e4fed63844c9449c20f?utm_campaign=1049&utm_source=git)** | NYC | On Site | Jul 16 |
 | **[WebMD](https://www.webmd.com)** | **[UX Animation & Illustration Intern](https://jobright.ai/jobs/info/687835945cebcd1dd51d88ae?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Jul 16 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Digital Assets Intern](https://jobright.ai/jobs/info/68782ac6ae2f413e4a5c0514?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Jul 16 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Creative Design Apprentice](https://jobright.ai/jobs/info/6877ce2fae2f413e4a5bd50d?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | On Site | Jul 16 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/68703c2601cc0956e7e806da?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Jul 15 |
-| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Industrial Design Co Op](https://jobright.ai/jobs/info/687713d8299cbc74b876332a?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jul 15 |
+| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Industrial Design Co Op](https://jobright.ai/jobs/info/68771a55ae2f413e4a5b6a59?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jul 15 |
 | **[University of Florida](https://www.ufl.edu)** | **[Web Designer Student Assistant](https://jobright.ai/jobs/info/687820835cebcd1dd51d7f36?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Jul 15 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6876c4e85cebcd1dd51cc36e?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Jul 15 |
 | **[Ignitium: ABX Orchestration](https://www.ignitium.com/)** | **[Part Time Graphic Design Intern - In Person](https://jobright.ai/jobs/info/6876c0a9299cbc74b8760459?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Jul 15 |
@@ -91,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Concord](https://concord.com/)** | **[KIDZ BOP Design Intern](https://jobright.ai/jobs/info/68762158ae2f413e4a5ad255?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 13 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CMF Design Co-op (July through December)](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac466?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jul 13 |
 | **[Innovaccer](https://www.innovaccer.com)** | **[3194-Intern Product Design](https://jobright.ai/jobs/info/6874bd2aae2f413e4a59fe1a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jul 12 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Multimedia Designer)](https://jobright.ai/jobs/info/687370fa4001e95011b151c4?utm_campaign=1049&utm_source=git)** | Pensacola, FL | Hybrid | Jul 12 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Future Opportunities with Product & Design](https://jobright.ai/jobs/info/6872540f06ad7073463cbcdc?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jul 12 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Data Visualization Intern - iDeas Lab (Fall 2025)](https://jobright.ai/jobs/info/6874b44cae2f413e4a59f692?utm_campaign=1049&utm_source=git)** | Becket, MA | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
