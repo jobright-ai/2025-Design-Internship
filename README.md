@@ -58,10 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687ab0ad2097a271a89810a7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
+| **[Green Bay Packaging](https://gbp.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687ac91eed63844c944a56bd?utm_campaign=1049&utm_source=git)** | De Pere, WI | On Site | Jul 18 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687a9c17764c3d7411c2e6eb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
+| ↳ | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687a9ba62097a271a8980327?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Giant Noise](http://giantnoise.com)** | **[Creative Intern](https://jobright.ai/jobs/info/687a9365ed63844c944a3e58?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 18 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687abbaf2097a271a8981253?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
-| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a6be8ed63844c944a2e94?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a6bfd2097a271a897ec6b?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/687a6bbc764c3d7411c2cfe6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Intern](https://jobright.ai/jobs/info/687a5837ed63844c944a281e?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Jul 18 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Architecture - Fall 2025](https://jobright.ai/jobs/info/6879e153a7fc8904e3966843?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jul 17 |
