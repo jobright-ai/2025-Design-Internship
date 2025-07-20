@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ITS](http://www.its.aero)** | **[Architectural Designer / Intern Architect / Architect](https://jobright.ai/jobs/info/687c6758ed63844c944ad486?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jul 19 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/687c5ea9ed63844c944ad083?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Jul 19 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Design - Crew Resources (Spring 2026)](https://jobright.ai/jobs/info/687ba88f764c3d7411c349a4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jul 19 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Jul 19 |
@@ -70,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687a9c17764c3d7411c2e6eb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Giant Noise](http://giantnoise.com)** | **[Creative Intern](https://jobright.ai/jobs/info/687a9365ed63844c944a3e58?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 18 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a8de4764c3d7411c2de64?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687af3e6764c3d7411c30334?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687abbaf2097a271a8981253?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a6c4e2097a271a897ecba?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Intern](https://jobright.ai/jobs/info/687a5837ed63844c944a281e?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b40d4764c3d7411c31aca?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
@@ -91,7 +92,8 @@ For a complete list, click the following sortable link below:
 | **[TH Experiential](https://thexperiential.com)** | **[Fall 2025 Graphic Design Internship](https://jobright.ai/jobs/info/687876c05cebcd1dd51dad28?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | ↳ | **[Fall 2025 Creative Strategy Internship](https://jobright.ai/jobs/info/6878746c5cebcd1dd51dac2d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | ↳ | **[Fall 2025 3D Design Internship](https://jobright.ai/jobs/info/687873ed5cebcd1dd51dac04?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
-| ↳ | **[Fall 2025 UX/UI Design Internship](https://jobright.ai/jobs/info/68786564ae2f413e4a5c243a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Customer Experience Design (Spring, 2025)](https://jobright.ai/jobs/info/687c7f48764c3d7411c387e9?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 16 |
+| **[TH Experiential](https://thexperiential.com)** | **[Fall 2025 UX/UI Design Internship](https://jobright.ai/jobs/info/68786564ae2f413e4a5c243a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Lactalis U.S. Yogurt](https://lactalisyogurtusa.com/)** | **[Digital Assets Intern](https://jobright.ai/jobs/info/68784c1b866a435525ab82d1?utm_campaign=1049&utm_source=git)** | BUFFALO, NY USA SHARED SERVICES | On Site | Jul 16 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Fashion Design Internship (Fall 2025)](https://jobright.ai/jobs/info/687849a0ae2f413e4a5c1199?utm_campaign=1049&utm_source=git)** | NYC Office | On Site | Jul 16 |
 | **[Rho](https://rho.co)** | **[Design Intern, Motion (Part-time)](https://jobright.ai/jobs/info/68797e4fed63844c9449c20f?utm_campaign=1049&utm_source=git)** | NYC | On Site | Jul 16 |
