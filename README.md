@@ -71,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/687afddaed63844c944a6421?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Jul 18 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687a9c17764c3d7411c2e6eb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Giant Noise](http://giantnoise.com)** | **[Creative Intern](https://jobright.ai/jobs/info/687a9365ed63844c944a3e58?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 18 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687abbaf2097a271a8981253?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687af3e6764c3d7411c30334?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a84ec764c3d7411c2da94?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/687a6bbc764c3d7411c2cfe6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Intern](https://jobright.ai/jobs/info/687a5837ed63844c944a281e?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Jul 18 |
@@ -111,5 +111,5 @@ For a complete list, click the following sortable link below:
 | **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/683e11dedce0d944cdfe8a73?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jul 15 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Creative & Design](https://jobright.ai/jobs/info/68754f30299cbc74b87538dd?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
 | **[Goodwill Industries of the Inland Northwest](https://discovergoodwill.org/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/687540ba299cbc74b8753312?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Jul 14 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Print Intern - Art - College of Fine Arts](https://jobright.ai/jobs/info/6875158b299cbc74b8751d07?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jul 14 |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Print Intern - Art - College of Fine Arts](https://jobright.ai/jobs/info/68753def5cebcd1dd51bedec?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
