@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687ea6192097a271a8996bad?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Jul 21 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/687ea4ed764c3d7411c451d7?utm_campaign=1049&utm_source=git)** | Troy, Michigan | On Site | Jul 21 |
+| ↳ | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/687ea416db19f31cf0d6bdb7?utm_campaign=1049&utm_source=git)** | Mentor, Ohio | On Site | Jul 21 |
+| **[Ellis Brooklyn ](https://www.ellisbrooklyn.com/)** | **[Photo and Design Intern](https://jobright.ai/jobs/info/687e9c4b2097a271a89966e0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[VF Corporation](http://www.vfc.com)** | **[Design Intern](https://jobright.ai/jobs/info/687e91bb764c3d7411c4469f?utm_campaign=1049&utm_source=git)** | USCA > USA > Colorado > Denver HQ - VFC | On Site | Jul 21 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Packaging Internship](https://jobright.ai/jobs/info/687e7653764c3d7411c439a2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Packaging Return Internship - Summer 2026](https://jobright.ai/jobs/info/687e62d52097a271a8994bd4?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | On Site | Jul 21 |
@@ -80,10 +84,10 @@ For a complete list, click the following sortable link below:
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687b3ff52097a271a8982d8f?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/687afddaed63844c944a6421?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Jul 18 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687a9c17764c3d7411c2e6eb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
+| ↳ | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687a9ba62097a271a8980327?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Giant Noise](http://giantnoise.com)** | **[Creative Intern](https://jobright.ai/jobs/info/687a9365ed63844c944a3e58?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 18 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687abbaf2097a271a8981253?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
-| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a6c4e2097a271a897ecba?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/687a6bbc764c3d7411c2cfe6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a8de4764c3d7411c2de64?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/687a84ec764c3d7411c2da94?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Intern](https://jobright.ai/jobs/info/687a5837ed63844c944a281e?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b40d4764c3d7411c31aca?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Architecture - Fall 2025](https://jobright.ai/jobs/info/6879e153a7fc8904e3966843?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jul 17 |
