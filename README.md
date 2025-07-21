@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/687de194ed63844c944b5475?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Jul 20 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/687da5c02097a271a898ed6e?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Jul 20 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy User Experience Intern](https://jobright.ai/jobs/info/687d419b2097a271a898e2c4?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 20 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) UX Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b8c4c2097a271a89850c7?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 20 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687b3ff52097a271a8982d8f?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/687afddaed63844c944a6421?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Jul 18 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687a9c17764c3d7411c2e6eb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
+| ↳ | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687a9ba62097a271a8980327?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Giant Noise](http://giantnoise.com)** | **[Creative Intern](https://jobright.ai/jobs/info/687a9365ed63844c944a3e58?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 18 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687af3e6764c3d7411c30334?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a6c4e2097a271a897ecba?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/687a6bbc764c3d7411c2cfe6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Intern](https://jobright.ai/jobs/info/687a5837ed63844c944a281e?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Jul 18 |
@@ -104,13 +105,12 @@ For a complete list, click the following sortable link below:
 | **[University of Florida](https://www.ufl.edu)** | **[Web Designer Student Assistant](https://jobright.ai/jobs/info/687820835cebcd1dd51d7f36?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Jul 15 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6876c4e85cebcd1dd51cc36e?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Jul 15 |
 | **[Ignitium: ABX Orchestration](https://www.ignitium.com/)** | **[Part Time Graphic Design Intern - In Person](https://jobright.ai/jobs/info/6876c0a9299cbc74b8760459?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Jul 15 |
+| **[KHAITE](https://khaite.com/)** | **[Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6876b22eae2f413e4a5b291a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6876c900299cbc74b8760a01?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jul 15 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6876da6f5cebcd1dd51cd140?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Jul 15 |
 | ↳ | **[Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6876aab0ae2f413e4a5b2248?utm_campaign=1049&utm_source=git)** | Baltimore, Maryland, United States | On Site | Jul 15 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6876a6c4299cbc74b875f1f5?utm_campaign=1049&utm_source=git)** | Salt Lake City Office | On Site | Jul 15 |
-| **[KHAITE](https://khaite.com/)** | **[Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6876d455ae2f413e4a5b419d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/683e11dedce0d944cdfe8a73?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jul 15 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Creative & Design](https://jobright.ai/jobs/info/68754f30299cbc74b87538dd?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
 | **[Goodwill Industries of the Inland Northwest](https://discovergoodwill.org/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/687540ba299cbc74b8753312?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Jul 14 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Print Intern - Art - College of Fine Arts](https://jobright.ai/jobs/info/68753def5cebcd1dd51bedec?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
