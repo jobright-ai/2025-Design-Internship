@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ef7ee2097a271a899940c?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Jul 21 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/687ef713764c3d7411c479c6?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Jul 21 |
+| ↳ | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/687ef645764c3d7411c4791b?utm_campaign=1049&utm_source=git)** | Mentor, OH | On Site | Jul 21 |
+| **[Perlick Corporation](https://www.perlick.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/687eebdf2097a271a8998ed0?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jul 21 |
+| **[ECU Health](http://www.ECUHealth.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/687ee9842097a271a8998d7c?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Jul 21 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Digital Media and Video Production Intern](https://jobright.ai/jobs/info/687ee6772097a271a8998c4f?utm_campaign=1049&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jul 21 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Digital Asset Management](https://jobright.ai/jobs/info/687ee0b5db19f31cf0d6db34?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec5fd2097a271a8997c77?utm_campaign=1049&utm_source=git)** | Arlington, VA 22203 | Hybrid | Jul 21 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687ec42e2097a271a8997b4a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
@@ -86,10 +92,10 @@ For a complete list, click the following sortable link below:
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687b3ff52097a271a8982d8f?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/687afddaed63844c944a6421?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Jul 18 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687a9c17764c3d7411c2e6eb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
-| ↳ | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687a9ba62097a271a8980327?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Giant Noise](http://giantnoise.com)** | **[Creative Intern](https://jobright.ai/jobs/info/687a9365ed63844c944a3e58?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 18 |
-| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a8de4764c3d7411c2de64?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/687a84ec764c3d7411c2da94?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687abbaf2097a271a8981253?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a6c4e2097a271a897ecba?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/687a6bbc764c3d7411c2cfe6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Intern](https://jobright.ai/jobs/info/687a5837ed63844c944a281e?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b40d4764c3d7411c31aca?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Architecture - Fall 2025](https://jobright.ai/jobs/info/6879e153a7fc8904e3966843?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jul 17 |
@@ -119,10 +125,10 @@ For a complete list, click the following sortable link below:
 | **[University of Florida](https://www.ufl.edu)** | **[Web Designer Student Assistant](https://jobright.ai/jobs/info/687820835cebcd1dd51d7f36?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Jul 15 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6876c4e85cebcd1dd51cc36e?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Jul 15 |
 | **[Ignitium: ABX Orchestration](https://www.ignitium.com/)** | **[Part Time Graphic Design Intern - In Person](https://jobright.ai/jobs/info/6876c0a9299cbc74b8760459?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Jul 15 |
+| **[KHAITE](https://khaite.com/)** | **[Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6876b22eae2f413e4a5b291a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6876c900299cbc74b8760a01?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jul 15 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6876da6f5cebcd1dd51cd140?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Jul 15 |
 | ↳ | **[Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6876aab0ae2f413e4a5b2248?utm_campaign=1049&utm_source=git)** | Baltimore, Maryland, United States | On Site | Jul 15 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6876a6c4299cbc74b875f1f5?utm_campaign=1049&utm_source=git)** | Salt Lake City Office | On Site | Jul 15 |
-| **[KHAITE](https://khaite.com/)** | **[Digital Intern, Fall 2025](https://jobright.ai/jobs/info/6876d455ae2f413e4a5b419d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/683e11dedce0d944cdfe8a73?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
