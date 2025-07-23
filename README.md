@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Telemundo Connecticut Graphics Intern - Academic Year 2025-2026](https://jobright.ai/jobs/info/6881368016ea5743a37374a2?utm_campaign=1049&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Jul 23 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6881344df4f06100f3a25179?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | Jul 23 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HQF - Multimedia Designer Paid Intern](https://jobright.ai/jobs/info/68812fe829ad6b2744adffd0?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 23 |
+| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68812e53f4f06100f3a24b74?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 23 |
+| **[Grow Your Business - NYC](https://mrgyb.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/68812adaf4f06100f3a24a7c?utm_campaign=1049&utm_source=git)** | Connecticut, United States | Remote | Jul 23 |
+| **[Canary Marketing](http://canarymarketing.com)** | **[Jr. Graphic Design intern](https://jobright.ai/jobs/info/6881250529ad6b2744adf925?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jul 23 |
+| **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut Graphics Intern - Academic Year 2025-2026](https://jobright.ai/jobs/info/6881244829ad6b2744adf8ba?utm_campaign=1049&utm_source=git)** | Hartford, CT | Hybrid | Jul 23 |
 | **[Protagonist](http://www.protagonist.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6881186316ea5743a3735f78?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/68811ea416ea5743a37364ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6880f7a8f4f06100f3a227ff?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
@@ -127,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/687ea4ed764c3d7411c451d7?utm_campaign=1049&utm_source=git)** | Troy, Michigan | On Site | Jul 21 |
 | ↳ | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/687ea416db19f31cf0d6bdb7?utm_campaign=1049&utm_source=git)** | Mentor, Ohio | On Site | Jul 21 |
 | **[Ellis Brooklyn ](https://www.ellisbrooklyn.com/)** | **[Photo and Design Intern](https://jobright.ai/jobs/info/687e9c4b2097a271a89966e0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 21 |
-| **[VF Corporation](http://www.vfc.com)** | **[Design Intern](https://jobright.ai/jobs/info/687e91bb764c3d7411c4469f?utm_campaign=1049&utm_source=git)** | USCA > USA > Colorado > Denver HQ - VFC | On Site | Jul 21 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Fall Multimedia Internship](https://jobright.ai/jobs/info/687e8fac764c3d7411c444ca?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Packaging Internship](https://jobright.ai/jobs/info/687e7653764c3d7411c439a2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 21 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Creative Services Intern](https://jobright.ai/jobs/info/680a9e7445fca9f4a5a15e0f?utm_campaign=1049&utm_source=git)** | Tallahassee, FL | On Site | Jul 21 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Packaging Return Internship - Summer 2026](https://jobright.ai/jobs/info/687e62d52097a271a8994bd4?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | On Site | Jul 21 |
 | ↳ | **[Packaging Return Internship - Summer 2026](https://jobright.ai/jobs/info/687e6232764c3d7411c43111?utm_campaign=1049&utm_source=git)** | Omaha, Nebraska | On Site | Jul 21 |
 | **[Lilly Pulitzer](https://www.lillypulitzer.com/)** | **[Creative Content Intern](https://jobright.ai/jobs/info/687e5d57db19f31cf0d69b0c?utm_campaign=1049&utm_source=git)** | King of Prussia, PA - Home Office | Hybrid | Jul 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Designer - 2025 Fall Internship](https://jobright.ai/jobs/info/687b4e0ced63844c944a73b9?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 18 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Architectural Design](https://jobright.ai/jobs/info/68804eb19f72804245709298?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jul 18 |
 | **[EducationDynamics](https://www.educationdynamics.com)** | **[Video Motion Graphics Internship](https://jobright.ai/jobs/info/687b4e8c764c3d7411c31e6c?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
-| **[Soccer XS](http://www.soccerxs.com)** | **[Fall Photography & Marketing Intern](https://jobright.ai/jobs/info/687b8da7764c3d7411c33a1a?utm_campaign=1049&utm_source=git)** | Windsor, CT | Hybrid | Jul 18 |
-| **[AlphaX RE Capital](http://www.alphax-capital.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/687b03bd2097a271a898236f?utm_campaign=1049&utm_source=git)** | Cupertino, CA | On Site | Jul 18 |
-| **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687ab0ad2097a271a89810a7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| **[Green Bay Packaging](https://gbp.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687ac91eed63844c944a56bd?utm_campaign=1049&utm_source=git)** | De Pere, WI | On Site | Jul 18 |
-| **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687b3ff52097a271a8982d8f?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
-| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Exhibition Design](https://jobright.ai/jobs/info/68632c8b2ed5b4b8ec2cfd4b?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 18 |
-| ↳ | **[McMullan Arts Leadership Internship, Experience Design, Visual Design](https://jobright.ai/jobs/info/68631d628ba0d8689d177c97?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
