@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SER.O.YA](https://seroya.nyc)** | **[Technical Design Internship](https://jobright.ai/jobs/info/688066209f7280424570ac8c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jul 22 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Social Media & Product Design Intern at Abamerica Corp](https://jobright.ai/jobs/info/688070d42097a271a89a4c24?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 22 |
+| **[Golin](http://golin.com/)** | **[Design Intern](https://jobright.ai/jobs/info/688065969f7280424570abfd?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 22 |
 | **[Dolls Kill](http://dollskill.com)** | **[Apparel Graphic Design Intern](https://jobright.ai/jobs/info/6880534e9f72804245709696?utm_campaign=1049&utm_source=git)** | Oakland, CA | Hybrid | Jul 22 |
+| **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/68806b5b764c3d7411c52dec?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 22 |
 | **[JBIER Inc.](https://www.jbierboutique.com)** | **[Web Design, Photography, and Videography Intern](https://jobright.ai/jobs/info/688055c0764c3d7411c5198a?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Jul 22 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Creative Art Direction](https://jobright.ai/jobs/info/687ffc419f728042457064b8?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 22 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[College Internship - Visual Communications Intern](https://jobright.ai/jobs/info/686caadc35584b6542ef44d8?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Jul 22 |
@@ -134,10 +138,10 @@ For a complete list, click the following sortable link below:
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Exhibition Design](https://jobright.ai/jobs/info/68632c8b2ed5b4b8ec2cfd4b?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 18 |
 | ↳ | **[McMullan Arts Leadership Internship, Experience Design, Visual Design](https://jobright.ai/jobs/info/68631d628ba0d8689d177c97?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/687afddaed63844c944a6421?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Jul 18 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687a9ba62097a271a8980327?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Giant Noise](http://giantnoise.com)** | **[Creative Intern](https://jobright.ai/jobs/info/687a9365ed63844c944a3e58?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 18 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a8de4764c3d7411c2de64?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/687a6c4e2097a271a897ecba?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Virtual Community Engagement & Design Intern (Part-Time)](https://jobright.ai/jobs/info/687af3e6764c3d7411c30334?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a6c4e2097a271a897ecba?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jul 18 |
 | **[Be Different Foundation](https://www.thebdfoundation.com)** | **[Creative Change Scholarship](https://jobright.ai/jobs/info/687a506e2097a271a897e3ed?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Intern](https://jobright.ai/jobs/info/687a5837ed63844c944a281e?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b40d4764c3d7411c31aca?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
@@ -145,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Associated Students, San Francisco State University](http://asi.sfsu.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/687bb392ed63844c944aae90?utm_campaign=1049&utm_source=git)** | San Francisco County, CA | On Site | Jul 17 |
 | **[Rho](https://rho.co)** | **[Design Intern, Motion (Part-time)](https://jobright.ai/jobs/info/6879b263ed63844c9449d75d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 17 |
 | **[Cynuria](https://www.cynuriaconsulting.com/)** | **[Creative Design Intern - Fall 2025](https://jobright.ai/jobs/info/68799d152097a271a8978d3a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 17 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Architecture - Fall 2025](https://jobright.ai/jobs/info/6879988a2097a271a8978a61?utm_campaign=1049&utm_source=git)** | Houston, TX, US | On Site | Jul 17 |
 | **[Downtown Phoenix Inc.](https://www.dtphx.org)** | **[Graphic Design + Marketing Intern](https://jobright.ai/jobs/info/6879943e2097a271a89787f4?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jul 17 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Photo Editor - The Breeze - IE](https://jobright.ai/jobs/info/6879b667a7fc8904e3964d1e?utm_campaign=1049&utm_source=git)** | Harrisonburg, VA | On Site | Jul 17 |
 | **[Place Showroom](http://placeshowroom.com)** | **[NYC Internship Fall 2025](https://jobright.ai/jobs/info/6874a8efae2f413e4a59eb7d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Playfly Creates Fall/Winter Design Intern](https://jobright.ai/jobs/info/68795986ed63844c9449ae37?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 17 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2025 Marketing Design Intern](https://jobright.ai/jobs/info/68795404a7fc8904e3961dda?utm_campaign=1049&utm_source=git)** | Hyde Park, MA | On Site | Jul 17 |
 | **[Country Supplier](www.countrysupplier.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/68799c4ea7fc8904e3964100?utm_campaign=1049&utm_source=git)** | Idaho Falls, ID | On Site | Jul 17 |
-| **[ProAmpac](http://www.proampac.com/)** | **[Intern](https://jobright.ai/jobs/info/68794086a7fc8904e3961073?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Jul 17 |
-| **[Evans](http://www.evansonline.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/67b7f90aebe0b965317a352d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
-| **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/685d3d9bd36c48a3b72cd704?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
