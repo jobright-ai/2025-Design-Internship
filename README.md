@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HeyEVA](https://heyeva.ai)** | **[Graphic Design and Content Intern](https://jobright.ai/jobs/info/68819d6e29ad6b2744ae3659?utm_campaign=1049&utm_source=git)** | Dallas, TX | Remote | Jul 23 |
+| **[UNDP Careers](https://www.undp.org)** | **[Visual Design Intern -Digital Comms Studio (Remote)](https://jobright.ai/jobs/info/6881ee15ee15177ae97190d4?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jul 23 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[HQF - Multimedia Designer Paid Intern](https://jobright.ai/jobs/info/6881bd4e1321092fa0060b73?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 23 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[UX Intern - Student Experience](https://jobright.ai/jobs/info/688194de29ad6b2744ae32ee?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Jul 23 |
 | **[Watson Design Group, Inc.](https://watson.la)** | **[Design Intern](https://jobright.ai/jobs/info/68819103f4f06100f3a27e5a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
