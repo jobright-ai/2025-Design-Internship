@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Side Quest](https://www.linkedin.com/company/106831212)** | **[Blender Animation Internship (Unpaid)](https://jobright.ai/jobs/info/68828b1eb54cac0f1e7309d5?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/688284f06fcd973d15ad998d?utm_campaign=1049&utm_source=git)** | Columbia, Missouri  |  Internship | On Site | Jul 24 |
+| **[ChildServe](https://www.childserve.org/)** | **[Design Intern](https://jobright.ai/jobs/info/6882828eb54cac0f1e730010?utm_campaign=1049&utm_source=git)** | Ames, IA | On Site | Jul 24 |
+| **[Arcade](https://www.arcade.ai)** | **[Intern, Product Design](https://jobright.ai/jobs/info/68827d1ab54cac0f1e72fcea?utm_campaign=1049&utm_source=git)** | Presidio, CA | Hybrid | Jul 24 |
+| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Digital Graphic Design Internship](https://jobright.ai/jobs/info/68827b126fcd973d15ad95cb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 24 |
+| **[ChildServe](https://www.childserve.org/)** | **[Design Intern](https://jobright.ai/jobs/info/68827a996fcd973d15ad959c?utm_campaign=1049&utm_source=git)** | Johnston, IA | On Site | Jul 24 |
 | **[Cynthia Rowley](https://www.cynthiarowley.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68825f706fcd973d15ad8acf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[Webber International University](http://www.webber.edu/)** | **[Sports Information Graduate Assistant](https://jobright.ai/jobs/info/6882535a6fcd973d15ad84a2?utm_campaign=1049&utm_source=git)** | Lake Wales, FL | On Site | Jul 24 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/68662e8db301d8ad783d5c7c?utm_campaign=1049&utm_source=git)** | Houston, TX | Remote | Jul 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ZooTampa at Lowry Park](https://zootampa.org/)** | **[Marketing and Graphic Design Internship-Fall 2025](https://jobright.ai/jobs/info/6881cb891321092fa00615af?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jul 21 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Graphic Artist for Student Involvement & Leadership](https://jobright.ai/jobs/info/687ef7472097a271a89993bb?utm_campaign=1049&utm_source=git)** | Ogden, UT | On Site | Jul 21 |
 | **[MZ Wallace](https://www.mzwallace.com/)** | **[Social Creative Internship](https://jobright.ai/jobs/info/687ec783db19f31cf0d6d0bd?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jul 21 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec5fd2097a271a8997c77?utm_campaign=1049&utm_source=git)** | Arlington, VA 22203 | Hybrid | Jul 21 |
-| **[David Zwirner](http://www.davidzwirner.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687ec42e2097a271a8997b4a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/687ec077db19f31cf0d6cc7d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 21 |
-| **[Middle Seat](https://middleseat.co/)** | **[Graphic Design Intern (Fall 2025)](https://jobright.ai/jobs/info/687edbf8764c3d7411c46c03?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Jul 21 |
-| **[ZIMO](www.zimo.me)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/687ed6652097a271a899837c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jul 21 |
-| **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687ea6192097a271a8996bad?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
