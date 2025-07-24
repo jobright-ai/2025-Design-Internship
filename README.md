@@ -57,15 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HeyEVA](https://heyeva.ai)** | **[Graphic Design and Content Intern](https://jobright.ai/jobs/info/68819d6e29ad6b2744ae3659?utm_campaign=1049&utm_source=git)** | Dallas, TX | Remote | Jul 23 |
+| **[Western Governors University](http://www.wgu.edu/)** | **[UX Intern - Student Experience](https://jobright.ai/jobs/info/688194de29ad6b2744ae32ee?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Jul 23 |
 | **[Watson Design Group, Inc.](https://watson.la)** | **[Design Intern](https://jobright.ai/jobs/info/68819103f4f06100f3a27e5a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[HOK](http://www.hok.com/)** | **[Interiors Student Intern (SF)](https://jobright.ai/jobs/info/688190d9f4f06100f3a27e48?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jul 23 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Creative Services (Graphic Design)](https://jobright.ai/jobs/info/6881909129ad6b2744ae314f?utm_campaign=1049&utm_source=git)** | United States | On Site | Jul 23 |
 | ↳ | **[Intern, Creative Services (Graphic Design)](https://jobright.ai/jobs/info/68819090f4f06100f3a27e22?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Jul 23 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Graphic Design Intern (Fall 2025)](https://jobright.ai/jobs/info/68818daef4f06100f3a27ca8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Quilly App UX/UI Internship [ (Unpaid) Fall 2025 ]](https://jobright.ai/jobs/info/68818d1516ea5743a3739e65?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Jul 23 |
+| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Graphic Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6881a6b329ad6b2744ae3dbb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 23 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Technical Design Internship (Fall 2025)](https://jobright.ai/jobs/info/6881858d16ea5743a3739c83?utm_campaign=1049&utm_source=git)** | NYC Office | Remote | Jul 23 |
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/6881766429ad6b2744ae258f?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 23 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[UX Intern - Student Experience](https://jobright.ai/jobs/info/688173f316ea5743a37392a3?utm_campaign=1049&utm_source=git)** | Salt Lake City Office | On Site | Jul 23 |
+| **[Concord](https://concord.com/)** | **[KIDZ BOP Design Intern](https://jobright.ai/jobs/info/6881a61cf4f06100f3a289cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 23 |
+| **[NorthWest Arkansas Community College](http://nwacc.edu)** | **[Part-Time Graphic Design Intern](https://jobright.ai/jobs/info/68819da1f4f06100f3a2832a?utm_campaign=1049&utm_source=git)** | Arkansas, United States | On Site | Jul 23 |
 | **[Casagrande Studio](https://casagrandestudio.com)** | **[Interior Design Assistant/Intern](https://jobright.ai/jobs/info/6881594829ad6b2744ae17ea?utm_campaign=1049&utm_source=git)** | Brookline, MA | On Site | Jul 23 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Children's Design Intern Fall 2025](https://jobright.ai/jobs/info/6881534f16ea5743a3738390?utm_campaign=1049&utm_source=git)** | Petaluma, CA | Hybrid | Jul 23 |
 | **[VSC Fire & Security, Inc.](https://vscfire.com/)** | **[Designer Apprentice](https://jobright.ai/jobs/info/68815189f4f06100f3a25ff2?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jul 23 |
@@ -87,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[POIZON  Global](https://hk.poizon.com/)** | **[Graphic Design & Content Creation Intern (Paid Internship)](https://jobright.ai/jobs/info/687508b3ae2f413e4a5a307b?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jul 22 |
 | **[Bigeye](https://www.bigeyeagency.com/)** | **[Luma & Leaf Graphic Design Intern](https://jobright.ai/jobs/info/6880a8ca70ad650948c581ee?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jul 22 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6880bb0b16ea5743a37324e4?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jul 22 |
-| **[SER.O.YA](https://seroya.nyc)** | **[Technical Design Internship](https://jobright.ai/jobs/info/688066209f7280424570ac8c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jul 22 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Social Media & Product Design Intern at Abamerica Corp](https://jobright.ai/jobs/info/688070d42097a271a89a4c24?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 22 |
 | **[NEON](https://neonrated.com)** | **[NEON Fall Internship (DECAL)](https://jobright.ai/jobs/info/6880a2df70ad650948c57e73?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jul 22 |
 | **[Golin](http://golin.com/)** | **[Design Intern](https://jobright.ai/jobs/info/688065969f7280424570abfd?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/687de194ed63844c944b5475?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Jul 20 |
 | **[Eye Spy Foundation](EyeSpy.org)** | **[Digital Designer Internship - Fashion](https://jobright.ai/jobs/info/687f5abc764c3d7411c4b1e6?utm_campaign=1049&utm_source=git)** | Jacksonville Beach, FL | On Site | Jul 20 |
 | **[Savannah Ghost Pirates](http://ghostpirateshockey.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/687ebfb9764c3d7411c45f01?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Jul 20 |
-| ↳ | **[Video Intern](https://jobright.ai/jobs/info/687eaba4db19f31cf0d6c23d?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Jul 20 |
-| **[Golden Butterfly Studios](https://www.linkedin.com/company/108022903)** | **[Animation Intern](https://jobright.ai/jobs/info/687f2795764c3d7411c49a72?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 20 |
-| **[TikTok](https://www.tiktok.com)** | **[(General Hire) UX Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b8c4c2097a271a89850c7?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 20 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Photography + Multi Media Internship in Swaziland](https://jobright.ai/jobs/info/672f4d377d1b770370e64afe?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
