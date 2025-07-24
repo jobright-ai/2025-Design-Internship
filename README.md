@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/68821c5a4b37ff1fba97bd27?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Design Intern (TikTok LIVE) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/686a0b3035584b65425398ce?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[UNDP Careers](https://www.undp.org)** | **[Visual Design Intern -Digital Comms Studio (Remote)](https://jobright.ai/jobs/info/6881ee15ee15177ae97190d4?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jul 23 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[HQF - Multimedia Designer Paid Intern](https://jobright.ai/jobs/info/6881bd4e1321092fa0060b73?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 23 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[UX Intern - Student Experience](https://jobright.ai/jobs/info/688194de29ad6b2744ae32ee?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Jul 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Middle Seat](https://middleseat.co/)** | **[Graphic Design Intern (Fall 2025)](https://jobright.ai/jobs/info/687edbf8764c3d7411c46c03?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Jul 21 |
 | **[ZIMO](www.zimo.me)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/687ed6652097a271a899837c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jul 21 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687ea6192097a271a8996bad?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Jul 21 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/687ea4ed764c3d7411c451d7?utm_campaign=1049&utm_source=git)** | Troy, Michigan | On Site | Jul 21 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Creative Services Intern](https://jobright.ai/jobs/info/680aa6302760d72f0b15a40b?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
