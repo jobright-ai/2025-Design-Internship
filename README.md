@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cynthia Rowley](https://www.cynthiarowley.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68825f706fcd973d15ad8acf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[Webber International University](http://www.webber.edu/)** | **[Sports Information Graduate Assistant](https://jobright.ai/jobs/info/6882535a6fcd973d15ad84a2?utm_campaign=1049&utm_source=git)** | Lake Wales, FL | On Site | Jul 24 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/68662e8db301d8ad783d5c7c?utm_campaign=1049&utm_source=git)** | Houston, TX | Remote | Jul 24 |
 | **[CAMI NYC](http://www.caminyc.com)** | **[Design Internship](https://jobright.ai/jobs/info/6882313ab54cac0f1e72dab2?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jul 24 |
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/68821c5a4b37ff1fba97bd27?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Design Intern (TikTok LIVE) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/686a0b3035584b65425398ce?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Middle Seat](https://middleseat.co/)** | **[Graphic Design Intern (Fall 2025)](https://jobright.ai/jobs/info/687edbf8764c3d7411c46c03?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Jul 21 |
 | **[ZIMO](www.zimo.me)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/687ed6652097a271a899837c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jul 21 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687ea6192097a271a8996bad?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Jul 21 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/687ea4ed764c3d7411c451d7?utm_campaign=1049&utm_source=git)** | Troy, Michigan | On Site | Jul 21 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Creative Services Intern](https://jobright.ai/jobs/info/680aa6302760d72f0b15a40b?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
