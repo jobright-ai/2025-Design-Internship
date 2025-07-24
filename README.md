@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western Governors University](http://www.wgu.edu/)** | **[UX Intern - Student Experience](https://jobright.ai/jobs/info/688173f316ea5743a37392a3?utm_campaign=1049&utm_source=git)** | Salt Lake City Office | On Site | Jul 23 |
+| **[Casagrande Studio](https://casagrandestudio.com)** | **[Interior Design Assistant/Intern](https://jobright.ai/jobs/info/6881594829ad6b2744ae17ea?utm_campaign=1049&utm_source=git)** | Brookline, MA | On Site | Jul 23 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Children's Design Intern Fall 2025](https://jobright.ai/jobs/info/6881534f16ea5743a3738390?utm_campaign=1049&utm_source=git)** | Petaluma, CA | Hybrid | Jul 23 |
 | **[Bowling Green State University](http://www.bgsu.edu/)** | **[Student Email Designer/Developer - Marketing & Brand Strategy](https://jobright.ai/jobs/info/6881534816ea5743a373838b?utm_campaign=1049&utm_source=git)** | Bowling Green, OH | On Site | Jul 23 |
 | **[VSC Fire & Security, Inc.](https://vscfire.com/)** | **[Designer Apprentice](https://jobright.ai/jobs/info/68815189f4f06100f3a25ff2?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jul 23 |
@@ -84,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[NEON](https://neonrated.com)** | **[NEON Fall Internship (DECAL)](https://jobright.ai/jobs/info/6880a2df70ad650948c57e73?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jul 22 |
 | **[Golin](http://golin.com/)** | **[Design Intern](https://jobright.ai/jobs/info/688065969f7280424570abfd?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 22 |
 | **[Dolls Kill](http://dollskill.com)** | **[Apparel Graphic Design Intern](https://jobright.ai/jobs/info/6880534e9f72804245709696?utm_campaign=1049&utm_source=git)** | Oakland, CA | Hybrid | Jul 22 |
+| **[The Beck Group](http://www.beckgroup.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6862c7a80800812da7d539bd?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 22 |
 | **[Rancho Moonrise](http://www.ranchomoonrise.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6880ed3af4f06100f3a2215d?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jul 22 |
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/68806b5b764c3d7411c52dec?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 22 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Designer - 2025 Summer Internship](https://jobright.ai/jobs/info/6880bbb116ea5743a3732520?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jul 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services Intern - Fall](https://jobright.ai/jobs/info/685db7909797476362457c12?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jul 19 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6880c9c629ad6b2744adbfbc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Design - Crew Resources (Spring 2026)](https://jobright.ai/jobs/info/687baff9ed63844c944aac49?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
-| **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Designer - 2025 Fall Internship](https://jobright.ai/jobs/info/687b4e0ced63844c944a73b9?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 18 |
-| **[HUSH](http://heyhush.com/)** | **[Intern: Architectural Design](https://jobright.ai/jobs/info/68804eb19f72804245709298?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jul 18 |
-| **[EducationDynamics](https://www.educationdynamics.com)** | **[Video Motion Graphics Internship](https://jobright.ai/jobs/info/687b4e8c764c3d7411c31e6c?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
