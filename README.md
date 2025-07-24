@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Webber International University](http://www.webber.edu/)** | **[Sports Information Graduate Assistant](https://jobright.ai/jobs/info/6882535a6fcd973d15ad84a2?utm_campaign=1049&utm_source=git)** | Lake Wales, FL | On Site | Jul 24 |
 | **[CAMI NYC](http://www.caminyc.com)** | **[Design Internship](https://jobright.ai/jobs/info/6882313ab54cac0f1e72dab2?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jul 24 |
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/68821c5a4b37ff1fba97bd27?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Design Intern (TikTok LIVE) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/686a0b3035584b65425398ce?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Children's Design Intern Fall 2025](https://jobright.ai/jobs/info/6881534f16ea5743a3738390?utm_campaign=1049&utm_source=git)** | Petaluma, CA | Hybrid | Jul 23 |
 | **[VSC Fire & Security, Inc.](https://vscfire.com/)** | **[Designer Apprentice](https://jobright.ai/jobs/info/68815189f4f06100f3a25ff2?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jul 23 |
 | **[Stengel Hill](http://www.stengelhill.com)** | **[Fall Student Internship - Interior Design – Louisville](https://jobright.ai/jobs/info/68814701f4f06100f3a25a1b?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Jul 23 |
-| **[Bowling Green State University](http://www.bgsu.edu/)** | **[Student Email Designer/Developer - Marketing & Brand Strategy](https://jobright.ai/jobs/info/6881534816ea5743a373838b?utm_campaign=1049&utm_source=git)** | Bowling Green, OH | On Site | Jul 23 |
 | **[Protagonist](http://www.protagonist.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6881bc6aee15177ae9716a32?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Telemundo Connecticut Graphics Intern - Academic Year 2025-2026](https://jobright.ai/jobs/info/6881368016ea5743a37374a2?utm_campaign=1049&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Jul 23 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6881344df4f06100f3a25179?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | Jul 23 |
@@ -103,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/6881c90cee15177ae9717305?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 22 |
 | **[Dolls Kill](http://dollskill.com)** | **[Apparel Graphic Design Intern](https://jobright.ai/jobs/info/6880534e9f72804245709696?utm_campaign=1049&utm_source=git)** | Oakland, CA | Hybrid | Jul 22 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6862c7a80800812da7d539bd?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 22 |
-| **[Rancho Moonrise](http://www.ranchomoonrise.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6880ed3af4f06100f3a2215d?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jul 22 |
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/68806b5b764c3d7411c52dec?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 22 |
 | **[Campbell University](https://www.campbell.edu/)** | **[Digital Projects Intern](https://jobright.ai/jobs/info/6881db1fee15177ae9717faa?utm_campaign=1049&utm_source=git)** | Lillington, NC | Hybrid | Jul 22 |
 | **[CFD Companies](https://www.cfdinvestments.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6881cd19ee15177ae971755c?utm_campaign=1049&utm_source=git)** | Kokomo, IN | On Site | Jul 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[ZIMO](www.zimo.me)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/687ed6652097a271a899837c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jul 21 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687ea6192097a271a8996bad?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Jul 21 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/687ea4ed764c3d7411c451d7?utm_campaign=1049&utm_source=git)** | Troy, Michigan | On Site | Jul 21 |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Creative Services Intern](https://jobright.ai/jobs/info/680aa6302760d72f0b15a40b?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
