@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Purdue University](https://www.purdue.edu)** | **[High Bar Student Graphic Designer- Student Service](https://jobright.ai/jobs/info/688298f36fcd973d15adac78?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Communications Design Intern](https://jobright.ai/jobs/info/688291a26fcd973d15ada8a5?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Jul 24 |
 | **[Side Quest](https://www.linkedin.com/company/106831212)** | **[Blender Animation Internship (Unpaid)](https://jobright.ai/jobs/info/68828b1eb54cac0f1e7309d5?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/688284f06fcd973d15ad998d?utm_campaign=1049&utm_source=git)** | Columbia, Missouri  |  Internship | On Site | Jul 24 |
+| ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6882a3c8835a903aa07ef967?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Jul 24 |
 | **[ChildServe](https://www.childserve.org/)** | **[Design Intern](https://jobright.ai/jobs/info/6882828eb54cac0f1e730010?utm_campaign=1049&utm_source=git)** | Ames, IA | On Site | Jul 24 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Product Design](https://jobright.ai/jobs/info/68827d1ab54cac0f1e72fcea?utm_campaign=1049&utm_source=git)** | Presidio, CA | Hybrid | Jul 24 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Digital Graphic Design Internship](https://jobright.ai/jobs/info/68827b126fcd973d15ad95cb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 24 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Social Media & Product Design Intern at Abamerica Corp](https://jobright.ai/jobs/info/688070d42097a271a89a4c24?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 22 |
 | **[NEON](https://neonrated.com)** | **[NEON Fall Internship (DECAL)](https://jobright.ai/jobs/info/6880a2df70ad650948c57e73?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jul 22 |
 | **[Golin](http://golin.com/)** | **[Design Intern](https://jobright.ai/jobs/info/688065969f7280424570abfd?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 22 |
-| **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/6881c90cee15177ae9717305?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 22 |
 | **[Dolls Kill](http://dollskill.com)** | **[Apparel Graphic Design Intern](https://jobright.ai/jobs/info/6880534e9f72804245709696?utm_campaign=1049&utm_source=git)** | Oakland, CA | Hybrid | Jul 22 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6862c7a80800812da7d539bd?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 22 |
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/68806b5b764c3d7411c52dec?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Intern - Contemporary Brands](https://jobright.ai/jobs/info/6881db3e41fbda106ee6de26?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | ↳ | **[Design Intern - Kids](https://jobright.ai/jobs/info/68808b002097a271a89a613b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[ZooTampa at Lowry Park](https://zootampa.org/)** | **[Marketing and Graphic Design Internship-Fall 2025](https://jobright.ai/jobs/info/6881cb891321092fa00615af?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jul 21 |
-| **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Graphic Artist for Student Involvement & Leadership](https://jobright.ai/jobs/info/687ef7472097a271a89993bb?utm_campaign=1049&utm_source=git)** | Ogden, UT | On Site | Jul 21 |
-| **[MZ Wallace](https://www.mzwallace.com/)** | **[Social Creative Internship](https://jobright.ai/jobs/info/687ec783db19f31cf0d6d0bd?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
