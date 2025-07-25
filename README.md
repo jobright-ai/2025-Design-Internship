@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pond](https://www.cryptopond.xyz)** | **[Design Intern - Remote](https://jobright.ai/jobs/info/6883c3026fcd973d15ae2ed8?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | Jul 25 |
+| **[Fox Factory](http://ridefox.com)** | **[Graphic Design Intern - Baton Rouge](https://jobright.ai/jobs/info/6883b7eeb54cac0f1e739071?utm_campaign=1049&utm_source=git)** | US LA, Baton Rouge | On Site | Jul 25 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6883a94a835a903aa07f6a7c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
 | ↳ | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688399c5835a903aa07f64df?utm_campaign=1049&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 25 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Assistant Director of Creative Media](https://jobright.ai/jobs/info/688398da835a903aa07f64aa?utm_campaign=1049&utm_source=git)** | Triangle Area | On Site | Jul 25 |
@@ -69,8 +71,6 @@ For a complete list, click the following sortable link below:
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Visual Design Intern -Digital Comms Studio (Remote)](https://jobright.ai/jobs/info/6882dfa4835a903aa07f148e?utm_campaign=1049&utm_source=git)** | Utica-Rome Area | Remote | Jul 24 |
 | **[Iteris, Inc.](https://www.iteris.com)** | **[Intern - Image Annotation](https://jobright.ai/jobs/info/6882cadf835a903aa07f0c0c?utm_campaign=1049&utm_source=git)** | Santa Ana, CA | Hybrid | Jul 24 |
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/6882c5646fcd973d15adc42b?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 24 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Virtual Community Engagement & Design Intern at Stride, Inc.](https://jobright.ai/jobs/info/6882c3a8835a903aa07f09b9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
-| **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Branding](https://jobright.ai/jobs/info/6882c3686fcd973d15adc302?utm_campaign=1049&utm_source=git)** | Santa Cruz, CA | On Site | Jul 24 |
 | **[PIADA ITALIAN STREET FOOD](http://www.mypiada.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68830163b54cac0f1e734785?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jul 24 |
 | **[Williamson, Inc.](https://williamsonchamber.com/)** | **[Content Curator Internship](https://jobright.ai/jobs/info/6882bf076fcd973d15adc1bd?utm_campaign=1049&utm_source=git)** | Nashville, TN | Hybrid | Jul 24 |
 | **[LGA Partners](http://lga-partners.com)** | **[Interior Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6882ffe9835a903aa07f26c8?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 24 |
