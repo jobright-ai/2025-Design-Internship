@@ -117,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6880f7a8f4f06100f3a227ff?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6880e41d29ad6b2744adce51?utm_campaign=1049&utm_source=git)** | New York | On Site | Jul 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Fall 2025)](https://jobright.ai/jobs/info/6880f59a16ea5743a373476e?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 23 |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Multimedia Content Intern](https://jobright.ai/jobs/info/68628c7b70bd07d88b6ce420?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Jul 23 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall Internship - Creative Production](https://jobright.ai/jobs/info/6881b7d9f4f06100f3a297c6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 22 |
 | **[POIZON  Global](https://hk.poizon.com/)** | **[Graphic Design & Content Creation Intern (Paid Internship)](https://jobright.ai/jobs/info/687508b3ae2f413e4a5a307b?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jul 22 |
 | **[Bigeye](https://www.bigeyeagency.com/)** | **[Luma & Leaf Graphic Design Intern](https://jobright.ai/jobs/info/6880a8ca70ad650948c581ee?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jul 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Fall Multimedia Internship](https://jobright.ai/jobs/info/68809b5a70ad650948c57b2e?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 21 |
 | **[YMCA of Central Texas](http://ymcactx.org)** | **[Marketing Intern- Photography](https://jobright.ai/jobs/info/687f3b54764c3d7411c4a42b?utm_campaign=1049&utm_source=git)** | Round Rock, TX | On Site | Jul 21 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Creative Intern](https://jobright.ai/jobs/info/6880cb2816ea5743a37332c8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 21 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ef7ee2097a271a899940c?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
