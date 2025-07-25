@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6883a94a835a903aa07f6a7c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
+| ↳ | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688399c5835a903aa07f64df?utm_campaign=1049&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 25 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Assistant Director of Creative Media](https://jobright.ai/jobs/info/688398da835a903aa07f64aa?utm_campaign=1049&utm_source=git)** | Triangle Area | On Site | Jul 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (TikTok-Design) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67e25b7461ae2e5d7d2a1925?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
+| **[Semillas Del Futuro Chicago](https://semillasdelfuturochicago.org/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68838408835a903aa07f6104?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | Hybrid | Jul 25 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[High Bar Student Graphic Designer- Student Service](https://jobright.ai/jobs/info/68830c3fb54cac0f1e735148?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Jul 24 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Product Design](https://jobright.ai/jobs/info/6882e963835a903aa07f1718?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
 | **[MotoRad Ltd.](https://motorad.com)** | **[Photo Intern](https://jobright.ai/jobs/info/6882e426835a903aa07f15ba?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Jul 24 |
@@ -79,6 +84,8 @@ For a complete list, click the following sortable link below:
 | **[ChildServe](https://www.childserve.org/)** | **[Design Intern](https://jobright.ai/jobs/info/68827a996fcd973d15ad959c?utm_campaign=1049&utm_source=git)** | Johnston, IA | On Site | Jul 24 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6882f6f3b54cac0f1e733ec0?utm_campaign=1049&utm_source=git)** | Ames, IA | On Site | Jul 24 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Digital Asset Management](https://jobright.ai/jobs/info/6882fbadb54cac0f1e7342c2?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jul 24 |
+| **[F.O.C.U.S](https://www.linkedin.com/company/108045282)** | **[Project Architect](https://jobright.ai/jobs/info/68837eed6fcd973d15ae18eb?utm_campaign=1049&utm_source=git)** | Atlanta Metro | On Site | Jul 24 |
+| **[Christie Neptune Studios](http://christieneptune.com)** | **[Photography Intern](https://jobright.ai/jobs/info/688384136fcd973d15ae19c0?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jul 24 |
 | **[Cynthia Rowley](https://www.cynthiarowley.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68825f706fcd973d15ad8acf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[Webber International University](http://www.webber.edu/)** | **[Sports Information Graduate Assistant](https://jobright.ai/jobs/info/6882535a6fcd973d15ad84a2?utm_campaign=1049&utm_source=git)** | Lake Wales, FL | On Site | Jul 24 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/68662e8db301d8ad783d5c7c?utm_campaign=1049&utm_source=git)** | Houston, TX | Remote | Jul 24 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Meadowlark Media](https://meadowlark-media.com/)** | **[Meadowlark Media Internship](https://jobright.ai/jobs/info/687fb64d764c3d7411c4c9bf?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Jul 22 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Packaging Designer Intern/Co-op (Marshfield, WI)](https://jobright.ai/jobs/info/683924e09e14dc367946d66b?utm_campaign=1049&utm_source=git)** | Marshfield, WI | On Site | Jul 22 |
 | **[SECU](https://www.ncsecu.org)** | **[Intern - Graphic Design Fall 2025](https://jobright.ai/jobs/info/687f93979f72804245703c3d?utm_campaign=1049&utm_source=git)** | Operations - Raleigh - Creedmoor Rd | Hybrid | Jul 22 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Digital Media and Video Production Intern](https://jobright.ai/jobs/info/6880e1eaf4f06100f3a21afe?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 22 |
-| **[Western States Fire Protection](https://www.wsfp.com)** | **[Design Intern](https://jobright.ai/jobs/info/687f74389f728042457035aa?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jul 22 |
-| **[Gelpac](https://www.gelpac.com/)** | **[Intern - Graphics](https://jobright.ai/jobs/info/688115adf4f06100f3a23cd4?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Jul 22 |
-| **[Western States Fire Protection](https://www.wsfp.com)** | **[Design Intern](https://jobright.ai/jobs/info/687f6a4c2097a271a899ce25?utm_campaign=1049&utm_source=git)** | Kansas City, KS | On Site | Jul 22 |
-| **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6880e93ff4f06100f3a21f94?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 22 |
-| **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Fall Multimedia Internship](https://jobright.ai/jobs/info/68809b5a70ad650948c57b2e?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 21 |
-| **[YMCA of Central Texas](http://ymcactx.org)** | **[Marketing Intern- Photography](https://jobright.ai/jobs/info/687f3b54764c3d7411c4a42b?utm_campaign=1049&utm_source=git)** | Round Rock, TX | On Site | Jul 21 |
-| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Creative Intern](https://jobright.ai/jobs/info/6880cb2816ea5743a37332c8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 21 |
+| **[Third Lens](http://www.third-lens.org)** | **[Photography / Videography Student Intern](https://jobright.ai/jobs/info/687e8748764c3d7411c44196?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
