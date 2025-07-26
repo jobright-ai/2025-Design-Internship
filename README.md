@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Branch](https://www.branchcreative.com/)** | **[Industrial Designer](https://jobright.ai/jobs/info/6885283fb651c92cb78ab612?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Jul 26 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[MarCom Graphic Designer Student Affairs](https://jobright.ai/jobs/info/68851451fbbf032d0006bead?utm_campaign=1049&utm_source=git)** | Orem, UT | On Site | Jul 26 |
 | **[LameRo](https://www.linkedin.com/company/107191997)** | **[Adobe Premiere](https://jobright.ai/jobs/info/6884f7014174df41e0f95b5d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/6884ba30fbbf032d0006aea6?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 26 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Prop Styling Internship](https://jobright.ai/jobs/info/6883f209b54cac0f1e73b24d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Fox Factory](http://ridefox.com)** | **[Graphic Design Intern - Baton Rouge](https://jobright.ai/jobs/info/6883b7eeb54cac0f1e739071?utm_campaign=1049&utm_source=git)** | US LA, Baton Rouge | On Site | Jul 25 |
 | **[Corgan](http://www.corgan.com/)** | **[Los Angeles Student Architectural Internship / Fall 2025](https://jobright.ai/jobs/info/6883f804835a903aa07f974a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
-| ↳ | **[Project Specialist, Interior Design / May Grad 2025](https://jobright.ai/jobs/info/6883f4b2b54cac0f1e73b372?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | ↳ | **[Student Interior Design Intern / Fall 2025 - Dallas Materials Library](https://jobright.ai/jobs/info/6883f634b54cac0f1e73b4c7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jul 25 |
+| ↳ | **[Project Specialist, Interior Design / May Grad 2025](https://jobright.ai/jobs/info/6883f4b2b54cac0f1e73b372?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6883a94a835a903aa07f6a7c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
 | **[Inspired Closets Chicagoland](https://www.inspiredclosets.com/locations/oakbrook/?utm_source=Linked+In&utm_id=2024)** | **[Designer and Showroom Liaison Paid Internship](https://jobright.ai/jobs/info/6883cea66fcd973d15ae356f?utm_campaign=1049&utm_source=git)** | Oakbrook Terrace, IL | On Site | Jul 25 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688399c5835a903aa07f64df?utm_campaign=1049&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6880bb0b16ea5743a37324e4?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jul 22 |
 | **[Mighty Goliath Productions](https://www.mightygoliath.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/6881e2acee15177ae971882a?utm_campaign=1049&utm_source=git)** | Greater Cleveland | On Site | Jul 22 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Herschend Creative Studios - Graphic Design Co-op](https://jobright.ai/jobs/info/6882c32e6fcd973d15adc2de?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jul 22 |
-| **[NEON](https://neonrated.com)** | **[NEON Fall Internship (DECAL)](https://jobright.ai/jobs/info/6880a2df70ad650948c57e73?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
