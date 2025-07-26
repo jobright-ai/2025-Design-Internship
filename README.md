@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louis Vuitton](http://www.louisvuitton.com)** | **[3D & 2D Design Intern](https://jobright.ai/jobs/info/68848f944174df41e0f94bbb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 26 |
 | **[Tombras](http://tombras.com)** | **[Digital Writer Intern](https://jobright.ai/jobs/info/688464a14174df41e0f92b77?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jul 25 |
 | **[Waybox](Linktr.ee/waybox)** | **[HCI Designer](https://jobright.ai/jobs/info/68845686fbbf032d00067aca?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Jul 25 |
 | **[LoVasco](https://www.lovascogroup.com/)** | **[Intern - Video Editor & Graphics Design - Marketing & Communications Team](https://jobright.ai/jobs/info/68843a8cb651c92cb78a5515?utm_campaign=1049&utm_source=git)** | Detroit, Michigan, United States | On Site | Jul 25 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/68844525fbbf032d0006690a?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 25 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern - TXShare](https://jobright.ai/jobs/info/68840f0b6fcd973d15ae567a?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Jul 25 |
 | **[Well Done Landscapes LLC](http://www.welldonelandscapes.com)** | **[Landscape Management Internship](https://jobright.ai/jobs/info/688405386fcd973d15ae527c?utm_campaign=1049&utm_source=git)** | Lakeville, MA | On Site | Jul 25 |
-| **[GoldBug](http://goldbuginc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6884029d6fcd973d15ae5178?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jul 25 |
 | **[Black Rose Records, LLC](https://www.linkedin.com/company/107384072)** | **[Digital Strategy Intern - Black Rose Creative Ops](https://jobright.ai/jobs/info/6883ff0b6fcd973d15ae50e7?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Jul 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Graphic Designer, People Content (Fall 2025)](https://jobright.ai/jobs/info/6883fbd26fcd973d15ae5066?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Technical Writer / Editor (Internship)](https://jobright.ai/jobs/info/6883fb346fcd973d15ae5028?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Jul 25 |
@@ -80,9 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Marucci Sports](http://maruccisports.com)** | **[Graphic Design Intern - Baton Rouge](https://jobright.ai/jobs/info/6883d1dc835a903aa07f7dc9?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jul 25 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Prop Styling Internship](https://jobright.ai/jobs/info/6883f209b54cac0f1e73b24d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Fox Factory](http://ridefox.com)** | **[Graphic Design Intern - Baton Rouge](https://jobright.ai/jobs/info/6883b7eeb54cac0f1e739071?utm_campaign=1049&utm_source=git)** | US LA, Baton Rouge | On Site | Jul 25 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Fall 2025 - Dallas Materials Library](https://jobright.ai/jobs/info/6883f634b54cac0f1e73b4c7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jul 25 |
+| **[Corgan](http://www.corgan.com/)** | **[Los Angeles Student Architectural Internship / Fall 2025](https://jobright.ai/jobs/info/6883f804835a903aa07f974a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
+| ↳ | **[Student Interior Design Intern / Fall 2025 - Dallas Materials Library](https://jobright.ai/jobs/info/6883f634b54cac0f1e73b4c7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jul 25 |
 | ↳ | **[Project Specialist, Interior Design / May Grad 2025](https://jobright.ai/jobs/info/6883f4b2b54cac0f1e73b372?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
-| ↳ | **[Los Angeles Student Architectural Internship / Fall 2025](https://jobright.ai/jobs/info/6883f804835a903aa07f974a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6883a94a835a903aa07f6a7c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
 | **[Inspired Closets Chicagoland](https://www.inspiredclosets.com/locations/oakbrook/?utm_source=Linked+In&utm_id=2024)** | **[Designer and Showroom Liaison Paid Internship](https://jobright.ai/jobs/info/6883cea66fcd973d15ae356f?utm_campaign=1049&utm_source=git)** | Oakbrook Terrace, IL | On Site | Jul 25 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688399c5835a903aa07f64df?utm_campaign=1049&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 25 |
