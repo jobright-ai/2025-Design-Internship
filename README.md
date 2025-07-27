@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6880a57d29ad6b2744adaaaa?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/68844525fbbf032d0006690a?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 25 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern - TXShare](https://jobright.ai/jobs/info/68840f0b6fcd973d15ae567a?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Jul 25 |
-| **[Well Done Landscapes LLC](http://www.welldonelandscapes.com)** | **[Landscape Management Internship](https://jobright.ai/jobs/info/688405386fcd973d15ae527c?utm_campaign=1049&utm_source=git)** | Lakeville, MA | On Site | Jul 25 |
 | **[Black Rose Records, LLC](https://www.linkedin.com/company/107384072)** | **[Digital Strategy Intern - Black Rose Creative Ops](https://jobright.ai/jobs/info/6883ff0b6fcd973d15ae50e7?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Jul 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Graphic Designer, People Content (Fall 2025)](https://jobright.ai/jobs/info/6883fbd26fcd973d15ae5066?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Technical Writer / Editor (Internship)](https://jobright.ai/jobs/info/6883fb346fcd973d15ae5028?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Jul 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6880bb0b16ea5743a37324e4?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jul 22 |
 | **[Mighty Goliath Productions](https://www.mightygoliath.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/6881e2acee15177ae971882a?utm_campaign=1049&utm_source=git)** | Greater Cleveland | On Site | Jul 22 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Herschend Creative Studios - Graphic Design Co-op](https://jobright.ai/jobs/info/6882c32e6fcd973d15adc2de?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jul 22 |
+| **[NEON](https://neonrated.com)** | **[NEON Fall Internship (DECAL)](https://jobright.ai/jobs/info/6880a2df70ad650948c57e73?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
