@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/68876e324174df41e0f9e2d0?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 28 |
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/6886b5954174df41e0f9a77e?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jul 27 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[UX Design Intern at Arctex Inc.](https://jobright.ai/jobs/info/6886b2254174df41e0f9a74c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 27 |
-| **[Front Row](https://www.frontrowgroup.com)** | **[Photography Intern, Digital Marketing - Consumer](https://jobright.ai/jobs/info/6886a71f4174df41e0f9a6c1?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jul 27 |
+| **[Front Row](https://www.frontrowgroup.de)** | **[Photography Intern, Digital Marketing - Consumer](https://jobright.ai/jobs/info/6886a71f4174df41e0f9a6c1?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jul 27 |
 | **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB Fall 2025 Creative Services Intern](https://jobright.ai/jobs/info/68865cbe4174df41e0f9a1c7?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jul 27 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WCVB Fall 2025 Creative Services Intern](https://jobright.ai/jobs/info/688659224174df41e0f9a184?utm_campaign=1049&utm_source=git)** | 5 TV Place, Needham, MA, 02494, US | On Site | Jul 27 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2025 Exhibition Design Intern: Fall](https://jobright.ai/jobs/info/6815174cfffae26a2eeff112?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Jul 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/664e491de2794cc911da59d7?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Jul 27 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2D Game Artist & Animator – Angel Backed Ed-tech Startup at mermory](https://jobright.ai/jobs/info/688616e2fbbf032d0006f891?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 27 |
+| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684cfcf57627b60de9924cdf?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Jul 27 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Web Designer](https://jobright.ai/jobs/info/67c0260ef283c02615bf472e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 27 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[EMM Student Graphic Designer (Remote)](https://jobright.ai/jobs/info/6886ea2bfbbf032d0007107f?utm_campaign=1049&utm_source=git)** | Naperville, IL | Remote | Jul 27 |
 | **[Diaza Football](http://www.diaza.com)** | **[Social Media Graphic Designer](https://jobright.ai/jobs/info/68858db7fbbf032d0006cbf4?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 26 |
@@ -78,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: User Experience (Ux) Designer](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b3?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[3D & 2D Design Intern](https://jobright.ai/jobs/info/68848f944174df41e0f94bbb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 26 |
 | **[Tombras](http://tombras.com)** | **[Digital Writer Intern](https://jobright.ai/jobs/info/688464a14174df41e0f92b77?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jul 25 |
+| **[Tattoo Projects Digital](https://www.linkedin.com/company/105848877)** | **[UX/UI Design Internship](https://jobright.ai/jobs/info/6883e9a36fcd973d15ae454d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 25 |
 | **[LoVasco](https://www.lovascogroup.com/)** | **[Intern - Video Editor & Graphics Design - Marketing & Communications Team](https://jobright.ai/jobs/info/68843a8cb651c92cb78a5515?utm_campaign=1049&utm_source=git)** | Detroit, Michigan, United States | On Site | Jul 25 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Graphic Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6881a6b329ad6b2744ae3dbb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Cornerstones of Care](https://www.cornerstonesofcare.org/)** | **[Intern](https://jobright.ai/jobs/info/688431366fcd973d15ae62a2?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jul 25 |
@@ -88,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[MSI Mold Builders](https://www.msimoldbuilders.com)** | **[Design Internship](https://jobright.ai/jobs/info/688457634174df41e0f91def?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 25 |
 | **[Northwest Lineman College](https://www.lineman.edu/)** | **[TEMPORARY Curriculum Graphic Designer](https://jobright.ai/jobs/info/6884577f4174df41e0f91dff?utm_campaign=1049&utm_source=git)** | Meridian, ID | On Site | Jul 25 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6812e0cd95a614fcadbbc989?utm_campaign=1049&utm_source=git)** | Mineral Wells, TX | On Site | Jul 25 |
-| **[Tattoo Projects Digital](https://www.linkedin.com/company/105848877)** | **[UX/UI Design Internship](https://jobright.ai/jobs/info/6883e9a36fcd973d15ae454d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 25 |
 | **[North American Electric Reliability Corporation (NERC)](http://www.nerc.com/)** | **[Fall Intern, Graphic Design - 2025](https://jobright.ai/jobs/info/6883ddbc835a903aa07f85b2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly - Design Photo Lab Assistants](https://jobright.ai/jobs/info/68845396b651c92cb78a6ce2?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 25 |
 | **[Astrion](https://astrion.us)** | **[Space and Defense Illustration Intern](https://jobright.ai/jobs/info/6883d562b54cac0f1e73a1ad?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Protagonist](http://www.protagonist.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6881186316ea5743a3735f78?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/68811ea416ea5743a37364ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6880f7a8f4f06100f3a227ff?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6880e41d29ad6b2744adce51?utm_campaign=1049&utm_source=git)** | New York | On Site | Jul 23 |
-| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Multimedia Content Intern](https://jobright.ai/jobs/info/68628c7b70bd07d88b6ce420?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Jul 23 |
-| **[rag & bone](http://www.rag-bone.com)** | **[Fall Internship - Creative Production](https://jobright.ai/jobs/info/6881b7d9f4f06100f3a297c6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
