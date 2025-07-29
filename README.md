@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wesleyan University](http://wesleyan.edu)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68887e9a8168d45fe878da96?utm_campaign=1049&utm_source=git)** | Middletown, CT | Hybrid | Jul 29 |
 | **[Sewickley Academy](https://www.sewickley.org)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/68885b7873e3e13cbd944d4a?utm_campaign=1049&utm_source=git)** | Sewickley, PA | On Site | Jul 28 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/688871aa27fa3c62923678ed?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jul 28 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6888423773e3e13cbd94372f?utm_campaign=1049&utm_source=git)** | Middletown, CT (Main Campus) | Hybrid | Jul 28 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Marucci Sports](http://maruccisports.com)** | **[Graphic Design Intern - Baton Rouge](https://jobright.ai/jobs/info/6883d1dc835a903aa07f7dc9?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jul 25 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Prop Styling Internship](https://jobright.ai/jobs/info/6883f209b54cac0f1e73b24d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Fox Factory](http://ridefox.com)** | **[Graphic Design Intern - Baton Rouge](https://jobright.ai/jobs/info/6883b7eeb54cac0f1e739071?utm_campaign=1049&utm_source=git)** | US LA, Baton Rouge | On Site | Jul 25 |
-| **[Corgan](http://www.corgan.com/)** | **[Project Specialist, Interior Design / May Grad 2025](https://jobright.ai/jobs/info/6883f4b2b54cac0f1e73b372?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
-| ↳ | **[Student Interior Design Intern / Fall 2025 - Dallas Materials Library](https://jobright.ai/jobs/info/6883f634b54cac0f1e73b4c7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jul 25 |
+| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Fall 2025 - Dallas Materials Library](https://jobright.ai/jobs/info/6883f634b54cac0f1e73b4c7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jul 25 |
+| ↳ | **[Project Specialist, Interior Design / May Grad 2025](https://jobright.ai/jobs/info/6883f4b2b54cac0f1e73b372?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | ↳ | **[Los Angeles Student Architectural Internship / Fall 2025](https://jobright.ai/jobs/info/6883f804835a903aa07f974a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6883a94a835a903aa07f6a7c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
 | **[Inspired Closets Chicagoland](https://www.inspiredclosets.com/locations/oakbrook/?utm_source=Linked+In&utm_id=2024)** | **[Designer and Showroom Liaison Paid Internship](https://jobright.ai/jobs/info/6883cea66fcd973d15ae356f?utm_campaign=1049&utm_source=git)** | Oakbrook Terrace, IL | On Site | Jul 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ChildServe](https://www.childserve.org/)** | **[Design Intern](https://jobright.ai/jobs/info/68827a996fcd973d15ad959c?utm_campaign=1049&utm_source=git)** | Johnston, IA | On Site | Jul 24 |
 | **[F.O.C.U.S](https://www.linkedin.com/company/108045282)** | **[Project Architect](https://jobright.ai/jobs/info/68837eed6fcd973d15ae18eb?utm_campaign=1049&utm_source=git)** | Atlanta Metro | On Site | Jul 24 |
 | **[Webber International University](http://www.webber.edu/)** | **[Sports Information Graduate Assistant](https://jobright.ai/jobs/info/6882535a6fcd973d15ad84a2?utm_campaign=1049&utm_source=git)** | Lake Wales, FL | On Site | Jul 24 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/68662e8db301d8ad783d5c7c?utm_campaign=1049&utm_source=git)** | Houston, TX | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
