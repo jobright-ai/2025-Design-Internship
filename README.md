@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TV Music Creative Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/6889708baab47a17f67018f3?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Jul 29 |
+| **[Atmosfy](https://atmosfy.io)** | **[UX Research Intern](https://jobright.ai/jobs/info/688985e89f961617fe214f3f?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 29 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/688983869f961617fe214e3f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jul 29 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/68898051aab47a17f6702114?utm_campaign=1049&utm_source=git)** | Northwood, OH | On Site | Jul 29 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TV Music Creative Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/688970759f961617fe214495?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Jul 29 |
 | **[CLD PR](https://cldstylehouse.com)** | **[ASTR THE LABEL EVENT INTERN (CELEBRITY & MACRO INFLUENCER EXPERIENTIAL EVENT)](https://jobright.ai/jobs/info/68896d999f961617fe2142a6?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 29 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/68896c1209808a6103e47496?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | On Site | Jul 29 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Marketing and Communications, Photography/Videography - Student Assistant](https://jobright.ai/jobs/info/68896b339f961617fe2141d7?utm_campaign=1049&utm_source=git)** | San Bernardino, CA | On Site | Jul 29 |
@@ -89,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Sewickley Academy](https://www.sewickley.org)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/68885b7873e3e13cbd944d4a?utm_campaign=1049&utm_source=git)** | Sewickley, PA | On Site | Jul 28 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/688871aa27fa3c62923678ed?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jul 28 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6888423773e3e13cbd94372f?utm_campaign=1049&utm_source=git)** | Middletown, CT (Main Campus) | Hybrid | Jul 28 |
-| **[WGI](https://wginc.com/)** | **[Intern - Architecture Summer 2026](https://jobright.ai/jobs/info/688860bc73e3e13cbd944fe1?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jul 28 |
+| **[WGI](https://wginc.com/)** | **[Intern - Architecture Summer 2026](https://jobright.ai/jobs/info/68885b4ffbbf032d0007b12d?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jul 28 |
 | **[St. Charles Community College](https://www.stchas.edu/)** | **[Student Assistant - Graphic Design - 78445](https://jobright.ai/jobs/info/68883a024174df41e0fa3a43?utm_campaign=1049&utm_source=git)** | Lake St Louis, MO | On Site | Jul 28 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant - Signage/Wayfinding/Environmental Branding - Fall 2025](https://jobright.ai/jobs/info/688830cc73e3e13cbd942d37?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jul 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Communications Design Intern](https://jobright.ai/jobs/info/688291a26fcd973d15ada8a5?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Jul 28 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Prop Styling Internship](https://jobright.ai/jobs/info/6883f209b54cac0f1e73b24d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Fox Factory](http://ridefox.com)** | **[Graphic Design Intern - Baton Rouge](https://jobright.ai/jobs/info/6883b7eeb54cac0f1e739071?utm_campaign=1049&utm_source=git)** | US LA, Baton Rouge | On Site | Jul 25 |
 | **[Corgan](http://www.corgan.com/)** | **[Project Specialist, Interior Design / May Grad 2025](https://jobright.ai/jobs/info/6883f4b2b54cac0f1e73b372?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
-| ↳ | **[Student Interior Design Intern / Fall 2025 - Dallas Materials Library](https://jobright.ai/jobs/info/6883f634b54cac0f1e73b4c7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jul 25 |
 | ↳ | **[Los Angeles Student Architectural Internship / Fall 2025](https://jobright.ai/jobs/info/6883f804835a903aa07f974a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
+| ↳ | **[Student Interior Design Intern / Fall 2025 - Dallas Materials Library](https://jobright.ai/jobs/info/6883f634b54cac0f1e73b4c7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jul 25 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6883a94a835a903aa07f6a7c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
-| **[Inspired Closets Chicagoland](https://www.inspiredclosets.com/locations/oakbrook/?utm_source=Linked+In&utm_id=2024)** | **[Designer and Showroom Liaison Paid Internship](https://jobright.ai/jobs/info/6883cea66fcd973d15ae356f?utm_campaign=1049&utm_source=git)** | Oakbrook Terrace, IL | On Site | Jul 25 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688399c5835a903aa07f64df?utm_campaign=1049&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 25 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Assistant Director of Creative Media](https://jobright.ai/jobs/info/688398da835a903aa07f64aa?utm_campaign=1049&utm_source=git)** | Triangle Area | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
