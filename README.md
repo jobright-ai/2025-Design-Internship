@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Design Intern](https://jobright.ai/jobs/info/688a8baaaab47a17f6709aa1?utm_campaign=1049&utm_source=git)** | DC-Baltimore Area | Remote | Jul 30 |
+| **[H15DEN](https://h15den.com)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/688a8b0eaab47a17f6709a57?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Pulchritude Fashion Studio](pulchritudefashion.com)** | **[Design Intern](https://jobright.ai/jobs/info/688a81fa9f961617fe21c301?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Yigal Azrouël, Inc.](http://www.yigal-azrouel.com)** | **[Fashion Design Internship](https://jobright.ai/jobs/info/688a80699f961617fe21c21e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Visual Merchandising Internship (Fall 2025)](https://jobright.ai/jobs/info/688a6e02aab47a17f6708bac?utm_campaign=1049&utm_source=git)** | NYC Office | On Site | Jul 30 |
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/688a6d1509808a6103e4e95a?utm_campaign=1049&utm_source=git)** | Lee's Summit, Missouri  |  Internship | On Site | Jul 30 |
 | **[TWP](http://www.twpclothing.com)** | **[Intern - Design](https://jobright.ai/jobs/info/688a69f509808a6103e4e5bc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 30 |
@@ -69,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/688983869f961617fe214e3f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jul 29 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/68898051aab47a17f6702114?utm_campaign=1049&utm_source=git)** | Northwood, OH | On Site | Jul 29 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/68811ea416ea5743a37364ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 29 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TV Music Creative Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/6889708baab47a17f67018f3?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Jul 29 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TV Music Creative Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/688970759f961617fe214495?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Jul 29 |
 | **[CLD PR](https://cldstylehouse.com)** | **[ASTR THE LABEL EVENT INTERN (CELEBRITY & MACRO INFLUENCER EXPERIENTIAL EVENT)](https://jobright.ai/jobs/info/68896d999f961617fe2142a6?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 29 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/68896c1209808a6103e47496?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | On Site | Jul 29 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Marketing and Communications, Photography/Videography - Student Assistant](https://jobright.ai/jobs/info/68896b339f961617fe2141d7?utm_campaign=1049&utm_source=git)** | San Bernardino, CA | On Site | Jul 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwest Lineman College](https://www.lineman.edu/)** | **[TEMPORARY Curriculum Graphic Designer](https://jobright.ai/jobs/info/6884577f4174df41e0f91dff?utm_campaign=1049&utm_source=git)** | Meridian, ID | On Site | Jul 25 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6812e0cd95a614fcadbbc989?utm_campaign=1049&utm_source=git)** | Mineral Wells, TX | On Site | Jul 25 |
 | **[North American Electric Reliability Corporation (NERC)](http://www.nerc.com/)** | **[Fall Intern, Graphic Design - 2025](https://jobright.ai/jobs/info/6883ddbc835a903aa07f85b2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 25 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly - Design Photo Lab Assistants](https://jobright.ai/jobs/info/68845396b651c92cb78a6ce2?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 25 |
-| **[Astrion](https://astrion.us)** | **[Space and Defense Illustration Intern](https://jobright.ai/jobs/info/6883d562b54cac0f1e73a1ad?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 25 |
-| **[Marucci Sports](http://maruccisports.com)** | **[Graphic Design Intern - Baton Rouge](https://jobright.ai/jobs/info/6883d1dc835a903aa07f7dc9?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jul 25 |
-| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Prop Styling Internship](https://jobright.ai/jobs/info/6883f209b54cac0f1e73b24d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
