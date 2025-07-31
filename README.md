@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forty1 Management Group](forty1mg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688b235eaab47a17f670f31e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 31 |
+| **[LABL App Inc.](www.labl-ai.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/688b20cb09808a6103e551c7?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 31 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Visual Merchandising Internship (Fall 2025)](https://jobright.ai/jobs/info/688b19189f961617fe2218d6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Front Row](https://www.frontrowgroup.de)** | **[Photography Intern, Digital Marketing - Consumer](https://jobright.ai/jobs/info/688af43b9f961617fe21fb6c?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jul 30 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 4 - GRAPHIC DESIGN (TRANSPORTATION AND ENGINEERING)](https://jobright.ai/jobs/info/688ad9ee09808a6103e51b2d?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 30 |
@@ -109,13 +111,11 @@ For a complete list, click the following sortable link below:
 | **[Dôen](https://shopdoen.com)** | **[Technical Designer - Intern](https://jobright.ai/jobs/info/6888fdb509808a6103e43fab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | Jul 29 |
 | **[Shmeel](ShopShmeel.com)** | **[AI Fashion Intern](https://jobright.ai/jobs/info/6888f7629f961617fe210a81?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 29 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Production Artist Intern](https://jobright.ai/jobs/info/6888f6659f961617fe210a15?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Jul 29 |
-| **[Middle East Refugee Aid (MERA)](https://meranonprofit.org/)** | **[Website Designer Intern](https://jobright.ai/jobs/info/688b0f09aab47a17f670e24f?utm_campaign=1049&utm_source=git)** | Triangle Area | On Site | Jul 29 |
 | **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6888eb6609808a6103e4374e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[Chil & Co. ](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/6888e9409f961617fe210331?utm_campaign=1049&utm_source=git)** | Atlanta Metro | Hybrid | Jul 29 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/6888d95daab47a17f66fd27c?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Jul 29 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0c992?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jul 29 |
-| **[TikTok](https://www.tiktok.com)** | **[(General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685023a33db3601c8302c705?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
-| ↳ | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685026cd4bc72090b9c1de68?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
+| **[TikTok](https://www.tiktok.com)** | **[(General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/685026cd4bc72090b9c1de68?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68887e9a8168d45fe878da96?utm_campaign=1049&utm_source=git)** | Middletown, CT | Hybrid | Jul 29 |
 | **[Sewickley Academy](https://www.sewickley.org)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/68885b7873e3e13cbd944d4a?utm_campaign=1049&utm_source=git)** | Sewickley, PA | On Site | Jul 28 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/688871aa27fa3c62923678ed?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jul 28 |
