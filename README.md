@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wren Asset Management, LLC](www.wrenassetmanagement.com)** | **[UI/UX Designer](https://jobright.ai/jobs/info/688cfb403a30793eb9647aa9?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Aug 01 |
+| **[UC Health](http://uchealth.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688ceec23a30793eb96474d0?utm_campaign=1049&utm_source=git)** | 3200 Burnet Ave, Cincinnati, OH, 45229, US | Hybrid | Aug 01 |
+| **[Valens Software LLC](http://valens-soft.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/688cdfe227f9022553c075c4?utm_campaign=1049&utm_source=git)** | Kennesaw, GA | Hybrid | Aug 01 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Motion Artist Intern](https://jobright.ai/jobs/info/688cd42c27f9022553c07012?utm_campaign=1049&utm_source=git)** | South Dakota Home Office | On Site | Aug 01 |
-| **[Pulchritude Fashion Studio](pulchritudefashion.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/688cc44d3a30793eb9646334?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
 | **[16VC](http://16vc.co/)** | **[Product Design Intern](https://jobright.ai/jobs/info/688cb7583a30793eb9645fea?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Game Seven Agency](https://www.gameseven.agency/)** | **[Fall 2025 Associate, Graphic Design and Social MediaNew](https://jobright.ai/jobs/info/688cb23f1808534a89cbe538?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 01 |
 | **[International Institute of New England](https://iine.org/)** | **[Multimedia & Photography Intern (IINE Boston)](https://jobright.ai/jobs/info/688caadf27f9022553c06453?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
@@ -70,8 +72,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c35cd906ac06e1d1d1c1c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | ↳ | **[Content Designer Intern [TikTok-Design-Content Design and Product Writing]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c3235906ac06e1d1d1a02?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
 | ↳ | **[Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c2d0f1808534a89cb9045?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
-| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 4 - GRAPHIC DESIGN (TRANSPORTATION AND ENGINEERING)](https://jobright.ai/jobs/info/688c26ef3a30793eb9640567?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 31 |
-| **[Side Quest](https://www.linkedin.com/company/106831212)** | **[Content Creation + Graphic Design Internship (UNPAID)](https://jobright.ai/jobs/info/688c22cd3a30793eb964034e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688c19913a30793eb963fe4e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Jul 31 |
 | **[GPTZero](https://gptzero.me)** | **[Design Intern](https://jobright.ai/jobs/info/688c16e1906ac06e1d1d0a1a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Graphic Designer](https://jobright.ai/jobs/info/688c34281808534a89cb9552?utm_campaign=1049&utm_source=git)** | Bloomington, IN | Hybrid | Jul 31 |
