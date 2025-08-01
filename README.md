@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wren Asset Management, LLC](www.wrenassetmanagement.com)** | **[UI/UX Designer](https://jobright.ai/jobs/info/688cfb403a30793eb9647aa9?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Aug 01 |
+| **[Creative Collective Studio](https://www.youtube.com/@TheCreativeCollectiveStudio)** | **[Comic Book Artists Intern](https://jobright.ai/jobs/info/688d176b3a30793eb9648762?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Aug 01 |
+| **[Utah Jazz](http://www.nba.com/jazz)** | **[Game Night Graphic Design Intern](https://jobright.ai/jobs/info/688d01943a30793eb9647c92?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Aug 01 |
 | **[UC Health](http://uchealth.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688ceec23a30793eb96474d0?utm_campaign=1049&utm_source=git)** | 3200 Burnet Ave, Cincinnati, OH, 45229, US | Hybrid | Aug 01 |
 | **[Valens Software LLC](http://valens-soft.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/688cdfe227f9022553c075c4?utm_campaign=1049&utm_source=git)** | Kennesaw, GA | Hybrid | Aug 01 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Motion Artist Intern](https://jobright.ai/jobs/info/688cd42c27f9022553c07012?utm_campaign=1049&utm_source=git)** | South Dakota Home Office | On Site | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wesleyan University](http://wesleyan.edu)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6888423773e3e13cbd94372f?utm_campaign=1049&utm_source=git)** | Middletown, CT (Main Campus) | Hybrid | Jul 28 |
 | **[WGI](https://wginc.com/)** | **[Intern - Architecture Summer 2026](https://jobright.ai/jobs/info/68885b4ffbbf032d0007b12d?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jul 28 |
 | **[St. Charles Community College](https://www.stchas.edu/)** | **[Student Assistant - Graphic Design - 78445](https://jobright.ai/jobs/info/68883a024174df41e0fa3a43?utm_campaign=1049&utm_source=git)** | Lake St Louis, MO | On Site | Jul 28 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant - Signage/Wayfinding/Environmental Branding - Fall 2025](https://jobright.ai/jobs/info/688830cc73e3e13cbd942d37?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
