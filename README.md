@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chase](https://www.chase.com/)** | **[2026 Firmwide Design Development Program - Summer Internship](https://jobright.ai/jobs/info/688c687a906ac06e1d1d40b1?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Fall 2025/Spring 2026 - San Francisco](https://jobright.ai/jobs/info/688c5845906ac06e1d1d36c7?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c498a906ac06e1d1d2b12?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Firmwide Design Development Program - Summer Internship](https://jobright.ai/jobs/info/688c480b906ac06e1d1d2a07?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c35cd906ac06e1d1d1c1c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[MINA BAIE](https://minabaie.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688bab233a30793eb963c69c?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Jul 31 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Architecture - Fall 2025](https://jobright.ai/jobs/info/688b9b6d906ac06e1d1ccbb1?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, US | On Site | Jul 31 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Fall 2025)](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60b0f?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 31 |
+| **[Gerdau North America](http://www.gerdau.com)** | **[Graphic Design & Brand Intern](https://jobright.ai/jobs/info/686d7cab7ca8d01b2625ad90?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jul 30 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Visual Merchandising Internship (Fall 2025)](https://jobright.ai/jobs/info/688b19189f961617fe2218d6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Front Row](https://www.frontrowgroup.de)** | **[Photography Intern, Digital Marketing - Consumer](https://jobright.ai/jobs/info/688af43b9f961617fe21fb6c?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jul 30 |
 | **[Madison Square Garden Sports Corp.](https://www.msgsports.com/)** | **[Graphic Design- Sports 2025-2026 Business Season Student Associate](https://jobright.ai/jobs/info/688ad89caab47a17f670bc22?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 30 |
@@ -139,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Chil & Co. ](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/6888e9409f961617fe210331?utm_campaign=1049&utm_source=git)** | Atlanta Metro | Hybrid | Jul 29 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/6888d95daab47a17f66fd27c?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Jul 29 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0c992?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jul 29 |
+| **[PrizePicks](https://prizepicks.com/)** | **[UX Research Intern - Fall 2025](https://jobright.ai/jobs/info/688c6a09906ac06e1d1d412d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 28 |
 | **[Sewickley Academy](https://www.sewickley.org)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/68885b7873e3e13cbd944d4a?utm_campaign=1049&utm_source=git)** | Sewickley, PA | On Site | Jul 28 |
 | **[WGI](https://wginc.com/)** | **[Intern - Architecture Summer 2026](https://jobright.ai/jobs/info/688c4bd3906ac06e1d1d2c58?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jul 28 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/688871aa27fa3c62923678ed?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jul 28 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[International Institute of New England](https://iine.org/)** | **[Multimedia & Photography Intern (IINE Boston)](https://jobright.ai/jobs/info/688816e673e3e13cbd94235b?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Jul 28 |
 | **[Hiebing](http://hiebing.com)** | **[Art Director/Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/6888fedfaab47a17f66fe174?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Jul 28 |
 | ↳ | **[Art Director/Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/6888f7389f961617fe210a6e?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 28 |
-| **[Game Seven Agency](https://www.gameseven.agency/)** | **[Fall 2025 Associate, Graphic Design and Social MediaNew](https://jobright.ai/jobs/info/6888163f4174df41e0fa2ac2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 28 |
 | **[Hive Collective ](https://hivepalmbeach.com/)** | **[Hive Trade Design Intern - Fall 2025-Spring 2026](https://jobright.ai/jobs/info/6887f1934174df41e0fa1d27?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Jul 28 |
 | **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[CGI / Animation Intern (Unpaid Internship)](https://jobright.ai/jobs/info/688851144174df41e0fa4c2e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Graphic Design and Social Media](https://jobright.ai/jobs/info/6888177b73e3e13cbd9423f5?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 28 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services Intern - Fall Semester](https://jobright.ai/jobs/info/6887dff3fbbf032d000771e0?utm_campaign=1049&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Jul 28 |
-| **[WPHL-TV](https://www.phl17.com)** | **[Creative Services Intern - Fall Semester](https://jobright.ai/jobs/info/6887da4b73e3e13cbd940949?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
