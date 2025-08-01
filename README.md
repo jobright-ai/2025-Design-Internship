@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688c19913a30793eb963fe4e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Jul 31 |
+| **[GPTZero](https://gptzero.me)** | **[Design Intern](https://jobright.ai/jobs/info/688c16e1906ac06e1d1d0a1a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
+| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Graphic Design Intern](https://jobright.ai/jobs/info/6889329c9f961617fe212989?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 31 |
+| **[American University](http://american.edu)** | **[Graphic Design Assistant (Student)(FWS)](https://jobright.ai/jobs/info/688c066f906ac06e1d1d02c5?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[UGA Performing Arts Center Student Graphic Designer](https://jobright.ai/jobs/info/688c000c3a30793eb963f3d6?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Jul 31 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Fall 2025/Spring 2026 - San Francisco](https://jobright.ai/jobs/info/688bfcda1808534a89cb79fb?utm_campaign=1049&utm_source=git)** | San Francisco, CA, US | On Site | Jul 31 |
 | **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688bf117906ac06e1d1cf93b?utm_campaign=1049&utm_source=git)** | US - WI - Milwaukee HQ | Hybrid | Jul 31 |
@@ -104,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/688983869f961617fe214e3f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jul 29 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/68898051aab47a17f6702114?utm_campaign=1049&utm_source=git)** | Northwood, OH | On Site | Jul 29 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/68811ea416ea5743a37364ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 29 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TV Music Creative Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/688970759f961617fe214495?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Jul 29 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TV Music Creative Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/6889708baab47a17f67018f3?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Jul 29 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Marketing and Communications, Photography/Videography - Student Assistant](https://jobright.ai/jobs/info/68896b339f961617fe2141d7?utm_campaign=1049&utm_source=git)** | San Bernardino, CA | On Site | Jul 29 |
 | **[myMentalPal](https://apps.apple.com/us/app/siddha-build-mental-fitness/id6474141147)** | **[Motion Designer Intern](https://jobright.ai/jobs/info/688962729f961617fe213f15?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Dôen](https://shopdoen.com)** | **[Part-Time Design Intern](https://jobright.ai/jobs/info/68895cc109808a6103e47023?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
@@ -115,7 +119,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Website Design Intern](https://jobright.ai/jobs/info/6889366faab47a17f66ffee7?utm_campaign=1049&utm_source=git)** | Tucson, Arizona, United States | On Site | Jul 29 |
 | **[Dôen](https://shopdoen.com)** | **[Part-Time Design Intern](https://jobright.ai/jobs/info/688934929f961617fe212a90?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | Jul 29 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Graphic Design Intern (Fall 2025)](https://jobright.ai/jobs/info/68818daef4f06100f3a27ca8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 29 |
-| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6889329c9f961617fe212989?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Indira Cesarine Studio](http://indiracesarine.com)** | **[Photo/Video Internship](https://jobright.ai/jobs/info/688928a49f961617fe212510?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jul 29 |
 | **[Ansys](http://www.ansys.com)** | **[Spring 2026 UX Intern (Bachelors)](https://jobright.ai/jobs/info/68891f78aab47a17f66ff305?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/68891d059f961617fe211d74?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3263?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jul 28 |
 | **[HDR](http://www.hdrinc.com)** | **[NOMA HBCU Professional Development Career Fair](https://jobright.ai/jobs/info/67dc2f6844b4e8d74ae5d781?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Jul 28 |
 | **[International Institute of New England](https://iine.org/)** | **[Multimedia & Photography Intern (IINE Boston)](https://jobright.ai/jobs/info/6888556773e3e13cbd94473f?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jul 27 |
-| **[Ferguson Construction](http://ferguson-construction.com)** | **[Architecture Co-Op](https://jobright.ai/jobs/info/68880fb04174df41e0fa28d1?utm_campaign=1049&utm_source=git)** | Sidney, OH | On Site | Jul 27 |
-| **[Front Row](https://www.frontrowgroup.de)** | **[Photography Intern, Digital Marketing - Consumer](https://jobright.ai/jobs/info/6886a71f4174df41e0f9a6c1?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jul 27 |
-| **[Nicole Fisher Interior Design](http://www.nicolefisher.com)** | **[Design Internship](https://jobright.ai/jobs/info/6888663afbbf032d0007bc62?utm_campaign=1049&utm_source=git)** | Hudson, NY | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
