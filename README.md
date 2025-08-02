@@ -63,12 +63,13 @@ For a complete list, click the following sortable link below:
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/688da70ccdbd821a3663d6e0?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Aug 01 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Summer Photography Intern - Westchester County](https://jobright.ai/jobs/info/688d7a29cdbd821a3663a692?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Orion](https://orionadvisortech.com/)** | **[Intern - Portfolio Strategy](https://jobright.ai/jobs/info/688d6f7e3a30793eb964ae0d?utm_campaign=1049&utm_source=git)** | Lehi, UT | Hybrid | Aug 01 |
-| **[GiosTech](https://giostech.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/688d5bed27f9022553c0aeef?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Mississippi Mud Monsters](https://ondeck2025.com/)** | **[Graphics and Production Intern](https://jobright.ai/jobs/info/688d8cb96a4aac5783cd37de?utm_campaign=1049&utm_source=git)** | Pearl, MS | On Site | Aug 01 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/688da36a6a4aac5783cd51ca?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Design Assistant (Part-time)](https://jobright.ai/jobs/info/688d74b927f9022553c0b9d2?utm_campaign=1049&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
 | **[JIO ROBOTICS](www.jiorobotics.com)** | **[Expert UX/UI and Graphics  Designer with Web Development  Internship ONSITE ONLY](https://jobright.ai/jobs/info/688d46a61808534a89cc2507?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Aug 01 |
 | **[Orion](https://orionadvisortech.com/)** | **[Intern - Portfolio Strategy](https://jobright.ai/jobs/info/688d348b1808534a89cc1dfe?utm_campaign=1049&utm_source=git)** | Lehi | Hybrid | Aug 01 |
+| **[Le Social Digital](https://www.lesocialdigital.com/)** | **[Internship](https://jobright.ai/jobs/info/688e1317cdbd821a3664082b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
+| **[The Powder Room Studio LA](https://www.thepowderroomstudiola.com/)** | **[Media + Production Intern](https://jobright.ai/jobs/info/688e1215e5cead4afd45bb04?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
 | **[Pilomation](https://www.pilomation.com/)** | **[Motion Graphic Designer Intern](https://jobright.ai/jobs/info/688dc257cdbd821a3663f241?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Motion Artist Intern](https://jobright.ai/jobs/info/688d9902e5cead4afd457dfd?utm_campaign=1049&utm_source=git)** | Home, SD | On Site | Aug 01 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/688d1b9f3a30793eb9648938?utm_campaign=1049&utm_source=git)** | JOHNSON WILDFLOWER CENTER | On Site | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dôen](https://shopdoen.com)** | **[Technical Designer - Intern](https://jobright.ai/jobs/info/68890b9309808a6103e445e3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | **[EveryDayABA](www.everydayaba.net)** | **[Creative Media Intern](https://jobright.ai/jobs/info/688b0cd009808a6103e540bc?utm_campaign=1049&utm_source=git)** | Vista, CA | Hybrid | Jul 29 |
 | **[Dôen](https://shopdoen.com)** | **[Technical Designer - Intern](https://jobright.ai/jobs/info/6888fdb509808a6103e43fab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | Jul 29 |
-| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Production Artist Intern](https://jobright.ai/jobs/info/6888f6659f961617fe210a15?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
