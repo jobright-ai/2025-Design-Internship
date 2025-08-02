@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GiosTech](https://giostech.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/688d5bed27f9022553c0aeef?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
 | **[JIO ROBOTICS](www.jiorobotics.com)** | **[Expert UX/UI and Graphics  Designer with Web Development  Internship ONSITE ONLY](https://jobright.ai/jobs/info/688d46a61808534a89cc2507?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Aug 01 |
-| **[To & Fro ](https://www.linkedin.com/company/12644491)** | **[UX Writer + Content Writer Intern](https://jobright.ai/jobs/info/688d3c8b1808534a89cc214d?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Intermedium USA](https://intermediumcorp.com)** | **[Internship Internship  -Video Editor / Graphic Designer VIDEO EDITING EXPERIENCE  Internship](https://jobright.ai/jobs/info/688d38ee1808534a89cc1fac?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Orion](https://orionadvisortech.com/)** | **[Intern - Portfolio Strategy](https://jobright.ai/jobs/info/688d348b1808534a89cc1dfe?utm_campaign=1049&utm_source=git)** | Lehi | Hybrid | Aug 01 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/688d1b9f3a30793eb9648938?utm_campaign=1049&utm_source=git)** | JOHNSON WILDFLOWER CENTER | On Site | Aug 01 |
 | **[Creative Collective Studio](https://www.youtube.com/@TheCreativeCollectiveStudio)** | **[Comic Book Artists Intern](https://jobright.ai/jobs/info/688d176b3a30793eb9648762?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Aug 01 |
+| **[H15DEN](https://h15den.com)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/688d5f283a30793eb964a72e?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Game Night Graphic Design Intern](https://jobright.ai/jobs/info/688d01943a30793eb9647c92?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Aug 01 |
 | **[UC Health](http://uchealth.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688ceec23a30793eb96474d0?utm_campaign=1049&utm_source=git)** | 3200 Burnet Ave, Cincinnati, OH, 45229, US | Hybrid | Aug 01 |
 | **[Valens Software LLC](http://valens-soft.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/688cdfe227f9022553c075c4?utm_campaign=1049&utm_source=git)** | Kennesaw, GA | Hybrid | Aug 01 |
 | **[Atmosfy](https://atmosfy.io)** | **[UX Research Intern](https://jobright.ai/jobs/info/688985e89f961617fe214f3f?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
+| ↳ | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/68811ea416ea5743a37364ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Motion Artist Intern](https://jobright.ai/jobs/info/688cd42c27f9022553c07012?utm_campaign=1049&utm_source=git)** | South Dakota Home Office | On Site | Aug 01 |
 | **[Game Seven Agency](https://www.gameseven.agency/)** | **[Fall 2025 Associate, Graphic Design and Social MediaNew](https://jobright.ai/jobs/info/688cb23f1808534a89cbe538?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 01 |
 | **[International Institute of New England](https://iine.org/)** | **[Multimedia & Photography Intern (IINE Boston)](https://jobright.ai/jobs/info/688caadf27f9022553c06453?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Graphic Design Intern](https://jobright.ai/jobs/info/6889329c9f961617fe212989?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 31 |
 | **[American University](http://american.edu)** | **[Graphic Design Assistant (Student)(FWS)](https://jobright.ai/jobs/info/688c066f906ac06e1d1d02c5?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[UGA Performing Arts Center Student Graphic Designer](https://jobright.ai/jobs/info/688c000c3a30793eb963f3d6?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Jul 31 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Fall 2025/Spring 2026 - San Francisco](https://jobright.ai/jobs/info/688bfcda1808534a89cb79fb?utm_campaign=1049&utm_source=git)** | San Francisco, CA, US | On Site | Jul 31 |
 | **[OPTYO](https://optyo.net)** | **[Website Design Intern - Shopify](https://jobright.ai/jobs/info/688c20b83a30793eb96402ea?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jul 31 |
 | **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688bf117906ac06e1d1cf93b?utm_campaign=1049&utm_source=git)** | US - WI - Milwaukee HQ | Hybrid | Jul 31 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/688beb9e906ac06e1d1cf783?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Jul 31 |
@@ -129,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Primal Wear](https://www.primalwear.com/)** | **[Design Artist Intern](https://jobright.ai/jobs/info/688999b79f961617fe215e94?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jul 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/688983869f961617fe214e3f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jul 29 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/68898051aab47a17f6702114?utm_campaign=1049&utm_source=git)** | Northwood, OH | On Site | Jul 29 |
-| **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/68811ea416ea5743a37364ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[TV Music Creative Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/688970759f961617fe214495?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Jul 29 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Marketing and Communications, Photography/Videography - Student Assistant](https://jobright.ai/jobs/info/68896b339f961617fe2141d7?utm_campaign=1049&utm_source=git)** | San Bernardino, CA | On Site | Jul 29 |
 | **[Dôen](https://shopdoen.com)** | **[Part-Time Design Intern](https://jobright.ai/jobs/info/68895cc109808a6103e47023?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
