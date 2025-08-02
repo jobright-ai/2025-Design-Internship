@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/688d950f6a4aac5783cd42e2?utm_campaign=1049&utm_source=git)** | Leesburg, VA | On Site | Aug 01 |
+| **[ABB](https://global.abb/group/en)** | **[Internship (m/f/d) - Visualization and Management of Digital Twin Models](https://jobright.ai/jobs/info/688dc389cdbd821a3663f33d?utm_campaign=1049&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/688da70ccdbd821a3663d6e0?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Aug 01 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Summer Photography Intern - Westchester County](https://jobright.ai/jobs/info/688d7a29cdbd821a3663a692?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Orion](https://orionadvisortech.com/)** | **[Intern - Portfolio Strategy](https://jobright.ai/jobs/info/688d6f7e3a30793eb964ae0d?utm_campaign=1049&utm_source=git)** | Lehi, UT | Hybrid | Aug 01 |
@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/688da36a6a4aac5783cd51ca?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Design Assistant (Part-time)](https://jobright.ai/jobs/info/688d74b927f9022553c0b9d2?utm_campaign=1049&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
 | **[JIO ROBOTICS](www.jiorobotics.com)** | **[Expert UX/UI and Graphics  Designer with Web Development  Internship ONSITE ONLY](https://jobright.ai/jobs/info/688d46a61808534a89cc2507?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Aug 01 |
-| **[Intermedium USA](https://intermediumcorp.com)** | **[Internship Internship  -Video Editor / Graphic Designer VIDEO EDITING EXPERIENCE  Internship](https://jobright.ai/jobs/info/688d38ee1808534a89cc1fac?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Orion](https://orionadvisortech.com/)** | **[Intern - Portfolio Strategy](https://jobright.ai/jobs/info/688d348b1808534a89cc1dfe?utm_campaign=1049&utm_source=git)** | Lehi | Hybrid | Aug 01 |
 | **[Pilomation](https://www.pilomation.com/)** | **[Motion Graphic Designer Intern](https://jobright.ai/jobs/info/688dc257cdbd821a3663f241?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Motion Artist Intern](https://jobright.ai/jobs/info/688d9902e5cead4afd457dfd?utm_campaign=1049&utm_source=git)** | Home, SD | On Site | Aug 01 |
@@ -86,8 +85,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c498a906ac06e1d1d2b12?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Firmwide Design Development Program - Summer Internship](https://jobright.ai/jobs/info/688c480b906ac06e1d1d2a07?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c35cd906ac06e1d1d1c1c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
-| ↳ | **[Content Designer Intern [TikTok-Design-Content Design and Product Writing]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c3235906ac06e1d1d1a02?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
-| ↳ | **[Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c2d0f1808534a89cb9045?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688c19913a30793eb963fe4e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Jul 31 |
 | **[GPTZero](https://gptzero.me)** | **[Design Intern](https://jobright.ai/jobs/info/688c16e1906ac06e1d1d0a1a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Graphic Designer](https://jobright.ai/jobs/info/688c34281808534a89cb9552?utm_campaign=1049&utm_source=git)** | Bloomington, IN | Hybrid | Jul 31 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[EveryDayABA](www.everydayaba.net)** | **[Creative Media Intern](https://jobright.ai/jobs/info/688b0cd009808a6103e540bc?utm_campaign=1049&utm_source=git)** | Vista, CA | Hybrid | Jul 29 |
 | **[Dôen](https://shopdoen.com)** | **[Technical Designer - Intern](https://jobright.ai/jobs/info/6888fdb509808a6103e43fab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | Jul 29 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Production Artist Intern](https://jobright.ai/jobs/info/6888f6659f961617fe210a15?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Jul 29 |
+| **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6888eb6609808a6103e4374e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 29 |
+| **[Chil & Co. ](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/6888e9409f961617fe210331?utm_campaign=1049&utm_source=git)** | Atlanta Metro | Hybrid | Jul 29 |
+| **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/6888d95daab47a17f66fd27c?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
