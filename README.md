@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Firmwide Design Development Program - Summer Internship](https://jobright.ai/jobs/info/688e5b96e5cead4afd45c8fa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 4 - GRAPHIC DESIGN (TRANSPORTATION AND ENGINEERING)](https://jobright.ai/jobs/info/688df8a1e5cead4afd45b5e3?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 02 |
 | **[ABB](https://global.abb/group/en)** | **[Internship (m/f/d) - Visualization and Management of Digital Twin Models](https://jobright.ai/jobs/info/688dc389cdbd821a3663f33d?utm_campaign=1049&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/688da70ccdbd821a3663d6e0?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Aug 01 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Orion](https://orionadvisortech.com/)** | **[Intern - Portfolio Strategy](https://jobright.ai/jobs/info/688d348b1808534a89cc1dfe?utm_campaign=1049&utm_source=git)** | Lehi | Hybrid | Aug 01 |
 | **[Le Social Digital](https://www.lesocialdigital.com/)** | **[Internship](https://jobright.ai/jobs/info/688e1317cdbd821a3664082b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
 | **[The Powder Room Studio LA](https://www.thepowderroomstudiola.com/)** | **[Media + Production Intern](https://jobright.ai/jobs/info/688e1215e5cead4afd45bb04?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
-| **[Pilomation](https://www.pilomation.com/)** | **[Motion Graphic Designer Intern](https://jobright.ai/jobs/info/688dc257cdbd821a3663f241?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Motion Artist Intern](https://jobright.ai/jobs/info/688d9902e5cead4afd457dfd?utm_campaign=1049&utm_source=git)** | Home, SD | On Site | Aug 01 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/688d1b9f3a30793eb9648938?utm_campaign=1049&utm_source=git)** | JOHNSON WILDFLOWER CENTER | On Site | Aug 01 |
 | **[Creative Collective Studio](https://www.youtube.com/@TheCreativeCollectiveStudio)** | **[Comic Book Artists Intern](https://jobright.ai/jobs/info/688d176b3a30793eb9648762?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Aug 01 |
