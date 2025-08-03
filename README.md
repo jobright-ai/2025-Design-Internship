@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ellis Brooklyn ](https://www.ellisbrooklyn.com/)** | **[Photo and Design Intern](https://jobright.ai/jobs/info/688eb407cdbd821a36641ec4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/688e95dce5cead4afd45ce78?utm_campaign=1049&utm_source=git)** | Summit, MO | On Site | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Firmwide Design Development Program - Summer Internship](https://jobright.ai/jobs/info/688e5b96e5cead4afd45c8fa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[ABB](https://global.abb/group/en)** | **[Internship (m/f/d) - Visualization and Management of Digital Twin Models](https://jobright.ai/jobs/info/688dc389cdbd821a3663f33d?utm_campaign=1049&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Graphic Design Intern](https://jobright.ai/jobs/info/6889329c9f961617fe212989?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 31 |
 | **[American University](http://american.edu)** | **[Graphic Design Assistant (Student)(FWS)](https://jobright.ai/jobs/info/688c066f906ac06e1d1d02c5?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[UGA Performing Arts Center Student Graphic Designer](https://jobright.ai/jobs/info/688c000c3a30793eb963f3d6?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Jul 31 |
+| **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Design Intern](https://jobright.ai/jobs/info/68894562aab47a17f6700777?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 31 |
 | **[OPTYO](https://optyo.net)** | **[Website Design Intern - Shopify](https://jobright.ai/jobs/info/688c20b83a30793eb96402ea?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jul 31 |
 | **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688bf117906ac06e1d1cf93b?utm_campaign=1049&utm_source=git)** | US - WI - Milwaukee HQ | Hybrid | Jul 31 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/688beb9e906ac06e1d1cf783?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Jul 31 |
@@ -142,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Marketing and Communications, Photography/Videography - Student Assistant](https://jobright.ai/jobs/info/68896b339f961617fe2141d7?utm_campaign=1049&utm_source=git)** | San Bernardino, CA | On Site | Jul 29 |
 | **[Dôen](https://shopdoen.com)** | **[Part-Time Design Intern](https://jobright.ai/jobs/info/68895cc109808a6103e47023?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Student Engagement - Graphic Designer (FWS/NFWS)](https://jobright.ai/jobs/info/68894db109808a6103e46a57?utm_campaign=1049&utm_source=git)** | AZ Phoenix | On Site | Jul 29 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Design Intern](https://jobright.ai/jobs/info/68894562aab47a17f6700777?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 29 |
 | **[Cardinal Capital Group](https://ccgloans.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688b024409808a6103e53a27?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 29 |
 | **[Verifone](http://www.verifone.com)** | **[Website Design Intern](https://jobright.ai/jobs/info/688936a9aab47a17f66fff40?utm_campaign=1049&utm_source=git)** | Tucson, AZ | On Site | Jul 29 |
 | ↳ | **[Website Design Intern](https://jobright.ai/jobs/info/6889366faab47a17f66ffee7?utm_campaign=1049&utm_source=git)** | Tucson, Arizona, United States | On Site | Jul 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EveryDayABA](www.everydayaba.net)** | **[Creative Media Intern](https://jobright.ai/jobs/info/688b0cd009808a6103e540bc?utm_campaign=1049&utm_source=git)** | Vista, CA | Hybrid | Jul 29 |
 | **[Dôen](https://shopdoen.com)** | **[Technical Designer - Intern](https://jobright.ai/jobs/info/6888fdb509808a6103e43fab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | Jul 29 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Production Artist Intern](https://jobright.ai/jobs/info/6888f6659f961617fe210a15?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Jul 29 |
-| **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6888eb6609808a6103e4374e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
