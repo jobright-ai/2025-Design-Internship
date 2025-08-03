@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VideoGames and Esports Foundation](https://www.vef.gg)** | **[Roblox Charity Game Designer](https://jobright.ai/jobs/info/688f81dee5cead4afd460e7d?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Ellis Brooklyn ](https://www.ellisbrooklyn.com/)** | **[Photo and Design Intern](https://jobright.ai/jobs/info/688eb407cdbd821a36641ec4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/688e95dce5cead4afd45ce78?utm_campaign=1049&utm_source=git)** | Summit, MO | On Site | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Firmwide Design Development Program - Summer Internship](https://jobright.ai/jobs/info/688e5b96e5cead4afd45c8fa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 02 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/688edb186a4aac5783cda552?utm_campaign=1049&utm_source=git)** | Leesburg, VA | On Site | Aug 01 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Summer Photography Intern - Westchester County](https://jobright.ai/jobs/info/688d7a29cdbd821a3663a692?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Orion](https://orionadvisortech.com/)** | **[Intern - Portfolio Strategy](https://jobright.ai/jobs/info/688d6f7e3a30793eb964ae0d?utm_campaign=1049&utm_source=git)** | Lehi, UT | Hybrid | Aug 01 |
-| **[Mississippi Mud Monsters](https://ondeck2025.com/)** | **[Graphics and Production Intern](https://jobright.ai/jobs/info/688d8cb96a4aac5783cd37de?utm_campaign=1049&utm_source=git)** | Pearl, MS | On Site | Aug 01 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/688da36a6a4aac5783cd51ca?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Design Assistant (Part-time)](https://jobright.ai/jobs/info/688d74b927f9022553c0b9d2?utm_campaign=1049&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
 | **[JIO ROBOTICS](www.jiorobotics.com)** | **[Expert UX/UI and Graphics  Designer with Web Development  Internship ONSITE ONLY](https://jobright.ai/jobs/info/688d46a61808534a89cc2507?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Aug 01 |
