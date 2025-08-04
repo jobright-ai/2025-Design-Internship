@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cindy Castro New York](https://www.cindycastro.com)** | **[Fashion Design Internship / Fall 25](https://jobright.ai/jobs/info/689026a8e5cead4afd4624da?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 03 |
+| **[Hush](hushtalent.io)** | **[UI/UX Designer (Intern)](https://jobright.ai/jobs/info/6890216ee5cead4afd462064?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Quilly Fall Graphic Design Intern Unpaid](https://jobright.ai/jobs/info/688fd4c5cdbd821a366461c0?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Aug 03 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/68811ea416ea5743a37364ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
 | **[VideoGames and Esports Foundation](https://www.vef.gg)** | **[Roblox Charity Game Designer](https://jobright.ai/jobs/info/688f81dee5cead4afd460e7d?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Design Intern](https://jobright.ai/jobs/info/68894562aab47a17f6700777?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jul 31 |
 | **[OPTYO](https://optyo.net)** | **[Website Design Intern - Shopify](https://jobright.ai/jobs/info/688c20b83a30793eb96402ea?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jul 31 |
 | **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688bf117906ac06e1d1cf93b?utm_campaign=1049&utm_source=git)** | US - WI - Milwaukee HQ | Hybrid | Jul 31 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/688beb9e906ac06e1d1cf783?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Jul 31 |
 | **[Madison Square Garden Entertainment Corp.](https://www.msgentertainment.com/)** | **[Graphic Design- Sports 2025-2026 Business Season Student Associate](https://jobright.ai/jobs/info/688aa77caab47a17f670a7cb?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | Jul 31 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/688c9fc41808534a89cbddca?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jul 31 |
 | **[Grace Design Studios](https://ghc-arch.com)** | **[Architectural Design Professional](https://jobright.ai/jobs/info/688bcf5d3a30793eb963dd09?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Website Design Intern](https://jobright.ai/jobs/info/6889366faab47a17f66ffee7?utm_campaign=1049&utm_source=git)** | Tucson, Arizona, United States | On Site | Jul 29 |
 | **[Dôen](https://shopdoen.com)** | **[Part-Time Design Intern](https://jobright.ai/jobs/info/688934929f961617fe212a90?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | Jul 29 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Graphic Design Intern (Fall 2025)](https://jobright.ai/jobs/info/68818daef4f06100f3a27ca8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 29 |
-| **[Indira Cesarine Studio](http://indiracesarine.com)** | **[Photo/Video Internship](https://jobright.ai/jobs/info/688928a49f961617fe212510?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
