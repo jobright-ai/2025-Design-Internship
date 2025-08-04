@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[Graphic Designer Internship](https://jobright.ai/jobs/info/688fdbdb6a4aac5783cdddde?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Aug 03 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Quilly Fall Graphic Design Intern Unpaid](https://jobright.ai/jobs/info/688fd4c5cdbd821a366461c0?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Aug 03 |
-| **[Brwnhouse Agency](www.brwnhouse.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688fcf1acdbd821a366460dd?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
 | **[VideoGames and Esports Foundation](https://www.vef.gg)** | **[Roblox Charity Game Designer](https://jobright.ai/jobs/info/688f81dee5cead4afd460e7d?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Ellis Brooklyn ](https://www.ellisbrooklyn.com/)** | **[Photo and Design Intern](https://jobright.ai/jobs/info/688eb407cdbd821a36641ec4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/688e95dce5cead4afd45ce78?utm_campaign=1049&utm_source=git)** | Summit, MO | On Site | Aug 02 |
