@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ronald McDonald House Charities of Central Texas (RMHC CTX)](https://linktr.ee/RMHCCTX)** | **[Creative Content Intern](https://jobright.ai/jobs/info/6891b83f4c7e851b90ad1c53?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Aug 05 |
-| **[H15DEN](https://h15den.com)** | **[Web Designer Intern](https://jobright.ai/jobs/info/6891b6fef5ee707a15dc1beb?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/68806b5b764c3d7411c52dec?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Aug 05 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Graphic Designer Fall Internship Female Founded Startup (Unpaid)](https://jobright.ai/jobs/info/689184e34c7e851b90acf720?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 04 |
 | **[I Am Fragrance](https://iamfragrance.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/6891824df47efe21139560b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[AEWM Design Intern](https://jobright.ai/jobs/info/688bd9193a30793eb963e2c3?utm_campaign=1049&utm_source=git)** | Topeka, KS | On Site | Jul 30 |
 | **[Studio71, LP](https://www.studio71.com/us)** | **[Graphic Design Internship Fall 25'](https://jobright.ai/jobs/info/688bdca9906ac06e1d1cf16d?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Jul 30 |
 | **[GPTZero](https://gptzero.me)** | **[Design Intern](https://jobright.ai/jobs/info/688b9ecf3a30793eb963bff9?utm_campaign=1049&utm_source=git)** | NYC Hybrid | Hybrid | Jul 30 |
+| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Apprentice](https://jobright.ai/jobs/info/688bfbac1808534a89cb7905?utm_campaign=1049&utm_source=git)** | Poughkeepsie, NY | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
