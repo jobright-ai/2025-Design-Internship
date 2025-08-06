@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 4 - GRAPHIC DESIGN (TRANSPORTATION AND ENGINEERING)](https://jobright.ai/jobs/info/68933a794c7e851b90adc9f2?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 06 |
 | **[Premier Aerospace](https://premieraerospace.com)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/6892fc6a4c7e851b90adb1a1?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Aug 05 |
 | **[Gensler](http://www.gensler.com)** | **[Southwestern College - Architecture Extern – Fall 2025 – San Diego](https://jobright.ai/jobs/info/6892f3394c7e851b90ada8e8?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Aug 05 |
 | **[Hustle Magazine](www.hustlemagazine.co)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6892d984f5ee707a15dc93a1?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 05 |
@@ -125,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Genesis Exterior Design Intern - Fall](https://jobright.ai/jobs/info/6890cf01f5ee707a15db9cbb?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Aug 04 |
 | **[Green Bay Packers](http://www.packers.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6890a207f47efe211394eded?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Aug 04 |
 | **[Hook](http://byhook.com)** | **[Sandbox U - Virtual Creative Mentorship](https://jobright.ai/jobs/info/68909ebcf47efe211394ec2e?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 04 |
+| **[ABB](https://global.abb/group/en)** | **[Internship (m/f/d) - Visualization and Management of Digital Twin Models](https://jobright.ai/jobs/info/688dc389cdbd821a3663f33d?utm_campaign=1049&utm_source=git)** | Location, WV | Hybrid | Aug 04 |
 | **[Savannah Ghost Pirates](http://ghostpirateshockey.com)** | **[Photography Intern](https://jobright.ai/jobs/info/6891917bf47efe2113956b53?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 03 |
 | **[Cindy Castro New York](https://www.cindycastro.com)** | **[Fashion Design Internship / Fall 25](https://jobright.ai/jobs/info/689026a8e5cead4afd4624da?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 03 |
 | **[Supra](https://supra.com)** | **[UI/UX Designer Interns -  (HongKong based)](https://jobright.ai/jobs/info/6890a9a54c7e851b90ac88a7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/688985e89f961617fe214f3f?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/688e95dce5cead4afd45ce78?utm_campaign=1049&utm_source=git)** | Summit, MO | On Site | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Firmwide Design Development Program - Summer Internship](https://jobright.ai/jobs/info/688e5b96e5cead4afd45c8fa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 02 |
-| **[ABB](https://global.abb/group/en)** | **[Internship (m/f/d) - Visualization and Management of Digital Twin Models](https://jobright.ai/jobs/info/688dc389cdbd821a3663f33d?utm_campaign=1049&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/688da70ccdbd821a3663d6e0?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Aug 01 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/688edb186a4aac5783cda552?utm_campaign=1049&utm_source=git)** | Leesburg, VA | On Site | Aug 01 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Summer Photography Intern - Westchester County](https://jobright.ai/jobs/info/688d7a29cdbd821a3663a692?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688ed844cdbd821a3664279c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/688c19913a30793eb963fe4e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Jul 31 |
 | **[GPTZero](https://gptzero.me)** | **[Design Intern](https://jobright.ai/jobs/info/688c16e1906ac06e1d1d0a1a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
-| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Graphic Design Intern](https://jobright.ai/jobs/info/6889329c9f961617fe212989?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
