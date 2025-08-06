@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Design Intern - Integrated Innovation Institute – College of Engineering](https://jobright.ai/jobs/info/68929398f5ee707a15dc6c75?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
+| **[Aspen Tech Policy Hub](https://www.aspentechpolicyhub.org/)** | **[Design Intern](https://jobright.ai/jobs/info/68929016f47efe211395d73b?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | Aug 05 |
+| **[Marchesa](http://marchesa.com)** | **[Design Intern](https://jobright.ai/jobs/info/68927fe4f5ee707a15dc6360?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Student Graphic Designer Federal Work Study Position (Student Wage)](https://jobright.ai/jobs/info/68927aaef5ee707a15dc610a?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | Remote | Aug 05 |
 | **[MAGZ MARKETING](https://www.magzsports.com)** | **[Creative Intern](https://jobright.ai/jobs/info/689278424c7e851b90ad6088?utm_campaign=1049&utm_source=git)** | Dallas, TX | Remote | Aug 05 |
-| **[Zebrosys](www.zebrosys.com)** | **[Creative + Social Media Mentee](https://jobright.ai/jobs/info/68927374f5ee707a15dc5c41?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6892731c4c7e851b90ad5e69?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Aug 05 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Fall Internship 2025 - Visual Merchandising](https://jobright.ai/jobs/info/68927319f47efe211395c7cb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68926eeff5ee707a15dc5a50?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Aug 05 |
@@ -72,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[CAMI NYC](http://www.caminyc.com)** | **[Design Internship](https://jobright.ai/jobs/info/689236fbf47efe211395a952?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 05 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Graphic Designer, Student Media](https://jobright.ai/jobs/info/689234454c7e851b90ad3d8d?utm_campaign=1049&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Aug 05 |
 | **[CFD Companies](https://www.cfdinvestments.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68922998f5ee707a15dc3857?utm_campaign=1049&utm_source=git)** | Kokomo, IN | On Site | Aug 05 |
-| **[Southern Utah University](http://www.suu.edu/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/689206bbf47efe211395982e?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Aug 05 |
+| **[Southern Utah University](http://www.suu.edu/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6891fe15f47efe2113959635?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Aug 05 |
 | **[Ronald McDonald House Charities of Central Texas (RMHC CTX)](https://linktr.ee/RMHCCTX)** | **[Creative Content Intern](https://jobright.ai/jobs/info/6891b83f4c7e851b90ad1c53?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Aug 05 |
 | **[Golin London](https://golin.com/emea/)** | **[Design Intern](https://jobright.ai/jobs/info/68806b5b764c3d7411c52dec?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Aug 05 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Graphic Designer Fall Internship Female Founded Startup (Unpaid)](https://jobright.ai/jobs/info/689184e34c7e851b90acf720?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 04 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Summer Photography Intern - Westchester County](https://jobright.ai/jobs/info/688d7a29cdbd821a3663a692?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | ↳ | **[Photography Intern](https://jobright.ai/jobs/info/688da36a6a4aac5783cd51ca?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Design Assistant (Part-time)](https://jobright.ai/jobs/info/688d74b927f9022553c0b9d2?utm_campaign=1049&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
-| **[Le Social Digital](https://www.lesocialdigital.com/)** | **[Internship](https://jobright.ai/jobs/info/688e1317cdbd821a3664082b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Motion Artist Intern](https://jobright.ai/jobs/info/688d9902e5cead4afd457dfd?utm_campaign=1049&utm_source=git)** | Home, SD | On Site | Aug 01 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/688d1b9f3a30793eb9648938?utm_campaign=1049&utm_source=git)** | JOHNSON WILDFLOWER CENTER | On Site | Aug 01 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Game Night Graphic Design Intern](https://jobright.ai/jobs/info/688d01943a30793eb9647c92?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/686ea40595912faa28f35bc9?utm_campaign=1049&utm_source=git)** | New Castle, DE | On Site | Jul 31 |
 | **[Gerdau North America](http://www.gerdau.com)** | **[Graphic Design & Brand Intern](https://jobright.ai/jobs/info/686d7cab7ca8d01b2625ad90?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jul 30 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Visual Merchandising Internship (Fall 2025)](https://jobright.ai/jobs/info/688b19189f961617fe2218d6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 30 |
-| **[Front Row](https://www.frontrowgroup.de)** | **[Photography Intern, Digital Marketing - Consumer](https://jobright.ai/jobs/info/688af43b9f961617fe21fb6c?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
