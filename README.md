@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cornerstones of Care](https://www.cornerstonesofcare.org/)** | **[Intern](https://jobright.ai/jobs/info/689471b84ed2ea559ca4dd2a?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Aug 07 |
+| **[PT Chandra Asri Pacific Tbk](http://chandra-asri.com/)** | **[Culture Activation & Graphic Design Intern](https://jobright.ai/jobs/info/68946e214ed2ea559ca4dcb8?utm_campaign=1049&utm_source=git)** | Idaho, United States | On Site | Aug 07 |
+| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Fall Internship 2025 - Visual Merchandising](https://jobright.ai/jobs/info/6894644673b3a600fe87f3b2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall Internship - Footwear Design](https://jobright.ai/jobs/info/689459e34c7e851b90ae5724?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Adult Design Internship Fall 2025](https://jobright.ai/jobs/info/689458abf47efe211396c060?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | **[No Wine Left Behind](www.knowwineleftbehind.com)** | **[Game Design & Data Intern](https://jobright.ai/jobs/info/68942f4a4c7e851b90ae3944?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Aug 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hirello.ai](https://hirello.ai)** | **[SILICON VALLEY AI STARTUP SEEKING SKILLED ILLUSTRATOR FOR UNPAID INTERNSHIP](https://jobright.ai/jobs/info/68919593f5ee707a15dc017a?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 04 |
 | **[CALSTART](http://www.calstart.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68911c1e4c7e851b90acc2a3?utm_campaign=1049&utm_source=git)** | Remote, US | Remote | Aug 04 |
 | **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/689115fb4c7e851b90acbef5?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | Aug 04 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - HQF Interior Design](https://jobright.ai/jobs/info/68911127f5ee707a15dbbdfc?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 04 |
-| **[Homebase](http://www.joinhomebase.com)** | **[Future Opportunities with Product & Design](https://jobright.ai/jobs/info/6872540f06ad7073463cbcdc?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Aug 04 |
-| **[Oliver Winery](http://www.oliverwinery.com)** | **[Graphic Design Internship - Fall](https://jobright.ai/jobs/info/689107cef5ee707a15dbb704?utm_campaign=1049&utm_source=git)** | Bloomington | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
