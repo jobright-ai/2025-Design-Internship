@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sacramento Kings](http://www.Kings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/689554308c6d6b4426778f63?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Mobile Apps Design: DC - Fall 2025](https://jobright.ai/jobs/info/689550374ed2ea559ca54eff?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Aug 07 |
+| **[Sacramento Kings](http://www.Kings.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/68954b5b8c6d6b4426778b27?utm_campaign=1049&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/68954b3673b3a600fe8865d2?utm_campaign=1049&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
+| **[MIRA Safety](https://www.mirasafety.com)** | **[Internship](https://jobright.ai/jobs/info/68954a944ed2ea559ca54b17?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Aug 07 |
+| **[Sacramento Kings](http://www.Kings.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/689547f44ed2ea559ca54981?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| **[RS&H](http://www.rsandh.com/)** | **[Interior Design Intern - Fall 2025](https://jobright.ai/jobs/info/689541284ed2ea559ca54685?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Aug 07 |
+| **[Brilliant PR & Marketing ](https://brilliantprandmarketing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/689540818c6d6b4426778558?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Indiana University](https://www.iu.edu)** | **[Sustainable Landscapes Intern](https://jobright.ai/jobs/info/689520468c6d6b4426777a45?utm_campaign=1049&utm_source=git)** | Bloomington, IN | Hybrid | Aug 07 |
 | **[Reaction Tackle](https://www.reactiontackle.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68951d7073b3a600fe885448?utm_campaign=1049&utm_source=git)** | Big Bend, WI | On Site | Aug 07 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Photography Intern](https://jobright.ai/jobs/info/68951c808c6d6b442677787f?utm_campaign=1049&utm_source=git)** | Bloomington, IN | Hybrid | Aug 07 |
@@ -69,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Manada Technology](http://manadatechnology.com)** | **[UI/UX & Design Intern](https://jobright.ai/jobs/info/68950c3273b3a600fe884a41?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Student Graphic Designer - Office of Student Engagement - 2025/2026](https://jobright.ai/jobs/info/68952c4e73b3a600fe885817?utm_campaign=1049&utm_source=git)** | South Orange, NJ | On Site | Aug 07 |
 | **[TN Marketing](http://tnmarketing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6895056173b3a600fe884669?utm_campaign=1049&utm_source=git)** | Plymouth, MN | Hybrid | Aug 07 |
-| **[Talentix](https://www.thetalentix.com)** | **[User Experience Designer Intern](https://jobright.ai/jobs/info/689504438c6d6b4426776a0d?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Aug 07 |
 | **[197 The Agency](www.197theagency.com)** | **[Graphic Design/Photography Intern (unpaid/college-credit)](https://jobright.ai/jobs/info/6895033f8c6d6b4426776982?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Aug 07 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Mobile Apps Design: DC - Fall 2025](https://jobright.ai/jobs/info/6895014f73b3a600fe884324?utm_campaign=1049&utm_source=git)** | DC Washington 820 1st Street NE | Hybrid | Aug 07 |
 | **[Brilliant PR & Marketing ](https://brilliantprandmarketing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6894fde88c6d6b44267764ac?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 07 |
@@ -105,15 +112,14 @@ For a complete list, click the following sortable link below:
 | **[KZ_K STUDIO](https://kzkstudionyc.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6893a772f47efe2113965c68?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Lele Sadoughi](http://www.lelesadoughi.com)** | **[Photographer intern](https://jobright.ai/jobs/info/6893a373f47efe2113965847?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Veritiv](https://www.veritiv.com)** | **[Packaging Trainee](https://jobright.ai/jobs/info/6893a083a9199876488deb40?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Aug 06 |
-| **[Ana Luisa](http://analuisa.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/68939ff34c7e851b90aded64?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Aug 06 |
-| **[Veritiv](https://www.veritiv.com)** | **[Packaging Trainee](https://jobright.ai/jobs/info/68939f464c7e851b90aded1c?utm_campaign=1049&utm_source=git)** | West Sacramento, CA | On Site | Aug 06 |
+| ↳ | **[Packaging Trainee](https://jobright.ai/jobs/info/68939f464c7e851b90aded1c?utm_campaign=1049&utm_source=git)** | West Sacramento, CA | On Site | Aug 06 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Site Speed &UX Performance Specialist](https://jobright.ai/jobs/info/68939bf54c7e851b90adeb62?utm_campaign=1049&utm_source=git)** | Bellevue, WA | Hybrid | Aug 06 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Website Content Co-op (Jan 2026 - Jun 2026)](https://jobright.ai/jobs/info/6893f1e9a9199876488e135d?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Aug 06 |
 | **[Ivy Tech Community College Indianapolis](www.ivytech.edu/indianapolis)** | **[Intern Position - Visual Communications](https://jobright.ai/jobs/info/6893953f4c7e851b90ade8e7?utm_campaign=1049&utm_source=git)** | Columbus, IN | On Site | Aug 06 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Content Creators for University Relations](https://jobright.ai/jobs/info/689391dfa9199876488de50e?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Aug 06 |
 | **[Yadav Diamonds & Jewelry](https://www.yadavjewelry.com)** | **[Jewelry Designer for engagment rings](https://jobright.ai/jobs/info/689391944c7e851b90ade732?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Columbia Pictures Creative Development Intern – Fall 2025](https://jobright.ai/jobs/info/68938f94f47efe211396500c?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
-| ↳ | **[Global Creative Content, Intern - Fall 2025](https://jobright.ai/jobs/info/68938eda4c7e851b90ade567?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Columbia Pictures Creative Development Intern – Fall 2025](https://jobright.ai/jobs/info/68938f18a9199876488de367?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
+| ↳ | **[Global Creative Content, Intern - Fall 2025](https://jobright.ai/jobs/info/68938f03f47efe2113964f6f?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
 | **[USI Consultants, Inc.](http://usiconsultants.com)** | **[2026 Landscape Architecture, Urban Design, or Community Planning Intern/Co-op](https://jobright.ai/jobs/info/689385c8a9199876488ddeb3?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Aug 06 |
 | **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Graphic Design](https://jobright.ai/jobs/info/6893850cf47efe2113964a30?utm_campaign=1049&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 06 |
 | **[LightingX](https://lightingx.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/689443484c7e851b90ae49a7?utm_campaign=1049&utm_source=git)** | Joliet, IL | On Site | Aug 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6892626d4c7e851b90ad546c?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | On Site | Aug 05 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6892dd244c7e851b90ad991d?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Aug 05 |
 | **[Invisible North](https://invisiblenorth.com/)** | **[3D Experiential Design Internship](https://jobright.ai/jobs/info/6892561d4c7e851b90ad4aac?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 05 |
-| **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Creative & Design](https://jobright.ai/jobs/info/68757c1cae2f413e4a5a7921?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 05 |
-| **[JAIME](https://www.linkedin.com/company/38102508)** | **[Menswear Design Intern](https://jobright.ai/jobs/info/6892e517f5ee707a15dc9f09?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 05 |
-| **[Blue Revival](https://www.bluerevival.com/)** | **[Social Media & Fashion Intern](https://jobright.ai/jobs/info/68923e79f47efe211395abcd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 05 |
-| **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Graphic Designer, Student Media](https://jobright.ai/jobs/info/689234454c7e851b90ad3d8d?utm_campaign=1049&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Aug 05 |
-| **[CFD Companies](https://www.cfdinvestments.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68922998f5ee707a15dc3857?utm_campaign=1049&utm_source=git)** | Kokomo, IN | On Site | Aug 05 |
-| **[Southern Utah University](http://www.suu.edu/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/689206bbf47efe211395982e?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
