@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sacramento Kings](http://www.Kings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/689554308c6d6b4426778f63?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| **[Talentix](https://www.thetalentix.com)** | **[User Experience Researcher Intern](https://jobright.ai/jobs/info/6895734f73b3a600fe8879e1?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Aug 07 |
+| **[Seton Hall University](http://www.shu.edu/)** | **[Student Graphic Designer - Office of Student Engagement - 2025/2026](https://jobright.ai/jobs/info/68956ae34ed2ea559ca55988?utm_campaign=1049&utm_source=git)** | South Orange, NJ | On Site | Aug 07 |
+| **[Columbus Fashion Academy](www.ColumbusFashionAcademy.com)** | **[Assistant Fashion Designer](https://jobright.ai/jobs/info/68956ab78c6d6b4426779887?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Aug 07 |
+| **[Find Me](https://fyndme.co)** | **[Senior - UX/UI/Graphic Design Intern – Unpaid](https://jobright.ai/jobs/info/689569598c6d6b4426779800?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 07 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Designer UX/UI AI App Fall Intern Startup Berkeley (Unpaid)](https://jobright.ai/jobs/info/6895629273b3a600fe88705e?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Aug 07 |
+| **[Sacramento Kings](http://www.Kings.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/68955ae38c6d6b44267792b7?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/689554308c6d6b4426778f63?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Mobile Apps Design: DC - Fall 2025](https://jobright.ai/jobs/info/689550374ed2ea559ca54eff?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Aug 07 |
 | **[Sacramento Kings](http://www.Kings.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/68954b5b8c6d6b4426778b27?utm_campaign=1049&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/68954b3673b3a600fe8865d2?utm_campaign=1049&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Internship](https://jobright.ai/jobs/info/68954a944ed2ea559ca54b17?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Aug 07 |
-| **[Sacramento Kings](http://www.Kings.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/689547f44ed2ea559ca54981?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
 | **[RS&H](http://www.rsandh.com/)** | **[Interior Design Intern - Fall 2025](https://jobright.ai/jobs/info/689541284ed2ea559ca54685?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Aug 07 |
 | **[Brilliant PR & Marketing ](https://brilliantprandmarketing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/689540818c6d6b4426778558?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Indiana University](https://www.iu.edu)** | **[Sustainable Landscapes Intern](https://jobright.ai/jobs/info/689520468c6d6b4426777a45?utm_campaign=1049&utm_source=git)** | Bloomington, IN | Hybrid | Aug 07 |
@@ -118,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Ivy Tech Community College Indianapolis](www.ivytech.edu/indianapolis)** | **[Intern Position - Visual Communications](https://jobright.ai/jobs/info/6893953f4c7e851b90ade8e7?utm_campaign=1049&utm_source=git)** | Columbus, IN | On Site | Aug 06 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Content Creators for University Relations](https://jobright.ai/jobs/info/689391dfa9199876488de50e?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Aug 06 |
 | **[Yadav Diamonds & Jewelry](https://www.yadavjewelry.com)** | **[Jewelry Designer for engagment rings](https://jobright.ai/jobs/info/689391944c7e851b90ade732?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Columbia Pictures Creative Development Intern – Fall 2025](https://jobright.ai/jobs/info/68938f18a9199876488de367?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Columbia Pictures Creative Development Intern – Fall 2025](https://jobright.ai/jobs/info/68938f94f47efe211396500c?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
 | ↳ | **[Global Creative Content, Intern - Fall 2025](https://jobright.ai/jobs/info/68938f03f47efe2113964f6f?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
 | **[USI Consultants, Inc.](http://usiconsultants.com)** | **[2026 Landscape Architecture, Urban Design, or Community Planning Intern/Co-op](https://jobright.ai/jobs/info/689385c8a9199876488ddeb3?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Aug 06 |
 | **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Graphic Design](https://jobright.ai/jobs/info/6893850cf47efe2113964a30?utm_campaign=1049&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6892731c4c7e851b90ad5e69?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Aug 05 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Fall Internship 2025 - Visual Merchandising](https://jobright.ai/jobs/info/68927319f47efe211395c7cb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68926eeff5ee707a15dc5a50?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Aug 05 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68926aa1f47efe211395c25f?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 05 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Content Development & Project Support for Global Customer Advisory](https://jobright.ai/jobs/info/6892655ef5ee707a15dc55ac?utm_campaign=1049&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 05 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6892626d4c7e851b90ad546c?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | On Site | Aug 05 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6892dd244c7e851b90ad991d?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Aug 05 |
-| **[Invisible North](https://invisiblenorth.com/)** | **[3D Experiential Design Internship](https://jobright.ai/jobs/info/6892561d4c7e851b90ad4aac?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
