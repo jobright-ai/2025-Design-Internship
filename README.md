@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Cargo Systems](https://ascendcargo.com/)** | **[Fall UI/UX Designer – Intern (US Only)](https://jobright.ai/jobs/info/68959db48c6d6b442677ba8c?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | Aug 07 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - UI/UX Designer](https://jobright.ai/jobs/info/6895948673b3a600fe888db2?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Aug 07 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Marketing and Communications Graduate Assistant](https://jobright.ai/jobs/info/689575634ed2ea559ca560a6?utm_campaign=1049&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 07 |
 | **[Talentix](https://www.thetalentix.com)** | **[User Experience Researcher Intern](https://jobright.ai/jobs/info/6895734f73b3a600fe8879e1?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Aug 07 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Student Graphic Designer - Office of Student Engagement - 2025/2026](https://jobright.ai/jobs/info/68956ae34ed2ea559ca55988?utm_campaign=1049&utm_source=git)** | South Orange, NJ | On Site | Aug 07 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Designer UX/UI AI App Fall Intern Startup Berkeley (Unpaid)](https://jobright.ai/jobs/info/6895629273b3a600fe88705e?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Aug 07 |
 | **[Sacramento Kings](http://www.Kings.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/68955ae38c6d6b44267792b7?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/689554308c6d6b4426778f63?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/689591074ed2ea559ca57156?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Mobile Apps Design: DC - Fall 2025](https://jobright.ai/jobs/info/689550374ed2ea559ca54eff?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Aug 07 |
 | **[Sacramento Kings](http://www.Kings.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/68954b5b8c6d6b4426778b27?utm_campaign=1049&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/68954b3673b3a600fe8865d2?utm_campaign=1049&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
@@ -72,6 +75,8 @@ For a complete list, click the following sortable link below:
 | **[RJMedex](https://rjmedex.com/)** | **[User Experience Designer Internship - ONSITE/Remote](https://jobright.ai/jobs/info/6895755773b3a600fe887b27?utm_campaign=1049&utm_source=git)** | Columbia, MD | Remote | Aug 07 |
 | **[RS&H](http://www.rsandh.com/)** | **[Interior Design Intern - Fall 2025](https://jobright.ai/jobs/info/689541284ed2ea559ca54685?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Aug 07 |
 | **[Brilliant PR & Marketing ](https://brilliantprandmarketing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/689540818c6d6b4426778558?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 07 |
+| **[AGBO](https://www.agbo.com)** | **[Intern, Creative - Fall 2025](https://jobright.ai/jobs/info/68959dbf4ed2ea559ca57ba3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
+| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern - Media & Content Creation](https://jobright.ai/jobs/info/6895ab734ed2ea559ca58a08?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Aug 07 |
 | **[Indiana University](https://www.iu.edu)** | **[Sustainable Landscapes Intern](https://jobright.ai/jobs/info/689520468c6d6b4426777a45?utm_campaign=1049&utm_source=git)** | Bloomington, IN | Hybrid | Aug 07 |
 | **[Reaction Tackle](https://www.reactiontackle.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68951d7073b3a600fe885448?utm_campaign=1049&utm_source=git)** | Big Bend, WI | On Site | Aug 07 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Photography Intern](https://jobright.ai/jobs/info/68951c808c6d6b442677787f?utm_campaign=1049&utm_source=git)** | Bloomington, IN | Hybrid | Aug 07 |
@@ -97,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/685cab9b3c088b537bde99ea?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 07 |
 | **[Cornerstones of Care](https://www.cornerstonesofcare.org/)** | **[Intern](https://jobright.ai/jobs/info/689471b84ed2ea559ca4dd2a?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Aug 07 |
 | **[PT Chandra Asri Pacific Tbk](http://chandra-asri.com/)** | **[Culture Activation & Graphic Design Intern](https://jobright.ai/jobs/info/68946e214ed2ea559ca4dcb8?utm_campaign=1049&utm_source=git)** | Idaho, United States | On Site | Aug 07 |
+| **[rag & bone](http://www.rag-bone.com)** | **[Fall Internship - Accessories Design](https://jobright.ai/jobs/info/6895ab074ed2ea559ca589c2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Fall Internship 2025 - Visual Merchandising](https://jobright.ai/jobs/info/6894644673b3a600fe87f3b2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall Internship - Footwear Design](https://jobright.ai/jobs/info/689459e34c7e851b90ae5724?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Adult Design Internship Fall 2025](https://jobright.ai/jobs/info/689458abf47efe211396c060?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
@@ -129,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Ivy Tech Community College Indianapolis](www.ivytech.edu/indianapolis)** | **[Intern Position - Visual Communications](https://jobright.ai/jobs/info/6893953f4c7e851b90ade8e7?utm_campaign=1049&utm_source=git)** | Columbus, IN | On Site | Aug 06 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Content Creators for University Relations](https://jobright.ai/jobs/info/689391dfa9199876488de50e?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Aug 06 |
 | **[Yadav Diamonds & Jewelry](https://www.yadavjewelry.com)** | **[Jewelry Designer for engagment rings](https://jobright.ai/jobs/info/689391944c7e851b90ade732?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Columbia Pictures Creative Development Intern – Fall 2025](https://jobright.ai/jobs/info/68938f18a9199876488de367?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Columbia Pictures Creative Development Intern – Fall 2025](https://jobright.ai/jobs/info/68938f94f47efe211396500c?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
 | ↳ | **[Global Creative Content, Intern - Fall 2025](https://jobright.ai/jobs/info/68938eda4c7e851b90ade567?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
 | **[USI Consultants, Inc.](http://usiconsultants.com)** | **[2026 Landscape Architecture, Urban Design, or Community Planning Intern/Co-op](https://jobright.ai/jobs/info/689385c8a9199876488ddeb3?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Aug 06 |
 | **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Graphic Design](https://jobright.ai/jobs/info/6893850cf47efe2113964a30?utm_campaign=1049&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Designer, Unreal CG, Design Studio (Winter/Spring 2026)](https://jobright.ai/jobs/info/6892c9ccf5ee707a15dc8692?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Aug 05 |
 | ↳ | **[Internship, Digital Modeling, Design Studio (Winter/Spring 2026)](https://jobright.ai/jobs/info/6892c7ec4c7e851b90ad865c?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Aug 05 |
 | ↳ | **[Internship, UX Design, Design Studio (Winter/Spring 2026)](https://jobright.ai/jobs/info/6892c7d4f47efe211395f0d9?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Aug 05 |
-| **[Kids in the Game ](http://kidsinthegame.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6892d200f47efe211395f9e5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 05 |
-| **[B&A Architectural Group Inc](http://www.baarchitecturalgroupinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/68935af1a9199876488dcf7f?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Aug 05 |
-| **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Creative Intern (Spring-Summer)](https://jobright.ai/jobs/info/6892a9fef5ee707a15dc76ba?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA | Hybrid | Aug 05 |
-| **[Atlanta Gladiators ](http://atlantagladiators.com)** | **[Photography Intern 2025-26 Season](https://jobright.ai/jobs/info/6892db51f5ee707a15dc94ae?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Aug 05 |
-| **[Fluid Interiors ](http://fluidinteriors.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/68929d2c4c7e851b90ad710c?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Aug 05 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Design Intern - Integrated Innovation Institute – College of Engineering](https://jobright.ai/jobs/info/68929398f5ee707a15dc6c75?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
