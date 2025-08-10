@@ -95,7 +95,6 @@ Job ID : 261967](https://jobright.ai/jobs/info/6897ea8e73b3a600fe8a16f0?utm_camp
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Photography Intern](https://jobright.ai/jobs/info/68951c808c6d6b442677787f?utm_campaign=1049&utm_source=git)** | Bloomington, IN | Hybrid | Aug 07 |
 | ↳ | **[Part-Time Student Graphic Design Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/68951ba973b3a600fe885266?utm_campaign=1049&utm_source=git)** | Bloomington, IN | On Site | Aug 07 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Digital Lab Intern - UI/UX](https://jobright.ai/jobs/info/68951b774ed2ea559ca5383e?utm_campaign=1049&utm_source=git)** | DigitaLab University of Illinois | Hybrid | Aug 07 |
-| **[Side Quest](https://www.linkedin.com/company/106831212)** | **[Content Creation + Graphic Design Internship (UNPAID)](https://jobright.ai/jobs/info/6895166273b3a600fe8850a2?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Graphic Design Intern](https://jobright.ai/jobs/info/6895146e4ed2ea559ca5348a?utm_campaign=1049&utm_source=git)** | Bloomington, IN | On Site | Aug 07 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Student Graphic Designer - Office of Student Engagement - 2025/2026](https://jobright.ai/jobs/info/68952c4e73b3a600fe885817?utm_campaign=1049&utm_source=git)** | South Orange, NJ | On Site | Aug 07 |
 | **[TN Marketing](http://tnmarketing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6895056173b3a600fe884669?utm_campaign=1049&utm_source=git)** | Plymouth, MN | Hybrid | Aug 07 |
@@ -158,4 +157,5 @@ Job ID : 261967](https://jobright.ai/jobs/info/6897ea8e73b3a600fe8a16f0?utm_camp
 | ↳ | **[Internship, UX Design, Design Studio (Winter/Spring 2026)](https://jobright.ai/jobs/info/6892c7d4f47efe211395f0d9?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Aug 05 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6892d200f47efe211395f9e5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Creative Intern (Spring-Summer)](https://jobright.ai/jobs/info/6892a9fef5ee707a15dc76ba?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA | Hybrid | Aug 05 |
+| **[Atlanta Gladiators ](http://atlantagladiators.com)** | **[Photography Intern 2025-26 Season](https://jobright.ai/jobs/info/6892db51f5ee707a15dc94ae?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
