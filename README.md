@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Design - Crew Resources (Spring 2026)](https://jobright.ai/jobs/info/687ba88f764c3d7411c349a4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Aug 10 |
+| **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Aug 10 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/68811ea416ea5743a37364ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 09 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/688985e89f961617fe214f3f?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687ab0ad2097a271a89810a7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 09 |
@@ -142,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Website Content Co-op (Jan 2026 - Jun 2026)](https://jobright.ai/jobs/info/6893f1e9a9199876488e135d?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Aug 06 |
 | **[Ivy Tech Community College Indianapolis](www.ivytech.edu/indianapolis)** | **[Intern Position - Visual Communications](https://jobright.ai/jobs/info/6893953f4c7e851b90ade8e7?utm_campaign=1049&utm_source=git)** | Columbus, IN | On Site | Aug 06 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Content Creators for University Relations](https://jobright.ai/jobs/info/689391dfa9199876488de50e?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Aug 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Columbia Pictures Creative Development Intern – Fall 2025](https://jobright.ai/jobs/info/68938f18a9199876488de367?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
-| ↳ | **[Global Creative Content, Intern - Fall 2025](https://jobright.ai/jobs/info/68938eda4c7e851b90ade567?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Columbia Pictures Creative Development Intern – Fall 2025](https://jobright.ai/jobs/info/68938f94f47efe211396500c?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
+| ↳ | **[Global Creative Content, Intern - Fall 2025](https://jobright.ai/jobs/info/68938f03f47efe2113964f6f?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
 | **[USI Consultants, Inc.](http://usiconsultants.com)** | **[2026 Landscape Architecture, Urban Design, or Community Planning Intern/Co-op](https://jobright.ai/jobs/info/689385c8a9199876488ddeb3?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Aug 06 |
 | **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Graphic Design](https://jobright.ai/jobs/info/6893850cf47efe2113964a30?utm_campaign=1049&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 06 |
 | **[FIRST](https://firstagency.com/)** | **[Video Design Intern (Fall)](https://jobright.ai/jobs/info/68936a09f47efe2113963f60?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | Aug 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rapid City Rush](https://www.rapidcityrush.com)** | **[Creative and Game Operations Intern](https://jobright.ai/jobs/info/68974d071b9e81727f197e58?utm_campaign=1049&utm_source=git)** | Rapid City, SD | On Site | Aug 05 |
 | **[Gensler](http://www.gensler.com)** | **[Southwestern College - Architecture Extern – Fall 2025 – San Diego](https://jobright.ai/jobs/info/6892f3394c7e851b90ada8e8?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Aug 05 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Automotive Photographer, Design Studio (Winter/Spring 2026)](https://jobright.ai/jobs/info/6892cd7ff47efe211395f3a4?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Aug 05 |
-| ↳ | **[Internship, CMF Design, Design Studio (Winter/Spring 2026)](https://jobright.ai/jobs/info/6892cd4bf47efe211395f390?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Aug 05 |
-| ↳ | **[Internship, Architecture (Winter/Spring 2026)](https://jobright.ai/jobs/info/6892cc89f47efe211395f318?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
