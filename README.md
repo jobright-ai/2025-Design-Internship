@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Communications & Graphic Design Intern
+Job ID : 261967](https://jobright.ai/jobs/info/6897ea8e73b3a600fe8a16f0?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Aug 09 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/68811ea416ea5743a37364ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 09 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/688985e89f961617fe214f3f?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687ab0ad2097a271a89810a7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 09 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Clayton County Board of Commissioners](https://www.claytoncountyga.gov)** | **[Undergraduate/Graduate Intern](https://jobright.ai/jobs/info/68974b3673b3a600fe896580?utm_campaign=1049&utm_source=git)** | Jonesboro, GA | On Site | Aug 08 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Internship](https://jobright.ai/jobs/info/68975ac01b9e81727f198ed3?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Aug 07 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Marketing and Communications Graduate Assistant](https://jobright.ai/jobs/info/689575634ed2ea559ca560a6?utm_campaign=1049&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 07 |
+| **[Royal Electric Company](https://www.royalelect.com/)** | **[Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/6897e0cb8c6d6b4426793611?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Student Graphic Designer - Office of Student Engagement - 2025/2026](https://jobright.ai/jobs/info/68956ae34ed2ea559ca55988?utm_campaign=1049&utm_source=git)** | South Orange, NJ | On Site | Aug 07 |
 | **[Columbus Fashion Academy](www.ColumbusFashionAcademy.com)** | **[Assistant Fashion Designer](https://jobright.ai/jobs/info/68956ab78c6d6b4426779887?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Aug 07 |
 | **[Find Me](https://fyndme.co)** | **[Senior - UX/UI/Graphic Design Intern – Unpaid](https://jobright.ai/jobs/info/689569598c6d6b4426779800?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 07 |
@@ -108,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Creative Services Trainee](https://jobright.ai/jobs/info/679ef3fe1cce1953b839853d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 07 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/685cab9b3c088b537bde99ea?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 07 |
 | **[PT Chandra Asri Pacific Tbk](http://chandra-asri.com/)** | **[Culture Activation & Graphic Design Intern](https://jobright.ai/jobs/info/68946e214ed2ea559ca4dcb8?utm_campaign=1049&utm_source=git)** | Idaho, United States | On Site | Aug 07 |
+| **[rag & bone](http://www.rag-bone.com)** | **[Fall Internship - Accessories Design](https://jobright.ai/jobs/info/6897e47b1b9e81727f1a2913?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Fall Internship 2025 - Visual Merchandising](https://jobright.ai/jobs/info/6894644673b3a600fe87f3b2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6897540b73b3a600fe896fdb?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Aug 06 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall Internship - Footwear Design](https://jobright.ai/jobs/info/689459e34c7e851b90ae5724?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
@@ -154,7 +158,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, UX Design, Design Studio (Winter/Spring 2026)](https://jobright.ai/jobs/info/6892c7d4f47efe211395f0d9?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Aug 05 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6892d200f47efe211395f9e5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Creative Intern (Spring-Summer)](https://jobright.ai/jobs/info/6892a9fef5ee707a15dc76ba?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA | Hybrid | Aug 05 |
-| **[Atlanta Gladiators ](http://atlantagladiators.com)** | **[Photography Intern 2025-26 Season](https://jobright.ai/jobs/info/6892db51f5ee707a15dc94ae?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Aug 05 |
-| **[Fluid Interiors ](http://fluidinteriors.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/68929d2c4c7e851b90ad710c?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Aug 05 |
-| **[David Zwirner](http://www.davidzwirner.com/)** | **[Design Intern](https://jobright.ai/jobs/info/687ec077db19f31cf0d6cc7d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
