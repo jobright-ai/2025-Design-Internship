@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Factory360](http://factory360.com)** | **[Experiential Creative Strategy/Copywriting Intern](https://jobright.ai/jobs/info/689a129efaa4e875e8255a6b?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Aug 11 |
+| **[Trickle](http://trickle.so)** | **[UX Designer Intern](https://jobright.ai/jobs/info/689a1267faa4e875e8255a36?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 11 |
+| **[RightOn Education](https://www.rightoneducation.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/689a12365574fd6bc0c7f836?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 11 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Academic Success and Undergraduate Advising (ASUA), Graphic Designer - Student Assistant](https://jobright.ai/jobs/info/68990577faa4e875e8250fce?utm_campaign=1049&utm_source=git)** | San Bernardino, CA | On Site | Aug 10 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Design - Crew Resources (Spring 2026)](https://jobright.ai/jobs/info/687ba88f764c3d7411c349a4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Aug 10 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Aug 10 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Innovation Designer (Fall 2025)](https://jobright.ai/jobs/info/689868075574fd6bc0c79f56?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 08 |
 | **[Clayton County Board of Commissioners](https://www.claytoncountyga.gov)** | **[Undergraduate/Graduate Intern](https://jobright.ai/jobs/info/68974b3673b3a600fe896580?utm_campaign=1049&utm_source=git)** | Jonesboro, GA | On Site | Aug 08 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68984bee5574fd6bc0c77429?utm_campaign=1049&utm_source=git)** | Strongsville, OH | On Site | Aug 08 |
-| **[ANOTHER A STORY](https://anotherastory.com)** | **[CREATIVE INTERN](https://jobright.ai/jobs/info/68984493faa4e875e824c893?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 08 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Internship](https://jobright.ai/jobs/info/68975ac01b9e81727f198ed3?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Aug 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - UI/UX Designer](https://jobright.ai/jobs/info/689849adfaa4e875e824d1a0?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Aug 07 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Marketing and Communications Graduate Assistant](https://jobright.ai/jobs/info/689575634ed2ea559ca560a6?utm_campaign=1049&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 07 |
@@ -131,7 +133,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Designer - Intern](https://jobright.ai/jobs/info/68890b9309808a6103e445e3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Philadelphia Wings Intern, Graphic Design](https://jobright.ai/jobs/info/6893e15af47efe21139679af?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Aug 06 |
 | **[Browning Day](http://bdmd.com)** | **[Architectural Internship - 2026](https://jobright.ai/jobs/info/6893d6e2a9199876488e0802?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 06 |
-| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Website Content Co-op (Jan 2026 - Jun 2026)](https://jobright.ai/jobs/info/6893c857a9199876488e02b4?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Aug 06 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Intern/Co-Op Fairfield Design Center](https://jobright.ai/jobs/info/6893b163a9199876488df5e5?utm_campaign=1049&utm_source=git)** | Fairfield, OH | On Site | Aug 06 |
 | ↳ | **[Intern/Co-Op Fairfield Design Center](https://jobright.ai/jobs/info/6893acf04c7e851b90adf677?utm_campaign=1049&utm_source=git)** | 300-FAIRFIELD DC, 3840 Port Union Road, Fairfield, Ohio, United States of America | On Site | Aug 06 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Intern Position - Visual Communications](https://jobright.ai/jobs/info/6893ab19f47efe2113965e3d?utm_campaign=1049&utm_source=git)** | Columbus, IN | On Site | Aug 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Premier Aerospace](https://premieraerospace.com)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/6892fc6a4c7e851b90adb1a1?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Aug 05 |
 | **[Rapid City Rush](https://www.rapidcityrush.com)** | **[Creative and Game Operations Intern](https://jobright.ai/jobs/info/68974d071b9e81727f197e58?utm_campaign=1049&utm_source=git)** | Rapid City, SD | On Site | Aug 05 |
 | **[Gensler](http://www.gensler.com)** | **[Southwestern College - Architecture Extern – Fall 2025 – San Diego](https://jobright.ai/jobs/info/6892f3394c7e851b90ada8e8?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Aug 05 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Automotive Photographer, Design Studio (Winter/Spring 2026)](https://jobright.ai/jobs/info/6892cd7ff47efe211395f3a4?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
