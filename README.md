@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[To & Fro ](https://www.linkedin.com/company/12644491)** | **[UI/Visual Design Internship](https://jobright.ai/jobs/info/689a603b5574fd6bc0c824b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Mercer Engineering Research Center](https://www.merc-mercer.org/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/689a568983d13d1f5b69841d?utm_campaign=1049&utm_source=git)** | Macon Campus | On Site | Aug 11 |
+| **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Student Graphic Designer)](https://jobright.ai/jobs/info/689a5180faa4e875e8257ef9?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
+| ↳ | **[College Work Study Program (Men’s Basketball Graphic Designer)](https://jobright.ai/jobs/info/689a4b8e5574fd6bc0c8193d?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a4a3efaa4e875e825788d?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - Administrative - Remote](https://jobright.ai/jobs/info/689a4a35faa4e875e8257880?utm_campaign=1049&utm_source=git)** | Iowa, United States | Hybrid | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a47395574fd6bc0c813d6?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KZ_K STUDIO](https://kzkstudionyc.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6893a772f47efe2113965c68?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Veritiv](https://www.veritiv.com)** | **[Packaging Trainee](https://jobright.ai/jobs/info/6893a083a9199876488deb40?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Aug 06 |
 | ↳ | **[Packaging Trainee](https://jobright.ai/jobs/info/68939f464c7e851b90aded1c?utm_campaign=1049&utm_source=git)** | West Sacramento, CA | On Site | Aug 06 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Site Speed &UX Performance Specialist](https://jobright.ai/jobs/info/68939bf54c7e851b90adeb62?utm_campaign=1049&utm_source=git)** | Bellevue, WA | Hybrid | Aug 06 |
-| **[Ivy Tech Community College Indianapolis](www.ivytech.edu/indianapolis)** | **[Intern Position - Visual Communications](https://jobright.ai/jobs/info/6893953f4c7e851b90ade8e7?utm_campaign=1049&utm_source=git)** | Columbus, IN | On Site | Aug 06 |
-| **[Newman University](http://www.newmanu.edu/)** | **[Student - Content Creators for University Relations](https://jobright.ai/jobs/info/689391dfa9199876488de50e?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Aug 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Columbia Pictures Creative Development Intern – Fall 2025](https://jobright.ai/jobs/info/68938f18a9199876488de367?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
