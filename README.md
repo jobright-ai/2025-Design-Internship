@@ -74,8 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CNN Product Design Intern: LA - Fall 2025](https://jobright.ai/jobs/info/68982e9bfaa4e875e824b1e8?utm_campaign=1049&utm_source=git)** | Burbank, CA | Hybrid | Aug 08 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Graphic Design Intern / Part-Time / Casey's Center & Iowa Events Center](https://jobright.ai/jobs/info/6897399f1b9e81727f196774?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Aug 08 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Marketing Creative](https://jobright.ai/jobs/info/689748ae73b3a600fe89626d?utm_campaign=1049&utm_source=git)** | Memphis, TN | Hybrid | Aug 08 |
-| **[Game Seven Agency](https://www.gameseven.agency/)** | **[Fall 2025 Associate, Graphic Design and Social Media](https://jobright.ai/jobs/info/6897532573b3a600fe896ec2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Marketing Creative](https://jobright.ai/jobs/info/68985c725574fd6bc0c7901e?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 08 |
+| ↳ | **[Intern - Marketing Creative](https://jobright.ai/jobs/info/68985c725574fd6bc0c7901e?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 08 |
 | **[Marcia Moran Jewelry](http://marciamoran.com)** | **[Social Media Content Creation Intern and Modeling](https://jobright.ai/jobs/info/68984baffaa4e875e824d4f6?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
 | **[Emerson and Friends](http://www.emersonandfriends.com)** | **[Fashion Design & Production Intern](https://jobright.ai/jobs/info/68974f581b9e81727f198129?utm_campaign=1049&utm_source=git)** | Clearwater, FL | On Site | Aug 08 |
 | **[ProAmpac](http://www.proampac.com/)** | **[Intern - Graphics](https://jobright.ai/jobs/info/68794086a7fc8904e3961073?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Aug 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[RIB Software](https://www.rib-software.eu.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755d9a?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | Hybrid | Aug 06 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Women's Design Internship](https://jobright.ai/jobs/info/6896a41773b3a600fe8918d0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | **[Premier Aerospace](https://premieraerospace.com)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/6892fc6a4c7e851b90adb1a1?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Aug 05 |
+| **[Rapid City Rush](https://www.rapidcityrush.com)** | **[Creative and Game Operations Intern](https://jobright.ai/jobs/info/68974d071b9e81727f197e58?utm_campaign=1049&utm_source=git)** | Rapid City, SD | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
