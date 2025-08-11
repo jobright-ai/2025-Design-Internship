@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Academic Success and Undergraduate Advising (ASUA), Graphic Designer - Student Assistant](https://jobright.ai/jobs/info/68990577faa4e875e8250fce?utm_campaign=1049&utm_source=git)** | San Bernardino, CA | On Site | Aug 10 |
-| **[Balance Now](https://www.balance.ca)** | **[Graphic Designer](https://jobright.ai/jobs/info/6898ea7983d13d1f5b6911e9?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 10 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Design - Crew Resources (Spring 2026)](https://jobright.ai/jobs/info/687ba88f764c3d7411c349a4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Aug 10 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Aug 10 |
+| **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687b3ff52097a271a8982d8f?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Aug 09 |
 | **[Atmosfy](https://atmosfy.io)** | **[UX Research Intern](https://jobright.ai/jobs/info/688985e89f961617fe214f3f?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 09 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a84ec764c3d7411c2da94?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Aug 09 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687ab0ad2097a271a89810a7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 09 |
@@ -131,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall Internship - Accessories Design](https://jobright.ai/jobs/info/6893fd5da9199876488e191f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | ↳ | **[Fall Internship - Footwear Design](https://jobright.ai/jobs/info/6893fc8da9199876488e17c4?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | **[Dôen](https://shopdoen.com)** | **[Part-Time Design Intern](https://jobright.ai/jobs/info/68895cc109808a6103e47023?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
+| ↳ | **[Technical Designer - Intern](https://jobright.ai/jobs/info/68890b9309808a6103e445e3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Philadelphia Wings Intern, Graphic Design](https://jobright.ai/jobs/info/6893e15af47efe21139679af?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Aug 06 |
 | **[Browning Day](http://bdmd.com)** | **[Architectural Internship - 2026](https://jobright.ai/jobs/info/6893d6e2a9199876488e0802?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 06 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Website Content Co-op (Jan 2026 - Jun 2026)](https://jobright.ai/jobs/info/6893c857a9199876488e02b4?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Aug 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RIB Software](https://www.rib-software.eu.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755d9a?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | Hybrid | Aug 06 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Women's Design Internship](https://jobright.ai/jobs/info/6896a41773b3a600fe8918d0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | **[Premier Aerospace](https://premieraerospace.com)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/6892fc6a4c7e851b90adb1a1?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Aug 05 |
-| **[Rapid City Rush](https://www.rapidcityrush.com)** | **[Creative and Game Operations Intern](https://jobright.ai/jobs/info/68974d071b9e81727f197e58?utm_campaign=1049&utm_source=git)** | Rapid City, SD | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
