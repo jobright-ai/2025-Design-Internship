@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Mix Global](http://www.themixglobal.com)** | **[Creative Designer Intern](https://jobright.ai/jobs/info/689afec0faa4e875e825e869?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 12 |
+| **[YINAN NEW YORK](yinan.us)** | **[Fashion Design Internship – YINAN (Midtown, NYC)](https://jobright.ai/jobs/info/689b3c6979a9f9666252f4db?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Aug 12 |
+| **[The Mix Global](https://themixglobal.com)** | **[Creative Designer Intern](https://jobright.ai/jobs/info/689afec0faa4e875e825e869?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 12 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/689aeefb83d13d1f5b69e49c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 12 |
 | **[Osterlund Architects, PLLC](http://www.aoarchitect.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/689ad10883d13d1f5b69ca08?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Aug 11 |
-| **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Marketing plus Graphic Design - video Editor](https://jobright.ai/jobs/info/689acee85574fd6bc0c8626d?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Aviary Productions](https://www.linkedin.com/company/93796367)** | **[3D Prop Modeler](https://jobright.ai/jobs/info/689ab35f83d13d1f5b69b6a1?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Nightingale College](https://nightingale.edu/)** | **[P/T Specialist 1, Junior Designer - Temporary](https://jobright.ai/jobs/info/689ad68b83d13d1f5b69cced?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 11 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Creative Technologist, Vehicle User Interface (Winter/Spring 2026)](https://jobright.ai/jobs/info/689a9eb883d13d1f5b69a70b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Aug 11 |
