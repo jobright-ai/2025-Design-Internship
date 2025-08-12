@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Mix Global](http://www.themixglobal.com)** | **[Creative Designer Intern](https://jobright.ai/jobs/info/689afec0faa4e875e825e869?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 12 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/689aeefb83d13d1f5b69e49c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 12 |
 | **[Osterlund Architects, PLLC](http://www.aoarchitect.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/689ad10883d13d1f5b69ca08?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Aug 11 |
 | **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Marketing plus Graphic Design - video Editor](https://jobright.ai/jobs/info/689acee85574fd6bc0c8626d?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Academic Success and Undergraduate Advising (ASUA), Graphic Designer - Student Assistant](https://jobright.ai/jobs/info/68990577faa4e875e8250fce?utm_campaign=1049&utm_source=git)** | San Bernardino, CA | On Site | Aug 10 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Design - Crew Resources (Spring 2026)](https://jobright.ai/jobs/info/687ba88f764c3d7411c349a4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Aug 10 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Aug 10 |
-| **[VALT Health](https://www.linkedin.com/company/107843428)** | **[Creative and Growth Intern](https://jobright.ai/jobs/info/68997dd3faa4e875e8252d56?utm_campaign=1049&utm_source=git)** | Fremont, CA | Hybrid | Aug 09 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687b3ff52097a271a8982d8f?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Aug 09 |
 | **[Atmosfy](https://atmosfy.io)** | **[UX Research Intern](https://jobright.ai/jobs/info/688985e89f961617fe214f3f?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 09 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687a84ec764c3d7411c2da94?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Aug 09 |
