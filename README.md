@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2025 Internship - Outlet Design](https://jobright.ai/jobs/info/689bb6c6faa4e875e8262eea?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Aug 12 |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Graphic Design Intern - Fall Recruitment (Hybrid - MD/DC/VA)](https://jobright.ai/jobs/info/689bb328faa4e875e8262a08?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Aug 12 |
+| **[Figure8](https://www.figure-8.co/)** | **[Design and Production Intern](https://jobright.ai/jobs/info/689bad65faa4e875e8262757?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 12 |
+| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Digital Experience), Ref# 8984](https://jobright.ai/jobs/info/689bad0b79a9f96662532ac1?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
+| ↳ | **[Student Assistant Internship (Digital Experience), Ref# 8984](https://jobright.ai/jobs/info/689bac3bfaa4e875e82625e5?utm_campaign=1049&utm_source=git)** | Albany, NY | Hybrid | Aug 12 |
+| **[Buffalo Sabres](http://sabres.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/689baa8479a9f96662532782?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Aug 12 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant-HSI](https://jobright.ai/jobs/info/689b9a4b83d13d1f5b6a1942?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Aug 12 |
 | **[Neel-Schaffer, Inc.](http://neel-schaffer.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/689b936383d13d1f5b6a13fb?utm_campaign=1049&utm_source=git)** | Hattiesburg, MS | On Site | Aug 12 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Photography & Digital Media Intern](https://jobright.ai/jobs/info/689b8ed779a9f9666253131f?utm_campaign=1049&utm_source=git)** | The Shops at South Town | On Site | Aug 12 |
 | **[City of Boston](https://www.boston.gov/)** | **[Communications and Design Intern](https://jobright.ai/jobs/info/689b8dc679a9f9666253114c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Aug 12 |
-| **[Morgane Le Fay](https://www.morganelefay.com/)** | **[fashion studio intern](https://jobright.ai/jobs/info/689b651383d13d1f5b6a00c5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 12 |
 | **[ECU Health](http://www.ECUHealth.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/687ee9842097a271a8998d7c?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Aug 12 |
 | **[YINAN NEW YORK](yinan.us)** | **[Fashion Design Internship – YINAN (Midtown, NYC)](https://jobright.ai/jobs/info/689b3c6979a9f9666252f4db?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Aug 12 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Digital Content & Web Design Intern at Parabolic Ventures LLC](https://jobright.ai/jobs/info/689b4d5a79a9f9666252f935?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 12 |
@@ -115,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Graphic Design Intern / Part-Time / Casey's Center & Iowa Events Center](https://jobright.ai/jobs/info/6897399f1b9e81727f196774?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Aug 08 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Marketing Creative](https://jobright.ai/jobs/info/689748ae73b3a600fe89626d?utm_campaign=1049&utm_source=git)** | Memphis, TN | Hybrid | Aug 08 |
 | ↳ | **[Intern - Marketing Creative](https://jobright.ai/jobs/info/68985c725574fd6bc0c7901e?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 08 |
-| **[Summit Fire & Security](https://summitfiresecurity.com)** | **[Designer, Trainee](https://jobright.ai/jobs/info/6879616ba7fc8904e39624c8?utm_campaign=1049&utm_source=git)** | Hartford, CT | On Site | Aug 08 |
 | **[Emerson and Friends](http://www.emersonandfriends.com)** | **[Fashion Design & Production Intern](https://jobright.ai/jobs/info/68974f581b9e81727f198129?utm_campaign=1049&utm_source=git)** | Clearwater, FL | On Site | Aug 08 |
 | **[ProAmpac](http://www.proampac.com/)** | **[Intern - Graphics](https://jobright.ai/jobs/info/68794086a7fc8904e3961073?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Aug 08 |
 | **[Movement Mortgage](https://movement.com)** | **[Design Intern](https://jobright.ai/jobs/info/6897af8973b3a600fe89defc?utm_campaign=1049&utm_source=git)** | Indian Land, South Carolina | On Site | Aug 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Creative Content, Intern - Fall 2025](https://jobright.ai/jobs/info/6894eaa68c6d6b44267759d8?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 07 |
 | ↳ | **[Columbia Pictures Creative Development Intern – Fall 2025](https://jobright.ai/jobs/info/6894de9a73b3a600fe882e82?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 07 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Digital Asset Management](https://jobright.ai/jobs/info/687ee0b5db19f31cf0d6db34?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Creative Services Trainee](https://jobright.ai/jobs/info/679ef3fe1cce1953b839853d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 07 |
-| **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/685cab9b3c088b537bde99ea?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 07 |
-| **[PT Chandra Asri Pacific Tbk](http://chandra-asri.com/)** | **[Culture Activation & Graphic Design Intern](https://jobright.ai/jobs/info/68946e214ed2ea559ca4dcb8?utm_campaign=1049&utm_source=git)** | Idaho, United States | On Site | Aug 07 |
-| **[rag & bone](http://www.rag-bone.com)** | **[Fall Internship - Accessories Design](https://jobright.ai/jobs/info/6897e47b1b9e81727f1a2913?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
-| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Fall Internship 2025 - Visual Merchandising](https://jobright.ai/jobs/info/6894644673b3a600fe87f3b2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
