@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Osterlund Architects, PLLC](http://www.aoarchitect.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/689ad10883d13d1f5b69ca08?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Aug 11 |
+| **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Marketing plus Graphic Design - video Editor](https://jobright.ai/jobs/info/689acee85574fd6bc0c8626d?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Aviary Productions](https://www.linkedin.com/company/93796367)** | **[3D Prop Modeler](https://jobright.ai/jobs/info/689ab35f83d13d1f5b69b6a1?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Nightingale College](https://nightingale.edu/)** | **[P/T Specialist 1, Junior Designer - Temporary](https://jobright.ai/jobs/info/689ad68b83d13d1f5b69cced?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 11 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Creative Technologist, Vehicle User Interface (Winter/Spring 2026)](https://jobright.ai/jobs/info/689a9eb883d13d1f5b69a70b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Aug 11 |
 | **[Nightingale College](https://nightingale.edu/)** | **[P/T Specialist 1, Junior Designer - Temporary](https://jobright.ai/jobs/info/689a925083d13d1f5b699e88?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Remote | Aug 11 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Internship_Remote](https://jobright.ai/jobs/info/689a824e5574fd6bc0c8320d?utm_campaign=1049&utm_source=git)** | Texas, United States | Remote | Aug 11 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Kendall- Interior Design Asst (Student Position)](https://jobright.ai/jobs/info/689a7aca5574fd6bc0c82d62?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Aug 11 |
 | **[Chippewa Steel Hockey](https://www.chippewasteelhockey.com/)** | **[Unpaid Photography Internship](https://jobright.ai/jobs/info/689a77c6faa4e875e8258e76?utm_campaign=1049&utm_source=git)** | Chippewa Falls, WI | On Site | Aug 11 |
 | **[SpreeAI](https://www.spreeai.com)** | **[Design Team Internship](https://jobright.ai/jobs/info/689a778283d13d1f5b6990b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
-| **[Still Here](https://stillhere.nyc)** | **[Design and Production Intern](https://jobright.ai/jobs/info/689a682a5574fd6bc0c826bf?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Aug 11 |
 | **[Mercer Engineering Research Center](https://www.merc-mercer.org/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/689a568983d13d1f5b69841d?utm_campaign=1049&utm_source=git)** | Macon Campus | On Site | Aug 11 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Student Graphic Designer)](https://jobright.ai/jobs/info/689a5180faa4e875e8257ef9?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
 | ↳ | **[College Work Study Program (Men’s Basketball Graphic Designer)](https://jobright.ai/jobs/info/689a4b8e5574fd6bc0c8193d?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
@@ -76,7 +78,9 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a47395574fd6bc0c813d6?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Stengel Hill](http://www.stengelhill.com)** | **[2026 Fall Student Internship - Interior Design – Louisville](https://jobright.ai/jobs/info/689a408f83d13d1f5b69739a?utm_campaign=1049&utm_source=git)** | Louisville, Kentucky, United States | On Site | Aug 11 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Internship_Onsite](https://jobright.ai/jobs/info/689a3fb05574fd6bc0c80e13?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Aug 11 |
-| ↳ | **[Internship_Remote](https://jobright.ai/jobs/info/689a3f8083d13d1f5b697262?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Conexant](http://www.conexant.com/)** | **[Part-Time Student - Administrative - Remote](https://jobright.ai/jobs/info/689aca305574fd6bc0c860c7?utm_campaign=1049&utm_source=git)** | Iowa, United States | Hybrid | Aug 11 |
+| **[MIRA Safety](https://www.mirasafety.com)** | **[Internship_Remote](https://jobright.ai/jobs/info/689a3f8083d13d1f5b697262?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Cindy Castro New York](https://www.cindycastro.com)** | **[Fashion Design Internship / Fall 25](https://jobright.ai/jobs/info/689ac85983d13d1f5b69c42c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 11 |
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - Administrative - Remote](https://jobright.ai/jobs/info/689a3ef8faa4e875e8256e4c?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Aug 11 |
 | **[Yadav Diamonds & Jewelry](https://www.yadavjewelry.com)** | **[Jewelry Designer for engagment rings](https://jobright.ai/jobs/info/689a2e5dfaa4e875e82567b5?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f935574fd6bc0c7fdf0?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
@@ -140,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6894fde88c6d6b44267764ac?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Creative Content, Intern - Fall 2025](https://jobright.ai/jobs/info/6894eaa68c6d6b44267759d8?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 07 |
 | **[The New York Public Library](http://www.nypl.org)** | **[Library Page - Library for the Performing Arts / Performing Arts Museum, Creative Design and Exhibitions](https://jobright.ai/jobs/info/68957c5773b3a600fe887ea9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 07 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Columbia Pictures Creative Development Intern – Fall 2025](https://jobright.ai/jobs/info/6894de9a73b3a600fe882e82?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 07 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Digital Asset Management](https://jobright.ai/jobs/info/687ee0b5db19f31cf0d6db34?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Creative Services Trainee](https://jobright.ai/jobs/info/679ef3fe1cce1953b839853d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 07 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Fall 2025](https://jobright.ai/jobs/info/685cab9b3c088b537bde99ea?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FIRST](https://firstagency.com/)** | **[Video Design Intern (Fall)](https://jobright.ai/jobs/info/68940421f47efe2113968b60?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | **[Cosm](https://www.cosm.com)** | **[Event Activations Intern](https://jobright.ai/jobs/info/6893ff26a9199876488e1a7c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 06 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall Internship - Accessories Design](https://jobright.ai/jobs/info/6893fd5da9199876488e191f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
-| ↳ | **[Fall Internship - Footwear Design](https://jobright.ai/jobs/info/6893fc8da9199876488e17c4?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
-| **[Dôen](https://shopdoen.com)** | **[Part-Time Design Intern](https://jobright.ai/jobs/info/68895cc109808a6103e47023?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
-| ↳ | **[Technical Designer - Intern](https://jobright.ai/jobs/info/68890b9309808a6103e445e3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
-| **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Philadelphia Wings Intern, Graphic Design](https://jobright.ai/jobs/info/6893e15af47efe21139679af?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Aug 06 |
-| **[Browning Day](http://bdmd.com)** | **[Architectural Internship - 2026](https://jobright.ai/jobs/info/6893d6e2a9199876488e0802?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
