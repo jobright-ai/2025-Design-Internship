@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[To & Fro ](https://www.linkedin.com/company/12644491)** | **[UI/Visual Design Internship](https://jobright.ai/jobs/info/689a603b5574fd6bc0c824b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
+| **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/689a814a5574fd6bc0c8314d?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Aug 11 |
+| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Media Supply Assistant (Student Position)](https://jobright.ai/jobs/info/689a7e4183d13d1f5b69951b?utm_campaign=1049&utm_source=git)** | Big Rapids, MI | On Site | Aug 11 |
+| ↳ | **[Kendall- Interior Design Asst (Student Position)](https://jobright.ai/jobs/info/689a7aca5574fd6bc0c82d62?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Aug 11 |
+| **[Chippewa Steel Hockey](https://www.chippewasteelhockey.com/)** | **[Unpaid Photography Internship](https://jobright.ai/jobs/info/689a77c6faa4e875e8258e76?utm_campaign=1049&utm_source=git)** | Chippewa Falls, WI | On Site | Aug 11 |
+| **[SpreeAI](https://www.spreeai.com)** | **[Design Team Internship](https://jobright.ai/jobs/info/689a778283d13d1f5b6990b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Still Here](https://stillhere.nyc)** | **[Design and Production Intern](https://jobright.ai/jobs/info/689a682a5574fd6bc0c826bf?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Aug 11 |
 | **[Mercer Engineering Research Center](https://www.merc-mercer.org/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/689a568983d13d1f5b69841d?utm_campaign=1049&utm_source=git)** | Macon Campus | On Site | Aug 11 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Student Graphic Designer)](https://jobright.ai/jobs/info/689a5180faa4e875e8257ef9?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
 | ↳ | **[College Work Study Program (Men’s Basketball Graphic Designer)](https://jobright.ai/jobs/info/689a4b8e5574fd6bc0c8193d?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
@@ -68,13 +73,11 @@ For a complete list, click the following sortable link below:
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Internship_Onsite](https://jobright.ai/jobs/info/689a3fb05574fd6bc0c80e13?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Aug 11 |
 | ↳ | **[Internship_Remote](https://jobright.ai/jobs/info/689a3f8083d13d1f5b697262?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - Administrative - Remote](https://jobright.ai/jobs/info/689a3ef8faa4e875e8256e4c?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Aug 11 |
-| **[Alexandra Grecco Bridal](https://www.alexandragrecco.com)** | **[Design Internship](https://jobright.ai/jobs/info/689a2ed4faa4e875e825682e?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Aug 11 |
 | **[Yadav Diamonds & Jewelry](https://www.yadavjewelry.com)** | **[Jewelry Designer for engagment rings](https://jobright.ai/jobs/info/689a2e5dfaa4e875e82567b5?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f935574fd6bc0c7fdf0?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Undergrad UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1ec283d13d1f5b696370?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Advanced Degree UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1c0a5574fd6bc0c7fc3c?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[ECCT Creative Student Associate – Graphic Design & Marketing](https://jobright.ai/jobs/info/689a1af3faa4e875e8255e40?utm_campaign=1049&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 11 |
-| **[Flakeb00k](https://www.flakeb00k.com)** | **[Art Intern](https://jobright.ai/jobs/info/689a1ac95574fd6bc0c7fb89?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Aug 11 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Undergrad UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1a8983d13d1f5b6961ab?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | **[CAMI NYC](http://www.caminyc.com)** | **[Design Internship](https://jobright.ai/jobs/info/689a12f7faa4e875e8255ac8?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 11 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/687ef713764c3d7411c479c6?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Aug 11 |
@@ -95,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Graphic Design Intern / Part-Time / Casey's Center & Iowa Events Center](https://jobright.ai/jobs/info/6897399f1b9e81727f196774?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Aug 08 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Marketing Creative](https://jobright.ai/jobs/info/689748ae73b3a600fe89626d?utm_campaign=1049&utm_source=git)** | Memphis, TN | Hybrid | Aug 08 |
 | ↳ | **[Intern - Marketing Creative](https://jobright.ai/jobs/info/68985c725574fd6bc0c7901e?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 08 |
-| **[Marcia Moran Jewelry](http://marciamoran.com)** | **[Social Media Content Creation Intern and Modeling](https://jobright.ai/jobs/info/68984baffaa4e875e824d4f6?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
+| **[Summit Fire & Security](https://summitfiresecurity.com)** | **[Designer, Trainee](https://jobright.ai/jobs/info/6879616ba7fc8904e39624c8?utm_campaign=1049&utm_source=git)** | Hartford, CT | On Site | Aug 08 |
 | **[Emerson and Friends](http://www.emersonandfriends.com)** | **[Fashion Design & Production Intern](https://jobright.ai/jobs/info/68974f581b9e81727f198129?utm_campaign=1049&utm_source=git)** | Clearwater, FL | On Site | Aug 08 |
 | **[ProAmpac](http://www.proampac.com/)** | **[Intern - Graphics](https://jobright.ai/jobs/info/68794086a7fc8904e3961073?utm_campaign=1049&utm_source=git)** | Wrightstown, WI | On Site | Aug 08 |
 | **[Everon](https://www.everonsolutions.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68985a02faa4e875e824ee85?utm_campaign=1049&utm_source=git)** | Romeoville, IL | On Site | Aug 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Intern Position - Visual Communications](https://jobright.ai/jobs/info/6893ab19f47efe2113965e3d?utm_campaign=1049&utm_source=git)** | Columbus, IN | On Site | Aug 06 |
 | **[Ohara Davies-Gaetano Interiors](https://odg-interiors.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6893a911a9199876488df0fa?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 06 |
 | **[Gesture](https://gesture.vip)** | **[Design Intern](https://jobright.ai/jobs/info/6893a798a9199876488df07a?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Aug 06 |
-| **[KZ_K STUDIO](https://kzkstudionyc.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6893a772f47efe2113965c68?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
-| **[Veritiv](https://www.veritiv.com)** | **[Packaging Trainee](https://jobright.ai/jobs/info/6893a083a9199876488deb40?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Aug 06 |
-| ↳ | **[Packaging Trainee](https://jobright.ai/jobs/info/68939f464c7e851b90aded1c?utm_campaign=1049&utm_source=git)** | West Sacramento, CA | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
