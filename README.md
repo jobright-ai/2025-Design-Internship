@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/689aeefb83d13d1f5b69e49c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 12 |
 | **[Osterlund Architects, PLLC](http://www.aoarchitect.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/689ad10883d13d1f5b69ca08?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Aug 11 |
 | **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Marketing plus Graphic Design - video Editor](https://jobright.ai/jobs/info/689acee85574fd6bc0c8626d?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Aviary Productions](https://www.linkedin.com/company/93796367)** | **[3D Prop Modeler](https://jobright.ai/jobs/info/689ab35f83d13d1f5b69b6a1?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Undergrad UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1a8983d13d1f5b6961ab?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | **[CAMI NYC](http://www.caminyc.com)** | **[Design Internship](https://jobright.ai/jobs/info/689a12f7faa4e875e8255ac8?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 11 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern](https://jobright.ai/jobs/info/687ef713764c3d7411c479c6?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Aug 11 |
+| **[Iowa Events Center](https://www.iowaeventscenter.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/689ae91583d13d1f5b69dd8e?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Aug 11 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Academic Success and Undergraduate Advising (ASUA), Graphic Designer - Student Assistant](https://jobright.ai/jobs/info/68990577faa4e875e8250fce?utm_campaign=1049&utm_source=git)** | San Bernardino, CA | On Site | Aug 10 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Design - Crew Resources (Spring 2026)](https://jobright.ai/jobs/info/687ba88f764c3d7411c349a4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Aug 10 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Aug 10 |
@@ -100,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/687ab0ad2097a271a89810a7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/687afddaed63844c944a6421?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Aug 09 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6880c9c629ad6b2744adbfbc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 09 |
+| **[Game Seven Agency](https://www.gameseven.agency/)** | **[Fall 2025 Associate, Graphic Design and Social Media](https://jobright.ai/jobs/info/689adccefaa4e875e825d26a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Gotham](http://beautyatgotham.com)** | **[Creative Intern, Gotham](https://jobright.ai/jobs/info/68983565faa4e875e824bca5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[ODK Media](https://www.odkmedia.net/)** | **[Visual and Graphic Design Intern (Unpaid)](https://jobright.ai/jobs/info/68984dbd5574fd6bc0c779b9?utm_campaign=1049&utm_source=git)** | Fullerton, CA | On Site | Aug 08 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Product Design Intern: NYC - Fall 2025](https://jobright.ai/jobs/info/68985b005574fd6bc0c78d52?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2025)](https://jobright.ai/jobs/info/6897540b73b3a600fe896fdb?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Aug 06 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall Internship - Footwear Design](https://jobright.ai/jobs/info/689459e34c7e851b90ae5724?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Gesture](https://gesture.vip)** | **[Design Intern](https://jobright.ai/jobs/info/6894271df47efe2113969f1c?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Aug 06 |
-| **[FIRST](https://firstagency.com/)** | **[Video Design Intern (Fall)](https://jobright.ai/jobs/info/68940421f47efe2113968b60?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
-| **[Cosm](https://www.cosm.com)** | **[Event Activations Intern](https://jobright.ai/jobs/info/6893ff26a9199876488e1a7c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 06 |
-| **[rag & bone](http://www.rag-bone.com)** | **[Fall Internship - Accessories Design](https://jobright.ai/jobs/info/6893fd5da9199876488e191f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
