@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aviary Productions](https://www.linkedin.com/company/93796367)** | **[3D Prop Modeler](https://jobright.ai/jobs/info/689ab35f83d13d1f5b69b6a1?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Creative Technologist, Vehicle User Interface (Winter/Spring 2026)](https://jobright.ai/jobs/info/689a9eb883d13d1f5b69a70b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Aug 11 |
 | **[Nightingale College](https://nightingale.edu/)** | **[P/T Specialist 1, Junior Designer - Temporary](https://jobright.ai/jobs/info/689a925083d13d1f5b699e88?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Remote | Aug 11 |
-| **[Grinnell College](http://www.grinnell.edu)** | **[S&B Graphic Designer/Illustrator](https://jobright.ai/jobs/info/689a90a3faa4e875e8259b78?utm_campaign=1049&utm_source=git)** | Grinnell, IA | On Site | Aug 11 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Internship_Remote](https://jobright.ai/jobs/info/689a824e5574fd6bc0c8320d?utm_campaign=1049&utm_source=git)** | Texas, United States | Remote | Aug 11 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/689a814a5574fd6bc0c8314d?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Aug 11 |
+| **[Grinnell College](http://www.grinnell.edu)** | **[S&B Graphic Designer/Illustrator](https://jobright.ai/jobs/info/689a90a3faa4e875e8259b78?utm_campaign=1049&utm_source=git)** | Grinnell, IA | On Site | Aug 11 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Media Supply Assistant (Student Position)](https://jobright.ai/jobs/info/689a7e4183d13d1f5b69951b?utm_campaign=1049&utm_source=git)** | Big Rapids, MI | On Site | Aug 11 |
 | ↳ | **[Kendall- Interior Design Asst (Student Position)](https://jobright.ai/jobs/info/689a7aca5574fd6bc0c82d62?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Aug 11 |
 | **[Chippewa Steel Hockey](https://www.chippewasteelhockey.com/)** | **[Unpaid Photography Internship](https://jobright.ai/jobs/info/689a77c6faa4e875e8258e76?utm_campaign=1049&utm_source=git)** | Chippewa Falls, WI | On Site | Aug 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Designer - Intern](https://jobright.ai/jobs/info/68890b9309808a6103e445e3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Philadelphia Wings Intern, Graphic Design](https://jobright.ai/jobs/info/6893e15af47efe21139679af?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Aug 06 |
 | **[Browning Day](http://bdmd.com)** | **[Architectural Internship - 2026](https://jobright.ai/jobs/info/6893d6e2a9199876488e0802?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 06 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Intern/Co-Op Fairfield Design Center](https://jobright.ai/jobs/info/6893b163a9199876488df5e5?utm_campaign=1049&utm_source=git)** | Fairfield, OH | On Site | Aug 06 |
-| ↳ | **[Intern/Co-Op Fairfield Design Center](https://jobright.ai/jobs/info/6893acf04c7e851b90adf677?utm_campaign=1049&utm_source=git)** | 300-FAIRFIELD DC, 3840 Port Union Road, Fairfield, Ohio, United States of America | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
