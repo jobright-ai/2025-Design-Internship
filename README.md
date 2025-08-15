@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Web/App Designer Intern](https://jobright.ai/jobs/info/689f5e7179a9f96662556617?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 15 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Multimedia Intern (Rochester, NY)](https://jobright.ai/jobs/info/689f8f52faa4e875e8289bb4?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Creative Writing Fall Internship Berkeley Startup (Unpaid)](https://jobright.ai/jobs/info/689f79b6b3e889632cf076c8?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Aug 15 |
 | **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Magazine Photo/Video/Podcast Internship](https://jobright.ai/jobs/info/689f5e4f83d13d1f5b6c60b7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/68662e8db301d8ad783d5c7c?utm_campaign=1049&utm_source=git)** | Houston, TX | Remote | Aug 15 |
 | **[Vocal Media](https://vocal-media.io/)** | **[AI Creative & Content Intern](https://jobright.ai/jobs/info/689f423479a9f96662555683?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 15 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Social Media Content Creator (Volunteer - Unpaid)](https://jobright.ai/jobs/info/689e761783d13d1f5b6bccec?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO) – Auto Design Summer Internship](https://jobright.ai/jobs/info/689e7601faa4e875e827cd24?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | On Site | Aug 14 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Design Co-op Spring 2026](https://jobright.ai/jobs/info/689e716979a9f9666254ccd0?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 14 |
-| **[DeepFlows](https://deepflows.ai/)** | **[Content Creator & Designer](https://jobright.ai/jobs/info/689e5fcdfaa4e875e827b53f?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Aug 14 |
 | **[Daily Mail US](http://www.dailymail.com)** | **[US Creative Intern](https://jobright.ai/jobs/info/689e7ea179a9f9666254d1ee?utm_campaign=1049&utm_source=git)** | New York City | On Site | Aug 14 |
 | **[Bitarchitects](http://bitarchitectsllc.com)** | **[Architecture And Interior Design Internship](https://jobright.ai/jobs/info/689ea99779a9f9666254e825?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 14 |
 | **[The Clever Factory Inc.](http://cleverfactory.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/689ebe81faa4e875e8280c56?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Aug 14 |
@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Atrato](https://www.atratopago.com)** | **[Design Intern](https://jobright.ai/jobs/info/689e5464faa4e875e827b0d2?utm_campaign=1049&utm_source=git)** | Fully Remote | Remote | Aug 13 |
 | **[alice + olivia](http://www.aliceandolivia.com)** | **[Design Intern (Fall)](https://jobright.ai/jobs/info/689d24f783d13d1f5b6ad7bd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Pantomath](https://pantomath.com)** | **[UI/UX Design Co-op](https://jobright.ai/jobs/info/689d74a883d13d1f5b6b04df?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 13 |
-| **[House Of PR](https://www.houseof.nyc/)** | **[FALL Internship - LOS ANGELES SHOWROOM](https://jobright.ai/jobs/info/689d8da4faa4e875e82717c6?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern (Real Estate - Space Planning)](https://jobright.ai/jobs/info/689cfe3e79a9f9666253cd4e?utm_campaign=1049&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Aug 13 |
 | **[Custer, Inc.](http://www.custerinc.com)** | **[Copy of Interior Design Intern](https://jobright.ai/jobs/info/689cfb8283d13d1f5b6ac761?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Aug 13 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern (Real Estate - Space Planning)](https://jobright.ai/jobs/info/689cfb7083d13d1f5b6ac709?utm_campaign=1049&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Aug 13 |
@@ -122,9 +121,9 @@ For a complete list, click the following sortable link below:
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/689ce628faa4e875e826bb63?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 13 |
 | ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/689ce345faa4e875e826b9d9?utm_campaign=1049&utm_source=git)** | Washington, D.C. | On Site | Aug 13 |
 | ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/689ce30879a9f9666253bef6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 13 |
-| ↳ | **[Product Designer, Internship](https://jobright.ai/jobs/info/689ce2e983d13d1f5b6abac1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[UX Woman](https://www.uxwoman.com/)** | **[Entry Level Product Design Apprenticeship](https://jobright.ai/jobs/info/689ce2e2faa4e875e826b86d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Aug 13 |
-| ↳ | **[Entry Level UX Research Apprenticeship](https://jobright.ai/jobs/info/689cdf86faa4e875e826b71b?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Aug 13 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship](https://jobright.ai/jobs/info/689ce2d979a9f9666253be65?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 13 |
+| **[UX Woman](https://www.uxwoman.com/)** | **[Entry Level UX Research Apprenticeship](https://jobright.ai/jobs/info/689cdf86faa4e875e826b71b?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Aug 13 |
 | **[Anthro-Tech, Inc.](http://anthro-tech.com/)** | **[Content Strategist (Temporary W2)](https://jobright.ai/jobs/info/689cdf3583d13d1f5b6ab659?utm_campaign=1049&utm_source=git)** | Remote, or hybrid in Seattle/Olympia, WA | Remote | Aug 13 |
 | **[Hawkins Partners Inc](https://www.hawkinspartners.com)** | **[INTERN LANDSCAPE DESIGNER/URBAN DESIGNER – URBAN DESIGN FOCUS](https://jobright.ai/jobs/info/689cdf3479a9f9666253b9cd?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Aug 13 |
 | **[onsemi](http://www.onsemi.com)** | **[Spring 2026 - Product Design Intern](https://jobright.ai/jobs/info/689cdefe83d13d1f5b6ab523?utm_campaign=1049&utm_source=git)** | 5701 N Pima Road, Scottsdale, AZ, 85250, US | Hybrid | Aug 13 |
@@ -142,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c1f78faa4e875e8266289?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Aug 12 |
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c1c8d79a9f96662536614?utm_campaign=1049&utm_source=git)** | Fort Myers, FL | On Site | Aug 12 |
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c1c7179a9f966625365e7?utm_campaign=1049&utm_source=git)** | Green Cove Springs, FL | On Site | Aug 12 |
-| ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c1c6279a9f966625365c5?utm_campaign=1049&utm_source=git)** | Starke, FL | On Site | Aug 12 |
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c1c6279a9f966625365cb?utm_campaign=1049&utm_source=git)** | Pompano Beach, FL | On Site | Aug 12 |
+| ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c1c6279a9f966625365c5?utm_campaign=1049&utm_source=git)** | Starke, FL | On Site | Aug 12 |
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c1c3c79a9f9666253654d?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 12 |
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c1c1efaa4e875e82661c1?utm_campaign=1049&utm_source=git)** | Bradenton, FL | On Site | Aug 12 |
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c1c0bfaa4e875e8266198?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Aug 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c196d79a9f9666253647e?utm_campaign=1049&utm_source=git)** | Cutler Bay, FL | On Site | Aug 12 |
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c195779a9f966625363fd?utm_campaign=1049&utm_source=git)** | Chipley, FL | On Site | Aug 12 |
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c195679a9f966625363f7?utm_campaign=1049&utm_source=git)** | Ocoee, FL | On Site | Aug 12 |
+| ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c1930faa4e875e8265ffe?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
