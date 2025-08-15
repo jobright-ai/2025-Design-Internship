@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lillup](https://www.lillup.com/)** | **[UX UI Product Design Interns – (Remote, Unpaid)](https://jobright.ai/jobs/info/689f0dd1faa4e875e82843b9?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Aug 15 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/68662e8db301d8ad783d5c7c?utm_campaign=1049&utm_source=git)** | Houston, TX | Remote | Aug 15 |
+| **[Vocal Media](https://vocal-media.io/)** | **[AI Creative & Content Intern](https://jobright.ai/jobs/info/689f423479a9f96662555683?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 15 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[UX Research Intern at WoafMeow](https://jobright.ai/jobs/info/689f406a83d13d1f5b6c508a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Aug 15 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CMF Industrial Design Co-op (September through February)](https://jobright.ai/jobs/info/689ec91179a9f966625512ac?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 14 |
 | **[Side Quest](https://www.linkedin.com/company/106831212)** | **[Content Creation + Graphic Design Internship (UNPAID)](https://jobright.ai/jobs/info/689e9d2a79a9f9666254e474?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Silimate (YC S23)](https://www.silimate.com/)** | **[Design/UI/UX Intern](https://jobright.ai/jobs/info/689e99dcfaa4e875e827e0f7?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | Aug 14 |
@@ -85,9 +87,12 @@ For a complete list, click the following sortable link below:
 | **[Summit Fire & Security](https://summitfiresecurity.com)** | **[Designer, Trainee](https://jobright.ai/jobs/info/689e424dfaa4e875e8278f6d?utm_campaign=1049&utm_source=git)** | Portsmouth, VA | On Site | Aug 14 |
 | **[iLABS (Innovation Labs) Inc.](https://ilabsus.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/689e322183d13d1f5b6b7a72?utm_campaign=1049&utm_source=git)** | Mahwah, NJ | On Site | Aug 14 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: CMF Industrial Design Co-op (September through February)](https://jobright.ai/jobs/info/689e2f2afaa4e875e82777df?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 14 |
+| **[Glass Staircase](https://www.glassstaircase.org)** | **[Creative Agency Fall Internship](https://jobright.ai/jobs/info/689f3ace79a9f966625552f0?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Aug 14 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Graphic Designers](https://jobright.ai/jobs/info/689ed59979a9f96662551c1c?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
-| **[Eugenia Kim](https://eugeniakim.com)** | **[Photographer/Social Media Intern](https://jobright.ai/jobs/info/689df9ff79a9f96662545f99?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 14 |
+| **[Monogram That! and Classic Trophies](http://www.Teammonogramthat.com)** | **[Graphic Designer/Marketing/Production Internship](https://jobright.ai/jobs/info/689eea1679a9f96662553bc9?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | On Site | Aug 14 |
+| **[Spirit Music Group](http://www.spiritmusicgroup.com/)** | **[Intern, Creative Administration](https://jobright.ai/jobs/info/689f466dfaa4e875e82857cd?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Aug 14 |
 | **[Lele Sadoughi](http://www.lelesadoughi.com)** | **[Photographer intern](https://jobright.ai/jobs/info/689df9d379a9f96662545e9b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 14 |
+| **[HOK](http://www.hok.com/)** | **[Interiors Student Intern (SF)](https://jobright.ai/jobs/info/689f409583d13d1f5b6c5143?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Aug 14 |
 | **[Ritter Maher Architects](http://www.rittermaher.com)** | **[Licensed Architect or Experienced Intern Architect](https://jobright.ai/jobs/info/689ecb77faa4e875e8281694?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Aug 14 |
 | **[CFD Companies](https://www.cfdinvestments.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/689de08179a9f96662545312?utm_campaign=1049&utm_source=git)** | Kokomo, IN | On Site | Aug 14 |
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Fashion Internship in Paris](https://jobright.ai/jobs/info/689edd7e79a9f96662552d71?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c195679a9f966625363f7?utm_campaign=1049&utm_source=git)** | Ocoee, FL | On Site | Aug 12 |
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c1930faa4e875e8265ffe?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Aug 12 |
 | ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c192d79a9f9666253631c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Aug 12 |
-| ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c1927faa4e875e8265fdc?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 12 |
-| ↳ | **[Returning Graphic Design Intern - Summer 2025 (Southeast Division) (For Current/Previous HNTB Interns ONLY)](https://jobright.ai/jobs/info/689c182f83d13d1f5b6a5eef?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Aug 12 |
-| **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Graphic Design Intern / Fall 2025](https://jobright.ai/jobs/info/689be30dfaa4e875e826432a?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 12 |
-| ↳ | **[Graphic Design Intern / Spring 2026](https://jobright.ai/jobs/info/689be30483d13d1f5b6a437a?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 12 |
-| **[Charleston Battery](https://www.charlestonbattery.com)** | **[Photography Intern](https://jobright.ai/jobs/info/689bc77279a9f96662533a1d?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
