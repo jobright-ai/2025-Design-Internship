@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYC Campaign Finance Board](http://www.nyccfb.info)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a4b42fe9f1c744da123715?utm_campaign=1049&utm_source=git)** | Manhattan, NY | Hybrid | Aug 19 |
+| **[MCD Partners](https://mcdpartners.com)** | **[Design Intern](https://jobright.ai/jobs/info/68a4b258541cc3479840d16a?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Aug 19 |
+| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Web/App Design Internship](https://jobright.ai/jobs/info/68a4aecb2d2a252445cd8569?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 19 |
+| **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4a76a2d2a252445cd8272?utm_campaign=1049&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Aug 19 |
 | **[City of New York](http://www1.nyc.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a493e2e9f1c744da1229fd?utm_campaign=1049&utm_source=git)** | Manhattan, NY | Hybrid | Aug 19 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Fall 2025 Architecture Intern](https://jobright.ai/jobs/info/68a482a3e9f1c744da122273?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Aug 19 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/689ce628faa4e875e826bb63?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[upskill](https://www.connectupskill.com)** | **[Digital Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/68a47304e9f1c744da121e47?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Aug 19 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Creative Services Intern - Fall Semester](https://jobright.ai/jobs/info/6887da4b73e3e13cbd940949?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c09e7faa4e875e8264f85?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
@@ -68,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Calyx Containers](https://calyxcontainers.com/)** | **[Graphic Design & Social Media Intern (Part-Time)Graphic Design & Social Media Intern (Part-Time)](https://jobright.ai/jobs/info/68a41e33541cc3479840aa31?utm_campaign=1049&utm_source=git)** | West Valley City, UT | Hybrid | Aug 18 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68a412b72d2a252445cd57f5?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Aug 18 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Graphic Designer & Video Creation (Intern)](https://jobright.ai/jobs/info/68a40cb7e9f1c744da1202f9?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Aug 18 |
-| **[Imagine Ink Studio](www.imagineinkstudio.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68a408d8e9f1c744da1201ee?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Aug 18 |
 | **[GALLO](https://www.gallo.com)** | **[Intern Creative Services 2026](https://jobright.ai/jobs/info/68a3d2121ab5f8579e8a89d9?utm_campaign=1049&utm_source=git)** | Modesto, CA | Hybrid | Aug 18 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68a3ca4337d3cc6b0d5798b1?utm_campaign=1049&utm_source=git)** | Costa Mesa, California, United States | On Site | Aug 18 |
 | **[American University](http://american.edu)** | **[Undergraduate Newsletter Assistant (Student)](https://jobright.ai/jobs/info/68a3c515403ad4363b1c3a26?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 18 |
@@ -84,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68a372ee1ab5f8579e8a59eb?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Aug 18 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/68a41da0541cc3479840a846?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Charlotte Independence](https://www.charlotteindependence.com)** | **[Fall 2025 Internship: Photography and Videography](https://jobright.ai/jobs/info/68a361fc37d3cc6b0d57663b?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Aug 18 |
-| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Apparel Design Internship in Paris](https://jobright.ai/jobs/info/68a35d5c37d3cc6b0d5763b6?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 18 |
 | **[Arcade](https://www.arcade.ai)** | **[Product Design Intern](https://jobright.ai/jobs/info/68827d1ab54cac0f1e72fcea?utm_campaign=1049&utm_source=git)** | Presidio, CA | On Site | Aug 18 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Design Intern - Chicago](https://jobright.ai/jobs/info/68a347d01ab5f8579e8a4514?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | Aug 18 |
 | **[Beacon Parent](www.BeaconParent.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a3f691e9f1c744da11f700?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Aug 18 |
@@ -96,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Graphic Design Intern - Fall Recruitment (Hybrid - MD/DC/VA)](https://jobright.ai/jobs/info/68a2f5f5ff570d7ffd65e835?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Aug 18 |
 | **[Green Bay Packaging](https://gbp.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68a2626dcc9ee94dc9124c55?utm_campaign=1049&utm_source=git)** | De Pere, WI | On Site | Aug 17 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Future Product Innovation Research Intern, HCI Creativity](https://jobright.ai/jobs/info/6867bf2b35584b654236b0dd?utm_campaign=1049&utm_source=git)** | Los Altos, CA | Hybrid | Aug 17 |
-| **[Wichita State University](http://www.wichita.edu)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/68a1aeea83d13d1f5b6d4e39?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Aug 17 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6883a94a835a903aa07f6a7c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | **[Corgan](http://www.corgan.com/)** | **[Los Angeles Student Architectural Internship / Fall 2025](https://jobright.ai/jobs/info/6883f804835a903aa07f974a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 16 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[3D & 2D Design Intern](https://jobright.ai/jobs/info/68848f944174df41e0f94bbb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 16 |
@@ -115,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6d283d13d1f5b6cbc0e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c4cc9ee94dc911a911?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c1faa4e875e828bdfc?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
-| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbbf?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbc1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbbf?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6afcc9ee94dc911a8cf?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe69dcc9ee94dc911a87c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d80faa4e875e828d1c1?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70ecc9ee94dc911954a?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fb703faa4e875e828aa2a?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6fbcc9ee94dc91194c7?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
-| ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6f2faa4e875e828a9ea?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6f283d13d1f5b6ca859?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
-| ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6f183d13d1f5b6ca848?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
