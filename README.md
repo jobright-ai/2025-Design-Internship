@@ -72,6 +72,7 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | ↳ | **[UX Career Changer Apprenticeship](https://jobright.ai/jobs/info/68a54265758f2e4ac3fdd330?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68a4cc6fcbe7dc676dc3487c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[GRAPHIC DESIGN INTERNSHIP](https://jobright.ai/jobs/info/68a4cc02cbe7dc676dc346c6?utm_campaign=1049&utm_source=git)** | Bethlehem, PA | On Site | Aug 19 |
+| **[KIPP Atlanta Schools](http://www.kippmetroatlanta.org)** | **[Graphic Design & Communications Intern](https://jobright.ai/jobs/info/68a59b2533dd7158bbc9b33f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4c73ae9f1c744da12416f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | ↳ | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4c51de9f1c744da123de5?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 | **[Musco Lighting](http://www.musco.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a4c0ade9f1c744da123c0f?utm_campaign=1049&utm_source=git)** | Oskaloosa, IA | On Site | Aug 19 |
@@ -135,8 +136,8 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6d283d13d1f5b6cbc0e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c4cc9ee94dc911a911?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c1faa4e875e828bdfc?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
-| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbbf?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbc1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbbf?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6afcc9ee94dc911a8cf?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe69dcc9ee94dc911a87c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d80faa4e875e828d1c1?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
@@ -157,5 +158,4 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | ↳ | **[Photography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b7cc9ee94dc911a6c3?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b083d13d1f5b6cb9dc?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0af83d13d1f5b6cb9d1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
-| ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0abfaa4e875e828bc28?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
