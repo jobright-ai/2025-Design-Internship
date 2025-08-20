@@ -76,7 +76,6 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | ↳ | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4c51de9f1c744da123de5?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 | **[Musco Lighting](http://www.musco.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a4c0ade9f1c744da123c0f?utm_campaign=1049&utm_source=git)** | Oskaloosa, IA | On Site | Aug 19 |
 | **[NYC Campaign Finance Board](http://www.nyccfb.info)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a4b42fe9f1c744da123715?utm_campaign=1049&utm_source=git)** | Manhattan, NY | Hybrid | Aug 19 |
-| **[MCD Partners](https://mcdpartners.com)** | **[Design Intern](https://jobright.ai/jobs/info/68a4b258541cc3479840d16a?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Aug 19 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4a76a2d2a252445cd8272?utm_campaign=1049&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Aug 19 |
 | **[City of New York](http://www1.nyc.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a493e2e9f1c744da1229fd?utm_campaign=1049&utm_source=git)** | Manhattan, NY | Hybrid | Aug 19 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/689ce30879a9f9666253bef6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 19 |
@@ -158,4 +157,5 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | ↳ | **[Photography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b7cc9ee94dc911a6c3?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b083d13d1f5b6cb9dc?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0af83d13d1f5b6cb9d1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0abfaa4e875e828bc28?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
