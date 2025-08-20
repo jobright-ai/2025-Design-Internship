@@ -118,6 +118,7 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Graphic Design Intern - Fall Recruitment (Hybrid - MD/DC/VA)](https://jobright.ai/jobs/info/68a2f5f5ff570d7ffd65e835?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Aug 18 |
 | **[Green Bay Packaging](https://gbp.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68a2626dcc9ee94dc9124c55?utm_campaign=1049&utm_source=git)** | De Pere, WI | On Site | Aug 17 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Future Product Innovation Research Intern, HCI Creativity](https://jobright.ai/jobs/info/6867bf2b35584b654236b0dd?utm_campaign=1049&utm_source=git)** | Los Altos, CA | Hybrid | Aug 17 |
+| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Landscape Architect](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6883a94a835a903aa07f6a7c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | **[Corgan](http://www.corgan.com/)** | **[Los Angeles Student Architectural Internship / Fall 2025](https://jobright.ai/jobs/info/6883f804835a903aa07f974a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 16 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[3D & 2D Design Intern](https://jobright.ai/jobs/info/68848f944174df41e0f94bbb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 16 |
@@ -136,8 +137,8 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6d283d13d1f5b6cbc0e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c4cc9ee94dc911a911?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c1faa4e875e828bdfc?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
-| ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbc1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbbf?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
+| ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbc1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6afcc9ee94dc911a8cf?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe69dcc9ee94dc911a87c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d80faa4e875e828d1c1?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
@@ -157,5 +158,4 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | ↳ | **[Photography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b8faa4e875e828bc51?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Photography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b7cc9ee94dc911a6c3?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b083d13d1f5b6cb9dc?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
-| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0af83d13d1f5b6cb9d1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
