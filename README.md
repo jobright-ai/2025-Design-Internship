@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ai2Market](https://ai2market.com/)** | **[Graphic Ai](https://jobright.ai/jobs/info/68a5f6edb6a3617d7fa74414?utm_campaign=1049&utm_source=git)** | Laguna Beach, CA | Remote | Aug 20 |
+| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, BDO Digital, Client Experience - Summer 2026 (Oak Brook)](https://jobright.ai/jobs/info/68a6216b758f2e4ac3fe2e97?utm_campaign=1049&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 20 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a61bec758f2e4ac3fe2c00?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 20 |
+| **[ArtsQuest](http://www.artsquest.org/)** | **[Copy Of GRAPHIC DESIGN INTERNSHIP](https://jobright.ai/jobs/info/68a61aaa758f2e4ac3fe290b?utm_campaign=1049&utm_source=git)** | Bethlehem, PA | On Site | Aug 20 |
+| **[U.S. Bank](http://www.usbank.com)** | **[2026 Experience Design Summer Intern](https://jobright.ai/jobs/info/68a6166d33dd7158bbc9d887?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 20 |
+| **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO) – SUB-D/Blender Digital Modeler Summer Internship](https://jobright.ai/jobs/info/68a610bb33dd7158bbc9d70b?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 20 |
+| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Web/App Design Intern](https://jobright.ai/jobs/info/68a626df758f2e4ac3fe3293?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 20 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Experience Design Summer Intern](https://jobright.ai/jobs/info/68a5eaae758f2e4ac3fe1503?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 20 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Graphic Designer & Video Creation (Intern)](https://jobright.ai/jobs/info/68a5d7ceb6a3617d7fa7389a?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Aug 20 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer (Summer 2025)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0c992?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Aug 20 |
@@ -131,6 +136,7 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Packaging Design](https://jobright.ai/jobs/info/682e66f64de36dfb980acce5?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/68a019a5cc9ee94dc911c5ee?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Aug 16 |
 | **[Boston Bioprocess](https://www.bostonbioprocess.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/68a028aefaa4e875e828ed9b?utm_campaign=1049&utm_source=git)** | Champaign, IL | On Site | Aug 15 |
+| **[MIRA Safety](https://www.mirasafety.com)** | **[On-site Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/68a010b283d13d1f5b6cd0f1?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Aug 15 |
 | **[Cherry Hill Programs](https://www.cherryhillprograms.com)** | **[Photography/Retail Internship: Fall 2025 - Hearst Castle ** Candidates eligible to receive up to $200 monthly gas incentive**](https://jobright.ai/jobs/info/689ffa23faa4e875e828c69d?utm_campaign=1049&utm_source=git)** | San Simeon, CA | Hybrid | Aug 15 |
 | ↳ | **[Photography/Retail Internship: Fall 2025 - Phoenix Zoo](https://jobright.ai/jobs/info/689ff9ac83d13d1f5b6cc4bf?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 15 |
 | ↳ | **[Photography/Retail Internship: Fall 2025 - Charleston](https://jobright.ai/jobs/info/689ff9a583d13d1f5b6cc495?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | Hybrid | Aug 15 |
@@ -141,8 +147,8 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6d283d13d1f5b6cbc0e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c4cc9ee94dc911a911?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c1faa4e875e828bdfc?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
-| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbbf?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbc1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbbf?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6afcc9ee94dc911a8cf?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe69dcc9ee94dc911a87c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d80faa4e875e828d1c1?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
@@ -152,10 +158,4 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68a00c47cc9ee94dc911bb9e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3cccc9ee94dc911a7da?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3bffaa4e875e828bd31?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
-| ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3a4faa4e875e828bd0a?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
-| ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe39783d13d1f5b6cbac4?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
-| **[Awardco](https://www.award.co)** | **[UX Design Intern](https://jobright.ai/jobs/info/689fe390faa4e875e828bd03?utm_campaign=1049&utm_source=git)** | Lindon, UT | On Site | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Photography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe37c83d13d1f5b6cba9b?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
-| ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c483d13d1f5b6cba13?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
-| ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0bfcc9ee94dc911a6e1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
