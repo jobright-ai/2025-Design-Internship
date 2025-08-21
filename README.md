@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VITA ESTATES](vitaestates.com)** | **[Visual Branding Intern / Unpaid Internship / Part-time](https://jobright.ai/jobs/info/68a73ec6d627244576e2ab2c?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | Hybrid | Aug 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[User Experience (UX) Design and Research Specialist](https://jobright.ai/jobs/info/68a6dbecb6a3617d7fa7b024?utm_campaign=1049&utm_source=git)** | Moscow, ID | On Site | Aug 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c09e7faa4e875e8264f85?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Graphic Designer & Video Creation (Intern)](https://jobright.ai/jobs/info/68a6a419758f2e4ac3fe664c?utm_campaign=1049&utm_source=git)** | New York County, NY | Remote | Aug 20 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Sports Poll Social Media Graphic Design Intern - 2025/26](https://jobright.ai/jobs/info/68a6a413758f2e4ac3fe6631?utm_campaign=1049&utm_source=git)** | South Orange, NJ | On Site | Aug 20 |
 | **[Aviary Productions](https://www.linkedin.com/company/93796367)** | **[Prop Artist](https://jobright.ai/jobs/info/68a68c5633dd7158bbca0874?utm_campaign=1049&utm_source=git)** | Florida, United States | On Site | Aug 20 |
@@ -101,8 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architecture Internship- Life Sciences](https://jobright.ai/jobs/info/68a63d1733dd7158bbc9eec5?utm_campaign=1049&utm_source=git)** | Lenexa, KS | On Site | Aug 19 |
 | **[Connecticut Office of Statewide Marketing & Tourism](https://www.ctvisit.com)** | **[Creative Ambassador](https://jobright.ai/jobs/info/68a543e7b6a3617d7fa6ffd5?utm_campaign=1049&utm_source=git)** | Greater Hartford | Hybrid | Aug 19 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/68a4f972758f2e4ac3fdb0ef?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Aug 19 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Communications & Graphic Design Intern
-Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 19 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Return Product Design Intern - Apartments.com](https://jobright.ai/jobs/info/68a4dd8ee9f1c744da124fae?utm_campaign=1049&utm_source=git)** | US-GA Atlanta | On Site | Aug 19 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly- Design Print Lab Monitor](https://jobright.ai/jobs/info/68a4d927e9f1c744da124ec8?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 19 |
 | ↳ | **[Student SAC Text Editor](https://jobright.ai/jobs/info/68a4d84be9f1c744da124da6?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 19 |
@@ -126,7 +126,6 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c498a906ac06e1d1d2b12?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Creative Services Intern - Fall Semester](https://jobright.ai/jobs/info/6887da4b73e3e13cbd940949?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c35cd906ac06e1d1d1c1c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
-| ↳ | **[Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c09e7faa4e875e8264f85?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | ↳ | **[Content Designer Intern [TikTok-Design-Content Design and Product Writing]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c194179a9f96662536385?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[Calyx Containers](https://calyxcontainers.com/)** | **[Graphic Design & Social Media Intern (Part-Time)Graphic Design & Social Media Intern (Part-Time)](https://jobright.ai/jobs/info/68a41e33541cc3479840aa31?utm_campaign=1049&utm_source=git)** | West Valley City, UT | Hybrid | Aug 18 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68a412b72d2a252445cd57f5?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Aug 18 |
