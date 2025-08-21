@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[UX Research & Design Internship](https://jobright.ai/jobs/info/68a75a67758f2e4ac3feb677?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 21 |
+| **[Talentix](https://www.thetalentix.com)** | **[User Experience Designer Intern](https://jobright.ai/jobs/info/68a76fdf758f2e4ac3fec19a?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Aug 21 |
+| **[My Monthly](https://www.mymonthly.io)** | **[Fall Illustration Intern](https://jobright.ai/jobs/info/68a7675a33dd7158bbca6bf5?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Aug 21 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Photography Internship](https://jobright.ai/jobs/info/68a75418d627244576e2b7aa?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 21 |
 | **[nüülee](https://www.linkedin.com/company/105849216)** | **[Fall Studio Intern](https://jobright.ai/jobs/info/68a7528d33dd7158bbca62e4?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Aug 21 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a750cd758f2e4ac3feb05c?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Toyota Research Institute](http://www.tri.global)** | **[Future Product Innovation Research Intern, HCI Creativity](https://jobright.ai/jobs/info/6867bf2b35584b654236b0dd?utm_campaign=1049&utm_source=git)** | Los Altos, CA | Hybrid | Aug 17 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Landscape Architect](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6883a94a835a903aa07f6a7c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
-| **[Corgan](http://www.corgan.com/)** | **[Los Angeles Student Architectural Internship / Fall 2025](https://jobright.ai/jobs/info/6883f804835a903aa07f974a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
