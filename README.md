@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Graphic Designer & Video Creation (Intern)](https://jobright.ai/jobs/info/68a6a419758f2e4ac3fe664c?utm_campaign=1049&utm_source=git)** | New York County, NY | Remote | Aug 20 |
+| **[Seton Hall University](http://www.shu.edu/)** | **[Sports Poll Social Media Graphic Design Intern - 2025/26](https://jobright.ai/jobs/info/68a6a413758f2e4ac3fe6631?utm_campaign=1049&utm_source=git)** | South Orange, NJ | On Site | Aug 20 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[App UX/UI Creative Fall Internship Berkeley Startup (Unpaid)](https://jobright.ai/jobs/info/68a697fbb6a3617d7fa787ec?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Hybrid | Aug 20 |
 | **[Aviary Productions](https://www.linkedin.com/company/93796367)** | **[Prop Artist](https://jobright.ai/jobs/info/68a68c5633dd7158bbca0874?utm_campaign=1049&utm_source=git)** | Florida, United States | On Site | Aug 20 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a6832eb6a3617d7fa77dab?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 20 |
@@ -80,8 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a630f5758f2e4ac3fe36ef?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 20 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a630bc758f2e4ac3fe3673?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, BDO Digital, Client Experience - Summer 2026 (Oak Brook)](https://jobright.ai/jobs/info/68a6216b758f2e4ac3fe2e97?utm_campaign=1049&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 20 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a61bec758f2e4ac3fe2c00?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 20 |
-| **[ArtsQuest](http://www.artsquest.org/)** | **[Copy Of GRAPHIC DESIGN INTERNSHIP](https://jobright.ai/jobs/info/68a61aaa758f2e4ac3fe290b?utm_campaign=1049&utm_source=git)** | Bethlehem, PA | On Site | Aug 20 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a61ab7758f2e4ac3fe2935?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 20 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Experience Design Summer Intern](https://jobright.ai/jobs/info/68a6166d33dd7158bbc9d887?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 20 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO) – SUB-D/Blender Digital Modeler Summer Internship](https://jobright.ai/jobs/info/68a610bb33dd7158bbc9d70b?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 20 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Experience Design Summer Intern](https://jobright.ai/jobs/info/68a5eaae758f2e4ac3fe1503?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 20 |
@@ -150,12 +151,11 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a54428b6a3617d7fa7006b?utm_camp
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Web Designer](https://jobright.ai/jobs/info/67c0260ef283c02615bf472e?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 18 |
 | **[ECU Health](http://www.ECUHealth.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/68a2fcfd403ad4363b1be3dd?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Aug 18 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Graphic Design Intern - Fall Recruitment (Hybrid - MD/DC/VA)](https://jobright.ai/jobs/info/68a2f5f5ff570d7ffd65e835?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Aug 18 |
+| **[Wichita State University](http://www.wichita.edu)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/68a6a16d33dd7158bbca1537?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Aug 17 |
 | **[Green Bay Packaging](https://gbp.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68a2626dcc9ee94dc9124c55?utm_campaign=1049&utm_source=git)** | De Pere, WI | On Site | Aug 17 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Future Product Innovation Research Intern, HCI Creativity](https://jobright.ai/jobs/info/6867bf2b35584b654236b0dd?utm_campaign=1049&utm_source=git)** | Los Altos, CA | Hybrid | Aug 17 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Landscape Architect](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6883a94a835a903aa07f6a7c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | **[Corgan](http://www.corgan.com/)** | **[Los Angeles Student Architectural Internship / Fall 2025](https://jobright.ai/jobs/info/6883f804835a903aa07f974a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 16 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[3D & 2D Design Intern](https://jobright.ai/jobs/info/68848f944174df41e0f94bbb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 16 |
-| **[Game Seven Agency](https://www.gameseven.agency/)** | **[Fall 2025 Associate, Graphic Design and Social Media](https://jobright.ai/jobs/info/68a14bedfaa4e875e8292cb3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 16 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Packaging Design](https://jobright.ai/jobs/info/682e66f64de36dfb980acce5?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
