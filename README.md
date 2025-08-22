@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern](https://jobright.ai/jobs/info/68a88f31758f2e4ac3ff3534?utm_campaign=1049&utm_source=git)** | CO, Colorado Springs | On Site | Aug 22 |
+| **[Gradxiety](https://gradxiety.com)** | **[Graphics Intern - Gradxiety Newsletter](https://jobright.ai/jobs/info/68a88bce758f2e4ac3ff3242?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 22 |
 | **[ChiChi](https://chickpeaoats.com)** | **[Social Media Creative Strategist Internship](https://jobright.ai/jobs/info/68a83326758f2e4ac3ff1a31?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Aug 22 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[SAC Text Editor – Student Hourly](https://jobright.ai/jobs/info/68a829b0d627244576e31c31?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 22 |
 | **[LVMH](https://www.lvmh.com/)** | **[3D & 2D Design Intern](https://jobright.ai/jobs/info/68a7fb64d627244576e2ffc5?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 21 |
@@ -67,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Motion Designer](https://jobright.ai/jobs/info/68a7c18d33dd7158bbca9556?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Aug 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68a7bf9fd627244576e2e60f?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Bachelors - Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68a7b3e8758f2e4ac3fedda3?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Aug 21 |
+| **[Ner!ah, LLC](https://calendly.com/fridaynj)** | **[Creative Design Intern](https://jobright.ai/jobs/info/68a869e86acf96396f71fc05?utm_campaign=1049&utm_source=git)** | Chapel Hill, NC | On Site | Aug 21 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/689fd0defaa4e875e828b4e6?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Photography Internship](https://jobright.ai/jobs/info/68a75418d627244576e2b7aa?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 21 |
-| **[nüülee](https://www.nuulee.nyc)** | **[Fall Studio Intern](https://jobright.ai/jobs/info/68a7528d33dd7158bbca62e4?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Aug 21 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a750cd758f2e4ac3feb05c?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 21 |
 | **[SAYN](https://saynbeauty.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a74b1b758f2e4ac3feac34?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 21 |
 | **[VITA ESTATES](vitaestates.com)** | **[Visual Branding Intern / Unpaid Internship / Part-time](https://jobright.ai/jobs/info/68a73ec6d627244576e2ab2c?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | Hybrid | Aug 21 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - UX/Market Research Intern](https://jobright.ai/jobs/info/68a308f2403ad4363b1be657?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Hybrid | Aug 20 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Communications & Graphic Design Intern
 Job ID : 261967](https://jobright.ai/jobs/info/68a7f9d2d627244576e2fcfe?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 19 |
-| **[RightOn Education](https://www.rightoneducation.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/68a53d2ab6a3617d7fa6fb0e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 19 |
 | **[America's CAR-MART, Inc.](http://www.car-mart.com/)** | **[Marketing Intern - Graphic Design Focus](https://jobright.ai/jobs/info/68a530c7758f2e4ac3fdca1a?utm_campaign=1049&utm_source=git)** | Rogers, AR | On Site | Aug 19 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/68a5207f33dd7158bbc97539?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 19 |
 | **[GBA](http://gbateam.com)** | **[Architecture Internship- Life Sciences](https://jobright.ai/jobs/info/68a63e20b6a3617d7fa76758?utm_campaign=1049&utm_source=git)** | Broomfield, CO | On Site | Aug 19 |
@@ -157,5 +158,4 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a7f9d2d627244576e2fcfe?utm_camp
 | **[Ruff Start Rescue ®](http://www.ruffstartrescue.org/)** | **[Volunteer: Graphic Designer](https://jobright.ai/jobs/info/68a3841f1ab5f8579e8a68d7?utm_campaign=1049&utm_source=git)** | Osseo, MN | On Site | Aug 18 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/68a41da0541cc3479840a846?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Design Intern - Chicago](https://jobright.ai/jobs/info/68a347d01ab5f8579e8a4514?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | Aug 18 |
-| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Visual Effects Artist](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36d7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
