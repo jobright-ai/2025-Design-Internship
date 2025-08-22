@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ámaxa](https://www.amaxaimpact.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a8a28e758f2e4ac3ff3eca?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 22 |
+| **[Austin Community College](http://austincc.edu)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68a89ad96acf96396f7212a1?utm_campaign=1049&utm_source=git)** | Highland Campus | On Site | Aug 22 |
+| **[Botanical Garden of the Ozarks](https://bgozarks.org)** | **[Paid Internship - Marketing & Graphic Design](https://jobright.ai/jobs/info/68a899376acf96396f721015?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | Hybrid | Aug 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern](https://jobright.ai/jobs/info/68a88f31758f2e4ac3ff3534?utm_campaign=1049&utm_source=git)** | CO, Colorado Springs | On Site | Aug 22 |
-| **[Gradxiety](https://gradxiety.com)** | **[Graphics Intern - Gradxiety Newsletter](https://jobright.ai/jobs/info/68a88bce758f2e4ac3ff3242?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 22 |
 | **[ChiChi](https://chickpeaoats.com)** | **[Social Media Creative Strategist Internship](https://jobright.ai/jobs/info/68a83326758f2e4ac3ff1a31?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Aug 22 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[SAC Text Editor – Student Hourly](https://jobright.ai/jobs/info/68a829b0d627244576e31c31?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 22 |
 | **[LVMH](https://www.lvmh.com/)** | **[3D & 2D Design Intern](https://jobright.ai/jobs/info/68a7fb64d627244576e2ffc5?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 21 |
@@ -156,6 +158,4 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a7f9d2d627244576e2fcfe?utm_camp
 | ↳ | **[UX Career Changer Apprenticeship](https://jobright.ai/jobs/info/68a391e31ab5f8579e8a6e90?utm_campaign=1049&utm_source=git)** | San Francisco | Remote | Aug 18 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Design Intern - Chicago](https://jobright.ai/jobs/info/68a3874337d3cc6b0d577e8f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 18 |
 | **[Ruff Start Rescue ®](http://www.ruffstartrescue.org/)** | **[Volunteer: Graphic Designer](https://jobright.ai/jobs/info/68a3841f1ab5f8579e8a68d7?utm_campaign=1049&utm_source=git)** | Osseo, MN | On Site | Aug 18 |
-| **[MIRA Safety](https://www.mirasafety.com)** | **[Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/68a41da0541cc3479840a846?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 18 |
-| **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Design Intern - Chicago](https://jobright.ai/jobs/info/68a347d01ab5f8579e8a4514?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
