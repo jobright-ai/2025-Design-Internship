@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amtrak](https://amtrakstations.com/)** | **[Fall 2025 & Spring 2026 - Multimedia Specialist Intern - 90369795 - Washington](https://jobright.ai/jobs/info/68a7c7ce758f2e4ac3fee8a2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 21 |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[User Experience Designer Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68a7c78433dd7158bbca9a05?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Aug 21 |
+| **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Bachelors - Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68a7c1afd627244576e2e8b4?utm_campaign=1049&utm_source=git)** | Massachusetts - Boston | Hybrid | Aug 21 |
+| **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Motion Designer](https://jobright.ai/jobs/info/68a7c18d33dd7158bbca9556?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Aug 21 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68a7bf9fd627244576e2e60f?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
+| **[CDM Smith](https://www.cdmsmith.com)** | **[Bachelors - Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68a7b3e8758f2e4ac3fedda3?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Aug 21 |
 | **[Grow Your Business - NYC](https://mrgyb.com/)** | **[Web/App Design Internship](https://jobright.ai/jobs/info/68a78a86d627244576e2d480?utm_campaign=1049&utm_source=git)** | Connecticut, United States | Remote | Aug 21 |
-| **[Q Prime Artist Management](http://qprime.com)** | **[Graphic Design Intern (Music Industry)](https://jobright.ai/jobs/info/68a788d733dd7158bbca8123?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| **[Talentix](https://www.thetalentix.com)** | **[User Experience Designer Intern](https://jobright.ai/jobs/info/68a76fdf758f2e4ac3fec19a?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Aug 21 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/689fd0defaa4e875e828b4e6?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Photography Internship](https://jobright.ai/jobs/info/68a75418d627244576e2b7aa?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 21 |
 | **[nüülee](https://www.linkedin.com/company/105849216)** | **[Fall Studio Intern](https://jobright.ai/jobs/info/68a7528d33dd7158bbca62e4?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Aug 21 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a750cd758f2e4ac3feb05c?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 21 |
 | **[SAYN](https://saynbeauty.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a74b1b758f2e4ac3feac34?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 21 |
-| **[Brenau University](http://www.brenau.edu/)** | **[Graphic Design Intern: Office of Communications](https://jobright.ai/jobs/info/68a74757d627244576e2af3e?utm_campaign=1049&utm_source=git)** | Gainesville, GA | On Site | Aug 21 |
 | **[VITA ESTATES](vitaestates.com)** | **[Visual Branding Intern / Unpaid Internship / Part-time](https://jobright.ai/jobs/info/68a73ec6d627244576e2ab2c?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | Hybrid | Aug 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[User Experience (UX) Design and Research Specialist](https://jobright.ai/jobs/info/68a6dbecb6a3617d7fa7b024?utm_campaign=1049&utm_source=git)** | Moscow, ID | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c09e7faa4e875e8264f85?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
@@ -95,7 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a630bc758f2e4ac3fe3673?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 20 |
 | **[Streng Agency](http://www.strengdesign.com)** | **[Intern](https://jobright.ai/jobs/info/68a6c31233dd7158bbca2a4e?utm_campaign=1049&utm_source=git)** | St Charles, IL | On Site | Aug 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, BDO Digital, Client Experience - Summer 2026 (Oak Brook)](https://jobright.ai/jobs/info/68a6216b758f2e4ac3fe2e97?utm_campaign=1049&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 20 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a61ab7758f2e4ac3fe2935?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 20 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a61bec758f2e4ac3fe2c00?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 20 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO) – SUB-D/Blender Digital Modeler Summer Internship](https://jobright.ai/jobs/info/68a610bb33dd7158bbc9d70b?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 20 |
 | **[The Hai Haus](https://www.thehaihaus.com)** | **[Content Creation Intern Fall 2025](https://jobright.ai/jobs/info/68a6c8a933dd7158bbca321d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[Ansys](http://www.ansys.com)** | **[Spring 2026 UX Intern (Bachelors)](https://jobright.ai/jobs/info/68891f78aab47a17f66ff305?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Web Designer](https://jobright.ai/jobs/info/67c0260ef283c02615bf472e?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 18 |
 | **[ECU Health](http://www.ECUHealth.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/68a2fcfd403ad4363b1be3dd?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Aug 18 |
 | **[Wichita State University](http://www.wichita.edu)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/68a6a16d33dd7158bbca1537?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Aug 17 |
-| **[Green Bay Packaging](https://gbp.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68a2626dcc9ee94dc9124c55?utm_campaign=1049&utm_source=git)** | De Pere, WI | On Site | Aug 17 |
-| **[Toyota Research Institute](http://www.tri.global)** | **[Future Product Innovation Research Intern, HCI Creativity](https://jobright.ai/jobs/info/6867bf2b35584b654236b0dd?utm_campaign=1049&utm_source=git)** | Los Altos, CA | Hybrid | Aug 17 |
-| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Landscape Architect](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
