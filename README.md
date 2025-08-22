@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a750cd758f2e4ac3feb05c?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 21 |
 | **[SAYN](https://saynbeauty.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a74b1b758f2e4ac3feac34?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 21 |
 | **[VITA ESTATES](vitaestates.com)** | **[Visual Branding Intern / Unpaid Internship / Part-time](https://jobright.ai/jobs/info/68a73ec6d627244576e2ab2c?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | Hybrid | Aug 21 |
+| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Apprentice](https://jobright.ai/jobs/info/688bfbac1808534a89cb7905?utm_campaign=1049&utm_source=git)** | Poughkeepsie, NY | On Site | Aug 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[User Experience (UX) Design and Research Specialist](https://jobright.ai/jobs/info/68a6dbecb6a3617d7fa7b024?utm_campaign=1049&utm_source=git)** | Moscow, ID | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c09e7faa4e875e8264f85?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Design Intern (TikTok LIVE) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a81b6cd627244576e3117c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
@@ -157,5 +158,4 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a7f9d2d627244576e2fcfe?utm_camp
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/68a41da0541cc3479840a846?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Design Intern - Chicago](https://jobright.ai/jobs/info/68a347d01ab5f8579e8a4514?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | Aug 18 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Visual Effects Artist](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36d7?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 18 |
-| **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB Fall 2025 Creative Services Intern](https://jobright.ai/jobs/info/68865cbe4174df41e0f9a1c7?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
