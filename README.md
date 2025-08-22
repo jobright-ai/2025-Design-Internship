@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[VITA ESTATES](vitaestates.com)** | **[Visual Branding Intern / Unpaid Internship / Part-time](https://jobright.ai/jobs/info/68a73ec6d627244576e2ab2c?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | Hybrid | Aug 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[User Experience (UX) Design and Research Specialist](https://jobright.ai/jobs/info/68a6dbecb6a3617d7fa7b024?utm_campaign=1049&utm_source=git)** | Moscow, ID | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c09e7faa4e875e8264f85?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
+| ↳ | **[Design Intern (TikTok LIVE) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a81b6cd627244576e3117c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
 | ↳ | **[Content Designer Intern [TikTok-Design-Content Design and Product Writing]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c194179a9f96662536385?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Graphic Designer & Video Creation (Intern)](https://jobright.ai/jobs/info/68a6a419758f2e4ac3fe664c?utm_campaign=1049&utm_source=git)** | New York County, NY | Remote | Aug 20 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Sports Poll Social Media Graphic Design Intern - 2025/26](https://jobright.ai/jobs/info/68a6a413758f2e4ac3fe6631?utm_campaign=1049&utm_source=git)** | South Orange, NJ | On Site | Aug 20 |
@@ -157,5 +158,4 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a7f9d2d627244576e2fcfe?utm_camp
 | **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB Fall 2025 Creative Services Intern](https://jobright.ai/jobs/info/68865cbe4174df41e0f9a1c7?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 18 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Web Designer](https://jobright.ai/jobs/info/67c0260ef283c02615bf472e?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 18 |
 | **[ECU Health](http://www.ECUHealth.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/68a2fcfd403ad4363b1be3dd?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Aug 18 |
-| **[Wichita State University](http://www.wichita.edu)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/68a6a16d33dd7158bbca1537?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
