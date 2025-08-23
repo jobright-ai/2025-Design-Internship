@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Magazine Photo/Video/Podcast Internship](https://jobright.ai/jobs/info/68aa012b6acf96396f72963e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 23 |
+| **[Homebase](http://www.joinhomebase.com)** | **[Future Opportunities with Product & Design](https://jobright.ai/jobs/info/6872540f06ad7073463cbcdc?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[Screen Queens Print Shop Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9ac91d627244576e3b384?utm_campaign=1049&utm_source=git)** | Columbia, MO | Hybrid | Aug 23 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Art & Design Photography Lab Assistant (FY2503337)](https://jobright.ai/jobs/info/68a92e9e6acf96396f7254e7?utm_campaign=1049&utm_source=git)** | Orem, UT | On Site | Aug 22 |
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68a912b9d627244576e374ef?utm_campaign=1049&utm_source=git)** | Herndon, VA | Hybrid | Aug 22 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Environment Art Intern](https://jobright.ai/jobs/info/68a90c78d627244576e37055?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Aug 22 |
 | **[Textron](http://textron.com)** | **[Digital Media Co-Op](https://jobright.ai/jobs/info/68a8fb1a758f2e4ac3ff678c?utm_campaign=1049&utm_source=git)** | Piney Flats, TN | On Site | Aug 22 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a8eaaf758f2e4ac3ff629e?utm_campaign=1049&utm_source=git)** | Feasterville-Trevose, PA | On Site | Aug 22 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Creative Director Fall Internship Berkeley Startup (Unpaid)](https://jobright.ai/jobs/info/68a8e521d627244576e36591?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - UI/UX](https://jobright.ai/jobs/info/68a8e43d6acf96396f723994?utm_campaign=1049&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | **[Browning Day](http://bdmd.com)** | **[Architectural Internship - 2026](https://jobright.ai/jobs/info/68a8de006acf96396f72371f?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 22 |
 | **[Textron](http://textron.com)** | **[Digital Media Co-Op](https://jobright.ai/jobs/info/68a8da61d627244576e360f6?utm_campaign=1049&utm_source=git)** | US-Tennessee-Piney Flats | On Site | Aug 22 |
@@ -133,7 +134,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a630bc758f2e4ac3fe3673?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 20 |
 | **[Streng Agency](http://www.strengdesign.com)** | **[Intern](https://jobright.ai/jobs/info/68a6c31233dd7158bbca2a4e?utm_campaign=1049&utm_source=git)** | St Charles, IL | On Site | Aug 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, BDO Digital, Client Experience - Summer 2026 (Oak Brook)](https://jobright.ai/jobs/info/68a6216b758f2e4ac3fe2e97?utm_campaign=1049&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 20 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a61ab7758f2e4ac3fe2935?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 20 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a61bec758f2e4ac3fe2c00?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 20 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO) – SUB-D/Blender Digital Modeler Summer Internship](https://jobright.ai/jobs/info/68a610bb33dd7158bbc9d70b?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 20 |
 | **[The Hai Haus](https://www.thehaihaus.com)** | **[Content Creation Intern Fall 2025](https://jobright.ai/jobs/info/68a6c8a933dd7158bbca321d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[Ansys](http://www.ansys.com)** | **[Spring 2026 UX Intern (Bachelors)](https://jobright.ai/jobs/info/68891f78aab47a17f66ff305?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 20 |
@@ -157,5 +158,4 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a7f9d2d627244576e2fcfe?utm_camp
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4c73ae9f1c744da12416f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | ↳ | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4c51de9f1c744da123de5?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 | **[Musco Lighting](http://www.musco.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a4c0ade9f1c744da123c0f?utm_campaign=1049&utm_source=git)** | Oskaloosa, IA | On Site | Aug 19 |
-| **[NYC Campaign Finance Board](http://www.nyccfb.info)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a4b42fe9f1c744da123715?utm_campaign=1049&utm_source=git)** | Manhattan, NY | Hybrid | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
