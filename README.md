@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aviary Productions](https://www.linkedin.com/company/93796367)** | **[3D Prop Modeler](https://jobright.ai/jobs/info/68a8fe2d6acf96396f724010?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 22 |
+| **[Textron](http://textron.com)** | **[Digital Media Co-Op](https://jobright.ai/jobs/info/68a8fb1a758f2e4ac3ff678c?utm_campaign=1049&utm_source=git)** | Piney Flats, TN | On Site | Aug 22 |
+| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a8eaaf758f2e4ac3ff629e?utm_campaign=1049&utm_source=git)** | Feasterville-Trevose, PA | On Site | Aug 22 |
+| **[Zof AI](https://zof.ai)** | **[Designer Intern](https://jobright.ai/jobs/info/68a8e9c3d627244576e36669?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Aug 22 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Creative Director Fall Internship Berkeley Startup (Unpaid)](https://jobright.ai/jobs/info/68a8e521d627244576e36591?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - UI/UX](https://jobright.ai/jobs/info/68a8e43d6acf96396f723994?utm_campaign=1049&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | **[Browning Day](http://bdmd.com)** | **[Architectural Internship - 2026](https://jobright.ai/jobs/info/68a8de006acf96396f72371f?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 22 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern](https://jobright.ai/jobs/info/68a8c452758f2e4ac3ff5176?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Aug 22 |
 | **[Domo](http://www.domo.com)** | **[Intern - UX Designer](https://jobright.ai/jobs/info/68a8b9d3d627244576e34d70?utm_campaign=1049&utm_source=git)** | American Fork, UT | On Site | Aug 22 |
 | ↳ | **[Intern - UX Designer](https://jobright.ai/jobs/info/68a8b89a758f2e4ac3ff48b3?utm_campaign=1049&utm_source=git)** | American Fork, Utah | On Site | Aug 22 |
-| **[Bonjour Girls](bonjourgirls.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a8b6d26acf96396f721eb6?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 22 |
 | **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68a8b166758f2e4ac3ff45c6?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Aug 22 |
 | **[Botanical Garden of the Ozarks](https://bgozarks.org)** | **[Paid Internship - Marketing & Graphic Design](https://jobright.ai/jobs/info/68a899376acf96396f721015?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | Hybrid | Aug 22 |
 | **[Austin Community College](http://austincc.edu)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68a89ad96acf96396f7212a1?utm_campaign=1049&utm_source=git)** | Highland Campus | On Site | Aug 22 |
@@ -136,7 +139,6 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a7f9d2d627244576e2fcfe?utm_camp
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/68a5207f33dd7158bbc97539?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 19 |
 | **[GBA](http://gbateam.com)** | **[Architecture Internship- Life Sciences](https://jobright.ai/jobs/info/68a63e20b6a3617d7fa76758?utm_campaign=1049&utm_source=git)** | Broomfield, CO | On Site | Aug 19 |
 | ↳ | **[Architecture Internship- Life Sciences](https://jobright.ai/jobs/info/68a63d1733dd7158bbc9eec5?utm_campaign=1049&utm_source=git)** | Lenexa, KS | On Site | Aug 19 |
-| **[Connecticut Office of Statewide Marketing & Tourism](https://www.ctvisit.com)** | **[Creative Ambassador](https://jobright.ai/jobs/info/68a543e7b6a3617d7fa6ffd5?utm_campaign=1049&utm_source=git)** | Greater Hartford | Hybrid | Aug 19 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/68a4f972758f2e4ac3fdb0ef?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Aug 19 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Return Product Design Intern - Apartments.com](https://jobright.ai/jobs/info/68a8d61e758f2e4ac3ff5b81?utm_campaign=1049&utm_source=git)** | US-GA Atlanta | On Site | Aug 19 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly- Design Print Lab Monitor](https://jobright.ai/jobs/info/68a4d927e9f1c744da124ec8?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 19 |
@@ -156,6 +158,4 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a7f9d2d627244576e2fcfe?utm_camp
 | **[The Haskell Company](http://www.haskell.com)** | **[Fall 2025 Architecture Intern](https://jobright.ai/jobs/info/68a482a3e9f1c744da122273?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Aug 19 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/689ce628faa4e875e826bb63?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6870791401cc0956e7e82192?utm_campaign=1049&utm_source=git)** | Laramie, WY | On Site | Aug 19 |
-| **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/66d7982f7bb67e89056c3263?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Aug 19 |
-| **[WPHL-TV](https://www.phl17.com)** | **[Creative Services Intern - Fall Semester](https://jobright.ai/jobs/info/6887da4b73e3e13cbd940949?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
