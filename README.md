@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARCO National Construction Company](https://www.arconational.com/)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68aa5cb16acf96396f729f9a?utm_campaign=1049&utm_source=git)** | Richmond Heights, MO | On Site | Aug 23 |
 | **[America's CAR-MART, Inc.](http://www.car-mart.com/)** | **[Marketing Intern - Graphic Design Focus](https://jobright.ai/jobs/info/68aa38c16acf96396f729da1?utm_campaign=1049&utm_source=git)** | Rogers, AR | On Site | Aug 23 |
 | **[ARCO](https://www.arco1952.com)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68aa324d758f2e4ac3ffc37b?utm_campaign=1049&utm_source=git)** | St. Louis - Richmond Heights, Missouri | On Site | Aug 23 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[User Experience (UX) Design and Research Specialist](https://jobright.ai/jobs/info/68aa24bfd627244576e3c5c6?utm_campaign=1049&utm_source=git)** | Moscow, ME | On Site | Aug 23 |
@@ -157,5 +158,4 @@ Job ID : 261967](https://jobright.ai/jobs/info/68a7f9d2d627244576e2fcfe?utm_camp
 | **[UX Woman](https://www.uxwoman.com/)** | **[Creative Career Changer Apprenticeship](https://jobright.ai/jobs/info/68a4cedde9f1c744da1248ac?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Aug 19 |
 | ↳ | **[UX Career Changer Apprenticeship](https://jobright.ai/jobs/info/68a54265758f2e4ac3fdd330?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68a4cc6fcbe7dc676dc3487c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
-| **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4c73ae9f1c744da12416f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
