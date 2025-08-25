@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[Digital Media Co-Op](https://jobright.ai/jobs/info/68a8fb1a758f2e4ac3ff678c?utm_campaign=1049&utm_source=git)** | Piney Flats, TN | On Site | Aug 22 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a8eaaf758f2e4ac3ff629e?utm_campaign=1049&utm_source=git)** | Feasterville-Trevose, PA | On Site | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - UI/UX](https://jobright.ai/jobs/info/68a8e43d6acf96396f723994?utm_campaign=1049&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
-| **[Browning Day](http://bdmd.com)** | **[Architectural Internship - 2026](https://jobright.ai/jobs/info/68a8de006acf96396f72371f?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 22 |
 | **[Textron](http://textron.com)** | **[Digital Media Co-Op](https://jobright.ai/jobs/info/68a8da61d627244576e360f6?utm_campaign=1049&utm_source=git)** | US-Tennessee-Piney Flats | On Site | Aug 22 |
 | **[Unbox Product Design](https://www.unboxpd.com)** | **[Industrial Design Internship](https://jobright.ai/jobs/info/68a8d8bb758f2e4ac3ff5d76?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
 | **[Gallery B612](www.galleryb612.com)** | **[Intern: Social Media and Design (Art Gallery)](https://jobright.ai/jobs/info/68a9bfddd627244576e3b814?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
@@ -147,7 +146,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a630bc758f2e4ac3fe3673?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 20 |
 | **[Streng Agency](http://www.strengdesign.com)** | **[Intern](https://jobright.ai/jobs/info/68a6c31233dd7158bbca2a4e?utm_campaign=1049&utm_source=git)** | St Charles, IL | On Site | Aug 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, BDO Digital, Client Experience - Summer 2026 (Oak Brook)](https://jobright.ai/jobs/info/68a6216b758f2e4ac3fe2e97?utm_campaign=1049&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 20 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a61bec758f2e4ac3fe2c00?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 20 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a61ab7758f2e4ac3fe2935?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 20 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO) – SUB-D/Blender Digital Modeler Summer Internship](https://jobright.ai/jobs/info/68a610bb33dd7158bbc9d70b?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 20 |
 | **[The Hai Haus](https://www.thehaihaus.com)** | **[Content Creation Intern Fall 2025](https://jobright.ai/jobs/info/68a6c8a933dd7158bbca321d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[Ansys](http://www.ansys.com)** | **[Spring 2026 UX Intern (Bachelors)](https://jobright.ai/jobs/info/68891f78aab47a17f66ff305?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 20 |
@@ -158,4 +157,5 @@ For a complete list, click the following sortable link below:
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Communications & Graphic Design Intern
 Job ID : 261967](https://jobright.ai/jobs/info/68a7f9d2d627244576e2fcfe?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 19 |
 | **[America's CAR-MART, Inc.](http://www.car-mart.com/)** | **[Marketing Intern - Graphic Design Focus](https://jobright.ai/jobs/info/68a530c7758f2e4ac3fdca1a?utm_campaign=1049&utm_source=git)** | Rogers, AR | On Site | Aug 19 |
+| **[Minitab](http://www.minitab.com/en-us/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/68a5207f33dd7158bbc97539?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
