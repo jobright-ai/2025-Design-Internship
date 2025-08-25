@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/68ac91b8daf1431824c96159?utm_campaign=1049&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 25 |
 | **[Invest Buffalo Niagara](https://buffaloniagara.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ac8a44758f2e4ac3006654?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Aug 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 UX Design paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac8928758f2e4ac3006562?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
 | **[SemSem LLC](https://www.semsem.com/)** | **[Photo Retouching & AI Imagery Intern](https://jobright.ai/jobs/info/68ac8854d627244576e4689e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 25 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a630bc758f2e4ac3fe3673?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 20 |
 | **[Streng Agency](http://www.strengdesign.com)** | **[Intern](https://jobright.ai/jobs/info/68a6c31233dd7158bbca2a4e?utm_campaign=1049&utm_source=git)** | St Charles, IL | On Site | Aug 20 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, BDO Digital, Client Experience - Summer 2026 (Oak Brook)](https://jobright.ai/jobs/info/68a6216b758f2e4ac3fe2e97?utm_campaign=1049&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 20 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a61ab7758f2e4ac3fe2935?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 20 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a61bec758f2e4ac3fe2c00?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 20 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO) – SUB-D/Blender Digital Modeler Summer Internship](https://jobright.ai/jobs/info/68a610bb33dd7158bbc9d70b?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 20 |
 | **[The Hai Haus](https://www.thehaihaus.com)** | **[Content Creation Intern Fall 2025](https://jobright.ai/jobs/info/68a6c8a933dd7158bbca321d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 20 |
-| **[Ansys](http://www.ansys.com)** | **[Spring 2026 UX Intern (Bachelors)](https://jobright.ai/jobs/info/68891f78aab47a17f66ff305?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
