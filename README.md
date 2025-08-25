@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac213cdaf1431824c93d9e?utm_campaign=1049&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68ac173ad627244576e4487a?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Landscape Architecture Intern, Glendale, Spring 2026](https://jobright.ai/jobs/info/68ac1505d627244576e447bb?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Aug 25 |
 | ↳ | **[WDI Visual Effects Designer Intern, Spring 2026](https://jobright.ai/jobs/info/68ac12e9daf1431824c93b3e?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Aug 25 |
@@ -157,5 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Communications & Graphic Design Intern
 Job ID : 261967](https://jobright.ai/jobs/info/68a7f9d2d627244576e2fcfe?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 19 |
 | **[America's CAR-MART, Inc.](http://www.car-mart.com/)** | **[Marketing Intern - Graphic Design Focus](https://jobright.ai/jobs/info/68a530c7758f2e4ac3fdca1a?utm_campaign=1049&utm_source=git)** | Rogers, AR | On Site | Aug 19 |
-| **[Minitab](http://www.minitab.com/en-us/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/68a5207f33dd7158bbc97539?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
