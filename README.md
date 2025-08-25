@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dennis Group](http://dennisgrp.com)** | **[Architect (Industrial) - Internship/Co-Op (Start May 2026)](https://jobright.ai/jobs/info/68acbd96758f2e4ac30085a7?utm_campaign=1049&utm_source=git)** | Springfield, MA | On Site | Aug 25 |
+| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[UX Design Intern](https://jobright.ai/jobs/info/68acbd22daf1431824c97d24?utm_campaign=1049&utm_source=git)** | Peoria, Illinois | Hybrid | Aug 25 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern - Fall 2026](https://jobright.ai/jobs/info/68acb48f758f2e4ac3008059?utm_campaign=1049&utm_source=git)** | Mentor, OH | On Site | Aug 25 |
+| ↳ | **[Custom Design Co-Operative Intern - Fall 2025](https://jobright.ai/jobs/info/68acb2b6d627244576e480e0?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Aug 25 |
+| **[Kolosis BIO](http://www.kolosis.com)** | **[Graphic Design Intern - Medical Device](https://jobright.ai/jobs/info/68acb20cd627244576e47fea?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68acae08d627244576e47eb2?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
+| **[Merrick & Company](http://www.merrick.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/68aca838758f2e4ac3007730?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Aug 25 |
+| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Visual Merchandising Intern (Fall 2025)](https://jobright.ai/jobs/info/68aca636d627244576e47a8a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | **[Comcast](https://corporate.comcast.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/68ac91b8daf1431824c96159?utm_campaign=1049&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 25 |
 | **[Invest Buffalo Niagara](https://buffaloniagara.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ac8a44758f2e4ac3006654?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Aug 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 UX Design paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac8928758f2e4ac3006562?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
@@ -66,12 +74,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Custom Design Co-Operative Intern - Fall 2025](https://jobright.ai/jobs/info/68ac74f0d627244576e45e33?utm_campaign=1049&utm_source=git)** | Troy, Michigan | On Site | Aug 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac709e758f2e4ac300596b?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
 | ↳ | **[2026 UX Design paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac213cdaf1431824c93d9e?utm_campaign=1049&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68ac173ad627244576e4487a?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Landscape Architecture Intern, Glendale, Spring 2026](https://jobright.ai/jobs/info/68ac1505d627244576e447bb?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Aug 25 |
 | ↳ | **[WDI Visual Effects Designer Intern, Spring 2026](https://jobright.ai/jobs/info/68ac12e9daf1431824c93b3e?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Aug 25 |
 | **[AP Dodson Construction Group](https://apdodson.com/)** | **[Architect Intern](https://jobright.ai/jobs/info/68ac068cd627244576e43ad6?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Aug 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Landscape Architecture Intern, Orlando, Spring 2026](https://jobright.ai/jobs/info/68abf488daf1431824c927dd?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Aug 24 |
-| **[The Crump Firm - Architects](https://www.crumpfirm.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/68abcae6daf1431824c900fe?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Aug 24 |
 | **[Halummy](https://halummy.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68ac5e0fdaf1431824c94b50?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Aug 24 |
 | **[Gerald Lee Morosco Architects, PC](https://www.glm-architects.com)** | **[Architectural Intern/Designer](https://jobright.ai/jobs/info/68ab6417daf1431824c8edd1?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 24 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Firmwide Design Development Program - Summer Internship](https://jobright.ai/jobs/info/688e5b96e5cead4afd45c8fa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a631fb33dd7158bbc9ea91?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 20 |
 | **[BDO](https://global-www.bdo.global/)** | **[Advisory Intern, BDO Digital, Client Experience - Summer 2026 (Oak Brook)](https://jobright.ai/jobs/info/68a631cf33dd7158bbc9ea50?utm_campaign=1049&utm_source=git)** | Oak Brook, IL, United States | On Site | Aug 20 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a630f5758f2e4ac3fe36ef?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 20 |
-| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a630bc758f2e4ac3fe3673?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 20 |
-| **[Streng Agency](http://www.strengdesign.com)** | **[Intern](https://jobright.ai/jobs/info/68a6c31233dd7158bbca2a4e?utm_campaign=1049&utm_source=git)** | St Charles, IL | On Site | Aug 20 |
-| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, BDO Digital, Client Experience - Summer 2026 (Oak Brook)](https://jobright.ai/jobs/info/68a6216b758f2e4ac3fe2e97?utm_campaign=1049&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 20 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a61bec758f2e4ac3fe2c00?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Aug 20 |
-| **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO) – SUB-D/Blender Digital Modeler Summer Internship](https://jobright.ai/jobs/info/68a610bb33dd7158bbc9d70b?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 20 |
-| **[The Hai Haus](https://www.thehaihaus.com)** | **[Content Creation Intern Fall 2025](https://jobright.ai/jobs/info/68a6c8a933dd7158bbca321d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
