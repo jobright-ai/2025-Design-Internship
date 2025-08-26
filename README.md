@@ -84,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Merrick & Company](http://www.merrick.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/68aca838758f2e4ac3007730?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Aug 25 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Visual Merchandising Intern (Fall 2025)](https://jobright.ai/jobs/info/68aca636d627244576e47a8a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | **[Comcast](https://corporate.comcast.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/68ac91b8daf1431824c96159?utm_campaign=1049&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 25 |
+| **[AutoZone](http://www.autozone.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ad4c17d627244576e4cbed?utm_campaign=1049&utm_source=git)** | Elk Grove, CA | On Site | Aug 25 |
 | **[Invest Buffalo Niagara](https://buffaloniagara.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ac8a44758f2e4ac3006654?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Aug 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 UX Design paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac8928758f2e4ac3006562?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
 | **[SemSem LLC](https://www.semsem.com/)** | **[Photo Retouching & AI Imagery Intern](https://jobright.ai/jobs/info/68ac8854d627244576e4689e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a6832eb6a3617d7fa77dab?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 20 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a67e7f33dd7158bbca0439?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 20 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a67e5b33dd7158bbca041f?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 20 |
-| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a67937b6a3617d7fa77a08?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
