@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/68acf4aed627244576e4a174?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Aug 25 |
+| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/68acf349daf1431824c99472?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 25 |
+| **[Heartland Bank and Trust Company](http://hbtbank.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68acdcbbd627244576e49996?utm_campaign=1049&utm_source=git)** | Bloomington, IL | On Site | Aug 25 |
 | **[ExhibitIQ](http://www.exhibitiq.art)** | **[Launch Intern](https://jobright.ai/jobs/info/68acd512daf1431824c98a09?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/68acd184daf1431824c98935?utm_campaign=1049&utm_source=git)** | Lees Summit, MO | On Site | Aug 25 |
 | ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/68accfe6758f2e4ac3008fd1?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Aug 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flow](https://flowagent.sh)** | **[AI Product Designer Intern](https://jobright.ai/jobs/info/68a6c202758f2e4ac3fe7997?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 20 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Student Graphic Design Assistant - IE](https://jobright.ai/jobs/info/68a68d5833dd7158bbca098a?utm_campaign=1049&utm_source=git)** | Harrisonburg, VA | On Site | Aug 20 |
 | **[GRO](https://www.readysetgro.io/)** | **[UI/UX Designer Internship (Figma + Web Design)](https://jobright.ai/jobs/info/68a6c46e33dd7158bbca2bc9?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Aug 20 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Interior Car Design, Design Studio (Winter/Spring 2026)](https://jobright.ai/jobs/info/68a63eeb758f2e4ac3fe3d28?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Aug 20 |
-| **[Ohio University](https://www.ohio.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/68a64ec333dd7158bbc9f4ad?utm_campaign=1049&utm_source=git)** | Athens, OH | On Site | Aug 20 |
-| **[Wade Trim](http://wadetrim.com)** | **[Landscape Architect Summer Intern - #2780](https://jobright.ai/jobs/info/68a63a1433dd7158bbc9ee6e?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
