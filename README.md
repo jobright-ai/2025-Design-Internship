@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68adf293d627244576e50133?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Aug 26 |
+| ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/68adf265d627244576e50102?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Aug 26 |
+| ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/68adf204daf1431824c9f1d9?utm_campaign=1049&utm_source=git)** | Lowell, MA | Hybrid | Aug 26 |
+| **[Procon](https://www.linkedin.com/company/50188)** | **[Architectural Intern-2026](https://jobright.ai/jobs/info/68adf17c758f2e4ac300fafe?utm_campaign=1049&utm_source=git)** | Hooksett, NH | On Site | Aug 26 |
+| **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ade2b6daf1431824c9eaf0?utm_campaign=1049&utm_source=git)** | US - WI - Milwaukee HQ | Hybrid | Aug 26 |
+| **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Web Editor and Social Media intern (Spanish) - HOMEBASED](https://jobright.ai/jobs/info/68ade229d627244576e4f8cc?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Aug 26 |
+| **[DAP](http://www.dap.com/)** | **[Studio Production Intern](https://jobright.ai/jobs/info/68ade227d627244576e4f8ca?utm_campaign=1049&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Aug 26 |
+| **[Boys Lie ](https://boyslieofficial.com)** | **[Design Intern](https://jobright.ai/jobs/info/68ade160daf1431824c9e9d9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Set Decorator Intern, Spring 2026](https://jobright.ai/jobs/info/68adcb45d627244576e4f024?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Aug 26 |
 | ↳ | **[WDI Landscape Architecture Intern, Orlando, Spring 2026](https://jobright.ai/jobs/info/68adcac5d627244576e4efda?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 26 |
 | ↳ | **[WDI Landscape Architecture Intern, Glendale, Spring 2026](https://jobright.ai/jobs/info/68adc9efdaf1431824c9e10a?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Aug 26 |
@@ -71,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026: Creative Operations Co-op (January through June)](https://jobright.ai/jobs/info/68adacf5d627244576e4e4ea?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | ↳ | **[Spring 2026: Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68adab9cd627244576e4e428?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | ↳ | **[Spring 2026: Product Design Engineering Co-op, Advanced Development (January through June)](https://jobright.ai/jobs/info/68ada8a6758f2e4ac300dead?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
-| **[Ever Lasting Fabric](https://everlastingfabric.com/)** | **[Content Creator Intern – Social Media](https://jobright.ai/jobs/info/68ad8d3fdaf1431824c9d2e9?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Digital Asset Content](https://jobright.ai/jobs/info/68ad4143daf1431824c9ba4b?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | On Site | Aug 25 |
 | **[Brenau University](http://www.brenau.edu/)** | **[Graphic Design Intern: Office of Communications](https://jobright.ai/jobs/info/68ad24bcdaf1431824c9abab?utm_campaign=1049&utm_source=git)** | Gainesville, GA | On Site | Aug 25 |
 | **[The New York Times](https://www.nytco.com/)** | **[Graphics Intensive](https://jobright.ai/jobs/info/68ad242f758f2e4ac300b31f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
@@ -133,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a8d285758f2e4ac3ff5a3e?utm_campaign=1049&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[Bell Flight](https://bellflight.com)** | **[Digital Media Co-Op](https://jobright.ai/jobs/info/68a8c60c758f2e4ac3ff5304?utm_campaign=1049&utm_source=git)** | Piney Flats, TN | On Site | Aug 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern](https://jobright.ai/jobs/info/68a8c452758f2e4ac3ff5176?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Aug 22 |
-| **[Shimi](https://shimibottle.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ab0cf1758f2e4ac3ffef26?utm_campaign=1049&utm_source=git)** | Winston-Salem, NC | On Site | Aug 22 |
 | **[Domo](http://www.domo.com)** | **[Intern - UX Designer](https://jobright.ai/jobs/info/68a8b9d3d627244576e34d70?utm_campaign=1049&utm_source=git)** | American Fork, UT | On Site | Aug 22 |
 | ↳ | **[Intern - UX Designer](https://jobright.ai/jobs/info/68a8b89a758f2e4ac3ff48b3?utm_campaign=1049&utm_source=git)** | American Fork, Utah | On Site | Aug 22 |
 | **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68a8b166758f2e4ac3ff45c6?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Aug 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Bachelors - Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68a9b81cd627244576e3b5b9?utm_campaign=1049&utm_source=git)** | Massachusetts - Boston | Hybrid | Aug 21 |
 | ↳ | **[Bachelors - Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68a7b3e8758f2e4ac3fedda3?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Aug 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In Person) Fall 2025](https://jobright.ai/jobs/info/686f1d3dd47b21ea06b08bfb?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Aug 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c498a906ac06e1d1d2b12?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/689fd0defaa4e875e828b4e6?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c35cd906ac06e1d1d1c1c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Photography Internship](https://jobright.ai/jobs/info/68a75418d627244576e2b7aa?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 21 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a750cd758f2e4ac3feb05c?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 21 |
-| **[SAYN](https://saynbeauty.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a74b1b758f2e4ac3feac34?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
