@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68ad058a758f2e4ac300a56d?utm_campaign=1049&utm_source=git)** | Towson, MD | Hybrid | Aug 25 |
+| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[UX Design Intern](https://jobright.ai/jobs/info/68ad0297d627244576e4a786?utm_campaign=1049&utm_source=git)** | Peoria, IL | Hybrid | Aug 25 |
+| **[IH Concepts](https://ihconceptsonline.com)** | **[Graphic Design Intern for Fall](https://jobright.ai/jobs/info/68acfe14daf1431824c998e0?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Aug 25 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - UI/UX Designer](https://jobright.ai/jobs/info/68acf82edaf1431824c996a8?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Aug 25 |
 | **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/68acf4aed627244576e4a174?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Aug 25 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/68acf349daf1431824c99472?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 25 |
 | **[Heartland Bank and Trust Company](http://hbtbank.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68acdcbbd627244576e49996?utm_campaign=1049&utm_source=git)** | Bloomington, IL | On Site | Aug 25 |
@@ -71,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern - Fall 2026](https://jobright.ai/jobs/info/68acb48f758f2e4ac3008059?utm_campaign=1049&utm_source=git)** | Mentor, OH | On Site | Aug 25 |
 | ↳ | **[Custom Design Co-Operative Intern - Fall 2025](https://jobright.ai/jobs/info/68acb2b6d627244576e480e0?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Aug 25 |
 | **[Kolosis BIO](http://www.kolosis.com)** | **[Graphic Design Intern - Medical Device](https://jobright.ai/jobs/info/68acb20cd627244576e47fea?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
+| **[ArtsQuest](http://www.artsquest.org/)** | **[GRAPHIC DESIGN INTERNSHIP](https://jobright.ai/jobs/info/68a9ac0ad627244576e3b341?utm_campaign=1049&utm_source=git)** | Bethlehem, PA | On Site | Aug 25 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68acae08d627244576e47eb2?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
 | **[Merrick & Company](http://www.merrick.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/68aca838758f2e4ac3007730?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Aug 25 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Visual Merchandising Intern (Fall 2025)](https://jobright.ai/jobs/info/68aca636d627244576e47a8a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a67937b6a3617d7fa77a08?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Aug 20 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a6791cb6a3617d7fa779eb?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 20 |
 | **[Mint Showroom](https://www.mintshowroom.com)** | **[Creative Intern](https://jobright.ai/jobs/info/68a68e4cb6a3617d7fa781a1?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Aug 20 |
-| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Design Leadership Development Program – Full Time and Summer Internship](https://jobright.ai/jobs/info/68a66e8933dd7158bbc9ff74?utm_campaign=1049&utm_source=git)** | Columbus, OH, USA | On Site | Aug 20 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68a666c133dd7158bbc9fcb5?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Aug 20 |
-| **[Flow](https://flowagent.sh)** | **[AI Product Designer Intern](https://jobright.ai/jobs/info/68a6c202758f2e4ac3fe7997?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 20 |
-| **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Student Graphic Design Assistant - IE](https://jobright.ai/jobs/info/68a68d5833dd7158bbca098a?utm_campaign=1049&utm_source=git)** | Harrisonburg, VA | On Site | Aug 20 |
-| **[GRO](https://www.readysetgro.io/)** | **[UI/UX Designer Internship (Figma + Web Design)](https://jobright.ai/jobs/info/68a6c46e33dd7158bbca2bc9?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
