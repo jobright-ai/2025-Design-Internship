@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Set Decorator Intern, Spring 2026](https://jobright.ai/jobs/info/68adcb45d627244576e4f024?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Aug 26 |
+| ↳ | **[WDI Landscape Architecture Intern, Orlando, Spring 2026](https://jobright.ai/jobs/info/68adcac5d627244576e4efda?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 26 |
+| ↳ | **[WDI Landscape Architecture Intern, Glendale, Spring 2026](https://jobright.ai/jobs/info/68adc9efdaf1431824c9e10a?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Aug 26 |
+| ↳ | **[WDI Graphic Fabrication Intern, Spring 2026](https://jobright.ai/jobs/info/68adc9b8daf1431824c9e0c3?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 26 |
+| ↳ | **[WDI Visual Effects Designer Intern, Spring 2026](https://jobright.ai/jobs/info/68adc94e758f2e4ac300e9e3?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Aug 26 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Studio Production Artist Co-op (January through June)](https://jobright.ai/jobs/info/68adc3d7d627244576e4ec1f?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
+| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68adc2afdaf1431824c9ddd7?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Aug 26 |
 | **[Dolls Kill](http://dollskill.com)** | **[Apparel Graphic Design Intern](https://jobright.ai/jobs/info/68adb629758f2e4ac300e234?utm_campaign=1049&utm_source=git)** | Oakland, CA | Hybrid | Aug 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68adb25f758f2e4ac300e16f?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68adafe0daf1431824c9d773?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Photography Internship](https://jobright.ai/jobs/info/68a75418d627244576e2b7aa?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Aug 21 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Junior Creative Producer Intern, Game Shows Digital Marketing & Brand Creative - Fall 2025](https://jobright.ai/jobs/info/68a750cd758f2e4ac3feb05c?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Aug 21 |
 | **[SAYN](https://saynbeauty.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a74b1b758f2e4ac3feac34?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 21 |
-| **[VITA ESTATES](vitaestates.com)** | **[Visual Branding Intern / Unpaid Internship / Part-time](https://jobright.ai/jobs/info/68a73ec6d627244576e2ab2c?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | Hybrid | Aug 21 |
-| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Apprentice](https://jobright.ai/jobs/info/688bfbac1808534a89cb7905?utm_campaign=1049&utm_source=git)** | Poughkeepsie, NY | On Site | Aug 21 |
-| **[University of Idaho](http://www.uidaho.edu/)** | **[User Experience (UX) Design and Research Specialist](https://jobright.ai/jobs/info/68a6dbecb6a3617d7fa7b024?utm_campaign=1049&utm_source=git)** | Moscow, ID | On Site | Aug 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c09e7faa4e875e8264f85?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Design Intern (TikTok LIVE) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a81b6cd627244576e3117c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
-| ↳ | **[Content Designer Intern [TikTok-Design-Content Design and Product Writing]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c194179a9f96662536385?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
-| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Graphic Designer & Video Creation (Intern)](https://jobright.ai/jobs/info/68a6a419758f2e4ac3fe664c?utm_campaign=1049&utm_source=git)** | New York County, NY | Remote | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
