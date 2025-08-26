@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HNTB](http://www.hntb.com/)** | **[Part Time Multimedia/Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68ae0a84daf1431824ca0282?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 26 |
+| **[UNDP Careers](https://www.undp.org)** | **[Web Editor and Social Media intern (Spanish) - HOMEBASED](https://jobright.ai/jobs/info/68ae09dbdaf1431824ca01aa?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 26 |
+| **[Gage Marine - Boat Sales](https://www.gageboats.com)** | **[Photographer/Videographer Marketing Intern](https://jobright.ai/jobs/info/68ae047cdaf1431824c9fc09?utm_campaign=1049&utm_source=git)** | Corporate - 5167 Highway 50, Delavan | On Site | Aug 26 |
+| **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ae0313758f2e4ac3010319?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 26 |
+| **[VITA ESTATES](vitaestates.com)** | **[Visual Branding Intern / Luxury Real Estate & Lifestyle Brand](https://jobright.ai/jobs/info/68adfdd9d627244576e50660?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | Hybrid | Aug 26 |
+| **[PROCON, Inc.](http://proconinc.com)** | **[Architectural Intern-2026](https://jobright.ai/jobs/info/68adf6dedaf1431824c9f506?utm_campaign=1049&utm_source=git)** | Hooksett, NH | On Site | Aug 26 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68adf293d627244576e50133?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Aug 26 |
 | ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/68adf265d627244576e50102?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Aug 26 |
 | ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/68adf204daf1431824c9f1d9?utm_campaign=1049&utm_source=git)** | Lowell, MA | Hybrid | Aug 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[SAC Text Editor – Student Hourly](https://jobright.ai/jobs/info/68a829b0d627244576e31c31?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 22 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/686ea8c2307c8f326ef31580?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Aug 21 |
 | **[Amtrak](https://amtrakstations.com/)** | **[Fall 2025 & Spring 2026 - Multimedia Specialist Intern - 90369795 - Washington](https://jobright.ai/jobs/info/68a7c7ce758f2e4ac3fee8a2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 21 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[User Experience Designer Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68a7c78433dd7158bbca9a05?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Aug 21 |
-| **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Motion Designer](https://jobright.ai/jobs/info/68a7c18d33dd7158bbca9556?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Aug 21 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68a7bf9fd627244576e2e60f?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
-| **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Bachelors - Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68a9b81cd627244576e3b5b9?utm_campaign=1049&utm_source=git)** | Massachusetts - Boston | Hybrid | Aug 21 |
-| ↳ | **[Bachelors - Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68a7b3e8758f2e4ac3fedda3?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Aug 21 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In Person) Fall 2025](https://jobright.ai/jobs/info/686f1d3dd47b21ea06b08bfb?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
