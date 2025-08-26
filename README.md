@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ever Lasting Fabric](https://everlastingfabric.com/)** | **[Content Creator Intern – Social Media](https://jobright.ai/jobs/info/68ad8d3fdaf1431824c9d2e9?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Digital Asset Content](https://jobright.ai/jobs/info/68ad4143daf1431824c9ba4b?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | On Site | Aug 25 |
 | **[Brenau University](http://www.brenau.edu/)** | **[Graphic Design Intern: Office of Communications](https://jobright.ai/jobs/info/68ad24bcdaf1431824c9abab?utm_campaign=1049&utm_source=git)** | Gainesville, GA | On Site | Aug 25 |
 | **[The New York Times](https://www.nytco.com/)** | **[Graphics Intensive](https://jobright.ai/jobs/info/68ad242f758f2e4ac300b31f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
@@ -85,9 +86,7 @@ For a complete list, click the following sortable link below:
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Visual Merchandising Intern (Fall 2025)](https://jobright.ai/jobs/info/68aca636d627244576e47a8a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | **[Comcast](https://corporate.comcast.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/68ac91b8daf1431824c96159?utm_campaign=1049&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 25 |
 | **[AutoZone](http://www.autozone.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ad4c17d627244576e4cbed?utm_campaign=1049&utm_source=git)** | Elk Grove, CA | On Site | Aug 25 |
-| **[Invest Buffalo Niagara](https://buffaloniagara.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ac8a44758f2e4ac3006654?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Aug 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 UX Design paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac8928758f2e4ac3006562?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
-| **[SemSem LLC](https://www.semsem.com/)** | **[Photo Retouching & AI Imagery Intern](https://jobright.ai/jobs/info/68ac8854d627244576e4689e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | **[West Michigan Office Interiors](http://wmoi.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68ac763b758f2e4ac3005bc8?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Aug 25 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern - Fall 2026](https://jobright.ai/jobs/info/68ac7615758f2e4ac3005b8c?utm_campaign=1049&utm_source=git)** | Mentor, Ohio | On Site | Aug 25 |
 | ↳ | **[Custom Design Co-Operative Intern - Fall 2025](https://jobright.ai/jobs/info/68ac74f0d627244576e45e33?utm_campaign=1049&utm_source=git)** | Troy, Michigan | On Site | Aug 25 |
@@ -131,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Pond & Company](http://pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Aug 22 |
 | **[ChiChi](https://chickpeaoats.com)** | **[Social Media Creative Strategist Internship](https://jobright.ai/jobs/info/68a83326758f2e4ac3ff1a31?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Aug 22 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[SAC Text Editor – Student Hourly](https://jobright.ai/jobs/info/68a829b0d627244576e31c31?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 22 |
-| **[LVMH](https://www.lvmh.com/)** | **[3D & 2D Design Intern](https://jobright.ai/jobs/info/68a7fb64d627244576e2ffc5?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 21 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Internship - Designer](https://jobright.ai/jobs/info/686ea8c2307c8f326ef31580?utm_campaign=1049&utm_source=git)** | Dover, DE | On Site | Aug 21 |
 | **[Amtrak](https://amtrakstations.com/)** | **[Fall 2025 & Spring 2026 - Multimedia Specialist Intern - 90369795 - Washington](https://jobright.ai/jobs/info/68a7c7ce758f2e4ac3fee8a2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 21 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[User Experience Designer Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68a7c78433dd7158bbca9a05?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Aug 21 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a6832eb6a3617d7fa77dab?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Aug 20 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a67e7f33dd7158bbca0439?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 20 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a67e5b33dd7158bbca041f?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Aug 20 |
+| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a67937b6a3617d7fa77a08?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Aug 20 |
+| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a6791cb6a3617d7fa779eb?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
