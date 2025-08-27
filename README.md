@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International SOS Government Medical Services](https://www.internationalsos.com/)** | **[Architectural Intern-2026](https://jobright.ai/jobs/info/68af1acc1f0a2a568a05f11c?utm_campaign=1049&utm_source=git)** | Hooksett, NH | On Site | Aug 27 |
 | **[Kohl's](https://corporate.kohls.com)** | **[Early Talent - 2026 - Marketing - Graphic Design Internship](https://jobright.ai/jobs/info/68aef5d51f0a2a568a05e69c?utm_campaign=1049&utm_source=git)** | Menomonee Falls, WI | On Site | Aug 27 |
-| ↳ | **[Early Talent - 2026 - Technology - Product Design Internship](https://jobright.ai/jobs/info/68af0df91f0a2a568a05ed50?utm_campaign=1049&utm_source=git)** | Menomonee Falls, WI | On Site | Aug 27 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68926eeff5ee707a15dc5a50?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Aug 27 |
+| **[Kohl's](https://corporate.kohls.com)** | **[Early Talent - 2026 - Technology - Product Design Internship](https://jobright.ai/jobs/info/68af0df91f0a2a568a05ed50?utm_campaign=1049&utm_source=git)** | Menomonee Falls, WI | On Site | Aug 27 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Landscape Architecture Intern – Spring 2026](https://jobright.ai/jobs/info/68aeb9c32daaba3984419be4?utm_campaign=1049&utm_source=git)** | US.NV.Henderson | On Site | Aug 27 |
 | ↳ | **[Landscape Architecture Intern – Spring 2026](https://jobright.ai/jobs/info/68aefb981f0a2a568a05e779?utm_campaign=1049&utm_source=git)** | Henderson, NV | On Site | Aug 27 |
 | **[NewDealDesign](http://newdealdesign.com/)** | **[Industrial Design Intern Winter 2025](https://jobright.ai/jobs/info/68aec42e03c5f15c2fd8b712?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 UX Design paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac213cdaf1431824c93d9e?utm_campaign=1049&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Landscape Architecture Intern, Glendale, Spring 2026](https://jobright.ai/jobs/info/68ac1505d627244576e447bb?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Aug 25 |
 | ↳ | **[WDI Visual Effects Designer Intern, Spring 2026](https://jobright.ai/jobs/info/68ac12e9daf1431824c93b3e?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Aug 25 |
-| **[AP Dodson Construction Group](https://apdodson.com/)** | **[Architect Intern](https://jobright.ai/jobs/info/68ac068cd627244576e43ad6?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Aug 24 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Landscape Architecture Intern, Orlando, Spring 2026](https://jobright.ai/jobs/info/68abf488daf1431824c927dd?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
