@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: CMF Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 26 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Landscape Architecture Intern – Spring 2026](https://jobright.ai/jobs/info/68aeb9c32daaba3984419be4?utm_campaign=1049&utm_source=git)** | US.NV.Henderson | On Site | Aug 27 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Creative Operations Co-op (January through June)](https://jobright.ai/jobs/info/68ae9ee67bcb7608b3d2871b?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
+| ↳ | **[Spring 2026: Product Design Engineering Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68ae9eb77bcb7608b3d286e3?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 26 |
+| ↳ | **[Spring 2026: CMF Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 26 |
 | **[Gage Marine - Boat Sales](https://www.gageboats.com)** | **[Photographer/Videographer Marketing Intern](https://jobright.ai/jobs/info/68ae99c303c5f15c2fd8a497?utm_campaign=1049&utm_source=git)** | Delavan, WI | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Ninja (January through June)](https://jobright.ai/jobs/info/68ae990503c5f15c2fd8a3bd?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 26 |
 | **[shortart.co](shortart.co)** | **[Junior Story Artist](https://jobright.ai/jobs/info/68ae8556daf1431824ca3c09?utm_campaign=1049&utm_source=git)** | Savannah, GA | Remote | Aug 26 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Ensign College ](https://www.ldsbc.edu/)** | **[Student Employee - MarComm Graphic Designer](https://jobright.ai/jobs/info/68ae5605daf1431824ca262a?utm_campaign=1049&utm_source=git)** | Ensign College | On Site | Aug 26 |
 | **[HITCH MEDIA](https://www.hitchmedia.co)** | **[Fall Internship](https://jobright.ai/jobs/info/68ae5267daf1431824ca23f5?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Aug 26 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68ae4743daf1431824ca1fd0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 26 |
-| **[HNTB](http://www.hntb.com/)** | **[Part Time Multimedia/Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68ae400c758f2e4ac30125ea?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2026 (US)](https://jobright.ai/jobs/info/68ae5ecddaf1431824ca29df?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 26 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Digital Internship (Fall 2025)](https://jobright.ai/jobs/info/68ae3db4d627244576e52985?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2026 (US)](https://jobright.ai/jobs/info/68ae367cd627244576e5267d?utm_campaign=1049&utm_source=git)** | Seattle, Washington, USA | On Site | Aug 26 |
@@ -81,12 +83,12 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov)** | **[2025 Fall College Internship](https://jobright.ai/jobs/info/68ae23a8d627244576e51f53?utm_campaign=1049&utm_source=git)** | SOS Civic Center Dr 5180 Civic Center Dr | On Site | Aug 26 |
 | ↳ | **[2025 Fall College Internship](https://jobright.ai/jobs/info/68ae21a0758f2e4ac301198e?utm_campaign=1049&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Aug 26 |
 | **[My Monthly](https://www.mymonthly.io)** | **[Fall Illustration Intern](https://jobright.ai/jobs/info/68ae1cff758f2e4ac30116bf?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Aug 26 |
-| **[azure matcha](http://azurematcha.com)** | **[social media and operations - student intern](https://jobright.ai/jobs/info/68ae19b6d627244576e51a28?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Aug 26 |
-| **[My Monthly](https://www.mymonthly.io)** | **[Fall Motion/Animation Intern](https://jobright.ai/jobs/info/68ae18fedaf1431824ca0cad?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Aug 26 |
+| ↳ | **[Fall Motion/Animation Intern](https://jobright.ai/jobs/info/68ae18fedaf1431824ca0cad?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Aug 26 |
 | ↳ | **[Fall Graphic Design Intern](https://jobright.ai/jobs/info/68ae18addaf1431824ca0c57?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Aug 26 |
 | **[Google](https://www.google.com)** | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ae152f758f2e4ac30112aa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Creative Services Intern D (Melbourne, FL)](https://jobright.ai/jobs/info/68ae1388758f2e4ac3011101?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Aug 26 |
 | **[Renegade Brands USA, Inc.](http://renegadebrands.com/)** | **[Graphic Design, Marketing & E-Commerce Support Intern](https://jobright.ai/jobs/info/68ae2df3daf1431824ca162d?utm_campaign=1049&utm_source=git)** | Solon, OH | On Site | Aug 26 |
+| **[HNTB](http://www.hntb.com/)** | **[Part Time Multimedia/Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68ae0a84daf1431824ca0282?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 26 |
 | **[UNDP Careers](https://www.undp.org)** | **[Web Editor and Social Media intern (Spanish) - HOMEBASED](https://jobright.ai/jobs/info/68ae09dbdaf1431824ca01aa?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 26 |
 | **[Gage Marine - Boat Sales](https://www.gageboats.com)** | **[Photographer/Videographer Marketing Intern](https://jobright.ai/jobs/info/68ae047cdaf1431824c9fc09?utm_campaign=1049&utm_source=git)** | Corporate - 5167 Highway 50, Delavan | On Site | Aug 26 |
 | **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ae0313758f2e4ac3010319?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ARCO National Construction Company](https://www.arconational.com/)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68aa5cb16acf96396f729f9a?utm_campaign=1049&utm_source=git)** | Richmond Heights, MO | On Site | Aug 23 |
 | **[ARCO](https://www.arco1952.com)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68aa324d758f2e4ac3ffc37b?utm_campaign=1049&utm_source=git)** | St. Louis - Richmond Heights, Missouri | On Site | Aug 23 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[User Experience (UX) Design and Research Specialist](https://jobright.ai/jobs/info/68aa24bfd627244576e3c5c6?utm_campaign=1049&utm_source=git)** | Moscow, ME | On Site | Aug 23 |
-| **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Magazine Photo/Video/Podcast Internship](https://jobright.ai/jobs/info/68aa012b6acf96396f72963e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 23 |
-| **[Homebase](http://www.joinhomebase.com)** | **[Future Opportunities with Product & Design](https://jobright.ai/jobs/info/6872540f06ad7073463cbcdc?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
