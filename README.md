@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: CMF Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 26 |
+| **[Gage Marine - Boat Sales](https://www.gageboats.com)** | **[Photographer/Videographer Marketing Intern](https://jobright.ai/jobs/info/68ae99c303c5f15c2fd8a497?utm_campaign=1049&utm_source=git)** | Delavan, WI | On Site | Aug 26 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Ninja (January through June)](https://jobright.ai/jobs/info/68ae990503c5f15c2fd8a3bd?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 26 |
+| **[shortart.co](shortart.co)** | **[Junior Story Artist](https://jobright.ai/jobs/info/68ae8556daf1431824ca3c09?utm_campaign=1049&utm_source=git)** | Savannah, GA | Remote | Aug 26 |
 | **[HITCH MEDIA](https://www.hitchmedia.co)** | **[Art Director Intern](https://jobright.ai/jobs/info/68ae7509758f2e4ac3013b89?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Aug 26 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68ae7404daf1431824ca3210?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Aug 26 |
 | **[tms](https://themarketingstore.com)** | **[2026 CREATIVE SUMMER INTERN](https://jobright.ai/jobs/info/68ae71f5d627244576e53e24?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Aug 26 |
@@ -69,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Ensign College ](https://www.ldsbc.edu/)** | **[Student Employee - MarComm Graphic Designer](https://jobright.ai/jobs/info/68ae5605daf1431824ca262a?utm_campaign=1049&utm_source=git)** | Ensign College | On Site | Aug 26 |
 | **[HITCH MEDIA](https://www.hitchmedia.co)** | **[Fall Internship](https://jobright.ai/jobs/info/68ae5267daf1431824ca23f5?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Aug 26 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68ae4743daf1431824ca1fd0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 26 |
+| **[HNTB](http://www.hntb.com/)** | **[Part Time Multimedia/Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68ae400c758f2e4ac30125ea?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2026 (US)](https://jobright.ai/jobs/info/68ae5ecddaf1431824ca29df?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 26 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Digital Internship (Fall 2025)](https://jobright.ai/jobs/info/68ae3db4d627244576e52985?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2026 (US)](https://jobright.ai/jobs/info/68ae367cd627244576e5267d?utm_campaign=1049&utm_source=git)** | Seattle, Washington, USA | On Site | Aug 26 |
@@ -83,12 +88,10 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Creative Services Intern D (Melbourne, FL)](https://jobright.ai/jobs/info/68ae1388758f2e4ac3011101?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Aug 26 |
 | **[Renegade Brands USA, Inc.](http://renegadebrands.com/)** | **[Graphic Design, Marketing & E-Commerce Support Intern](https://jobright.ai/jobs/info/68ae2df3daf1431824ca162d?utm_campaign=1049&utm_source=git)** | Solon, OH | On Site | Aug 26 |
 | **[UNDP Careers](https://www.undp.org)** | **[Web Editor and Social Media intern (Spanish) - HOMEBASED](https://jobright.ai/jobs/info/68ae09dbdaf1431824ca01aa?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 26 |
-| **[HNTB](http://www.hntb.com/)** | **[Part Time Multimedia/Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68ae09a8daf1431824ca0157?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 26 |
 | **[Gage Marine - Boat Sales](https://www.gageboats.com)** | **[Photographer/Videographer Marketing Intern](https://jobright.ai/jobs/info/68ae047cdaf1431824c9fc09?utm_campaign=1049&utm_source=git)** | Corporate - 5167 Highway 50, Delavan | On Site | Aug 26 |
 | **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ae0313758f2e4ac3010319?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 26 |
 | **[VITA ESTATES](vitaestates.com)** | **[Visual Branding Intern / Luxury Real Estate & Lifestyle Brand](https://jobright.ai/jobs/info/68adfdd9d627244576e50660?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | Hybrid | Aug 26 |
 | **[PROCON, Inc.](http://proconinc.com)** | **[Architectural Intern-2026](https://jobright.ai/jobs/info/68adf6dedaf1431824c9f506?utm_campaign=1049&utm_source=git)** | Hooksett, NH | On Site | Aug 26 |
-| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68adf265d627244576e50102?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Aug 26 |
 | **[Procon](https://www.linkedin.com/company/50188)** | **[Architectural Intern-2026](https://jobright.ai/jobs/info/68adf17c758f2e4ac300fafe?utm_campaign=1049&utm_source=git)** | Hooksett, NH | On Site | Aug 26 |
 | **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ade2b6daf1431824c9eaf0?utm_campaign=1049&utm_source=git)** | US - WI - Milwaukee HQ | Hybrid | Aug 26 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Web Editor and Social Media intern (Spanish) - HOMEBASED](https://jobright.ai/jobs/info/68ade229d627244576e4f8cc?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Aug 26 |
@@ -101,6 +104,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WDI Visual Effects Designer Intern, Spring 2026](https://jobright.ai/jobs/info/68adc94e758f2e4ac300e9e3?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Studio Production Artist Co-op (January through June)](https://jobright.ai/jobs/info/68adc3d7d627244576e4ec1f?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68adc2afdaf1431824c9ddd7?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Aug 26 |
+| **[Altruist](https://altruist.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/68914471f5ee707a15dbd5f1?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Aug 26 |
 | **[Dolls Kill](http://dollskill.com)** | **[Apparel Graphic Design Intern](https://jobright.ai/jobs/info/68adb629758f2e4ac300e234?utm_campaign=1049&utm_source=git)** | Oakland, CA | Hybrid | Aug 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68adb25f758f2e4ac300e16f?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68adafe0daf1431824c9d773?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Idaho](http://www.uidaho.edu/)** | **[User Experience (UX) Design and Research Specialist](https://jobright.ai/jobs/info/68aa24bfd627244576e3c5c6?utm_campaign=1049&utm_source=git)** | Moscow, ME | On Site | Aug 23 |
 | **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Magazine Photo/Video/Podcast Internship](https://jobright.ai/jobs/info/68aa012b6acf96396f72963e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 23 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Future Opportunities with Product & Design](https://jobright.ai/jobs/info/6872540f06ad7073463cbcdc?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Aug 23 |
-| **[Stephens College](http://www.stephens.edu/)** | **[Screen Queens Print Shop Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9ac91d627244576e3b384?utm_campaign=1049&utm_source=git)** | Columbia, MO | Hybrid | Aug 23 |
-| **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Art & Design Photography Lab Assistant (FY2503337)](https://jobright.ai/jobs/info/68a92e9e6acf96396f7254e7?utm_campaign=1049&utm_source=git)** | Orem, UT | On Site | Aug 22 |
-| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68a912b9d627244576e374ef?utm_campaign=1049&utm_source=git)** | Herndon, VA | Hybrid | Aug 22 |
-| **[Epic Games](https://epicgames.com)** | **[Environment Art Intern](https://jobright.ai/jobs/info/68a911d36acf96396f7249df?utm_campaign=1049&utm_source=git)** | Cary,North Carolina,United States | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
