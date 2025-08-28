@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlanta Flooring Design Centers, Inc.](http://atlantaflooringdesign.com)** | **[Design Intern](https://jobright.ai/jobs/info/68b0afa62d46f6396cae7aff?utm_campaign=1049&utm_source=git)** | Suwanee, GA, USA | On Site | Aug 28 |
+| **[The Conrad Group, LLC](https://theconradgroup-az.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68b0a5582d46f6396cae73c6?utm_campaign=1049&utm_source=git)** | Fountain Hills, AZ | Hybrid | Aug 28 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Graphic Design (Year-Round)](https://jobright.ai/jobs/info/68b0a3f12d46f6396cae7257?utm_campaign=1049&utm_source=git)** | WI-Milwaukee | Hybrid | Aug 28 |
 | **[Adam Lippes](https://adamlippes.com)** | **[Fashion Design/PD Intern](https://jobright.ai/jobs/info/68b083f7b47fb001d6893009?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[Media Intern (Summer 2025)](https://jobright.ai/jobs/info/68b0548db47fb001d6891162?utm_campaign=1049&utm_source=git)** | Tempe, AZ | On Site | Aug 28 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Harold Washington College Federal Work Study Student- Web Designer](https://jobright.ai/jobs/info/68b04fb0b47fb001d6891044?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | On Site | Aug 28 |
-| ↳ | **[Harold Washington College Federal Work Study Student- Web Designer](https://jobright.ai/jobs/info/68b04b2db47fb001d6890a02?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
+| ↳ | **[Harold Washington College Federal Work Study Student- Web Designer](https://jobright.ai/jobs/info/68b04e12b47fb001d6890e76?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly / Communications Assistant](https://jobright.ai/jobs/info/68b0169e13563e782a9f3705?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 28 |
 | **[La Ligne LLC](https://www.lalignenyc.com/)** | **[Design & Production Intern](https://jobright.ai/jobs/info/68afe995e723db6c9b7b4b48?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Interior Design - CS College Intern](https://jobright.ai/jobs/info/68afe5c913563e782a9f246b?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 27 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[2025 Fall College Internship](https://jobright.ai/jobs/info/68ae684bd627244576e53ab1?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Aug 26 |
 | **[Ensign College ](https://www.ldsbc.edu/)** | **[Student Employee - MarComm Graphic Designer](https://jobright.ai/jobs/info/68ae5605daf1431824ca262a?utm_campaign=1049&utm_source=git)** | Ensign College | On Site | Aug 26 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68ae4743daf1431824ca1fd0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 26 |
-| **[HNTB](http://www.hntb.com/)** | **[Part Time Multimedia/Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68ae400c758f2e4ac30125ea?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2026 (US)](https://jobright.ai/jobs/info/68ae5ecddaf1431824ca29df?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 26 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Digital Internship (Fall 2025)](https://jobright.ai/jobs/info/68ae3db4d627244576e52985?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2026 (US)](https://jobright.ai/jobs/info/68ae367cd627244576e5267d?utm_campaign=1049&utm_source=git)** | Seattle, Washington, USA | On Site | Aug 26 |
@@ -118,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Creative Services Intern D (Melbourne, FL)](https://jobright.ai/jobs/info/68ae1388758f2e4ac3011101?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Aug 26 |
 | **[Renegade Brands USA, Inc.](http://renegadebrands.com/)** | **[Graphic Design, Marketing & E-Commerce Support Intern](https://jobright.ai/jobs/info/68ae2df3daf1431824ca162d?utm_campaign=1049&utm_source=git)** | Solon, OH | On Site | Aug 26 |
 | **[UNDP Careers](https://www.undp.org)** | **[Web Editor and Social Media intern (Spanish) - HOMEBASED](https://jobright.ai/jobs/info/68ae09dbdaf1431824ca01aa?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 26 |
+| **[HNTB](http://www.hntb.com/)** | **[Part Time Multimedia/Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68ae09a8daf1431824ca0157?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 26 |
 | **[Gage Marine - Boat Sales](https://www.gageboats.com)** | **[Photographer/Videographer Marketing Intern](https://jobright.ai/jobs/info/68ae047cdaf1431824c9fc09?utm_campaign=1049&utm_source=git)** | Corporate - 5167 Highway 50, Delavan | On Site | Aug 26 |
 | **[Badger Meter](http://badgermeter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ae0313758f2e4ac3010319?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 26 |
 | **[VITA ESTATES](vitaestates.com)** | **[Visual Branding Intern / Luxury Real Estate & Lifestyle Brand](https://jobright.ai/jobs/info/68adfdd9d627244576e50660?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | Hybrid | Aug 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/68acf4aed627244576e4a174?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Aug 25 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/68acf349daf1431824c99472?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 25 |
 | **[Heartland Bank and Trust Company](http://hbtbank.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68acdcbbd627244576e49996?utm_campaign=1049&utm_source=git)** | Bloomington, IL | On Site | Aug 25 |
-| **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/68acd184daf1431824c98935?utm_campaign=1049&utm_source=git)** | Lees Summit, MO | On Site | Aug 25 |
-| ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/68accfe6758f2e4ac3008fd1?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Aug 25 |
-| **[Keen Social](https://www.keensocial.com)** | **[Graphic Design OR Video/Film OR Content Creator Intersnhips Available (Prefer Cal State LB or LB City College Students)](https://jobright.ai/jobs/info/68ad3d78d627244576e4c4c4?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
