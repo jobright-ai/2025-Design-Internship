@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Concept Art](https://jobright.ai/jobs/info/68afa9b82daaba398441fc03?utm_campaign=1049&utm_source=git)** | Playa Vista | On Site | Aug 27 |
+| ↳ | **[2026 US Summer Internships - Concept Art](https://jobright.ai/jobs/info/68afa80a962903596357e1fc?utm_campaign=1049&utm_source=git)** | Santa Monica | On Site | Aug 27 |
 | **[Kum & Go](https://www.kumandgo.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68af79ce2daaba398441e9c0?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 27 |
 | **[Kenneth Cole Productions](https://www.kennethcole.com/)** | **[Production/Creative Intern](https://jobright.ai/jobs/info/68af793d962903596357d0da?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[GOGREENLOCALLY ORG.](https://www.gogreenlocally.org)** | **[Volunteer Social Media Graphic & Reel Content Internship (unpaid)](https://jobright.ai/jobs/info/68af6bcb962903596357c8bc?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 27 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6892626d4c7e851b90ad546c?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | On Site | Aug 27 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Landscape Architecture Intern – Spring 2026](https://jobright.ai/jobs/info/68aeb9c32daaba3984419be4?utm_campaign=1049&utm_source=git)** | US.NV.Henderson | On Site | Aug 27 |
 | ↳ | **[Landscape Architecture Intern – Spring 2026](https://jobright.ai/jobs/info/68aefb981f0a2a568a05e779?utm_campaign=1049&utm_source=git)** | Henderson, NV | On Site | Aug 27 |
-| **[NewDealDesign](http://newdealdesign.com/)** | **[Industrial Design Intern Winter 2025](https://jobright.ai/jobs/info/68aec42e03c5f15c2fd8b712?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Creative Operations Co-op (January through June)](https://jobright.ai/jobs/info/68ae9ee67bcb7608b3d2871b?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
 | ↳ | **[Spring 2026: Product Design Engineering Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68ae9eb77bcb7608b3d286e3?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 26 |
 | ↳ | **[Spring 2026: CMF Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 26 |
@@ -132,7 +133,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026: Creative Operations Co-op (January through June)](https://jobright.ai/jobs/info/68adacf5d627244576e4e4ea?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | ↳ | **[Spring 2026: Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68adab9cd627244576e4e428?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | ↳ | **[Spring 2026: Product Design Engineering Co-op, Advanced Development (January through June)](https://jobright.ai/jobs/info/68ada8a6758f2e4ac300dead?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
-| **[Stéphen House Creative](http://stephenhousecreative.org/)** | **[Photography & Digital Media Intern](https://jobright.ai/jobs/info/68aebe5003c5f15c2fd8b542?utm_campaign=1049&utm_source=git)** | Tyrone, GA | On Site | Aug 26 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Digital Asset Content](https://jobright.ai/jobs/info/68ad4143daf1431824c9ba4b?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | On Site | Aug 25 |
 | **[Brenau University](http://www.brenau.edu/)** | **[Graphic Design Intern: Office of Communications](https://jobright.ai/jobs/info/68ad24bcdaf1431824c9abab?utm_campaign=1049&utm_source=git)** | Gainesville, GA | On Site | Aug 25 |
 | **[The New York Times](https://www.nytco.com/)** | **[Graphics Intensive](https://jobright.ai/jobs/info/68ad242f758f2e4ac300b31f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
