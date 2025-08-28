@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hustle Magazine](www.hustlemagazine.co)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68b05eacb47fb001d6891b14?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[UX Design Intern (Summer 2024)](https://jobright.ai/jobs/info/68b05c562d46f6396cae4815?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Aug 28 |
 | ↳ | **[UX Design Intern (Summer 2025)](https://jobright.ai/jobs/info/68b0577113563e782a9f53ed?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Aug 28 |
 | ↳ | **[Media Intern (Summer 2025)](https://jobright.ai/jobs/info/68b0548db47fb001d6891162?utm_campaign=1049&utm_source=git)** | Tempe, AZ | On Site | Aug 28 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Harold Washington College Federal Work Study Student- Web Designer](https://jobright.ai/jobs/info/68b04fb0b47fb001d6891044?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | On Site | Aug 28 |
-| ↳ | **[Harold Washington College Federal Work Study Student- Web Designer](https://jobright.ai/jobs/info/68b04e12b47fb001d6890e76?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
+| ↳ | **[Harold Washington College Federal Work Study Student- Web Designer](https://jobright.ai/jobs/info/68b04b2db47fb001d6890a02?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly / Communications Assistant](https://jobright.ai/jobs/info/68b0169e13563e782a9f3705?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 28 |
 | **[La Ligne LLC](https://www.lalignenyc.com/)** | **[Design & Production Intern](https://jobright.ai/jobs/info/68afe995e723db6c9b7b4b48?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Interior Design - CS College Intern](https://jobright.ai/jobs/info/68afe5c913563e782a9f246b?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 27 |
@@ -145,7 +146,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026: Product Design Engineering Co-op, Advanced Development (January through June)](https://jobright.ai/jobs/info/68ada8a6758f2e4ac300dead?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Digital Asset Content](https://jobright.ai/jobs/info/68ad4143daf1431824c9ba4b?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | On Site | Aug 25 |
 | **[Bridgeport Islanders](http://bridgeportislanders.com)** | **[Intern, Creative Services](https://jobright.ai/jobs/info/68aff408e723db6c9b7b4f6a?utm_campaign=1049&utm_source=git)** | Bridgeport, CT | On Site | Aug 25 |
-| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[UX Design Intern](https://jobright.ai/jobs/info/68afce99e723db6c9b7b3bd5?utm_campaign=1049&utm_source=git)** | Peoria, IL | Hybrid | Aug 25 |
 | **[Brenau University](http://www.brenau.edu/)** | **[Graphic Design Intern: Office of Communications](https://jobright.ai/jobs/info/68ad24bcdaf1431824c9abab?utm_campaign=1049&utm_source=git)** | Gainesville, GA | On Site | Aug 25 |
 | **[The New York Times](https://www.nytco.com/)** | **[Graphics Intensive](https://jobright.ai/jobs/info/68ad242f758f2e4ac300b31f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
 | **[Garver](https://garverusa.com/)** | **[Federal Intern - Landscape Architecture](https://jobright.ai/jobs/info/68ad1426daf1431824c9a40d?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Aug 25 |
