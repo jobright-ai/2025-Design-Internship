@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[La Ligne LLC](https://www.lalignenyc.com/)** | **[Design & Production Intern](https://jobright.ai/jobs/info/68afe995e723db6c9b7b4b48?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Interior Design - CS College Intern](https://jobright.ai/jobs/info/68afe5c913563e782a9f246b?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 27 |
-| **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - Concept Art](https://jobright.ai/jobs/info/68afdfa4e723db6c9b7b46f6?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 27 |
+| ↳ | **[Spring 2026- Interior Design - CS College Intern](https://jobright.ai/jobs/info/68b002b313563e782a9f2ee9?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 27 |
 | **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Photo/Video/Podcast Internship](https://jobright.ai/jobs/info/68afd5e113563e782a9f1b9f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Spring 2026](https://jobright.ai/jobs/info/68afc82fe723db6c9b7b3654?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 27 |
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[K-12 Graphic Design Internship](https://jobright.ai/jobs/info/68afc0d3b47fb001d688ce07?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Aug 27 |
@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Spring 2026](https://jobright.ai/jobs/info/68afbdf113563e782a9f09cb?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio | Hybrid | Aug 27 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Concept Art](https://jobright.ai/jobs/info/68afa9b82daaba398441fc03?utm_campaign=1049&utm_source=git)** | Playa Vista | On Site | Aug 27 |
 | ↳ | **[2026 US Summer Internships - Concept Art](https://jobright.ai/jobs/info/68afa80a962903596357e1fc?utm_campaign=1049&utm_source=git)** | Santa Monica | On Site | Aug 27 |
-| **[Zebrosys](www.zebrosys.com)** | **[Graphic Design intern Mentee](https://jobright.ai/jobs/info/68afcf06b47fb001d688d78d?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Kum & Go](https://www.kumandgo.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68af79ce2daaba398441e9c0?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 27 |
 | **[Kenneth Cole Productions](https://www.kennethcole.com/)** | **[Production/Creative Intern](https://jobright.ai/jobs/info/68af793d962903596357d0da?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[GOGREENLOCALLY ORG.](https://www.gogreenlocally.org)** | **[Volunteer Social Media Graphic & Reel Content Internship (unpaid)](https://jobright.ai/jobs/info/68af6bcb962903596357c8bc?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 27 |
@@ -140,6 +139,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026: Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68adab9cd627244576e4e428?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | ↳ | **[Spring 2026: Product Design Engineering Co-op, Advanced Development (January through June)](https://jobright.ai/jobs/info/68ada8a6758f2e4ac300dead?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Digital Asset Content](https://jobright.ai/jobs/info/68ad4143daf1431824c9ba4b?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | On Site | Aug 25 |
+| **[Bridgeport Islanders](http://bridgeportislanders.com)** | **[Intern, Creative Services](https://jobright.ai/jobs/info/68aff408e723db6c9b7b4f6a?utm_campaign=1049&utm_source=git)** | Bridgeport, CT | On Site | Aug 25 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[UX Design Intern](https://jobright.ai/jobs/info/68afce99e723db6c9b7b3bd5?utm_campaign=1049&utm_source=git)** | Peoria, IL | Hybrid | Aug 25 |
 | **[Brenau University](http://www.brenau.edu/)** | **[Graphic Design Intern: Office of Communications](https://jobright.ai/jobs/info/68ad24bcdaf1431824c9abab?utm_campaign=1049&utm_source=git)** | Gainesville, GA | On Site | Aug 25 |
 | **[The New York Times](https://www.nytco.com/)** | **[Graphics Intensive](https://jobright.ai/jobs/info/68ad242f758f2e4ac300b31f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
