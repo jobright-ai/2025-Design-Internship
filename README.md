@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IGS Energy](http://www.igsenergy.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/68b1aee7bc187f64e1bd610a?utm_campaign=1049&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
 | **[Wade Trim](http://wadetrim.com)** | **[Landscape Architect Summer Intern - #2780.04](https://jobright.ai/jobs/info/68a63a1433dd7158bbc9ee6e?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Aug 29 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern (Game Day)](https://jobright.ai/jobs/info/68b18fc21ade4306aa6307b3?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Aug 29 |
 | **[Merrick & Company](http://www.merrick.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/68b14f9a04557a6c207bc613?utm_campaign=1049&utm_source=git)** | Chamblee, GA | Hybrid | Aug 28 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/68b168f96fab621da7b0d736?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | Hybrid | Aug 28 |
 | **[BCI Brands](https://www.bcibrands.com)** | **[Sweater Design Intern](https://jobright.ai/jobs/info/68b1291804557a6c207ba615?utm_campaign=1049&utm_source=git)** | New York County, NY | On Site | Aug 28 |
 | **[Wilkinson Ecological Design, Inc.](https://www.wilkinsonecological.com)** | **[Landscape Architecture Designer Intern](https://jobright.ai/jobs/info/68b160dd6fab621da7b0d48e?utm_campaign=1049&utm_source=git)** | Lyndonville, NY | On Site | Aug 28 |
-| **[IH Concepts](https://ihconceptsonline.com)** | **[Graphic Design Intern for Fall](https://jobright.ai/jobs/info/68b16f4bf4e41a61efd7db8d?utm_campaign=1049&utm_source=git)** | Morrisville, NY | On Site | Aug 28 |
 | **[Balance Now](https://www.balance.ca)** | **[Graphic Designer (Unpaid)](https://jobright.ai/jobs/info/68b13e8c6fab621da7b0ba30?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
 | **[UNDP Careers](https://www.undp.org)** | **[Web Editor and Social Media intern (Spanish) - HOMEBASED](https://jobright.ai/jobs/info/68ae09dbdaf1431824ca01aa?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Aug 28 |
 | **[Spartanburg Academic Movement](https://learnwithsam.org/)** | **[Catalytic Internships- SAM](https://jobright.ai/jobs/info/68b0fa11e815524ae11fa42f?utm_campaign=1049&utm_source=git)** | Spartanburg, SC, USA | On Site | Aug 28 |
@@ -83,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[AFSCME](http://www.afscme.org/)** | **[AFSCME Digital Intern](https://jobright.ai/jobs/info/68b0ee44b47fb001d689688c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Olsson](https://www.olsson.com)** | **[Landscape Architecture/Design Co-Op (Spring/Summer)](https://jobright.ai/jobs/info/68b0ccf2b47fb001d6895851?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
 | ↳ | **[Landscape Architecture/Design Internship](https://jobright.ai/jobs/info/68b0cc39b47fb001d68957f5?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
-| **[Directive](http://directiveconsulting.com)** | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0e8b113563e782a9fa354?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
-| ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec0d13563e782a9fa613?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Aug 28 |
+| **[Directive](http://directiveconsulting.com)** | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec0d13563e782a9fa613?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Aug 28 |
+| ↳ | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0e8b113563e782a9fa354?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
 | ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec7e13563e782a9fa65d?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Aug 28 |
 | ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec3213563e782a9fa633?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Aug 28 |
 | **[Ordient Entertainment](www.ordientent.com)** | **[Creative Department Intern](https://jobright.ai/jobs/info/68b0e83eb47fb001d68964a7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 28 |
@@ -148,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[2025 Fall College Internship](https://jobright.ai/jobs/info/68ae684bd627244576e53ab1?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Aug 26 |
 | **[Ensign College ](https://www.ldsbc.edu/)** | **[Student Employee - MarComm Graphic Designer](https://jobright.ai/jobs/info/68ae5605daf1431824ca262a?utm_campaign=1049&utm_source=git)** | Ensign College | On Site | Aug 26 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68ae4743daf1431824ca1fd0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 26 |
-| **[HNTB](http://www.hntb.com/)** | **[Part Time Multimedia/Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68ae400c758f2e4ac30125ea?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2026 (US)](https://jobright.ai/jobs/info/68ae5ecddaf1431824ca29df?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 26 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Digital Internship (Fall 2025)](https://jobright.ai/jobs/info/68ae3db4d627244576e52985?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2026 (US)](https://jobright.ai/jobs/info/68ae367cd627244576e5267d?utm_campaign=1049&utm_source=git)** | Seattle, Washington, USA | On Site | Aug 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Google](https://www.google.com)** | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68b01cb013563e782a9f387f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Creative Services Intern D (Melbourne, FL)](https://jobright.ai/jobs/info/68ae1388758f2e4ac3011101?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Aug 26 |
 | **[Renegade Brands USA, Inc.](http://renegadebrands.com/)** | **[Graphic Design, Marketing & E-Commerce Support Intern](https://jobright.ai/jobs/info/68ae2df3daf1431824ca162d?utm_campaign=1049&utm_source=git)** | Solon, OH | On Site | Aug 26 |
+| **[HNTB](http://www.hntb.com/)** | **[Part Time Multimedia/Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68ae0a84daf1431824ca0282?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
