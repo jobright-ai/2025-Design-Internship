@@ -68,7 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Design Thinking](https://jobright.ai/jobs/info/68b1f8df1ade4306aa633421?utm_campaign=1049&utm_source=git)** | Greater Decatur, IL Area | Hybrid | Aug 29 |
 | **[Price Industries](https://www.priceindustries.com)** | **[Internship - Creative Specialist](https://jobright.ai/jobs/info/68b1e9aa1ade4306aa632d62?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Aug 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Set Decorator Intern, Spring 2026](https://jobright.ai/jobs/info/68b1e8e61ade4306aa632cc8?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Aug 29 |
-| **[MSA Professional Services](http://msa-ps.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68b1e698f4e41a61efd808e9?utm_campaign=1049&utm_source=git)** | St Paul, MN | On Site | Aug 29 |
+| **[MSA Professional Services](http://msa-ps.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68b2c288bc187f64e1bdef7a?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Aug 29 |
+| ↳ | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68b1e698f4e41a61efd808e9?utm_campaign=1049&utm_source=git)** | St Paul, MN | On Site | Aug 29 |
 | ↳ | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68b1e4d8bc187f64e1bd7879?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Aug 29 |
 | **[Adam Lippes](https://adamlippes.com)** | **[Seasonal Fashion Design and Development Intern](https://jobright.ai/jobs/info/68b1d845bc187f64e1bd734e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Google](https://www.google.com)** | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac967edaf1431824c96440?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Aug 29 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Olsson](https://www.olsson.com)** | **[Landscape Architecture/Design Co-Op (Spring/Summer)](https://jobright.ai/jobs/info/68b0ccf2b47fb001d6895851?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
 | ↳ | **[Landscape Architecture/Design Internship](https://jobright.ai/jobs/info/68b0cc39b47fb001d68957f5?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
 | **[Directive](http://directiveconsulting.com)** | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec7e13563e782a9fa65d?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Aug 28 |
-| ↳ | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0e8b113563e782a9fa354?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
 | ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec0d13563e782a9fa613?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Aug 28 |
+| ↳ | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0e8b113563e782a9fa354?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
 | ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec3213563e782a9fa633?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Aug 28 |
 | **[KOLOSIS](http://www.kolosis.com)** | **[Graphic Design Intern - Medical Device](https://jobright.ai/jobs/info/68b152d604557a6c207bc70a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 28 |
 | **[Human-i-Tees](humanitees.com)** | **[Branding & Identity Intern (Unpaid/College)](https://jobright.ai/jobs/info/68b0b6a613563e782a9f8bdc?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Gallagher Re](https://www.gallagherre.com/)** | **[Digital Intern](https://jobright.ai/jobs/info/68afbe7ab47fb001d688cc22?utm_campaign=1049&utm_source=git)** | Rolling Meadows, Illinois | Hybrid | Aug 27 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Spring 2026](https://jobright.ai/jobs/info/68afbdf113563e782a9f09cb?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio | Hybrid | Aug 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68926aa1f47efe211395c25f?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 27 |
-| **[Directive](http://directiveconsulting.com)** | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0883113563e782a9f711a?utm_campaign=1049&utm_source=git)** | Remote - United States | Remote | Aug 27 |
-| ↳ | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b08102b47fb001d6892d7f?utm_campaign=1049&utm_source=git)** | Remote - United States | Remote | Aug 27 |
+| **[Directive](http://directiveconsulting.com)** | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b08102b47fb001d6892d7f?utm_campaign=1049&utm_source=git)** | Remote - United States | Remote | Aug 27 |
+| ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0883113563e782a9f711a?utm_campaign=1049&utm_source=git)** | Remote - United States | Remote | Aug 27 |
 | **[Kum & Go](https://www.kumandgo.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68af79ce2daaba398441e9c0?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 27 |
 | **[Kenneth Cole Productions](https://www.kennethcole.com/)** | **[Production/Creative Intern](https://jobright.ai/jobs/info/68af793d962903596357d0da?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[GOGREENLOCALLY ORG.](https://www.gogreenlocally.org)** | **[Volunteer Social Media Graphic & Reel Content Internship (unpaid)](https://jobright.ai/jobs/info/68af6bcb962903596357c8bc?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Creative Operations Co-op (January through June)](https://jobright.ai/jobs/info/68ae9ee67bcb7608b3d2871b?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
 | ↳ | **[Spring 2026: Product Design Engineering Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68ae9eb77bcb7608b3d286e3?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 26 |
 | ↳ | **[Spring 2026: CMF Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Aug 26 |
-| **[Gage Marine - Boat Sales](https://www.gageboats.com)** | **[Photographer/Videographer Marketing Intern](https://jobright.ai/jobs/info/68ae99c303c5f15c2fd8a497?utm_campaign=1049&utm_source=git)** | Delavan, WI | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
