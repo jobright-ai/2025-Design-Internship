@@ -114,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[AFSCME](http://www.afscme.org/)** | **[AFSCME Digital Intern](https://jobright.ai/jobs/info/68b0ee44b47fb001d689688c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Olsson](https://www.olsson.com)** | **[Landscape Architecture/Design Co-Op (Spring/Summer)](https://jobright.ai/jobs/info/68b0ccf2b47fb001d6895851?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
 | ↳ | **[Landscape Architecture/Design Internship](https://jobright.ai/jobs/info/68b0cc39b47fb001d68957f5?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
-| **[Directive](http://directiveconsulting.com)** | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec7e13563e782a9fa65d?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Aug 28 |
-| ↳ | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0e8b113563e782a9fa354?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
+| **[Directive](http://directiveconsulting.com)** | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0e8b113563e782a9fa354?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
+| ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec7e13563e782a9fa65d?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Aug 28 |
 | ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec0d13563e782a9fa613?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Aug 28 |
 | ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec3213563e782a9fa633?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Aug 28 |
 | **[KOLOSIS](http://www.kolosis.com)** | **[Graphic Design Intern - Medical Device](https://jobright.ai/jobs/info/68b152d604557a6c207bc70a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 28 |
@@ -137,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Gallagher Re](https://www.gallagherre.com/)** | **[Digital Intern](https://jobright.ai/jobs/info/68afbe7ab47fb001d688cc22?utm_campaign=1049&utm_source=git)** | Rolling Meadows, Illinois | Hybrid | Aug 27 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Spring 2026](https://jobright.ai/jobs/info/68afbdf113563e782a9f09cb?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio | Hybrid | Aug 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68926aa1f47efe211395c25f?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Aug 27 |
-| **[Directive](http://directiveconsulting.com)** | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0883113563e782a9f711a?utm_campaign=1049&utm_source=git)** | Remote - United States | Remote | Aug 27 |
-| ↳ | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b08102b47fb001d6892d7f?utm_campaign=1049&utm_source=git)** | Remote - United States | Remote | Aug 27 |
+| **[Directive](http://directiveconsulting.com)** | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b08102b47fb001d6892d7f?utm_campaign=1049&utm_source=git)** | Remote - United States | Remote | Aug 27 |
+| ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0883113563e782a9f711a?utm_campaign=1049&utm_source=git)** | Remote - United States | Remote | Aug 27 |
 | **[Kum & Go](https://www.kumandgo.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68af79ce2daaba398441e9c0?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 27 |
 | **[Kenneth Cole Productions](https://www.kennethcole.com/)** | **[Production/Creative Intern](https://jobright.ai/jobs/info/68af793d962903596357d0da?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Gallagher](http://www.ajg.com)** | **[Digital Intern](https://jobright.ai/jobs/info/68af64851f0a2a568a06147c?utm_campaign=1049&utm_source=git)** | Rolling Meadows, IL | Hybrid | Aug 27 |
@@ -147,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Creative Intern (Spring-Summer)](https://jobright.ai/jobs/info/6892a9fef5ee707a15dc76ba?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA | Hybrid | Aug 27 |
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68af57352daaba398441d613?utm_campaign=1049&utm_source=git)** | Warren, NJ | Hybrid | Aug 27 |
 | ↳ | **[Landscape Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68af56d1962903596357bceb?utm_campaign=1049&utm_source=git)** | Chalfont, PA | Hybrid | Aug 27 |
-| **[Fifth Third Bank](http://53.com)** | **[Graphic Design Marketing Extern - Summer 2026](https://jobright.ai/jobs/info/68af6c371f0a2a568a0617f0?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 27 |
+| **[Fifth Third Bank](http://53.com)** | **[Graphic Design Marketing Extern - Summer 2026](https://jobright.ai/jobs/info/68af448d2daaba398441cbb9?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 27 |
 | **[Avient Corporation](https://www.avient.com)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/68af7ec92daaba398441ec89?utm_campaign=1049&utm_source=git)** | Maryland Heights, MO | On Site | Aug 27 |
 | **[Deborah Lindquist](http://www.deborahlindquist.com)** | **[Creative intern, apprentice](https://jobright.ai/jobs/info/68b1ab7ebc187f64e1bd6074?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Aug 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Content Development & Project Support for Global Customer Advisory](https://jobright.ai/jobs/info/6892655ef5ee707a15dc55ac?utm_campaign=1049&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 27 |
