@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/687afddaed63844c944a6421?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Aug 31 |
 | **[Henkel](http://www.henkel.com)** | **[Industrial Design Intern – Spring 2026](https://jobright.ai/jobs/info/68b3db3b1ade4306aa63ce60?utm_campaign=1049&utm_source=git)** | Trumbull, CT | Hybrid | Aug 30 |
 | ↳ | **[CX Engagement and SME intern – Summer / Fall 2026](https://jobright.ai/jobs/info/68b3db0df4e41a61efd8ad5d?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Aug 30 |
 | ↳ | **[CX Engagement and SME intern – Summer / Fall 2026](https://jobright.ai/jobs/info/68b39c531ade4306aa63b648?utm_campaign=1049&utm_source=git)** | Bridgewater, None, US | On Site | Aug 30 |
@@ -114,9 +115,9 @@ For a complete list, click the following sortable link below:
 | **[AFSCME](http://www.afscme.org/)** | **[AFSCME Digital Intern](https://jobright.ai/jobs/info/68b0ee44b47fb001d689688c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Olsson](https://www.olsson.com)** | **[Landscape Architecture/Design Co-Op (Spring/Summer)](https://jobright.ai/jobs/info/68b0ccf2b47fb001d6895851?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
 | ↳ | **[Landscape Architecture/Design Internship](https://jobright.ai/jobs/info/68b0cc39b47fb001d68957f5?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
-| **[Directive](http://directiveconsulting.com)** | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0e8b113563e782a9fa354?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
+| **[Directive](http://directiveconsulting.com)** | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec0d13563e782a9fa613?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Aug 28 |
+| ↳ | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0e8b113563e782a9fa354?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
 | ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec7e13563e782a9fa65d?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Aug 28 |
-| ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec0d13563e782a9fa613?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Aug 28 |
 | ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec3213563e782a9fa633?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Aug 28 |
 | **[KOLOSIS](http://www.kolosis.com)** | **[Graphic Design Intern - Medical Device](https://jobright.ai/jobs/info/68b152d604557a6c207bc70a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 28 |
 | **[Human-i-Tees](humanitees.com)** | **[Branding & Identity Intern (Unpaid/College)](https://jobright.ai/jobs/info/68b0b6a613563e782a9f8bdc?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68926eeff5ee707a15dc5a50?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Aug 27 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6892731c4c7e851b90ad5e69?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Aug 27 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6892626d4c7e851b90ad546c?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | On Site | Aug 27 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Landscape Architecture Intern – Spring 2026](https://jobright.ai/jobs/info/68aeb9c32daaba3984419be4?utm_campaign=1049&utm_source=git)** | US.NV.Henderson | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
