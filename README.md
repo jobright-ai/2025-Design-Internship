@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68b6106f1ade4306aa643d24?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Sep 01 |
+| ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/68b61062f4e41a61efd91c8f?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Sep 01 |
 | **[Hoop Brothers](https://hoopbrothers.com/)** | **[Hoop Brothers Internship – Social Media, Marketing & Graphic Design](https://jobright.ai/jobs/info/68b5f8bdbc187f64e1be8a13?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Databricks](https://www.databricks.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/68b592ce1ade4306aa642443?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 01 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Marketing & Design Internship (Talent Pool)](https://jobright.ai/jobs/info/68b58fbbf4e41a61efd902bc?utm_campaign=1049&utm_source=git)** | Rogers, AR | Hybrid | Sep 01 |
@@ -138,9 +140,9 @@ For a complete list, click the following sortable link below:
 | **[AFSCME](http://www.afscme.org/)** | **[AFSCME Digital Intern](https://jobright.ai/jobs/info/68b0ee44b47fb001d689688c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Olsson](https://www.olsson.com)** | **[Landscape Architecture/Design Co-Op (Spring/Summer)](https://jobright.ai/jobs/info/68b0ccf2b47fb001d6895851?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
 | ↳ | **[Landscape Architecture/Design Internship](https://jobright.ai/jobs/info/68b0cc39b47fb001d68957f5?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
-| **[Directive](http://directiveconsulting.com)** | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec7e13563e782a9fa65d?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Aug 28 |
+| **[Directive](http://directiveconsulting.com)** | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0e8b113563e782a9fa354?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
+| ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec7e13563e782a9fa65d?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Aug 28 |
 | ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec0d13563e782a9fa613?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Aug 28 |
-| ↳ | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0e8b113563e782a9fa354?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
 | ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec3213563e782a9fa633?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Aug 28 |
 | **[KOLOSIS](http://www.kolosis.com)** | **[Graphic Design Intern - Medical Device](https://jobright.ai/jobs/info/68b152d604557a6c207bc70a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 28 |
 | **[Human-i-Tees](humanitees.com)** | **[Branding & Identity Intern (Unpaid/College)](https://jobright.ai/jobs/info/68b0b6a613563e782a9f8bdc?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Interior Design - CS College Intern](https://jobright.ai/jobs/info/68afe5c913563e782a9f246b?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 27 |
 | ↳ | **[Spring 2026- Interior Design - CS College Intern](https://jobright.ai/jobs/info/68b002b313563e782a9f2ee9?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 27 |
 | **[Spartanburg Academic Movement](https://learnwithsam.org/)** | **[Catalytic Internships- SAM](https://jobright.ai/jobs/info/68b1288d04557a6c207ba4f6?utm_campaign=1049&utm_source=git)** | Spartanburg, SC | On Site | Aug 27 |
-| **[Ferguson Construction](http://ferguson-construction.com)** | **[Architecture Co-Op -Summer 2026](https://jobright.ai/jobs/info/68b51ad41ade4306aa640027?utm_campaign=1049&utm_source=git)** | Sidney, OH | On Site | Aug 27 |
-| **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Spring 2026](https://jobright.ai/jobs/info/68afc82fe723db6c9b7b3654?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
