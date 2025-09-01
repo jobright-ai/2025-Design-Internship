@@ -60,10 +60,10 @@ For a complete list, click the following sortable link below:
 | **[Databricks](https://www.databricks.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/68b5595ebc187f64e1be67a6?utm_campaign=1049&utm_source=git)** | Seattle, Washington | On Site | Sep 01 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/68b5553cf4e41a61efd8f70e?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Sep 01 |
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/68b54b241ade4306aa641232?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Sep 01 |
-| ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/68b54614f4e41a61efd8ee32?utm_campaign=1049&utm_source=git)** | Avon, OH | On Site | Sep 01 |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Graphic Design Intern](https://jobright.ai/jobs/info/68b548a7bc187f64e1be5eb0?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/68b54614f4e41a61efd8ee32?utm_campaign=1049&utm_source=git)** | Avon, OH | On Site | Sep 01 |
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/68b545edf4e41a61efd8ee24?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Graphic Design Intern](https://jobright.ai/jobs/info/68b545d41ade4306aa640e89?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Graphic Design Intern](https://jobright.ai/jobs/info/68b544b6f4e41a61efd8edbd?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Columbus, OH](https://jobright.ai/jobs/info/68b544651ade4306aa640e0a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Musco Lighting](http://www.musco.com)** | **[Production Artist Intern](https://jobright.ai/jobs/info/68b53fbcbc187f64e1be5d5c?utm_campaign=1049&utm_source=git)** | Oskaloosa, IA | On Site | Aug 31 |
 | **[84.51˚](http://8451.com/)** | **[Experience Designer - Internship Program 2026](https://jobright.ai/jobs/info/68b53e841ade4306aa640c26?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 31 |
@@ -139,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Olsson](https://www.olsson.com)** | **[Landscape Architecture/Design Co-Op (Spring/Summer)](https://jobright.ai/jobs/info/68b0ccf2b47fb001d6895851?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
 | ↳ | **[Landscape Architecture/Design Internship](https://jobright.ai/jobs/info/68b0cc39b47fb001d68957f5?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
 | **[Directive](http://directiveconsulting.com)** | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec7e13563e782a9fa65d?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Aug 28 |
-| ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec0d13563e782a9fa613?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Aug 28 |
 | ↳ | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0e8b113563e782a9fa354?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
+| ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec0d13563e782a9fa613?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Aug 28 |
 | ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec3213563e782a9fa633?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Aug 28 |
 | **[KOLOSIS](http://www.kolosis.com)** | **[Graphic Design Intern - Medical Device](https://jobright.ai/jobs/info/68b152d604557a6c207bc70a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 28 |
 | **[Human-i-Tees](humanitees.com)** | **[Branding & Identity Intern (Unpaid/College)](https://jobright.ai/jobs/info/68b0b6a613563e782a9f8bdc?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
