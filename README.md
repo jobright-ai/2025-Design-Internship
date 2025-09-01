@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hoop Brothers](https://hoopbrothers.com/)** | **[Hoop Brothers Internship – Social Media, Marketing & Graphic Design](https://jobright.ai/jobs/info/68b5f8bdbc187f64e1be8a13?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Databricks](https://www.databricks.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/68b592ce1ade4306aa642443?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 01 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Marketing & Design Internship (Talent Pool)](https://jobright.ai/jobs/info/68b58fbbf4e41a61efd902bc?utm_campaign=1049&utm_source=git)** | Rogers, AR | Hybrid | Sep 01 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Sep 01 |
@@ -148,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[GRAPHIC DESIGN INTERNSHIP](https://jobright.ai/jobs/info/68b0c3822d46f6396cae8560?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Aug 28 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Graphic Design (Year-Round)](https://jobright.ai/jobs/info/68b0a3f12d46f6396cae7257?utm_campaign=1049&utm_source=git)** | WI-Milwaukee | Hybrid | Aug 28 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Harold Washington College Federal Work Study Student- Web Designer](https://jobright.ai/jobs/info/68b04fb0b47fb001d6891044?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | On Site | Aug 28 |
-| ↳ | **[Harold Washington College Federal Work Study Student- Web Designer](https://jobright.ai/jobs/info/68b04e12b47fb001d6890e76?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
+| ↳ | **[Harold Washington College Federal Work Study Student- Web Designer](https://jobright.ai/jobs/info/68b04b2db47fb001d6890a02?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly / Communications Assistant](https://jobright.ai/jobs/info/68b0169e13563e782a9f3705?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 28 |
 | **[La Ligne LLC](https://www.lalignenyc.com/)** | **[Design & Production Intern](https://jobright.ai/jobs/info/68afe995e723db6c9b7b4b48?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Interior Design - CS College Intern](https://jobright.ai/jobs/info/68afe5c913563e782a9f246b?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Aug 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spartanburg Academic Movement](https://learnwithsam.org/)** | **[Catalytic Internships- SAM](https://jobright.ai/jobs/info/68b1288d04557a6c207ba4f6?utm_campaign=1049&utm_source=git)** | Spartanburg, SC | On Site | Aug 27 |
 | **[Ferguson Construction](http://ferguson-construction.com)** | **[Architecture Co-Op -Summer 2026](https://jobright.ai/jobs/info/68b51ad41ade4306aa640027?utm_campaign=1049&utm_source=git)** | Sidney, OH | On Site | Aug 27 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Spring 2026](https://jobright.ai/jobs/info/68afc82fe723db6c9b7b3654?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 27 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern (Game Day)](https://jobright.ai/jobs/info/688d01943a30793eb9647c92?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
