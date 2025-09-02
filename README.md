@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Groflex AI](https://groflex.ai)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/68b6d59af4e41a61efd943c9?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Yellow Shoes Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68b6a0f6f4e41a61efd93f6b?utm_campaign=1049&utm_source=git)** | Orlando, FL, USA | Hybrid | Sep 02 |
 | ↳ | **[Yellow Shoes Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68b6a0351ade4306aa645f05?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | Hybrid | Sep 02 |
 | **[Candy Stripers®](https://www.linkedin.com/company/108011489)** | **[Maketing & Branding Fall Internship (Remote) (School Credit)](https://jobright.ai/jobs/info/68b698da1ade4306aa645c39?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 02 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68b690541ade4306aa645ac8?utm_campaign=1049&utm_source=git)** | Dayton, OH | On Site | Sep 01 |
 | ↳ | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68b68a22f4e41a61efd93916?utm_campaign=1049&utm_source=git)** | Westminster, CO | On Site | Sep 01 |
 | ↳ | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68b685521ade4306aa64588e?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Sep 01 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Wealth Management Digital Client and Partner Experience Intern  ](https://jobright.ai/jobs/info/68b6833fbc187f64e1bea84f?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Programs Communications & Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68b6721df4e41a61efd92e43?utm_campaign=1049&utm_source=git)** | Winter Garden, FL, USA | Hybrid | Sep 01 |
 | ↳ | **[Graphic Design & Communications Intern, Spring 2026](https://jobright.ai/jobs/info/68b671e81ade4306aa645057?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Sep 01 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68b63d1ef4e41a61efd9207d?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Sep 01 |
@@ -89,10 +89,10 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Columbus, OH](https://jobright.ai/jobs/info/68b544651ade4306aa640e0a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Musco Lighting](http://www.musco.com)** | **[Production Artist Intern](https://jobright.ai/jobs/info/68b53fbcbc187f64e1be5d5c?utm_campaign=1049&utm_source=git)** | Oskaloosa, IA | On Site | Aug 31 |
 | **[84.51˚](http://8451.com/)** | **[Experience Designer - Internship Program 2026](https://jobright.ai/jobs/info/68b53e841ade4306aa640c26?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Aug 31 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[UX Design Internship - Summer 2026](https://jobright.ai/jobs/info/68b53b1b1ade4306aa640c08?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[Textron](http://textron.com)** | **[2026 Graphic Design Intern](https://jobright.ai/jobs/info/68b52a601ade4306aa640989?utm_campaign=1049&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[99 Yards](https://99yards.app)** | **[Photographer/Videographer Event & Content Intern – 99 YARDS](https://jobright.ai/jobs/info/68b52a2bf4e41a61efd8e940?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Graphic Design Intern](https://jobright.ai/jobs/info/68b5269fbc187f64e1be55a2?utm_campaign=1049&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[UX Design Internship - Summer 2026](https://jobright.ai/jobs/info/68b5263bbc187f64e1be557f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Destinations Communications Intern, Spring 2026](https://jobright.ai/jobs/info/68b520c11ade4306aa64052c?utm_campaign=1049&utm_source=git)** | Celebration, FL, USA | Hybrid | Aug 31 |
 | **[Cookiy AI](cookiy.com)** | **[Creative Content Intern](https://jobright.ai/jobs/info/68b5988af4e41a61efd9060c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[Jeu de paume](jeudepaume.com)** | **[Graphic Design Media Intern](https://jobright.ai/jobs/info/68b4c9f8f4e41a61efd8ca7c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Aug 31 |
@@ -128,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Google](https://www.google.com)** | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac967edaf1431824c96440?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Aug 29 |
 | ↳ | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac8fce758f2e4ac3006911?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 29 |
 | ↳ | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac8d01d627244576e46a4c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 29 |
-| ↳ | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac880a758f2e4ac3006470?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
 | ↳ | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac74abdaf1431824c9523a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 29 |
+| ↳ | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac880a758f2e4ac3006470?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
 | **[Jared Ducote, Architect](http://www.ducotedesign.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/68b2f896bc187f64e1bdf7ec?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Aug 29 |
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/68b1d5a8f4e41a61efd7fff3?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/68b1aee7bc187f64e1bd610a?utm_campaign=1049&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
