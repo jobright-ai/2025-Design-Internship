@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68b685521ade4306aa64588e?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Sep 01 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Yellow Shoes Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68b6a0f6f4e41a61efd93f6b?utm_campaign=1049&utm_source=git)** | Orlando, FL, USA | Hybrid | Sep 02 |
+| ↳ | **[Yellow Shoes Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68b6a0351ade4306aa645f05?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | Hybrid | Sep 02 |
+| **[Candy Stripers®](https://www.linkedin.com/company/108011489)** | **[Maketing & Branding Fall Internship (Remote) (School Credit)](https://jobright.ai/jobs/info/68b698da1ade4306aa645c39?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 02 |
+| **[Grainger](https://www.grainger.com)** | **[GTG Intern - User Experience Research](https://jobright.ai/jobs/info/68b6938c1ade4306aa645ae0?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 01 |
+| ↳ | **[GTG Intern - User Experience Design](https://jobright.ai/jobs/info/68b6936bf4e41a61efd93a90?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 01 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68b690541ade4306aa645ac8?utm_campaign=1049&utm_source=git)** | Dayton, OH | On Site | Sep 01 |
+| ↳ | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68b68a22f4e41a61efd93916?utm_campaign=1049&utm_source=git)** | Westminster, CO | On Site | Sep 01 |
+| ↳ | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68b685521ade4306aa64588e?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Sep 01 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Wealth Management Digital Client and Partner Experience Intern  ](https://jobright.ai/jobs/info/68b68402f4e41a61efd93853?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Programs Communications & Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68b6721df4e41a61efd92e43?utm_campaign=1049&utm_source=git)** | Winter Garden, FL, USA | Hybrid | Sep 01 |
 | ↳ | **[Graphic Design & Communications Intern, Spring 2026](https://jobright.ai/jobs/info/68b671e81ade4306aa645057?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Sep 01 |
@@ -105,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68984bee5574fd6bc0c77429?utm_campaign=1049&utm_source=git)** | Strongsville, OH | On Site | Aug 30 |
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[K-12 Graphic Design Internship](https://jobright.ai/jobs/info/68afc0d3b47fb001d688ce07?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Aug 29 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Art & Design Model](https://jobright.ai/jobs/info/68b3cefbbc187f64e1be179d?utm_campaign=1049&utm_source=git)** | Richmond, KY | On Site | Aug 29 |
+| **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Design Intern, Housing Operations](https://jobright.ai/jobs/info/68b69cf6bc187f64e1beac77?utm_campaign=1049&utm_source=git)** | Bloomington, IN | On Site | Aug 29 |
 | **[Downtown Phoenix Inc.](https://www.dtphx.org)** | **[Graphic Design + Marketing Intern](https://jobright.ai/jobs/info/68b272fcf4e41a61efd84942?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Aug 29 |
 | **[Ignite Adaptive Sports](https://igniteadaptivesports.org)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/68b23d1fbc187f64e1bda07a?utm_campaign=1049&utm_source=git)** | Colorado, United States | Remote | Aug 29 |
 | **[Print Magazine](http://www.printmag.com)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68b204b91ade4306aa633dbe?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 29 |
@@ -120,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Google](https://www.google.com)** | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac967edaf1431824c96440?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Aug 29 |
 | ↳ | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac8fce758f2e4ac3006911?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Aug 29 |
 | ↳ | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac8d01d627244576e46a4c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 29 |
-| ↳ | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac74abdaf1431824c9523a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 29 |
 | ↳ | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac880a758f2e4ac3006470?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
+| ↳ | **[User Experience Design Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ac74abdaf1431824c9523a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Aug 29 |
 | **[Jared Ducote, Architect](http://www.ducotedesign.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/68b2f896bc187f64e1bdf7ec?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Aug 29 |
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/68b1d5a8f4e41a61efd7fff3?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/68b1aee7bc187f64e1bd610a?utm_campaign=1049&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b144cb6fab621da7b0bd72?utm_campaign=1049&utm_source=git)** | Detroit, MI | Remote | Aug 28 |
 | ↳ | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b12ab804557a6c207ba85c?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Aug 28 |
 | **[AFSCME](http://www.afscme.org/)** | **[AFSCME Digital Intern](https://jobright.ai/jobs/info/68b0ee44b47fb001d689688c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Aug 28 |
-| **[Olsson](https://www.olsson.com)** | **[Landscape Architecture/Design Co-Op (Spring/Summer)](https://jobright.ai/jobs/info/68b0ccf2b47fb001d6895851?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
-| ↳ | **[Landscape Architecture/Design Internship](https://jobright.ai/jobs/info/68b0cc39b47fb001d68957f5?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Aug 28 |
-| **[Directive](http://directiveconsulting.com)** | **[Digital Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0e8b113563e782a9fa354?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
-| ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec7e13563e782a9fa65d?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Aug 28 |
-| ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec0d13563e782a9fa613?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Aug 28 |
-| ↳ | **[Design Intern (Remote US)](https://jobright.ai/jobs/info/68b0ec3213563e782a9fa633?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Aug 28 |
-| **[KOLOSIS](http://www.kolosis.com)** | **[Graphic Design Intern - Medical Device](https://jobright.ai/jobs/info/68b152d604557a6c207bc70a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Aug 28 |
-| **[Human-i-Tees](humanitees.com)** | **[Branding & Identity Intern (Unpaid/College)](https://jobright.ai/jobs/info/68b0b6a613563e782a9f8bdc?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
