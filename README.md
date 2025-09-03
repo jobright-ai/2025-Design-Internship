@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Content Designer](https://jobright.ai/jobs/info/68b7d1df0514b74d7c3eab96?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Sep 02 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Website & UX Intern](https://jobright.ai/jobs/info/68b7cd160514b74d7c3ea8c9?utm_campaign=1049&utm_source=git)** | DC-Baltimore Area | Remote | Sep 02 |
 | **[geoConvergence](https://39dn.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/68b7b737effbb9793f7b7736?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Sep 02 |
 | **[Terrain](http://shopterrain.com)** | **[Terrain Design Services Intern- Delaware Valley University](https://jobright.ai/jobs/info/68b7b06aeffbb9793f7b6dae?utm_campaign=1049&utm_source=git)** | Doylestown, PA | On Site | Sep 02 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Book Artists Intern](https://jobright.ai/jobs/info/68b7b04eeffbb9793f7b6d63?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Sep 02 |
@@ -81,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Design Research](https://jobright.ai/jobs/info/68b77977f4e41a61efd99343?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Sep 02 |
 | **[The Andersons, Inc.](http://www.andersonsinc.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68b777942124650c14022f7b?utm_campaign=1049&utm_source=git)** | Maumee, OH | On Site | Sep 02 |
 | **[WoMen of Connections Ministry](www.mywoc.org)** | **[UI/UX Design Volunteer](https://jobright.ai/jobs/info/68b7b7ae872d1074a98b2cfb?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Sep 02 |
+| **[HNTB](http://www.hntb.com/)** | **[Landscape/Urban Design Community Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68b77475f4e41a61efd9912f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 02 |
 | **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Diseño Gráfico](https://jobright.ai/jobs/info/68b773281ade4306aa64b0a9?utm_campaign=1049&utm_source=git)** | Santa Cruz, CA | On Site | Sep 02 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Photoshop Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/68b799c3f4e41a61efd9a754?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Sep 02 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern - UX/UI Design](https://jobright.ai/jobs/info/68b764162124650c14022784?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Sep 02 |
@@ -102,15 +105,16 @@ For a complete list, click the following sortable link below:
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b73c142124650c14020883?utm_campaign=1049&utm_source=git)** | Modesto, CA | On Site | Sep 02 |
 | **[National Life Group](https://www.nationallife.com)** | **[Illustration Systems Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68b7386f1ade4306aa6489b2?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Sep 02 |
 | **[Berners Schober](https://bernersschober.com/)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/68b733a92124650c140202f5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Sep 02 |
-| ↳ | **[Summer Architectural Intern](https://jobright.ai/jobs/info/68b73291f4e41a61efd965e2?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Sep 02 |
+| **[RMT Architects](https://www.rmtarchitects.com/)** | **[INTERN ARCHITECTURAL STAFF](https://jobright.ai/jobs/info/68b7beba5e55be5e2604d2ec?utm_campaign=1049&utm_source=git)** | Eagle, CO | Hybrid | Sep 02 |
+| **[Berners Schober](https://bernersschober.com/)** | **[Summer Architectural Intern](https://jobright.ai/jobs/info/68b73291f4e41a61efd965e2?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Sep 02 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 UX/UI Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/68b731691ade4306aa648552?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 02 |
 | **[We Shift Culture](https://www.weshiftculture.co/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68b762862124650c1402268f?utm_campaign=1049&utm_source=git)** | Triangle Area | Hybrid | Sep 02 |
 | **[iLABS (Innovation Labs) Inc.](https://ilabsus.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/689e322183d13d1f5b6b7a72?utm_campaign=1049&utm_source=git)** | Mahwah, NJ | On Site | Sep 02 |
-| **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/68b72c62f4e41a61efd96258?utm_campaign=1049&utm_source=git)** | Ontario, CA | Remote | Sep 02 |
+| **[Buzzd](www.buzzdny.com)** | **[Tiktok Short Video Operations Intern (Mandarin)](https://jobright.ai/jobs/info/68b7c4300514b74d7c3e9f0f?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Sep 02 |
+| **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/68b727062124650c1401fbd1?utm_campaign=1049&utm_source=git)** | Ontario, CA | Remote | Sep 02 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Collaboration Tools & Process](https://jobright.ai/jobs/info/68b723701ade4306aa647e38?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Sep 02 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 UX/UI Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/68b720772124650c1401f99a?utm_campaign=1049&utm_source=git)** | 11450 Grooms Rd, Blue Ash, OH, 45242, US | On Site | Sep 02 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Collaboration Tools & Process](https://jobright.ai/jobs/info/68b71d782124650c1401f8f2?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Sep 02 |
-| ↳ | **[Intern - Collaboration Tools & Process](https://jobright.ai/jobs/info/68b71d321ade4306aa647bcf?utm_campaign=1049&utm_source=git)** | Centennial, CO | On Site | Sep 02 |
-| **[HNTB](http://www.hntb.com/)** | **[Landscape/Urban Design Community Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68b71c80f4e41a61efd95b3e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 02 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Collaboration Tools & Process](https://jobright.ai/jobs/info/68b71d321ade4306aa647bcf?utm_campaign=1049&utm_source=git)** | Centennial, CO | On Site | Sep 02 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68b712501ade4306aa6477a7?utm_campaign=1049&utm_source=git)** | Moraine, OH | On Site | Sep 02 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Design Intern Summer 2026 - Dresses](https://jobright.ai/jobs/info/68b70b42f4e41a61efd95316?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
 | **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/68b706872124650c1401eda9?utm_campaign=1049&utm_source=git)** | Not in Nokia premises, CA Virtual - ON, Ontario, CA | Remote | Sep 02 |
@@ -127,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Free People Design Intern Summer 2026 - Craft & Embellishment](https://jobright.ai/jobs/info/68b6ff33f4e41a61efd94e5d?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
 | **[URBN (Urban Outfitters, Anthropologie Group, Free People & Nuuly)](http://urbn.com)** | **[Anthropologie Graphic Design Intern](https://jobright.ai/jobs/info/68b6fa042124650c1401e9ab?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
 | ↳ | **[Urban Outfitters Apparel Design Intern Summer 2026 - Men's](https://jobright.ai/jobs/info/68b75ae82124650c140222ac?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
-| **[Covestro](https://www.covestro.com)** | **[Automotive Design Visualization Internship](https://jobright.ai/jobs/info/68b6f3f82124650c1401e850?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Sep 02 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Destinations Communications Intern, Spring 2026](https://jobright.ai/jobs/info/68b7405b1ade4306aa6492f6?utm_campaign=1049&utm_source=git)** | Celebration, FL | Hybrid | Sep 02 |
+| **[Covestro](https://www.covestro.com)** | **[Automotive Design Visualization Internship](https://jobright.ai/jobs/info/68b6e6e8f4e41a61efd94751?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Sep 02 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - UX/Market Research Intern](https://jobright.ai/jobs/info/68a308f2403ad4363b1be657?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Hybrid | Sep 02 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a47395574fd6bc0c813d6?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Yellow Shoes Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68b6a0f6f4e41a61efd93f6b?utm_campaign=1049&utm_source=git)** | Orlando, FL, USA | Hybrid | Sep 02 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68b6106f1ade4306aa643d24?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Sep 01 |
 | ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/68b61062f4e41a61efd91c8f?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Sep 01 |
 | **[Hoop Brothers](https://hoopbrothers.com/)** | **[Hoop Brothers Internship – Social Media, Marketing & Graphic Design](https://jobright.ai/jobs/info/68b5f8bdbc187f64e1be8a13?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 01 |
-| ↳ | **[Internship – Video Editing & Content Creation](https://jobright.ai/jobs/info/68b65bae1ade4306aa644529?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 01 |
+| **[Compeer Financial](https://compeer.com/)** | **[Intern Design Thinking](https://jobright.ai/jobs/info/68b1f8df1ade4306aa633421?utm_campaign=1049&utm_source=git)** | Greater Decatur, IL Area | Hybrid | Sep 01 |
+| **[Hoop Brothers](https://hoopbrothers.com/)** | **[Internship – Video Editing & Content Creation](https://jobright.ai/jobs/info/68b65bae1ade4306aa644529?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Databricks](https://www.databricks.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/68b592ce1ade4306aa642443?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 01 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Marketing & Design Internship (Talent Pool)](https://jobright.ai/jobs/info/68b58fbbf4e41a61efd902bc?utm_campaign=1049&utm_source=git)** | Rogers, AR | Hybrid | Sep 01 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Sep 01 |
-| **[Databricks](https://www.databricks.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/68b5595ebc187f64e1be67a6?utm_campaign=1049&utm_source=git)** | Seattle, Washington | On Site | Sep 01 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/68b5553cf4e41a61efd8f70e?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Sep 01 |
-| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Graphic Design Intern](https://jobright.ai/jobs/info/68b678e11ade4306aa64554f?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/68b54b241ade4306aa641232?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Sep 01 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Graphic Design Intern](https://jobright.ai/jobs/info/68b548a7bc187f64e1be5eb0?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
