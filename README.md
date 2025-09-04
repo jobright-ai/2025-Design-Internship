@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Print Magazine](http://www.printmag.com)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68b9e6996105227d11899113?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 04 |
+| **[Varmodel AI](https://www.linkedin.com/company/79943374)** | **[Intern - UX Designer](https://jobright.ai/jobs/info/68b9dc6b6105227d1189869b?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 04 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b9dc3b5f383274918616bb?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Sep 04 |
+| **[Nexa Tax, Inc.](https://www.nexatax.co)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68b9d92a8043103d4f21af86?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 04 |
+| **[The Powder Room Studio LA](https://www.thepowderroomstudiola.com/)** | **[Art Department Intern for Fine Art Photography](https://jobright.ai/jobs/info/68b9da348043103d4f21b05a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 04 |
 | **[Penn State Department of Materials Science and Engineering](https://www.matse.psu.edu/)** | **[Arts & Architecture Multimedia Intern](https://jobright.ai/jobs/info/68b9aa2a6105227d11896b51?utm_campaign=1049&utm_source=git)** | Penn State University Park | On Site | Sep 04 |
 | **[PostNet International Franchise Corporation](http://www.PostNet.com)** | **[Graphic Service Internship](https://jobright.ai/jobs/info/68b9a87d5f3832749185fd4f?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | On Site | Sep 04 |
 | **[Quantum Workplace](http://www.quantumworkplace.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68b9a7658043103d4f219507?utm_campaign=1049&utm_source=git)** | Omaha, Nebraska | On Site | Sep 04 |
@@ -93,9 +98,9 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications (Fall 2025)](https://jobright.ai/jobs/info/68b8aa815b42bc4562826cf0?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 03 |
 | **[Miracle Miles Group Inc.](www.dreampairshoes.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68b8a9b05b42bc4562826bd1?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Sep 03 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Architecture Intern](https://jobright.ai/jobs/info/68b8a92807090163b6ba401d?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts | Hybrid | Sep 03 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/68b9bac96105227d11897528?utm_campaign=1049&utm_source=git)** | Pasadena, California, United States of America | On Site | Sep 03 |
-| ↳ | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/68b9ba8c5f383274918605cc?utm_campaign=1049&utm_source=git)** | Warren, Michigan, United States of America | On Site | Sep 03 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/68b9ba8c5f383274918605cc?utm_campaign=1049&utm_source=git)** | Warren, Michigan, United States of America | On Site | Sep 03 |
 | ↳ | **[2026 Summer Intern – Creative Design](https://jobright.ai/jobs/info/68b8fbab07090163b6ba6965?utm_campaign=1049&utm_source=git)** | Warren, Michigan, United States of America | On Site | Sep 03 |
+| ↳ | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/68b9bac96105227d11897528?utm_campaign=1049&utm_source=git)** | Pasadena, California, United States of America | On Site | Sep 03 |
 | ↳ | **[2026 Summer Intern – Creative Design](https://jobright.ai/jobs/info/68b8f8475b42bc456282956d?utm_campaign=1049&utm_source=git)** | Pasadena, California, United States of America | On Site | Sep 03 |
 | **[HNTB](http://www.hntb.com/)** | **[Intern Interior Designer - Summer 2026](https://jobright.ai/jobs/info/68b89a4bea901c0d269f7e6c?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Sep 03 |
 | ↳ | **[Intern Interior Designer - Summer 2026](https://jobright.ai/jobs/info/68b898a45b42bc4562826194?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Figueroa Street) | On Site | Sep 03 |
@@ -112,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[USAA](https://www.usaa.com)** | **[Risk Analyst Intern - Graphic Design](https://jobright.ai/jobs/info/68b87cadea901c0d269f6929?utm_campaign=1049&utm_source=git)** | San Antonio Home Office I | On Site | Sep 03 |
 | **[LawBandit](https://www.lawbandit.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/68b8791707090163b6ba1e8c?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 Summer Intern - Graphic Design](https://jobright.ai/jobs/info/68b990ee6105227d11895cff?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Sep 03 |
-| **[HNTB](http://www.hntb.com/)** | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/68b870f707090163b6ba1b5e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Figueroa Street) | On Site | Sep 03 |
 | **[Jeu de paume](jeudepaume.com)** | **[Graphic Design Fashion Intern](https://jobright.ai/jobs/info/68b870e3ea901c0d269f635c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 03 |
+| **[HNTB](http://www.hntb.com/)** | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/68b86f32ea901c0d269f6171?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Figueroa Street) | On Site | Sep 03 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Creative Content Team Intern](https://jobright.ai/jobs/info/68b887e95b42bc456282540d?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Sep 03 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - Collaboration Tools & Process (Spring 2026)](https://jobright.ai/jobs/info/68b723701ade4306aa647e38?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Sep 03 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Landscape Architecture Intern / Woodbury, NY](https://jobright.ai/jobs/info/68b781af2124650c140233b3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dieta Health - Acquired by Cylinder Health](https://www.dietahealth.com/)** | **[Visual Design Intern](https://jobright.ai/jobs/info/68b8ab5e5b42bc4562826da9?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 02 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Fashion Design - Corporate Internship](https://jobright.ai/jobs/info/68b781521ade4306aa64b8ba?utm_campaign=1049&utm_source=git)** | Seattle WA | On Site | Sep 02 |
 | **[Agathus Studios](https://agathus.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68b77e65f4e41a61efd99523?utm_campaign=1049&utm_source=git)** | Tustin, CA | Hybrid | Sep 02 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Fashion Design - Corporate Internship](https://jobright.ai/jobs/info/68b77e2f2124650c1402331e?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Internship Program - Design Research](https://jobright.ai/jobs/info/68b77dcd1ade4306aa64b55c?utm_campaign=1049&utm_source=git)** | Portland, Maine | Remote | Sep 02 |
-| ↳ | **[2026 Summer Internship Program - Design Research](https://jobright.ai/jobs/info/68b77db8f4e41a61efd994bc?utm_campaign=1049&utm_source=git)** | Remote Philadelphia (PA) | Remote | Sep 02 |
-| ↳ | **[2026 Summer Internship Program - Design Research](https://jobright.ai/jobs/info/68b77d022124650c140231b3?utm_campaign=1049&utm_source=git)** | Remote Mount Laurel (NJ) | Remote | Sep 02 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Design Research](https://jobright.ai/jobs/info/68b77977f4e41a61efd99343?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
