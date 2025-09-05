@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tyndale House Publishers](http://www.tyndale.com)** | **[Graphic Design & Illustration Intern (Summer 2026)](https://jobright.ai/jobs/info/68bad6796105227d118a0d4c?utm_campaign=1049&utm_source=git)** | Carol Stream, IL | On Site | Sep 05 |
+| **[Ever Lasting Fabric](https://everlastingfabric.com/)** | **[Web Experience Intern](https://jobright.ai/jobs/info/68bae10a5f3832749186a3b6?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Internships - Computer Graphics](https://jobright.ai/jobs/info/68ba9b818043103d4f2222aa?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Sep 05 |
 | ↳ | **[2026 US Summer Internships - Environment Art](https://jobright.ai/jobs/info/68ba95286105227d1189f815?utm_campaign=1049&utm_source=git)** | Middleton, WI | On Site | Sep 05 |
 | **[Arup](http://www.arup.com)** | **[Audio Visual/Experience Designer Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba82018043103d4f2211b3?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 04 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 Summer Intern - Graphic Design](https://jobright.ai/jobs/info/68ba8c606105227d1189eed7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 03 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Summer 2026 UX/UI Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/68ba7c4a8043103d4f220ee2?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 03 |
 | **[Wonder](https://www.wonder.com)** | **[Kitchen Design Intern - Summer 2026](https://jobright.ai/jobs/info/68b9402aea901c0d269fdeca?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 03 |
-| **[Kennedy Jenks](https://www.kennedyjenks.com)** | **[2026 Summer Intern - Graphic Design](https://jobright.ai/jobs/info/68ba72385f3832749186748e?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Sep 03 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/68b90a38ea901c0d269fbab1?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Sep 03 |
 | **[Epic Games](https://epicgames.com)** | **[Concept Artist Intern](https://jobright.ai/jobs/info/68b8fe51ea901c0d269fb34b?utm_campaign=1049&utm_source=git)** | Cary,North Carolina,United States | On Site | Sep 03 |
 | **[Raven Software](http://www.ravensoftware.com)** | **[2026 US Summer Internships - Environment Art](https://jobright.ai/jobs/info/68ba54e36105227d1189ce72?utm_campaign=1049&utm_source=git)** | Middleton, WI | On Site | Sep 03 |
@@ -135,13 +136,13 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications (Fall 2025)](https://jobright.ai/jobs/info/68b8aa815b42bc4562826cf0?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 03 |
 | **[Miracle Miles Group Inc.](www.dreampairshoes.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68b8a9b05b42bc4562826bd1?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Sep 03 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Architecture Intern](https://jobright.ai/jobs/info/68b8a92807090163b6ba401d?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts | Hybrid | Sep 03 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/68b9ba8c5f383274918605cc?utm_campaign=1049&utm_source=git)** | Warren, Michigan, United States of America | On Site | Sep 03 |
-| ↳ | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/68b9bac96105227d11897528?utm_campaign=1049&utm_source=git)** | Pasadena, California, United States of America | On Site | Sep 03 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Creative Design](https://jobright.ai/jobs/info/68b8f8475b42bc456282956d?utm_campaign=1049&utm_source=git)** | Pasadena, California, United States of America | On Site | Sep 03 |
 | ↳ | **[2026 Summer Intern – Creative Design](https://jobright.ai/jobs/info/68b8fbab07090163b6ba6965?utm_campaign=1049&utm_source=git)** | Warren, Michigan, United States of America | On Site | Sep 03 |
-| ↳ | **[2026 Summer Intern – Creative Design](https://jobright.ai/jobs/info/68b8f8475b42bc456282956d?utm_campaign=1049&utm_source=git)** | Pasadena, California, United States of America | On Site | Sep 03 |
+| ↳ | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/68b9ba8c5f383274918605cc?utm_campaign=1049&utm_source=git)** | Warren, Michigan, United States of America | On Site | Sep 03 |
+| ↳ | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/68b9bac96105227d11897528?utm_campaign=1049&utm_source=git)** | Pasadena, California, United States of America | On Site | Sep 03 |
 | **[HNTB](http://www.hntb.com/)** | **[Intern Interior Designer - Summer 2026](https://jobright.ai/jobs/info/68b89a4bea901c0d269f7e6c?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Sep 03 |
 | ↳ | **[Intern Interior Designer - Summer 2026](https://jobright.ai/jobs/info/68b898a45b42bc4562826194?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Figueroa Street) | On Site | Sep 03 |
-| **[Sub-Zero Group, Inc.](https://www.subzero-wolf.com/sub-zero)** | **[2026 Industrial Design Co-op](https://jobright.ai/jobs/info/68b8972907090163b6ba3308?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Sep 03 |
+| **[Sub-Zero Group, Inc.](http://www.subzero-wolf.com/)** | **[2026 Industrial Design Co-op](https://jobright.ai/jobs/info/68b8972907090163b6ba3308?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Sep 03 |
 | **[ATC](http://www.atcllc.com/)** | **[Intern - Asset Management Summer 2026](https://jobright.ai/jobs/info/68b892c3ea901c0d269f7760?utm_campaign=1049&utm_source=git)** | Cottage Grove, WI | On Site | Sep 03 |
 | ↳ | **[Intern - Asset Management Summer 2026](https://jobright.ai/jobs/info/68b890855b42bc4562825aa5?utm_campaign=1049&utm_source=git)** | Pewaukee, WI | On Site | Sep 03 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Design Leadership Development Program – Full Time and Summer Internship](https://jobright.ai/jobs/info/68b88fd107090163b6ba2b03?utm_campaign=1049&utm_source=git)** | Columbus, OH, USA | On Site | Sep 03 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[MathWorks](http://www.mathworks.com)** | **[User Experience Intern - Undergrad Students](https://jobright.ai/jobs/info/68b87f6d07090163b6ba225c?utm_campaign=1049&utm_source=git)** | Natick, MA | Hybrid | Sep 03 |
 | **[USAA](https://www.usaa.com)** | **[Risk Analyst Intern - Graphic Design](https://jobright.ai/jobs/info/68b87cadea901c0d269f6929?utm_campaign=1049&utm_source=git)** | San Antonio Home Office I | On Site | Sep 03 |
 | **[LawBandit](https://www.lawbandit.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/68b8791707090163b6ba1e8c?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 03 |
-| **[HNTB](http://www.hntb.com/)** | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/68b870f707090163b6ba1b5e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Figueroa Street) | On Site | Sep 03 |
 | **[Jeu de paume](jeudepaume.com)** | **[Graphic Design Fashion Intern](https://jobright.ai/jobs/info/68b870e3ea901c0d269f635c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 03 |
+| **[HNTB](http://www.hntb.com/)** | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/68b86f32ea901c0d269f6171?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Figueroa Street) | On Site | Sep 03 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Creative Content Team Intern](https://jobright.ai/jobs/info/68b887e95b42bc456282540d?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Sep 03 |
-| **[Weissman](https://www.weissmans.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/68b865905b42bc456282430d?utm_campaign=1049&utm_source=git)** | Greater St. Louis | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
