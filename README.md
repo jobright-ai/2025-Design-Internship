@@ -64,6 +64,8 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Master Planning Intern, Spring 2026](https://jobright.ai/jobs/info/68bc4550ae79610dacddb3ee?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 06 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0abfaa4e875e828bc28?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c4cc9ee94dc911a911?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 06 |
+| ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be94?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
+| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d4bfaa4e875e828d0a8?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68bbefdd5f383274918745e2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 06 |
 | **[D.C. United](http://dcunited.com)** | **[Intern, Graphic Design - Power FC - Summer/Fall 2025](https://jobright.ai/jobs/info/68bba7435f3832749187147f?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 05 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[Clean-up Artist Intern](https://jobright.ai/jobs/info/68bb98305f38327491870887?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Sep 05 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[UX Designer Intern](https://jobright.ai/jobs/info/68bb70a96105227d118a5f4c?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Sep 05 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68bb70615f3832749186f1f6?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Sep 05 |
 | **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - UI/UX](https://jobright.ai/jobs/info/68bb6f498043103d4f228931?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 05 |
-| **[Q Prime Artist Management](http://qprime.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68bb68af8043103d4f2285a1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[TruStage](https://www.trustage.com/)** | **[Creative Services - Design Intern (Hybrid)](https://jobright.ai/jobs/info/68bb687d6105227d118a5c44?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Sep 05 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bb60316105227d118a597d?utm_campaign=1049&utm_source=git)** | Little Rock, AR | On Site | Sep 05 |
 | ↳ | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bb5fef6105227d118a5965?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | On Site | Sep 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quantum Workplace](http://www.quantumworkplace.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68b9a7658043103d4f219507?utm_campaign=1049&utm_source=git)** | Omaha, Nebraska | On Site | Sep 04 |
 | **[Leidos](https://www.leidos.com/)** | **[Decal Lab Intern](https://jobright.ai/jobs/info/68b99b0a6105227d11896419?utm_campaign=1049&utm_source=git)** | Webster, TX | On Site | Sep 04 |
 | **[Treyarch](http://www.treyarch.com/)** | **[2026 US Summer Internships - Photogrammetry](https://jobright.ai/jobs/info/68baab196105227d1189fd97?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
-| ↳ | **[2026 US Summer Internships - Concept Art](https://jobright.ai/jobs/info/68baaa366105227d1189fd4f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
