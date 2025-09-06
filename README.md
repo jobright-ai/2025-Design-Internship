@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68bc8c973bf9eb44f8324398?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 06 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/68bc534dae79610dacddb644?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Sep 06 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbc1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe096faa4e875e828bbe7?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Sep 06 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d4bfaa4e875e828d0a8?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68bbefdd5f383274918745e2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 06 |
 | **[D.C. United](http://dcunited.com)** | **[Intern, Graphic Design - Power FC - Summer/Fall 2025](https://jobright.ai/jobs/info/68bba7435f3832749187147f?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 05 |
-| **[The Patel Comics](https://thepatelcomics.com/)** | **[Clean-up Artist Intern](https://jobright.ai/jobs/info/68bb98305f38327491870887?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Sep 05 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68bb97ea6105227d118a7552?utm_campaign=1049&utm_source=git)** | Vestavia Hills, AL | Hybrid | Sep 05 |
 | **[Peter Dundas](https://www.linkedin.com/company/108466301)** | **[Fashion Internship](https://jobright.ai/jobs/info/68bc30915f3832749187546d?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Sep 05 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Inclusive Growth](https://jobright.ai/jobs/info/68bb8c556105227d118a6f3d?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Sep 05 |
