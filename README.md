@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TruStage](https://www.trustage.com/)** | **[Creative Services - Design Intern (Hybrid)](https://jobright.ai/jobs/info/68bb735e8043103d4f2289f2?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Sep 05 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[UX Designer Intern](https://jobright.ai/jobs/info/68bb70a96105227d118a5f4c?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Sep 05 |
+| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68bb70615f3832749186f1f6?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Sep 05 |
+| **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - UI/UX](https://jobright.ai/jobs/info/68bb6f498043103d4f228931?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 05 |
+| **[Q Prime Artist Management](http://qprime.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68bb68af8043103d4f2285a1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 05 |
+| **[TruStage](https://www.trustage.com/)** | **[Creative Services - Design Intern (Hybrid)](https://jobright.ai/jobs/info/68bb687d6105227d118a5c44?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Sep 05 |
+| **[wesource wellness](Www.wesourcewellness.com)** | **[Marketing & Design Intern](https://jobright.ai/jobs/info/68bb66cb6105227d118a5b02?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 05 |
+| **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bb60316105227d118a597d?utm_campaign=1049&utm_source=git)** | Little Rock, AR | On Site | Sep 05 |
+| ↳ | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bb5fef6105227d118a5965?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | On Site | Sep 05 |
+| ↳ | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bb5fa15f3832749186ec06?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Sep 05 |
+| **[The University of New Mexico](http://unm.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/68bb5b458043103d4f2281f4?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Sep 05 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - UI/UX](https://jobright.ai/jobs/info/68bb55c26105227d118a55e7?utm_campaign=1049&utm_source=git)** | Playa Vista | On Site | Sep 05 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 Digital Graphic Design Intern](https://jobright.ai/jobs/info/68bb501c6105227d118a53df?utm_campaign=1049&utm_source=git)** | Boston, MA. | On Site | Sep 05 |
 | **[MINNESOTA SPORTS & ENTERTAINMENT](https://www.linkedin.com/company/55865194)** | **[Iowa Wild Creative Services Intern (Part-Time)](https://jobright.ai/jobs/info/68bb485d8043103d4f227710?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Sep 05 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/68b8e27eea901c0d269fa39d?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b8dc995b42bc45628284a3?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Sep 03 |
 | **[GPD Group](http://gpdgroup.com)** | **[Architecture Design Internship/Co-op Summer 2026](https://jobright.ai/jobs/info/68b8dc345b42bc456282845e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Sep 03 |
-| ↳ | **[Architecture Design Internship/Co-op Summer 2026](https://jobright.ai/jobs/info/68b8d69507090163b6ba55da?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Sep 03 |
-| **[Cylinder](cylinderhealth.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/68b8d5b007090163b6ba54d9?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 03 |
-| **[HNTB](http://www.hntb.com/)** | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/68b8ca0aea901c0d269f9817?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Sep 03 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Website Migration and Design Student Assistant](https://jobright.ai/jobs/info/68b8c9e35b42bc4562827c13?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Sep 03 |
-| **[HNTB](http://www.hntb.com/)** | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/68b8c9c807090163b6ba4f16?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Sep 03 |
-| ↳ | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/68b8c9245b42bc4562827b8e?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 03 |
-| ↳ | **[Intern Interior Designer - Summer 2026](https://jobright.ai/jobs/info/68b8c917ea901c0d269f974f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 03 |
-| **[JULIA JENTZSCH inc.](https://juliajentzsch.com)** | **[Design and Production Internship](https://jobright.ai/jobs/info/68b8c8dd5b42bc4562827b4c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Sep 03 |
-| **[HNTB](http://www.hntb.com/)** | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/68b8c8c9ea901c0d269f96fc?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Sep 03 |
-| ↳ | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/68b8c8585b42bc4562827ad1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 03 |
-| ↳ | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/68b8c76007090163b6ba4cc7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
