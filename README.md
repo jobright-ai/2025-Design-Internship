@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pre-Volcano Hedonisia Hawaii Eco-Feminist Community.](http://www.hedonisiahawaii.com/)** | **[EcoSensual Natural Birth Control: Fertility Calendar and Book Design](https://jobright.ai/jobs/info/68bce361ae79610dacddc4d7?utm_campaign=1049&utm_source=git)** | Pahoa, HI | Remote | Sep 06 |
 | **[FGM Architects](http://fgmarchitects.com)** | **[Interior Design Summer Internship – Spring/Summer 2026](https://jobright.ai/jobs/info/68bc9b5cae79610dacddbe82?utm_campaign=1049&utm_source=git)** | Westchester, FL | On Site | Sep 06 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68bc8c973bf9eb44f8324398?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 06 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/68bc534dae79610dacddb644?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Sep 06 |
-| **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbc1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c1faa4e875e828bdfc?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Sep 06 |
+| ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbc1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe096faa4e875e828bbe7?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Sep 06 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68a00c47cc9ee94dc911bb9e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Master Planning Intern, Spring 2026](https://jobright.ai/jobs/info/68bc4550ae79610dacddb3ee?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 06 |
-| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6d283d13d1f5b6cbc0e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68a00c22cc9ee94dc911bb02?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
+| ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6d283d13d1f5b6cbc0e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0abfaa4e875e828bc28?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c4cc9ee94dc911a911?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 06 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3a4faa4e875e828bd0a?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68bbefdd5f383274918745e2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 06 |
 | **[D.C. United](http://dcunited.com)** | **[Intern, Graphic Design - Power FC - Summer/Fall 2025](https://jobright.ai/jobs/info/68bba7435f3832749187147f?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 05 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68bb97ea6105227d118a7552?utm_campaign=1049&utm_source=git)** | Vestavia Hills, AL | Hybrid | Sep 05 |
-| **[Peter Dundas](https://www.linkedin.com/company/108466301)** | **[Fashion Internship](https://jobright.ai/jobs/info/68bc30915f3832749187546d?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Sep 05 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Inclusive Growth](https://jobright.ai/jobs/info/68bb8c556105227d118a6f3d?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Sep 05 |
 | **[Carleigh Hyser, Inc., LLC](https://carleighhyser.com)** | **[Creative Assistant Intern - Paid](https://jobright.ai/jobs/info/68bc2f4a5f383274918753ab?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 05 |
 | **[Atlassian](https://www.atlassian.com)** | **[Product Design Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68bb88f68043103d4f22979e?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Print Magazine](http://www.printmag.com)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68b9e6996105227d11899113?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 04 |
 | **[Penn State University](http://psu.edu)** | **[Arts & Architecture Multimedia Intern](https://jobright.ai/jobs/info/68b9fdac8043103d4f21ca5a?utm_campaign=1049&utm_source=git)** | University Park, PA | On Site | Sep 04 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b9dc3b5f383274918616bb?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Sep 04 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern (Game Day)](https://jobright.ai/jobs/info/688d01943a30793eb9647c92?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Sep 04 |
-| **[Penn State Department of Materials Science and Engineering](https://www.matse.psu.edu/)** | **[Arts & Architecture Multimedia Intern](https://jobright.ai/jobs/info/68b9aa2a6105227d11896b51?utm_campaign=1049&utm_source=git)** | Penn State University Park | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
