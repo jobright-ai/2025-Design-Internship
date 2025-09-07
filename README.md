@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Andersen Corporation](https://www.andersenwindows.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68af5de81f0a2a568a060f6c?utm_campaign=1049&utm_source=git)** | Bayport, MN | On Site | Sep 07 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - R&D Design Intern](https://jobright.ai/jobs/info/68bd36a868300c452ca19057?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Sep 07 |
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd290a3bf9eb44f8326f02?utm_campaign=1049&utm_source=git)** | California - Irvine | Hybrid | Sep 06 |
 | ↳ | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd2381ae79610dacdde78a?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Sep 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Activision](https://www.activision.com/)** | **[2026 US Internships - Computer Graphics](https://jobright.ai/jobs/info/68ba215e6105227d1189b287?utm_campaign=1049&utm_source=git)** | Redmond | On Site | Sep 04 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68ba21286105227d1189b262?utm_campaign=1049&utm_source=git)** | Woodland Hills | On Site | Sep 04 |
 | ↳ | **[2026 US Internships - Computer Graphics](https://jobright.ai/jobs/info/68ba205c6105227d1189b156?utm_campaign=1049&utm_source=git)** | Portland | On Site | Sep 04 |
-| **[Johnson, Laschober & Associates, P.C.](https://www.thejlagroup.com)** | **[Architect](https://jobright.ai/jobs/info/68ba0a6f6105227d1189a61f?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
