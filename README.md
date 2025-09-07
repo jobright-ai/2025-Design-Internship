@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Andersen Corporation](https://www.andersenwindows.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68af5de81f0a2a568a060f6c?utm_campaign=1049&utm_source=git)** | Bayport, MN | On Site | Sep 07 |
 | **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/68bd6e56c4c5904ff6003802?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Sep 07 |
+| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Landscape Architect](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - R&D Design Intern](https://jobright.ai/jobs/info/68bd36a868300c452ca19057?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Sep 07 |
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd290a3bf9eb44f8326f02?utm_campaign=1049&utm_source=git)** | California - Irvine | Hybrid | Sep 06 |
 | ↳ | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd2381ae79610dacdde78a?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Sep 06 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0bbfaa4e875e828bc5d?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be94?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d4bfaa4e875e828d0a8?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
+| **[HOK](http://www.hok.com/)** | **[Interiors Student Intern (SF)](https://jobright.ai/jobs/info/68b984898043103d4f217e4d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 06 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Technology Design & Customer Interface - Co-Op](https://jobright.ai/jobs/info/68bb39d45f3832749186d76c?utm_campaign=1049&utm_source=git)** | Rahway, NJ | Hybrid | Sep 06 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68bbefdd5f383274918745e2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 06 |
 | **[Shure Incorporated](http://www.shure.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/68bd083268300c452ca17a42?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Environment Art](https://jobright.ai/jobs/info/68ba23638043103d4f21dc2b?utm_campaign=1049&utm_source=git)** | Middleton | On Site | Sep 04 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ba230b8043103d4f21dbae?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD | On Site | Sep 04 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Photogrammetry](https://jobright.ai/jobs/info/68ba22055f383274918643fd?utm_campaign=1049&utm_source=git)** | Playa Vista | On Site | Sep 04 |
-| ↳ | **[2026 US Internships - Computer Graphics](https://jobright.ai/jobs/info/68ba21cb5f383274918643db?utm_campaign=1049&utm_source=git)** | Redmond | On Site | Sep 04 |
-| ↳ | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68ba21645f383274918643af?utm_campaign=1049&utm_source=git)** | Los Angeles | On Site | Sep 04 |
-| **[Activision](https://www.activision.com/)** | **[2026 US Internships - Computer Graphics](https://jobright.ai/jobs/info/68ba215e6105227d1189b287?utm_campaign=1049&utm_source=git)** | Redmond | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
