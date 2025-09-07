@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/68bd6e56c4c5904ff6003802?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68af5de81f0a2a568a060f6c?utm_campaign=1049&utm_source=git)** | Bayport, MN | On Site | Sep 07 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - R&D Design Intern](https://jobright.ai/jobs/info/68bd36a868300c452ca19057?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Sep 07 |
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd290a3bf9eb44f8326f02?utm_campaign=1049&utm_source=git)** | California - Irvine | Hybrid | Sep 06 |
@@ -89,8 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Atlassian](https://www.atlassian.com)** | **[Product Design Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68bb88f68043103d4f22979e?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 05 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68bb88b26105227d118a6d91?utm_campaign=1049&utm_source=git)** | Hybrid Remote | Hybrid | Sep 05 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/68bb87d05f3832749186ff05?utm_campaign=1049&utm_source=git)** | RFG ADVISORY (VH) | Hybrid | Sep 05 |
-| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68bb822c8043103d4f229265?utm_campaign=1049&utm_source=git)** | Lowell, MA | Hybrid | Sep 05 |
-| ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/68bb80756105227d118a673f?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Sep 05 |
+| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68bb80756105227d118a673f?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Sep 05 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68bb806e6105227d118a6733?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 Digital Graphic Design Intern](https://jobright.ai/jobs/info/68bb7e905f3832749186f8bd?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 05 |
 | **[CSL](https://www.csl.com)** | **[Global ECP Co-op - 2025 Fall/Winter Graphic Designer](https://jobright.ai/jobs/info/68bb7e665f3832749186f890?utm_campaign=1049&utm_source=git)** | King of Prussia, PA | Hybrid | Sep 05 |
@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68bb3fcc8043103d4f227009?utm_campaign=1049&utm_source=git)** | Lanham, MD | On Site | Sep 05 |
 | **[Hatch](https://www.hatch.com)** | **[Landscape Architecture Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb3f5a5f3832749186da1c?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68bb32bc6105227d118a3f09?utm_campaign=1049&utm_source=git)** | Fort Mill, SC | On Site | Sep 05 |
-| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/68bb321a5f3832749186d00b?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Sep 05 |
 | **[Lyft](https://www.lyft.com/)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb31296105227d118a3c3d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68bb2ee05f3832749186cbae?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Technology Design & Customer Interface - Intern](https://jobright.ai/jobs/info/68bb39d45f3832749186d76c?utm_campaign=1049&utm_source=git)** | Rahway, NJ | Hybrid | Sep 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Activision](https://www.activision.com/)** | **[2026 US Internships - Computer Graphics](https://jobright.ai/jobs/info/68ba215e6105227d1189b287?utm_campaign=1049&utm_source=git)** | Redmond | On Site | Sep 04 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68ba21286105227d1189b262?utm_campaign=1049&utm_source=git)** | Woodland Hills | On Site | Sep 04 |
 | ↳ | **[2026 US Internships - Computer Graphics](https://jobright.ai/jobs/info/68ba205c6105227d1189b156?utm_campaign=1049&utm_source=git)** | Portland | On Site | Sep 04 |
+| **[Johnson, Laschober & Associates, P.C.](https://www.thejlagroup.com)** | **[Architect](https://jobright.ai/jobs/info/68ba0a6f6105227d1189a61f?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
