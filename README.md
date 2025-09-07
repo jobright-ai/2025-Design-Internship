@@ -133,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Co-op, Design Researcher](https://jobright.ai/jobs/info/68bb15205f3832749186bda0?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 05 |
 | ↳ | **[Co-op, UX Designer](https://jobright.ai/jobs/info/68bb14fb5f3832749186bd70?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Master Planning Intern, Spring 2026](https://jobright.ai/jobs/info/68bb04426105227d118a2562?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Sep 05 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/689e7d6e83d13d1f5b6bcf45?utm_campaign=1049&utm_source=git)** | Tucson, AZ | On Site | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Graphic Designer)](https://jobright.ai/jobs/info/68bafbd65f3832749186b29c?utm_campaign=1049&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Sep 05 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/689e9288faa4e875e827dcc0?utm_campaign=1049&utm_source=git)** | Champaign, IL | On Site | Sep 05 |
 | **[Renegade Brands USA, Inc.](http://renegadebrands.com/)** | **[Graphic Design, Marketing & E-Commerce Support Intern](https://jobright.ai/jobs/info/68baf0a36105227d118a18a1?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Sep 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Activision](https://www.activision.com/)** | **[2026 US Internships - Computer Graphics](https://jobright.ai/jobs/info/68ba238f8043103d4f21dc74?utm_campaign=1049&utm_source=git)** | Portland | On Site | Sep 04 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Environment Art](https://jobright.ai/jobs/info/68ba23638043103d4f21dc2b?utm_campaign=1049&utm_source=git)** | Middleton | On Site | Sep 04 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ba230b8043103d4f21dbae?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD | On Site | Sep 04 |
-| **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Photogrammetry](https://jobright.ai/jobs/info/68ba22055f383274918643fd?utm_campaign=1049&utm_source=git)** | Playa Vista | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
