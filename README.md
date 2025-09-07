@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Take Back The Night Foundation](https://takebackthenight.org/)** | **[Graphic Designer for Largest International Org to End Sexual Violence](https://jobright.ai/jobs/info/68bcf0273bf9eb44f8324ed5?utm_campaign=1049&utm_source=git)** | Wayne County, PA | Remote | Sep 06 |
+| **[PIH Health](https://www.pihhealth.org)** | **[Share your Creative Creations with PIH HEALTH Whittier patients](https://jobright.ai/jobs/info/68bcefd23bf9eb44f8324ebe?utm_campaign=1049&utm_source=git)** | Whittier, CA | On Site | Sep 06 |
 | **[Pre-Volcano Hedonisia Hawaii Eco-Feminist Community.](http://www.hedonisiahawaii.com/)** | **[EcoSensual Natural Birth Control: Fertility Calendar and Book Design](https://jobright.ai/jobs/info/68bce361ae79610dacddc4d7?utm_campaign=1049&utm_source=git)** | Pahoa, HI | Remote | Sep 06 |
+| **[Krima](https://krima.tech/)** | **[UI/UX Design Intern (Figma)](https://jobright.ai/jobs/info/68bcfca2ae79610dacddcfb3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | **[FGM Architects](http://fgmarchitects.com)** | **[Interior Design Summer Internship – Spring/Summer 2026](https://jobright.ai/jobs/info/68bc9b5cae79610dacddbe82?utm_campaign=1049&utm_source=git)** | Westchester, FL | On Site | Sep 06 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68bc8c973bf9eb44f8324398?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 06 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/68bc534dae79610dacddb644?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Sep 06 |
@@ -75,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d4bfaa4e875e828d0a8?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68bbefdd5f383274918745e2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 06 |
 | **[D.C. United](http://dcunited.com)** | **[Intern, Graphic Design - Power FC - Summer/Fall 2025](https://jobright.ai/jobs/info/68bba7435f3832749187147f?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 05 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Design Research Intern](https://jobright.ai/jobs/info/68bcfb5dae79610dacddcc3a?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68bb97ea6105227d118a7552?utm_campaign=1049&utm_source=git)** | Vestavia Hills, AL | Hybrid | Sep 05 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Inclusive Growth](https://jobright.ai/jobs/info/68bb8c556105227d118a6f3d?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Sep 05 |
 | **[Carleigh Hyser, Inc., LLC](https://carleighhyser.com)** | **[Creative Assistant Intern - Paid](https://jobright.ai/jobs/info/68bc2f4a5f383274918753ab?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Love's Travel Stops](http://www.loves.com)** | **[HR Digital Media Intern (Summer 2026)](https://jobright.ai/jobs/info/68b9fcd66105227d11899f7e?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Sep 04 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Visual Effects Designer Intern, Spring 2026](https://jobright.ai/jobs/info/68b9f6f36105227d11899c89?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 04 |
 | **[PAE](https://www.pae-engineers.com)** | **[Lighting Design Intern, Summer 2026 - Seattle, Washington](https://jobright.ai/jobs/info/68b9f2bb6105227d1189981c?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Sep 04 |
-| ↳ | **[Lighting Design Intern, Summer 2026 - Seattle, Washington](https://jobright.ai/jobs/info/68b9ed996105227d1189959d?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Sep 04 |
-| **[Print Magazine](http://www.printmag.com)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68b9e6996105227d11899113?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 04 |
-| **[Penn State University](http://psu.edu)** | **[Arts & Architecture Multimedia Intern](https://jobright.ai/jobs/info/68b9fdac8043103d4f21ca5a?utm_campaign=1049&utm_source=git)** | University Park, PA | On Site | Sep 04 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b9dc3b5f383274918616bb?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
