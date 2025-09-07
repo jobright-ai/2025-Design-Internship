@@ -67,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6d283d13d1f5b6cbc0e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0abfaa4e875e828bc28?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c4cc9ee94dc911a911?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 06 |
+| ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3a4faa4e875e828bd0a?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be94?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d4bfaa4e875e828d0a8?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68bbefdd5f383274918745e2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 06 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bb5fef6105227d118a5965?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | On Site | Sep 05 |
 | ↳ | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bb5fa15f3832749186ec06?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Sep 05 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - UI/UX](https://jobright.ai/jobs/info/68bb55c26105227d118a55e7?utm_campaign=1049&utm_source=git)** | Playa Vista | On Site | Sep 05 |
+| **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO)- User Experience (UX) Design Summer Internship](https://jobright.ai/jobs/info/689e777279a9f9666254cfb3?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | On Site | Sep 05 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 Digital Graphic Design Intern](https://jobright.ai/jobs/info/68bb501c6105227d118a53df?utm_campaign=1049&utm_source=git)** | Boston, MA. | On Site | Sep 05 |
 | **[The University of New Mexico](http://unm.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/68bb5b458043103d4f2281f4?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Sep 05 |
 | **[MINNESOTA SPORTS & ENTERTAINMENT](https://www.linkedin.com/company/55865194)** | **[Iowa Wild Creative Services Intern (Part-Time)](https://jobright.ai/jobs/info/68bb485d8043103d4f227710?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Sep 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b9dc3b5f383274918616bb?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Sep 04 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern (Game Day)](https://jobright.ai/jobs/info/688d01943a30793eb9647c92?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Sep 04 |
 | **[Penn State Department of Materials Science and Engineering](https://www.matse.psu.edu/)** | **[Arts & Architecture Multimedia Intern](https://jobright.ai/jobs/info/68b9aa2a6105227d11896b51?utm_campaign=1049&utm_source=git)** | Penn State University Park | On Site | Sep 04 |
-| **[PostNet International Franchise Corporation](http://www.PostNet.com)** | **[Graphic Service Internship](https://jobright.ai/jobs/info/68b9a87d5f3832749185fd4f?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | On Site | Sep 04 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Design Internship - Albuquerque, NM](https://jobright.ai/jobs/info/689d39befaa4e875e826e364?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
