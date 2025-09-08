@@ -57,19 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Side Quest](https://www.linkedin.com/company/106831212)** | **[UI/UX Design Unpaid Internship](https://jobright.ai/jobs/info/68be0affdf5eec448f63da12?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 07 |
 | **[GBBN Architects](https://www.gbbn.com/)** | **[2026 Spring Interior Design Co-Op](https://jobright.ai/jobs/info/68bdf44edf5eec448f63d898?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 07 |
 | ↳ | **[2026 Spring Architecture Co-Op](https://jobright.ai/jobs/info/68bdf419df5eec448f63d88e?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 07 |
 | **[Mary Square, LLC ](https://www.marysquare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68bde927e57feb02eb0ac760?utm_campaign=1049&utm_source=git)** | Apex, NC | On Site | Sep 07 |
-| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68bdecaae57feb02eb0ac79a?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68af5de81f0a2a568a060f6c?utm_campaign=1049&utm_source=git)** | Bayport, MN | On Site | Sep 07 |
 | **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/68bd6e56c4c5904ff6003802?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Sep 07 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Landscape Architect](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 07 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Packaging Design](https://jobright.ai/jobs/info/682e66f64de36dfb980acce5?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - R&D Design Intern](https://jobright.ai/jobs/info/68bd36a868300c452ca19057?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Sep 07 |
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd290a3bf9eb44f8326f02?utm_campaign=1049&utm_source=git)** | California - Irvine | Hybrid | Sep 06 |
 | ↳ | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd2381ae79610dacdde78a?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Sep 06 |
 | **[Take Back The Night Foundation](https://takebackthenight.org/)** | **[Graphic Designer for Largest International Org to End Sexual Violence](https://jobright.ai/jobs/info/68bcf0273bf9eb44f8324ed5?utm_campaign=1049&utm_source=git)** | Wayne County, PA | Remote | Sep 06 |
 | **[PIH Health](https://www.pihhealth.org)** | **[Share your Creative Creations with PIH HEALTH Whittier patients](https://jobright.ai/jobs/info/68bcefd23bf9eb44f8324ebe?utm_campaign=1049&utm_source=git)** | Whittier, CA | On Site | Sep 06 |
 | **[Pre-Volcano Hedonisia Hawaii Eco-Feminist Community.](http://www.hedonisiahawaii.com/)** | **[EcoSensual Natural Birth Control: Fertility Calendar and Book Design](https://jobright.ai/jobs/info/68bce361ae79610dacddc4d7?utm_campaign=1049&utm_source=git)** | Pahoa, HI | Remote | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d4bfaa4e875e828d0a7?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Sep 06 |
 | **[Krima](https://krima.tech/)** | **[UI/UX Design Intern (Figma)](https://jobright.ai/jobs/info/68bcfca2ae79610dacddcfb3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | **[FGM Architects](http://fgmarchitects.com)** | **[Interior Design Summer Internship – Spring/Summer 2026](https://jobright.ai/jobs/info/68bc9b5cae79610dacddbe82?utm_campaign=1049&utm_source=git)** | Westchester, FL | On Site | Sep 06 |
 | **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc58?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Sep 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Unis Technology Inc](https://www.unistech-inc.com/)** | **[Industrial Designer](https://jobright.ai/jobs/info/68bae7495f3832749186a63a?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Later](http://www.later.com)** | **[Social Media Design Co-Op](https://jobright.ai/jobs/info/68ba4d0f5f38327491865bdf?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 04 |
 | **[Leidos](https://www.leidos.com/)** | **[Decal Lab Intern](https://jobright.ai/jobs/info/68ba39fd6105227d1189c12b?utm_campaign=1049&utm_source=git)** | Webster, TX | On Site | Sep 04 |
-| **[AECOM](http://www.aecom.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/68ba38875f38327491865221?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Sep 04 |
-| **[Treyarch](http://www.treyarch.com/)** | **[2026 US Summer Internships - UI/UX](https://jobright.ai/jobs/info/68bb800d8043103d4f22905c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
