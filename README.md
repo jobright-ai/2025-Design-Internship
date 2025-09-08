@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CBRE](https://www.cbre.com)** | **[UX Designer Intern](https://jobright.ai/jobs/info/68be43023d31ec76b7e88c59?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Sep 07 |
+| ↳ | **[UX Designer Intern](https://jobright.ai/jobs/info/68be4280c4c5904ff6004c76?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | **[Todd](toddagriscience.com/careers)** | **[Graphic Designer Intern, Software Focused](https://jobright.ai/jobs/info/68be3425df5eec448f63dd87?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Sep 07 |
 | **[LEACIF](http://leacif.com)** | **[Communication Design Intern](https://jobright.ai/jobs/info/68be2c09e57feb02eb0acbf7?utm_campaign=1049&utm_source=git)** | Essexville, MI | Hybrid | Sep 07 |
 | **[Side Quest](https://www.linkedin.com/company/106831212)** | **[UI/UX Design Unpaid Internship](https://jobright.ai/jobs/info/68be0affdf5eec448f63da12?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 07 |
@@ -99,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68bbefdd5f383274918745e2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 06 |
 | **[Shure Incorporated](http://www.shure.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/68bd083268300c452ca17a42?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
 | **[D.C. United](http://dcunited.com)** | **[Intern, Graphic Design - Power FC - Summer/Fall 2025](https://jobright.ai/jobs/info/68bba7435f3832749187147f?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 05 |
+| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68be4c9ce57feb02eb0ad7b8?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Sep 05 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Design Research Intern](https://jobright.ai/jobs/info/68bcfb5dae79610dacddcc3a?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68bb97ea6105227d118a7552?utm_campaign=1049&utm_source=git)** | Vestavia Hills, AL | Hybrid | Sep 05 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Inclusive Growth](https://jobright.ai/jobs/info/68bb8c556105227d118a6f3d?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Sep 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 US Summer Internships - Environment Art](https://jobright.ai/jobs/info/68ba95286105227d1189f815?utm_campaign=1049&utm_source=git)** | Middleton, WI | On Site | Sep 05 |
 | **[Arup](http://www.arup.com)** | **[Audio Visual/Experience Designer Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba82018043103d4f2211b3?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 04 |
 | **[Activision](https://www.activision.com/)** | **[2026 US Internships - Computer Graphics](https://jobright.ai/jobs/info/68ba73215f38327491867570?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Sep 04 |
-| ↳ | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68ba72ec5f38327491867539?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
-| ↳ | **[2026 US Summer Internships - Photogrammetry](https://jobright.ai/jobs/info/68ba6db46105227d1189dfd2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
-| ↳ | **[2026 US Summer Internships - Environment Art](https://jobright.ai/jobs/info/68ba6db36105227d1189dfd1?utm_campaign=1049&utm_source=git)** | Middleton, WI | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
