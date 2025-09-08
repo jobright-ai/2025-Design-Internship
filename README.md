@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](toddagriscience.com/careers)** | **[Graphic Designer Intern, Software Focused](https://jobright.ai/jobs/info/68be3425df5eec448f63dd87?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Sep 07 |
+| **[LEACIF](http://leacif.com)** | **[Communication Design Intern](https://jobright.ai/jobs/info/68be2c09e57feb02eb0acbf7?utm_campaign=1049&utm_source=git)** | Essexville, MI | Hybrid | Sep 07 |
 | **[Side Quest](https://www.linkedin.com/company/106831212)** | **[UI/UX Design Unpaid Internship](https://jobright.ai/jobs/info/68be0affdf5eec448f63da12?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 07 |
 | **[GBBN Architects](https://www.gbbn.com/)** | **[2026 Spring Interior Design Co-Op](https://jobright.ai/jobs/info/68bdf44edf5eec448f63d898?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 07 |
 | ↳ | **[2026 Spring Architecture Co-Op](https://jobright.ai/jobs/info/68bdf419df5eec448f63d88e?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 07 |
 | **[Mary Square, LLC ](https://www.marysquare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68bde927e57feb02eb0ac760?utm_campaign=1049&utm_source=git)** | Apex, NC | On Site | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68af5de81f0a2a568a060f6c?utm_campaign=1049&utm_source=git)** | Bayport, MN | On Site | Sep 07 |
 | **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/68bd6e56c4c5904ff6003802?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Sep 07 |
+| **[Toyota Research Institute](http://www.tri.global)** | **[Future Product Innovation Research Intern, HCI Creativity](https://jobright.ai/jobs/info/6867bf2b35584b654236b0dd?utm_campaign=1049&utm_source=git)** | Los Altos, CA | Hybrid | Sep 07 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Landscape Architect](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 07 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Packaging Design](https://jobright.ai/jobs/info/682e66f64de36dfb980acce5?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - R&D Design Intern](https://jobright.ai/jobs/info/68bd36a868300c452ca19057?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Sep 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68ba72ec5f38327491867539?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | ↳ | **[2026 US Summer Internships - Photogrammetry](https://jobright.ai/jobs/info/68ba6db46105227d1189dfd2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 04 |
 | ↳ | **[2026 US Summer Internships - Environment Art](https://jobright.ai/jobs/info/68ba6db36105227d1189dfd1?utm_campaign=1049&utm_source=git)** | Middleton, WI | On Site | Sep 04 |
-| **[Unis Technology Inc](https://www.unistech-inc.com/)** | **[Industrial Designer](https://jobright.ai/jobs/info/68bae7495f3832749186a63a?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 04 |
-| **[Later](http://www.later.com)** | **[Social Media Design Co-Op](https://jobright.ai/jobs/info/68ba4d0f5f38327491865bdf?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 04 |
-| **[Leidos](https://www.leidos.com/)** | **[Decal Lab Intern](https://jobright.ai/jobs/info/68ba39fd6105227d1189c12b?utm_campaign=1049&utm_source=git)** | Webster, TX | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
