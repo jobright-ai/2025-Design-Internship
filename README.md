@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68be890ae57feb02eb0af2a7?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 08 |
+| **[Mercury Marine](http://mercurymarine.com/)** | **[Mercury Marine UX/UI Design Intern- Summer 2026](https://jobright.ai/jobs/info/68be7eeb3d31ec76b7e8acbc?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Sep 07 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine UX/UI Design Intern- Summer 2026](https://jobright.ai/jobs/info/68be6c783d31ec76b7e8a5a1?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Sep 07 |
 | **[LOVE MAGIA, INC.](www.lovemagia.com)** | **[Junior Graphic Designer (Internship – Unpaid, Part-Time)](https://jobright.ai/jobs/info/68be654d3d31ec76b7e8a193?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[UX Designer Intern](https://jobright.ai/jobs/info/68be6438c4c5904ff60061ce?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | **[CBRE](https://www.cbre.com)** | **[UX Designer Intern](https://jobright.ai/jobs/info/68be43023d31ec76b7e88c59?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Sep 07 |
 | ↳ | **[UX Designer Intern](https://jobright.ai/jobs/info/68be4280c4c5904ff6004c76?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
-| **[Todd](toddagriscience.com/careers)** | **[Graphic Designer Intern, Software Focused](https://jobright.ai/jobs/info/68be3425df5eec448f63dd87?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Sep 07 |
 | **[LEACIF](http://leacif.com)** | **[Communication Design Intern](https://jobright.ai/jobs/info/68be2c09e57feb02eb0acbf7?utm_campaign=1049&utm_source=git)** | Essexville, MI | Hybrid | Sep 07 |
 | **[Tideturners](https://thetideturners.com/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/68be66f03d31ec76b7e8a290?utm_campaign=1049&utm_source=git)** | Winter Park, FL | On Site | Sep 07 |
 | **[Side Quest](https://www.linkedin.com/company/106831212)** | **[UI/UX Design Unpaid Internship](https://jobright.ai/jobs/info/68be0affdf5eec448f63da12?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 07 |
@@ -104,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[HOK](http://www.hok.com/)** | **[Interiors Student Intern (SF)](https://jobright.ai/jobs/info/68b984898043103d4f217e4d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 06 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68bbefdd5f383274918745e2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 06 |
 | **[Shure Incorporated](http://www.shure.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/68bd083268300c452ca17a42?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
-| **[D.C. United](http://dcunited.com)** | **[Intern, Graphic Design - Power FC - Summer/Fall 2025](https://jobright.ai/jobs/info/68bba7435f3832749187147f?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 05 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68be4c9ce57feb02eb0ad7b8?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Sep 05 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Design Research Intern](https://jobright.ai/jobs/info/68bcfb5dae79610dacddcc3a?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68bb97ea6105227d118a7552?utm_campaign=1049&utm_source=git)** | Vestavia Hills, AL | Hybrid | Sep 05 |
