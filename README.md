@@ -57,6 +57,37 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Google](https://www.google.com)** | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6f95c5d5f14f46d1678?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6d48e65e77df55b4bba?utm_campaign=1049&utm_source=git)** | Santa Cruz, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6d38e65e77df55b4bb7?utm_campaign=1049&utm_source=git)** | Kirkland, WA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6bf702aa35207aa0d3f?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6be5c5d5f14f46d1670?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6bd5c5d5f14f46d166f?utm_campaign=1049&utm_source=git)** | Portland, OR, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6bb5c5d5f14f46d166e?utm_campaign=1049&utm_source=git)** | Chicago, IL, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6af702aa35207aa0d39?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6898e65e77df55b4b7b?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6878e65e77df55b4b79?utm_campaign=1049&utm_source=git)** | Raleigh, NC, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed681702aa35207aa0d26?utm_campaign=1049&utm_source=git)** | Bellevue, WA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed680702aa35207aa0d23?utm_campaign=1049&utm_source=git)** | San Bruno, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed680702aa35207aa0d24?utm_campaign=1049&utm_source=git)** | Reston, VA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed67e5c5d5f14f46d165f?utm_campaign=1049&utm_source=git)** | Durham, NC, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6778e65e77df55b4b68?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6735c5d5f14f46d165c?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed669702aa35207aa0d1f?utm_campaign=1049&utm_source=git)** | San Jose, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6685c5d5f14f46d1657?utm_campaign=1049&utm_source=git)** | Boulder, CO, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6498e65e77df55b4b15?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6488e65e77df55b4b13?utm_campaign=1049&utm_source=git)** | Mountain View, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed62e5c5d5f14f46d164a?utm_campaign=1049&utm_source=git)** | South San Francisco, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed61b702aa35207aa0d10?utm_campaign=1049&utm_source=git)** | Redwood City, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6118e65e77df55b4ad9?utm_campaign=1049&utm_source=git)** | Cambridge, MA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6088e65e77df55b4aca?utm_campaign=1049&utm_source=git)** | San Diego, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6068e65e77df55b4ac8?utm_campaign=1049&utm_source=git)** | Redmond, WA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed603702aa35207aa0d08?utm_campaign=1049&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed5f85c5d5f14f46d163e?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed5f8702aa35207aa0d05?utm_campaign=1049&utm_source=git)** | Madison, WI, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed5df5c5d5f14f46d163a?utm_campaign=1049&utm_source=git)** | Goleta, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed5df702aa35207aa0d02?utm_campaign=1049&utm_source=git)** | Irvine, CA, USA | On Site | Sep 08 |
+| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed5df8e65e77df55b4a8f?utm_campaign=1049&utm_source=git)** | Washington D.C., DC, USA | On Site | Sep 08 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Distribution New Business](https://jobright.ai/jobs/info/68bebf01702aa35207aa01f8?utm_campaign=1049&utm_source=git)** | Mesa, AZ | Hybrid | Sep 08 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine UX/UI Design Intern- Summer 2026](https://jobright.ai/jobs/info/68be8eb1e57feb02eb0af37a?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Sep 08 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68be890ae57feb02eb0af2a7?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 08 |
@@ -67,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[UX Designer Intern](https://jobright.ai/jobs/info/68be43023d31ec76b7e88c59?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Sep 07 |
 | ↳ | **[UX Designer Intern](https://jobright.ai/jobs/info/68be4280c4c5904ff6004c76?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | **[LEACIF](http://leacif.com)** | **[Communication Design Intern](https://jobright.ai/jobs/info/68be2c09e57feb02eb0acbf7?utm_campaign=1049&utm_source=git)** | Essexville, MI | Hybrid | Sep 07 |
-| **[Tideturners](https://thetideturners.com/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/68be66f03d31ec76b7e8a290?utm_campaign=1049&utm_source=git)** | Winter Park, FL | On Site | Sep 07 |
 | **[GBBN Architects](https://www.gbbn.com/)** | **[2026 Spring Interior Design Co-Op](https://jobright.ai/jobs/info/68bdf44edf5eec448f63d898?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 07 |
 | ↳ | **[2026 Spring Architecture Co-Op](https://jobright.ai/jobs/info/68bdf419df5eec448f63d88e?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 07 |
 | **[Mary Square, LLC ](https://www.marysquare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68bde927e57feb02eb0ac760?utm_campaign=1049&utm_source=git)** | Apex, NC | On Site | Sep 07 |
@@ -106,7 +136,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d4bfaa4e875e828d0a8?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Theme Lighting Designer Intern (Glendale, CA), Spring 2026](https://jobright.ai/jobs/info/68be9cc7e57feb02eb0af481?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 06 |
 | **[HOK](http://www.hok.com/)** | **[Interiors Student Intern (SF)](https://jobright.ai/jobs/info/68b984898043103d4f217e4d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 06 |
+| **[HNTB](http://www.hntb.com/)** | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/68b8c9c807090163b6ba4f16?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Sep 06 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68bbefdd5f383274918745e2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 06 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Technology Design & Customer Interface - Co-Op](https://jobright.ai/jobs/info/68bb39d45f3832749186d76c?utm_campaign=1049&utm_source=git)** | Rahway, NJ | Hybrid | Sep 06 |
 | **[Shure Incorporated](http://www.shure.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/68bd083268300c452ca17a42?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68be4c9ce57feb02eb0ad7b8?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Sep 05 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Design Research Intern](https://jobright.ai/jobs/info/68bcfb5dae79610dacddcc3a?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
@@ -125,36 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TruStage](https://www.trustage.com/)** | **[Creative Services - Design Intern (Hybrid)](https://jobright.ai/jobs/info/68bb735e8043103d4f2289f2?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Sep 05 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Design Research](https://jobright.ai/jobs/info/68b77977f4e41a61efd99343?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Sep 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[UX Designer Intern](https://jobright.ai/jobs/info/68bb70a96105227d118a5f4c?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Sep 05 |
-| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68bb70615f3832749186f1f6?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Sep 05 |
-| **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - UI/UX](https://jobright.ai/jobs/info/68bb6f498043103d4f228931?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 05 |
-| **[TruStage](https://www.trustage.com/)** | **[Creative Services - Design Intern (Hybrid)](https://jobright.ai/jobs/info/68bb687d6105227d118a5c44?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Sep 05 |
-| **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bb60316105227d118a597d?utm_campaign=1049&utm_source=git)** | Little Rock, AR | On Site | Sep 05 |
-| ↳ | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bb5fef6105227d118a5965?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | On Site | Sep 05 |
-| ↳ | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bb5fa15f3832749186ec06?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Sep 05 |
-| **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - UI/UX](https://jobright.ai/jobs/info/68bb55c26105227d118a55e7?utm_campaign=1049&utm_source=git)** | Playa Vista | On Site | Sep 05 |
-| **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO)- User Experience (UX) Design Summer Internship](https://jobright.ai/jobs/info/689e777279a9f9666254cfb3?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | On Site | Sep 05 |
-| **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 Digital Graphic Design Intern](https://jobright.ai/jobs/info/68bb501c6105227d118a53df?utm_campaign=1049&utm_source=git)** | Boston, MA. | On Site | Sep 05 |
-| **[The University of New Mexico](http://unm.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/68bb5b458043103d4f2281f4?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Sep 05 |
-| **[MINNESOTA SPORTS & ENTERTAINMENT](https://www.linkedin.com/company/55865194)** | **[Iowa Wild Creative Services Intern (Part-Time)](https://jobright.ai/jobs/info/68bb485d8043103d4f227710?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Sep 05 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68bb43828043103d4f22755e?utm_campaign=1049&utm_source=git)** | Gainesville, VA | On Site | Sep 05 |
-| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[UX Designer Intern](https://jobright.ai/jobs/info/68bb41216105227d118a48c7?utm_campaign=1049&utm_source=git)** | Portland, OR US | Hybrid | Sep 05 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68bb3fcc8043103d4f227009?utm_campaign=1049&utm_source=git)** | Lanham, MD | On Site | Sep 05 |
-| **[Hatch](https://www.hatch.com)** | **[Landscape Architecture Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb3f5a5f3832749186da1c?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 05 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68bb32bc6105227d118a3f09?utm_campaign=1049&utm_source=git)** | Fort Mill, SC | On Site | Sep 05 |
-| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship](https://jobright.ai/jobs/info/68bb321a5f3832749186d00b?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Sep 05 |
-| **[Lyft](https://www.lyft.com/)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb31296105227d118a3c3d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 05 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68bb2ee05f3832749186cbae?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Technology Design & Customer Interface - Intern](https://jobright.ai/jobs/info/68bb39d45f3832749186d76c?utm_campaign=1049&utm_source=git)** | Rahway, NJ | Hybrid | Sep 05 |
-| **[Pella Corporation](http://www.pella.com)** | **[TechPub Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2a1a6105227d118a38ac?utm_campaign=1049&utm_source=git)** | Pella, IA | On Site | Sep 05 |
-| ↳ | **[Retail Displays Intern - Summer 2026](https://jobright.ai/jobs/info/68bb29998043103d4f22609c?utm_campaign=1049&utm_source=git)** | Pella, IA | On Site | Sep 05 |
-| **[Lyft](https://www.lyft.com/)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb27955f3832749186c876?utm_campaign=1049&utm_source=git)** | San Francisco County, CA | Hybrid | Sep 05 |
-| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68b73c1cf4e41a61efd96c2b?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Sep 05 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Minneapolis)](https://jobright.ai/jobs/info/68bb19b98043103d4f22570a?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Sep 05 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[Co-op, Multimedia Storyteller](https://jobright.ai/jobs/info/68bb16c66105227d118a2d16?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 05 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Technology Design & Customer Interface - Intern](https://jobright.ai/jobs/info/68bb16b95f3832749186bf20?utm_campaign=1049&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 05 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[Co-op, Design Researcher](https://jobright.ai/jobs/info/68bb15205f3832749186bda0?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 05 |
-| ↳ | **[Co-op, UX Designer](https://jobright.ai/jobs/info/68bb14fb5f3832749186bd70?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 05 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Master Planning Intern, Spring 2026](https://jobright.ai/jobs/info/68bb04426105227d118a2562?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Sep 05 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/689e7d6e83d13d1f5b6bcf45?utm_campaign=1049&utm_source=git)** | Tucson, AZ | On Site | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Graphic Designer)](https://jobright.ai/jobs/info/68bafbd65f3832749186b29c?utm_campaign=1049&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
