@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Distribution New Business](https://jobright.ai/jobs/info/68bebf01702aa35207aa01f8?utm_campaign=1049&utm_source=git)** | Mesa, AZ | Hybrid | Sep 08 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine UX/UI Design Intern- Summer 2026](https://jobright.ai/jobs/info/68be8eb1e57feb02eb0af37a?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Sep 08 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68be890ae57feb02eb0af2a7?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Mercury Marine UX/UI Design Intern- Summer 2026](https://jobright.ai/jobs/info/68be7eeb3d31ec76b7e8acbc?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Sep 07 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Designer Intern](https://jobright.ai/jobs/info/68be4280c4c5904ff6004c76?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | **[LEACIF](http://leacif.com)** | **[Communication Design Intern](https://jobright.ai/jobs/info/68be2c09e57feb02eb0acbf7?utm_campaign=1049&utm_source=git)** | Essexville, MI | Hybrid | Sep 07 |
 | **[Tideturners](https://thetideturners.com/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/68be66f03d31ec76b7e8a290?utm_campaign=1049&utm_source=git)** | Winter Park, FL | On Site | Sep 07 |
-| **[Side Quest](https://www.linkedin.com/company/106831212)** | **[UI/UX Design Unpaid Internship](https://jobright.ai/jobs/info/68be0affdf5eec448f63da12?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 07 |
 | **[GBBN Architects](https://www.gbbn.com/)** | **[2026 Spring Interior Design Co-Op](https://jobright.ai/jobs/info/68bdf44edf5eec448f63d898?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 07 |
 | ↳ | **[2026 Spring Architecture Co-Op](https://jobright.ai/jobs/info/68bdf419df5eec448f63d88e?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 07 |
 | **[Mary Square, LLC ](https://www.marysquare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68bde927e57feb02eb0ac760?utm_campaign=1049&utm_source=git)** | Apex, NC | On Site | Sep 07 |
