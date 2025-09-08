@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine UX/UI Design Intern- Summer 2026](https://jobright.ai/jobs/info/68be8eb1e57feb02eb0af37a?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Sep 08 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68be890ae57feb02eb0af2a7?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Mercury Marine UX/UI Design Intern- Summer 2026](https://jobright.ai/jobs/info/68be7eeb3d31ec76b7e8acbc?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Sep 07 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine UX/UI Design Intern- Summer 2026](https://jobright.ai/jobs/info/68be6c783d31ec76b7e8a5a1?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Sep 07 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Landscape Architect](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 07 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Packaging Design](https://jobright.ai/jobs/info/682e66f64de36dfb980acce5?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - R&D Design Intern](https://jobright.ai/jobs/info/68bd36a868300c452ca19057?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Sep 07 |
+| **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d80faa4e875e828d1c1?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68af5de81f0a2a568a060f6c?utm_campaign=1049&utm_source=git)** | Bayport, MN | On Site | Sep 06 |
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd290a3bf9eb44f8326f02?utm_campaign=1049&utm_source=git)** | California - Irvine | Hybrid | Sep 06 |
 | ↳ | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/68bd2381ae79610dacdde78a?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Sep 06 |
@@ -102,6 +104,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0bbfaa4e875e828bc5d?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be94?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d4bfaa4e875e828d0a8?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Theme Lighting Designer Intern (Glendale, CA), Spring 2026](https://jobright.ai/jobs/info/68be9cc7e57feb02eb0af481?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 06 |
 | **[HOK](http://www.hok.com/)** | **[Interiors Student Intern (SF)](https://jobright.ai/jobs/info/68b984898043103d4f217e4d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 06 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68bbefdd5f383274918745e2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 06 |
 | **[Shure Incorporated](http://www.shure.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/68bd083268300c452ca17a42?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Master Planning Intern, Spring 2026](https://jobright.ai/jobs/info/68bb04426105227d118a2562?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Sep 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/689e7d6e83d13d1f5b6bcf45?utm_campaign=1049&utm_source=git)** | Tucson, AZ | On Site | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Graphic Designer)](https://jobright.ai/jobs/info/68bafbd65f3832749186b29c?utm_campaign=1049&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Sep 05 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/689e9288faa4e875e827dcc0?utm_campaign=1049&utm_source=git)** | Champaign, IL | On Site | Sep 05 |
-| **[Renegade Brands USA, Inc.](http://renegadebrands.com/)** | **[Graphic Design, Marketing & E-Commerce Support Intern](https://jobright.ai/jobs/info/68baf0a36105227d118a18a1?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Sep 05 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Theme Lighting Designer Intern (Glendale, CA), Spring 2026](https://jobright.ai/jobs/info/68bb40ce8043103d4f2271ad?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
