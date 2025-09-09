@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Design Intern, Remote, Spring 2026](https://jobright.ai/jobs/info/68c04a43702aa35207aabae0?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | Remote | Sep 09 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Multimedia Designer Intern - The Toro Company](https://jobright.ai/jobs/info/68c04349702aa35207aab876?utm_campaign=1049&utm_source=git)** | Hennepin County, MN | On Site | Sep 09 |
+| **[MillerKnoll](http://www.millerknoll.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68c03e6e702aa35207aab5c5?utm_campaign=1049&utm_source=git)** | MI - Holland | On Site | Sep 09 |
+| **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68a412b72d2a252445cd57f5?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Sep 09 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Post Production Intern](https://jobright.ai/jobs/info/68bfefc38e65e77df55be49a?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68bfea285c5d5f14f46dac74?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 09 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bfaabc5c5d5f14f46d8f27?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Sep 08 |
@@ -82,8 +86,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Design Intern, Remote, Spring 2026](https://jobright.ai/jobs/info/68bf4c765c5d5f14f46d5d06?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | Remote | Sep 08 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/68bf497a5c5d5f14f46d5c2a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Sep 08 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Coordinator- Intern- College Credit](https://jobright.ai/jobs/info/68bf48e05c5d5f14f46d5b65?utm_campaign=1049&utm_source=git)** | New York | On Site | Sep 08 |
-| **[SeneGence International](https://seneweb.senegence.com)** | **[Project Intern - Photo Asset Management](https://jobright.ai/jobs/info/68bf45bd8e65e77df55b8e67?utm_campaign=1049&utm_source=git)** | Sapulpa, OK | On Site | Sep 08 |
-| **[Ursa Major](https://www.ursamajor.com)** | **[Summer 2026 Avionics UX Intern](https://jobright.ai/jobs/info/68bf42bd702aa35207aa4ece?utm_campaign=1049&utm_source=git)** | Berthoud, CO | On Site | Sep 08 |
+| **[Capture Corp. Media](https://capturecorpmedia.com)** | **[Real Estate Photography Intern](https://jobright.ai/jobs/info/68c026db5c5d5f14f46db8b1?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Sep 08 |
 | **[The Cultural Calendar](theculturalcalendar.com)** | **[Digital Media & Content Intern](https://jobright.ai/jobs/info/68bf40f3702aa35207aa4c97?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Sep 08 |
 | **[Farnsworth Group, Inc.](http://f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68bf39b9702aa35207aa48c9?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Sep 08 |
 | ↳ | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68bf38ae5c5d5f14f46d519f?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | Sep 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee078e65e77df55b5991?utm_campaign=1049&utm_source=git)** | Bellevue, WA, USA | On Site | Sep 08 |
 | ↳ | **[User Experience Research Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beee078e65e77df55b5992?utm_campaign=1049&utm_source=git)** | San Bruno, CA, USA | On Site | Sep 08 |
 | ↳ | **[User Experience Research Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beedff5c5d5f14f46d2400?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beedfe5c5d5f14f46d23fe?utm_campaign=1049&utm_source=git)** | Reston, VA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beedf95c5d5f14f46d23f7?utm_campaign=1049&utm_source=git)** | Cambridge, MA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beedf38e65e77df55b5984?utm_campaign=1049&utm_source=git)** | Madison, WI, USA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
