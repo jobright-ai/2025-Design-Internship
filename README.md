@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[User Interface Designer Intern](https://jobright.ai/jobs/info/68c082d18e65e77df55c1feb?utm_campaign=1049&utm_source=git)** | Olathe, Kansas | On Site | Sep 09 |
+| **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c080ca702aa35207aadf94?utm_campaign=1049&utm_source=git)** | Bellevue, NE | Hybrid | Sep 09 |
+| **[HNTB](http://www.hntb.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c08045702aa35207aadebd?utm_campaign=1049&utm_source=git)** | Tallahassee, FL | On Site | Sep 09 |
+| **[Jacobs](http://www.jacobs.com)** | **[Lighting Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68c07dcd702aa35207aadbbe?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
+| ↳ | **[Lighting Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68c07d208e65e77df55c1b4a?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Sep 09 |
+| **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Graphic Design](https://jobright.ai/jobs/info/68c07cab8e65e77df55c1a5b?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 09 |
+| **[Premier Brands Group Holdings](https://www.linkedin.com/company/80318658)** | **[Print Intern](https://jobright.ai/jobs/info/68c078d0702aa35207aad638?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
+| **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c07883702aa35207aad5b7?utm_campaign=1049&utm_source=git)** | Omaha, NE | Hybrid | Sep 09 |
+| **[NEBCO, Inc.](http://nebcoinc.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/68c0771c5c5d5f14f46ddd57?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Sep 09 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/68c074ed702aa35207aad291?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
+| **[Rally House](http://rallyhouse.com)** | **[Intern - Marketing - Creative Design & Digital](https://jobright.ai/jobs/info/68c073e18e65e77df55c1349?utm_campaign=1049&utm_source=git)** | Lenexa, KS | On Site | Sep 09 |
+| **[MillerKnoll](http://www.millerknoll.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68c06b66702aa35207aacdf8?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Sep 09 |
+| **[Rally House](http://rallyhouse.com)** | **[Intern - Buyer](https://jobright.ai/jobs/info/68c069398e65e77df55c0d35?utm_campaign=1049&utm_source=git)** | Lenexa, KS | On Site | Sep 09 |
 | **[Arreva](http://www.arreva.com)** | **[Marketing & Graphic Design Intern](https://jobright.ai/jobs/info/68c0621b8e65e77df55c08b4?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 09 |
 | **[Frette](https://frette.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68c04e388e65e77df55c0021?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[AlphaGraphics](https://www.alphagraphics.com/)** | **[Internship - Graphic Design / Client Service](https://jobright.ai/jobs/info/68c04d668e65e77df55bff2a?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Sep 09 |
@@ -65,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68c03e6e702aa35207aab5c5?utm_campaign=1049&utm_source=git)** | MI - Holland | On Site | Sep 09 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68a412b72d2a252445cd57f5?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Sep 09 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Post Production Intern](https://jobright.ai/jobs/info/68bfefc38e65e77df55be49a?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Graphic Design Intern - Fall 2025](https://jobright.ai/jobs/info/68bfea285c5d5f14f46dac74?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 09 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bfaabc5c5d5f14f46d8f27?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Sep 08 |
 | **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Intenship Graphic Design- Video Editing- US Residents Only](https://jobright.ai/jobs/info/68bfa6a25c5d5f14f46d8d56?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Bold Agency](https://theboldagency.co/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68bf970e8e65e77df55bb8e1?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Sep 08 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Experience Research Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beee568e65e77df55b59b2?utm_campaign=1049&utm_source=git)** | San Jose, CA, USA | On Site | Sep 08 |
 | ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee54702aa35207aa1ade?utm_campaign=1049&utm_source=git)** | Redmond, WA, USA | On Site | Sep 08 |
 | ↳ | **[User Experience Research Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beee54702aa35207aa1adf?utm_campaign=1049&utm_source=git)** | Redmond, WA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee4e5c5d5f14f46d2459?utm_campaign=1049&utm_source=git)** | Kirkland, WA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee4a5c5d5f14f46d2457?utm_campaign=1049&utm_source=git)** | Santa Cruz, CA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee42702aa35207aa1ace?utm_campaign=1049&utm_source=git)** | Chicago, IL, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee3a5c5d5f14f46d2443?utm_campaign=1049&utm_source=git)** | Mountain View, CA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beee355c5d5f14f46d243b?utm_campaign=1049&utm_source=git)** | Mountain View, CA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee355c5d5f14f46d2439?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beee305c5d5f14f46d2433?utm_campaign=1049&utm_source=git)** | Cambridge, MA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beee2d5c5d5f14f46d242e?utm_campaign=1049&utm_source=git)** | Santa Cruz, CA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee2d8e65e77df55b599f?utm_campaign=1049&utm_source=git)** | Redwood City, CA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee268e65e77df55b599c?utm_campaign=1049&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee145c5d5f14f46d2417?utm_campaign=1049&utm_source=git)** | Reston, VA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee115c5d5f14f46d2413?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
