@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Lauder Summer 2026 Intern, Creative](https://jobright.ai/jobs/info/68bf61585c5d5f14f46d6621?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Sep 08 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/68bf583a8e65e77df55b9753?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 08 |
+| **[D.C. United](http://dcunited.com)** | **[Intern, Graphic Design - Power FC - Summer/Fall 2025](https://jobright.ai/jobs/info/68bf54bc702aa35207aa577d?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Design Intern, Remote, Spring 2026](https://jobright.ai/jobs/info/68bf4c765c5d5f14f46d5d06?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | Remote | Sep 08 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/68bf497a5c5d5f14f46d5c2a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Sep 08 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Coordinator- Intern- College Credit](https://jobright.ai/jobs/info/68bf48e05c5d5f14f46d5b65?utm_campaign=1049&utm_source=git)** | New York | On Site | Sep 08 |
@@ -76,11 +79,13 @@ For a complete list, click the following sortable link below:
 | **[RESPEC](http://www.respec.com)** | **[Student Graphic Design Intern](https://jobright.ai/jobs/info/68bf284c8e65e77df55b787e?utm_campaign=1049&utm_source=git)** | Rapid City, SD, USA | On Site | Sep 08 |
 | **[First Internet Bank](https://www.firstib.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68bf26cc8e65e77df55b7716?utm_campaign=1049&utm_source=git)** | Fishers, IN, USA | On Site | Sep 08 |
 | **[Student Agencies, Inc.](https://www.studentagencies.com/)** | **[Cornellian Yearbook Editorial Team Member (Design, Layout, & Content)](https://jobright.ai/jobs/info/68bf24fc8e65e77df55b7519?utm_campaign=1049&utm_source=git)** | Ithaca, NY | Hybrid | Sep 08 |
+| **[IMEG](http://www.imegcorp.com/)** | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/68bf19695c5d5f14f46d3b69?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 08 |
 | **[Atmosfy](https://atmosfy.io)** | **[UX Research Intern](https://jobright.ai/jobs/info/68b51006bc187f64e1be4525?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 08 |
 | **[TruStage](https://www.trustage.com/)** | **[User Experience Design Intern (Hybrid)](https://jobright.ai/jobs/info/68bf1847702aa35207aa312e?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Sep 08 |
 | **[Brunswick Boat Group](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/68bf3a548e65e77df55b8626?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Sep 08 |
 | **[Nike](http://www.nike.com)** | **[Digital Product Design Undergraduate Internship](https://jobright.ai/jobs/info/68bf1633702aa35207aa2ed3?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Sep 08 |
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/68bf11125c5d5f14f46d35e0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 08 |
+| **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/68b887e95b42bc456282540d?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Sep 08 |
 | **[TruStage](https://www.trustage.com/)** | **[User Experience Design Intern (Hybrid)](https://jobright.ai/jobs/info/68bf08b95c5d5f14f46d3031?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Sep 08 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/68bf083f702aa35207aa2631?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Sep 08 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bf009a8e65e77df55b61a4?utm_campaign=1049&utm_source=git)** | Richardson, TX | On Site | Sep 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cleveland Studios](https://questdigital.com/)** | **[Illustration Internship: Cleveland Magazine](https://jobright.ai/jobs/info/68bee69c5c5d5f14f46d1fb4?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Sep 08 |
 | **[Jeu de paume](jeudepaume.com)** | **[Design Fashion Intern](https://jobright.ai/jobs/info/68bee4768e65e77df55b534f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 08 |
 | **[RAW APP](https://www.raw.app)** | **[Digital Creator Trainee](https://jobright.ai/jobs/info/68bedf19702aa35207aa127a?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 08 |
-| **[Google](https://www.google.com)** | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6f95c5d5f14f46d1678?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6d48e65e77df55b4bba?utm_campaign=1049&utm_source=git)** | Santa Cruz, CA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6d38e65e77df55b4bb7?utm_campaign=1049&utm_source=git)** | Kirkland, WA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6bf702aa35207aa0d3f?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Design Intern, BS/MS, Summer 2026](https://jobright.ai/jobs/info/68bed6be5c5d5f14f46d1670?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
