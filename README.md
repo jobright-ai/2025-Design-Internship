@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arreva](http://www.arreva.com)** | **[Marketing & Graphic Design Intern](https://jobright.ai/jobs/info/68c0621b8e65e77df55c08b4?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 09 |
+| **[Frette](https://frette.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68c04e388e65e77df55c0021?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 09 |
+| **[AlphaGraphics](https://www.alphagraphics.com/)** | **[Internship - Graphic Design / Client Service](https://jobright.ai/jobs/info/68c04d668e65e77df55bff2a?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Sep 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Design Intern, Remote, Spring 2026](https://jobright.ai/jobs/info/68c04a43702aa35207aabae0?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | Remote | Sep 09 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Multimedia Designer Intern - The Toro Company](https://jobright.ai/jobs/info/68c04349702aa35207aab876?utm_campaign=1049&utm_source=git)** | Hennepin County, MN | On Site | Sep 09 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68c03e6e702aa35207aab5c5?utm_campaign=1049&utm_source=git)** | MI - Holland | On Site | Sep 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee268e65e77df55b599c?utm_campaign=1049&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
 | ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee145c5d5f14f46d2417?utm_campaign=1049&utm_source=git)** | Reston, VA, USA | On Site | Sep 08 |
 | ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee115c5d5f14f46d2413?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee078e65e77df55b5991?utm_campaign=1049&utm_source=git)** | Bellevue, WA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beee078e65e77df55b5992?utm_campaign=1049&utm_source=git)** | San Bruno, CA, USA | On Site | Sep 08 |
-| ↳ | **[User Experience Research Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beedff5c5d5f14f46d2400?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
