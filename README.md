@@ -111,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[GALLO](https://www.gallo.com)** | **[Intern Creative Services 2026](https://jobright.ai/jobs/info/68a3d2121ab5f8579e8a89d9?utm_campaign=1049&utm_source=git)** | Modesto, CA | Hybrid | Sep 09 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68a412b72d2a252445cd57f5?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Sep 09 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Post Production Intern](https://jobright.ai/jobs/info/68bfefc38e65e77df55be49a?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
+| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Interior Design - Summer 2026](https://jobright.ai/jobs/info/68c14332233c7d3e64d010d3?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Sep 09 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bfaabc5c5d5f14f46d8f27?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Sep 08 |
 | **[Bold Agency](https://theboldagency.co/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68bf970e8e65e77df55bb8e1?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Sep 08 |
 | **[Allstate](http://www.allstate.com)** | **[UX Design Associate Intern](https://jobright.ai/jobs/info/68bf89b48e65e77df55bb2c0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Boat Group](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/68bf3a548e65e77df55b8626?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Sep 08 |
 | **[Nike](http://www.nike.com)** | **[Digital Product Design Undergraduate Internship](https://jobright.ai/jobs/info/68bf1633702aa35207aa2ed3?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Sep 08 |
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/68bf11125c5d5f14f46d35e0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 08 |
-| **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/68b887e95b42bc456282540d?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
