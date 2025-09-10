@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Associate Designer Intern 2026](https://jobright.ai/jobs/info/68c1b60a3fd8b059a20f1ba9?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Sep 10 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Brand Design - Winter 2026 - University of Cincinnati](https://jobright.ai/jobs/info/68c1d3103fd8b059a20f2f8e?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Sep 10 |
+| **[Cushing Terrell](https://cushingterrell.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68c1ceed233c7d3e64d0485d?utm_campaign=1049&utm_source=git)** | Bozeman, Montana | On Site | Sep 10 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Graphic Design - Communications & Content Internship](https://jobright.ai/jobs/info/68c1cdd83fd8b059a20f28f5?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
+| **[Vestal Corporation](https://vestalcorporation.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/68c1cda0233c7d3e64d046ca?utm_campaign=1049&utm_source=git)** | St. Louis, Missouri, United States | On Site | Sep 10 |
+| **[The Gettys Group](https://www.gettys.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68c1cd113fd8b059a20f2853?utm_campaign=1049&utm_source=git)** | The Gettys Group | On Site | Sep 10 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[User Research Intern](https://jobright.ai/jobs/info/68c1cb924d652f044775a1c3?utm_campaign=1049&utm_source=git)** | Des Moines, Iowa, United States | On Site | Sep 10 |
+| **[Premier](https://www.premierpm.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/68c1c5de3fd8b059a20f22aa?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 10 |
+| **[IBM](http://www.ibm.com)** | **[Associate Designer Intern 2026](https://jobright.ai/jobs/info/68c1c023233c7d3e64d03f30?utm_campaign=1049&utm_source=git)** | Sandy Springs, GA | Hybrid | Sep 10 |
+| ↳ | **[Associate Designer Intern 2026](https://jobright.ai/jobs/info/68c1b60a3fd8b059a20f1ba9?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Sep 10 |
 | ↳ | **[Associate Designer Intern 2026](https://jobright.ai/jobs/info/68c1b6003fd8b059a20f1ba1?utm_campaign=1049&utm_source=git)** | Fresno, CA | Hybrid | Sep 10 |
 | ↳ | **[Associate Designer Intern 2026](https://jobright.ai/jobs/info/68c1b4324d652f044775946c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | **[LAKE](https://lakepajamas.com)** | **[Design Intern](https://jobright.ai/jobs/info/68c1ad5b3fd8b059a20f1788?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Sep 10 |
@@ -74,6 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Project Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/68c1810e233c7d3e64d02147?utm_campaign=1049&utm_source=git)** | Addison, TX | Hybrid | Sep 10 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4c51de9f1c744da123de5?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 10 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/68a5207f33dd7158bbc97539?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 10 |
+| **[Musco Lighting](http://www.musco.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a4c0ade9f1c744da123c0f?utm_campaign=1049&utm_source=git)** | Oskaloosa, IA | On Site | Sep 10 |
 | **[Cushing Terrell](https://cushingterrell.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68c12db33fd8b059a20eec86?utm_campaign=1049&utm_source=git)** | Boise, Idaho | On Site | Sep 10 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/68c128484d652f044775618a?utm_campaign=1049&utm_source=git)** | Austin, Texas | On Site | Sep 10 |
 | **[Focal Pointe](https://www.yourfocalpointe.com)** | **[Landscape Internship](https://jobright.ai/jobs/info/68c124573fd8b059a20ee515?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, USA | On Site | Sep 10 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[D.C. United](http://dcunited.com)** | **[Intern, Graphic Design - Power FC - Summer/Fall 2025](https://jobright.ai/jobs/info/68bf54bc702aa35207aa577d?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 08 |
 | **[U+B Architecture and Design](https://www.uplusb.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/68bfd2da8e65e77df55bd511?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Sep 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Design Intern, Remote, Spring 2026](https://jobright.ai/jobs/info/68bf4c765c5d5f14f46d5d06?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | Remote | Sep 08 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/68bf497a5c5d5f14f46d5c2a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Sep 08 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Design Coordinator- Intern- College Credit](https://jobright.ai/jobs/info/68bf48e05c5d5f14f46d5b65?utm_campaign=1049&utm_source=git)** | New York | On Site | Sep 08 |
-| **[Capture Corp. Media](https://capturecorpmedia.com)** | **[Real Estate Photography Intern](https://jobright.ai/jobs/info/68c026db5c5d5f14f46db8b1?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Sep 08 |
-| **[Farnsworth Group, Inc.](http://f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68bf39b9702aa35207aa48c9?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Sep 08 |
-| ↳ | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68bf38ae5c5d5f14f46d519f?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | Sep 08 |
-| ↳ | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68bf374b5c5d5f14f46d5010?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
-| **[Ameritas](http://www.ameritas.com)** | **[UX Intern](https://jobright.ai/jobs/info/68bf36e95c5d5f14f46d4f92?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 08 |
-| **[Farnsworth Group, Inc.](http://f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68bf358f5c5d5f14f46d4e12?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Sep 08 |
-| ↳ | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68bf358c702aa35207aa4446?utm_campaign=1049&utm_source=git)** | Normal, IL | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
