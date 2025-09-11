@@ -102,11 +102,11 @@ For a complete list, click the following sortable link below:
 | **[Premier](https://www.premierpm.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/68c1c5de3fd8b059a20f22aa?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 10 |
 | **[IBM](http://www.ibm.com)** | **[Associate Designer Intern 2026](https://jobright.ai/jobs/info/68c1c023233c7d3e64d03f30?utm_campaign=1049&utm_source=git)** | Sandy Springs, GA | Hybrid | Sep 10 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Exhibition Design Internship](https://jobright.ai/jobs/info/68c28ab203b99f6b342957b0?utm_campaign=1049&utm_source=git)** | New York City, NY | Hybrid | Sep 10 |
+| **[Verizon](https://www.verizon.com)** | **[Verizon Consumer Experience Design & Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/68c2879d8753a565272fa045?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Sep 10 |
 | **[IBM](http://www.ibm.com)** | **[Associate Designer Intern 2026](https://jobright.ai/jobs/info/68c1b60a3fd8b059a20f1ba9?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Sep 10 |
 | ↳ | **[Associate Designer Intern 2026](https://jobright.ai/jobs/info/68c1b6003fd8b059a20f1ba1?utm_campaign=1049&utm_source=git)** | Fresno, CA | Hybrid | Sep 10 |
 | ↳ | **[Associate Designer Intern 2026](https://jobright.ai/jobs/info/68c1b4324d652f044775946c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
-| **[Verizon](https://www.verizon.com)** | **[Verizon Consumer Experience Design & Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/68c2878d8753a565272fa013?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Sep 10 |
-| ↳ | **[Verizon Consumer Experience Design & Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/68c2889ab535a221b153b578?utm_campaign=1049&utm_source=git)** | Irving, Texas | Hybrid | Sep 10 |
+| **[Verizon](https://www.verizon.com)** | **[Verizon Consumer Experience Design & Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/68c2889ab535a221b153b578?utm_campaign=1049&utm_source=git)** | Irving, Texas | Hybrid | Sep 10 |
 | **[LAKE](https://lakepajamas.com)** | **[Design Intern](https://jobright.ai/jobs/info/68c1ad5b3fd8b059a20f1788?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Sep 10 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Interior Design College Intern (Dallas, TX)](https://jobright.ai/jobs/info/68c1f5344d652f044775c127?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 10 |
 | **[Frette](https://frette.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68c1a5484d652f0447758d9d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 10 |
@@ -145,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Anonyome Labs, Inc.](https://anonyome.com/)** | **[Internship - Product Design (Summer 2026)](https://jobright.ai/jobs/info/68c0c0b85c5d5f14f46e0bc4?utm_campaign=1049&utm_source=git)** | South Jordan, UT | Hybrid | Sep 09 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Stewardship Brand Story Architect R&D Intern](https://jobright.ai/jobs/info/68c0bff18e65e77df55c4273?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Sep 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - UX Research & Design](https://jobright.ai/jobs/info/68c0bfdd5c5d5f14f46e0b1e?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Sep 09 |
+| **[University of South Florida](http://www.usf.edu)** | **[Student Asst - FWS](https://jobright.ai/jobs/info/68c0ba975c5d5f14f46e08f2?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Sep 09 |
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Landscape Design Internship](https://jobright.ai/jobs/info/68c0b9b25c5d5f14f46e07ec?utm_campaign=1049&utm_source=git)** | Highland Park, IL | On Site | Sep 09 |
 | **[Flexsteel Industries Inc.](http://www.flexsteel.com/)** | **[Furniture Design Intern](https://jobright.ai/jobs/info/68c0b973702aa35207aaff0b?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Sep 09 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Stewardship Brand Story Architect R&D Intern](https://jobright.ai/jobs/info/68c09fdb5c5d5f14f46dfc82?utm_campaign=1049&utm_source=git)** | Des Moines, Iowa, United States | On Site | Sep 09 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sevan Multi-Site Solutions](https://www.sevansolutions.com/)** | **[Architectural Designer - Internship/Co-Op](https://jobright.ai/jobs/info/68c08715702aa35207aae430?utm_campaign=1049&utm_source=git)** | Downers Grove, IL | Hybrid | Sep 09 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[User Interface Designer Intern](https://jobright.ai/jobs/info/68c082d18e65e77df55c1feb?utm_campaign=1049&utm_source=git)** | Olathe, Kansas | On Site | Sep 09 |
 | **[Studio Alumbra](https://www.linkedin.com/company/107849932)** | **[Event Planner Intern](https://jobright.ai/jobs/info/68c28952b535a221b153b8ba?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 09 |
-| **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c080ca702aa35207aadf94?utm_campaign=1049&utm_source=git)** | Bellevue, NE | Hybrid | Sep 09 |
-| **[HNTB](http://www.hntb.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c08045702aa35207aadebd?utm_campaign=1049&utm_source=git)** | Tallahassee, FL | On Site | Sep 09 |
+| **[HNTB](http://www.hntb.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c082895c5d5f14f46de9da?utm_campaign=1049&utm_source=git)** | Tallahassee, FL | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
