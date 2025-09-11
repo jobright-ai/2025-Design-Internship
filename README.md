@@ -143,11 +143,11 @@ For a complete list, click the following sortable link below:
 | **[Sevan Multi-Site Solutions](https://www.sevansolutions.com/)** | **[Architectural Designer - Internship/Co-Op](https://jobright.ai/jobs/info/68c08715702aa35207aae430?utm_campaign=1049&utm_source=git)** | Downers Grove, IL | Hybrid | Sep 09 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[User Interface Designer Intern](https://jobright.ai/jobs/info/68c082d18e65e77df55c1feb?utm_campaign=1049&utm_source=git)** | Olathe, Kansas | On Site | Sep 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c082895c5d5f14f46de9da?utm_campaign=1049&utm_source=git)** | Tallahassee, FL | On Site | Sep 09 |
-| **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c080ca702aa35207aadf94?utm_campaign=1049&utm_source=git)** | Bellevue, NE | Hybrid | Sep 09 |
+| **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c0817d5c5d5f14f46de8e8?utm_campaign=1049&utm_source=git)** | Omaha, NE | Hybrid | Sep 09 |
+| ↳ | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c080ca702aa35207aadf94?utm_campaign=1049&utm_source=git)** | Bellevue, NE | Hybrid | Sep 09 |
 | **[Jacobs](http://www.jacobs.com)** | **[Lighting Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68c07dcd702aa35207aadbbe?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 | ↳ | **[Lighting Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68c07d208e65e77df55c1b4a?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Sep 09 |
 | **[Premier Brands Group Holdings](https://www.linkedin.com/company/80318658)** | **[Print Intern](https://jobright.ai/jobs/info/68c078d0702aa35207aad638?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
-| **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c07883702aa35207aad5b7?utm_campaign=1049&utm_source=git)** | Omaha, NE | Hybrid | Sep 09 |
 | **[NEBCO, Inc.](http://nebcoinc.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/68c0771c5c5d5f14f46ddd57?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Sep 09 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/68c074ed702aa35207aad291?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
 | **[Rally House](http://rallyhouse.com)** | **[Intern - Marketing - Creative Design & Digital](https://jobright.ai/jobs/info/68c073e18e65e77df55c1349?utm_campaign=1049&utm_source=git)** | Lenexa, KS | On Site | Sep 09 |
