@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68c583f0db52c07d28843158?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Sep 13 |
+| **[Hunter Engineering Company](http://www.hunter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a8d285758f2e4ac3ff5a3e?utm_campaign=1049&utm_source=git)** | Bridgeton, MO | On Site | Sep 13 |
+| **[Epic Games](https://epicgames.com)** | **[Environment Art Intern](https://jobright.ai/jobs/info/68a90c78d627244576e37055?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Sep 13 |
 | **[ABB](https://global.abb/group/en)** | **[Temporary Associate Designer](https://jobright.ai/jobs/info/68c51edd7d0db41142732bea?utm_campaign=1049&utm_source=git)** | Location, WV | On Site | Sep 13 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[UX Content Strategist Intern, Summer 2026](https://jobright.ai/jobs/info/68c4d6fb7279451d6a03818b?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Sep 12 |
 | **[Smart Media L.L.C.](https://www.smartmediallc.com)** | **[Editor, Motion Designer, Animator Intern](https://jobright.ai/jobs/info/68c4c8fefce86561b9289624?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 12 |
@@ -102,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Twins](https://twins.mlb.com/)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/68c371846031587f8458adfa?utm_campaign=1049&utm_source=git)** | Minneapolis,  MN | On Site | Sep 11 |
 | ↳ | **[Intern, Brand Partnerships - Graphic Design](https://jobright.ai/jobs/info/68c371796031587f8458ade2?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
 | ↳ | **[Intern, Graphic Design](https://jobright.ai/jobs/info/68c370e280e77b1fa6fc9265?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
-| **[UX Woman](https://www.uxwoman.com/)** | **[UX Woman](https://jobright.ai/jobs/info/68c3708b6031587f8458ab62?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Sep 11 |
+| **[UX Woman](https://www.uxwoman.com/)** | **[UX Woman](https://jobright.ai/jobs/info/68c36f11b8c22d3828471c88?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Sep 11 |
 | **[Textron](http://textron.com)** | **[Intern-Customer Experience (Digital Artistry)](https://jobright.ai/jobs/info/68c36f10b8c22d3828471c86?utm_campaign=1049&utm_source=git)** | US-Kansas-Wichita | On Site | Sep 11 |
 | **[Minnesota Twins](https://twins.mlb.com/)** | **[Intern, Brand Partnerships - Graphic Design](https://jobright.ai/jobs/info/68c36eaab8c22d3828471bab?utm_campaign=1049&utm_source=git)** | Minneapolis,  MN | On Site | Sep 11 |
 | **[Textron](http://textron.com)** | **[2026 Internship- Interiors Engineering (Industrial Design)](https://jobright.ai/jobs/info/68c56933db52c07d288428ad?utm_campaign=1049&utm_source=git)** | US-Kansas-Wichita | On Site | Sep 11 |
@@ -114,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[University of Kentucky](https://ukhealthcare.uky.edu/markey-cancer-center)** | **[WRAP-Product Design_Student_Research_Assistant](https://jobright.ai/jobs/info/68c37bd66031587f8458b2fa?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Sep 11 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Lauder Summer 2026 Intern, Creative](https://jobright.ai/jobs/info/68bf61585c5d5f14f46d6621?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Sep 11 |
 | **[Sleeper](https://sleeper.com)** | **[User Research Intern](https://jobright.ai/jobs/info/68c388336031587f8458ba58?utm_campaign=1049&utm_source=git)** | Great Seattle area | On Site | Sep 11 |
-| **[IBM](http://www.ibm.com)** | **[2026 Intern – Motion Designer](https://jobright.ai/jobs/info/68c35d84b8c22d3828471472?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Sep 11 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c35bb4b8c22d3828471258?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Sep 11 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a67937b6a3617d7fa77a08?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Sep 11 |
 | **[WGI](https://wginc.com/)** | **[Intern - Landscape Architecture Summer 2026](https://jobright.ai/jobs/info/68c34ab580e77b1fa6fc8083?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Landscape Architect](https://jobright.ai/jobs/info/68c23ef74d652f044775e2d4?utm_campaign=1049&utm_source=git)** | St Paul, MN | Hybrid | Sep 10 |
 | **[The Walt Disney Company Nordic & Baltic](https://thewaltdisneycompany.com/)** | **[WDI Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68c41cf3e471ef3ce16d3d28?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 10 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Packaging Designer Intern/Co-op (Marshfield, WI)](https://jobright.ai/jobs/info/68c28a5603b99f6b342955e9?utm_campaign=1049&utm_source=git)** | Marshfield, WI | On Site | Sep 10 |
-| **[Informal Content Agency](weareinformal.com)** | **[Creative Intern](https://jobright.ai/jobs/info/68c23ec833864f172f9be44a?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Sep 10 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Graphic Design Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68c229d563b706703e112117?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
