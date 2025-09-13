@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ABB](https://global.abb/group/en)** | **[Temporary Associate Designer](https://jobright.ai/jobs/info/68c51edd7d0db41142732bea?utm_campaign=1049&utm_source=git)** | Location, WV | On Site | Sep 13 |
+| **[Premier Brands Group Holdings](https://www.linkedin.com/company/80318658)** | **[Print Intern ( {{city}})](https://jobright.ai/jobs/info/68c53ae0db52c07d28841d44?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 12 |
 | **[Esurgi, Inc.](https://myesurgi.com/)** | **[Pitch Deck (Powerpoint) Designer Intern](https://jobright.ai/jobs/info/68c4eaf9c96a22563ece4411?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 12 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[UX Content Strategist Intern, Summer 2026](https://jobright.ai/jobs/info/68c4d6fb7279451d6a03818b?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Sep 12 |
 | **[Euclitics](https://www.euclitics.com/)** | **[UI/UX Designer Intern(Unpaid)](https://jobright.ai/jobs/info/68c500287d0db41142730d29?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Sep 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cushing Terrell](https://cushingterrell.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68c50277db52c07d2883fdcc?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Sep 10 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68b14dc16fab621da7b0c434?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Landscape Architect](https://jobright.ai/jobs/info/68c23ef74d652f044775e2d4?utm_campaign=1049&utm_source=git)** | St Paul, MN | Hybrid | Sep 10 |
-| **[THE WALT DISNEY COMPANY NORDIC AB](https://thewaltdisneycompany.com/)** | **[WDI Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68c41cf3e471ef3ce16d3d28?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
