@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[Domo](http://www.domo.com)** | **[Intern - UX Designer](https://jobright.ai/jobs/info/68a8b9d3d627244576e34d70?utm_campaign=1049&utm_source=git)** | American Fork, UT | On Site | Sep 13 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68c583f0db52c07d28843158?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Sep 13 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a8d285758f2e4ac3ff5a3e?utm_campaign=1049&utm_source=git)** | Bridgeton, MO | On Site | Sep 13 |
+| **[American Structurepoint](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/688bbfc51808534a89cb5c68?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Sep 13 |
 | **[Epic Games](https://epicgames.com)** | **[Environment Art Intern](https://jobright.ai/jobs/info/68a90c78d627244576e37055?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Sep 13 |
 | **[ABB](https://global.abb/group/en)** | **[Temporary Associate Designer](https://jobright.ai/jobs/info/68c51edd7d0db41142732bea?utm_campaign=1049&utm_source=git)** | Location, WV | On Site | Sep 13 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[UX Content Strategist Intern, Summer 2026](https://jobright.ai/jobs/info/68c4d6fb7279451d6a03818b?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Sep 12 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Interiors Materials Library Intern](https://jobright.ai/jobs/info/68c30ab263829b0a8a4ff14a?utm_campaign=1049&utm_source=git)** | New York | On Site | Sep 11 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c30a9463829b0a8a4ff0fb?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Sep 11 |
 | **[JPI](http://jpi.com)** | **[Photography Intern](https://jobright.ai/jobs/info/68c51461db52c07d28840ed1?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 11 |
-| **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Graphic Design Intern / Spring 2026](https://jobright.ai/jobs/info/68c2f7375001f8077bf5fc93?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 11 |
 | **[Nanook](https://nanookagency.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/68c2f6385adaee6c9bda5cc4?utm_campaign=1049&utm_source=git)** | Laredo, TX | Remote | Sep 11 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[UIUX Intern](https://jobright.ai/jobs/info/68c2f38d5adaee6c9bda5a99?utm_campaign=1049&utm_source=git)** | Moraine, OH | On Site | Sep 11 |
 | **[JPI](http://jpi.com)** | **[Photography Intern](https://jobright.ai/jobs/info/68c3135c5adaee6c9bda6d73?utm_campaign=1049&utm_source=git)** | Dallas Office | On Site | Sep 11 |
