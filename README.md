@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Secure AIs](www.secureais.com)** | **[UX/UI Internship](https://jobright.ai/jobs/info/68c5ffc2c96a22563ecea4c9?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Aviary Productions](https://www.linkedin.com/company/93796367)** | **[UI artist](https://jobright.ai/jobs/info/68c5b949c96a22563ece9bc5?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Idori](https://idori.com/)** | **[Idori Internship](https://jobright.ai/jobs/info/68c5aa15c96a22563ece9a10?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 13 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Graphic Design & Branding Intern](https://jobright.ai/jobs/info/68c592eac96a22563ece963f?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 13 |
@@ -67,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[American Structurepoint](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/688bbfc51808534a89cb5c68?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Sep 13 |
 | **[Epic Games](https://epicgames.com)** | **[Environment Art Intern](https://jobright.ai/jobs/info/68a90c78d627244576e37055?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Sep 13 |
 | **[ABB](https://global.abb/group/en)** | **[Temporary Associate Designer](https://jobright.ai/jobs/info/68c51edd7d0db41142732bea?utm_campaign=1049&utm_source=git)** | Location, WV | On Site | Sep 13 |
-| **[Tyler Technologies](https://www.tylertech.com/)** | **[UX Content Strategist Intern, Summer 2026](https://jobright.ai/jobs/info/68c4d6fb7279451d6a03818b?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Sep 12 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Creative Services Intern - SMSC Marketing](https://jobright.ai/jobs/info/68c4c89e31e5763f188e395d?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Sep 12 |
 | ↳ | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68c4c6f331e5763f188e3774?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Sep 12 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Creative Services Intern - SMSC Marketing](https://jobright.ai/jobs/info/68c4c2467279451d6a0376ac?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Sep 12 |
@@ -134,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68c31d9c5adaee6c9bda7258?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Sep 11 |
 | **[Qi App](findqi.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/68c319545001f8077bf61075?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Campus Rec-Graphic Designer (1)](https://jobright.ai/jobs/info/68c326465001f8077bf61ac6?utm_campaign=1049&utm_source=git)** | Huntsville, TX | On Site | Sep 11 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Interiors Materials Library Intern](https://jobright.ai/jobs/info/68c311e363829b0a8a4ff655?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 11 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Creative Department Summer Intern](https://jobright.ai/jobs/info/68c310045adaee6c9bda6afc?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 11 |
 | **[Guardian Public Safety Services](https://www.linkedin.com/company/108309747)** | **[Graphic Designer (Volunteer Internship Position)](https://jobright.ai/jobs/info/68c41cd5e471ef3ce16d3d0f?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Sep 11 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Interiors Materials Library Intern](https://jobright.ai/jobs/info/68c30ab263829b0a8a4ff14a?utm_campaign=1049&utm_source=git)** | New York | On Site | Sep 11 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Cushing Terrell](https://cushingterrell.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68c50277db52c07d2883fdcc?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Sep 10 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68b14dc16fab621da7b0c434?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Landscape Architect](https://jobright.ai/jobs/info/68c23ef74d652f044775e2d4?utm_campaign=1049&utm_source=git)** | St Paul, MN | Hybrid | Sep 10 |
+| **[The Walt Disney Company Nordic & Baltic](https://thewaltdisneycompany.com/)** | **[WDI Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68c41cf3e471ef3ce16d3d28?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 10 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Packaging Designer Intern/Co-op (Marshfield, WI)](https://jobright.ai/jobs/info/68c28a5603b99f6b342955e9?utm_campaign=1049&utm_source=git)** | Marshfield, WI | On Site | Sep 10 |
+| **[Informal Content Agency](weareinformal.com)** | **[Creative Intern](https://jobright.ai/jobs/info/68c23ec833864f172f9be44a?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
