@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Secure AIs](www.secureais.com)** | **[UX/UI Internship](https://jobright.ai/jobs/info/68c5ffc2c96a22563ecea4c9?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Aviary Productions](https://www.linkedin.com/company/93796367)** | **[UI artist](https://jobright.ai/jobs/info/68c5b949c96a22563ece9bc5?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Idori](https://idori.com/)** | **[Idori Internship](https://jobright.ai/jobs/info/68c5aa15c96a22563ece9a10?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 13 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Graphic Design & Branding Intern](https://jobright.ai/jobs/info/68c592eac96a22563ece963f?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 13 |
@@ -107,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Twins](https://twins.mlb.com/)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/68c371846031587f8458adfa?utm_campaign=1049&utm_source=git)** | Minneapolis,  MN | On Site | Sep 11 |
 | ↳ | **[Intern, Brand Partnerships - Graphic Design](https://jobright.ai/jobs/info/68c371796031587f8458ade2?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
 | ↳ | **[Intern, Graphic Design](https://jobright.ai/jobs/info/68c370e280e77b1fa6fc9265?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
-| **[UX Woman](https://www.uxwoman.com/)** | **[UX Woman](https://jobright.ai/jobs/info/68c36f11b8c22d3828471c88?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Sep 11 |
+| **[UX Woman](https://www.uxwoman.com/)** | **[UX Woman](https://jobright.ai/jobs/info/68c3708b6031587f8458ab62?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Sep 11 |
 | **[Textron](http://textron.com)** | **[Intern-Customer Experience (Digital Artistry)](https://jobright.ai/jobs/info/68c36f10b8c22d3828471c86?utm_campaign=1049&utm_source=git)** | US-Kansas-Wichita | On Site | Sep 11 |
 | **[Minnesota Twins](https://twins.mlb.com/)** | **[Intern, Brand Partnerships - Graphic Design](https://jobright.ai/jobs/info/68c36eaab8c22d3828471bab?utm_campaign=1049&utm_source=git)** | Minneapolis,  MN | On Site | Sep 11 |
 | **[Textron](http://textron.com)** | **[2026 Internship- Interiors Engineering (Industrial Design)](https://jobright.ai/jobs/info/68c56933db52c07d288428ad?utm_campaign=1049&utm_source=git)** | US-Kansas-Wichita | On Site | Sep 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cushing Terrell](https://cushingterrell.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68c50277db52c07d2883fdcc?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Sep 10 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68b14dc16fab621da7b0c434?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Landscape Architect](https://jobright.ai/jobs/info/68c23ef74d652f044775e2d4?utm_campaign=1049&utm_source=git)** | St Paul, MN | Hybrid | Sep 10 |
-| **[The Walt Disney Company Nordic & Baltic](https://thewaltdisneycompany.com/)** | **[WDI Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68c41cf3e471ef3ce16d3d28?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
