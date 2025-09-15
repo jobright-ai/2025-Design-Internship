@@ -63,12 +63,10 @@ For a complete list, click the following sortable link below:
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - UX Design](https://jobright.ai/jobs/info/68c79e40c96a22563ecf33e2?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Sep 14 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Creative Design Intern](https://jobright.ai/jobs/info/68c79a19c96a22563ecf3032?utm_campaign=1049&utm_source=git)** | NY - New York, 1407 Broadway Floor 12 | On Site | Sep 14 |
 | ↳ | **[Comcast Product Design Intern](https://jobright.ai/jobs/info/68c7988a7d0db4114273e298?utm_campaign=1049&utm_source=git)** | NY - New York, 1407 Broadway Floor 12 | On Site | Sep 14 |
-| **[Books Breaking Borders](http://www.BooksBreakingBorders.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68c79391c96a22563ecf2861?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 14 |
 | **[Steelcase](https://www.steelcase.com/)** | **[Year Round Interior Design Intern](https://jobright.ai/jobs/info/68c787797d0db4114273ce43?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Sep 14 |
 | **[Emerson](http://www.emerson.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/68c77055c96a22563ecf0e0e?utm_campaign=1049&utm_source=git)** | Round Rock, TX | Hybrid | Sep 14 |
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/68c76873c96a22563ecf0c68?utm_campaign=1049&utm_source=git)** | 1100 W Louis Henna Boulevard Building 1, Round Rock, TX, 78681, US | On Site | Sep 14 |
 | **[Clerkie](https://clerkie.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/6890b102f5ee707a15db8ec1?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 14 |
-| **[NexStratus](www.nexstratus.com)** | **[Graphic Design Intern (Part-Time)](https://jobright.ai/jobs/info/68c71206db52c07d2884a2ff?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Sep 14 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX/UI Researcher](https://jobright.ai/jobs/info/68c70c26c96a22563ecf03e9?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 14 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Graphic Design Intern / Spring 2026](https://jobright.ai/jobs/info/68c7055bc96a22563ecf03b9?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 14 |
 | ↳ | **[Graphic Design Intern / Spring 2026](https://jobright.ai/jobs/info/68c6f734c96a22563ecf0296?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Sep 14 |
@@ -84,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68c583f0db52c07d28843158?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Sep 13 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68a8d285758f2e4ac3ff5a3e?utm_campaign=1049&utm_source=git)** | Bridgeton, MO | On Site | Sep 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern](https://jobright.ai/jobs/info/68a8c452758f2e4ac3ff5176?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Sep 13 |
-| **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/68c7e06b983e6768bc547c8b?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Sep 13 |
 | **[ABB](https://global.abb/group/en)** | **[Temporary Associate Designer](https://jobright.ai/jobs/info/68c51edd7d0db41142732bea?utm_campaign=1049&utm_source=git)** | Location, WV | On Site | Sep 13 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Landscape Architecture Intern / Woodbury, NY](https://jobright.ai/jobs/info/68b781af2124650c140233b3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[UX Content Strategist Intern, Summer 2026](https://jobright.ai/jobs/info/68c62b81c96a22563eceac32?utm_campaign=1049&utm_source=git)** | Plano, Texas | On Site | Sep 12 |
@@ -126,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Web Design Assistant](https://jobright.ai/jobs/info/68c65ef77d0db411427392d6?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 11 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Marketing Design](https://jobright.ai/jobs/info/68c3b1b86031587f8458db60?utm_campaign=1049&utm_source=git)** | USA - Remote | Remote | Sep 11 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68c7a77adb52c07d2884dc69?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Sep 11 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Creative Department Summer Intern](https://jobright.ai/jobs/info/68c7a29adb52c07d2884d831?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 11 |
 | **[JPI](http://jpi.com)** | **[Photography Intern](https://jobright.ai/jobs/info/68c79fd5db52c07d2884d291?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 11 |
 | **[Nanook](https://nanookagency.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/68c7a01adb52c07d2884d31f?utm_campaign=1049&utm_source=git)** | Laredo, TX | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c79fdadb52c07d2884d2aa?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
@@ -157,4 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Sleeper](https://sleeper.com)** | **[User Research Intern](https://jobright.ai/jobs/info/68c388336031587f8458ba58?utm_campaign=1049&utm_source=git)** | Great Seattle area | On Site | Sep 11 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c35bb4b8c22d3828471258?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Sep 11 |
 | **[WGI](https://wginc.com/)** | **[Intern - Landscape Architecture Summer 2026](https://jobright.ai/jobs/info/68c34ab580e77b1fa6fc8083?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 11 |
+| ↳ | **[Intern - Landscape Architecture Summer 2026](https://jobright.ai/jobs/info/68c3498bb8c22d3828470854?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Sep 11 |
+| **[Steelcase](https://www.steelcase.com/)** | **[Year Round Interior Design Intern](https://jobright.ai/jobs/info/68c33c3363829b0a8a501397?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Sep 11 |
+| **[HDR](http://www.hdrinc.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/68c339745001f8077bf624f7?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Sep 11 |
+| **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO) – SUB-D/Blender Digital Modeler Summer Internship](https://jobright.ai/jobs/info/68a610bb33dd7158bbc9d70b?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
