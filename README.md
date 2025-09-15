@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Intern / Spring 2026](https://jobright.ai/jobs/info/68c6f734c96a22563ecf0296?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Sep 14 |
 | **[Jeu de paume](jeudepaume.com)** | **[Graphic Design Intern Role](https://jobright.ai/jobs/info/68c6eee3db52c07d28849efd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 14 |
 | **[ARCO National Construction Company](https://www.arconational.com/)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68aa5cb16acf96396f729f9a?utm_campaign=1049&utm_source=git)** | Richmond Heights, MO | On Site | Sep 14 |
-| **[LIQUID+](www.drinkliquidplus.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68c636dfdb52c07d28845488?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Sep 13 |
 | **[Aviary Productions](https://www.linkedin.com/company/93796367)** | **[UI artist](https://jobright.ai/jobs/info/68c5b949c96a22563ece9bc5?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 13 |
 | **[FastFlyrr](www.fastflyrr.com)** | **[Figma - Ui/Ux design Intern](https://jobright.ai/jobs/info/68c689a5db52c07d28849567?utm_campaign=1049&utm_source=git)** | Florida, United States | Remote | Sep 13 |
 | **[Idori](https://idori.com/)** | **[Idori Internship](https://jobright.ai/jobs/info/68c5aa15c96a22563ece9a10?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68c2eda35adaee6c9bda57d0?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 11 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a6791cb6a3617d7fa779eb?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Designer Intern [TikTok-Design-Content Design and Product Writing]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c194179a9f96662536385?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 11 |
+| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68a6832eb6a3617d7fa77dab?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
