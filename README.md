@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Friends And The City](www.friendsnthecity.com)** | **[Social Media Designer - Unpaid Internship](https://jobright.ai/jobs/info/68c91fd895f5211cd2cef0d8?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Sep 16 |
 | **[Simantel](https://www.simantel.com)** | **[INTERN - User Experience Design Intern (Local)](https://jobright.ai/jobs/info/68c8fa39983e6768bc554665?utm_campaign=1049&utm_source=git)** | Peoria, IL | Hybrid | Sep 15 |
 | **[Nexa Tax, Inc.](https://www.nexatax.co)** | **[Sports Content Creator Intern](https://jobright.ai/jobs/info/68c8eac4983e6768bc55392c?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 15 |
 | **[Cherry Hill Programs](https://www.cherryhillprograms.com)** | **[Photography/Retail Internship: Fall 2025 - Charleston (South Carolina Aquarium & USS Yorktown)](https://jobright.ai/jobs/info/68c8e2b2983e6768bc552d54?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | Hybrid | Sep 15 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c8d67ff9c6ff7aedf131d5?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Sep 15 |
-| **[Aptiv](http://www.aptiv.com)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/68c8cd96983e6768bc55196f?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Sep 15 |
 | **[Altium Packaging](https://www.containerexperts.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/68c8cc8c983e6768bc551877?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Sep 15 |
 | **[Rally House](http://rallyhouse.com)** | **[Intern - Marketing - Creative Design & Digital](https://jobright.ai/jobs/info/68c8c08c983e6768bc5512e4?utm_campaign=1049&utm_source=git)** | Lenexa, KS | On Site | Sep 15 |
 | **[Nike](http://www.nike.com)** | **[Apparel Technical Design Undergraduate Internship](https://jobright.ai/jobs/info/68c8b8adf9c6ff7aedf11edb?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Sep 15 |
@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Central States Industrial (CSI)](http://csidesigns.com)** | **[Marketing and Design Intern](https://jobright.ai/jobs/info/68c8b4e5f9c6ff7aedf119aa?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Sep 15 |
 | **[Amazon](https://amazon.com)** | **[User Experience Research Intern Internship – 2026 (US)](https://jobright.ai/jobs/info/68c8b2e1983e6768bc550821?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 15 |
 | **[Nike](http://www.nike.com)** | **[Digital Product Design Undergraduate Internship](https://jobright.ai/jobs/info/68c8aebc983e6768bc5502de?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Sep 15 |
+| **[SPS Commerce](http://spscommerce.com)** | **[Marketing & Design Internship (Talent Pool)](https://jobright.ai/jobs/info/68b58fbbf4e41a61efd902bc?utm_campaign=1049&utm_source=git)** | Rogers, AR | Hybrid | Sep 15 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design / ITAR / U.S.Citizen](https://jobright.ai/jobs/info/68c8a76c95f5211cd2ce7fe0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 15 |
 | **[Galloway & Company, LLC](https://gallowayus.com)** | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/68c8a65e95f5211cd2ce7e1e?utm_campaign=1049&utm_source=git)** | Farmington, UT | Hybrid | Sep 15 |
 | **[The Home Depot](https://www.homedepot.com)** | **[User Experience Internship (Summer 2026 - Hybrid/In-Office)](https://jobright.ai/jobs/info/68c8a10b983e6768bc54fcbd?utm_campaign=1049&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 15 |
@@ -111,15 +112,16 @@ For a complete list, click the following sortable link below:
 | **[Accessus Security B.V.](http://www.accessus-security.nl)** | **[Graphic Design Co-Op - Spring 2026](https://jobright.ai/jobs/info/68c8388995f5211cd2ce2a5c?utm_campaign=1049&utm_source=git)** | Mason, OH | On Site | Sep 15 |
 | **[Steelcase](https://www.steelcase.com/)** | **[2026 Spring Industrial Design Co-op](https://jobright.ai/jobs/info/68c8f8aa95f5211cd2cec36f?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Sep 15 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Interior Design Projects](https://jobright.ai/jobs/info/68c83503f9c6ff7aedf0bf72?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Sep 15 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Strategic Change, Data & Digital Intern](https://jobright.ai/jobs/info/68c834c3f9c6ff7aedf0bebd?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
-| **[VEGA Americas, Inc.](http://www.vega.com)** | **[Graphic Design Co-Op - Spring 2026](https://jobright.ai/jobs/info/68c833e2f9c6ff7aedf0bc97?utm_campaign=1049&utm_source=git)** | Mason, OH | On Site | Sep 15 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Strategic Change, Data & Digital Intern](https://jobright.ai/jobs/info/68c8348ef9c6ff7aedf0be29?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
+| **[VEGA Americas, Inc.](http://www.vega.com)** | **[Graphic Design Co-Op - Spring 2026](https://jobright.ai/jobs/info/68c82b6a983e6768bc54a787?utm_campaign=1049&utm_source=git)** | Mason, OH | On Site | Sep 15 |
 | **[Cushing Terrell](https://cushingterrell.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68c82ad995f5211cd2ce2349?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Sep 15 |
 | **[Highgate](https://www.highgate.com)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/68c81d0bf9c6ff7aedf0aebc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 15 |
 | **[The ABIE Agency](http://www.theabieagency.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68c819d395f5211cd2ce150e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Sep 15 |
 | **[Unity Health Insurance](https://www.QuartzBenefits.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/68c7ee0295f5211cd2cdffcc?utm_campaign=1049&utm_source=git)** | Madison, WI | Remote | Sep 15 |
 | **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/68c7ed22983e6768bc54832b?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 15 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Firmwide Design Development Program - Full-time Opportunity](https://jobright.ai/jobs/info/68c8de09f9c6ff7aedf137f0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 15 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern I - UX Design](https://jobright.ai/jobs/info/68c90ef895f5211cd2cededf?utm_campaign=1049&utm_source=git)** | Remote - United States | Hybrid | Sep 15 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - UX Design](https://jobright.ai/jobs/info/68c92396f9c6ff7aedf1880e?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Sep 15 |
+| ↳ | **[Intern I - UX Design](https://jobright.ai/jobs/info/68c90ef895f5211cd2cededf?utm_campaign=1049&utm_source=git)** | Remote - United States | Hybrid | Sep 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Creative Design Intern](https://jobright.ai/jobs/info/68c79a19c96a22563ecf3032?utm_campaign=1049&utm_source=git)** | NY - New York, 1407 Broadway Floor 12 | On Site | Sep 14 |
 | ↳ | **[Comcast Product Design Intern](https://jobright.ai/jobs/info/68c7988a7d0db4114273e298?utm_campaign=1049&utm_source=git)** | NY - New York, 1407 Broadway Floor 12 | On Site | Sep 14 |
 | **[Steelcase](https://www.steelcase.com/)** | **[Year Round Interior Design Intern](https://jobright.ai/jobs/info/68c787797d0db4114273ce43?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Sep 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68c4c6f331e5763f188e3774?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Sep 12 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Creative Services Intern - SMSC Marketing](https://jobright.ai/jobs/info/68c4c2467279451d6a0376ac?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Sep 12 |
 | ↳ | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68c4c169fce86561b9288f3b?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Sep 12 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Multimedia Design Intern](https://jobright.ai/jobs/info/68c4be5931e5763f188e324a?utm_campaign=1049&utm_source=git)** | Southfield, MI | On Site | Sep 12 |
-| **[Target](https://www.target.com)** | **[UX Design Internship - Minneapolis, MN (Starting Summer, 2026)](https://jobright.ai/jobs/info/68c4ad6731e5763f188e2992?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
