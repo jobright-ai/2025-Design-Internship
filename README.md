@@ -64,11 +64,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026: Product Design Engineering Intern, Advanced Development (May to August)](https://jobright.ai/jobs/info/68ca549106a34016008c7087?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 16 |
 | ↳ | **[Summer 2026: Studio Production Artist Intern (May to August)](https://jobright.ai/jobs/info/68ca53a85f9f0336447dbdc7?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 16 |
 | ↳ | **[Summer 2026: UX/UI Design Intern (May to August)](https://jobright.ai/jobs/info/68ca52c45f9f0336447dbbe2?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 16 |
-| **[AAM - American Axle & Manufacturing](http://aam.com)** | **[CAD Designer College Co-op](https://jobright.ai/jobs/info/68ca52c106a34016008c6cf3?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Sep 16 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Design Engineering Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ca52285f9f0336447dba99?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 16 |
+| ↳ | **[Summer 2026: Product Design Engineering Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ca52285f9f0336447dba99?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 16 |
 | ↳ | **[Summer 2026: Product Design Engineering Intern, Shark (May to August)](https://jobright.ai/jobs/info/68ca51b646caff4db51fd2c1?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 16 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ca4bbb5f9f0336447db4ed?utm_campaign=1049&utm_source=git)** | United, PA | On Site | Sep 16 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Design Intern](https://jobright.ai/jobs/info/68ca5a5b46caff4db51fdf89?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 16 |
+| **[AAM - American Axle & Manufacturing](http://aam.com)** | **[CAD Designer College Co-op](https://jobright.ai/jobs/info/68ca2b47f16e3266d2823604?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Sep 16 |
 | **[MBTA](http://mbta.com)** | **[Graphic Design, Editorial, & Communications Co-Op (Undergraduate Students)](https://jobright.ai/jobs/info/68ca26a3f61c922772a735dd?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 16 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Service Publications Intern - The Toro Company](https://jobright.ai/jobs/info/68ca1b30d4187c55157a63ea?utm_campaign=1049&utm_source=git)** | Bloomington, MN | On Site | Sep 16 |
 | **[Tanit XR](tanitxr.org)** | **[Volunteer/Intern 3D Modeler at Tanit XR](https://jobright.ai/jobs/info/68ca159ef16e3266d282266d?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 16 |
@@ -91,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Koin Payments](https://www.koinpayments.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68c9dc1795f5211cd2cf5537?utm_campaign=1049&utm_source=git)** | LV Metro Area | On Site | Sep 16 |
 | **[Red Hat](http://www.redhat.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/68c9d7b395f5211cd2cf5216?utm_campaign=1049&utm_source=git)** | Boston | On Site | Sep 16 |
 | ↳ | **[UX Research Intern Intern](https://jobright.ai/jobs/info/68c9d74195f5211cd2cf5147?utm_campaign=1049&utm_source=git)** | Raleigh | On Site | Sep 16 |
+| **[Timely AI](https://www.linkedin.com/company/106441490)** | **[Product Designer](https://jobright.ai/jobs/info/68c9f832f61c922772a7169a?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 16 |
 | **[O'Connell Electric Company](http://oconnellelectric.com)** | **[Marketing Intern - Graphic Design and Corporate Communication](https://jobright.ai/jobs/info/68c9d2f1f9c6ff7aedf1e3c6?utm_campaign=1049&utm_source=git)** | Victor, NY | On Site | Sep 16 |
 | ↳ | **[Marketing Intern - Graphic Design and Corporate Communication](https://jobright.ai/jobs/info/68c9d1b3a0c52d598ea3bc3d?utm_campaign=1049&utm_source=git)** | Victor, New York | On Site | Sep 16 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Design Engineering Intern, Shark (May to August)](https://jobright.ai/jobs/info/68c9d004a0c52d598ea3ba1e?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Sep 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nike](http://www.nike.com)** | **[Digital Product Design Undergraduate Internship](https://jobright.ai/jobs/info/68c8aebc983e6768bc5502de?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Sep 15 |
 | **[Indy Fuel Hockey Club](https://www.indyfuelhockey.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68c9c159a0c52d598ea3aed0?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Sep 15 |
 | **[Galloway & Company, LLC](https://gallowayus.com)** | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/68c8a65e95f5211cd2ce7e1e?utm_campaign=1049&utm_source=git)** | Farmington, UT | Hybrid | Sep 15 |
-| **[SPS Commerce](http://spscommerce.com)** | **[Marketing & Design Internship (Talent Pool)](https://jobright.ai/jobs/info/68c9c5fb95f5211cd2cf41ec?utm_campaign=1049&utm_source=git)** | Rogers, AR | Hybrid | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
