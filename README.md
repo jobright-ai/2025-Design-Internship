@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Copart](http://www.copart.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68cb462befdec76df36bad4e?utm_campaign=1049&utm_source=git)** | Dallas, TX - Headquarters | On Site | Sep 17 |
+| **[Immuta](http://www.immuta.com/)** | **[UX Designer Internship Summer 2026](https://jobright.ai/jobs/info/68cb458a9e3a822f5d2445b6?utm_campaign=1049&utm_source=git)** | College Park, MD | Columbus, OH | Boston, MA | Hybrid | Sep 17 |
+| **[Quicken Loans](http://www.quickenloans.com/)** | **[Creative Designer - Summer 2026](https://jobright.ai/jobs/info/68cb3852efdec76df36ba3c4?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Sep 17 |
+| **[Porter Lyons](https://porterlyons.com)** | **[Creative  Administrative Intern](https://jobright.ai/jobs/info/68cb30f3efdec76df36b9f13?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Sep 17 |
+| **[The Home Depot](https://www.homedepot.com)** | **[User Experience Internship (Summer 2026 - Hybrid/In-Office)](https://jobright.ai/jobs/info/68c95d08f9c6ff7aedf191d6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Sep 17 |
 | **[Storrs Central](storrscentral.com)** | **[Graphic Design + Social Media Intern](https://jobright.ai/jobs/info/68cb287bba798c1a501cc7f6?utm_campaign=1049&utm_source=git)** | Storrs Mansfield, CT | Hybrid | Sep 17 |
 | **[Immuta](http://www.immuta.com/)** | **[UX Designer Internship Summer 2026](https://jobright.ai/jobs/info/68cb27e29e3a822f5d243124?utm_campaign=1049&utm_source=git)** | College Park, MD | Hybrid | Sep 17 |
 | **[the LEGO Group](http://www.lego.com)** | **[Digital Product Designer Intern](https://jobright.ai/jobs/info/68cb273befdec76df36b9862?utm_campaign=1049&utm_source=git)** | Irvine | Hybrid | Sep 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[CAD Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cb26ec9e3a822f5d242fb1?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Sep 17 |
 | ↳ | **[Art Studio Intern, Spring 2026](https://jobright.ai/jobs/info/68cb1e42ba798c1a501cbf31?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Sep 17 |
 | **[Emerson](http://www.emerson.com)** | **[UX Design Co-op](https://jobright.ai/jobs/info/68cb1d51ba798c1a501cbcde?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | Hybrid | Sep 17 |
-| **[Stealth](http://www.flitch.com)** | **[Website Designer](https://jobright.ai/jobs/info/68cb0fbf9e3a822f5d241ed7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 17 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[CMF & Industrial Design Intern](https://jobright.ai/jobs/info/68cb0a109e3a822f5d2417fb?utm_campaign=1049&utm_source=git)** | MI - Holland | On Site | Sep 17 |
 | **[Tractor Zoom](https://tractorzoom.com)** | **[Product Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/68cb0654d905e25191d9e5eb?utm_campaign=1049&utm_source=git)** | West Des Moines, Iowa, United States | Hybrid | Sep 17 |
 | **[Elevation Church](http://elevationchurch.org/)** | **[Elevation Church Creative Ministry Apprenticeship (Spring 2026)](https://jobright.ai/jobs/info/68cafcd5efdec76df36b7432?utm_campaign=1049&utm_source=git)** | Matthews, NC | On Site | Sep 17 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Service Publications Intern - The Toro Company](https://jobright.ai/jobs/info/68cad4229e3a822f5d23f6f2?utm_campaign=1049&utm_source=git)** | Hennepin County, MN | On Site | Sep 17 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/68cad38cefdec76df36b5cd7?utm_campaign=1049&utm_source=git)** | IL - Chicago | On Site | Sep 17 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Creative Services Intern D (Melbourne, FL)](https://jobright.ai/jobs/info/68ae1388758f2e4ac3011101?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Sep 17 |
-| **[Danaher Corporation](https://www.danaher.com/)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/68caf5c0efdec76df36b7085?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Advanced Development (January through June)](https://jobright.ai/jobs/info/68cabf34d905e25191d9bfa6?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 17 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cabf19efdec76df36b52a2?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Creative Operations Co-op (January through June)](https://jobright.ai/jobs/info/68ae9ee67bcb7608b3d2871b?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Sep 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ca6c935f9f0336447dd96d?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Sep 16 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Creative Writer, Enrollment Communications (Federal Work Study) (Student Wage)](https://jobright.ai/jobs/info/68c9d254f9c6ff7aedf1e298?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | Hybrid | Sep 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68c95470a0c52d598ea36a85?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Sep 16 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Technology UX Design](https://jobright.ai/jobs/info/68acc36d758f2e4ac3008994?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Sep 16 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op – Creative Operations](https://jobright.ai/jobs/info/68c969d895f5211cd2cf0436?utm_campaign=1049&utm_source=git)** | Burlington, MA | On Site | Sep 16 |
-| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/68ca658406a34016008c82a6?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
