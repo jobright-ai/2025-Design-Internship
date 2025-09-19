@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ever Lasting Fabric](https://everlastingfabric.com/)** | **[Web Experience Intern](https://jobright.ai/jobs/info/68cd3203e23def7af55b6aa1?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Graphic Design & Project Management, Food & Beverage* (Summer 2026)](https://jobright.ai/jobs/info/68cd084ae23def7af55b39ed?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[Balance Now](https://www.balance.ca)** | **[Graphic Designer (Unpaid)](https://jobright.ai/jobs/info/68ccd17bb274cd205ab4f8a0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 18 |
 | **[Insight FS](https://www.insightfs.com)** | **[GROWMARK Communications & Design Internship - Insight FS - Jefferson, WI](https://jobright.ai/jobs/info/68ccc2d3d99309000e5a2c3e?utm_campaign=1049&utm_source=git)** | Jefferson, WI | On Site | Sep 18 |
@@ -68,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68cc93477342c7623ae669a1?utm_campaign=1049&utm_source=git)** | Clayton, MO | Hybrid | Sep 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Consumer Products Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cc8c687342c7623ae666a6?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Sep 18 |
 | **[FRAMEWORX](http://www.frameworx.la)** | **[Frameworx Creative Intern (Fall 2025)](https://jobright.ai/jobs/info/68cc87e8128dc347fd9262b8?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Sep 18 |
-| **[EAIGG: Ethical AI Governance Group](https://www.eaigg.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68cc879416d00d2beeb20f18?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Graphic Design and Presentation Intern, Spring 2026](https://jobright.ai/jobs/info/68cc7d8d16d00d2beeb20a6d?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | Hybrid | Sep 18 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68cc74cb16d00d2beeb200f3?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 18 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/68cc744e128dc347fd9252e6?utm_campaign=1049&utm_source=git)** | United States-Washington-Seattle | On Site | Sep 18 |
@@ -97,13 +95,15 @@ For a complete list, click the following sortable link below:
 | **[Sartorius](http://sartorius.com)** | **[User Experience Designer Intern-Part time/Remote](https://jobright.ai/jobs/info/68cc341916d00d2beeb1b9a7?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 18 |
 | ↳ | **[User Experience Designer Intern-Part time/Remote](https://jobright.ai/jobs/info/68cc1bfa128dc347fd91f4ce?utm_campaign=1049&utm_source=git)** | Home Office United States of America | Remote | Sep 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Content Development & Project Support for Global Customer Advisory](https://jobright.ai/jobs/info/68cc8d32128dc347fd9267b7?utm_campaign=1049&utm_source=git)** | Newtown Square, PA | Hybrid | Sep 18 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Spring 2026- Interior Design - CS College Intern](https://jobright.ai/jobs/info/68b002b313563e782a9f2ee9?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Sep 18 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Spring 2026 - Interior Design College Intern](https://jobright.ai/jobs/info/68c86583983e6768bc54c88f?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Sep 18 |
+| ↳ | **[Spring 2026- Interior Design - CS College Intern](https://jobright.ai/jobs/info/68b002b313563e782a9f2ee9?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Sep 18 |
 | ↳ | **[Summer 2026 - Interior Design College Intern](https://jobright.ai/jobs/info/68cb2a2dba798c1a501ccad2?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Sep 18 |
 | **[Little League International](https://www.littleleague.org/)** | **[Digital Design Intern - Spring Semester (Remote Eligible)](https://jobright.ai/jobs/info/68cc9eaf7342c7623ae673db?utm_campaign=1049&utm_source=git)** | Williamsport, PA | Remote | Sep 18 |
 | **[Browning Day](http://bdmd.com)** | **[Architectural Internship - 2026](https://jobright.ai/jobs/info/68cbfa79128dc347fd91caf9?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 18 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[CAD Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cd12d1b2a74e1837ed1d9c?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 18 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cd11b81ad6b16f02894547?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Sep 18 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6892731c4c7e851b90ad5e69?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Sep 18 |
+| **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2026 (US)](https://jobright.ai/jobs/info/68cd4b451ad6b16f02897a1f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 18 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6892731c4c7e851b90ad5e69?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Sep 18 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ccf4a6d11b445e0bee4d31?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Sep 18 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Art Studio Intern, Spring 2026](https://jobright.ai/jobs/info/68cc0b31128dc347fd91dfd2?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 18 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68cd40ae1ad6b16f02896fd5?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 18 |
@@ -138,9 +138,9 @@ For a complete list, click the following sortable link below:
 | **[Immuta](http://www.immuta.com/)** | **[UX Designer Internship Summer 2026](https://jobright.ai/jobs/info/68cb27e29e3a822f5d243124?utm_campaign=1049&utm_source=git)** | College Park, MD | Hybrid | Sep 17 |
 | **[the LEGO Group](http://www.lego.com)** | **[Digital Product Designer Intern](https://jobright.ai/jobs/info/68cb273befdec76df36b9862?utm_campaign=1049&utm_source=git)** | Irvine | Hybrid | Sep 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[CAD Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cb26ec9e3a822f5d242fb1?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Sep 17 |
-| ↳ | **[Art Studio Intern, Spring 2026](https://jobright.ai/jobs/info/68cb1e42ba798c1a501cbf31?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Sep 17 |
 | **[The Home Depot](https://www.homedepot.com)** | **[User Experience Internship (Summer 2026 - Hybrid/In-Office)](https://jobright.ai/jobs/info/68cc7eb6128dc347fd925dd6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Sep 17 |
 | **[Leon Construction](www.buildwithleon.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/68cc08d816d00d2beeb1881f?utm_campaign=1049&utm_source=git)** | Vacaville, CA | On Site | Sep 17 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment Art Studio Intern, Spring 2026](https://jobright.ai/jobs/info/68cb1e42ba798c1a501cbf31?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Sep 17 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[CMF & Industrial Design Intern](https://jobright.ai/jobs/info/68cb0a109e3a822f5d2417fb?utm_campaign=1049&utm_source=git)** | MI - Holland | On Site | Sep 17 |
 | **[Tractor Zoom](https://tractorzoom.com)** | **[Product Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/68cb0654d905e25191d9e5eb?utm_campaign=1049&utm_source=git)** | West Des Moines, Iowa, United States | Hybrid | Sep 17 |
 | **[HOLLY HUNT](https://www.hollyhunt.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/68caf611d905e25191d9ddf3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 17 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Intern – UI/UX Designer (Summer 2026)](https://jobright.ai/jobs/info/68cac9c4d905e25191d9c4e7?utm_campaign=1049&utm_source=git)** | Downers Grove, IL | On Site | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Studio Production Artist Co-op (January through June)](https://jobright.ai/jobs/info/68cc26e616d00d2beeb1ad30?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 17 |
 | ↳ | **[Spring 2026: CMF Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 17 |
+| ↳ | **[Summer 2026: CMF Industrial Design Intern (May to August)](https://jobright.ai/jobs/info/68cd5b73b2a74e1837ed5e03?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 17 |
 | ↳ | **[Summer 2026: UX/UI Design Intern (May to August)](https://jobright.ai/jobs/info/68cbfddf16d00d2beeb17d23?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 17 |
-| **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68cd419db2a74e1837ed480e?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
