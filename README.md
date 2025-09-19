@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cd79cbb2a74e1837ed7724?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 19 |
+| ↳ | **[Retail Creative Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cd7937b2a74e1837ed756b?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 19 |
+| ↳ | **[Graphic Design and Presentation Intern, Spring 2026](https://jobright.ai/jobs/info/68cd76a21ad6b16f02899b66?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 19 |
+| **[Proofd](www.getproofd.com)** | **[Internship: Video & digital content creator](https://jobright.ai/jobs/info/68cd6e97e23def7af55b9c6e?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Sep 19 |
+| **[Zekelman Industries](http://www.zekelman.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/68cd6c59b2a74e1837ed69b7?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Sep 19 |
+| **[ONEFINEDAY](one-fine-day.com)** | **[Creative + Brand Intern (Fashion / Art Direction)](https://jobright.ai/jobs/info/68cd5c71b2a74e1837ed5fd0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Graphic Design & Project Management, Food & Beverage* (Summer 2026)](https://jobright.ai/jobs/info/68cd084ae23def7af55b39ed?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[Balance Now](https://www.balance.ca)** | **[Graphic Designer (Unpaid)](https://jobright.ai/jobs/info/68ccd17bb274cd205ab4f8a0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 18 |
 | **[Insight FS](https://www.insightfs.com)** | **[GROWMARK Communications & Design Internship - Insight FS - Jefferson, WI](https://jobright.ai/jobs/info/68ccc2d3d99309000e5a2c3e?utm_campaign=1049&utm_source=git)** | Jefferson, WI | On Site | Sep 18 |
@@ -89,11 +95,12 @@ For a complete list, click the following sortable link below:
 | **[SAFEbuilt](http://safebuilt.com/)** | **[Landscape Intern Part Time](https://jobright.ai/jobs/info/68cc479e128dc347fd921f84?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 18 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/68ccd199b274cd205ab4f8f2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | **[HDR](http://www.hdrinc.com)** | **[Urban Design/Landscape Planning Intern](https://jobright.ai/jobs/info/68cc3afb16d00d2beeb1bf7d?utm_campaign=1049&utm_source=git)** | United States-Washington-Seattle | On Site | Sep 18 |
+| **[Civil Art](civiartinc.org)** | **[Arts Non-Profit Internship Program (Fall 2025)](https://jobright.ai/jobs/info/68cd5c02e23def7af55b8aca?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 18 |
+| **[Sartorius](http://sartorius.com)** | **[User Experience Designer Intern-Part time/Remote](https://jobright.ai/jobs/info/68cd79dee23def7af55ba691?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 18 |
 | **[Mary Square, LLC ](https://www.marysquare.com)** | **[Print Design Intern](https://jobright.ai/jobs/info/68cc35f916d00d2beeb1bd5f?utm_campaign=1049&utm_source=git)** | Apex, NC | On Site | Sep 18 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Premium Experiences Intern](https://jobright.ai/jobs/info/68cc353a128dc347fd920f2c?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | On Site | Sep 18 |
 | **[nCino](http://ncino.com)** | **[Summer 2026 - Product Design Intern / Utah](https://jobright.ai/jobs/info/68cc34417342c7623ae60b16?utm_campaign=1049&utm_source=git)** | US - Utah - Lehi | On Site | Sep 18 |
-| **[Sartorius](http://sartorius.com)** | **[User Experience Designer Intern-Part time/Remote](https://jobright.ai/jobs/info/68cc341916d00d2beeb1b9a7?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 18 |
-| ↳ | **[User Experience Designer Intern-Part time/Remote](https://jobright.ai/jobs/info/68cc1bfa128dc347fd91f4ce?utm_campaign=1049&utm_source=git)** | Home Office United States of America | Remote | Sep 18 |
+| **[Veritiv](https://www.veritiv.com)** | **[Packaging Trainee](https://jobright.ai/jobs/info/68939f464c7e851b90aded1c?utm_campaign=1049&utm_source=git)** | West Sacramento, CA | On Site | Sep 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Content Development & Project Support for Global Customer Advisory](https://jobright.ai/jobs/info/68cc8d32128dc347fd9267b7?utm_campaign=1049&utm_source=git)** | Newtown Square, PA | Hybrid | Sep 18 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Spring 2026 - Interior Design College Intern](https://jobright.ai/jobs/info/68c86583983e6768bc54c88f?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Sep 18 |
 | ↳ | **[Spring 2026- Interior Design - CS College Intern](https://jobright.ai/jobs/info/68b002b313563e782a9f2ee9?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Sep 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rob Metcalf Design](www.robmetcalfdesign.com)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/68cbbcf3efdec76df36c1bba?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Sep 17 |
 | **[Arbor Homes](https://yourarborhome.com/)** | **[End User Experience Intern](https://jobright.ai/jobs/info/68cc3db316d00d2beeb1c331?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Sep 17 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/68cad38cefdec76df36b5cd7?utm_campaign=1049&utm_source=git)** | IL - Chicago | On Site | Sep 17 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Creative Services Intern D (Melbourne, FL)](https://jobright.ai/jobs/info/68ae1388758f2e4ac3011101?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Sep 17 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Service Publications Intern - The Toro Company](https://jobright.ai/jobs/info/68cc1c977342c7623ae5f68c?utm_campaign=1049&utm_source=git)** | Hennepin County, MN | On Site | Sep 17 |
-| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Intern – UI/UX Designer (Summer 2026)](https://jobright.ai/jobs/info/68cac9c4d905e25191d9c4e7?utm_campaign=1049&utm_source=git)** | Downers Grove, IL | On Site | Sep 17 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Studio Production Artist Co-op (January through June)](https://jobright.ai/jobs/info/68cc26e616d00d2beeb1ad30?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 17 |
-| ↳ | **[Spring 2026: CMF Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 17 |
-| ↳ | **[Summer 2026: CMF Industrial Design Intern (May to August)](https://jobright.ai/jobs/info/68cd5b73b2a74e1837ed5e03?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 17 |
-| ↳ | **[Summer 2026: UX/UI Design Intern (May to August)](https://jobright.ai/jobs/info/68cbfddf16d00d2beeb17d23?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
