@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grand Canyon University](http://www.gcu.edu/)** | **[Student Engagement - Graphic Designer (FWS/NFWS)](https://jobright.ai/jobs/info/68cd92311ad6b16f0289b6ce?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Sep 19 |
+| **[Optimal Sports Management](http://www.optimalsports.net)** | **[Sports Graphic Design Internship (Unpaid)](https://jobright.ai/jobs/info/68cd8c48e23def7af55bb9a4?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 19 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cd79cbb2a74e1837ed7724?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 19 |
 | ↳ | **[Retail Creative Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cd7937b2a74e1837ed756b?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 19 |
 | ↳ | **[Graphic Design and Presentation Intern, Spring 2026](https://jobright.ai/jobs/info/68cd76a21ad6b16f02899b66?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 19 |
@@ -64,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/68cd6c59b2a74e1837ed69b7?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Sep 19 |
 | **[ONEFINEDAY](one-fine-day.com)** | **[Creative + Brand Intern (Fashion / Art Direction)](https://jobright.ai/jobs/info/68cd5c71b2a74e1837ed5fd0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Graphic Design & Project Management, Food & Beverage* (Summer 2026)](https://jobright.ai/jobs/info/68cd084ae23def7af55b39ed?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
-| **[Balance Now](https://www.balance.ca)** | **[Graphic Designer (Unpaid)](https://jobright.ai/jobs/info/68ccd17bb274cd205ab4f8a0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 18 |
+| **[RQ Construction, LLC](http://rqconstruction.com)** | **[Design Intern](https://jobright.ai/jobs/info/68cd8200b2a74e1837ed7e31?utm_campaign=1049&utm_source=git)** | Carlsbad, CA | On Site | Sep 19 |
 | **[Insight FS](https://www.insightfs.com)** | **[GROWMARK Communications & Design Internship - Insight FS - Jefferson, WI](https://jobright.ai/jobs/info/68ccc2d3d99309000e5a2c3e?utm_campaign=1049&utm_source=git)** | Jefferson, WI | On Site | Sep 18 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Graphic Designer, People Content (Winter/Spring 2026)](https://jobright.ai/jobs/info/68ccc29fd99309000e5a2bbc?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Sep 18 |
 | **[GlobalFoundries](https://gf.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccac0d7342c7623ae68010?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Sep 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[UX Design Co-op](https://jobright.ai/jobs/info/68caec6dd905e25191d9d62a?utm_campaign=1049&utm_source=git)** | 12001 Technology Drive, Eden Prairie, MN, 55344, US | On Site | Sep 17 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Student UI/UX Designer for Adaptive Learning App](https://jobright.ai/jobs/info/68cae51cefdec76df36b64f9?utm_campaign=1049&utm_source=git)** | UT MAIN CAMPUS | On Site | Sep 17 |
 | **[Rob Metcalf Design](www.robmetcalfdesign.com)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/68cbbcf3efdec76df36c1bba?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Sep 17 |
-| **[Arbor Homes](https://yourarborhome.com/)** | **[End User Experience Intern](https://jobright.ai/jobs/info/68cc3db316d00d2beeb1c331?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Sep 17 |
-| **[MillerKnoll](http://www.millerknoll.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/68cad38cefdec76df36b5cd7?utm_campaign=1049&utm_source=git)** | IL - Chicago | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
