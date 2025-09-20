@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burgess & Niple](http://burgessniple.com)** | **[Architectural Co-op](https://jobright.ai/jobs/info/68cde4ff1ad6b16f0289fc03?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 19 |
+| **[Branch](https://www.branchcreative.com/)** | **[Industrial Designer - Intern and Junior Level](https://jobright.ai/jobs/info/68cde4e7e23def7af55c0087?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 19 |
+| **[Martin Brattrud](https://martinbrattrud.com)** | **[Digital Creator Intern](https://jobright.ai/jobs/info/68cdd3d01ad6b16f0289f48b?utm_campaign=1049&utm_source=git)** | Gardena, CA | On Site | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment Industrial Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cdcedf1ad6b16f0289f2b5?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Sep 19 |
 | **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/68cdc94bb2a74e1837edc55e?utm_campaign=1049&utm_source=git)** | Duluth, MN | Hybrid | Sep 19 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Layout Intern - Bachelors Degree](https://jobright.ai/jobs/info/68cdc2d3e23def7af55bef64?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Sep 19 |
@@ -64,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[John Deere](https://www.deere.com)** | **[Part Time Student - User Experience Designer - Ames, IA](https://jobright.ai/jobs/info/68cdb8a0e23def7af55be9b3?utm_campaign=1049&utm_source=git)** | Ames, IA | Hybrid | Sep 19 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Graphic Designer Marketing Intern](https://jobright.ai/jobs/info/68cdb7341ad6b16f0289e262?utm_campaign=1049&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | Hybrid | Sep 19 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Identity, Products, & Loyalty - Onboard Product Design (Summer 2026)](https://jobright.ai/jobs/info/68cdb5c8e23def7af55be6bf?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 19 |
-| **[John Deere](https://www.deere.com)** | **[Part Time Student - User Experience Designer - Ames, IA](https://jobright.ai/jobs/info/68cdb39fb2a74e1837edb649?utm_campaign=1049&utm_source=git)** | Ames, OK | Hybrid | Sep 19 |
+| **[Toyota Research Institute](http://www.tri.global)** | **[Future Product Innovation Research Intern, HCI Creativity](https://jobright.ai/jobs/info/6867bf2b35584b654236b0dd?utm_campaign=1049&utm_source=git)** | Los Altos, CA | Hybrid | Sep 19 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68cdb2eab2a74e1837edb4f6?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 19 |
 | **[Lansing Board of Water & Light](http://lbwl.com)** | **[Intern, Asset Management](https://jobright.ai/jobs/info/68cdad64b2a74e1837edaee9?utm_campaign=1049&utm_source=git)** | Lansing, MI | Hybrid | Sep 19 |
 | **[Storr Office Environments](https://www.storr.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68cda9f81ad6b16f0289d759?utm_campaign=1049&utm_source=git)** | Raleigh,NC,US | On Site | Sep 19 |
@@ -74,13 +77,13 @@ For a complete list, click the following sortable link below:
 | **[Universal Creative](https://jobs.universalparks.com/universal-creative/)** | **[Internship, Universal Creative – Master Planning (Summer 2026)](https://jobright.ai/jobs/info/68cd9c86e23def7af55bca85?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Student Engagement - Graphic Designer (FWS/NFWS)](https://jobright.ai/jobs/info/68cd9927e23def7af55bc729?utm_campaign=1049&utm_source=git)** | AZ Phoenix | On Site | Sep 19 |
 | **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/68c9bc35a0c52d598ea3a9a9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 19 |
+| **[Zekelman Industries](http://www.zekelman.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/68cd95851ad6b16f0289bdc9?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Sep 19 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Student Engagement - Graphic Designer (FWS/NFWS)](https://jobright.ai/jobs/info/68cd92311ad6b16f0289b6ce?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Sep 19 |
 | **[Optimal Sports Management](http://www.optimalsports.net)** | **[Sports Graphic Design Internship (Unpaid)](https://jobright.ai/jobs/info/68cd8c48e23def7af55bb9a4?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 19 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cd79cbb2a74e1837ed7724?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 19 |
 | ↳ | **[Retail Creative Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cd7937b2a74e1837ed756b?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 19 |
 | ↳ | **[Graphic Design and Presentation Intern, Spring 2026](https://jobright.ai/jobs/info/68cd76a21ad6b16f02899b66?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 19 |
 | **[Proofd](www.getproofd.com)** | **[Internship: Video & digital content creator](https://jobright.ai/jobs/info/68cd6e97e23def7af55b9c6e?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Sep 19 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/68cd6c59b2a74e1837ed69b7?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Sep 19 |
 | **[ONEFINEDAY](one-fine-day.com)** | **[Creative + Brand Intern (Fashion / Art Direction)](https://jobright.ai/jobs/info/68cd5c71b2a74e1837ed5fd0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Graphic Design & Project Management, Food & Beverage* (Summer 2026)](https://jobright.ai/jobs/info/68cd084ae23def7af55b39ed?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[RQ Construction, LLC](http://rqconstruction.com)** | **[Design Intern](https://jobright.ai/jobs/info/68cd8200b2a74e1837ed7e31?utm_campaign=1049&utm_source=git)** | Carlsbad, CA | On Site | Sep 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IEH Laboratories and Consulting Group](https://www.iehinc.com/)** | **[Graphic Design Intern – Marketing (Lake Forest Park, WA)](https://jobright.ai/jobs/info/68cc55387342c7623ae62aa4?utm_campaign=1049&utm_source=git)** | Lake Forest Park, WA | On Site | Sep 17 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[CMF & Industrial Design Intern](https://jobright.ai/jobs/info/68cc5d1c7342c7623ae635ae?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Sep 17 |
 | **[Copart](http://www.copart.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68cb462befdec76df36bad4e?utm_campaign=1049&utm_source=git)** | Dallas, TX - Headquarters | On Site | Sep 17 |
-| **[Immuta](http://www.immuta.com/)** | **[UX Designer Internship Summer 2026](https://jobright.ai/jobs/info/68cb458a9e3a822f5d2445b6?utm_campaign=1049&utm_source=git)** | College Park, MD | Columbus, OH | Boston, MA | Hybrid | Sep 17 |
-| **[Quicken Loans](http://www.quickenloans.com/)** | **[Creative Designer - Summer 2026](https://jobright.ai/jobs/info/68cb3852efdec76df36ba3c4?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Sep 17 |
-| **[Porter Lyons](https://porterlyons.com)** | **[Creative  Administrative Intern](https://jobright.ai/jobs/info/68cb30f3efdec76df36b9f13?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
