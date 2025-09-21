@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stovo](https://stovo.vercel.app/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68d0507afb49c96ca6eaee40?utm_campaign=1049&utm_source=git)** | DC-Baltimore Area | Remote | Sep 21 |
+| **[Sloane Strategy](https://sloanestrategy.com)** | **[Creative Media Intern (Fall 2025)](https://jobright.ai/jobs/info/68d0692f846f0b04af688a46?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Sep 21 |
 | **[Jeu de paume](jeudepaume.com)** | **[Graphic Design Internship Role](https://jobright.ai/jobs/info/68d026fe846f0b04af687d95?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 21 |
 | **[Premier](https://www.premierpm.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/68cff113846f0b04af686370?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 21 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Intimates](https://jobright.ai/jobs/info/68cfa791dbd9fb154ede9648?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 21 |
