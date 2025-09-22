@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JIO ROBOTICS Academy](www.jiorobotics.com)** | **[Sr UX/UI with Strong Backend Development Internship Remote](https://jobright.ai/jobs/info/68d072c6846f0b04af688ac8?utm_campaign=1049&utm_source=git)** | Columbia, MD | Remote | Sep 21 |
 | **[Sloane Strategy](https://sloanestrategy.com)** | **[Creative Media Intern (Fall 2025)](https://jobright.ai/jobs/info/68d0692f846f0b04af688a46?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Sep 21 |
 | **[Jeu de paume](jeudepaume.com)** | **[Graphic Design Internship Role](https://jobright.ai/jobs/info/68d026fe846f0b04af687d95?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 21 |
 | **[Premier](https://www.premierpm.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/68cff113846f0b04af686370?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 21 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Intimates](https://jobright.ai/jobs/info/68cfa791dbd9fb154ede9648?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 21 |
 | **[Tractor Zoom](https://tractorzoom.com)** | **[Product Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf1265fb49c96ca6ea5a21?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | Hybrid | Sep 20 |
-| **[Manhattan Edit Workshop](https://www.mewshop.com/)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf0d79fb49c96ca6ea585f?utm_campaign=1049&utm_source=git)** | Omaha, NE | Hybrid | Sep 20 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Industrial Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cecbd9846f0b04af67d0c6?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 20 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX/UI Researcher](https://jobright.ai/jobs/info/68ccfd5577add66568abd38a?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 20 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/68ccb71916d00d2beeb233fb?utm_campaign=1049&utm_source=git)** | Ohio, United States | On Site | Sep 20 |
@@ -98,15 +98,14 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68cdb2eab2a74e1837edb4f6?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 19 |
 | **[Lansing Board of Water & Light](http://lbwl.com)** | **[Intern, Asset Management](https://jobright.ai/jobs/info/68cdad64b2a74e1837edaee9?utm_campaign=1049&utm_source=git)** | Lansing, MI | Hybrid | Sep 19 |
 | **[Universal Creative](https://jobs.universalparks.com/universal-creative/)** | **[Internship, Universal Creative – Master Planning (Summer 2026)](https://jobright.ai/jobs/info/68cd9c86e23def7af55bca85?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
-| **[Storr Office Environments](https://www.storr.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68d0478cdbd9fb154edee36f?utm_campaign=1049&utm_source=git)** | Raleigh,NC,US | On Site | Sep 19 |
 | **[RQ Construction, LLC](http://rqconstruction.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68cea18cfb49c96ca6ea2434?utm_campaign=1049&utm_source=git)** | Carlsbad,CA,US | On Site | Sep 19 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Student Engagement - Graphic Designer (FWS/NFWS)](https://jobright.ai/jobs/info/68cd9927e23def7af55bc729?utm_campaign=1049&utm_source=git)** | AZ Phoenix | On Site | Sep 19 |
 | **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/68c9bc35a0c52d598ea3a9a9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 19 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/68cd95851ad6b16f0289bdc9?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Sep 19 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Student Engagement - Graphic Designer (FWS/NFWS)](https://jobright.ai/jobs/info/68cd92311ad6b16f0289b6ce?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Sep 19 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cd79cbb2a74e1837ed7724?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 19 |
 | ↳ | **[Retail Creative Graphic Design Intern, Spring 2026](https://jobright.ai/jobs/info/68cd7937b2a74e1837ed756b?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Sep 19 |
 | ↳ | **[Graphic Design and Presentation Intern, Spring 2026](https://jobright.ai/jobs/info/68cd76a21ad6b16f02899b66?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Sep 19 |
+| **[Zekelman Industries](http://www.zekelman.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/68cd6c59b2a74e1837ed69b7?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Sep 19 |
 | **[Proofd](www.getproofd.com)** | **[Internship: Video & digital content creator](https://jobright.ai/jobs/info/68cd6e97e23def7af55b9c6e?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Sep 19 |
 | **[Merrick & Company](http://www.merrick.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/68b1482e04557a6c207bc12b?utm_campaign=1049&utm_source=git)** | San Antonio, TX | Hybrid | Sep 19 |
 | **[Little League International](https://www.littleleague.org/)** | **[Digital Design Intern - Spring Semester (Remote Eligible)](https://jobright.ai/jobs/info/68cea028846f0b04af67b9d6?utm_campaign=1049&utm_source=git)** | Williamsport, PA | Remote | Sep 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Interior Design College Intern](https://jobright.ai/jobs/info/68cb2a2dba798c1a501ccad2?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Sep 18 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Studio Production Artist Co-op (January through June)](https://jobright.ai/jobs/info/68cea6a0fb49c96ca6ea2778?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Sep 18 |
 | **[Browning Day](http://bdmd.com)** | **[Architectural Internship - 2026](https://jobright.ai/jobs/info/68cbfa79128dc347fd91caf9?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 18 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cd11b81ad6b16f02894547?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
