@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[State Street](http://www.statestreet.com)** | **[Product Designer, CO-OP](https://jobright.ai/jobs/info/68d287d517554c2d9eee81a5?utm_campaign=1049&utm_source=git)** | Quincy, MA | On Site | Sep 23 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68ce1822e23def7af55c20ec?utm_campaign=1049&utm_source=git)** | Dayton, OH | On Site | Sep 23 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Graphic and Interactive Design Intern](https://jobright.ai/jobs/info/68d2093fa54edb3bf3e18de1?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Sep 22 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[UI UX Co-op](https://jobright.ai/jobs/info/68d1fdb717554c2d9eee20b7?utm_campaign=1049&utm_source=git)** | Danvers, MA | On Site | Sep 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/68d1fc76a54edb3bf3e1870f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 22 |
@@ -103,12 +104,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern - Enterprise Research - UX Researcher](https://jobright.ai/jobs/info/68d19fc68c62e63bc7fcd905?utm_campaign=1049&utm_source=git)** | Bloomington, IL | On Site | Sep 22 |
 | **[State Street](http://www.statestreet.com)** | **[Product Designer, CO-OP](https://jobright.ai/jobs/info/68d19e71cece431f8b585d31?utm_campaign=1049&utm_source=git)** | Quincy, Massachusetts | On Site | Sep 22 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX/UI Researcher](https://jobright.ai/jobs/info/68ccfd5577add66568abd38a?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 22 |
-| **[Palmer's Market](https://www.palmersdarien.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/68d196bbcece431f8b5857d9?utm_campaign=1049&utm_source=git)** | Darien, CT | On Site | Sep 22 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Intern, Graphic Design (50418)](https://jobright.ai/jobs/info/68d196a7cece431f8b5857c6?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Sep 22 |
 | **[Perry Homes](http://perryhomes.com)** | **[Summer Internship - Graphic Design](https://jobright.ai/jobs/info/68d1952117554c2d9eedce3a?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Sep 22 |
 | **[LaunchX Entrepreneurship Program](https://launchx.com)** | **[Creative Specialist Intern](https://jobright.ai/jobs/info/68d18f00cece431f8b5853e6?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 22 |
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[Web Designer Internship](https://jobright.ai/jobs/info/68d183108c62e63bc7fcc267?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Sep 22 |
-| **[Office Creations](https://officecreations.net)** | **[Creative Brand Coordinator](https://jobright.ai/jobs/info/68d19fcfcece431f8b585ffb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
+| **[OC (Office Creations)](https://officecreations.net)** | **[Creative Brand Coordinator](https://jobright.ai/jobs/info/68d19fcfcece431f8b585ffb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
 | **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Graphic Design Intern, 2026 Season](https://jobright.ai/jobs/info/68d172e88c62e63bc7fcb6a3?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[High Bar Student Graphic Designer- Student Service](https://jobright.ai/jobs/info/68d170d98c62e63bc7fcb4d8?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Sep 22 |
 | **[Atmosphere Press](https://atmospherepress.com/)** | **[Children's Book Editor and Book Designer](https://jobright.ai/jobs/info/68d17008fa731f61692deee9?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Sep 22 |
