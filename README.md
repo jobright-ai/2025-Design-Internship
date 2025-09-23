@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pixels on Target LLC](https://pixelsontarget.com)** | **[Creative Content Intern](https://jobright.ai/jobs/info/68d2c0f08c62e63bc7fd9647?utm_campaign=1049&utm_source=git)** | Sunrise, FL | On Site | Sep 23 |
+| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Creative Services CO-OP](https://jobright.ai/jobs/info/68d2b5fdf0d9af73038da53f?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 23 |
 | **[State Street](http://www.statestreet.com)** | **[Product Designer, CO-OP](https://jobright.ai/jobs/info/68d287d517554c2d9eee81a5?utm_campaign=1049&utm_source=git)** | Quincy, MA | On Site | Sep 23 |
+| **[Oracle](https://www.oracle.com/)** | **[Undergrad UX Design/Research - Full-time Intern Conversion](https://jobright.ai/jobs/info/68d14529cece431f8b582546?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68ce1822e23def7af55c20ec?utm_campaign=1049&utm_source=git)** | Dayton, OH | On Site | Sep 23 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Graphic and Interactive Design Intern](https://jobright.ai/jobs/info/68d2093fa54edb3bf3e18de1?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Sep 22 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[UI UX Co-op](https://jobright.ai/jobs/info/68d1fdb717554c2d9eee20b7?utm_campaign=1049&utm_source=git)** | Danvers, MA | On Site | Sep 22 |
@@ -73,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Graphic Design Co-op](https://jobright.ai/jobs/info/68d1dd9717554c2d9eee0585?utm_campaign=1049&utm_source=git)** | New Providence, NJ | Hybrid | Sep 22 |
 | **[Grand Studio](http://grandstudio.com/)** | **[Spring 2025 UXR Design Intern](https://jobright.ai/jobs/info/68d1dbdb17554c2d9eee03ee?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Sep 22 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1d9418c62e63bc7fd01e6?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Sep 22 |
+| ↳ | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1d8b08c62e63bc7fd0163?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Sep 22 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Graphic Design - Summer 2026 Intern](https://jobright.ai/jobs/info/68d1d1798c62e63bc7fcfe00?utm_campaign=1049&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Sep 22 |
 | **[Wayfair](https://www.wayfair.com)** | **[Graphic Designer Co-op - January 2026](https://jobright.ai/jobs/info/68d1d13f17554c2d9eedff31?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | **[Princess Cruises](http://www.princess.com)** | **[Graphic Design - Summer 2026 Intern](https://jobright.ai/jobs/info/68d1cead17554c2d9eedfdea?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 22 |
@@ -82,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[UI UX Co-op](https://jobright.ai/jobs/info/68d1c4758c62e63bc7fcf8cb?utm_campaign=1049&utm_source=git)** | Danvers, Massachusetts, United States of America | On Site | Sep 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/68d1b8e117554c2d9eedf137?utm_campaign=1049&utm_source=git)** | Portland, OR, USA | Hybrid | Sep 22 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1b86617554c2d9eedf030?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 22 |
-| ↳ | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1b86617554c2d9eedf02f?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Sep 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Visual Design](https://jobright.ai/jobs/info/68d1b798a54edb3bf3e15829?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 22 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1b6e88c62e63bc7fcef3a?utm_campaign=1049&utm_source=git)** | Plano, TX (Granite Parkway) | On Site | Sep 22 |
 | **[Nokia](http://www.nokia.com)** | **[Graphic Design Co-op](https://jobright.ai/jobs/info/68d1b6d8a54edb3bf3e1566b?utm_campaign=1049&utm_source=git)** | 600-700 Mountain Avenue, Murray Hill, New Jersey, 07974-0636, US | Hybrid | Sep 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Graphic Design Student Intern - COSAM Communications and Marketing](https://jobright.ai/jobs/info/68ce814ddbd9fb154ede0465?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Sep 19 |
 | **[Universal Creative](https://jobs.universalparks.com/universal-creative/)** | **[Internship, Universal Creative – Show Set Design (Summer 2026)](https://jobright.ai/jobs/info/68cdf3d6b2a74e1837edd92c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Consumer Products Retail Creative Intern, Spring 2026](https://jobright.ai/jobs/info/68cfc664846f0b04af684db6?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | Hybrid | Sep 19 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Layout Intern - Bachelors Degree](https://jobright.ai/jobs/info/68cdee031ad6b16f028a0035?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Sep 19 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Fall 2025](https://jobright.ai/jobs/info/68b0d6042d46f6396cae8ed6?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 19 |
-| **[Burgess & Niple](http://burgessniple.com)** | **[Architectural Co-op](https://jobright.ai/jobs/info/68cde4ff1ad6b16f0289fc03?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
