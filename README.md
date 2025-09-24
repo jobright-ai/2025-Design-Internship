@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zwilling J.A. Henckels (Vietnam)](http://zwilling.com)** | **[2025 Fall Photo Studio Internship](https://jobright.ai/jobs/info/68d3b8ea8c62e63bc7fe44fd?utm_campaign=1049&utm_source=git)** | Pleasantville, NY | On Site | Sep 24 |
+| **[Elire](http://www.elire.com)** | **[Summer 2026 Multi-Media Graphic Design Internship](https://jobright.ai/jobs/info/68d3b6fd952b4a32e23d8be8?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Sep 24 |
 | **[Carboline](https://www.carboline.com)** | **[Marketing: Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68d34ce117554c2d9eeefa0d?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Sep 23 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Studio Intern](https://jobright.ai/jobs/info/68d34c8ef0d9af73038e0ce6?utm_campaign=1049&utm_source=git)** | Shakopee, MN | On Site | Sep 23 |
 | **[Trideum Corporation](http://trideum.com)** | **[Technical Editor Intern](https://jobright.ai/jobs/info/68d3477117554c2d9eeef81e?utm_campaign=1049&utm_source=git)** | Killeen, TX | On Site | Sep 23 |
@@ -116,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Graphic Design Co-op](https://jobright.ai/jobs/info/68d1dd9717554c2d9eee0585?utm_campaign=1049&utm_source=git)** | New Providence, NJ | Hybrid | Sep 22 |
 | **[Grand Studio](http://grandstudio.com/)** | **[Spring 2025 UXR Design Intern](https://jobright.ai/jobs/info/68d1dbdb17554c2d9eee03ee?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Sep 22 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1d9418c62e63bc7fd01e6?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Sep 22 |
+| ↳ | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1d8b08c62e63bc7fd0163?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Sep 22 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Graphic Design - Summer 2026 Intern](https://jobright.ai/jobs/info/68d1d1798c62e63bc7fcfe00?utm_campaign=1049&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Sep 22 |
 | **[Wayfair](https://www.wayfair.com)** | **[Graphic Designer Co-op - January 2026](https://jobright.ai/jobs/info/68d1d13f17554c2d9eedff31?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | **[Princess Cruises](http://www.princess.com)** | **[Graphic Design - Summer 2026 Intern](https://jobright.ai/jobs/info/68d1cead17554c2d9eedfdea?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 22 |
@@ -123,9 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Experience Design](https://jobright.ai/jobs/info/68d1c50b8c62e63bc7fcf956?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | Hybrid | Sep 22 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[UI UX Co-op](https://jobright.ai/jobs/info/68d1c4758c62e63bc7fcf8cb?utm_campaign=1049&utm_source=git)** | Danvers, Massachusetts, United States of America | On Site | Sep 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/68d1b8e117554c2d9eedf137?utm_campaign=1049&utm_source=git)** | Portland, OR, USA | Hybrid | Sep 22 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1b86617554c2d9eedf030?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 22 |
-| ↳ | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1b86617554c2d9eedf02f?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Sep 22 |
-| ↳ | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1b80da54edb3bf3e15954?utm_campaign=1049&utm_source=git)** | Plano, TX (Granite Parkway) | On Site | Sep 22 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1b80da54edb3bf3e15954?utm_campaign=1049&utm_source=git)** | Plano, TX (Granite Parkway) | On Site | Sep 22 |
+| ↳ | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1b7dc8c62e63bc7fcf017?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Visual Design](https://jobright.ai/jobs/info/68d1b798a54edb3bf3e15829?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 22 |
 | **[Nokia](http://www.nokia.com)** | **[Graphic Design Co-op](https://jobright.ai/jobs/info/68d1b6d8a54edb3bf3e1566b?utm_campaign=1049&utm_source=git)** | 600-700 Mountain Avenue, Murray Hill, New Jersey, 07974-0636, US | Hybrid | Sep 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/68d1b64a8c62e63bc7fcee9e?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | Hybrid | Sep 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Graphic Design Intern, 2026 Season](https://jobright.ai/jobs/info/68d172e88c62e63bc7fcb6a3?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[High Bar Student Graphic Designer- Student Service](https://jobright.ai/jobs/info/68d170d98c62e63bc7fcb4d8?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Sep 22 |
 | **[The Wadsworth Architecture Company PC](www.wadswortharch.com)** | **[Architect, Architectural Intern](https://jobright.ai/jobs/info/68d16e90fa731f61692ded10?utm_campaign=1049&utm_source=git)** | Birmingham, AL | Hybrid | Sep 22 |
-| **[APCO](http://www.apcoworldwide.com)** | **[Graphic Design Internship - Winter/Spring '26](https://jobright.ai/jobs/info/68d15f54fa731f61692de58b?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Sep 22 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Photography + Multi Media Internship in Swaziland](https://jobright.ai/jobs/info/672f4d377d1b770370e64afe?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
