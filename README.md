@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HAI Group](https://www.housingcenter.com/)** | **[Graphic Design/User Experience (UX) Intern](https://jobright.ai/jobs/info/68d4824577769e778f509938?utm_campaign=1049&utm_source=git)** | Cheshire, CT | Hybrid | Sep 24 |
+| **[Genies](https://genies.com)** | **[Partnerships Intern, Product Design](https://jobright.ai/jobs/info/68d47d5a8c62e63bc7fe9a28?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 24 |
+| **[Zebrosys](www.zebrosys.com)** | **[Graphic Design Mentee](https://jobright.ai/jobs/info/68d4723b77769e778f5090b9?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Aptiv](http://www.aptiv.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68d46710ffc1276de3fda98a?utm_campaign=1049&utm_source=git)** | Troy, MI - USA | On Site | Sep 24 |
 | **[WIT Sports](https://witcontests.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68d462028c62e63bc7fe8d92?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Graco](http://graco.com/in/en/)** | **[Interior Planning and Design Intern](https://jobright.ai/jobs/info/68d460b28c62e63bc7fe8be5?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Sep 24 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Tresi](http://shoptresi.com)** | **[Interior Design / Staging Intern](https://jobright.ai/jobs/info/68d4594affc1276de3fd9fb0?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Sep 24 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68d456b517554c2d9eef8771?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68d44c0c8c62e63bc7fe7c74?utm_campaign=1049&utm_source=git)** | US, CA, Santa Clara | On Site | Sep 24 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Spring Web and Digital Intern: Spring 2026](https://jobright.ai/jobs/info/68d46d09ffc1276de3fdad23?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Sep 24 |
 | **[Placement By Design, Inc.](http://www.placementbydesign.com)** | **[Architectural Intern/Designer](https://jobright.ai/jobs/info/68d449e0ffc1276de3fd9603?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Sep 24 |
 | **[Ritter Maher Architects](http://www.rittermaher.com)** | **[Licensed Architect or Experienced Intern Architect](https://jobright.ai/jobs/info/68d44864ffc1276de3fd9427?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Sep 24 |
 | **[Placement By Design, Inc.](http://www.placementbydesign.com)** | **[Architectural Intern/Designer](https://jobright.ai/jobs/info/68d4480c17554c2d9eef7c5e?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Sep 24 |
@@ -124,8 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Rose Holding USA Inc.](https://www.linkedin.com/company/104324456)** | **[Unpaid fashion designer fall internship](https://jobright.ai/jobs/info/68d2e07b8c62e63bc7fdb133?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 23 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Creative Services CO-OP](https://jobright.ai/jobs/info/68d2dfff17554c2d9eeeb13f?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 23 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Marketing & Advertising Graphic Design Co-op (Remote, Part-Time)](https://jobright.ai/jobs/info/68d2d55e8c62e63bc7fda943?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Sep 23 |
-| **[Soda](https://www.soda.site/)** | **[Motion Graphics Design (Internship)](https://jobright.ai/jobs/info/68d2d32817554c2d9eeea997?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Sep 23 |
-| **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Marketing & Advertising Graphic Design Co-op (Remote, Part-Time)](https://jobright.ai/jobs/info/68d2c1cf17554c2d9eee97b5?utm_campaign=1049&utm_source=git)** | USA, Louisville, KY | Hybrid | Sep 23 |
+| ↳ | **[Marketing & Advertising Graphic Design Co-op (Remote, Part-Time)](https://jobright.ai/jobs/info/68d2c1cf17554c2d9eee97b5?utm_campaign=1049&utm_source=git)** | USA, Louisville, KY | Hybrid | Sep 23 |
 | **[Pixels on Target LLC](https://pixelsontarget.com)** | **[Creative Content Intern](https://jobright.ai/jobs/info/68d2c0f08c62e63bc7fd9647?utm_campaign=1049&utm_source=git)** | Sunrise, FL | On Site | Sep 23 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Creative Services CO-OP](https://jobright.ai/jobs/info/68d2b5fdf0d9af73038da53f?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 23 |
 | **[The Mutant School](www.themutantschool.com)** | **[Content Creation Intern (Gen Z Creators)](https://jobright.ai/jobs/info/68d3f2085ae5a90cfd4823bf?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 23 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Graphic Design Co-op](https://jobright.ai/jobs/info/68d1dd9717554c2d9eee0585?utm_campaign=1049&utm_source=git)** | New Providence, NJ | Hybrid | Sep 22 |
 | **[Grand Studio](http://grandstudio.com/)** | **[Spring 2025 UXR Design Intern](https://jobright.ai/jobs/info/68d1dbdb17554c2d9eee03ee?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Sep 22 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1d9418c62e63bc7fd01e6?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Sep 22 |
-| ↳ | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1d3e88c62e63bc7fcff90?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 22 |
+| ↳ | **[Returning Landscape/Urban Design Planning Intern- Central Division- Summer 2026](https://jobright.ai/jobs/info/68d1d8b08c62e63bc7fd0163?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Sep 22 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Graphic Design - Summer 2026 Intern](https://jobright.ai/jobs/info/68d1d1798c62e63bc7fcfe00?utm_campaign=1049&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Sep 22 |
 | **[Wayfair](https://www.wayfair.com)** | **[Graphic Designer Co-op - January 2026](https://jobright.ai/jobs/info/68d1d13f17554c2d9eedff31?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | **[Princess Cruises](http://www.princess.com)** | **[Graphic Design - Summer 2026 Intern](https://jobright.ai/jobs/info/68d1cead17554c2d9eedfdea?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 22 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Graphic Design - Summer 2026 Intern](https://jobright.ai/jobs/info/68d1ce66a54edb3bf3e1651e?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Experience Design](https://jobright.ai/jobs/info/68d1c50b8c62e63bc7fcf956?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | Hybrid | Sep 22 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[UI UX Co-op](https://jobright.ai/jobs/info/68d1c4758c62e63bc7fcf8cb?utm_campaign=1049&utm_source=git)** | Danvers, Massachusetts, United States of America | On Site | Sep 22 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/68d1b8e117554c2d9eedf137?utm_campaign=1049&utm_source=git)** | Portland, OR, USA | Hybrid | Sep 22 |
-| ↳ | **[Intern, Visual Design](https://jobright.ai/jobs/info/68d1b798a54edb3bf3e15829?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
