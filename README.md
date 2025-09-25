@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MathWorks](http://www.mathworks.com)** | **[User Experience Intern - Undergrad Students](https://jobright.ai/jobs/info/68d510d72ed36439e51e4814?utm_campaign=1049&utm_source=git)** | Natick, MA | Hybrid | Sep 25 |
 | **[Clerkie](https://clerkie.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/68d5085a24b1ee4c7b66350d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Sep 25 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op – Creative Operations](https://jobright.ai/jobs/info/68c969d895f5211cd2cf0436?utm_campaign=1049&utm_source=git)** | Burlington, MA | On Site | Sep 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68d4f8b724b1ee4c7b662bd2?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Sep 24 |
 | **[Workout Buddy](https://workoutbuddy.online)** | **[Photography Intern - Unpaid](https://jobright.ai/jobs/info/68d4a984fcd3367e8df1688d?utm_campaign=1049&utm_source=git)** | Greater Seattle Area | Remote | Sep 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d4a6408c62e63bc7feb39f?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
@@ -93,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Graphic Design Studio Intern, Spring 2026](https://jobright.ai/jobs/info/68d429a98c62e63bc7fe6412?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Sep 24 |
 | **[Cotton Citizen](https://cottoncitizen.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68d4061b17554c2d9eef5720?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Sep 24 |
 | **[National Life Group](https://www.nationallife.com)** | **[Illustration Systems Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68b744f62124650c140212f7?utm_campaign=1049&utm_source=git)** | Montpelier, VT | On Site | Sep 24 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern - UX/UI Design](https://jobright.ai/jobs/info/68cd48f0e23def7af55b7b19?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Sep 24 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Marketing Design](https://jobright.ai/jobs/info/68d3fb5f5ae5a90cfd48277f?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 24 |
 | **[iLABS (Innovation Labs) Inc.](https://ilabsus.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/689e322183d13d1f5b6b7a72?utm_campaign=1049&utm_source=git)** | Mahwah, NJ | On Site | Sep 24 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Design Intern](https://jobright.ai/jobs/info/68b798fb1ade4306aa64c75a?utm_campaign=1049&utm_source=git)** | San Mateo, CA | Hybrid | Sep 24 |
@@ -126,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Digital Media Intern (Volunteer)](https://jobright.ai/jobs/info/68d30ca717554c2d9eeed686?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 23 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/68d354008c62e63bc7fdfd58?utm_campaign=1049&utm_source=git)** | CT - Stamford | On Site | Sep 23 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68d30901f0d9af73038de78d?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Sep 23 |
-| ↳ | **[Print Production Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68d307b3f0d9af73038de610?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Sep 23 |
 | **[StoneRidge Senior Living Community](https://www.stoneridgelcs.com/careers/)** | **[Design Management Internship](https://jobright.ai/jobs/info/68d304b217554c2d9eeed13d?utm_campaign=1049&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 23 |
 | **[Cottage Grove Place](https://cottagegroveplace.com)** | **[Design Management Internship](https://jobright.ai/jobs/info/68d3043c17554c2d9eeed04c?utm_campaign=1049&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 23 |
 | **[Autodesk](http://www.autodesk.com)** | **[PhD Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/68d301de8c62e63bc7fdcb9d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 23 |
@@ -137,11 +139,11 @@ For a complete list, click the following sortable link below:
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68d2f84cf0d9af73038dd8a5?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Sep 23 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Multimedia Intern](https://jobright.ai/jobs/info/68d2f83417554c2d9eeec609?utm_campaign=1049&utm_source=git)** | UT MAIN CAMPUS | Remote | Sep 23 |
 | **[nCino](http://ncino.com)** | **[Summer 2026 - Product Design Intern / Wilmington, NC](https://jobright.ai/jobs/info/68d2f7828c62e63bc7fdc159?utm_campaign=1049&utm_source=git)** | Wilmington, NC | On Site | Sep 23 |
-| **[Trailfunds](https://www.trailfunds.org/)** | **[Product Designer](https://jobright.ai/jobs/info/68d2f54417554c2d9eeec0e1?utm_campaign=1049&utm_source=git)** | Colorado, United States | On Site | Sep 23 |
 | **[Welldoc](https://www.welldoc.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/68d2f04e8c62e63bc7fdbb9f?utm_campaign=1049&utm_source=git)** | Columbia, Maryland, United States | Hybrid | Sep 23 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/68d30d9317554c2d9eeed79b?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Sep 23 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Graphic Design Intern / Spring 2026](https://jobright.ai/jobs/info/68c7055bc96a22563ecf03b9?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 23 |
 | **[VanEck](http://www.vaneck.com/)** | **[Video Content & Multimedia Summer Intern](https://jobright.ai/jobs/info/68d2e6fcf0d9af73038dca3f?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Sep 23 |
+| **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68d30630f0d9af73038de4b5?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Sep 23 |
 | **[Rose Holding USA Inc.](https://www.linkedin.com/company/104324456)** | **[Unpaid fashion designer fall internship](https://jobright.ai/jobs/info/68d2e07b8c62e63bc7fdb133?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 23 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Creative Services CO-OP](https://jobright.ai/jobs/info/68d2dfff17554c2d9eeeb13f?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Sep 23 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Marketing & Advertising Graphic Design Co-op (Remote, Part-Time)](https://jobright.ai/jobs/info/68d2d55e8c62e63bc7fda943?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Sep 23 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - User Experience Design](https://jobright.ai/jobs/info/68b6936bf4e41a61efd93a90?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Sep 23 |
 | ↳ | **[GTG Intern - User Experience Research](https://jobright.ai/jobs/info/68cba4c0ba798c1a501d31b3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68cfb216fb49c96ca6eaae52?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Sep 23 |
+| ↳ | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68cd004e5954791a1d702b2f?utm_campaign=1049&utm_source=git)** | Westminster, CO | On Site | Sep 23 |
 | ↳ | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68ce1822e23def7af55c20ec?utm_campaign=1049&utm_source=git)** | Dayton, OH | On Site | Sep 23 |
 | **[ZWILLING J.A. Henckels LLC](https://www.zwilling.com/be-nl/demeyere/)** | **[2025 Fall Photo Studio Internship](https://jobright.ai/jobs/info/68d3704c17554c2d9eef152b?utm_campaign=1049&utm_source=git)** | Pleasantville, NY | On Site | Sep 22 |
-| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Graphic and Interactive Design Intern](https://jobright.ai/jobs/info/68d2093fa54edb3bf3e18de1?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Sep 22 |
-| **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[UI UX Co-op](https://jobright.ai/jobs/info/68d1fdb717554c2d9eee20b7?utm_campaign=1049&utm_source=git)** | Danvers, MA | On Site | Sep 22 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/68d1fc76a54edb3bf3e1870f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
