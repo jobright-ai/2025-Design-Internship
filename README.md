@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Graphic Design Intern / Spring 2026](https://jobright.ai/jobs/info/68d80e057796a83635f0ea67?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Pella Corporation](http://www.pella.com)** | **[TechPub Intern - Summer 2026](https://jobright.ai/jobs/info/68ccd86ed11b445e0bee2a83?utm_campaign=1049&utm_source=git)** | Pella, IA | On Site | Sep 27 |
 | ↳ | **[Retail Displays Intern - Summer 2026](https://jobright.ai/jobs/info/68bb29998043103d4f22609c?utm_campaign=1049&utm_source=git)** | Pella, IA | On Site | Sep 27 |
 | **[All Creators Studio](http://all-creatorsstudio.com)** | **[IT Intern (Website Design)](https://jobright.ai/jobs/info/68d7dc007796a83635f0c6b0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design / ITAR / U.S.Citizen](https://jobright.ai/jobs/info/68d7db8b295f8e37655e2e91?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 27 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studio Creative Advertising & Design Intern, Spring 2026](https://jobright.ai/jobs/info/68d7d308295f8e37655e29cd?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Sep 27 |
-| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68ce7e71dbd9fb154ede02dc?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Sep 27 |
+| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68cc29547342c7623ae60285?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Sep 27 |
+| ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/68ce7e71dbd9fb154ede02dc?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Sep 27 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Interiors Intern](https://jobright.ai/jobs/info/68d7bd327a37c712687d4b3b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Graphic Designer, Student Media](https://jobright.ai/jobs/info/68d7bb64295f8e37655e128d?utm_campaign=1049&utm_source=git)** | Laramie, WY | On Site | Sep 27 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Student Engagement - Graphic Designer (FWS/NFWS)](https://jobright.ai/jobs/info/68d7bb5d295f8e37655e126b?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Sep 27 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Graphic Design Intern](https://jobright.ai/jobs/info/68d79bc57a37c712687d2c47?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 27 |
 | **[Hapi App](https://hapi.trade/)** | **[Practicante de Diseño](https://jobright.ai/jobs/info/68d78803267b154f9a2dbc86?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Topify.ai](https://www.topify.ai/)** | **[AI Search Product UI/UX Internship](https://jobright.ai/jobs/info/68d77fe57a37c712687cf764?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 26 |
-| **[Saleseraian](https://salesera.net/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68d7711661a175619f8cda87?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Packaging Design Intern - Spring](https://jobright.ai/jobs/info/68d75c657a37c712687ca084?utm_campaign=1049&utm_source=git)** | Springdale, AR | On Site | Sep 26 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68d74f41e5293e3538af3ef5?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 26 |
 | **[MilkAI LLC](https://www.linkedin.com/company/108149761)** | **[Experienced AI Video Creator (Onshore or Offshore)](https://jobright.ai/jobs/info/68d74e37e5293e3538af3cb6?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Graphic Design Studio Intern, Spring 2026](https://jobright.ai/jobs/info/68d5d38d2116ff37ee090889?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 25 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Temporary Motion & Graphics Designer](https://jobright.ai/jobs/info/68d5cc022116ff37ee0904f9?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | Remote | Sep 25 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Studio Intern](https://jobright.ai/jobs/info/68d600ba2116ff37ee091c0b?utm_campaign=1049&utm_source=git)** | Grayslake, IL | On Site | Sep 25 |
-| **[The Third Cartel](http://www.thethirdcartel.com)** | **[Creative Assistant Internship](https://jobright.ai/jobs/info/68d5dd7f2116ff37ee090cb7?utm_campaign=1049&utm_source=git)** | Westland, MI | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
