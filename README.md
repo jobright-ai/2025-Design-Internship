@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Design Research](https://jobright.ai/jobs/info/68d7ac0d295f8e37655e0613?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Sep 27 |
+| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Graphic Design Intern](https://jobright.ai/jobs/info/68d79bc57a37c712687d2c47?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 27 |
 | **[Hapi App](https://hapi.trade/)** | **[Practicante de Diseño](https://jobright.ai/jobs/info/68d78803267b154f9a2dbc86?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Topify.ai](https://www.topify.ai/)** | **[AI Search Product UI/UX Internship](https://jobright.ai/jobs/info/68d77fe57a37c712687cf764?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 26 |
 | **[Saleseraian](https://salesera.net/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68d7711661a175619f8cda87?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
@@ -101,7 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Packaging Design Intern - Spring](https://jobright.ai/jobs/info/68d754a061a175619f8c862b?utm_campaign=1049&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Sep 26 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Marketing Design](https://jobright.ai/jobs/info/68d6ee7b894705799a2eee0e?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Creative Advertising & Design Intern, Spring 2026](https://jobright.ai/jobs/info/68d6e448d3fe025a3015cdf1?utm_campaign=1049&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern - Industrial Design - Plymouth, MN - Summer 2026](https://jobright.ai/jobs/info/68d6cfe2d3fe025a3015c353?utm_campaign=1049&utm_source=git)** | Plymouth | On Site | Sep 26 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern - Industrial Design - Plymouth, MN - Summer 2026](https://jobright.ai/jobs/info/68d799d07a37c712687d2677?utm_campaign=1049&utm_source=git)** | Plymouth, MA | On Site | Sep 26 |
+| ↳ | **[Intern - Industrial Design - Plymouth, MN - Summer 2026](https://jobright.ai/jobs/info/68d6cfe2d3fe025a3015c353?utm_campaign=1049&utm_source=git)** | Plymouth | On Site | Sep 26 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Product Design Co-op (Spring 2026)](https://jobright.ai/jobs/info/68d6c45d894705799a2eda3a?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 26 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Columbus, OH](https://jobright.ai/jobs/info/68d6c0a5894705799a2ed727?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Sep 26 |
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/68d6bc8845853d0e39cc9935?utm_campaign=1049&utm_source=git)** | Avon, OH | On Site | Sep 26 |
@@ -125,8 +128,10 @@ For a complete list, click the following sortable link below:
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Environment Art](https://jobright.ai/jobs/info/68cd116fe23def7af55b4a92?utm_campaign=1049&utm_source=git)** | Middleton, WI | On Site | Sep 26 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68d654534736ff202fdd297d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Fashion Design - Corporate Internship](https://jobright.ai/jobs/info/68d6a06545853d0e39cc8b16?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Unpaid Internship - Creative Services/Promotions](https://jobright.ai/jobs/info/68d7a6df7796a83635f09ad7?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Sep 26 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Graphic Design](https://jobright.ai/jobs/info/68d63c694736ff202fdd12ed?utm_campaign=1049&utm_source=git)** | Idaho Falls | On Site | Sep 26 |
-| ↳ | **[Internship 2026 - Digital Design](https://jobright.ai/jobs/info/68d63c66ebcef82ef5cf83e4?utm_campaign=1049&utm_source=git)** | Idaho Falls | On Site | Sep 26 |
+| **[Sub-Zero Group, Inc.](http://www.subzero-wolf.com/)** | **[2026 Industrial Design Co-op](https://jobright.ai/jobs/info/68cd8335e23def7af55bb04e?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Sep 25 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b8dc995b42bc45628284a3?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Sep 25 |
 | **[BHI Senior Living](https://www.bhiseniorliving.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68d623a84736ff202fdcf91c?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Sep 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68d617b71f7fb2169ab16a91?utm_campaign=1049&utm_source=git)** | New York, New York, USA | Hybrid | Sep 25 |
 | **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - Creative Services - Summer 2026](https://jobright.ai/jobs/info/68d615242116ff37ee092b8f?utm_campaign=1049&utm_source=git)** | Le Mars, IA | On Site | Sep 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/68cce0e3d11b445e0bee38b3?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Sep 25 |
 | **[Aviary Productions](https://www.linkedin.com/company/93796367)** | **[UI artist](https://jobright.ai/jobs/info/68d5843d63d77d6f6f3ef8e2?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Unpaid Internship - Creative Services/Promotions](https://jobright.ai/jobs/info/68d57f1663d77d6f6f3ef458?utm_campaign=1049&utm_source=git)** | LA, Baton Rouge | On Site | Sep 25 |
-| **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - 3D Art](https://jobright.ai/jobs/info/68d572ec1f7fb2169ab100e0?utm_campaign=1049&utm_source=git)** | Irvine - Blizzard - Blizzard Way | On Site | Sep 25 |
-| **[FRONTGATE](https://www.frontgate.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68d570b963d77d6f6f3eeadb?utm_campaign=1049&utm_source=git)** | West Chester, OH | On Site | Sep 25 |
-| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Architecture Intern](https://jobright.ai/jobs/info/68cd3068b2a74e1837ed3a25?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 25 |
-| **[NORTH SIX](http://northsix.net)** | **[Graphic Design intern](https://jobright.ai/jobs/info/68d55ea31f7fb2169ab0f586?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Sep 25 |
-| **[Wayfair](https://www.wayfair.com)** | **[Physical Retail Co-op - January 2026](https://jobright.ai/jobs/info/68d6b4ffd3fe025a3015b6c3?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
