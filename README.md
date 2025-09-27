@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hapi App](https://hapi.trade/)** | **[Practicante de Diseño](https://jobright.ai/jobs/info/68d78803267b154f9a2dbc86?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
+| **[Topify.ai](https://www.topify.ai/)** | **[AI Search Product UI/UX Internship](https://jobright.ai/jobs/info/68d77fe57a37c712687cf764?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Sep 26 |
 | **[Saleseraian](https://salesera.net/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68d7711661a175619f8cda87?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Packaging Design Intern - Spring](https://jobright.ai/jobs/info/68d75c657a37c712687ca084?utm_campaign=1049&utm_source=git)** | Springdale, AR | On Site | Sep 26 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68d74f41e5293e3538af3ef5?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 26 |
@@ -96,7 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Experience (UX) Generalist Intern](https://jobright.ai/jobs/info/68d6fe80894705799a2ef79d?utm_campaign=1049&utm_source=git)** | Boulder, CO | Hybrid | Sep 26 |
 | ↳ | **[User Experience (UX) Generalist Intern](https://jobright.ai/jobs/info/68d6fe4945853d0e39ccbb6f?utm_campaign=1049&utm_source=git)** | Golden, CO | Hybrid | Sep 26 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Graphics Internship](https://jobright.ai/jobs/info/68d6f882d3fe025a3015d8e7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Packaging Design Intern - Spring](https://jobright.ai/jobs/info/68d7553a7a37c712687c853e?utm_campaign=1049&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Sep 26 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Packaging Design Intern - Spring](https://jobright.ai/jobs/info/68d754a061a175619f8c862b?utm_campaign=1049&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Sep 26 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Marketing Design](https://jobright.ai/jobs/info/68d6ee7b894705799a2eee0e?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Creative Advertising & Design Intern, Spring 2026](https://jobright.ai/jobs/info/68d6e448d3fe025a3015cdf1?utm_campaign=1049&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern - Industrial Design - Plymouth, MN - Summer 2026](https://jobright.ai/jobs/info/68d6cfe2d3fe025a3015c353?utm_campaign=1049&utm_source=git)** | Plymouth | On Site | Sep 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Architecture Intern](https://jobright.ai/jobs/info/68cd3068b2a74e1837ed3a25?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 25 |
 | **[NORTH SIX](http://northsix.net)** | **[Graphic Design intern](https://jobright.ai/jobs/info/68d55ea31f7fb2169ab0f586?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Sep 25 |
 | **[Wayfair](https://www.wayfair.com)** | **[Physical Retail Co-op - January 2026](https://jobright.ai/jobs/info/68d6b4ffd3fe025a3015b6c3?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 25 |
-| **[Maryland Public Television](http://www.mpt.org/home/)** | **[MPT Digital Content Student Fellow](https://jobright.ai/jobs/info/68d554ef39247e3c807ea0fa?utm_campaign=1049&utm_source=git)** | Owings Mills, MD | On Site | Sep 25 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68c3be766031587f8458e675?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
