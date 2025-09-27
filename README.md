@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saleseraian](https://salesera.net/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68d7711661a175619f8cda87?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Packaging Design Intern - Spring](https://jobright.ai/jobs/info/68d75c657a37c712687ca084?utm_campaign=1049&utm_source=git)** | Springdale, AR | On Site | Sep 26 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68d74f41e5293e3538af3ef5?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 26 |
 | **[MilkAI LLC](https://www.linkedin.com/company/108149761)** | **[Experienced AI Video Creator (Onshore or Offshore)](https://jobright.ai/jobs/info/68d74e37e5293e3538af3cb6?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
@@ -143,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Wayfair](https://www.wayfair.com)** | **[Physical Retail Co-op - January 2026](https://jobright.ai/jobs/info/68d5a81f1f7fb2169ab12ab6?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 25 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern – Creative Services, Graphic Design](https://jobright.ai/jobs/info/68d59c2d14935e31e231a4d6?utm_campaign=1049&utm_source=git)** | Fort Worth, Texas | On Site | Sep 25 |
 | **[MSU Federal Credit Union](https://www.msufcu.org)** | **[Video Production Intern - Fall 2025/Spring 2026](https://jobright.ai/jobs/info/68d5be091f7fb2169ab136cf?utm_campaign=1049&utm_source=git)** | Greater Lansing | Hybrid | Sep 25 |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Fall 2025)](https://jobright.ai/jobs/info/68d7772561a175619f8ce9f4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 25 |
 | **[AlphaGraphics](https://www.alphagraphics.com/)** | **[Graphic Arts Internship](https://jobright.ai/jobs/info/68d594f81f7fb2169ab11fe2?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL 33309 | On Site | Sep 25 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship (Touring)](https://jobright.ai/jobs/info/68d594dd39247e3c807ed486?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/68cce0e3d11b445e0bee38b3?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Sep 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wayfair](https://www.wayfair.com)** | **[Physical Retail Co-op - January 2026](https://jobright.ai/jobs/info/68d6b4ffd3fe025a3015b6c3?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 25 |
 | **[Maryland Public Television](http://www.mpt.org/home/)** | **[MPT Digital Content Student Fellow](https://jobright.ai/jobs/info/68d554ef39247e3c807ea0fa?utm_campaign=1049&utm_source=git)** | Owings Mills, MD | On Site | Sep 25 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68c3be766031587f8458e675?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Sep 25 |
-| **[GPD Group](http://gpdgroup.com)** | **[Architecture Design Internship/Co-op Summer 2026](https://jobright.ai/jobs/info/68ccd89177add66568aba4d1?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Sep 25 |
-| **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Product Design (UX) - Summer 2026 Corporate Internship](https://jobright.ai/jobs/info/68d114ef8c62e63bc7fc8d24?utm_campaign=1049&utm_source=git)** | Coraopolis, PA | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
