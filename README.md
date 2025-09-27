@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern (Game Day)](https://jobright.ai/jobs/info/68d71b1745853d0e39cccf28?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Sep 26 |
+| **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Diseño Gráfico](https://jobright.ai/jobs/info/68d71aab45853d0e39cccecc?utm_campaign=1049&utm_source=git)** | Santa Cruz, CA | On Site | Sep 26 |
+| **[Jacobs](http://www.jacobs.com)** | **[NOMA CONFERENCE - Architectural Internships - Summer 2026](https://jobright.ai/jobs/info/68d7150945853d0e39cccc7f?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Sep 26 |
+| **[BHDP Architecture](http://bhdp.com)** | **[2026 Spring Architectural Internship / Charlotte](https://jobright.ai/jobs/info/68d714d945853d0e39cccc58?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Sep 26 |
+| ↳ | **[2026 Spring Architectural Internship / Cincinnati](https://jobright.ai/jobs/info/68d7147c45853d0e39cccc0a?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Sep 26 |
+| **[Jacobs](http://www.jacobs.com)** | **[NOMA CONFERENCE - Architectural Internships - Summer 2026](https://jobright.ai/jobs/info/68d7147045853d0e39cccc05?utm_campaign=1049&utm_source=git)** | Tempe, AZ | On Site | Sep 26 |
+| **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design / ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/68d713cc45853d0e39cccb95?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
+| **[Jacobs](http://www.jacobs.com)** | **[NOMA CONFERENCE - Architectural Internships - Summer 2026](https://jobright.ai/jobs/info/68d713ac894705799a2f0783?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 26 |
+| ↳ | **[NOMA CONFERENCE - Architectural Internships - Summer 2026](https://jobright.ai/jobs/info/68d7134845853d0e39cccb2d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Sep 26 |
+| ↳ | **[NOMA CONFERENCE - Architectural Internships - Summer 2026](https://jobright.ai/jobs/info/68d712f5d3fe025a3015ebf7?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 26 |
+| ↳ | **[NOMA CONFERENCE - Architectural Internships - Summer 2026](https://jobright.ai/jobs/info/68d712be894705799a2f0590?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 26 |
+| ↳ | **[NOMA CONFERENCE - Architectural Internships - Summer 2026](https://jobright.ai/jobs/info/68d7118cd3fe025a3015ea73?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Sep 26 |
+| ↳ | **[NOMA CONFERENCE - Architectural Internships - Summer 2026](https://jobright.ai/jobs/info/68d71151d3fe025a3015ea42?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Sep 26 |
+| ↳ | **[NOMA CONFERENCE - Architectural Internships - Summer 2026](https://jobright.ai/jobs/info/68d7110fd3fe025a3015ea08?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Sep 26 |
+| **[Cambridge Global Advisors](https://www.cambridgeglobal.com)** | **[Marketing & Graphic Design Fellow (Unpaid)](https://jobright.ai/jobs/info/68d70d47d3fe025a3015e95b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 26 |
+| **[Bayer](https://www.bayer.com)** | **[Global Content and Channels Intern](https://jobright.ai/jobs/info/68d70d2ed3fe025a3015e931?utm_campaign=1049&utm_source=git)** | Creve Coeur, MO | On Site | Sep 26 |
 | **[Jacobs](http://www.jacobs.com)** | **[NOMA CONFERENCE - Architectural Internships - Summer 2026](https://jobright.ai/jobs/info/68d706efd3fe025a3015e403?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Sep 26 |
 | ↳ | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68d70640d3fe025a3015e2fb?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Sep 26 |
 | **[OES Global, Inc.](https://oesglobalinc.com)** | **[Brand Creative Specialist](https://jobright.ai/jobs/info/68d70506d3fe025a3015e131?utm_campaign=1049&utm_source=git)** | Pompano Beach, FL | On Site | Sep 26 |
@@ -88,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Photo Editor/Photographer Internship](https://jobright.ai/jobs/info/68d698d4d3fe025a3015aa1c?utm_campaign=1049&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Sep 26 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68d693b5894705799a2ec381?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
 | **[AlphaGraphics](https://www.alphagraphics.com/)** | **[Graphic Arts Internship](https://jobright.ai/jobs/info/68d687e6894705799a2ec032?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 26 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cfeaa5dbd9fb154edebe44?utm_campaign=1049&utm_source=git)** | Tucson, AZ | On Site | Sep 26 |
 | **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68ba72ec5f38327491867539?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
 | ↳ | **[2026 US Summer Internships - Game Design](https://jobright.ai/jobs/info/68cc7455128dc347fd9252fc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
 | **[Wayfair](https://www.wayfair.com)** | **[Product Design Co-op - January 2026](https://jobright.ai/jobs/info/68d65d7bebcef82ef5cfa0d9?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 26 |
@@ -109,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Studio Intern](https://jobright.ai/jobs/info/68d600ba2116ff37ee091c0b?utm_campaign=1049&utm_source=git)** | Grayslake, IL | On Site | Sep 25 |
 | **[The Third Cartel](http://www.thethirdcartel.com)** | **[Creative Assistant Internship](https://jobright.ai/jobs/info/68d5dd7f2116ff37ee090cb7?utm_campaign=1049&utm_source=git)** | Westland, MI | On Site | Sep 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Unpaid Internship - Creative Services/Promotions](https://jobright.ai/jobs/info/68d5d69b2116ff37ee090a28?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Sep 25 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Creative Design](https://jobright.ai/jobs/info/68cbdf40ba798c1a501d5b94?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Sep 25 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship (Touring)](https://jobright.ai/jobs/info/68d5b19c1f7fb2169ab13103?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern – Creative Services, Graphic Design](https://jobright.ai/jobs/info/68d5b1711f7fb2169ab130e5?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Sep 25 |
 | **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - Creative Services - Summer 2026](https://jobright.ai/jobs/info/68d5afca1f7fb2169ab12f89?utm_campaign=1049&utm_source=git)** | 1 Blue Bunny Drive, Le Mars, IA, 51031, US | On Site | Sep 25 |
@@ -139,22 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clerkie](https://clerkie.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/68d5085a24b1ee4c7b66350d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Sep 25 |
 | **[National Life Group](https://www.nationallife.com)** | **[Illustration Systems Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ce2c09e23def7af55c2bf8?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Sep 25 |
 | **[Covestro](https://www.covestro.com)** | **[Automotive Design Visualization Internship](https://jobright.ai/jobs/info/68b6f3f82124650c1401e850?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Sep 25 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op – Creative Operations](https://jobright.ai/jobs/info/68c969d895f5211cd2cf0436?utm_campaign=1049&utm_source=git)** | Burlington, MA | On Site | Sep 24 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68d4f8b724b1ee4c7b662bd2?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Sep 24 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Marketing Intern (Graphic Design) (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68b744cd1ade4306aa649537?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Sep 24 |
-| **[Workout Buddy](https://workoutbuddy.online)** | **[Photography Intern - Unpaid](https://jobright.ai/jobs/info/68d4a984fcd3367e8df1688d?utm_campaign=1049&utm_source=git)** | Greater Seattle Area | Remote | Sep 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d4a6408c62e63bc7feb39f?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
-| **[Aptiv](http://www.aptiv.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68d4983c8c62e63bc7feac68?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Sep 24 |
-| **[Lele Sadoughi](http://www.lelesadoughi.com)** | **[Accessories Design intern](https://jobright.ai/jobs/info/68d497fd8c62e63bc7feac1a?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Sep 24 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68d497e78c62e63bc7feac01?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Sep 24 |
-| **[Clerkie](https://clerkie.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/68d496c9fcd3367e8df15ea8?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 24 |
-| **[WeVote](https://www.WeVote.US)** | **[About UsSenior UI/UX Designer](https://jobright.ai/jobs/info/68d4950effc1276de3fdc2fa?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 24 |
-| **[Cisco](http://www.cisco.com)** | **[User Experience I (Intern) - United States](https://jobright.ai/jobs/info/68d494beffc1276de3fdc255?utm_campaign=1049&utm_source=git)** | RTP, North Carolina, US | On Site | Sep 24 |
-| ↳ | **[User Experience I (Intern) - United States](https://jobright.ai/jobs/info/68d48d6f8c62e63bc7fea563?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Sep 24 |
-| **[SKIP IT.](https://skipit.tech/)** | **[Boston-Based Content Creation Intern](https://jobright.ai/jobs/info/68d4898fffc1276de3fdbb8a?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 24 |
-| **[IBM](http://www.ibm.com)** | **[User Experience Designer Intern 2026](https://jobright.ai/jobs/info/68d4871f8c62e63bc7fea0fe?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Sep 24 |
-| **[Genies](https://genies.com)** | **[Partnerships Intern, Product Design](https://jobright.ai/jobs/info/68d47d5a8c62e63bc7fe9a28?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 24 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Wealth Management Digital Client and Partner Experience Intern](https://jobright.ai/jobs/info/68b77d102124650c140231cd?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
-| **[Aptiv](http://www.aptiv.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68d46710ffc1276de3fda98a?utm_campaign=1049&utm_source=git)** | Troy, MI - USA | On Site | Sep 24 |
-| **[Graco](http://graco.com/in/en/)** | **[Interior Planning and Design Intern](https://jobright.ai/jobs/info/68d460b28c62e63bc7fe8be5?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
