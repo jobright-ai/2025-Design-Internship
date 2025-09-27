@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MillerKnoll](http://www.millerknoll.com/)** | **[Interiors Intern](https://jobright.ai/jobs/info/68d7bd327a37c712687d4b3b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 27 |
+| **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Graphic Designer, Student Media](https://jobright.ai/jobs/info/68d7bb64295f8e37655e128d?utm_campaign=1049&utm_source=git)** | Laramie, WY | On Site | Sep 27 |
+| **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Student Engagement - Graphic Designer (FWS/NFWS)](https://jobright.ai/jobs/info/68d7bb5d295f8e37655e126b?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Sep 27 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Design Research](https://jobright.ai/jobs/info/68d7ac0d295f8e37655e0613?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Sep 27 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Graphic Design Intern](https://jobright.ai/jobs/info/68d79bc57a37c712687d2c47?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 27 |
 | **[Hapi App](https://hapi.trade/)** | **[Practicante de Diseño](https://jobright.ai/jobs/info/68d78803267b154f9a2dbc86?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
@@ -103,8 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Packaging Design Intern - Spring](https://jobright.ai/jobs/info/68d754a061a175619f8c862b?utm_campaign=1049&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Sep 26 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Marketing Design](https://jobright.ai/jobs/info/68d6ee7b894705799a2eee0e?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Creative Advertising & Design Intern, Spring 2026](https://jobright.ai/jobs/info/68d6e448d3fe025a3015cdf1?utm_campaign=1049&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 26 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern - Industrial Design - Plymouth, MN - Summer 2026](https://jobright.ai/jobs/info/68d799d07a37c712687d2677?utm_campaign=1049&utm_source=git)** | Plymouth, MA | On Site | Sep 26 |
-| ↳ | **[Intern - Industrial Design - Plymouth, MN - Summer 2026](https://jobright.ai/jobs/info/68d6cfe2d3fe025a3015c353?utm_campaign=1049&utm_source=git)** | Plymouth | On Site | Sep 26 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern - Industrial Design - Plymouth, MN - Summer 2026](https://jobright.ai/jobs/info/68d6cfe2d3fe025a3015c353?utm_campaign=1049&utm_source=git)** | Plymouth | On Site | Sep 26 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Product Design Co-op (Spring 2026)](https://jobright.ai/jobs/info/68d6c45d894705799a2eda3a?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 26 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Columbus, OH](https://jobright.ai/jobs/info/68d6c0a5894705799a2ed727?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Sep 26 |
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/68d6bc8845853d0e39cc9935?utm_campaign=1049&utm_source=git)** | Avon, OH | On Site | Sep 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AlphaGraphics](https://www.alphagraphics.com/)** | **[Graphic Arts Internship](https://jobright.ai/jobs/info/68d594f81f7fb2169ab11fe2?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL 33309 | On Site | Sep 25 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship (Touring)](https://jobright.ai/jobs/info/68d594dd39247e3c807ed486?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/68cce0e3d11b445e0bee38b3?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Sep 25 |
-| **[Aviary Productions](https://www.linkedin.com/company/93796367)** | **[UI artist](https://jobright.ai/jobs/info/68d5843d63d77d6f6f3ef8e2?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 25 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring Unpaid Internship - Creative Services/Promotions](https://jobright.ai/jobs/info/68d57f1663d77d6f6f3ef458?utm_campaign=1049&utm_source=git)** | LA, Baton Rouge | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
