@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer \ Digital Designer / Visual Design / ITAR / U.S.Citizen](https://jobright.ai/jobs/info/68d91db8061b716fa2959ec3?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 28 |
 | **[JIO ROBOTICS Academy](www.jiorobotics.com)** | **[Sr UI/UX with Strong Backend Development Internship Remote to FULLTIME](https://jobright.ai/jobs/info/68d893ab22308b3db35ea21d?utm_campaign=1049&utm_source=git)** | Columbia, MD | Remote | Sep 27 |
 | **[4:08 Productions](http://www.408.productions)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68d87d427796a83635f11816?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Sep 27 |
 | **[Designblendz](https://www.designblendz.com)** | **[Internship](https://jobright.ai/jobs/info/68d840977a37c712687d9176?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Pella Corporation](http://www.pella.com)** | **[Retail Displays Intern - Summer 2026](https://jobright.ai/jobs/info/68bb29998043103d4f22609c?utm_campaign=1049&utm_source=git)** | Pella, IA | On Site | Sep 27 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Minneapolis)](https://jobright.ai/jobs/info/68ccd9f377add66568aba91c?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Sep 27 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office (PDO)- User Experience (UX) Design Summer Internship](https://jobright.ai/jobs/info/689e777279a9f9666254cfb3?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | On Site | Sep 27 |
-| **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design / ITAR / U.S.Citizen](https://jobright.ai/jobs/info/68d7db8b295f8e37655e2e91?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 27 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studio Creative Advertising & Design Intern, Spring 2026](https://jobright.ai/jobs/info/68d7d308295f8e37655e29cd?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Sep 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cf9cf9846f0b04af68349e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Technology Design & Customer Interface - Co-Op](https://jobright.ai/jobs/info/68bb39d45f3832749186d76c?utm_campaign=1049&utm_source=git)** | Rahway, NJ | Hybrid | Sep 27 |
