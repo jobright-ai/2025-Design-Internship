@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JIO ROBOTICS Academy](www.jiorobotics.com)** | **[Sr UI/UX with Strong Backend Development Internship Remote to FULLTIME](https://jobright.ai/jobs/info/68d893ab22308b3db35ea21d?utm_campaign=1049&utm_source=git)** | Columbia, MD | Remote | Sep 27 |
+| **[4:08 Productions](http://www.408.productions)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68d87d427796a83635f11816?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Sep 27 |
 | **[Designblendz](https://www.designblendz.com)** | **[Internship](https://jobright.ai/jobs/info/68d840977a37c712687d9176?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Graphic Design Intern / Spring 2026](https://jobright.ai/jobs/info/68d80e057796a83635f0ea67?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbc1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 27 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b083d13d1f5b6cb9dc?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 27 |
 | **[Lyft](https://www.lyft.com/)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68cc15bc7342c7623ae5ea78?utm_campaign=1049&utm_source=git)** | San Francisco County, CA | Hybrid | Sep 27 |
+| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe69dcc9ee94dc911a87c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Sep 27 |
 | **[Pella Corporation](http://www.pella.com)** | **[TechPub Intern - Summer 2026](https://jobright.ai/jobs/info/68ccd86ed11b445e0bee2a83?utm_campaign=1049&utm_source=git)** | Pella, IA | On Site | Sep 27 |
 | ↳ | **[Retail Displays Intern - Summer 2026](https://jobright.ai/jobs/info/68bb29998043103d4f22609c?utm_campaign=1049&utm_source=git)** | Pella, IA | On Site | Sep 27 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Minneapolis)](https://jobright.ai/jobs/info/68ccd9f377add66568aba91c?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Sep 27 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office (PDO)- User Experience (UX) Design Summer Internship](https://jobright.ai/jobs/info/689e777279a9f9666254cfb3?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | On Site | Sep 27 |
 | **[All Creators Studio](http://all-creatorsstudio.com)** | **[IT Intern (Website Design)](https://jobright.ai/jobs/info/68d7dc007796a83635f0c6b0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design / ITAR / U.S.Citizen](https://jobright.ai/jobs/info/68d7db8b295f8e37655e2e91?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sub-Zero Group, Inc.](http://www.subzero-wolf.com/)** | **[2026 Industrial Design Co-op](https://jobright.ai/jobs/info/68cd8335e23def7af55bb04e?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Sep 25 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b8dc995b42bc45628284a3?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Sep 25 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2026 - Digital Design](https://jobright.ai/jobs/info/68d7fd117a37c712687d78c8?utm_campaign=1049&utm_source=git)** | Idaho Falls | On Site | Sep 25 |
-| **[BHI Senior Living](https://www.bhiseniorliving.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68d623a84736ff202fdcf91c?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Sep 25 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68d617b71f7fb2169ab16a91?utm_campaign=1049&utm_source=git)** | New York, New York, USA | Hybrid | Sep 25 |
-| **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - Creative Services - Summer 2026](https://jobright.ai/jobs/info/68d615242116ff37ee092b8f?utm_campaign=1049&utm_source=git)** | Le Mars, IA | On Site | Sep 25 |
-| **[MINNESOTA SPORTS & ENTERTAINMENT](https://www.linkedin.com/company/55865194)** | **[Iowa Wild Creative Services Intern (Part-Time)](https://jobright.ai/jobs/info/68d61eaa9526920fc208d4f1?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
