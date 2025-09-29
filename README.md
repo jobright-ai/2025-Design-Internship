@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68da38220b832179ca4aca24?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68da0b3f3c03cd3270942536?utm_campaign=1049&utm_source=git)** | New York, New York, USA | Hybrid | Sep 28 |
 | **[AntiFragile Music](https://www.antifragilemusic.com/)** | **[Website Design/Maintenance Intern - Music Company](https://jobright.ai/jobs/info/68d9ffb83c03cd3270942167?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 28 |
-| **[Advize](https://advizehealth.com)** | **[Graphic Intern](https://jobright.ai/jobs/info/68d9c610061b716fa295ade0?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy Product Design Intern](https://jobright.ai/jobs/info/68d9baa99a8e451a446a5303?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Design Intern, Spring 2026](https://jobright.ai/jobs/info/68d96e369a8e451a446a4abe?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | Remote | Sep 28 |
 | **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be94?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68d6ba81894705799a2ed525?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Sep 26 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/68d6ba1245853d0e39cc96ac?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Sep 26 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Design Intern](https://jobright.ai/jobs/info/68d6b4f2d3fe025a3015b6aa?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Sep 26 |
+| ↳ | **[Comcast Creative Design Intern](https://jobright.ai/jobs/info/68d6b3c545853d0e39cc9324?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
