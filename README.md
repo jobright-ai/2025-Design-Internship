@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dimensional Innovations](https://www.dimin.com/)** | **[Innovation Lab Intern](https://jobright.ai/jobs/info/68db368e9f13662d20e4898e?utm_campaign=1049&utm_source=git)** | Overland Park, KS, USA | On Site | Sep 29 |
+| ↳ | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/68db3668e19b9e63ba2094db?utm_campaign=1049&utm_source=git)** | Overland Park, KS, USA | On Site | Sep 29 |
+| ↳ | **[Innovation Lab Intern](https://jobright.ai/jobs/info/68db34839f13662d20e488b4?utm_campaign=1049&utm_source=git)** | Shawnee, KS | On Site | Sep 29 |
+| ↳ | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/68db3472e19b9e63ba209408?utm_campaign=1049&utm_source=git)** | Shawnee, KS | On Site | Sep 29 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Game Design](https://jobright.ai/jobs/info/68db22830dffed6f83d2cab8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
+| **[CLD PR](https://cldstylehouse.com)** | **[White Fox Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/68db22090dffed6f83d2c9ff?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Character Art](https://jobright.ai/jobs/info/68db1faa6df7b8311bb1633b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Sep 29 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Interior Design Co-Op](https://jobright.ai/jobs/info/68db032e0dffed6f83d2be2a?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 29 |
 | **[Generation Love](https://generationloveclothing.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68daff7f0dffed6f83d2bb9b?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Sep 29 |
 | **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/68dafc200dffed6f83d2b99f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Sep 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/68ce7e71dbd9fb154ede02dc?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Sep 27 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Interiors Intern](https://jobright.ai/jobs/info/68d7bd327a37c712687d4b3b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Graphic Designer, Student Media](https://jobright.ai/jobs/info/68d7bb64295f8e37655e128d?utm_campaign=1049&utm_source=git)** | Laramie, WY | On Site | Sep 27 |
-| **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Student Engagement - Graphic Designer (FWS/NFWS)](https://jobright.ai/jobs/info/68d7bb5d295f8e37655e126b?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Sep 27 |
-| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68cd66a7e23def7af55b970a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Sep 27 |
-| **[TruStage](https://www.trustage.com/)** | **[Creative Services - Design Intern (Hybrid)](https://jobright.ai/jobs/info/68bb735e8043103d4f2289f2?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Sep 27 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Design Research](https://jobright.ai/jobs/info/68d7ac0d295f8e37655e0613?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Sep 27 |
-| **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - UI/UX](https://jobright.ai/jobs/info/68cd5b3d1ad6b16f028986e9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
-| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Graphic Design Intern](https://jobright.ai/jobs/info/68d79bc57a37c712687d2c47?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 27 |
-| **[Hapi App](https://hapi.trade/)** | **[Practicante de Diseño](https://jobright.ai/jobs/info/68d78803267b154f9a2dbc86?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
