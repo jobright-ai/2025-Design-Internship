@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trust Drum Circles](Trustdrumcircles.org)** | **[Web Design & Marketing Internship](https://jobright.ai/jobs/info/68db4945e19b9e63ba20a2cc?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Sep 29 |
+| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Studio Intern](https://jobright.ai/jobs/info/68db3bd0e19b9e63ba209880?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 29 |
 | **[Dimensional Innovations](https://www.dimin.com/)** | **[Innovation Lab Intern](https://jobright.ai/jobs/info/68db368e9f13662d20e4898e?utm_campaign=1049&utm_source=git)** | Overland Park, KS, USA | On Site | Sep 29 |
 | ↳ | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/68db3668e19b9e63ba2094db?utm_campaign=1049&utm_source=git)** | Overland Park, KS, USA | On Site | Sep 29 |
 | ↳ | **[Innovation Lab Intern](https://jobright.ai/jobs/info/68db34839f13662d20e488b4?utm_campaign=1049&utm_source=git)** | Shawnee, KS | On Site | Sep 29 |
@@ -92,7 +94,8 @@ For a complete list, click the following sortable link below:
 | **[YINAN NEW YORK](yinan.us)** | **[Fashion Design Internship – YINAN (Midtown, NYC)](https://jobright.ai/jobs/info/68dac1fc07c157682e56d1d6?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Sep 29 |
 | **[shortart.co](shortart.co)** | **[Motion Graphic Artist](https://jobright.ai/jobs/info/68dabdc807c157682e56ceff?utm_campaign=1049&utm_source=git)** | Savannah, GA | Remote | Sep 29 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree - UX Design Intern](https://jobright.ai/jobs/info/68dab5dd07c157682e56c9b0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 29 |
-| ↳ | **[Undergrad UX Design Intern](https://jobright.ai/jobs/info/68dab4d90b832179ca4afe4a?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Sep 29 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Premium Experiences Intern](https://jobright.ai/jobs/info/68db49e5e19b9e63ba20a53a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Sep 29 |
+| **[Oracle](https://www.oracle.com/)** | **[Undergrad UX Design Intern](https://jobright.ai/jobs/info/68dab4d90b832179ca4afe4a?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Sep 29 |
 | ↳ | **[Undergrad UX Design Intern](https://jobright.ai/jobs/info/68dab1176df7b8311bb11140?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 29 |
 | ↳ | **[Advanced Degree - UX Design Intern](https://jobright.ai/jobs/info/68dab09a0b832179ca4afc9b?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Sep 29 |
 | **[Under Armour](http://underarmour.com)** | **[Summer 2026 Internship, Next Up](https://jobright.ai/jobs/info/68daaca707c157682e56c4a2?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cf9cf9846f0b04af68349e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Technology Design & Customer Interface - Co-Op](https://jobright.ai/jobs/info/68bb39d45f3832749186d76c?utm_campaign=1049&utm_source=git)** | Rahway, NJ | Hybrid | Sep 27 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68cc29547342c7623ae60285?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Sep 27 |
-| ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/68ce7e71dbd9fb154ede02dc?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Sep 27 |
-| **[MillerKnoll](http://www.millerknoll.com/)** | **[Interiors Intern](https://jobright.ai/jobs/info/68d7bd327a37c712687d4b3b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 27 |
-| **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Graphic Designer, Student Media](https://jobright.ai/jobs/info/68d7bb64295f8e37655e128d?utm_campaign=1049&utm_source=git)** | Laramie, WY | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
