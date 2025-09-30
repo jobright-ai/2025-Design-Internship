@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Architectural Intern Summer 2026](https://jobright.ai/jobs/info/68dc45bdaccfd24b67e53ac9?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Sep 30 |
+| **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[UX Intern](https://jobright.ai/jobs/info/68dc453bddc10244dd6737c5?utm_campaign=1049&utm_source=git)** | Overland Park, KS | Hybrid | Sep 30 |
+| **[RealClearPolitics](http://www.realclearpolitics.com)** | **[DC-Based Internship: RealClearPolitics Social & Multimedia Intern](https://jobright.ai/jobs/info/68dc3f92a125e75c4229eb97?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 30 |
+| **[Read Better Be Better](http://www.readbetterbebetter.org)** | **[Social Media and Graphic Design Intern](https://jobright.ai/jobs/info/68dc3ee7a125e75c4229ea29?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Sep 30 |
 | **[Retrofête](https://retrofete.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/68dc2a35d6470e72cf4d9354?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Sep 30 |
 | **[Lawrence Group](http://thelawrencegroup.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68dc25ef97329f2f77322f64?utm_campaign=1049&utm_source=git)** | Greater St. Louis | On Site | Sep 30 |
 | **[ZIMO](www.zimo.me)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68dc1c77d6470e72cf4d8b53?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Sep 30 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Velocity](https://www.linkedin.com/company/108721904)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68dbe2d897329f2f7731fa46?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Sep 29 |
 | **[KEITH](https://keithteam.com/)** | **[Landscape Architect Intern / Co-op](https://jobright.ai/jobs/info/68dc05416f6c5c3fadf35d10?utm_campaign=1049&utm_source=git)** | Pompano Beach, FL | On Site | Sep 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Creative Operations Intern](https://jobright.ai/jobs/info/68dc125b97329f2f7732275a?utm_campaign=1049&utm_source=git)** | Topeka, KS | On Site | Sep 29 |
-| **[LogoNoMas](https://logonomas.com)** | **[Graphic Design Artist / Apprentice](https://jobright.ai/jobs/info/68dbe1f997329f2f7731f803?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Jennifer Miller Studio](http://www.jennifermillerstudio.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68dbd90cd6470e72cf4d4b3d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
 | **[Letters From Last Summer](jeninedalusong.com/lettersfromlastsummer)** | **[Internship in Graphic Design and Marketing](https://jobright.ai/jobs/info/68dbd8a56f6c5c3fadf32809?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Sep 29 |
 | **[I Am Creative Zake](http://www.iczake.org)** | **[Internship Opportunity – I Am Creative (ICzake)](https://jobright.ai/jobs/info/68dab0330b832179ca4afbca?utm_campaign=1049&utm_source=git)** | Wesley Chapel, FL | On Site | Sep 29 |
@@ -83,9 +86,10 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Creative Services Intern (Melbourne, FL)](https://jobright.ai/jobs/info/68d4a32afcd3367e8df1664c?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Sep 25 |
 | **[Ascent Engineering Group, Inc.](http://ascenteg.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/68dbb2ead6470e72cf4d1654?utm_campaign=1049&utm_source=git)** | Orlando, FL, US | On Site | Sep 24 |
 | **[Two Rivers Marketing](http://tworiversmarketing.com)** | **[Graphic Design and Communications Intern](https://jobright.ai/jobs/info/68dbc061d6470e72cf4d2b8c?utm_campaign=1049&utm_source=git)** | Waterloo, IA, US | On Site | Sep 17 |
+| **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/68cd1a4f1ad6b16f02894ef9?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Sep 16 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Spring 2026 Intern – Graphic Design (OIG)](https://jobright.ai/jobs/info/68c1208d233c7d3e64d0006b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 16 |
-| **[Dunaway](https://dunawayassociates.com)** | **[2026 Intern- Landscape Architecture](https://jobright.ai/jobs/info/68dbbe686f6c5c3fadf3076a?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, US | On Site | Sep 09 |
-| ↳ | **[2026 Intern- Landscape Architecture](https://jobright.ai/jobs/info/68dbaf5497329f2f7731b354?utm_campaign=1049&utm_source=git)** | Midland, TX, US | On Site | Sep 09 |
+| **[Dunaway](https://dunawayassociates.com)** | **[2026 Intern- Landscape Architecture](https://jobright.ai/jobs/info/68dbaf5497329f2f7731b354?utm_campaign=1049&utm_source=git)** | Midland, TX, US | On Site | Sep 09 |
+| ↳ | **[2026 Intern- Landscape Architecture](https://jobright.ai/jobs/info/68dbbe686f6c5c3fadf3076a?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, US | On Site | Sep 09 |
 | **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern  (New graduate)](https://jobright.ai/jobs/info/68dc095097329f2f773220f8?utm_campaign=1049&utm_source=git)** | Lynchburg,VA,US | Hybrid | Sep 02 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Video Intern](https://jobright.ai/jobs/info/68dbb58ed6470e72cf4d1df6?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, US | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
