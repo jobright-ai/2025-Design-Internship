@@ -67,8 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Innovation Lab Intern](https://jobright.ai/jobs/info/68db34839f13662d20e488b4?utm_campaign=1049&utm_source=git)** | Shawnee, KS | On Site | Sep 29 |
 | ↳ | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/68db3472e19b9e63ba209408?utm_campaign=1049&utm_source=git)** | Shawnee, KS | On Site | Sep 29 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Game Design](https://jobright.ai/jobs/info/68db22830dffed6f83d2cab8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
-| **[CLD PR](https://cldstylehouse.com)** | **[White Fox Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/68db22090dffed6f83d2c9ff?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
-| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Character Art](https://jobright.ai/jobs/info/68db1faa6df7b8311bb1633b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Sep 29 |
+| ↳ | **[2026 US Summer Internships - Character Art](https://jobright.ai/jobs/info/68db1faa6df7b8311bb1633b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Sep 29 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Interior Design Co-Op](https://jobright.ai/jobs/info/68db032e0dffed6f83d2be2a?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 29 |
 | **[Generation Love](https://generationloveclothing.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68daff7f0dffed6f83d2bb9b?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Sep 29 |
 | **[Saviynt](http://saviynt.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/68dafc200dffed6f83d2b99f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Sep 29 |
@@ -100,7 +99,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advanced Degree - UX Design Intern](https://jobright.ai/jobs/info/68dab09a0b832179ca4afc9b?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Sep 29 |
 | **[Under Armour](http://underarmour.com)** | **[Summer 2026 Internship, Next Up](https://jobright.ai/jobs/info/68daaca707c157682e56c4a2?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
 | ↳ | **[Summer 2026 Internship, Design](https://jobright.ai/jobs/info/68daabd407c157682e56c30b?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
-| **[I Am Creative Zake](http://www.iczake.org)** | **[Internship Opportunity – I Am Creative (ICzake)](https://jobright.ai/jobs/info/68dab0330b832179ca4afbca?utm_campaign=1049&utm_source=git)** | Wesley Chapel, FL | Hybrid | Sep 29 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Technical Writing and Graphics Intern](https://jobright.ai/jobs/info/68daa50e6df7b8311bb10949?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Sep 29 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68daa4fb07c157682e56bf6e?utm_campaign=1049&utm_source=git)** | Mason, MI | On Site | Sep 29 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Graphic and Interactive Design Intern](https://jobright.ai/jobs/info/68daa4f00b832179ca4af501?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Sep 29 |
@@ -114,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[ECU Health](http://www.ECUHealth.org)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/68ced882846f0b04af67d531?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Sep 29 |
 | **[Galloway & Company, LLC](https://gallowayus.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/68da862407c157682e56abe5?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Sep 29 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[DESIGN STUDIO CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68da82f80b832179ca4adfe1?utm_campaign=1049&utm_source=git)** | Erlanger, KY | On Site | Sep 29 |
+| **[Uline](http://www.uline.com)** | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0af83d13d1f5b6cb9d1?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68da38220b832179ca4aca24?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68da0b3f3c03cd3270942536?utm_campaign=1049&utm_source=git)** | New York, New York, USA | Hybrid | Sep 28 |
 | **[AntiFragile Music](https://www.antifragilemusic.com/)** | **[Website Design/Maintenance Intern - Music Company](https://jobright.ai/jobs/info/68d9ffb83c03cd3270942167?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 28 |
@@ -135,6 +134,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc58?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Sep 28 |
 | ↳ | **[Photography Internship - Summer 2026](https://jobright.ai/jobs/info/68d890b96c1d856b1b93aa91?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Sep 28 |
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68ccf53b5954791a1d701a44?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Sep 28 |
+| ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68cf2560dbd9fb154ede550c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Sep 28 |
 | **[Atlassian](https://www.atlassian.com)** | **[Product Design Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68c50872c96a22563ece66f7?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 27 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68bb806e6105227d118a6733?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Sep 27 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office (PDO) – Auto Design Summer Internship](https://jobright.ai/jobs/info/689e7601faa4e875e827cd24?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | On Site | Sep 27 |
