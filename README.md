@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Retrofête](https://retrofete.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/68dc2a35d6470e72cf4d9354?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Sep 30 |
+| **[Lawrence Group](http://thelawrencegroup.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68dc25ef97329f2f77322f64?utm_campaign=1049&utm_source=git)** | Greater St. Louis | On Site | Sep 30 |
+| **[ZIMO](www.zimo.me)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68dc1c77d6470e72cf4d8b53?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Sep 30 |
+| **[Adam Lippes](https://adamlippes.com)** | **[Seasonal Fashion Design and Development Intern](https://jobright.ai/jobs/info/68dc1870d6470e72cf4d89dd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Design Intern, DKNY Sportswear](https://jobright.ai/jobs/info/68dc15d397329f2f773227d6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/68dc110ed6470e72cf4d85df?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Sep 30 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Creative Operations Intern](https://jobright.ai/jobs/info/68dbfdb56f6c5c3fadf35a81?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 30 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Zumiez](http://www.zumiez.com)** | **[Marketing Design/Production Intern](https://jobright.ai/jobs/info/68dbc3876f6c5c3fadf31326?utm_campaign=1049&utm_source=git)** | Lynnwood, WA, 98036, United States | On Site | Sep 25 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Creative Services Intern (Melbourne, FL)](https://jobright.ai/jobs/info/68d4a32afcd3367e8df1664c?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Sep 25 |
 | **[Ascent Engineering Group, Inc.](http://ascenteg.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/68dbb2ead6470e72cf4d1654?utm_campaign=1049&utm_source=git)** | Orlando, FL, US | On Site | Sep 24 |
-| **[Randa Apparel & Accessories](http://www.randa.net)** | **[Design Internship - Summer 2026](https://jobright.ai/jobs/info/68dc15be97329f2f773227b1?utm_campaign=1049&utm_source=git)** | Rosemont, IL | On Site | Sep 23 |
 | **[Two Rivers Marketing](http://tworiversmarketing.com)** | **[Graphic Design and Communications Intern](https://jobright.ai/jobs/info/68dbc061d6470e72cf4d2b8c?utm_campaign=1049&utm_source=git)** | Waterloo, IA, US | On Site | Sep 17 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Spring 2026 Intern – Graphic Design (OIG)](https://jobright.ai/jobs/info/68c1208d233c7d3e64d0006b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 16 |
 | **[Dunaway](https://dunawayassociates.com)** | **[2026 Intern- Landscape Architecture](https://jobright.ai/jobs/info/68dbbe686f6c5c3fadf3076a?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, US | On Site | Sep 09 |
