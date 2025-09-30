@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant - Graphic Designer](https://jobright.ai/jobs/info/68db73289f13662d20e4b839?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Sep 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Creative Services  Intern, Spring 2026](https://jobright.ai/jobs/info/68db5d1b9f13662d20e4a747?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, USA | On Site | Sep 29 |
 | **[Trust Drum Circles](Trustdrumcircles.org)** | **[Web Design & Marketing Internship](https://jobright.ai/jobs/info/68db4945e19b9e63ba20a2cc?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Sep 29 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Studio Intern](https://jobright.ai/jobs/info/68db3bd0e19b9e63ba209880?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 29 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Researcher Intern](https://jobright.ai/jobs/info/68dafc1e0dffed6f83d2b998?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 29 |
 | **[DreamToon](https://apps.apple.com/us/app/dreamtoon/id6747994787)** | **[User Generated Content (UGC) Intern](https://jobright.ai/jobs/info/68dafa406df7b8311bb14fd8?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 29 |
 | **[YINAN NEW YORK](yinan.us)** | **[Social Media and Digital Content Internship – YINAN (Midtown, NYC)](https://jobright.ai/jobs/info/68daf15c0dffed6f83d2aec1?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Sep 29 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Interior Design Co-Op](https://jobright.ai/jobs/info/68daf0c707c157682e56fc3e?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Sep 29 |
 | **[IBM](http://www.ibm.com)** | **[Designer: User Experience Intern 2026](https://jobright.ai/jobs/info/68daf07e07c157682e56fba8?utm_campaign=1049&utm_source=git)** | Poughkeepsie, NY | Hybrid | Sep 29 |
 | ↳ | **[2026 Intern – Motion Designer](https://jobright.ai/jobs/info/68daefec07c157682e56fa3c?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Sep 29 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/68daef8b6df7b8311bb143ef?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Sep 29 |
