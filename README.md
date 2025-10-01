@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd8337ddc10244dd680199?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 01 |
+| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68dd9ff2a125e75c422ad810?utm_campaign=1049&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 01 |
+| ↳ | **[Industrial Design Intern](https://jobright.ai/jobs/info/68dd9f91ddc10244dd6821a9?utm_campaign=1049&utm_source=git)** | Madison, Wisconsin, United States | On Site | Oct 01 |
+| **[Anonyome Labs, Inc.](https://anonyome.com/)** | **[Internship - Graphic Design (Summer 2026)](https://jobright.ai/jobs/info/68dd9f5ea125e75c422ad4b2?utm_campaign=1049&utm_source=git)** | South Jordan, UT | Hybrid | Oct 01 |
+| **[Bluejack National](https://www.bluejacknational.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68dd95d144d32141e0bf884b?utm_campaign=1049&utm_source=git)** | Aledo, TX | On Site | Oct 01 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - UX Researcher](https://jobright.ai/jobs/info/68dd925a44d32141e0bf860f?utm_campaign=1049&utm_source=git)** | 220 E Las Colinas blvd, Irving, TX, 75039, US | Hybrid | Oct 01 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/68dd920ca125e75c422ac55d?utm_campaign=1049&utm_source=git)** | Portland, Oregon | On Site | Oct 01 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd8c8bddc10244dd680baa?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Oct 01 |
+| **[TapSphere](https://www.tapsphere.io)** | **[Design & Development Internship (ARG + Storytelling)](https://jobright.ai/jobs/info/68dd8c1b44d32141e0bf7f68?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 01 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/68dd8b7644d32141e0bf7dee?utm_campaign=1049&utm_source=git)** | Utah | On Site | Oct 01 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd873e44d32141e0bf79d7?utm_campaign=1049&utm_source=git)** | Escondido, CA | On Site | Oct 01 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd8337ddc10244dd680199?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 01 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/68dd7c1044d32141e0bf73fd?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Oct 01 |
 | ↳ | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/68dd7b6044d32141e0bf7248?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Oct 01 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Marketing](https://jobright.ai/jobs/info/68dd7af3a125e75c422ab198?utm_campaign=1049&utm_source=git)** | Omaha MBC Building | On Site | Oct 01 |
-| **[GAOTek Inc.](https://www.gaotek.com)** | **[UX/UI Designer Internship](https://jobright.ai/jobs/info/68dd774cddc10244dd67f893?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Oct 01 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - Communications - Spring 2026](https://jobright.ai/jobs/info/68dd6eccddc10244dd67f575?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Oct 01 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[2026 Summer Designer/Drafter Internship](https://jobright.ai/jobs/info/68dd638aa125e75c422aa4ac?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Oct 01 |
 | **[Jacobs](http://www.jacobs.com)** | **[User Experience (UX) Designer Intern](https://jobright.ai/jobs/info/68dd5a4944d32141e0bf5ed2?utm_campaign=1049&utm_source=git)** | United States-Texas-Houston-20331-ESCG | Hybrid | Oct 01 |
@@ -72,7 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68dd4639ddc10244dd67dd07?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Oct 01 |
 | **[Let's Be Friends](https://www.linkedin.com/company/69300532)** | **[Creative Intern](https://jobright.ai/jobs/info/68dd411e44d32141e0bf4f39?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Oct 01 |
 | **[Jacobs](http://www.jacobs.com)** | **[Lighting Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68c07dcd702aa35207aadbbe?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
-| ↳ | **[Lighting Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68c07d208e65e77df55c1b4a?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 01 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Spring 2026 Intern – Graphic Design (OIG)](https://jobright.ai/jobs/info/68c1208d233c7d3e64d0006b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 01 |
+| **[Jacobs](http://www.jacobs.com)** | **[Lighting Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68c07d208e65e77df55c1b4a?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 01 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68dd24edddc10244dd67cbc9?utm_campaign=1049&utm_source=git)** | US - MD, Annapolis Junction | On Site | Oct 01 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68dd24d6ddc10244dd67cb95?utm_campaign=1049&utm_source=git)** | US - TN, Kingsport | On Site | Oct 01 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68dd24b5a125e75c422a8187?utm_campaign=1049&utm_source=git)** | US - TN, Kingsport | On Site | Oct 01 |
@@ -119,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Melotech](https://www.melotech.ai)** | **[Music Creative Intern](https://jobright.ai/jobs/info/68dbe743d6470e72cf4d5be9?utm_campaign=1049&utm_source=git)** | Berlin, NY | On Site | Sep 30 |
 | ↳ | **[Music Creative Intern](https://jobright.ai/jobs/info/68dbde2c97329f2f7731f336?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Creative Services  Intern, Spring 2026](https://jobright.ai/jobs/info/68dc8b35accfd24b67e567bf?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, USA | On Site | Sep 29 |
-| **[Trust Drum Circles](Trustdrumcircles.org)** | **[Web Design & Marketing Internship](https://jobright.ai/jobs/info/68db4945e19b9e63ba20a2cc?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Sep 29 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68dc63d1a125e75c422a0558?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Sep 29 |
 | **[BCRA](http://bcradesign.com)** | **[Summer 2026 Internship – Architecture & Interior Design](https://jobright.ai/jobs/info/68dc5ff7a125e75c422a0375?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Sep 29 |
 | **[KEITH](https://keithteam.com/)** | **[Landscape Architect Intern / Co-op](https://jobright.ai/jobs/info/68dc05416f6c5c3fadf35d10?utm_campaign=1049&utm_source=git)** | Pompano Beach, FL | On Site | Sep 29 |
