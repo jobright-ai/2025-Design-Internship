@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dimensional Innovations](https://www.dimin.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68dc87c5ddc10244dd6763d5?utm_campaign=1049&utm_source=git)** | Shawnee, KS | On Site | Sep 30 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68dc78b8accfd24b67e55b4a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Sep 30 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - UI/UX](https://jobright.ai/jobs/info/68dc7135accfd24b67e55962?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 30 |
+| **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68dc6d91ddc10244dd675722?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Sep 30 |
 | **[ServiceNow](http://www.servicenow.com)** | **[EX - Product Design Internships (UX, Visual and Content Design) - Summer 2026](https://jobright.ai/jobs/info/68dc642ea125e75c422a0644?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Sep 30 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer \ Digital Designer \ Visual Design \ ITAR \ U.S.Citi](https://jobright.ai/jobs/info/68dc63e3accfd24b67e550dd?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 30 |
 | **[ServiceNow](http://www.servicenow.com)** | **[EX - UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68dc63d7accfd24b67e550c4?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Sep 30 |
@@ -83,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[MeloTech](https://www.melotech.ai)** | **[Music Creative Intern](https://jobright.ai/jobs/info/68dbe743d6470e72cf4d5be9?utm_campaign=1049&utm_source=git)** | Berlin, NY | On Site | Sep 30 |
 | ↳ | **[Music Creative Intern](https://jobright.ai/jobs/info/68dbde2c97329f2f7731f336?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68dc63d1a125e75c422a0558?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Sep 29 |
-| ↳ | **[Interior Design Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68dc63f9accfd24b67e5510f?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Sep 29 |
 | **[BCRA](http://bcradesign.com)** | **[Summer 2026 Internship – Architecture & Interior Design](https://jobright.ai/jobs/info/68dc5ff7a125e75c422a0375?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Sep 29 |
 | **[KEITH](https://keithteam.com/)** | **[Landscape Architect Intern / Co-op](https://jobright.ai/jobs/info/68dc05416f6c5c3fadf35d10?utm_campaign=1049&utm_source=git)** | Pompano Beach, FL | On Site | Sep 29 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Creative Operations Intern](https://jobright.ai/jobs/info/68dc125b97329f2f7732275a?utm_campaign=1049&utm_source=git)** | Topeka, KS | On Site | Sep 29 |
@@ -92,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[I Am Creative Zake](http://www.iczake.org)** | **[Internship Opportunity – I Am Creative (ICzake)](https://jobright.ai/jobs/info/68dab0330b832179ca4afbca?utm_campaign=1049&utm_source=git)** | Wesley Chapel, FL | On Site | Sep 29 |
 | **[Zumiez](http://www.zumiez.com)** | **[Marketing Design/Production Intern](https://jobright.ai/jobs/info/68dbc3876f6c5c3fadf31326?utm_campaign=1049&utm_source=git)** | Lynnwood, WA, 98036, United States | On Site | Sep 25 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Creative Services Intern (Melbourne, FL)](https://jobright.ai/jobs/info/68d4a32afcd3367e8df1664c?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Sep 25 |
-| **[Ascent Engineering Group, Inc.](http://ascenteg.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/68dbb2ead6470e72cf4d1654?utm_campaign=1049&utm_source=git)** | Orlando, FL, US | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
