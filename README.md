@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/68dda911ddc10244dd682aa6?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Oct 01 |
+| **[Amentum](https://www.amentum.com/)** | **[User Experience (UX) Designer Intern](https://jobright.ai/jobs/info/68dda8c1ddc10244dd682a0b?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Oct 01 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/68dda86fddc10244dd682968?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Oct 01 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68dd9ff2a125e75c422ad810?utm_campaign=1049&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 01 |
 | ↳ | **[Industrial Design Intern](https://jobright.ai/jobs/info/68dd9f91ddc10244dd6821a9?utm_campaign=1049&utm_source=git)** | Madison, Wisconsin, United States | On Site | Oct 01 |
 | **[Anonyome Labs, Inc.](https://anonyome.com/)** | **[Internship - Graphic Design (Summer 2026)](https://jobright.ai/jobs/info/68dd9f5ea125e75c422ad4b2?utm_campaign=1049&utm_source=git)** | South Jordan, UT | Hybrid | Oct 01 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - UX Researcher](https://jobright.ai/jobs/info/68dd925a44d32141e0bf860f?utm_campaign=1049&utm_source=git)** | 220 E Las Colinas blvd, Irving, TX, 75039, US | Hybrid | Oct 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/68dd920ca125e75c422ac55d?utm_campaign=1049&utm_source=git)** | Portland, Oregon | On Site | Oct 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd8c8bddc10244dd680baa?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Oct 01 |
-| **[TapSphere](https://www.tapsphere.io)** | **[Design & Development Internship (ARG + Storytelling)](https://jobright.ai/jobs/info/68dd8c1b44d32141e0bf7f68?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 01 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/68dd8b7644d32141e0bf7dee?utm_campaign=1049&utm_source=git)** | Utah | On Site | Oct 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd873e44d32141e0bf79d7?utm_campaign=1049&utm_source=git)** | Escondido, CA | On Site | Oct 01 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd8337ddc10244dd680199?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 01 |
@@ -136,9 +138,9 @@ For a complete list, click the following sortable link below:
 | **[Jennifer Miller Studio](http://www.jennifermillerstudio.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68dbd90cd6470e72cf4d4b3d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
 | **[I Am Creative Zake](http://www.iczake.org)** | **[Internship Opportunity – I Am Creative (ICzake)](https://jobright.ai/jobs/info/68dab0330b832179ca4afbca?utm_campaign=1049&utm_source=git)** | Wesley Chapel, FL | On Site | Sep 29 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office (PDO) – SUB-D/Blender Digital Modeler Summer Internship](https://jobright.ai/jobs/info/68dcf56da125e75c422a7192?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 29 |
-| **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office (PDO) – Color and Material Summer Internship](https://jobright.ai/jobs/info/68dcf503a125e75c422a7045?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
+| **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office (PDO) – Auto Design Summer Internship](https://jobright.ai/jobs/info/68dcf55baccfd24b67e5beb9?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
+| ↳ | **[2026 Product Design Office (PDO) – Color and Material Summer Internship](https://jobright.ai/jobs/info/68dcf503a125e75c422a7045?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
 | ↳ | **[2026 Product Design Office (PDO)- User Experience (UX) Design Summer Internship](https://jobright.ai/jobs/info/68dcf5bcaccfd24b67e5c048?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
-| ↳ | **[2026 Product Design Office (PDO) – Auto Design Summer Internship](https://jobright.ai/jobs/info/68dcf55baccfd24b67e5beb9?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
 | **[Christensen Farms](https://www.christensenfarms.com)** | **[Communications Internship](https://jobright.ai/jobs/info/68dccd52accfd24b67e5a21d?utm_campaign=1049&utm_source=git)** | Sleepy Eye,MN,US | On Site | Sep 25 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Design Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/68dcc288accfd24b67e59b90?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Sep 25 |
 | **[Zumiez](http://www.zumiez.com)** | **[Marketing Design/Production Intern](https://jobright.ai/jobs/info/68dbc3876f6c5c3fadf31326?utm_campaign=1049&utm_source=git)** | Lynnwood, WA, 98036, United States | On Site | Sep 25 |
