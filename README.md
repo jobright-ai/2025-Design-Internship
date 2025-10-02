@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bonjour Girls](bonjourgirls.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68deba4944d32141e0c01e3e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 02 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Content Creation Intern - Fall 2025](https://jobright.ai/jobs/info/68deacea09bda65a4b62cb20?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
+| **[USF College of Nursing](http://health.usf.edu/nursing)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/68deac8a09bda65a4b62ca4f?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Oct 02 |
+| **[Adam Lippes](https://adamlippes.com)** | **[Creative Production & Visual Design Internship](https://jobright.ai/jobs/info/68dea38809bda65a4b62c6f1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 02 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - UX/UI Designer - Michigan](https://jobright.ai/jobs/info/68dea35909bda65a4b62c677?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 02 |
+| ↳ | **[2026 Summer Intern - UX/UI Designer - Michigan](https://jobright.ai/jobs/info/68dea30a09bda65a4b62c5b1?utm_campaign=1049&utm_source=git)** | Portage, MI | Remote | Oct 02 |
+| **[CIPIO.ai](https://cipio.ai/)** | **[Creative Operations Intern](https://jobright.ai/jobs/info/68dea0a844d32141e0c012ef?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68de906744d32141e0c00bfe?utm_campaign=1049&utm_source=git)** | Omaha Metropolitan Area | On Site | Oct 02 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Design & Construction Architecture - Summer 2026 Intern](https://jobright.ai/jobs/info/68de8d6609bda65a4b62b23c?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 02 |
 | **[Princess Cruises](http://www.princess.com)** | **[Design & Construction Architecture - Summer 2026 Intern](https://jobright.ai/jobs/info/68de8bad44d32141e0c0092c?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 02 |
@@ -69,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddd64e09bda65a4b6246e9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - UX Researcher](https://jobright.ai/jobs/info/68ddd382a125e75c422af41b?utm_campaign=1049&utm_source=git)** | Irving, TX | Hybrid | Oct 01 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Technical Apparel/Gear Internship / Summer 2026 / Klim & 509](https://jobright.ai/jobs/info/68ddcc8c09bda65a4b6245a7?utm_campaign=1049&utm_source=git)** | Rigby, ID, USA | On Site | Oct 01 |
+| **[Van Wyck & Van Wyck](https://www.vanwyck.net)** | **[Event Design Intern](https://jobright.ai/jobs/info/68dea03fa125e75c422b5542?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/68dda911ddc10244dd682aa6?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Oct 01 |
 | **[Amentum](https://www.amentum.com/)** | **[User Experience (UX) Designer Intern](https://jobright.ai/jobs/info/68dda8c1ddc10244dd682a0b?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Oct 01 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/68dda86fddc10244dd682968?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Oct 01 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GPD Group](http://gpdgroup.com)** | **[Architecture Design Internship/Co-op Spring 2026](https://jobright.ai/jobs/info/68c3663380e77b1fa6fc8dcb?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Sep 30 |
 | **[Melotech](https://www.melotech.ai)** | **[Music Creative Intern](https://jobright.ai/jobs/info/68dbe743d6470e72cf4d5be9?utm_campaign=1049&utm_source=git)** | Berlin, NY | On Site | Sep 30 |
 | ↳ | **[Music Creative Intern](https://jobright.ai/jobs/info/68dbde2c97329f2f7731f336?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 30 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Creative Services  Intern, Spring 2026](https://jobright.ai/jobs/info/68dc8b35accfd24b67e567bf?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, USA | On Site | Sep 29 |
-| **[BCRA](http://bcradesign.com)** | **[Summer 2026 Internship – Architecture & Interior Design](https://jobright.ai/jobs/info/68dc5ff7a125e75c422a0375?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Sep 29 |
-| **[KEITH](https://keithteam.com/)** | **[Landscape Architect Intern / Co-op](https://jobright.ai/jobs/info/68dc05416f6c5c3fadf35d10?utm_campaign=1049&utm_source=git)** | Pompano Beach, FL | On Site | Sep 29 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Creative Operations Intern](https://jobright.ai/jobs/info/68dc125b97329f2f7732275a?utm_campaign=1049&utm_source=git)** | Topeka, KS | On Site | Sep 29 |
-| **[Jennifer Miller Studio](http://www.jennifermillerstudio.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68dbd90cd6470e72cf4d4b3d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
-| **[I Am Creative Zake](http://www.iczake.org)** | **[Internship Opportunity – I Am Creative (ICzake)](https://jobright.ai/jobs/info/68dab0330b832179ca4afbca?utm_campaign=1049&utm_source=git)** | Wesley Chapel, FL | On Site | Sep 29 |
-| **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office (PDO) – SUB-D/Blender Digital Modeler Summer Internship](https://jobright.ai/jobs/info/68dcf56da125e75c422a7192?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 29 |
-| **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office (PDO)- User Experience (UX) Design Summer Internship](https://jobright.ai/jobs/info/68dcf5bcaccfd24b67e5c048?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
