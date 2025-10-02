@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - UX Designer](https://jobright.ai/jobs/info/68ded1e644d32141e0c02b7c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 02 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Product Design Intern, Spring 2026](https://jobright.ai/jobs/info/68decd0a44d32141e0c026e9?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Oct 02 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/68debbc2a125e75c422b625e?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Oct 02 |
 | **[Bonjour Girls](bonjourgirls.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68deba4944d32141e0c01e3e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 02 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Content Creation Intern - Fall 2025](https://jobright.ai/jobs/info/68deacea09bda65a4b62cb20?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/68deac8a09bda65a4b62ca4f?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Oct 02 |
@@ -94,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/68dd7c1044d32141e0bf73fd?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Oct 01 |
 | ↳ | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/68dd7b6044d32141e0bf7248?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Oct 01 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Marketing](https://jobright.ai/jobs/info/68dd7af3a125e75c422ab198?utm_campaign=1049&utm_source=git)** | Omaha MBC Building | On Site | Oct 01 |
+| **[Allegion](https://www.allegion.com)** | **[User Experience (UX) Generalist Intern](https://jobright.ai/jobs/info/68deca3109bda65a4b62db29?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 01 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - Communications - Spring 2026](https://jobright.ai/jobs/info/68dd6eccddc10244dd67f575?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Oct 01 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[2026 Summer Designer/Drafter Internship](https://jobright.ai/jobs/info/68dd638aa125e75c422aa4ac?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Oct 01 |
 | **[Jacobs](http://www.jacobs.com)** | **[User Experience (UX) Designer Intern](https://jobright.ai/jobs/info/68dd5a4944d32141e0bf5ed2?utm_campaign=1049&utm_source=git)** | United States-Texas-Houston-20331-ESCG | Hybrid | Oct 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Visual Design Intern](https://jobright.ai/jobs/info/68dbed0297329f2f77320f51?utm_campaign=1049&utm_source=git)** | Marysville, OH | On Site | Sep 30 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Program Management (Design Team)](https://jobright.ai/jobs/info/68c787ffdb52c07d2884b8ce?utm_campaign=1049&utm_source=git)** | Fort Mill, SC | Hybrid | Sep 30 |
 | ↳ | **[Internship Summer 2026 - Technology, Program Management (Design Team)](https://jobright.ai/jobs/info/68c664697d0db41142739895?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Sep 30 |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Architectural Design - Summer 2026](https://jobright.ai/jobs/info/68de94a644d32141e0c00db4?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Sep 30 |
-| **[GPD Group](http://gpdgroup.com)** | **[Architecture Design Internship/Co-op Spring 2026](https://jobright.ai/jobs/info/68c3663380e77b1fa6fc8dcb?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Sep 30 |
-| **[Melotech](https://www.melotech.ai)** | **[Music Creative Intern](https://jobright.ai/jobs/info/68dbe743d6470e72cf4d5be9?utm_campaign=1049&utm_source=git)** | Berlin, NY | On Site | Sep 30 |
-| ↳ | **[Music Creative Intern](https://jobright.ai/jobs/info/68dbde2c97329f2f7731f336?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
