@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Interior Design Co-Op](https://jobright.ai/jobs/info/68ddd9e809bda65a4b6247b7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 01 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddd64e09bda65a4b6246e9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 01 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddda4444d32141e0bfb380?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Oct 01 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddd64e09bda65a4b6246e9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - UX Researcher](https://jobright.ai/jobs/info/68ddd382a125e75c422af41b?utm_campaign=1049&utm_source=git)** | Irving, TX | Hybrid | Oct 01 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Technical Apparel/Gear Internship / Summer 2026 / Klim & 509](https://jobright.ai/jobs/info/68ddcc8c09bda65a4b6245a7?utm_campaign=1049&utm_source=git)** | Rigby, ID, USA | On Site | Oct 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/68dda911ddc10244dd682aa6?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Oct 01 |
@@ -142,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Jennifer Miller Studio](http://www.jennifermillerstudio.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68dbd90cd6470e72cf4d4b3d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
 | **[I Am Creative Zake](http://www.iczake.org)** | **[Internship Opportunity – I Am Creative (ICzake)](https://jobright.ai/jobs/info/68dab0330b832179ca4afbca?utm_campaign=1049&utm_source=git)** | Wesley Chapel, FL | On Site | Sep 29 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office (PDO) – SUB-D/Blender Digital Modeler Summer Internship](https://jobright.ai/jobs/info/68dcf56da125e75c422a7192?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 29 |
-| **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office (PDO) – Color and Material Summer Internship](https://jobright.ai/jobs/info/68dcf503a125e75c422a7045?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
-| ↳ | **[2026 Product Design Office (PDO)- User Experience (UX) Design Summer Internship](https://jobright.ai/jobs/info/68dcf5bcaccfd24b67e5c048?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
+| **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office (PDO)- User Experience (UX) Design Summer Internship](https://jobright.ai/jobs/info/68dcf5bcaccfd24b67e5c048?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
+| ↳ | **[2026 Product Design Office (PDO) – Color and Material Summer Internship](https://jobright.ai/jobs/info/68dcf503a125e75c422a7045?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
 | ↳ | **[2026 Product Design Office (PDO) – Auto Design Summer Internship](https://jobright.ai/jobs/info/68dcf55baccfd24b67e5beb9?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
 | **[Christensen Farms](https://www.christensenfarms.com)** | **[Communications Internship](https://jobright.ai/jobs/info/68dccd52accfd24b67e5a21d?utm_campaign=1049&utm_source=git)** | Sleepy Eye,MN,US | On Site | Sep 25 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Design Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/68dcc288accfd24b67e59b90?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Sep 25 |
