@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Prints](https://jobright.ai/jobs/info/68df78d1fe896042b0b7b256?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 03 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68df280c5ab4977c2e951126?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Oct 02 |
 | **[Continua Interiors](http://continuainteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/68df21b96be63b6ec996c8bc?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Oct 02 |
 | **[EAIGG: Ethical AI Governance Group](https://www.eaigg.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68df0e8c6be63b6ec996a28a?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 02 |
@@ -64,7 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Ball Corporation](http://ball.com)** | **[Intern- Graphics Operations](https://jobright.ai/jobs/info/68df0b1c5ab4977c2e94d95c?utm_campaign=1049&utm_source=git)** | Westminster, CO | On Site | Oct 02 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Brand Design](https://jobright.ai/jobs/info/68df0650fe896042b0b74234?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Graphic Design/Creative Undergraduate Internship](https://jobright.ai/jobs/info/68df0115a125e75c422b9174?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 02 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Creative Design Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def79144d32141e0c045cd?utm_campaign=1049&utm_source=git)** | Green Bay, WI | Hybrid | Oct 02 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Creative Design Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def02644d32141e0c04241?utm_campaign=1049&utm_source=git)** | Green Bay, WI | Hybrid | Oct 02 |
 | **[University of South Florida](http://www.usf.edu)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/68dee76544d32141e0c03b89?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Oct 02 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - User Experience (UX) - IT](https://jobright.ai/jobs/info/68dee57d09bda65a4b62ed4d?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Oct 02 |
 | **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern (Spring 2026)](https://jobright.ai/jobs/info/68dee2fb09bda65a4b62ebbd?utm_campaign=1049&utm_source=git)** | Pittston, PA | Hybrid | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Creative Operations Intern](https://jobright.ai/jobs/info/68dbfdb56f6c5c3fadf35a81?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 30 |
 | **[Fuss & O'Neill](http://www.fando.com)** | **[Internship - Landscape Designer](https://jobright.ai/jobs/info/68dbf11b97329f2f7732144c?utm_campaign=1049&utm_source=git)** | Springfield, MA | Hybrid | Sep 30 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Visual Design Intern](https://jobright.ai/jobs/info/68dbed0297329f2f77320f51?utm_campaign=1049&utm_source=git)** | Marysville, OH | On Site | Sep 30 |
-| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Program Management (Design Team)](https://jobright.ai/jobs/info/68c787ffdb52c07d2884b8ce?utm_campaign=1049&utm_source=git)** | Fort Mill, SC | Hybrid | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
