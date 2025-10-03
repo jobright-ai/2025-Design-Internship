@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hyperquake](https://www.hyperquake.com/)** | **[Experiential Designer: Spring Internship](https://jobright.ai/jobs/info/68e00b28b99ec3563b0cb505?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Design Research Intern - Summer 2026](https://jobright.ai/jobs/info/68e027f61852e62f007e7f49?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 03 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68e026a3f758fe1f97e4a154?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 03 |
+| **[Print Magazine](http://www.printmag.com)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68e01cf61852e62f007e77b9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 03 |
+| **[Quicken Loans](http://www.quickenloans.com/)** | **[Graphic Design Intern - Winter 2026](https://jobright.ai/jobs/info/68e01b1bf758fe1f97e4999b?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 03 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Product Design Intern, Spring 2026](https://jobright.ai/jobs/info/68e012891852e62f007e6f77?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 03 |
+| **[Hyperquake](https://www.hyperquake.com/)** | **[UX Designer: Spring Internship](https://jobright.ai/jobs/info/68e010efb99ec3563b0cb788?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
+| ↳ | **[Experiential Designer: Spring Internship](https://jobright.ai/jobs/info/68e00b28b99ec3563b0cb505?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
 | ↳ | **[Brand Designer: Spring Internship](https://jobright.ai/jobs/info/68e005eab99ec3563b0cb147?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
 | **[SemSem LLC](https://www.semsem.com/)** | **[Photo Retouching & AI Imagery Intern](https://jobright.ai/jobs/info/68dff366b99ec3563b0ca6e7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design \ ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/68dfbf3c1852e62f007e49ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Intereum](http://www.intereum.com)** | **[Design Intern](https://jobright.ai/jobs/info/68df841bfe896042b0b7bb6f?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Oct 03 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68df807b5ab4977c2e95554a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 03 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Prints](https://jobright.ai/jobs/info/68df78d1fe896042b0b7b256?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[UX Intern](https://jobright.ai/jobs/info/68dc453bddc10244dd6737c5?utm_campaign=1049&utm_source=git)** | Overland Park, KS | Hybrid | Sep 30 |
 | **[RealClearPolitics](http://www.realclearpolitics.com)** | **[DC-Based Internship: RealClearPolitics Social & Multimedia Intern](https://jobright.ai/jobs/info/68dc3f92a125e75c4229eb97?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | **[Read Better Be Better](http://www.readbetterbebetter.org)** | **[Social Media and Graphic Design Intern](https://jobright.ai/jobs/info/68dc3ee7a125e75c4229ea29?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Sep 30 |
-| **[Retrofête](https://retrofete.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/68dc2a35d6470e72cf4d9354?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Sep 30 |
-| **[Lawrence Group](http://thelawrencegroup.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68dc25ef97329f2f77322f64?utm_campaign=1049&utm_source=git)** | Greater St. Louis | On Site | Sep 30 |
-| **[ZIMO](www.zimo.me)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68dc1c77d6470e72cf4d8b53?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Sep 30 |
-| **[G-III Apparel Group](https://www.giii.com/)** | **[Design Intern, DKNY Sportswear](https://jobright.ai/jobs/info/68dc15d397329f2f773227d6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Sep 30 |
-| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/68dc110ed6470e72cf4d85df?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
