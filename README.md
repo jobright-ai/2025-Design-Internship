@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Interior Design Co-Op](https://jobright.ai/jobs/info/68e15121b99ec3563b0d7139?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 04 |
 | **[Cushing Terrell](https://cushingterrell.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68e124e1f758fe1f97e54116?utm_campaign=1049&utm_source=git)** | Bozeman, MT | On Site | Oct 04 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/68e12349b99ec3563b0d632e?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Oct 04 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/68e1231ab99ec3563b0d62ec?utm_campaign=1049&utm_source=git)** | Billings, MT | On Site | Oct 04 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Graphic Design & Project Management, Food & Beverage* (Summer 2026)](https://jobright.ai/jobs/info/68e0ea68b99ec3563b0d4f6a?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | **[Cheekwood](https://cheekwood.org)** | **[Retail Intern - Spring 2026](https://jobright.ai/jobs/info/68e0d970b99ec3563b0d440c?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Design Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0a09eb99ec3563b0d16bd?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Oct 03 |
 | **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/68e09777b99ec3563b0d0f74?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
