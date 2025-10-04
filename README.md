@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syntone AI](https://www.linkedin.com/company/108992110)** | **[AI-Enhanced UX Designer Intern (6-Week Design Sprint)](https://jobright.ai/jobs/info/68e18facf758fe1f97e55998?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 04 |
+| **[Grammarly](http://www.grammarly.com)** | **[UX Research Intern (Summer 2026)](https://jobright.ai/jobs/info/68e187b0b99ec3563b0d780e?utm_campaign=1049&utm_source=git)** | San Francisco | On Site | Oct 04 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Interior Design Co-Op](https://jobright.ai/jobs/info/68e15121b99ec3563b0d7139?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 04 |
 | **[Cushing Terrell](https://cushingterrell.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68e124e1f758fe1f97e54116?utm_campaign=1049&utm_source=git)** | Bozeman, MT | On Site | Oct 04 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/68e12349b99ec3563b0d632e?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Oct 04 |
@@ -111,11 +113,10 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Prints](https://jobright.ai/jobs/info/68df78d1fe896042b0b7b256?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 02 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68df280c5ab4977c2e951126?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Oct 02 |
 | **[Continua Interiors](http://continuainteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/68df21b96be63b6ec996c8bc?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Oct 02 |
-| **[Hemut (YC X25)](https://www.hemut.com)** | **[Graphic & Web Design Intern](https://jobright.ai/jobs/info/68df0d6ffe896042b0b7497b?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Brand Design](https://jobright.ai/jobs/info/68df0650fe896042b0b74234?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Graphic Design/Creative Undergraduate Internship](https://jobright.ai/jobs/info/68df0115a125e75c422b9174?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 02 |
 | **[Ball Corporation](http://ball.com)** | **[Intern- Graphics Operations](https://jobright.ai/jobs/info/68df0b1c5ab4977c2e94d95c?utm_campaign=1049&utm_source=git)** | Westminster, CO | On Site | Oct 02 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Creative Design Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def79144d32141e0c045cd?utm_campaign=1049&utm_source=git)** | Green Bay, WI | Hybrid | Oct 02 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Creative Design Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def02644d32141e0c04241?utm_campaign=1049&utm_source=git)** | Green Bay, WI | Hybrid | Oct 02 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - User Experience (UX) - IT](https://jobright.ai/jobs/info/68dee57d09bda65a4b62ed4d?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Oct 02 |
 | **[University of South Florida](http://www.usf.edu)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/68dee76544d32141e0c03b89?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Oct 02 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - UX Designer](https://jobright.ai/jobs/info/68ded1e644d32141e0c02b7c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/68dd7c1044d32141e0bf73fd?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Oct 01 |
 | ↳ | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/68dd7b6044d32141e0bf7248?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Oct 01 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Marketing](https://jobright.ai/jobs/info/68dd7af3a125e75c422ab198?utm_campaign=1049&utm_source=git)** | Omaha MBC Building | On Site | Oct 01 |
-| **[Allegion](https://www.allegion.com)** | **[User Experience (UX) Generalist Intern](https://jobright.ai/jobs/info/68deca3109bda65a4b62db29?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
