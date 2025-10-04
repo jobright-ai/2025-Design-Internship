@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Design Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0a09eb99ec3563b0d16bd?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Oct 03 |
 | **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/68e09777b99ec3563b0d0f74?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
-| **[Li & Fung](http://www.lifung.com)** | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e087ac1852e62f007eba66?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 03 |
+| **[Li & Fung](http://www.lifung.com)** | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e08772b99ec3563b0d0268?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 03 |
 | ↳ | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e08493f758fe1f97e4dd94?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Spring Internship](https://jobright.ai/jobs/info/68e083a61852e62f007eb8a3?utm_campaign=1049&utm_source=git)** | Aspen, CO | On Site | Oct 03 |
 | ↳ | **[2026 Spring Internship](https://jobright.ai/jobs/info/68e082541852e62f007eb7da?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | Oct 03 |
@@ -101,6 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Experiential Designer: Spring Internship](https://jobright.ai/jobs/info/68e00b28b99ec3563b0cb505?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
 | ↳ | **[Brand Designer: Spring Internship](https://jobright.ai/jobs/info/68e005eab99ec3563b0cb147?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
 | **[SemSem LLC](https://www.semsem.com/)** | **[Photo Retouching & AI Imagery Intern](https://jobright.ai/jobs/info/68dff366b99ec3563b0ca6e7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 03 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Media Design Intern](https://jobright.ai/jobs/info/68e0b858f758fe1f97e50727?utm_campaign=1049&utm_source=git)** | College Park, MD | On Site | Oct 03 |
 | **[Intereum](http://www.intereum.com)** | **[Design Intern](https://jobright.ai/jobs/info/68df841bfe896042b0b7bb6f?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Oct 03 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68df807b5ab4977c2e95554a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 03 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Prints](https://jobright.ai/jobs/info/68df78d1fe896042b0b7b256?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MTS Systems Corporation](http://www.mts.com)** | **[2026 Summer Designer/Drafter Internship](https://jobright.ai/jobs/info/68dd638aa125e75c422aa4ac?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Oct 01 |
 | **[Jacobs](http://www.jacobs.com)** | **[User Experience (UX) Designer Intern](https://jobright.ai/jobs/info/68dd5a4944d32141e0bf5ed2?utm_campaign=1049&utm_source=git)** | United States-Texas-Houston-20331-ESCG | Hybrid | Oct 01 |
 | ↳ | **[User Experience (UX) Designer Intern](https://jobright.ai/jobs/info/68dd5a14a125e75c422a9eb2?utm_campaign=1049&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | Hybrid | Oct 01 |
-| **[ParthenonPro](https://www.parthenonpro.com)** | **[Intern](https://jobright.ai/jobs/info/68df5e92fe896042b0b7a058?utm_campaign=1049&utm_source=git)** | Oxford, MS | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
