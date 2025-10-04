@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cogensus](www.cogensus.com/)** | **[Graphic Design and UI/UX Intern](https://jobright.ai/jobs/info/68e075e5b99ec3563b0cf9ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 03 |
+| **[RJMedex](https://rjmedex.com/)** | **[UX/UI with Strong Backend Development Internship Remote](https://jobright.ai/jobs/info/68e075bc1852e62f007eb1c3?utm_campaign=1049&utm_source=git)** | Columbia, MD | Remote | Oct 03 |
+| **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/68e07076b99ec3563b0cf73e?utm_campaign=1049&utm_source=git)** | Hollywood, CA | On Site | Oct 03 |
+| **[Cheekwood](https://cheekwood.org)** | **[Retail Intern - Spring 2026](https://jobright.ai/jobs/info/68e06fe4f758fe1f97e4d0f1?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Oct 03 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[UX Designer (Academic Credit Only)](https://jobright.ai/jobs/info/68e05dc4f758fe1f97e4cb74?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Oct 03 |
 | **[Opportune - Digital & Physical Design Collective](https://www.opportunedesignco.com)** | **[User Experience Intern, Research](https://jobright.ai/jobs/info/68e05d64f758fe1f97e4cb31?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Grammarly](http://www.grammarly.com)** | **[UX Research Intern (Summer 2026)](https://jobright.ai/jobs/info/68e05cc6f758fe1f97e4caca?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 03 |
@@ -118,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Creative Services  Intern, Spring 2026](https://jobright.ai/jobs/info/68de669c44d32141e0bffeee?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 02 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68de012609bda65a4b625f88?utm_campaign=1049&utm_source=git)** | Oshkosh, WI | On Site | Oct 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddda4444d32141e0bfb380?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Oct 01 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddd64e09bda65a4b6246e9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - UX Researcher](https://jobright.ai/jobs/info/68ddd382a125e75c422af41b?utm_campaign=1049&utm_source=git)** | Irving, TX | Hybrid | Oct 01 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddd64e09bda65a4b6246e9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 01 |
 | **[Van Wyck & Van Wyck](https://www.vanwyck.net)** | **[Event Design Intern](https://jobright.ai/jobs/info/68dea03fa125e75c422b5542?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Technical Apparel/Gear Internship / Summer 2026 / Klim & 509](https://jobright.ai/jobs/info/68ddcc8c09bda65a4b6245a7?utm_campaign=1049&utm_source=git)** | Rigby, ID, USA | On Site | Oct 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/68dda911ddc10244dd682aa6?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Oct 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68dd24edddc10244dd67cbc9?utm_campaign=1049&utm_source=git)** | US - MD, Annapolis Junction | On Site | Oct 01 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68dd24d6ddc10244dd67cb95?utm_campaign=1049&utm_source=git)** | US - TN, Kingsport | On Site | Oct 01 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68dd24b5a125e75c422a8187?utm_campaign=1049&utm_source=git)** | US - TN, Kingsport | On Site | Oct 01 |
-| **[ParsonsKellogg](https://parsonskellogg.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68dd24a7a125e75c422a816c?utm_campaign=1049&utm_source=git)** | US - TX, San Antonio | On Site | Oct 01 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68dd24a244d32141e0bf40fc?utm_campaign=1049&utm_source=git)** | US - TX, San Antonio | On Site | Oct 01 |
-| **[ParsonsKellogg](https://parsonskellogg.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68dd248c44d32141e0bf40c9?utm_campaign=1049&utm_source=git)** | US - MD, Annapolis Junction | On Site | Oct 01 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68cea224fb49c96ca6ea2568?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
