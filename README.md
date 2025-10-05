@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Digital & Design Internship Spring 2026](https://jobright.ai/jobs/info/68e2d765b99ec3563b0dd06b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Graphic Design/Creative Undergraduate Internship](https://jobright.ai/jobs/info/68e253c0f758fe1f97e5a0fa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Craft & Embellishment](https://jobright.ai/jobs/info/68e2342cf758fe1f97e59814?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 05 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Architectural Intern (Volunteer Internship)](https://jobright.ai/jobs/info/68e1a2e31852e62f007f348e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/68dd8b7644d32141e0bf7dee?utm_campaign=1049&utm_source=git)** | Utah | On Site | Oct 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd873e44d32141e0bf79d7?utm_campaign=1049&utm_source=git)** | Escondido, CA | On Site | Oct 01 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd8337ddc10244dd680199?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 01 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/68dd7c1044d32141e0bf73fd?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
