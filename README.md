@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Graphic Design/Creative Undergraduate Internship](https://jobright.ai/jobs/info/68e253c0f758fe1f97e5a0fa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Craft & Embellishment](https://jobright.ai/jobs/info/68e2342cf758fe1f97e59814?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 05 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Architectural Intern (Volunteer Internship)](https://jobright.ai/jobs/info/68e1a2e31852e62f007f348e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | **[Grammarly](http://www.grammarly.com)** | **[UX Research Intern (Summer 2026)](https://jobright.ai/jobs/info/68e187b0b99ec3563b0d780e?utm_campaign=1049&utm_source=git)** | San Francisco | On Site | Oct 04 |
@@ -68,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Mary Square, LLC ](https://www.marysquare.com)** | **[Print Design Intern](https://jobright.ai/jobs/info/68e1e970f758fe1f97e56b31?utm_campaign=1049&utm_source=git)** | Apex, NC | On Site | Oct 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Design Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0a09eb99ec3563b0d16bd?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Oct 03 |
 | **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/68e09777b99ec3563b0d0f74?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
-| **[Li & Fung](http://www.lifung.com)** | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e08772b99ec3563b0d0268?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 03 |
+| **[Li & Fung](http://www.lifung.com)** | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e087ac1852e62f007eba66?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 03 |
 | ↳ | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e08493f758fe1f97e4dd94?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Spring Internship](https://jobright.ai/jobs/info/68e083a61852e62f007eb8a3?utm_campaign=1049&utm_source=git)** | Aspen, CO | On Site | Oct 03 |
 | ↳ | **[2026 Spring Internship](https://jobright.ai/jobs/info/68e082541852e62f007eb7da?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | Oct 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/68dd8b7644d32141e0bf7dee?utm_campaign=1049&utm_source=git)** | Utah | On Site | Oct 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd873e44d32141e0bf79d7?utm_campaign=1049&utm_source=git)** | Escondido, CA | On Site | Oct 01 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd8337ddc10244dd680199?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 01 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/68dd7c1044d32141e0bf73fd?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
