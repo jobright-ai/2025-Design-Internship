@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Themed Finishing Intern, Spring 2026](https://jobright.ai/jobs/info/68e438971852e62f0080326f?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Oct 06 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part time Digital Designer (Strive to Be) Intern](https://jobright.ai/jobs/info/68e432f7f758fe1f97e65497?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Oct 06 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Visual Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e430fc1852e62f00802bb4?utm_campaign=1049&utm_source=git)** | Glendale, CA | Hybrid | Oct 06 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Design, The Trust](https://jobright.ai/jobs/info/68e42d68b99ec3563b0e718e?utm_campaign=1049&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 06 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68e42ccbb99ec3563b0e70d7?utm_campaign=1049&utm_source=git)** | Lone Tree, CO | On Site | Oct 06 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Visual Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e41c1ab99ec3563b0e6278?utm_campaign=1049&utm_source=git)** | 1000 Flower St, Glendale, CA 91201, USA | On Site | Oct 06 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part time Digital Designer (Strive to Be) Intern](https://jobright.ai/jobs/info/68e413431852e62f00800dcc?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 06 |
 | **[SEPHORA](https://www.sephora.com)** | **[Design Intern, Marketing - Fragrance](https://jobright.ai/jobs/info/68e40e33f758fe1f97e630ed?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Oct 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Axos Bank](https://www.axosbank.com/)** | **[Content Creation Intern - Fall 2025](https://jobright.ai/jobs/info/68deacea09bda65a4b62cb20?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - UX/UI Designer - Michigan](https://jobright.ai/jobs/info/68dea30a09bda65a4b62c5b1?utm_campaign=1049&utm_source=git)** | Portage, MI | Remote | Oct 02 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68de906744d32141e0c00bfe?utm_campaign=1049&utm_source=git)** | Omaha Metropolitan Area | On Site | Oct 02 |
-| **[Carnival Corporation](http://carnivalcorp.com)** | **[Design & Construction Architecture - Summer 2026 Intern](https://jobright.ai/jobs/info/68de8d6609bda65a4b62b23c?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 02 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern -  UX/UI Designer - Michigan](https://jobright.ai/jobs/info/68de8af7a125e75c422b4c91?utm_campaign=1049&utm_source=git)** | Portage, Michigan | Hybrid | Oct 02 |
-| **[Princess Cruises](http://www.princess.com)** | **[Design & Construction Architecture - Summer 2026 Intern](https://jobright.ai/jobs/info/68de8bad44d32141e0c0092c?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 02 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Graphic Design](https://jobright.ai/jobs/info/68de7ef5a125e75c422b47d1?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 02 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Creative Services  Intern, Spring 2026](https://jobright.ai/jobs/info/68de669c44d32141e0bffeee?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
