@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amtrak](https://www.amtrak.com/)** | **[Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/68e39d4fb99ec3563b0e19f2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 06 |
+| **[Storr Office Environments](https://www.storr.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e39b741852e62f007fd0a7?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Oct 06 |
+| **[MillerKnoll](http://www.millerknoll.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e3997ef758fe1f97e5f7fd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Design Research](https://jobright.ai/jobs/info/68e38faff758fe1f97e5f3a6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Oct 06 |
 | **[New Renaissance Art Advisory](https://www.newrenaissanceartadvisory.com/)** | **[Content Intern](https://jobright.ai/jobs/info/68e371c8b99ec3563b0e050e?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Print Magazine](http://www.printmag.com)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68e368bef758fe1f97e5d884?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Oct 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/68dda86fddc10244dd682968?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Oct 01 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68dd9ff2a125e75c422ad810?utm_campaign=1049&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 01 |
 | ↳ | **[Industrial Design Intern](https://jobright.ai/jobs/info/68dd9f91ddc10244dd6821a9?utm_campaign=1049&utm_source=git)** | Madison, Wisconsin, United States | On Site | Oct 01 |
-| **[Anonyome Labs, Inc.](https://anonyome.com/)** | **[Internship - Graphic Design (Summer 2026)](https://jobright.ai/jobs/info/68dd9f5ea125e75c422ad4b2?utm_campaign=1049&utm_source=git)** | South Jordan, UT | Hybrid | Oct 01 |
-| **[Bluejack National](https://www.bluejacknational.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68dd95d144d32141e0bf884b?utm_campaign=1049&utm_source=git)** | Aledo, TX | On Site | Oct 01 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - UX Researcher](https://jobright.ai/jobs/info/68dd925a44d32141e0bf860f?utm_campaign=1049&utm_source=git)** | 220 E Las Colinas blvd, Irving, TX, 75039, US | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
