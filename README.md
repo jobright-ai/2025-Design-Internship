@@ -69,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Cheekwood](https://cheekwood.org)** | **[Retail Intern - Spring 2026](https://jobright.ai/jobs/info/68e0d970b99ec3563b0d440c?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Design Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0a09eb99ec3563b0d16bd?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Oct 03 |
 | **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/68e09777b99ec3563b0d0f74?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
-| **[Li & Fung](http://www.lifung.com)** | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e087ac1852e62f007eba66?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 03 |
+| **[Li & Fung](http://www.lifung.com)** | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e08772b99ec3563b0d0268?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 03 |
 | ↳ | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e08493f758fe1f97e4dd94?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Spring Internship](https://jobright.ai/jobs/info/68e083a61852e62f007eb8a3?utm_campaign=1049&utm_source=git)** | Aspen, CO | On Site | Oct 03 |
 | ↳ | **[2026 Spring Internship](https://jobright.ai/jobs/info/68e082541852e62f007eb7da?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | Oct 03 |
@@ -139,9 +139,9 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WPVI-TV (6abc) Creative Services  Intern, Spring 2026](https://jobright.ai/jobs/info/68de669c44d32141e0bffeee?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 02 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Graphic Design/Creative Undergraduate Internship](https://jobright.ai/jobs/info/68e22e9c1852e62f007f6edc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 02 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68de012609bda65a4b625f88?utm_campaign=1049&utm_source=git)** | Oshkosh, WI | On Site | Oct 01 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddda4444d32141e0bfb380?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Oct 01 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - UX Researcher](https://jobright.ai/jobs/info/68ddd382a125e75c422af41b?utm_campaign=1049&utm_source=git)** | Irving, TX | Hybrid | Oct 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddd64e09bda65a4b6246e9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 01 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddda4444d32141e0bfb380?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Oct 01 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - UX Researcher](https://jobright.ai/jobs/info/68ddd382a125e75c422af41b?utm_campaign=1049&utm_source=git)** | Irving, TX | Hybrid | Oct 01 |
 | **[Van Wyck & Van Wyck](https://www.vanwyck.net)** | **[Event Design Intern](https://jobright.ai/jobs/info/68dea03fa125e75c422b5542?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Technical Apparel/Gear Internship / Summer 2026 / Klim & 509](https://jobright.ai/jobs/info/68ddcc8c09bda65a4b6245a7?utm_campaign=1049&utm_source=git)** | Rigby, ID, USA | On Site | Oct 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/68dda911ddc10244dd682aa6?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Oct 01 |
