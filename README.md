@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Digital & Client Experience (Design)](https://jobright.ai/jobs/info/68e3c7def758fe1f97e6070c?utm_campaign=1049&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: Digital & Client Experience (Design)](https://jobright.ai/jobs/info/68e3c69eb99ec3563b0e26f5?utm_campaign=1049&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/68e39d4fb99ec3563b0e19f2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 06 |
 | **[Storr Office Environments](https://www.storr.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e39b741852e62f007fd0a7?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Oct 06 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e3997ef758fe1f97e5f7fd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 06 |
@@ -80,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Cheekwood](https://cheekwood.org)** | **[Retail Intern - Spring 2026](https://jobright.ai/jobs/info/68e0d970b99ec3563b0d440c?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Design Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0a09eb99ec3563b0d16bd?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Oct 03 |
 | **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/68e09777b99ec3563b0d0f74?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
-| **[Li & Fung](http://www.lifung.com)** | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e087ac1852e62f007eba66?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 03 |
+| **[Li & Fung](http://www.lifung.com)** | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e08772b99ec3563b0d0268?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 03 |
 | ↳ | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e08493f758fe1f97e4dd94?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Spring Internship](https://jobright.ai/jobs/info/68e083a61852e62f007eb8a3?utm_campaign=1049&utm_source=git)** | Aspen, CO | On Site | Oct 03 |
 | ↳ | **[2026 Spring Internship](https://jobright.ai/jobs/info/68e082541852e62f007eb7da?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | Oct 03 |
@@ -118,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Hyperquake](https://www.hyperquake.com/)** | **[UX Designer: Spring Internship](https://jobright.ai/jobs/info/68e010efb99ec3563b0cb788?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
 | ↳ | **[Experiential Designer: Spring Internship](https://jobright.ai/jobs/info/68e00b28b99ec3563b0cb505?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
 | ↳ | **[Brand Designer: Spring Internship](https://jobright.ai/jobs/info/68e005eab99ec3563b0cb147?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
+| **[Electro Gum](https://www.linkedin.com/company/107151260)** | **[Internship Opportunity: Graphic Designer at Electro & NIL Academy](https://jobright.ai/jobs/info/68decbf009bda65a4b62dbfc?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Oct 03 |
 | **[Intereum](http://www.intereum.com)** | **[Design Intern](https://jobright.ai/jobs/info/68df841bfe896042b0b7bb6f?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Oct 03 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68df807b5ab4977c2e95554a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 03 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Prints](https://jobright.ai/jobs/info/68df78d1fe896042b0b7b256?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Polaris Inc.](https://www.polaris.com)** | **[Technical Apparel/Gear Internship / Summer 2026 / Klim & 509](https://jobright.ai/jobs/info/68ddcc8c09bda65a4b6245a7?utm_campaign=1049&utm_source=git)** | Rigby, ID, USA | On Site | Oct 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/68dda911ddc10244dd682aa6?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Oct 01 |
 | **[Amentum](https://www.amentum.com/)** | **[User Experience (UX) Designer Intern](https://jobright.ai/jobs/info/68dda8c1ddc10244dd682a0b?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Oct 01 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/68dda86fddc10244dd682968?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Oct 01 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68dd9ff2a125e75c422ad810?utm_campaign=1049&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 01 |
-| ↳ | **[Industrial Design Intern](https://jobright.ai/jobs/info/68dd9f91ddc10244dd6821a9?utm_campaign=1049&utm_source=git)** | Madison, Wisconsin, United States | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
