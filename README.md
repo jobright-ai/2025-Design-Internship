@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Design Research](https://jobright.ai/jobs/info/68e38faff758fe1f97e5f3a6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Oct 06 |
 | **[New Renaissance Art Advisory](https://www.newrenaissanceartadvisory.com/)** | **[Content Intern](https://jobright.ai/jobs/info/68e371c8b99ec3563b0e050e?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Print Magazine](http://www.printmag.com)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68e368bef758fe1f97e5d884?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Oct 05 |
-| **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Marketing & Graphic Design Internship](https://jobright.ai/jobs/info/68e30766b99ec3563b0dd413?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Digital & Design Internship Spring 2026](https://jobright.ai/jobs/info/68e2d765b99ec3563b0dd06b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 05 |
 | **[Web Management Consultants Ltd](https://www.webmanagementconsultants.co.uk)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68e3322eb99ec3563b0ddb17?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Oct 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Graphic Design/Creative Undergraduate Internship](https://jobright.ai/jobs/info/68e253c0f758fe1f97e5a0fa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Craft & Embellishment](https://jobright.ai/jobs/info/68e2342cf758fe1f97e59814?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 05 |
+| **[American Structurepoint](http://structurepoint.com)** | **[Interior Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68df7ed26be63b6ec997097c?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Oct 04 |
 | **[Nori Productions](https://theosmith.art)** | **[2D Character Designer (PRE-PRODUCTION)](https://jobright.ai/jobs/info/68e35560f758fe1f97e5cdd9?utm_campaign=1049&utm_source=git)** | LA Metro Area | Remote | Oct 04 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Architectural Intern (Volunteer Internship)](https://jobright.ai/jobs/info/68e1a2e31852e62f007f348e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | **[Grammarly](http://www.grammarly.com)** | **[UX Research Intern (Summer 2026)](https://jobright.ai/jobs/info/68e187b0b99ec3563b0d780e?utm_campaign=1049&utm_source=git)** | San Francisco | On Site | Oct 04 |
@@ -122,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Graphic Design/Creative Undergraduate Internship](https://jobright.ai/jobs/info/68e212c4f758fe1f97e57df2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 02 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Brand Design](https://jobright.ai/jobs/info/68df0650fe896042b0b74234?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Ball Corporation](http://ball.com)** | **[Intern- Graphics Operations](https://jobright.ai/jobs/info/68df0b1c5ab4977c2e94d95c?utm_campaign=1049&utm_source=git)** | Westminster, CO | On Site | Oct 02 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Creative Design Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def02644d32141e0c04241?utm_campaign=1049&utm_source=git)** | Green Bay, WI | Hybrid | Oct 02 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Creative Design Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def79144d32141e0c045cd?utm_campaign=1049&utm_source=git)** | Green Bay, WI | Hybrid | Oct 02 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - User Experience (UX) - IT](https://jobright.ai/jobs/info/68dee57d09bda65a4b62ed4d?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Oct 02 |
 | **[University of South Florida](http://www.usf.edu)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/68dee76544d32141e0c03b89?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Oct 02 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - UX Designer](https://jobright.ai/jobs/info/68ded1e644d32141e0c02b7c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Anonyome Labs, Inc.](https://anonyome.com/)** | **[Internship - Graphic Design (Summer 2026)](https://jobright.ai/jobs/info/68dd9f5ea125e75c422ad4b2?utm_campaign=1049&utm_source=git)** | South Jordan, UT | Hybrid | Oct 01 |
 | **[Bluejack National](https://www.bluejacknational.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68dd95d144d32141e0bf884b?utm_campaign=1049&utm_source=git)** | Aledo, TX | On Site | Oct 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - UX Researcher](https://jobright.ai/jobs/info/68dd925a44d32141e0bf860f?utm_campaign=1049&utm_source=git)** | 220 E Las Colinas blvd, Irving, TX, 75039, US | Hybrid | Oct 01 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/68dd920ca125e75c422ac55d?utm_campaign=1049&utm_source=git)** | Portland, Oregon | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
