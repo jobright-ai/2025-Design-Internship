@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Early Talent Internship: Digital & Client Experience (Design)](https://jobright.ai/jobs/info/68e3c7def758fe1f97e6070c?utm_campaign=1049&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Digital & Client Experience (Design)](https://jobright.ai/jobs/info/68e3c69eb99ec3563b0e26f5?utm_campaign=1049&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/68e39d4fb99ec3563b0e19f2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 06 |
-| **[JML Landscape Management](https://www.jmllandscape.com/)** | **[Landscape Internship](https://jobright.ai/jobs/info/68e4fd98ae2b894b1d70a3d2?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Oct 06 |
 | **[Storr Office Environments](https://www.storr.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e39b741852e62f007fd0a7?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Oct 06 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e3997ef758fe1f97e5f7fd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | **[New Renaissance Art Advisory](https://www.newrenaissanceartadvisory.com/)** | **[Content Intern](https://jobright.ai/jobs/info/68e371c8b99ec3563b0e050e?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hyperquake](https://www.hyperquake.com/)** | **[UX Designer: Spring Internship](https://jobright.ai/jobs/info/68e010efb99ec3563b0cb788?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
 | ↳ | **[Experiential Designer: Spring Internship](https://jobright.ai/jobs/info/68e00b28b99ec3563b0cb505?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
 | ↳ | **[Brand Designer: Spring Internship](https://jobright.ai/jobs/info/68e005eab99ec3563b0cb147?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
+| **[Electro Gum](https://www.linkedin.com/company/107151260)** | **[Internship Opportunity: Graphic Designer at Electro & NIL Academy](https://jobright.ai/jobs/info/68decbf009bda65a4b62dbfc?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
