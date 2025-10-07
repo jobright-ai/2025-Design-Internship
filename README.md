@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LMN Architects](http://lmnarchitects.com)** | **[Intern Interior Designer](https://jobright.ai/jobs/info/68e464e9f758fe1f97e67c50?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Oct 06 |
+| **[Promega Corporation ](http://www.promega.com/es)** | **[Multimedia Communications Intern](https://jobright.ai/jobs/info/68e4641ff758fe1f97e67b37?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 06 |
+| **[Humane](https://humane.com)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e45ba81852e62f008050f2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 06 |
 | **[Syntone AI](https://www.linkedin.com/company/108992110)** | **[UX Designer Intern (Unpaid – 6-Week Design Sprint, Equity Potential)](https://jobright.ai/jobs/info/68e45157b99ec3563b0e9315?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 06 |
 | **[TikWave Agency](https://www.linkedin.com/company/103753719)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68e44fac1852e62f00804ae9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Ops Label & Kit Design Intern - Summer 2026](https://jobright.ai/jobs/info/68e44d8ab99ec3563b0e8d7e?utm_campaign=1049&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - UX Designer](https://jobright.ai/jobs/info/68ded1e644d32141e0c02b7c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 02 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Content Creation Intern - Fall 2025](https://jobright.ai/jobs/info/68deecbc09bda65a4b62eeca?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Product Design Intern, Spring 2026](https://jobright.ai/jobs/info/68decd0a44d32141e0c026e9?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Oct 02 |
-| **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern (Spring 2026)](https://jobright.ai/jobs/info/68dee2fb09bda65a4b62ebbd?utm_campaign=1049&utm_source=git)** | Pittston, PA | Hybrid | Oct 02 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - UX Intern - IT](https://jobright.ai/jobs/info/68defb0809bda65a4b62f6db?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 02 |
-| **[USF College of Nursing](http://health.usf.edu/nursing)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/68deac8a09bda65a4b62ca4f?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
