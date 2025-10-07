@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Exhibition Design Intern: Spring](https://jobright.ai/jobs/info/68e533e11852e62f0080ceb2?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Marketing and Graphic Design Internship- Summer 2026](https://jobright.ai/jobs/info/68e548ad1852e62f0080dccf?utm_campaign=1049&utm_source=git)** | Midwest Heritage, Ep True Parkway, West Des Moines, IA | On Site | Oct 07 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Exhibition Design Intern: Spring](https://jobright.ai/jobs/info/68e53472b99ec3563b0f15bc?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68e52989ae2b894b1d70b55c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 07 |
+| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Paid Internship - Collection Management Copyright Spring 2026](https://jobright.ai/jobs/info/68e53a31b99ec3563b0f1b4c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Oct 07 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part time Digital Designer (Strive to Be) Intern](https://jobright.ai/jobs/info/68e48244f758fe1f97e68f4d?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Oct 06 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68e4818bf758fe1f97e68e7a?utm_campaign=1049&utm_source=git)** | Lone Tree, CO | On Site | Oct 06 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - YA Weekly Design](https://jobright.ai/jobs/info/68e47fe61852e62f00806777?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Print Magazine](http://www.printmag.com)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68e01cf61852e62f007e77b9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 03 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Graphic Design Intern - Winter 2026](https://jobright.ai/jobs/info/68e01b1bf758fe1f97e4999b?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Product Design Intern, Spring 2026](https://jobright.ai/jobs/info/68e012891852e62f007e6f77?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 03 |
-| **[Hyperquake](https://www.hyperquake.com/)** | **[UX Designer: Spring Internship](https://jobright.ai/jobs/info/68e010efb99ec3563b0cb788?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
-| ↳ | **[Experiential Designer: Spring Internship](https://jobright.ai/jobs/info/68e00b28b99ec3563b0cb505?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
