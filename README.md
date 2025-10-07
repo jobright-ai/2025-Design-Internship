@@ -70,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Humane](https://humane.com)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e45ba81852e62f008050f2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 06 |
 | **[TikWave Agency](https://www.linkedin.com/company/103753719)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68e44fac1852e62f00804ae9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Ops Label & Kit Design Intern - Summer 2026](https://jobright.ai/jobs/info/68e44d8ab99ec3563b0e8d7e?utm_campaign=1049&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
-| ↳ | **[Commercial CX Analytics Intern](https://jobright.ai/jobs/info/68e446b1b99ec3563b0e865b?utm_campaign=1049&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
+| ↳ | **[Commercial CX Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68e446b1b99ec3563b0e865b?utm_campaign=1049&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Themed Finishing Intern, Spring 2026](https://jobright.ai/jobs/info/68e438971852e62f0080326f?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Oct 06 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part time Digital Designer (Strive to Be) Intern](https://jobright.ai/jobs/info/68e432f7f758fe1f97e65497?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Oct 06 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Visual Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e430fc1852e62f00802bb4?utm_campaign=1049&utm_source=git)** | Glendale, CA | Hybrid | Oct 06 |
@@ -113,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Cheekwood](https://cheekwood.org)** | **[Retail Intern - Spring 2026](https://jobright.ai/jobs/info/68e0d970b99ec3563b0d440c?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Design Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0a09eb99ec3563b0d16bd?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Oct 03 |
 | **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Design Intern](https://jobright.ai/jobs/info/68e09777b99ec3563b0d0f74?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
-| **[Li & Fung](http://www.lifung.com)** | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e08772b99ec3563b0d0268?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 03 |
+| **[Li & Fung](http://www.lifung.com)** | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e087ac1852e62f007eba66?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 03 |
 | ↳ | **[Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/68e08493f758fe1f97e4dd94?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Spring Internship](https://jobright.ai/jobs/info/68e083a61852e62f007eb8a3?utm_campaign=1049&utm_source=git)** | Aspen, CO | On Site | Oct 03 |
 | ↳ | **[2026 Spring Internship](https://jobright.ai/jobs/info/68e082541852e62f007eb7da?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | Oct 03 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Hyperquake](https://www.hyperquake.com/)** | **[UX Designer: Spring Internship](https://jobright.ai/jobs/info/68e010efb99ec3563b0cb788?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
 | ↳ | **[Experiential Designer: Spring Internship](https://jobright.ai/jobs/info/68e00b28b99ec3563b0cb505?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
 | ↳ | **[Brand Designer: Spring Internship](https://jobright.ai/jobs/info/68e005eab99ec3563b0cb147?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
-| **[Electro Gum](https://www.linkedin.com/company/107151260)** | **[Internship Opportunity: Graphic Designer at Electro & NIL Academy](https://jobright.ai/jobs/info/68decbf009bda65a4b62dbfc?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Oct 03 |
 | **[Intereum](http://www.intereum.com)** | **[Design Intern](https://jobright.ai/jobs/info/68df841bfe896042b0b7bb6f?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Oct 03 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68df807b5ab4977c2e95554a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 03 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Prints](https://jobright.ai/jobs/info/68df78d1fe896042b0b7b256?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 02 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68df280c5ab4977c2e951126?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Oct 02 |
 | **[Continua Interiors](http://continuainteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/68df21b96be63b6ec996c8bc?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Oct 02 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Graphic Design/Creative Undergraduate Internship](https://jobright.ai/jobs/info/68e212c4f758fe1f97e57df2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 02 |
+| **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Brand Design](https://jobright.ai/jobs/info/68df0650fe896042b0b74234?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
