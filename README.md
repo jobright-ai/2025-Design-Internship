@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H7 BioCapital](https://h7biocapital.com)** | **[Graphic Design Internship (Remote)](https://jobright.ai/jobs/info/68e6bc921852e62f0081decb?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 08 |
+| **[Deca Defense](https://www.decadefense.com/)** | **[/ Internship: Graphic Designer / Digital Designer / Visual Design / ITAR / U.S.Citizen](https://jobright.ai/jobs/info/68e6b7cfe8daec61499ade28?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 08 |
+| **[Champions Group Holdings](http://ChampionsGroupHoldings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e6b5e1e8daec61499adc38?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | Oct 08 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e6b04ce8daec61499ad6e1?utm_campaign=1049&utm_source=git)** | Brea, CA | Hybrid | Oct 08 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68e6b022e8daec61499ad6bb?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 08 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Interior Designer, Summer 2026](https://jobright.ai/jobs/info/68e699f0e8daec61499ac9d1?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Oct 08 |
 | **[Red Elephant Digital Media](https://www.redelephantdigital.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/68e69941e8daec61499ac925?utm_campaign=1049&utm_source=git)** | Muncie, IN | On Site | Oct 08 |
 | **[ALIENANT](https://www.alienantofficial.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68e67f24e8daec61499ab91d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 08 |
@@ -112,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Find Me](https://fyndme.co)** | **[Motion Designer - Internship (Unpaid)](https://jobright.ai/jobs/info/68e569a21852e62f0080f985?utm_campaign=1049&utm_source=git)** | Greater Boston | On Site | Oct 07 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Marketing and Graphic Design Internship- Summer 2026](https://jobright.ai/jobs/info/68e548ad1852e62f0080dccf?utm_campaign=1049&utm_source=git)** | Midwest Heritage, Ep True Parkway, West Des Moines, IA | On Site | Oct 07 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibition Design Intern: Spring](https://jobright.ai/jobs/info/68e56820b99ec3563b0f3e49?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Exhibition Design Intern: Spring](https://jobright.ai/jobs/info/68e533e11852e62f0080ceb2?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Exhibition Design Intern: Spring](https://jobright.ai/jobs/info/68e53472b99ec3563b0f15bc?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68e52989ae2b894b1d70b55c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 07 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Paid Internship - Collection Management Copyright Spring 2026](https://jobright.ai/jobs/info/68e53a31b99ec3563b0f1b4c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Oct 07 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Commercial CX Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68e476f6f758fe1f97e689b4?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 06 |
@@ -143,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part time Digital Designer (Strive to Be) Intern](https://jobright.ai/jobs/info/68e413431852e62f00800dcc?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 06 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68e4f3fd1852e62f0080b072?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, USA | On Site | Oct 06 |
 | ↳ | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68e4f3f11852e62f0080b06a?utm_campaign=1049&utm_source=git)** | San Diego, CA, USA | On Site | Oct 06 |
-| ↳ | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68e4f457ae2b894b1d70a17e?utm_campaign=1049&utm_source=git)** | St. Louis, MO, USA | On Site | Oct 06 |
 | ↳ | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68e4f457ae2b894b1d70a17f?utm_campaign=1049&utm_source=git)** | Tustin, CA, USA | On Site | Oct 06 |
+| ↳ | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68e4f457ae2b894b1d70a17e?utm_campaign=1049&utm_source=git)** | St. Louis, MO, USA | On Site | Oct 06 |
 | ↳ | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68e4f4ac1852e62f0080b0b5?utm_campaign=1049&utm_source=git)** | Raleigh, NC, USA | On Site | Oct 06 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40d98f758fe1f97e6305d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 06 |
 | ↳ | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Digital & Client Experience (Design)](https://jobright.ai/jobs/info/68e3df911852e62f007fed03?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
 | **[Eden & Co. Interior Design](http://edencointeriordesign.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68e5f5721852e62f00816a32?utm_campaign=1049&utm_source=git)** | South Jordan, UT | On Site | Oct 06 |
 | **[Northern Kentucky Christian Basketball League (NKYCBL)](https://www.nkycbleague.com)** | **[Visual Media Intern (Unpaid)](https://jobright.ai/jobs/info/68e3d76bf758fe1f97e60dba?utm_campaign=1049&utm_source=git)** | Highland Heights, KY | On Site | Oct 06 |
-| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Digital & Client Experience (Design)](https://jobright.ai/jobs/info/68e3d593b99ec3563b0e2e2d?utm_campaign=1049&utm_source=git)** | Iselin, NJ | On Site | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Digital & Client Experience (Design)](https://jobright.ai/jobs/info/68e3c7def758fe1f97e6070c?utm_campaign=1049&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Digital & Client Experience (Design)](https://jobright.ai/jobs/info/68e3c69eb99ec3563b0e26f5?utm_campaign=1049&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
-| **[Amtrak](https://www.amtrak.com/)** | **[Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/68e39d4fb99ec3563b0e19f2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 06 |
-| **[Storr Office Environments](https://www.storr.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e39b741852e62f007fd0a7?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
