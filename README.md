@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Interior Designer, Summer 2026](https://jobright.ai/jobs/info/68e699f0e8daec61499ac9d1?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Oct 08 |
+| **[Red Elephant Digital Media](https://www.redelephantdigital.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/68e69941e8daec61499ac925?utm_campaign=1049&utm_source=git)** | Muncie, IN | On Site | Oct 08 |
 | **[ALIENANT](https://www.alienantofficial.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68e67f24e8daec61499ab91d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: UX/UI Design Intern (May to August)](https://jobright.ai/jobs/info/68cbfddf16d00d2beeb17d23?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
+| **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/68cd1a4f1ad6b16f02894ef9?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 08 |
+| **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Graphic Design Intern - Student Service](https://jobright.ai/jobs/info/68e69a7f1852e62f0081c94e?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Oct 08 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Studio Production Artist Intern (May to August)](https://jobright.ai/jobs/info/68ca53a85f9f0336447dbdc7?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
+| ↳ | **[Summer 2026: UX/UI Design Intern (May to August)](https://jobright.ai/jobs/info/68cbfddf16d00d2beeb17d23?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
 | ↳ | **[Summer 2026: Product Design Engineering Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ca52285f9f0336447dba99?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
 | ↳ | **[Summer 2026: Creative Operations Intern (May to August)](https://jobright.ai/jobs/info/68cea715846f0b04af67c0d0?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Oct 08 |
 | ↳ | **[Summer 2026: Product Design Engineering Intern, Shark (May to August)](https://jobright.ai/jobs/info/68ce4e1d846f0b04af67805d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
@@ -88,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - GMO Events Team Designer](https://jobright.ai/jobs/info/68e5953eae2b894b1d711617?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 07 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Design Intern](https://jobright.ai/jobs/info/68e58aee1852e62f00811b29?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
 | ↳ | **[UX Intern](https://jobright.ai/jobs/info/68e58a71ae2b894b1d710c5b?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
-| **[The Branding Boutique LA](https://thebrandingboutiquela.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/68e57780b99ec3563b0f4dd7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 07 |
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - UX Product Design](https://jobright.ai/jobs/info/68e57739ae2b894b1d70f5eb?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Oct 07 |
 | ↳ | **[Embark Intern - UX Product Design](https://jobright.ai/jobs/info/68e572f0ae2b894b1d70f3cc?utm_campaign=1049&utm_source=git)** | KANSAS CITY, Missouri | On Site | Oct 07 |
 | **[PrizePicks](https://prizepicks.com)** | **[User Experience Research Intern - Spring 2026](https://jobright.ai/jobs/info/68e5720fb99ec3563b0f4a3b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Early Talent Internship: Digital & Client Experience (Design)](https://jobright.ai/jobs/info/68e3c69eb99ec3563b0e26f5?utm_campaign=1049&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/68e39d4fb99ec3563b0e19f2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 06 |
 | **[Storr Office Environments](https://www.storr.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e39b741852e62f007fd0a7?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Oct 06 |
-| **[MillerKnoll](http://www.millerknoll.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e3997ef758fe1f97e5f7fd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 06 |
-| **[New Renaissance Art Advisory](https://www.newrenaissanceartadvisory.com/)** | **[Content Intern](https://jobright.ai/jobs/info/68e371c8b99ec3563b0e050e?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 06 |
-| **[YINAN NEW YORK](yinan.us)** | **[Fashion Design Internship  YINAN (Midtown, NYC)](https://jobright.ai/jobs/info/68e4e0881852e62f0080aad3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 05 |
-| ↳ | **[Social Media and Digital Content Internship  YINAN (Midtown, NYC)](https://jobright.ai/jobs/info/68e4b16fb99ec3563b0ecf29?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
