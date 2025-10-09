@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Youshouldbehair](http://youshouldbehair.com)** | **[Graphic Design Internship - Beauty Retail](https://jobright.ai/jobs/info/68e7d6ccc4895107182be9a3?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 09 |
+| **[Midwestern Pet Foods](https://midwesternpetfoods.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e7bddbcc49a84b7e0fd7b0?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Oct 09 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: CMF Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 09 |
 | **[Sabel Systems Technology Solutions, LLC](https://sabelsystems.com/)** | **[Design &amp; Motion Graphics Intern](https://jobright.ai/jobs/info/68e7b7d3cc49a84b7e0fd39e?utm_campaign=1049&utm_source=git)** | Beavercreek, OH, USA | Hybrid | Oct 09 |
 | **[Abundant Life Holistic Wellness](www.abundantlifeholisticwellness.com)** | **[Marketing/Graphic Design INTERN](https://jobright.ai/jobs/info/68e7a1f909580a2fe57eddc3?utm_campaign=1049&utm_source=git)** | Blue Bell, PA | On Site | Oct 09 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Networks Motion Design & VFX Intern, Spring 2026](https://jobright.ai/jobs/info/68e6c1741852e62f0081e273?utm_campaign=1049&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 08 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Footwear Design Intern](https://jobright.ai/jobs/info/68e6c133ae2b894b1d71d63a?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Oct 08 |
 | ↳ | **[NIKE, Inc Apparel Design Intern](https://jobright.ai/jobs/info/68e6c0c6e8daec61499ae452?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Oct 08 |
-| **[Deca Defense](https://www.decadefense.com/)** | **[/ Internship: Graphic Designer / Digital Designer / Visual Design / ITAR / U.S.Citizen](https://jobright.ai/jobs/info/68e6b7cfe8daec61499ade28?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 08 |
 | **[Champions Group Holdings](http://ChampionsGroupHoldings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e6b5e1e8daec61499adc38?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | Oct 08 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e6b04ce8daec61499ad6e1?utm_campaign=1049&utm_source=git)** | Brea, CA | Hybrid | Oct 08 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68e6b022e8daec61499ad6bb?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 08 |
@@ -141,7 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (Remote) Spring 2026](https://jobright.ai/jobs/info/68e56af5ae2b894b1d70eb4f?utm_campaign=1049&utm_source=git)** | AL, Mobile | Remote | Oct 07 |
 | **[L'Oréal](https://www.loreal.com/en/malaysia/)** | **[6- Month Packaging Internship](https://jobright.ai/jobs/info/68e569a01852e62f0080f97f?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 07 |
 | **[PrizePicks](https://prizepicks.com)** | **[User Experience Research Intern - Spring 2026](https://jobright.ai/jobs/info/68e5630ab99ec3563b0f3a88?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 07 |
-| ↳ | **[User Experience Design Intern - Spring 2026](https://jobright.ai/jobs/info/68e560c71852e62f0080ee83?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 07 |
+| **[Crawford Hoying](http://crawfordhoying.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e5623cb99ec3563b0f38a0?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Oct 07 |
+| **[PrizePicks](https://prizepicks.com)** | **[User Experience Design Intern - Spring 2026](https://jobright.ai/jobs/info/68e560c71852e62f0080ee83?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 07 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2026 Creative Internship](https://jobright.ai/jobs/info/68e55fb9b99ec3563b0f34f0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Galloway & Company, LLC](https://gallowayus.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68e55ac41852e62f0080ec64?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Oct 07 |
 | **[Poise Media & Co](www.poisemediaco.com)** | **[Digital Design Intern](https://jobright.ai/jobs/info/68e663e9e8daec61499aaf61?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Oct 07 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Marketing and Graphic Design Internship- Summer 2026](https://jobright.ai/jobs/info/68e548ad1852e62f0080dccf?utm_campaign=1049&utm_source=git)** | Midwest Heritage, Ep True Parkway, West Des Moines, IA | On Site | Oct 07 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibition Design Intern: Spring](https://jobright.ai/jobs/info/68e56820b99ec3563b0f3e49?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Exhibition Design Intern: Spring](https://jobright.ai/jobs/info/68e533e11852e62f0080ceb2?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Oct 07 |
-| **[Crawford Hoying](http://crawfordhoying.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e55f86b99ec3563b0f34d4?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Oct 07 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68e52989ae2b894b1d70b55c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 07 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Paid Internship - Collection Management Copyright Spring 2026](https://jobright.ai/jobs/info/68e53a31b99ec3563b0f1b4c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Oct 07 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Commercial CX Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68e476f6f758fe1f97e689b4?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 07 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Graphic Design Season 2026](https://jobright.ai/jobs/info/68e7862460ad860a1dc7fbc2?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Oct 07 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Coordinator Intern - College Credit](https://jobright.ai/jobs/info/68bf7be05c5d5f14f46d7457?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 06 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part time Digital Designer (Strive to Be) Intern](https://jobright.ai/jobs/info/68e48244f758fe1f97e68f4d?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
