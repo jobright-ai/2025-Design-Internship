@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Youshouldbehair](http://youshouldbehair.com)** | **[Graphic Design Internship - Beauty Retail](https://jobright.ai/jobs/info/68e7d6ccc4895107182be9a3?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 09 |
+| **[Tanium](http://www.tanium.com)** | **[User Experience Design Intern (UX/UI) ](https://jobright.ai/jobs/info/68e7edfecc49a84b7e0ff807?utm_campaign=1049&utm_source=git)** | Durham, NC (Hybrid) | Hybrid | Oct 09 |
+| **[My Monthly](https://www.mymonthly.io)** | **[UX Research Intern](https://jobright.ai/jobs/info/68e7de4c09580a2fe57f05ac?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Oct 09 |
 | **[Midwestern Pet Foods](https://midwesternpetfoods.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e7bddbcc49a84b7e0fd7b0?utm_campaign=1049&utm_source=git)** | Evansville, IN | On Site | Oct 09 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: CMF Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 09 |
 | **[Sabel Systems Technology Solutions, LLC](https://sabelsystems.com/)** | **[Design &amp; Motion Graphics Intern](https://jobright.ai/jobs/info/68e7b7d3cc49a84b7e0fd39e?utm_campaign=1049&utm_source=git)** | Beavercreek, OH, USA | Hybrid | Oct 09 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/68cd1a4f1ad6b16f02894ef9?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 08 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Graphic Design Intern - Student Service](https://jobright.ai/jobs/info/68e69a7f1852e62f0081c94e?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Oct 08 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Advanced Development (January through June)](https://jobright.ai/jobs/info/68cd8320e23def7af55bb027?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
+| ↳ | **[Spring 2026: Creative Operations Co-op (January through June)](https://jobright.ai/jobs/info/68cd63cf1ad6b16f02899063?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
 | ↳ | **[Summer 2026: Studio Production Artist Intern (May to August)](https://jobright.ai/jobs/info/68ca53a85f9f0336447dbdc7?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
 | ↳ | **[Summer 2026: UX/UI Design Intern (May to August)](https://jobright.ai/jobs/info/68cbfddf16d00d2beeb17d23?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
 | ↳ | **[Summer 2026: Product Design Engineering Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ca52285f9f0336447dba99?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68e52989ae2b894b1d70b55c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 07 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Paid Internship - Collection Management Copyright Spring 2026](https://jobright.ai/jobs/info/68e53a31b99ec3563b0f1b4c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Oct 07 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Commercial CX Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68e476f6f758fe1f97e689b4?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 07 |
-| **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Graphic Design Season 2026](https://jobright.ai/jobs/info/68e7862460ad860a1dc7fbc2?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Oct 07 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Design Coordinator Intern - College Credit](https://jobright.ai/jobs/info/68bf7be05c5d5f14f46d7457?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
