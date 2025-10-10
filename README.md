@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golfzon Leadbetter Academy](https://www.golfzonleadbetter.com/)** | **[Design & Social Media Intern](https://jobright.ai/jobs/info/68e8924409580a2fe57f92ec?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Oct 09 |
 | **[HYPEBEAST](http://hypebeast.com)** | **[Photography Intern](https://jobright.ai/jobs/info/68e87e08cc49a84b7e106bc4?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 09 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/68e87056cc49a84b7e1061dd?utm_campaign=1049&utm_source=git)** | Poughkeepsie, AR | On Site | Oct 09 |
 | **[CorpsAfrica](https://www.corpsafrica.org/)** | **[Working at CorpsAfricaDigital Communications Intern](https://jobright.ai/jobs/info/68e85eee09580a2fe57f70ee?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 09 |
@@ -88,8 +89,6 @@ For a complete list, click the following sortable link below:
 | **[tms](https://themarketingstore.com)** | **[2026 CREATIVE SUMMER INTERN](https://jobright.ai/jobs/info/68e0b1bfb99ec3563b0d23e3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
 | **[Meitu Inc.](http://www.meitu.com)** | **[RoboNeo Campus Creative Ambassador (2025–2026)](https://jobright.ai/jobs/info/68e7736460ad860a1dc7ef56?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 08 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Photo/Video Production Intern - Spring 2026 (16 weeks)](https://jobright.ai/jobs/info/68e73f5b1852e62f00823898?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Oct 08 |
-| ↳ | **[Marketing Graphic Design Intern - Spring 2026 (16 weeks)](https://jobright.ai/jobs/info/68e73f22ae2b894b1d722c41?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Oct 08 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Visual Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e72ad9ae2b894b1d721e42?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 08 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Graphic Design Season 2026](https://jobright.ai/jobs/info/68e720c11852e62f0082272c?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Oct 08 |
 | **[JOMI Surgical Video Journal](https://jomi.com)** | **[Interns](https://jobright.ai/jobs/info/68e87d1acc49a84b7e106a6b?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 08 |
 | **[EduTrend](https://www.linkedin.com/company/107472422)** | **[UX/UI Design Intern – EduTrend](https://jobright.ai/jobs/info/68e714291852e62f00822011?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Oct 08 |
@@ -143,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Blayzer Digital](https://www.blayzer.com/)** | **[Web Design Intern](https://jobright.ai/jobs/info/68e654f81852e62f0081a996?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 08 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Spring Internship](https://jobright.ai/jobs/info/68e65086e8daec61499aa95b?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Oct 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/68e601edae2b894b1d7165bf?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Oct 07 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Photography intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/68e88b96cc49a84b7e107720?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Oct 07 |
 | **[PENSA](https://pensa.co/)** | **[Industrial Design Intern - Jan - June 2026](https://jobright.ai/jobs/info/68e5d28fae2b894b1d713e03?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Oct 07 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Design Intern](https://jobright.ai/jobs/info/68e5c5e3ae2b894b1d713641?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
 | ↳ | **[UX Intern](https://jobright.ai/jobs/info/68e5bff4e8daec61499a4347?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Namify](http://namify.com)** | **[Jr. UI/UX Designer - Temporary 4-Month Position - In-House Only in Springville, UT](https://jobright.ai/jobs/info/68e5b6331852e62f008139dd?utm_campaign=1049&utm_source=git)** | Namify | On Site | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Graphics Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ac23ae2b894b1d712899?utm_campaign=1049&utm_source=git)** | Urbana, IL | On Site | Oct 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (Remote) Spring 2026](https://jobright.ai/jobs/info/68e599b9b99ec3563b0f729f?utm_campaign=1049&utm_source=git)** | Mobile, AL | Remote | Oct 07 |
-| **[DamnHealthyDose](https://damnhealthydose.com/)** | **[User Experience Intern](https://jobright.ai/jobs/info/68e66207ae2b894b1d71a097?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Oct 07 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - GMO Events Team Designer](https://jobright.ai/jobs/info/68e5953eae2b894b1d711617?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 07 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Design Intern](https://jobright.ai/jobs/info/68e58aee1852e62f00811b29?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
 | ↳ | **[UX Intern](https://jobright.ai/jobs/info/68e58a71ae2b894b1d710c5b?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - UX Product Design](https://jobright.ai/jobs/info/68e57739ae2b894b1d70f5eb?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Oct 07 |
 | ↳ | **[Embark Intern - UX Product Design](https://jobright.ai/jobs/info/68e572f0ae2b894b1d70f3cc?utm_campaign=1049&utm_source=git)** | KANSAS CITY, Missouri | On Site | Oct 07 |
 | **[Genemod](https://www.genemod.net)** | **[UI Design Intern  [Closed]](https://jobright.ai/jobs/info/68e6cb331852e62f0081e95f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 07 |
+| **[PrizePicks](https://prizepicks.com)** | **[User Experience Research Intern - Spring 2026](https://jobright.ai/jobs/info/68e5720fb99ec3563b0f4a3b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
