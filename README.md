@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Timmons Group](http://www.timmons.com/)** | **[Landscape Designer Internship](https://jobright.ai/jobs/info/68e8446ccc49a84b7e1048be?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Oct 09 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Fall Internship Graphic Designer Gen Z Startup (Unpaid)](https://jobright.ai/jobs/info/68e83dd6c72beb74cb31c9f7?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Oct 09 |
+| **[H7 BioCapital](https://h7biocapital.com)** | **[Graphic Design Internship (Remote)](https://jobright.ai/jobs/info/68e8340a09580a2fe57f5254?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 09 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/68e826c509580a2fe57f4703?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 09 |
-| **[AriaReply.ai](https://ariareply.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e825f6cc49a84b7e102bec?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 09 |
 | **[Indiana University](https://www.iu.edu)** | **[Student Intern for ADA Accessible 3D Tours and Presentations](https://jobright.ai/jobs/info/68e8234309580a2fe57f423d?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Oct 09 |
 | **[Tanium](http://www.tanium.com)** | **[User Experience Design Intern (UX/UI)](https://jobright.ai/jobs/info/68e8228dc4895107182c2cab?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | Oct 09 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - UX Designer](https://jobright.ai/jobs/info/68e82241cc49a84b7e102976?utm_campaign=1049&utm_source=git)** | Remote_United States | Remote | Oct 09 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026: CMF Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 09 |
 | **[Sabel Systems Technology Solutions, LLC](https://sabelsystems.com/)** | **[Design &amp; Motion Graphics Intern](https://jobright.ai/jobs/info/68e7b7d3cc49a84b7e0fd39e?utm_campaign=1049&utm_source=git)** | Beavercreek, OH, USA | Hybrid | Oct 09 |
 | **[Abundant Life Holistic Wellness](www.abundantlifeholisticwellness.com)** | **[Marketing/Graphic Design INTERN](https://jobright.ai/jobs/info/68e7a1f909580a2fe57eddc3?utm_campaign=1049&utm_source=git)** | Blue Bell, PA | On Site | Oct 09 |
+| **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Creative Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68ccfe32d11b445e0bee5ad7?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Networks Motion Design & VFX Intern, Spring 2026](https://jobright.ai/jobs/info/68e7b49bcc49a84b7e0fcd22?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Oct 09 |
 | **[Meitu Inc.](http://www.meitu.com)** | **[RoboNeo Campus Creative Ambassador (2025–2026)](https://jobright.ai/jobs/info/68e7736460ad860a1dc7ef56?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 08 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Photo/Video Production Intern - Spring 2026 (16 weeks)](https://jobright.ai/jobs/info/68e73f5b1852e62f00823898?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Oct 08 |
@@ -87,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e71216e8daec61499b2033?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Oct 08 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/68e71038e8daec61499b1e6d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Oct 08 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e707211852e62f008214d7?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | Oct 08 |
-| **[CALLE DEL MAR](https://www.calledelmar.us)** | **[Design & Production Intern](https://jobright.ai/jobs/info/68e7456aae2b894b1d723097?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 08 |
 | **[CPDstudio](www.courtneypenadesign.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/68e701a9ae2b894b1d72061b?utm_campaign=1049&utm_source=git)** | Dana Point, CA | On Site | Oct 08 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[WDI Themed Finishing Intern, Spring 2026](https://jobright.ai/jobs/info/68e6f6131852e62f00820ded?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 08 |
 | **[Find Me](https://fyndme.co)** | **[Motion Designer Intern - Unpaid](https://jobright.ai/jobs/info/68e6ddfee8daec61499afec4?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PrizePicks](https://prizepicks.com)** | **[User Experience Design Intern - Spring 2026](https://jobright.ai/jobs/info/68e56fdb1852e62f0080ff4a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Creative Group, SPA- Fall 2025](https://jobright.ai/jobs/info/68e56b841852e62f0080fbf2?utm_campaign=1049&utm_source=git)** | Los Angeles, California | On Site | Oct 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (Remote) Spring 2026](https://jobright.ai/jobs/info/68e56af5ae2b894b1d70eb4f?utm_campaign=1049&utm_source=git)** | AL, Mobile | Remote | Oct 07 |
-| **[L'Oréal](https://www.loreal.com/en/malaysia/)** | **[6- Month Packaging Internship](https://jobright.ai/jobs/info/68e569a01852e62f0080f97f?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 07 |
-| **[PrizePicks](https://prizepicks.com)** | **[User Experience Research Intern - Spring 2026](https://jobright.ai/jobs/info/68e5630ab99ec3563b0f3a88?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
