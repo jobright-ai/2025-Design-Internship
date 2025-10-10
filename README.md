@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Photography Intern](https://jobright.ai/jobs/info/68e87e08cc49a84b7e106bc4?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 09 |
+| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/68e87056cc49a84b7e1061dd?utm_campaign=1049&utm_source=git)** | Poughkeepsie, AR | On Site | Oct 09 |
 | **[CorpsAfrica](https://www.corpsafrica.org/)** | **[Working at CorpsAfricaDigital Communications Intern](https://jobright.ai/jobs/info/68e85eee09580a2fe57f70ee?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 09 |
 | **[Timmons Group](http://www.timmons.com/)** | **[Landscape Designer Internship](https://jobright.ai/jobs/info/68e84a94cc49a84b7e104d1b?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Oct 09 |
 | ↳ | **[Landscape Designer Internship](https://jobright.ai/jobs/info/68e8446ccc49a84b7e1048be?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Oct 09 |
@@ -89,6 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Graphic Design Intern - Spring 2026 (16 weeks)](https://jobright.ai/jobs/info/68e73f22ae2b894b1d722c41?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Oct 08 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Visual Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e72ad9ae2b894b1d721e42?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 08 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Graphic Design Season 2026](https://jobright.ai/jobs/info/68e720c11852e62f0082272c?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Oct 08 |
+| **[JOMI Surgical Video Journal](https://jomi.com)** | **[Interns](https://jobright.ai/jobs/info/68e87d1acc49a84b7e106a6b?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 08 |
 | **[EduTrend](https://www.linkedin.com/company/107472422)** | **[UX/UI Design Intern – EduTrend](https://jobright.ai/jobs/info/68e714291852e62f00822011?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Oct 08 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e71216e8daec61499b2033?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Oct 08 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/68e71038e8daec61499b1e6d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Oct 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - UX Product Design](https://jobright.ai/jobs/info/68e57739ae2b894b1d70f5eb?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Oct 07 |
 | ↳ | **[Embark Intern - UX Product Design](https://jobright.ai/jobs/info/68e572f0ae2b894b1d70f3cc?utm_campaign=1049&utm_source=git)** | KANSAS CITY, Missouri | On Site | Oct 07 |
 | **[Genemod](https://www.genemod.net)** | **[UI Design Intern  [Closed]](https://jobright.ai/jobs/info/68e6cb331852e62f0081e95f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 07 |
-| **[PrizePicks](https://prizepicks.com)** | **[User Experience Research Intern - Spring 2026](https://jobright.ai/jobs/info/68e5720fb99ec3563b0f4a3b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
-| **[Associated Wholesale Grocers](http://www.awginc.com)** | **[AWG Brands Intern](https://jobright.ai/jobs/info/68e571dfae2b894b1d70f22f?utm_campaign=1049&utm_source=git)** | Kansas City, KS | On Site | Oct 07 |
-| **[PrizePicks](https://prizepicks.com)** | **[User Experience Design Intern - Spring 2026](https://jobright.ai/jobs/info/68e56fdb1852e62f0080ff4a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
