@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EXPRESS](http://express.com)** | **[Men's Design Summer Internship](https://jobright.ai/jobs/info/68e935d665768b6412b1963a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
+| ↳ | **[Women's Design Summer Internship](https://jobright.ai/jobs/info/68e935a865768b6412b195f4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
+| ↳ | **[Photo Studio Operations Summer Internship](https://jobright.ai/jobs/info/68e933b90930fe0bc4622fb0?utm_campaign=1049&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 10 |
+| ↳ | **[Tech Design Summer Internship](https://jobright.ai/jobs/info/68e933b30930fe0bc4622fa8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Spring 2026 UX Intern (Bachelors)](https://jobright.ai/jobs/info/68e91f4b0930fe0bc46226a8?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Oct 10 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Retail Design and Brand Experience Internship](https://jobright.ai/jobs/info/68e90f549020b95add6a3b6e?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Oct 10 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/68ccd199b274cd205ab4f8f2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
@@ -122,6 +126,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e6b04ce8daec61499ad6e1?utm_campaign=1049&utm_source=git)** | Brea, CA | Hybrid | Oct 08 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68e6b022e8daec61499ad6bb?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 08 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Interior Designer, Summer 2026](https://jobright.ai/jobs/info/68e699f0e8daec61499ac9d1?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Oct 08 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Multimedia Specialist - IT](https://jobright.ai/jobs/info/68e568c3ae2b894b1d70e7f9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 08 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/68cf500bdbd9fb154ede6602?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/68cd1a4f1ad6b16f02894ef9?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 08 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Graphic Design Intern - Student Service](https://jobright.ai/jobs/info/68e69a7f1852e62f0081c94e?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Oct 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blayzer Digital](https://www.blayzer.com/)** | **[Web Design Intern](https://jobright.ai/jobs/info/68e654f81852e62f0081a996?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 08 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Spring Internship](https://jobright.ai/jobs/info/68e65086e8daec61499aa95b?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Oct 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/68e601edae2b894b1d7165bf?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Oct 07 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Photography intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/68e88b96cc49a84b7e107720?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Oct 07 |
-| **[PENSA](https://pensa.co/)** | **[Industrial Design Intern - Jan - June 2026](https://jobright.ai/jobs/info/68e5d28fae2b894b1d713e03?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Oct 07 |
-| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Design Intern](https://jobright.ai/jobs/info/68e5c5e3ae2b894b1d713641?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
-| ↳ | **[UX Intern](https://jobright.ai/jobs/info/68e5bff4e8daec61499a4347?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
-| **[PENSA](https://pensa.co/)** | **[Industrial Design Intern - Jan - June 2026](https://jobright.ai/jobs/info/68e5b707e8daec61499a3b9f?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
