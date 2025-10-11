@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Imagine Ink Studio](www.imagineinkstudio.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68ea02b5cdf8d94b293a3e44?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Oct 10 |
 | **[UX Woman](https://www.uxwoman.com/)** | **[Creative Career Changer](https://jobright.ai/jobs/info/68e9cceccdf8d94b293a2742?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 10 |
 | **[JonnyPops](https://www.jonnypops.com/)** | **[Design Intern (Summer)](https://jobright.ai/jobs/info/68e9c92bcfc08e4908913017?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Oct 10 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/68e9e63dcdf8d94b293a2ee4?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Oct 10 |
@@ -124,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Abundant Life Holistic Wellness](www.abundantlifeholisticwellness.com)** | **[Marketing/Graphic Design INTERN](https://jobright.ai/jobs/info/68e7a1f909580a2fe57eddc3?utm_campaign=1049&utm_source=git)** | Blue Bell, PA | On Site | Oct 09 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Creative Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68ccfe32d11b445e0bee5ad7?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Networks Motion Design & VFX Intern, Spring 2026](https://jobright.ai/jobs/info/68e7b49bcc49a84b7e0fcd22?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Oct 09 |
-| **[tms](https://themarketingstore.com)** | **[2026 CREATIVE SUMMER INTERN](https://jobright.ai/jobs/info/68e0b1bfb99ec3563b0d23e3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Visual Development Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68ea063bcdf8d94b293a4141?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 08 |
 | **[Meitu Inc.](http://www.meitu.com)** | **[RoboNeo Campus Creative Ambassador (2025–2026)](https://jobright.ai/jobs/info/68e7736460ad860a1dc7ef56?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 08 |
 | **[Arbor Homes](https://yourarborhome.com/)** | **[End User Experience Intern](https://jobright.ai/jobs/info/68cc3db316d00d2beeb1c331?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Oct 08 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Photo/Video Production Intern - Spring 2026 (16 weeks)](https://jobright.ai/jobs/info/68e73f5b1852e62f00823898?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Oct 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/68cf500bdbd9fb154ede6602?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/68cd1a4f1ad6b16f02894ef9?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 08 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Graphic Design Intern - Student Service](https://jobright.ai/jobs/info/68e69a7f1852e62f0081c94e?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Oct 08 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Advanced Development (January through June)](https://jobright.ai/jobs/info/68cd8320e23def7af55bb027?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
