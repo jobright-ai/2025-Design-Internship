@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment Production Specialist Intern, Spring 2026](https://jobright.ai/jobs/info/68e997b665768b6412b1def7?utm_campaign=1049&utm_source=git)** | Anaheim, CA, USA | Hybrid | Oct 10 |
+| **[The F* Word](https://thefword.ai/)** | **[Featured AI Fashion Designer Intern](https://jobright.ai/jobs/info/68e9868f0930fe0bc4626cb4?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 10 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[User Experience Intern - Summer 2026, Atlanta](https://jobright.ai/jobs/info/68e97f5c65768b6412b1cb83?utm_campaign=1049&utm_source=git)** | Atlanta GA | Hybrid | Oct 10 |
 | **[Lele Sadoughi](http://www.lelesadoughi.com)** | **[Accessories Design intern](https://jobright.ai/jobs/info/68e97a1365768b6412b1c829?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Oct 10 |
 | **[Castlewood Apparel Corp.](https://www.castlewoodapparel.com)** | **[Design Intern](https://jobright.ai/jobs/info/68e9792e0930fe0bc4626254?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Retouching Intern](https://jobright.ai/jobs/info/68e9744865768b6412b1c49b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | ↳ | **[Women's Design Intern, Concept](https://jobright.ai/jobs/info/68e96e10f195760c354a9088?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/68e96c3d0930fe0bc462597c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Oct 10 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Retouching Intern](https://jobright.ai/jobs/info/68e964960930fe0bc462539a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
-| ↳ | **[Photography Intern](https://jobright.ai/jobs/info/68e963e80930fe0bc4625249?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Photography Intern](https://jobright.ai/jobs/info/68e96a740930fe0bc4625789?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
+| ↳ | **[Retouching Intern](https://jobright.ai/jobs/info/68e964960930fe0bc462539a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
 | ↳ | **[Women's Design Intern, High Jewelry](https://jobright.ai/jobs/info/68e96375f195760c354a8783?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Web Mgmt & Videography Intern](https://jobright.ai/jobs/info/68e95e6f65768b6412b1b3cd?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Oct 10 |
 | **[Staples Canada](http://www.staples.ca)** | **[Quill UX Visual Designer Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68e95d020930fe0bc4624c93?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Oct 10 |
@@ -132,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Find Me](https://fyndme.co)** | **[Motion Designer Intern - Unpaid](https://jobright.ai/jobs/info/68e6ddfee8daec61499afec4?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 08 |
 | **[Southern Marsh Collection](http://www.southernmarsh.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/68e6dcefe8daec61499afca8?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Oct 08 |
 | **[TwinMind](https://twinmind.com/)** | **[Video and Motion Graphics Editor (Full-time/Internship)](https://jobright.ai/jobs/info/68e6d0bfe8daec61499af336?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 08 |
+| **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/68cd1b83e23def7af55b5810?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Oct 08 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Interior Designer, Summer 2026](https://jobright.ai/jobs/info/68e6c5631852e62f0081e66d?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Oct 08 |
 | **[Patreon](http://www.patreon.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68e6c4b4e8daec61499ae53d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 08 |
 | **[Inteva Products](https://www.intevaproducts.com/)** | **[Design Studio & Marketing Intern](https://jobright.ai/jobs/info/68e6c3211852e62f0081e36e?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Oct 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026: Studio Production Artist Intern (May to August)](https://jobright.ai/jobs/info/68ca53a85f9f0336447dbdc7?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
 | ↳ | **[Summer 2026: UX/UI Design Intern (May to August)](https://jobright.ai/jobs/info/68cbfddf16d00d2beeb17d23?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
 | ↳ | **[Summer 2026: Product Design Engineering Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ca52285f9f0336447dba99?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
-| ↳ | **[Summer 2026: Creative Operations Intern (May to August)](https://jobright.ai/jobs/info/68cea715846f0b04af67c0d0?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Oct 08 |
-| ↳ | **[Spring 2026: Studio Production Artist Co-op (January through June)](https://jobright.ai/jobs/info/68cea6a0fb49c96ca6ea2778?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
-| ↳ | **[Summer 2026: Product Design Engineering Intern, Shark (May to August)](https://jobright.ai/jobs/info/68ce4e1d846f0b04af67805d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
-| ↳ | **[Summer 2026: Industrial Design Intern (May to August)](https://jobright.ai/jobs/info/68cb5948efdec76df36bb83c?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
