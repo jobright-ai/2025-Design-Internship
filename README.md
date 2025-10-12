@@ -74,9 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Castlewood Apparel Corp.](https://www.castlewoodapparel.com)** | **[Design Intern](https://jobright.ai/jobs/info/68e9792e0930fe0bc4626254?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Retouching Intern](https://jobright.ai/jobs/info/68e9744865768b6412b1c49b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Spring 2026 UX Intern (Bachelors)](https://jobright.ai/jobs/info/68e9738165768b6412b1c3c8?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Oct 10 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Photography Intern](https://jobright.ai/jobs/info/68e96a740930fe0bc4625789?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
-| ↳ | **[Women's Design Intern, Concept](https://jobright.ai/jobs/info/68e964f00930fe0bc4625438?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Women's Design Intern, Concept](https://jobright.ai/jobs/info/68e964f00930fe0bc4625438?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | ↳ | **[Retouching Intern](https://jobright.ai/jobs/info/68e964960930fe0bc462539a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
+| ↳ | **[Photography Intern](https://jobright.ai/jobs/info/68e963e80930fe0bc4625249?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | ↳ | **[Women's Design Intern, High Jewelry](https://jobright.ai/jobs/info/68e96375f195760c354a8783?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Web Mgmt & Videography Intern](https://jobright.ai/jobs/info/68e95e6f65768b6412b1b3cd?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Oct 10 |
 | **[Staples Canada](http://www.staples.ca)** | **[Quill UX Visual Designer Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68e95d020930fe0bc4624c93?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Oct 10 |
@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Women's Design Summer Internship](https://jobright.ai/jobs/info/68e935a865768b6412b195f4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | ↳ | **[Photo Studio Operations Summer Internship](https://jobright.ai/jobs/info/68e933b90930fe0bc4622fb0?utm_campaign=1049&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 10 |
 | ↳ | **[Tech Design Summer Internship](https://jobright.ai/jobs/info/68e933b30930fe0bc4622fa8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 10 |
-| **[Caseland](www.thecaseland.com)** | **[Creative Campaign Intern - Remote](https://jobright.ai/jobs/info/68ea5b2b2f64880ca0b524f4?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Retail Design and Brand Experience Internship](https://jobright.ai/jobs/info/68e90f549020b95add6a3b6e?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Oct 10 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Graphic Design (Spring 2026)](https://jobright.ai/jobs/info/68ea62a92f64880ca0b52a7f?utm_campaign=1049&utm_source=git)** | Wolf Trap, VA | On Site | Oct 10 |
 | ↳ | **[Intern, Social Media (Spring 2026)](https://jobright.ai/jobs/info/68ea5aa42f64880ca0b52423?utm_campaign=1049&utm_source=git)** | Wolf Trap, VA | On Site | Oct 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Networks Motion Design & VFX Intern, Spring 2026](https://jobright.ai/jobs/info/68e6c1741852e62f0081e273?utm_campaign=1049&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 08 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Footwear Design Intern](https://jobright.ai/jobs/info/68e6c133ae2b894b1d71d63a?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Oct 08 |
 | ↳ | **[NIKE, Inc Apparel Design Intern](https://jobright.ai/jobs/info/68e6c0c6e8daec61499ae452?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Oct 08 |
+| **[Champions Group Holdings](http://ChampionsGroupHoldings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68e6b5e1e8daec61499adc38?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
