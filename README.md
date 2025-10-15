@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b73c621ade4306aa648aee?utm_campaign=1049&utm_source=git)** | Pleasanton, CA | On Site | Oct 15 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b9428607090163b6ba97f6?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 15 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b73c142124650c14020883?utm_campaign=1049&utm_source=git)** | Modesto, CA | On Site | Oct 15 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b73f381ade4306aa649096?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Oct 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Hulu Creative Design Team Intern, Spring 2026](https://jobright.ai/jobs/info/68ef51d7de50091dbfa4d38f?utm_campaign=1049&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 15 |
 | **[PlayStation](https://www.playstation.com/)** | **[Game Design Intern - Undergraduate](https://jobright.ai/jobs/info/68ef2c1e20456578d5eb637d?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 14 |
 | **[Novarus Technologies](https://novarustech.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68ef2b2120456578d5eb6189?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 14 |
@@ -72,28 +76,28 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FP Movement Design Intern Summer 2026 - Performance Outerwear](https://jobright.ai/jobs/info/68eee86d46e5b153e5a60fa9?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 14 |
 | **[VITA ESTATES](vitaestates.com)** | **[VITA ESTATES l UX–UI Design Intern l Luxury Real Estate and lifestyle brand](https://jobright.ai/jobs/info/68eedf4b46e5b153e5a60c2a?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | Hybrid | Oct 14 |
 | **[Manière De Voir](http://www.manieredevoir.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/68eed469d078b81ad160fe1b?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 14 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Design Intern](https://jobright.ai/jobs/info/68eeccf5d078b81ad160f802?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Oct 14 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Graphic Design - Summer 2026](https://jobright.ai/jobs/info/68eec70046e5b153e5a5fd27?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 14 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68eec66046e5b153e5a5fb39?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | On Site | Oct 14 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Design Intern](https://jobright.ai/jobs/info/68eebf96e0db92422580ade7?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Oct 14 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, User Experience and Web Strategy](https://jobright.ai/jobs/info/68eea7c046e5b153e5a5de59?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | On Site | Oct 14 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68eeb890e0db92422580a2e7?utm_campaign=1049&utm_source=git)** | 277 Bendix Road, Virginia Beach, VA, 23452, US | On Site | Oct 14 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Graphic Design Intern](https://jobright.ai/jobs/info/68eeb5a146e5b153e5a5e87b?utm_campaign=1049&utm_source=git)** | Bloomington, IN | Hybrid | Oct 14 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Technical Game Design Intern, Summer 2026 (Jedi)](https://jobright.ai/jobs/info/68eeb51c46e5b153e5a5e78b?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Oct 14 |
 | **[iRobot](https://www.irobot.com)** | **[Spring 2026: Product Design & Illustration Intern](https://jobright.ai/jobs/info/68eeb12ed078b81ad160dce8?utm_campaign=1049&utm_source=git)** | Bedford, MA | Hybrid | Oct 14 |
+| **[Belmark inc](https://www.belmark.com/)** | **[Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/68eeb106d078b81ad160dc83?utm_campaign=1049&utm_source=git)** | De Pere, WI | On Site | Oct 14 |
 | **[Experian](http://www.experianplc.com)** | **[Creative Summer Intern (Hybrid & Paid)](https://jobright.ai/jobs/info/68eeafeee0db924225809a25?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | Hybrid | Oct 14 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68eeae9246e5b153e5a5e406?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Oct 14 |
 | **[Experian](http://www.experianplc.com)** | **[Creative Summer Intern (Hybrid & Paid)](https://jobright.ai/jobs/info/68eea4d946e5b153e5a5d932?utm_campaign=1049&utm_source=git)** | 475 Anton Blvd, Costa Mesa, CA 92626, USA | Hybrid | Oct 14 |
-| **[Belmark inc](https://www.belmark.com/)** | **[Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/68ee9f9dd078b81ad160caf5?utm_campaign=1049&utm_source=git)** | De Pere, WI | On Site | Oct 14 |
 | **[Northstar](www.northstarsourcing.com)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/68ee927de0db924225807edb?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Oct 14 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Graphic Design and Communications Internship](https://jobright.ai/jobs/info/68ee903e46e5b153e5a5c3e9?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Oct 14 |
 | **[Visa](https://www.visa.com)** | **[Design Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68ee8dd8e0db92422580798f?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Oct 14 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Spring 2026)](https://jobright.ai/jobs/info/68ee8957d078b81ad160b5e4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 14 |
+| ↳ | **[Design Intern (Spring 2026)](https://jobright.ai/jobs/info/68ee884de0db9242258075f1?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 14 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Creative Services Internship](https://jobright.ai/jobs/info/68ee860046e5b153e5a5b985?utm_campaign=1049&utm_source=git)** | Dover, DE | Hybrid | Oct 14 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, User Experience and Web Strategy](https://jobright.ai/jobs/info/68ee8053d078b81ad160ac0e?utm_campaign=1049&utm_source=git)** | US DC Main Office | On Site | Oct 14 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Spring 2026)](https://jobright.ai/jobs/info/68ee7bffe0db9242258067bf?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 14 |
 | **[Nutanix](http://www.nutanix.com)** | **[Visual Design Intern (Summer 2026- Undergraduates Only)](https://jobright.ai/jobs/info/68ee7beae0db92422580679e?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Oct 14 |
 | **[Mary Square, LLC ](https://www.marysquare.com)** | **[Print Design Intern](https://jobright.ai/jobs/info/68ee7bd3e0db924225806774?utm_campaign=1049&utm_source=git)** | Apex, NC | On Site | Oct 14 |
-| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Spring 2026)](https://jobright.ai/jobs/info/68ee7b73e0db9242258066f1?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 14 |
 | **[Nutanix](http://www.nutanix.com)** | **[UX Design Intern (Summer 2026- Undergraduates Only)](https://jobright.ai/jobs/info/68ee78a346e5b153e5a5ac30?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Oct 14 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Enterprise UX Designer Intern](https://jobright.ai/jobs/info/68ee597dd078b81ad1607cde?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Oct 14 |
 | **[iRobot](https://www.irobot.com)** | **[Spring 2026: Creative Services Intern (Undergraduate)](https://jobright.ai/jobs/info/68ee481f46e5b153e5a55fbc?utm_campaign=1049&utm_source=git)** | Bedford, MA | Hybrid | Oct 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[User Experience Intern - Summer 2026, Atlanta](https://jobright.ai/jobs/info/68eca3fad4b0106e703eb702?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 11 |
 | **[UX Woman](https://www.uxwoman.com/)** | **[Creative Career Changer](https://jobright.ai/jobs/info/68e9cceccdf8d94b293a2742?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 10 |
 | **[JonnyPops](https://www.jonnypops.com/)** | **[Design Intern (Summer)](https://jobright.ai/jobs/info/68e9c92bcfc08e4908913017?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Oct 10 |
-| **[FlightSafety International](https://www.flightsafety.com/)** | **[Graphics Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ac23ae2b894b1d712899?utm_campaign=1049&utm_source=git)** | Urbana, IL | On Site | Oct 10 |
-| **[FlyteVu](https://www.flytevu.com)** | **[Creative Strategy Intern (F.L.O.C.K.)](https://jobright.ai/jobs/info/68e9add1feeb0006c1a5680e?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
-| **[CorpsAfrica](https://www.corpsafrica.org/)** | **[Working at CorpsAfricaDigital Communications Intern Washington DC/Nairobi](https://jobright.ai/jobs/info/68e9ad5afeeb0006c1a5675f?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 10 |
-| **[FlyteVu](https://www.flytevu.com)** | **[Creative Design Intern (F.L.O.C.K.)](https://jobright.ai/jobs/info/68e9accd65768b6412b1e811?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
