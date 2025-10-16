@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GIRRAPHIC](https://girraphic.com/)** | **[Design Internship](https://jobright.ai/jobs/info/68f0999d1f624a7ec1cf46f9?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Oct 16 |
 | **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Landscape Architect](https://jobright.ai/jobs/info/68f06272569e752a99d4b1b7?utm_campaign=1049&utm_source=git)** | MSP - Bloomington, Minnesota | Hybrid | Oct 15 |
 | **[UX Woman](https://www.uxwoman.com/)** | **[Entry Level Product Design Apprenticeship](https://jobright.ai/jobs/info/68f060b32e327452a0a4c7cb?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Oct 15 |
 | ↳ | **[Entry Level UX Design Apprenticeship](https://jobright.ai/jobs/info/68f06030569e752a99d4accf?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Oct 15 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd5c9821486c423c7cae?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68f003ca9821486c423c8ad6?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Oct 15 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efd822de50091dbfa509a5?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
+| ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68f08d601f624a7ec1cf3ff4?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 15 |
 | **[Data Visualization Society](https://www.datavisualizationsociety.com/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/68efd24ade50091dbfa506cc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[Knoxville Chamber (Knoxville, Tennessee)](https://www.knoxvillechamber.com)** | **[Creative Content Intern](https://jobright.ai/jobs/info/68efcdaa78ba1621431e07d6?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Oct 15 |
 | **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68efc7269821486c423c73fc?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | Hybrid | Oct 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Galloway & Company, LLC](https://gallowayus.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68d145568c62e63bc7fc9dd9?utm_campaign=1049&utm_source=git)** | Farmington, UT | Hybrid | Oct 14 |
 | ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/68d142e08c62e63bc7fc9af2?utm_campaign=1049&utm_source=git)** | Pleasant Grove, UT | Hybrid | Oct 14 |
 | **[KCI](http://www.kci.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68d1a96117554c2d9eede173?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 14 |
-| ↳ | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68d1abbf17554c2d9eede592?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Oct 14 |
-| **[Buttercloth](https://buttercloth.com)** | **[Fashion Design intern](https://jobright.ai/jobs/info/68ee099c81fdd1626d3a1f88?utm_campaign=1049&utm_source=git)** | Torrance, CA | Remote | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
