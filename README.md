@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GAF](http://www.gaf.com/)** | **[Design Services/Architectural Intern](https://jobright.ai/jobs/info/68f1a840ef766b3f0fd1071c?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Oct 16 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Innovation - Designer (Spring 2026)](https://jobright.ai/jobs/info/68f199eff462172a5a7da6e4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 16 |
 | **[Cider](https://shop.shopcider.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68f19545ef766b3f0fd0fa00?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
 | **[FieldPulse](https://www.fieldpulse.com/)** | **[Graphic Design / Summer 2026 Internship](https://jobright.ai/jobs/info/68f1943def766b3f0fd0f839?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Architecture and Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68f193c3f462172a5a7d9f7b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 16 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[GAF](http://www.gaf.com/)** | **[Design Services/Architectural Intern](https://jobright.ai/jobs/info/68f163f9ef766b3f0fd0d1ad?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Oct 16 |
 | **[Incident IQ](https://www.incidentiq.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68f15e5def766b3f0fd0cc3d?utm_campaign=1049&utm_source=git)** | Atlanta Metro | On Site | Oct 16 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68f15cefe6870116b1f57afa?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Oct 16 |
-| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/68f155c0e6870116b1f5746f?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Oct 16 |
 | **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68f14fadf462172a5a7d60d1?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f14b67ef766b3f0fd0b593?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 16 |
 | **[Incident IQ](https://www.incidentiq.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68f14a6ee6870116b1f56532?utm_campaign=1049&utm_source=git)** | Incident IQ HQ (Atlanta) | On Site | Oct 16 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - UX Analyst - MA](https://jobright.ai/jobs/info/68f1330fe6870116b1f54995?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d15f462172a5a7d3bdf?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Oct 16 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b74ef766b3f0fd09546?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Oct 16 |
-| **[Danarys New York](https://www.danarysnyc.com/)** | **[Fashion Design & Production Interns](https://jobright.ai/jobs/info/68f12ab8e6870116b1f544d9?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Oct 16 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Graphic Designers](https://jobright.ai/jobs/info/68f110c8e6870116b1f534f9?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Oct 16 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Marketing Intern (Graphic Design) (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68f10993f462172a5a7d25b5?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 16 |
 | ↳ | **[User Experience Designer Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68f10fede6870116b1f533a2?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 16 |
@@ -128,12 +128,12 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68f02b27de50091dbfa526e5?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Oct 15 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/68f035bf9821486c423ca696?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Oct 15 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - UX Researcher - Summer 2026](https://jobright.ai/jobs/info/68f02ddcde50091dbfa52db0?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 15 |
-| **[KHAITE](https://khaite.com/)** | **[Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68f02e8d9821486c423c9f14?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[Ultimate Fighting Championship](http://UFC.com)** | **[Graphic Design Intern - Spring 2026](https://jobright.ai/jobs/info/68f000f778ba1621431e18c7?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68f0004e9821486c423c8784?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Oct 15 |
 | **[Bright & Gray Creative](www.brightandgray.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68f0ef95ef766b3f0fd06cfc?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Oct 15 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto UI/UX Designer Intern](https://jobright.ai/jobs/info/68f01e9778ba1621431e1fa9?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Oct 15 |
 | **[KHAITE](https://khaite.com/)** | **[Technical Design, Production, Wovens Internship, Spring 2026](https://jobright.ai/jobs/info/68f02038de50091dbfa51e74?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 15 |
+| ↳ | **[Digital Intern, Spring 2026](https://jobright.ai/jobs/info/68f0222d9821486c423c92dd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[VF Corporation](http://www.vfc.com)** | **[Timberland: Design Intern](https://jobright.ai/jobs/info/68f0f5e7f462172a5a7d195e?utm_campaign=1049&utm_source=git)** | USCA > USA > New Hampshire > Stratham Domain Dr HQ - TBL | On Site | Oct 15 |
 | **[UFC Brasil](http://ufc.com.br)** | **[Graphic Design Intern - Spring 2026](https://jobright.ai/jobs/info/68f02c919821486c423c9ad9?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Graphic Design](https://jobright.ai/jobs/info/68de7ef5a125e75c422b47d1?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 15 |
