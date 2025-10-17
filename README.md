@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - 3D Art](https://jobright.ai/jobs/info/68d5de6f1f7fb2169ab14425?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Oct 17 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, User Experience and Web Strategy](https://jobright.ai/jobs/info/68eea7c046e5b153e5a5de59?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | On Site | Oct 17 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/68f1bf28ef766b3f0fd11cde?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Oct 16 |
 | **[GAF](http://www.gaf.com/)** | **[Design Services/Architectural Intern](https://jobright.ai/jobs/info/68f1a840ef766b3f0fd1071c?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Oct 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Special Olympics Kansas](http://www.ksso.org)** | **[Special Olympics Kansas Marketing and Communications Internship](https://jobright.ai/jobs/info/68f0258f9821486c423c975c?utm_campaign=1049&utm_source=git)** | Mission, KS | Remote | Oct 15 |
 | **[IRA Financial](https://www.irafinancialgroup.com/)** | **[Creative & Digital Design Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68f03417de50091dbfa533b3?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Oct 15 |
 | ↳ | **[Creative & Digital Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68f01e6378ba1621431e1f69?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Oct 15 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Graduate Intern - UX/UI Design - Monetary Affairs](https://jobright.ai/jobs/info/68eff0ae9821486c423c803f?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
