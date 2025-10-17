@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68d654534736ff202fdd297d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - 3D Art](https://jobright.ai/jobs/info/68d5de6f1f7fb2169ab14425?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Oct 17 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, User Experience and Web Strategy](https://jobright.ai/jobs/info/68eea7c046e5b153e5a5de59?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | On Site | Oct 17 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/68f1bf28ef766b3f0fd11cde?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Oct 16 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[FieldPulse](https://www.fieldpulse.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/68f16f06ef766b3f0fd0e154?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
 | **[Progressive Companies](http://www.progressiveae.com)** | **[Summer 2026 Architectural Student Intern](https://jobright.ai/jobs/info/68f16d3ae6870116b1f58d91?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 16 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68f16d28ef766b3f0fd0de52?utm_campaign=1049&utm_source=git)** | Tysons Corner, Virginia | On Site | Oct 16 |
-| **[OWM](https://owm.ai/?utm_source=Linkedin&utm_medium=bio)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68f16c1ae6870116b1f58c0e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Oct 16 |
+| **[OWM](https://owm.ai)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68f16c1ae6870116b1f58c0e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Oct 16 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Urban Outfitters Home Design Intern - Print](https://jobright.ai/jobs/info/68f165aaef766b3f0fd0d59f?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 16 |
 | **[Adam Lippes](https://adamlippes.com)** | **[Fashion Design/PD Intern](https://jobright.ai/jobs/info/68f1658ee6870116b1f58495?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2026](https://jobright.ai/jobs/info/68f16572ef766b3f0fd0d4fc?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[Graphic Design Intern - Spring 2026](https://jobright.ai/jobs/info/68eff38678ba1621431e12ea?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 15 |
 | **[Special Olympics Kansas](http://www.ksso.org)** | **[Special Olympics Kansas Marketing and Communications Internship](https://jobright.ai/jobs/info/68f0258f9821486c423c975c?utm_campaign=1049&utm_source=git)** | Mission, KS | Remote | Oct 15 |
 | **[IRA Financial](https://www.irafinancialgroup.com/)** | **[Creative & Digital Design Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68f03417de50091dbfa533b3?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Oct 15 |
-| ↳ | **[Creative & Digital Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68f01e6378ba1621431e1f69?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
