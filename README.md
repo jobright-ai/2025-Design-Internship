@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JIO ROBOTICS 3D Printing and Design](www.jiorobotics.com)** | **[Expert UX/UI and Graphics  Designer with Web Development  Internship ONSITE](https://jobright.ai/jobs/info/68f2d4cd9a65fd3458581607?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Oct 17 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68984bee5574fd6bc0c77429?utm_campaign=1049&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
+| **[Global Sea Lion LLC](https://www.linkedin.com/company/105354647)** | **[Mobile Game Animator/Graphic Artist](https://jobright.ai/jobs/info/68f2cf429a65fd34585813ca?utm_campaign=1049&utm_source=git)** | Florida, United States | Remote | Oct 17 |
+| **[DSALTA](https://www.paillor.com/)** | **[Graphics Designer Intern](https://jobright.ai/jobs/info/68f2ceac9a65fd345858135c?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 17 |
+| **[Pella Corporation](http://www.pella.com)** | **[Multimedia Producer Intern - Summer 2026](https://jobright.ai/jobs/info/68f2ca959a63986de756c564?utm_campaign=1049&utm_source=git)** | 102 Main St, Pella, IA, 50219, US | On Site | Oct 17 |
+| **[Rivian](http://www.rivian.com)** | **[Design Intern - Digital Product Designer](https://jobright.ai/jobs/info/68f2c8f876a51a4307bc845b?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Oct 17 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Retail Intern - Spring 2026](https://jobright.ai/jobs/info/68f2c7469a65fd3458580f7a?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
+| **[GPS](https://www.growthwithgps.com/)** | **[Website Content Development & Storyboarding](https://jobright.ai/jobs/info/68f2c4a99a65fd3458580cd4?utm_campaign=1049&utm_source=git)** | Texas, United States | Remote | Oct 17 |
+| **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern UX/UI](https://jobright.ai/jobs/info/68f2c0d976a51a4307bc7ef6?utm_campaign=1049&utm_source=git)** | Lake Forest, CA | On Site | Oct 17 |
+| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Fall Internship 2025 - Visual Merchandising](https://jobright.ai/jobs/info/68e4bd6eb99ec3563b0ed725?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 17 |
+| **[Arup](http://www.arup.com)** | **[Graphic Design Intern (Available June 2026)](https://jobright.ai/jobs/info/68f2bae19a65fd34585804a8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 17 |
+| **[Pegasystems](http://www.pega.com)** | **[User Experience Design Summer Intern](https://jobright.ai/jobs/info/68f2b9ea9a65fd3458580360?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | Oct 17 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68f2b3ad9a63986de756afb7?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
 | **[Ampact](https://www.ampact.us)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68f2afb09a65fd345857f5d0?utm_campaign=1049&utm_source=git)** | United States | On Site | Oct 17 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Graphic Design Intern - Spring 2026](https://jobright.ai/jobs/info/68f2ad5c9a65fd345857f391?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 17 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern – Digital Sculpting](https://jobright.ai/jobs/info/68e88eb209580a2fe57f91a6?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Oct 16 |
 | ↳ | **[2026 Summer Intern – Creative Design](https://jobright.ai/jobs/info/68e89334c72beb74cb3203e7?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Oct 16 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Visual Producer Internship – Summer 2026](https://jobright.ai/jobs/info/68d446998c62e63bc7fe7a4e?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 16 |
-| **[Aptiv](http://www.aptiv.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68d4983c8c62e63bc7feac68?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Oct 16 |
-| **[CharacterStrong](https://characterstrong.com)** | **[Design Support Intern](https://jobright.ai/jobs/info/68f0b50e1f624a7ec1cf7060?utm_campaign=1049&utm_source=git)** | Puyallup, WA | On Site | Oct 16 |
-| **[Stratus®](https://www.stratusteam.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/68f20cfbd5fc646bd1de52bb?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Oct 16 |
-| **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Graphic Design Season 2026](https://jobright.ai/jobs/info/68f0ac10eb273a32d976b9e7?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Oct 16 |
-| **[GIRRAPHIC](https://girraphic.com/)** | **[Design Internship](https://jobright.ai/jobs/info/68f0999d1f624a7ec1cf46f9?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Oct 16 |
-| **[CharacterStrong](https://characterstrong.com)** | **[Design Support Intern](https://jobright.ai/jobs/info/68f11644ef766b3f0fd088a9?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 15 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68f1d6a5f462172a5a7dcf38?utm_campaign=1049&utm_source=git)** | Westminster, CO | On Site | Oct 15 |
-| **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Landscape Architect](https://jobright.ai/jobs/info/68f06272569e752a99d4b1b7?utm_campaign=1049&utm_source=git)** | MSP - Bloomington, Minnesota | Hybrid | Oct 15 |
-| **[UX Woman](https://www.uxwoman.com/)** | **[Entry Level Product Design Apprenticeship](https://jobright.ai/jobs/info/68f060b32e327452a0a4c7cb?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Oct 15 |
-| ↳ | **[Entry Level UX Design Apprenticeship](https://jobright.ai/jobs/info/68f06030569e752a99d4accf?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Oct 15 |
-| **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern - Networking Event with AECOM – Chicago](https://jobright.ai/jobs/info/68f0568799530851ee6ec910?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 15 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - UX Designer](https://jobright.ai/jobs/info/68ded1e644d32141e0c02b7c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
