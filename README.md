@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68cd847cb2a74e1837ed820e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68cf7b28846f0b04af68261f?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f1d7edf462172a5a7dd06c?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Oct 19 |
-| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f2245165ce784c102ede06?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f1d5f9f462172a5a7dced5?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
+| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f2245165ce784c102ede06?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f1bed3e6870116b1f5cd2e?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be94?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Oct 19 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f1c421ef766b3f0fd11f5c?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
