@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68cc29547342c7623ae60285?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Oct 19 |
+| **[Strategic Factory](https://strategicfactory.com/)** | **[Graphic Design Intern - Spring Semester](https://jobright.ai/jobs/info/68f4bd6b76a51a4307bd3578?utm_campaign=1049&utm_source=git)** | Owings Mills, MD | On Site | Oct 19 |
+| **[TruStage](https://www.trustage.com/)** | **[Creative Services - Design Intern (Hybrid)](https://jobright.ai/jobs/info/68bb735e8043103d4f2289f2?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Oct 19 |
+| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68ce7e71dbd9fb154ede02dc?utm_campaign=1049&utm_source=git)** | Lowell, MA | Hybrid | Oct 19 |
+| **[Atlassian](https://www.atlassian.com)** | **[Product Design Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68eb6df12f64880ca0b58056?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 19 |
 | **[Landor](https://landor.com/)** | **[New York Design Intern - 2025 Next Generation of Brand Transformers](https://jobright.ai/jobs/info/68dd0579ddc10244dd67c615?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 19 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/68f459f79a65fd3458589a14?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Oct 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment CAD Design Intern, Spring 2026](https://jobright.ai/jobs/info/68f420759a65fd3458589145?utm_campaign=1049&utm_source=git)** | Anaheim, CA, USA | Hybrid | Oct 18 |
@@ -77,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68bb32bc6105227d118a3f09?utm_campaign=1049&utm_source=git)** | Fort Mill, SC | On Site | Oct 18 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cf9cf9846f0b04af68349e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 18 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cfeaa5dbd9fb154edebe44?utm_campaign=1049&utm_source=git)** | Tucson, AZ | On Site | Oct 18 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern - Industrial Design - Plymouth, MN - Summer 2026](https://jobright.ai/jobs/info/68f4bbf49a63986de757748a?utm_campaign=1049&utm_source=git)** | Plymouth, MA | On Site | Oct 18 |
 | **[Arup](http://www.arup.com)** | **[Audio Visual/Experience Designer Intern (Available June 2026)](https://jobright.ai/jobs/info/68c7c58f5c38e536d41a6a59?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Oct 18 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/68cd66a7e23def7af55b970a?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Oct 18 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Graphic Design Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/68f49dde9a63986de7576bfa?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Oct 18 |
@@ -87,10 +93,10 @@ For a complete list, click the following sortable link below:
 | **[Kiva](http://kiva.org)** | **[User Research Intern](https://jobright.ai/jobs/info/68f3154076a51a4307bcaf7b?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree - UX Design Intern](https://jobright.ai/jobs/info/68f33c5c9a63986de75704a8?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 17 |
 | **[Nutanix](http://www.nutanix.com)** | **[Visual Design Intern (Summer 2026- Undergraduates Only)](https://jobright.ai/jobs/info/68f312b476a51a4307bcada2?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Oct 17 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Retail Intern - Spring 2026](https://jobright.ai/jobs/info/68f30c819a63986de756e76e?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Visual Design Intern](https://jobright.ai/jobs/info/68dbed0297329f2f77320f51?utm_campaign=1049&utm_source=git)** | Marysville, OH | On Site | Oct 17 |
 | **[Another Planet Entertainment](http://apeconcerts.com)** | **[Graphic Design Intern - Fall/Winter](https://jobright.ai/jobs/info/68f2f8f09a65fd3458582649?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Oct 17 |
 | **[TRG](https://trg.agency)** | **[Art Director Intern (Fall 2025)](https://jobright.ai/jobs/info/68f2f37f9a65fd34585823da?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Retail Intern - Spring 2026](https://jobright.ai/jobs/info/68f2e53976a51a4307bc9103?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Oct 17 |
 | **[JIO ROBOTICS 3D Printing and Design](www.jiorobotics.com)** | **[Expert UX/UI and Graphics  Designer with Web Development  Internship ONSITE](https://jobright.ai/jobs/info/68f2d4cd9a65fd3458581607?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Oct 17 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68984bee5574fd6bc0c77429?utm_campaign=1049&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
 | **[Pella Corporation](http://www.pella.com)** | **[Multimedia Producer Intern - Summer 2026](https://jobright.ai/jobs/info/68f2ca959a63986de756c564?utm_campaign=1049&utm_source=git)** | 102 Main St, Pella, IA, 50219, US | On Site | Oct 17 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Interior Design Student Intern](https://jobright.ai/jobs/info/68f16f92f462172a5a7d8771?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 16 |
 | **[FieldPulse](https://www.fieldpulse.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/68f16f06ef766b3f0fd0e154?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
 | **[Progressive Companies](http://www.progressiveae.com)** | **[Summer 2026 Architectural Student Intern](https://jobright.ai/jobs/info/68f16d3ae6870116b1f58d91?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 16 |
-| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68f16d28ef766b3f0fd0de52?utm_campaign=1049&utm_source=git)** | Tysons Corner, Virginia | On Site | Oct 16 |
-| **[OWM](https://owm.ai)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68f16c1ae6870116b1f58c0e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Oct 16 |
-| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Urban Outfitters Home Design Intern - Print](https://jobright.ai/jobs/info/68f165aaef766b3f0fd0d59f?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 16 |
-| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2026](https://jobright.ai/jobs/info/68f16572ef766b3f0fd0d4fc?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 16 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68f16479e6870116b1f581d3?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 16 |
-| **[GAF](http://www.gaf.com/)** | **[Design Services/Architectural Intern](https://jobright.ai/jobs/info/68f163f9ef766b3f0fd0d1ad?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
