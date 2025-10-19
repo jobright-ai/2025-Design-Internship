@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Live Entertainment CAD Design Intern, Spring 2026](https://jobright.ai/jobs/info/68f420759a65fd3458589145?utm_campaign=1049&utm_source=git)** | Anaheim, CA, USA | Hybrid | Oct 18 |
-| **[MY Worthy Home](https://myworthyhome.com/)** | **[Video Editing & Graphic Design Intern](https://jobright.ai/jobs/info/68f3bf9e9a63986de7573743?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Graphic Designer)](https://jobright.ai/jobs/info/68cd78c91ad6b16f02899f37?utm_campaign=1049&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/689fe69dcc9ee94dc911a87c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 18 |
 | ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68c63c63db52c07d288458d8?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Oct 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SONNI](sonniskin.com)** | **[Creative Content & Brand Intern](https://jobright.ai/jobs/info/68f327219a65fd345858455f?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 16 |
 | **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68f14fadf462172a5a7d60d1?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Oct 16 |
+| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f14b67ef766b3f0fd0b593?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
