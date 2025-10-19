@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f22f7fcb0abf15612f56dd?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Oct 19 |
+| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f1eb61e6870116b1f5e54e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
+| ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68a00c47cc9ee94dc911bb9e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
+| ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68cd847cb2a74e1837ed820e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
+| ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68cf7b28846f0b04af68261f?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
+| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f1d7edf462172a5a7dd06c?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Oct 19 |
+| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f2245165ce784c102ede06?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
+| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f1d5f9f462172a5a7dced5?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
+| ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f1bed3e6870116b1f5cd2e?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
+| ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be94?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Oct 19 |
+| ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f1c421ef766b3f0fd11f5c?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
+| ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/689fe096faa4e875e828bbe7?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
+| ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68cd1986b2a74e1837ed2527?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
+| ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68cc66cb7342c7623ae6444e?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Oct 19 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/68ccfc5a77add66568abd1af?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Oct 19 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Minneapolis)](https://jobright.ai/jobs/info/68ea01ee54fbf903f6a80439?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Oct 19 |
 | **[LISI AEROSPACE NORTH AMERICA](http://www.lisi-aerospace.com)** | **[LEAP INTERN](https://jobright.ai/jobs/info/68f4dcaf9a65fd345858c9bb?utm_campaign=1049&utm_source=git)** | Hacienda Heights, CA | On Site | Oct 19 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, User Experience and Web Strategy](https://jobright.ai/jobs/info/68eea7c046e5b153e5a5de59?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | On Site | Oct 17 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Photoshop Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/68f4713c76a51a4307bd1641?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Oct 16 |
 | **[Stratus®](https://www.stratusteam.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/68f3129576a51a4307bcad01?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Oct 16 |
-| **[GAF](http://www.gaf.com/)** | **[Design Services/Architectural Intern](https://jobright.ai/jobs/info/68f1a840ef766b3f0fd1071c?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Oct 16 |
-| **[Stratus®](https://www.stratusteam.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/68f305959a65fd3458582ebe?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Oct 16 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Innovation - Designer (Spring 2026)](https://jobright.ai/jobs/info/68f199eff462172a5a7da6e4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 16 |
-| **[Cider](https://shop.shopcider.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68f19545ef766b3f0fd0fa00?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
-| **[FieldPulse](https://www.fieldpulse.com/)** | **[Graphic Design / Summer 2026 Internship](https://jobright.ai/jobs/info/68f1943def766b3f0fd0f839?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[Architecture and Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68f193c3f462172a5a7d9f7b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 16 |
-| **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[Summer Intern - Document & Drawing Digitization](https://jobright.ai/jobs/info/68f18b8fe6870116b1f5a42b?utm_campaign=1049&utm_source=git)** | Arkansas, United States | On Site | Oct 16 |
-| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68f174a1e6870116b1f593b1?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | Oct 16 |
-| **[Progressive Companies](http://www.progressiveae.com)** | **[Summer 2026 Landscape Architecture Intern](https://jobright.ai/jobs/info/68f17429ef766b3f0fd0e426?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Oct 16 |
-| ↳ | **[Summer 2026 Interior Design Student Intern](https://jobright.ai/jobs/info/68f16f92f462172a5a7d8771?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 16 |
-| **[FieldPulse](https://www.fieldpulse.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/68f16f06ef766b3f0fd0e154?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
-| **[Progressive Companies](http://www.progressiveae.com)** | **[Summer 2026 Architectural Student Intern](https://jobright.ai/jobs/info/68f16d3ae6870116b1f58d91?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 16 |
-| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68f16d28ef766b3f0fd0de52?utm_campaign=1049&utm_source=git)** | Tysons Corner, Virginia | On Site | Oct 16 |
-| **[OWM](https://owm.ai)** | **[Content Creator Intern](https://jobright.ai/jobs/info/68f16c1ae6870116b1f58c0e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
