@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68da38220b832179ca4aca24?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 20 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment CAD Design Intern, Spring 2026](https://jobright.ai/jobs/info/68f61f6c9a65fd3458591536?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Oct 20 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto Graphic Designer Intern](https://jobright.ai/jobs/info/68f5f9579a65fd3458590a79?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Oct 20 |
 | **[Apple](https://www.apple.com)** | **[FY26 Apple Workplace Design - Innovation Team Internship](https://jobright.ai/jobs/info/68f5a6af9a63986de7579659?utm_campaign=1049&utm_source=git)** | San Jose, California, United States | On Site | Oct 19 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Oct 19 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68cd847cb2a74e1837ed820e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68cf7b28846f0b04af68261f?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f1d7edf462172a5a7dd06c?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Oct 19 |
-| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f1d5f9f462172a5a7dced5?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
 | ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f2245165ce784c102ede06?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
+| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f1d5f9f462172a5a7dced5?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f1bed3e6870116b1f5cd2e?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be94?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Oct 19 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f1c421ef766b3f0fd11f5c?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cfe877846f0b04af6861b7?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Oct 17 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/68e8acd9c72beb74cb321207?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Oct 17 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b8dc995b42bc45628284a3?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Oct 17 |
-| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - 3D Art](https://jobright.ai/jobs/info/68d5de6f1f7fb2169ab14425?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Oct 17 |
-| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Fall 2025)](https://jobright.ai/jobs/info/68d7772561a175619f8ce9f4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
