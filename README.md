@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Platforms (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68f82d84b0edcf159dc8f176?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Oct 21 |
 | **[Talentix](https://thetalentix.com/)** | **[UX Designer(Intern)](https://jobright.ai/jobs/info/68f815f15dc1be6012820e4a?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Oct 21 |
 | **[ELAY WORLDWIDE](https://elayworldwide.com/)** | **[Internship Creative Content & Operations Assistant (Unpaid)](https://jobright.ai/jobs/info/68f81259b0edcf159dc8e670?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Oct 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Platforms (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68f8123fb0edcf159dc8e65f?utm_campaign=1049&utm_source=git)** | Washington, DC 20004 | Hybrid | Oct 21 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Illumio](http://www.illumio.com)** | **[Technical Content Design Intern](https://jobright.ai/jobs/info/68f6e31e9a63986de7583300?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Oct 20 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Apparel Design](https://jobright.ai/jobs/info/68f6dd5b9a63986de7582f5d?utm_campaign=1049&utm_source=git)** | HQ-Office, San Francisco, CA, USA | On Site | Oct 20 |
 | ↳ | **[F.I.T. Intern Apparel Design](https://jobright.ai/jobs/info/68f6dc449a63986de7582d1c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 20 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Marketing & Communications Internship - Summer 2026](https://jobright.ai/jobs/info/68f6dc0c9a63986de7582cc0?utm_campaign=1049&utm_source=git)** | US-VA-Reston | Hybrid | Oct 20 |
 | **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Spring 2026 TikTok and Communications Intern](https://jobright.ai/jobs/info/68f6db459a63986de7582b74?utm_campaign=1049&utm_source=git)** | Washington,DC--Hybrid | Hybrid | Oct 20 |
 | **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Graphic Design (Intern)](https://jobright.ai/jobs/info/68f7d5235dc1be601281c738?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Oct 20 |
 | **[State of Missouri](http://mo.gov)** | **[Interior Design Unit Intern](https://jobright.ai/jobs/info/68f6d3f99a63986de758292d?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Oct 20 |
