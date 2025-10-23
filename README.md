@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc Apparel Design Intern](https://jobright.ai/jobs/info/68f1bcafe6870116b1f5c85f?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 22 |
+| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Environment Artist - 2026 Summer Internship](https://jobright.ai/jobs/info/68f9ae096de2db04dc3eb2f1?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Oct 22 |
+| **[GlobeKin, Inc.](https://www.globekin.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68f9ad07cadb2e5a06a66d05?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
+| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Area Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/68f9ac216de2db04dc3eb1ce?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Oct 22 |
+| ↳ | **[Art Outsourcing - 2026 Summer Internship](https://jobright.ai/jobs/info/68f9aadecadb2e5a06a66c17?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Oct 22 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 22 |
 | ↳ | **[NIKE, Inc Footwear & Apparel, Color & Materials Design Intern](https://jobright.ai/jobs/info/68f1bca5e6870116b1f5c843?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 22 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 22 |
@@ -86,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Cinq à Sept](http://cinqasept.nyc)** | **[Design Internship](https://jobright.ai/jobs/info/68f93ae76de2db04dc3e6f2c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Oct 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68f934b0a628d10664e8a64b?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Oct 22 |
 | **[KoolShiit](https://www.koolshiit.com/)** | **[Social Media Creatives - internship](https://jobright.ai/jobs/info/68f93175cadb2e5a06a622bf?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Oct 22 |
-| **[Uline](http://www.uline.com)** | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f93170cadb2e5a06a622bc?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Oct 22 |
 | **[Inked Brands](https://www.inkedbrands.com/)** | **[Intern Fair Applicants](https://jobright.ai/jobs/info/68f92e6da628d10664e8a1c0?utm_campaign=1049&utm_source=git)** | Bowling Green, Kentucky, United States | On Site | Oct 22 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/68f92c0f6de2db04dc3e625c?utm_campaign=1049&utm_source=git)** | 1615 Locust St, Des Moines, IA, 50309, US | On Site | Oct 22 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f92bb5cadb2e5a06a61e33?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Creative Operations Intern](https://jobright.ai/jobs/info/68dbfdb56f6c5c3fadf35a81?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Oct 22 |
 | **[TruStage](https://www.trustage.com/)** | **[User Experience Design Intern (Hybrid)](https://jobright.ai/jobs/info/68bf1847702aa35207aa312e?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Oct 22 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - UI/UX](https://jobright.ai/jobs/info/68dc7135accfd24b67e55962?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 22 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc Innovation Brand Creative Studio Intern](https://jobright.ai/jobs/info/68f89da74bafad6d2d76475b?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 22 |
-| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Inclusive Design & Digital Accessibility - Summer 2026](https://jobright.ai/jobs/info/68f859f4a628d10664e820c5?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 21 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern - Interior Design](https://jobright.ai/jobs/info/68f8591d6de2db04dc3de45b?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Oct 21 |
-| **[Nike](http://www.nike.com)** | **[Jordan Design Undergraduate Internship](https://jobright.ai/jobs/info/68f848ac6de2db04dc3dd90d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
