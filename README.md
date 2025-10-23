@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68fa8053edd190144238d42c?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Oct 23 |
+| **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fa8035edd190144238d402?utm_campaign=1049&utm_source=git)** | Vestavia Hills,AL,US | Hybrid | Oct 23 |
+| **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40d98f758fe1f97e6305d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 23 |
+| **[Threddle](https://threddle.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68fa710a67272b29af72f3ee?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 23 |
+| **[PlayStation](https://www.playstation.com/)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/68fa6c9367272b29af72f1ac?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
 | **[Tank Connection](http://tankconnection.com)** | **[Marketing & Design Intern](https://jobright.ai/jobs/info/68fa64e07959161d33e62d5d?utm_campaign=1049&utm_source=git)** | Parsons, KS, US | On Site | Oct 23 |
 | **[Chil & Co. ](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/68fa633267272b29af72e99d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Consumer Products Product Design-Marvel Hardlines Intern, Spring 2026](https://jobright.ai/jobs/info/68fa548bedd190144238b03e?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c080ca702aa35207aadf94?utm_campaign=1049&utm_source=git)** | Bellevue, NE | Hybrid | Oct 22 |
 | **[First Internet Bank](https://www.firstib.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68bf2ee35c5d5f14f46d491d?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Oct 22 |
 | **[ServiceNow](http://www.servicenow.com)** | **[EX - UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68dc63d7accfd24b67e550c4?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Oct 22 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Spring 2026 Intern – Graphic Design (OIG)](https://jobright.ai/jobs/info/68c1208d233c7d3e64d0006b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 22 |
-| **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68dc6d5eddc10244dd6756e0?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Oct 22 |
-| **[SmithGroup](https://www.smithgroup.com/)** | **[SmithGroup Design a Better Future Scholarship - Landscape Architecture Internship](https://jobright.ai/jobs/info/68dcc675a125e75c422a544c?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | Oct 22 |
-| **[Fervo Energy](https://www.fervoenergy.com)** | **[Multimedia Internship](https://jobright.ai/jobs/info/68c288288753a565272fa27c?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Oct 22 |
-| **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c0817d5c5d5f14f46de8e8?utm_campaign=1049&utm_source=git)** | Omaha, NE | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
