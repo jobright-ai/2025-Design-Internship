@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68fa9e8b67272b29af731f9e?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Oct 23 |
+| **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Graphic Design Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/68fa9b15edd190144238f0b8?utm_campaign=1049&utm_source=git)** | Bloomington, IN | On Site | Oct 23 |
+| **[WillowTree](http://www.willowtreeapps.com)** | **[Design (UX/UI) Intern (US) - Summer 2026](https://jobright.ai/jobs/info/68fa999b67272b29af731a42?utm_campaign=1049&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Oct 23 |
+| **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68fa9709b2c86843bf20fc7d?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Oct 23 |
+| **[Bohler](https://bohlerengineering.com)** | **[Landscape Designer Intern - Summer 2026](https://jobright.ai/jobs/info/68fa941467272b29af731465?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Oct 23 |
+| **[Charlotte Checkers](http://gocheckers.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68fa9383edd190144238e8a5?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Oct 23 |
+| **[IDEMIA](https://www.idemia.com/)** | **[User Experience Design Research Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8e56edd190144238e2a2?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Oct 23 |
+| ↳ | **[User Experience Design Research Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8c5cb2c86843bf20f28c?utm_campaign=1049&utm_source=git)** | US-VA-Reston | Hybrid | Oct 23 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68fa8053edd190144238d42c?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Oct 23 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fa8035edd190144238d402?utm_campaign=1049&utm_source=git)** | Vestavia Hills,AL,US | Hybrid | Oct 23 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40d98f758fe1f97e6305d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 23 |
@@ -103,7 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Design Internship Winter/Spring 2026](https://jobright.ai/jobs/info/68f983cca628d10664e8d843?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68f14fadf462172a5a7d60d1?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Winter/Spring 2026](https://jobright.ai/jobs/info/68f95f88cadb2e5a06a6465f?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 22 |
-| **[NDCLA](https://ndcla.us/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68f9579ecadb2e5a06a64257?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Oct 22 |
 | **[Rocket Loans](http://www.rocketloans.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68f951e86de2db04dc3e8403?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 22 |
 | **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/68f95174a628d10664e8bec9?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 22 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/68eeb106d078b81ad160dc83?utm_campaign=1049&utm_source=git)** | De Pere, WI | On Site | Oct 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fuss & O'Neill](http://www.fando.com)** | **[Internship - Landscape Designer](https://jobright.ai/jobs/info/68dbf11b97329f2f7732144c?utm_campaign=1049&utm_source=git)** | Springfield, MA | Hybrid | Oct 22 |
 | **[ServiceNow](http://www.servicenow.com)** | **[EX - Product Design Internships (UX, Visual and Content Design) - Summer 2026](https://jobright.ai/jobs/info/68e0d045b99ec3563b0d3ef8?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Oct 22 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Oct 22 |
-| **[GPTZero](https://gptzero.me)** | **[Design Intern](https://jobright.ai/jobs/info/68f915a46de2db04dc3e535b?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 22 |
-| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Program Management (Design Team)](https://jobright.ai/jobs/info/68c664697d0db41142739895?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Oct 22 |
-| **[Law Office of Kenneth E. Berger, LLC](http://www.bergerlawsc.com)** | **[Content & Digital Media Intern](https://jobright.ai/jobs/info/68f90cf16de2db04dc3e4c2c?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Oct 22 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/68bf497a5c5d5f14f46d5c2a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Oct 22 |
-| **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c080ca702aa35207aadf94?utm_campaign=1049&utm_source=git)** | Bellevue, NE | Hybrid | Oct 22 |
-| **[First Internet Bank](https://www.firstib.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68bf2ee35c5d5f14f46d491d?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Oct 22 |
-| **[ServiceNow](http://www.servicenow.com)** | **[EX - UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68dc63d7accfd24b67e550c4?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
