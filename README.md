@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Purdue Department of Anthropology](https://www.cla.purdue.edu/anthropology/)** | **[Multimedia Designer - Student](https://jobright.ai/jobs/info/68fb2a659e8e925ac6c8941f?utm_campaign=1049&utm_source=git)** | West Lafayette, OH | On Site | Oct 24 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68f80848b0edcf159dc8df16?utm_campaign=1049&utm_source=git)** | Spring, TX | On Site | Oct 23 |
 | **[Bohannan Huston, Inc.](http://bhinc.com)** | **[3D Environment Artist - 3D Generalist Intern](https://jobright.ai/jobs/info/68faf81b9e8e925ac6c87fa4?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Oct 23 |
 | **[Kokomo Games](https://kokomo.games)** | **[UGC & Content Creation Intern/Manager/Lead](https://jobright.ai/jobs/info/68faf2939e8e925ac6c87c73?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Oct 23 |
@@ -72,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68fadc6f8d32c164778cc049?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Oct 23 |
 | **[Bohannan Huston, Inc.](http://bhinc.com)** | **[3D Environment Artist - 3D Generalist Intern](https://jobright.ai/jobs/info/68fadb369e8e925ac6c86e1f?utm_campaign=1049&utm_source=git)** | Albuquerque,NM,US | On Site | Oct 23 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68fad57a3c99cc1d96026ad4?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 23 |
-| **[PlayStation](https://www.playstation.com/)** | **[Design Intern - Undergraduate](https://jobright.ai/jobs/info/68facfbb8d32c164778cb93d?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
+| **[PlayStation](https://www.playstation.com/)** | **[Design Intern - Undergraduate](https://jobright.ai/jobs/info/68fad10a9e8e925ac6c868d2?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
 | **[Euclitics](https://www.euclitics.com/)** | **[UI/UX Designer Intern (Unpaid)](https://jobright.ai/jobs/info/68facaa3edd1901442390c1c?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Oct 23 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fac4b3edd1901442390a5f?utm_campaign=1049&utm_source=git)** | Birmingham, AL | Hybrid | Oct 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/68fabc7bedd1901442390700?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern — User Experience Design](https://jobright.ai/jobs/info/68f9dc767ab77a56387e7a71?utm_campaign=1049&utm_source=git)** | Burlington, NC | On Site | Oct 23 |
 | **[Purdue Department of Anthropology](https://www.cla.purdue.edu/anthropology/)** | **[Graphic Design Intern - Student Service](https://jobright.ai/jobs/info/68fae65b3c99cc1d9602740d?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Oct 23 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Apparel Design Intern](https://jobright.ai/jobs/info/68f1bcafe6870116b1f5c85f?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 22 |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Graphic Design - Summer 2026](https://jobright.ai/jobs/info/68fb0eebe154835f11ef9651?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Oct 22 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Environment Artist - 2026 Summer Internship](https://jobright.ai/jobs/info/68f9ae096de2db04dc3eb2f1?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Oct 22 |
 | ↳ | **[Area Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/68f9ac216de2db04dc3eb1ce?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Oct 22 |
 | ↳ | **[Art Outsourcing - 2026 Summer Internship](https://jobright.ai/jobs/info/68f9aadecadb2e5a06a66c17?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Oct 22 |
