@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[CENENCE](https://www.linkedin.com/company/105336376)** | **[New Media Intern](https://jobright.ai/jobs/info/68fab94b67272b29af73309b?utm_campaign=1049&utm_source=git)** | Wilmington, NC | Hybrid | Oct 23 |
 | **[TmrO App](https://www.tmroapp.com/)** | **[Office Intern](https://jobright.ai/jobs/info/68fab81bedd19014423903f2?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
 | **[PlayStation](https://www.playstation.com/)** | **[Environment Art Intern - Undergraduate](https://jobright.ai/jobs/info/68fab4a6b2c86843bf211403?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
-| **[GlobeKin, Inc.](https://www.globekin.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faae3b67272b29af732840?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Oct 23 |
 | **[Kuvare Holdings](http://kuvare.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faad7dedd190144238fd40?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Oct 23 |
 | **[The Mullings Group](http://mullingsgroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faa73867272b29af732433?utm_campaign=1049&utm_source=git)** | Delray Beach, FL | On Site | Oct 23 |
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/68faa369b2c86843bf2108fa?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Oct 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/68f92c0f6de2db04dc3e625c?utm_campaign=1049&utm_source=git)** | 1615 Locust St, Des Moines, IA, 50309, US | On Site | Oct 22 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f92bb5cadb2e5a06a61e33?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 22 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/68f92b8c6de2db04dc3e6177?utm_campaign=1049&utm_source=git)** | Washington, US | On Site | Oct 22 |
+| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f924aaa628d10664e89a6f?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
