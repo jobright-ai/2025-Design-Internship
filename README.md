@@ -57,15 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Creative Design Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def79144d32141e0c045cd?utm_campaign=1049&utm_source=git)** | Green Bay, WI | Hybrid | Oct 24 |
+| **[High Level Media Sports](https://www.highlevelmediasports.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68fb99cd4129dd33cd133039?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 24 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - UX Design](https://jobright.ai/jobs/info/68ce2e331ad6b16f028a2b67?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Oct 24 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - User Experience (UX) - IT](https://jobright.ai/jobs/info/68f16fe0f462172a5a7d87e4?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 24 |
+| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c35bb4b8c22d3828471258?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Oct 24 |
 | **[Jeu de paume](jeudepaume.com)** | **[Graphic Design Fashion Internship Role](https://jobright.ai/jobs/info/68fb820993c49825ab103773?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c5185cdb52c07d28840fcc?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Oct 24 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68a7bf9fd627244576e2e60f?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Oct 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Spring 2026)](https://jobright.ai/jobs/info/68ecfcf06335d332361248da?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Oct 24 |
+| **[TapSphere](https://www.tapsphere.io)** | **[Intern Design/Development: ARG + Storytelling](https://jobright.ai/jobs/info/68fb8777f55bb021a889a536?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68cdc1aeb2a74e1837edbf0d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Product Design-Marvel Hardlines Intern, Spring 2026](https://jobright.ai/jobs/info/68fb7bb04129dd33cd132606?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 24 |
 | **[Nutanix](http://www.nutanix.com)** | **[UX Design Intern (Summer 2026- Undergraduates Only)](https://jobright.ai/jobs/info/68f373149a63986de7572274?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| **[Lillup](https://www.lillup.com/)** | **[UX UI Product Design Interns – (Remote, Unpaid)](https://jobright.ai/jobs/info/68fb4d16f55bb021a889923a?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Purdue Department of Anthropology](https://www.cla.purdue.edu/anthropology/)** | **[Multimedia Designer - Student](https://jobright.ai/jobs/info/68fb2a659e8e925ac6c8941f?utm_campaign=1049&utm_source=git)** | West Lafayette, OH | On Site | Oct 24 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68f80848b0edcf159dc8df16?utm_campaign=1049&utm_source=git)** | Spring, TX | On Site | Oct 23 |
 | **[Bohannan Huston, Inc.](http://bhinc.com)** | **[3D Environment Artist - 3D Generalist Intern](https://jobright.ai/jobs/info/68faf81b9e8e925ac6c87fa4?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Oct 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Loans](http://www.rocketloans.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68f951e86de2db04dc3e8403?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 22 |
 | **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/68f95174a628d10664e8bec9?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 22 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/68eeb106d078b81ad160dc83?utm_campaign=1049&utm_source=git)** | De Pere, WI | On Site | Oct 22 |
-| **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/68f9499ea628d10664e8b8ec?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Oct 22 |
-| ↳ | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/68f947bfcadb2e5a06a63604?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 22 |
-| ↳ | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/68f9438ccadb2e5a06a630df?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Oct 22 |
-| **[TWP](http://www.twpclothing.com)** | **[Intern - Design](https://jobright.ai/jobs/info/68f97647cadb2e5a06a64ffa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - UI/UX](https://jobright.ai/jobs/info/68f93de66de2db04dc3e7299?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
