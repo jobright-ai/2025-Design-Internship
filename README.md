@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Zebrosys](www.zebrosys.com)** | **[Graphic Design Mentee](https://jobright.ai/jobs/info/68fbbbe1f55bb021a889be17?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 24 |
+| **[Humanscale](http://www.humanscale.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68fbd44c93c49825ab1064db?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Oct 24 |
+| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Urban Outfitters Home Design Summer Intern  2026 - Textiles](https://jobright.ai/jobs/info/68fbd16593c49825ab10615e?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 24 |
+| **[WindBorne Systems](https://windbornesystems.com)** | **[Creative Intern](https://jobright.ai/jobs/info/68fbc15893c49825ab1056a6?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Oct 24 |
 | **[Euclitics](https://www.euclitics.com/)** | **[UI/UX Designer Intern (Unpaid)](https://jobright.ai/jobs/info/68fbb9c54129dd33cd1341da?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Oct 24 |
 | **[Northeast Corridor Commission](http://nec-commission.com/)** | **[Spring-Summer 2026 Planning, Reporting, Communications Intern](https://jobright.ai/jobs/info/68fba3a04129dd33cd1334b1?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Creative Design Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def79144d32141e0c045cd?utm_campaign=1049&utm_source=git)** | Green Bay, WI | Hybrid | Oct 24 |
@@ -89,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68fadc6f8d32c164778cc049?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Oct 23 |
 | **[Bohannan Huston, Inc.](http://bhinc.com)** | **[3D Environment Artist - 3D Generalist Intern](https://jobright.ai/jobs/info/68fadb369e8e925ac6c86e1f?utm_campaign=1049&utm_source=git)** | Albuquerque,NM,US | On Site | Oct 23 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68fad57a3c99cc1d96026ad4?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 23 |
-| **[PlayStation](https://www.playstation.com/)** | **[Design Intern - Undergraduate](https://jobright.ai/jobs/info/68facfbb8d32c164778cb93d?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
+| **[PlayStation](https://www.playstation.com/)** | **[Design Intern - Undergraduate](https://jobright.ai/jobs/info/68fad10a9e8e925ac6c868d2?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fac4b3edd1901442390a5f?utm_campaign=1049&utm_source=git)** | Birmingham, AL | Hybrid | Oct 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/68fabc7bedd1901442390700?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68984bee5574fd6bc0c77429?utm_campaign=1049&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Creative Design Internship Winter/Spring 2026](https://jobright.ai/jobs/info/68f983cca628d10664e8d843?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68f14fadf462172a5a7d60d1?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | **[Allegion](https://www.allegion.com)** | **[UX Generalist Intern](https://jobright.ai/jobs/info/68f6a17e76a51a4307bdc8eb?utm_campaign=1049&utm_source=git)** | Carmel, IN | Remote | Oct 22 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Winter/Spring 2026](https://jobright.ai/jobs/info/68f95f88cadb2e5a06a6465f?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 22 |
-| **[Rocket Loans](http://www.rocketloans.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68f951e86de2db04dc3e8403?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
