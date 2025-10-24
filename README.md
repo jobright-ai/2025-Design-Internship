@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutanix](http://www.nutanix.com)** | **[UX Design Intern (Summer 2026- Undergraduates Only)](https://jobright.ai/jobs/info/68f373149a63986de7572274?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
+| **[Lillup](https://www.lillup.com/)** | **[UX UI Product Design Interns – (Remote, Unpaid)](https://jobright.ai/jobs/info/68fb4d16f55bb021a889923a?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Purdue Department of Anthropology](https://www.cla.purdue.edu/anthropology/)** | **[Multimedia Designer - Student](https://jobright.ai/jobs/info/68fb2a659e8e925ac6c8941f?utm_campaign=1049&utm_source=git)** | West Lafayette, OH | On Site | Oct 24 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68f80848b0edcf159dc8df16?utm_campaign=1049&utm_source=git)** | Spring, TX | On Site | Oct 23 |
 | **[Bohannan Huston, Inc.](http://bhinc.com)** | **[3D Environment Artist - 3D Generalist Intern](https://jobright.ai/jobs/info/68faf81b9e8e925ac6c87fa4?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Oct 23 |
@@ -73,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68fadc6f8d32c164778cc049?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Oct 23 |
 | **[Bohannan Huston, Inc.](http://bhinc.com)** | **[3D Environment Artist - 3D Generalist Intern](https://jobright.ai/jobs/info/68fadb369e8e925ac6c86e1f?utm_campaign=1049&utm_source=git)** | Albuquerque,NM,US | On Site | Oct 23 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68fad57a3c99cc1d96026ad4?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 23 |
-| **[PlayStation](https://www.playstation.com/)** | **[Design Intern - Undergraduate](https://jobright.ai/jobs/info/68fad10a9e8e925ac6c868d2?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
-| **[Euclitics](https://www.euclitics.com/)** | **[UI/UX Designer Intern (Unpaid)](https://jobright.ai/jobs/info/68facaa3edd1901442390c1c?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Oct 23 |
+| **[PlayStation](https://www.playstation.com/)** | **[Design Intern - Undergraduate](https://jobright.ai/jobs/info/68facfbb8d32c164778cb93d?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fac4b3edd1901442390a5f?utm_campaign=1049&utm_source=git)** | Birmingham, AL | Hybrid | Oct 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/68fabc7bedd1901442390700?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68984bee5574fd6bc0c77429?utm_campaign=1049&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Inked Brands](https://www.inkedbrands.com/)** | **[Intern Fair Applicants](https://jobright.ai/jobs/info/68f92e6da628d10664e8a1c0?utm_campaign=1049&utm_source=git)** | Bowling Green, Kentucky, United States | On Site | Oct 22 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/68f92c0f6de2db04dc3e625c?utm_campaign=1049&utm_source=git)** | 1615 Locust St, Des Moines, IA, 50309, US | On Site | Oct 22 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f92bb5cadb2e5a06a61e33?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 22 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/68f92b8c6de2db04dc3e6177?utm_campaign=1049&utm_source=git)** | Washington, US | On Site | Oct 22 |
-| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f924aaa628d10664e89a6f?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
