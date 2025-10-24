@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68fad57a3c99cc1d96026ad4?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 23 |
+| **[PlayStation](https://www.playstation.com/)** | **[Design Intern - Undergraduate](https://jobright.ai/jobs/info/68facfbb8d32c164778cb93d?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
+| **[Euclitics](https://www.euclitics.com/)** | **[UI/UX Designer Intern (Unpaid)](https://jobright.ai/jobs/info/68facaa3edd1901442390c1c?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Oct 23 |
+| **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fac4b3edd1901442390a5f?utm_campaign=1049&utm_source=git)** | Birmingham, AL | Hybrid | Oct 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/68fabc7bedd1901442390700?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68984bee5574fd6bc0c77429?utm_campaign=1049&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
 | **[CENENCE](https://www.linkedin.com/company/105336376)** | **[New Media Intern](https://jobright.ai/jobs/info/68fab94b67272b29af73309b?utm_campaign=1049&utm_source=git)** | Wilmington, NC | Hybrid | Oct 23 |
 | **[TmrO App](https://www.tmroapp.com/)** | **[Office Intern](https://jobright.ai/jobs/info/68fab81bedd19014423903f2?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
 | **[PlayStation](https://www.playstation.com/)** | **[Environment Art Intern - Undergraduate](https://jobright.ai/jobs/info/68fab4a6b2c86843bf211403?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
+| **[GlobeKin, Inc.](https://www.globekin.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faae3b67272b29af732840?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Oct 23 |
 | **[Kuvare Holdings](http://kuvare.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faad7dedd190144238fd40?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Oct 23 |
-| **[GlobeKin, Inc.](https://www.globekin.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faac7767272b29af73272c?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Oct 23 |
 | **[The Mullings Group](http://mullingsgroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faa73867272b29af732433?utm_campaign=1049&utm_source=git)** | Delray Beach, FL | On Site | Oct 23 |
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/68faa369b2c86843bf2108fa?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Oct 23 |
 | **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68fa9e8b67272b29af731f9e?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Oct 23 |
@@ -119,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Winter/Spring 2026](https://jobright.ai/jobs/info/68f984dccadb2e5a06a65783?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | ↳ | **[Creative Design Internship Winter/Spring 2026](https://jobright.ai/jobs/info/68f983cca628d10664e8d843?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68f14fadf462172a5a7d60d1?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
+| **[Allegion](https://www.allegion.com)** | **[UX Generalist Intern](https://jobright.ai/jobs/info/68f6a17e76a51a4307bdc8eb?utm_campaign=1049&utm_source=git)** | Carmel, IN | Remote | Oct 22 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Winter/Spring 2026](https://jobright.ai/jobs/info/68f95f88cadb2e5a06a6465f?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 22 |
 | **[Rocket Loans](http://www.rocketloans.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68f951e86de2db04dc3e8403?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 22 |
 | **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/68f95174a628d10664e8bec9?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f9174d6de2db04dc3e550f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 22 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f915e26de2db04dc3e538d?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 22 |
 | ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9155d6de2db04dc3e5321?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Oct 22 |
-| ↳ | **[Web Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f92bd7cadb2e5a06a61e71?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 22 |
-| ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f92d936de2db04dc3e64e2?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Oct 22 |
-| ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f92c0a6de2db04dc3e6254?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Oct 22 |
-| **[Xerox](https://www.xerox.com/)** | **[Print/Scan Production Internship](https://jobright.ai/jobs/info/68f90524cadb2e5a06a5fcce?utm_campaign=1049&utm_source=git)** | Nashville, TN | Hybrid | Oct 22 |
-| **[iRobot](https://www.irobot.com)** | **[Spring 2026: Product Design & Illustration Intern](https://jobright.ai/jobs/info/68eeb12ed078b81ad160dce8?utm_campaign=1049&utm_source=git)** | Bedford, MA | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
