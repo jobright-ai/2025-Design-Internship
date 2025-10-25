@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meta](https://www.meta.com)** | **[UX Research Intern, Quantitative (Summer 2026)](https://jobright.ai/jobs/info/68fcf0ab0ab3b222462a08fa?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
+| ↳ | **[Quantitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fceebd0ab3b222462a07dc?utm_campaign=1049&utm_source=git)** | Burlingame, CA | On Site | Oct 25 |
+| ↳ | **[UX Research Intern, Qualitative (Summer 2026)](https://jobright.ai/jobs/info/68fce9c7e04ac838fb5adaf1?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
+| ↳ | **[UX Research Scientist Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fce864e04ac838fb5ada47?utm_campaign=1049&utm_source=git)** | Burlingame, CA | On Site | Oct 25 |
+| ↳ | **[Qualitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fce7c5e0c73b3a11190a36?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
+| ↳ | **[UX Research Scientist Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fce73be04ac838fb5ad998?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
+| ↳ | **[Qualitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fce71ee04ac838fb5ad98a?utm_campaign=1049&utm_source=git)** | Burlingame, CA | On Site | Oct 25 |
+| ↳ | **[Quantitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fce634e04ac838fb5ad922?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04b6ff758fe1f97e4c072?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c7cbc6f42a830e1c7e8240?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Oct 25 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[User Experience Designer Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68cda5211ad6b16f0289cb38?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 25 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[UIUX Intern](https://jobright.ai/jobs/info/68c2f38d5adaee6c9bda5a99?utm_campaign=1049&utm_source=git)** | Moraine, OH | On Site | Oct 25 |
@@ -65,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68e026a3f758fe1f97e4a154?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 25 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68cef67c846f0b04af67e091?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Oct 25 |
 | ↳ | **[Interior Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68df7ed26be63b6ec997097c?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Oct 25 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Creative Intern, Spring 2026](https://jobright.ai/jobs/info/68fcd842e04ac838fb5ad407?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 25 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Creative Services Intern - SMSC Marketing](https://jobright.ai/jobs/info/68c4c2467279451d6a0376ac?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Oct 25 |
 | **[Rocket](https://rocket.delivery/null/en)** | **[Graphic Design Intern - Winter 2026](https://jobright.ai/jobs/info/68e04211b99ec3563b0cdfdc?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 25 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Creative Services Intern - SMSC Marketing](https://jobright.ai/jobs/info/68c4c89e31e5763f188e395d?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Oct 25 |
@@ -144,17 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68fadc6f8d32c164778cc049?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Oct 23 |
 | **[Bohannan Huston, Inc.](http://bhinc.com)** | **[3D Environment Artist - 3D Generalist Intern](https://jobright.ai/jobs/info/68fadb369e8e925ac6c86e1f?utm_campaign=1049&utm_source=git)** | Albuquerque,NM,US | On Site | Oct 23 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68fad57a3c99cc1d96026ad4?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 23 |
-| **[PlayStation](https://www.playstation.com/)** | **[Design Intern - Undergraduate](https://jobright.ai/jobs/info/68fad10a9e8e925ac6c868d2?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
+| **[PlayStation](https://www.playstation.com/)** | **[Design Intern - Undergraduate](https://jobright.ai/jobs/info/68facfbb8d32c164778cb93d?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fac4b3edd1901442390a5f?utm_campaign=1049&utm_source=git)** | Birmingham, AL | Hybrid | Oct 23 |
 | **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Creative Communications Intern](https://jobright.ai/jobs/info/68fc1c51f55bb021a88a0836?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 23 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/68fabc7bedd1901442390700?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68984bee5574fd6bc0c77429?utm_campaign=1049&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
-| **[CENENCE](https://www.linkedin.com/company/105336376)** | **[New Media Intern](https://jobright.ai/jobs/info/68fab94b67272b29af73309b?utm_campaign=1049&utm_source=git)** | Wilmington, NC | Hybrid | Oct 23 |
-| **[TmrO App](https://www.tmroapp.com/)** | **[Office Intern](https://jobright.ai/jobs/info/68fab81bedd19014423903f2?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
-| **[PlayStation](https://www.playstation.com/)** | **[Environment Art Intern - Undergraduate](https://jobright.ai/jobs/info/68fab4a6b2c86843bf211403?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
-| **[Kuvare Holdings](http://kuvare.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faad7dedd190144238fd40?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Oct 23 |
-| **[The Mullings Group](http://mullingsgroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faa73867272b29af732433?utm_campaign=1049&utm_source=git)** | Delray Beach, FL | On Site | Oct 23 |
-| **[kW Engineering](https://www.kw-engineering.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/68faa369b2c86843bf2108fa?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Oct 23 |
-| **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68fa9e8b67272b29af731f9e?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Oct 23 |
-| **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Graphic Design Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/68fa9b15edd190144238f0b8?utm_campaign=1049&utm_source=git)** | Bloomington, IN | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
