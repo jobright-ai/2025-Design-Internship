@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc5010f55bb021a88a2b15?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Design Visualization - AI CGI](https://jobright.ai/jobs/info/68fc41aa93c49825ab10b3a4?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Oct 24 |
 | **[PROCON](http://proconinc.com)** | **[Architectural Intern-2026](https://jobright.ai/jobs/info/68d4b4e7fcd3367e8df17154?utm_campaign=1049&utm_source=git)** | Hooksett, NH | On Site | Oct 24 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/68fc36c74129dd33cd139d65?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
@@ -151,7 +152,6 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd8337ddc10244dd680199?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 23 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68cfe5dfdbd9fb154edebb23?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - Communications - Spring/Summer 2026](https://jobright.ai/jobs/info/68f30af976a51a4307bca5db?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Oct 23 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Winter/Spring 2026 (On-Site)](https://jobright.ai/jobs/info/68f984dccadb2e5a06a65783?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddd64e09bda65a4b6246e9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd8c8bddc10244dd680baa?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Oct 23 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd873e44d32141e0bf79d7?utm_campaign=1049&utm_source=git)** | Escondido, CA | On Site | Oct 23 |
