@@ -92,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Studio AR&D Architects](http://www.studio-ard.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/68fc9bdee0c73b3a1118dc91?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Oct 25 |
 | **[Rocket Companies](https://rocket.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68fc9a8fe04ac838fb5aac06?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 25 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/68fcbae40ab3b2224629f0d5?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Oct 25 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Media Design Intern](https://jobright.ai/jobs/info/68fdda67e0c73b3a1119544b?utm_campaign=1049&utm_source=git)** | College Park, MD | On Site | Oct 25 |
 | **[Neon](https://neon.tech)** | **[NEON Digital Distribution Intern, Spring 2026](https://jobright.ai/jobs/info/68fc73cc4129dd33cd13c14f?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Oct 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc5010f55bb021a88a2b15?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Design Visualization - AI CGI](https://jobright.ai/jobs/info/68fc41aa93c49825ab10b3a4?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Oct 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68fadc6f8d32c164778cc049?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Oct 23 |
 | **[Bohannan Huston, Inc.](http://bhinc.com)** | **[3D Environment Artist - 3D Generalist Intern](https://jobright.ai/jobs/info/68fadb369e8e925ac6c86e1f?utm_campaign=1049&utm_source=git)** | Albuquerque,NM,US | On Site | Oct 23 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68fad57a3c99cc1d96026ad4?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 23 |
-| **[PlayStation](https://www.playstation.com/)** | **[Design Intern - Undergraduate](https://jobright.ai/jobs/info/68fad10a9e8e925ac6c868d2?utm_campaign=1049&utm_source=git)** | United States of America | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
