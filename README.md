@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARCO National Construction Company](https://www.arconational.com/)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68aa5cb16acf96396f729f9a?utm_campaign=1049&utm_source=git)** | Richmond Heights, MO | On Site | Oct 26 |
+| **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68a8b166758f2e4ac3ff45c6?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Oct 26 |
 | **[Pond & Company](https://www.pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Oct 26 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Visual Effects Designer Intern, Spring 2026](https://jobright.ai/jobs/info/68fe0f11e0c73b3a11196492?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern](https://jobright.ai/jobs/info/68cd40f2b2a74e1837ed471e?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Oct 26 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7c9a5f9f0336447de10a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Winter/Spring 2026 (On-Site)](https://jobright.ai/jobs/info/68f95f88cadb2e5a06a6465f?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 25 |
 | **[GoldBug](http://goldbuginc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68fd88be0ab3b222462a2b72?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Oct 25 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/68fd757f0ab3b222462a1e67?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Oct 25 |
 | **[Plan Monster](https://www.linkedin.com/company/108333842)** | **[Architectural Internship](https://jobright.ai/jobs/info/68fd37ad0ab3b222462a14c5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
 | **[Meta](https://www.meta.com)** | **[UX Research Intern, Quantitative (Summer 2026)](https://jobright.ai/jobs/info/68fcf0ab0ab3b222462a08fa?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
 | ↳ | **[Quantitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fceebd0ab3b222462a07dc?utm_campaign=1049&utm_source=git)** | Burlingame, CA | On Site | Oct 25 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Studio AR&D Architects](http://www.studio-ard.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/68fc9bdee0c73b3a1118dc91?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Oct 25 |
 | **[Rocket Companies](https://rocket.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68fc9a8fe04ac838fb5aac06?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 25 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/68fcbae40ab3b2224629f0d5?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Oct 25 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Media Design Intern](https://jobright.ai/jobs/info/68fdda67e0c73b3a1119544b?utm_campaign=1049&utm_source=git)** | College Park, MD | On Site | Oct 25 |
 | **[Neon](https://neon.tech)** | **[NEON Digital Distribution Intern, Spring 2026](https://jobright.ai/jobs/info/68fc73cc4129dd33cd13c14f?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Oct 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc5010f55bb021a88a2b15?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Design Visualization - AI CGI](https://jobright.ai/jobs/info/68fc41aa93c49825ab10b3a4?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Oct 24 |
