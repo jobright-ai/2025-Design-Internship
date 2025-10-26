@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Multimedia Design Intern](https://jobright.ai/jobs/info/68c4be5931e5763f188e324a?utm_campaign=1049&utm_source=git)** | Southfield, MI | On Site | Oct 26 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7c9a5f9f0336447de10a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Winter/Spring 2026 (On-Site)](https://jobright.ai/jobs/info/68f95f88cadb2e5a06a6465f?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 25 |
 | **[GoldBug](http://goldbuginc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68fd88be0ab3b222462a2b72?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Oct 25 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/68fd757f0ab3b222462a1e67?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Oct 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68fadced3c99cc1d96026eb4?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | Oct 23 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Creative Svcs/Graphic Design](https://jobright.ai/jobs/info/68fadcba9e8e925ac6c86ea9?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | On Site | Oct 23 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68fadc6f8d32c164778cc049?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Oct 23 |
-| **[Bohannan Huston, Inc.](http://bhinc.com)** | **[3D Environment Artist - 3D Generalist Intern](https://jobright.ai/jobs/info/68fadb369e8e925ac6c86e1f?utm_campaign=1049&utm_source=git)** | Albuquerque,NM,US | On Site | Oct 23 |
-| **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68fad57a3c99cc1d96026ad4?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
