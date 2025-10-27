@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Concord](https://concord.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68ff0f7ee0c73b3a1119926d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
 | **[Cookiy AI](https://cookiy.ai/)** | **[Creative Content Intern](https://jobright.ai/jobs/info/68fedfaae0c73b3a11197ffc?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Oct 26 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 26 |
 | **[Nuvia Global Foundation](nuviaglobal.org)** | **[Graphic Design / Multimedia Intern](https://jobright.ai/jobs/info/68fea1e7e0c73b3a11197878?utm_campaign=1049&utm_source=git)** | Dublin, OH | On Site | Oct 26 |
@@ -109,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Studio AR&D Architects](http://www.studio-ard.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/68fc9bdee0c73b3a1118dc91?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Oct 25 |
 | **[Rocket Companies](https://rocket.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68fc9a8fe04ac838fb5aac06?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 25 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/68fcbae40ab3b2224629f0d5?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Oct 25 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Media Design Intern](https://jobright.ai/jobs/info/68ff23e3e0c73b3a11199dd5?utm_campaign=1049&utm_source=git)** | College Park, MD | On Site | Oct 25 |
 | **[Neon](https://neon.tech)** | **[NEON Digital Distribution Intern, Spring 2026](https://jobright.ai/jobs/info/68fc73cc4129dd33cd13c14f?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Oct 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc5010f55bb021a88a2b15?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Design Visualization - AI CGI](https://jobright.ai/jobs/info/68fc41aa93c49825ab10b3a4?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Oct 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68cdc1aeb2a74e1837edbf0d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Product Design-Marvel Hardlines Intern, Spring 2026](https://jobright.ai/jobs/info/68fb7bb04129dd33cd132606?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 24 |
 | **[Nutanix](http://www.nutanix.com)** | **[UX Design Intern (Summer 2026- Undergraduates Only)](https://jobright.ai/jobs/info/68f373149a63986de7572274?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| **[Purdue Department of Anthropology](https://www.cla.purdue.edu/anthropology/)** | **[Multimedia Designer - Student](https://jobright.ai/jobs/info/68fb2a659e8e925ac6c8941f?utm_campaign=1049&utm_source=git)** | West Lafayette, OH | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
