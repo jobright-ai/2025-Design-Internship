@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Bliss Group](https://www.theblissgrp.com)** | **[Spring 2026 Graphic Design Internship](https://jobright.ai/jobs/info/68ffc7e4e0c73b3a1119e434?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
+| **[Jeu de paume](jeudepaume.com)** | **[Brand & Apparel Design Intern](https://jobright.ai/jobs/info/68ffbf7be0c73b3a1119dea0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 27 |
+| **[The Third Cartel](http://www.thethirdcartel.com)** | **[Creative Assistant Internship](https://jobright.ai/jobs/info/68ffb8630ab3b222462ad694?utm_campaign=1049&utm_source=git)** | Westland, MI | On Site | Oct 27 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Platform Team Intern](https://jobright.ai/jobs/info/68ffa649e0c73b3a1119d122?utm_campaign=1049&utm_source=git)** | Boston, MA, USA | On Site | Oct 27 |
 | **[Travelers](https://www.travelers.com)** | **[Enterprise Experience Design Intern](https://jobright.ai/jobs/info/68ff955d0ab3b222462ac207?utm_campaign=1049&utm_source=git)** | CT - Hartford | Hybrid | Oct 27 |
 | **[Talentix](https://thetalentix.com/)** | **[User Experience Design Specialist - Intern](https://jobright.ai/jobs/info/68ff94cce04ac838fb5b963c?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Oct 27 |
-| **[C3Aero LLC](https://www.c3aero.com)** | **[Product Design Intern (Spring 2026)](https://jobright.ai/jobs/info/68ff914be0c73b3a1119c591?utm_campaign=1049&utm_source=git)** | Burlington, MA | On Site | Oct 27 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/68e39d4fb99ec3563b0e19f2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 27 |
 | **[Jeu de paume](jeudepaume.com)** | **[Graphic Design Apparel Internship Role](https://jobright.ai/jobs/info/68ff8ef00ab3b222462abf78?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - UX Designer](https://jobright.ai/jobs/info/68ded1e644d32141e0c02b7c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 27 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7c9a5f9f0336447de10a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Winter/Spring 2026 (On-Site)](https://jobright.ai/jobs/info/68f95f88cadb2e5a06a6465f?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 25 |
 | **[Plan Monster](https://www.linkedin.com/company/108333842)** | **[Architectural Internship](https://jobright.ai/jobs/info/68fd37ad0ab3b222462a14c5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
-| **[Uber Freight](https://www.uberfreight.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/68ffacfbe0c73b3a1119d46d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
 | **[Meta](https://www.meta.com)** | **[UX Research Intern, Quantitative (Summer 2026)](https://jobright.ai/jobs/info/68fcf0ab0ab3b222462a08fa?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
 | ↳ | **[Quantitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fceebd0ab3b222462a07dc?utm_campaign=1049&utm_source=git)** | Burlingame, CA | On Site | Oct 25 |
 | ↳ | **[UX Research Intern, Qualitative (Summer 2026)](https://jobright.ai/jobs/info/68fce9c7e04ac838fb5adaf1?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northeast Corridor Commission](http://nec-commission.com/)** | **[Spring-Summer 2026 Planning, Reporting, Communications Intern](https://jobright.ai/jobs/info/68fba3a04129dd33cd1334b1?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Creative Design Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def79144d32141e0c045cd?utm_campaign=1049&utm_source=git)** | Green Bay, WI | Hybrid | Oct 24 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - UX Design](https://jobright.ai/jobs/info/68ce2e331ad6b16f028a2b67?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Oct 24 |
-| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c35bb4b8c22d3828471258?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
