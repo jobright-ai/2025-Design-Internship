@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Synopsys Inc](http://www.synopsys.com)** | **[Spring 2026 UX Intern (Bachelors)](https://jobright.ai/jobs/info/68f00a39de50091dbfa5190f?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Oct 27 |
+| **[BrightView Landscapes](https://www.brightview.com)** | **[Landscape Development Internship](https://jobright.ai/jobs/info/68ff4c03e04ac838fb5b7e58?utm_campaign=1049&utm_source=git)** | Johns Island, SC | On Site | Oct 27 |
+| ↳ | **[Landscape Development Internship](https://jobright.ai/jobs/info/68ff4b5ee04ac838fb5b7e37?utm_campaign=1049&utm_source=git)** | Ladson, SC | On Site | Oct 27 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68cee99ffb49c96ca6ea43d6?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Oct 27 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Firmwide Design Development Program - Summer Internship](https://jobright.ai/jobs/info/68cd20cae23def7af55b5c0d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Concord](https://concord.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68ff0f7ee0c73b3a1119926d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
 | **[Cookiy AI](https://cookiy.ai/)** | **[Creative Content Intern](https://jobright.ai/jobs/info/68fedfaae0c73b3a11197ffc?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Oct 26 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 26 |
@@ -78,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7c9a5f9f0336447de10a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Winter/Spring 2026 (On-Site)](https://jobright.ai/jobs/info/68f95f88cadb2e5a06a6465f?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 25 |
 | **[Plan Monster](https://www.linkedin.com/company/108333842)** | **[Architectural Internship](https://jobright.ai/jobs/info/68fd37ad0ab3b222462a14c5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
-| **[Adaptive Athletics Association](http://www.AdaptiveAthletics.org)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/68ff00c4e0c73b3a11198f48?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Oct 25 |
 | **[Meta](https://www.meta.com)** | **[UX Research Intern, Quantitative (Summer 2026)](https://jobright.ai/jobs/info/68fcf0ab0ab3b222462a08fa?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
 | ↳ | **[Quantitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fceebd0ab3b222462a07dc?utm_campaign=1049&utm_source=git)** | Burlingame, CA | On Site | Oct 25 |
 | ↳ | **[UX Research Intern, Qualitative (Summer 2026)](https://jobright.ai/jobs/info/68fce9c7e04ac838fb5adaf1?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c5185cdb52c07d28840fcc?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Oct 24 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68a7bf9fd627244576e2e60f?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Oct 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Spring 2026)](https://jobright.ai/jobs/info/68ecfcf06335d332361248da?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Oct 24 |
-| **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68cdc1aeb2a74e1837edbf0d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Product Design-Marvel Hardlines Intern, Spring 2026](https://jobright.ai/jobs/info/68fb7bb04129dd33cd132606?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 24 |
-| **[Nutanix](http://www.nutanix.com)** | **[UX Design Intern (Summer 2026- Undergraduates Only)](https://jobright.ai/jobs/info/68f373149a63986de7572274?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
