@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C3Aero LLC](https://www.c3aero.com)** | **[Product Design Intern (Spring 2026)](https://jobright.ai/jobs/info/68ff914be0c73b3a1119c591?utm_campaign=1049&utm_source=git)** | Burlington, MA | On Site | Oct 27 |
+| **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/68e39d4fb99ec3563b0e19f2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 27 |
+| **[Jeu de paume](jeudepaume.com)** | **[Graphic Design Apparel Internship Role](https://jobright.ai/jobs/info/68ff8ef00ab3b222462abf78?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
+| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - UX Designer](https://jobright.ai/jobs/info/68ded1e644d32141e0c02b7c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 27 |
 | **[Lawrence Group](http://thelawrencegroup.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68dc25ef97329f2f77322f64?utm_campaign=1049&utm_source=git)** | Greater St. Louis | On Site | Oct 27 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Spring 2026 UX Intern (Bachelors)](https://jobright.ai/jobs/info/68f00a39de50091dbfa5190f?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Oct 27 |
 | **[BrightView Landscapes](https://www.brightview.com)** | **[Landscape Development Internship](https://jobright.ai/jobs/info/68ff4c03e04ac838fb5b7e58?utm_campaign=1049&utm_source=git)** | Johns Island, SC | On Site | Oct 27 |
@@ -134,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbf8d493c49825ab10829c?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Oct 24 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Graphic Design Internship - Cleveland](https://jobright.ai/jobs/info/68fbf24cf55bb021a889e5a3?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Oct 24 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[UIUX Intern](https://jobright.ai/jobs/info/68fca47ae04ac838fb5ab63a?utm_campaign=1049&utm_source=git)** | Dayton, OH, US | On Site | Oct 24 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - UX Designer](https://jobright.ai/jobs/info/68ded1e644d32141e0c02b7c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[Environmental Design Group](https://www.edgchicago.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68fc8efa39d0ae3279af7ab6?utm_campaign=1049&utm_source=git)** | Akron, OH, US | On Site | Oct 24 |
 | **[CPH](http://cphcorp.com)** | **[Part Time Architectural Intern](https://jobright.ai/jobs/info/68fc85df664c6f162a9511cb?utm_campaign=1049&utm_source=git)** | Tampa, FL, US | On Site | Oct 24 |
 | **[The Desert Highlands Association](https://www.deserthighlandsscottsdale.com/)** | **[Architectural Review Intern](https://jobright.ai/jobs/info/68fc7c4939d0ae3279af536e?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | Oct 24 |
@@ -146,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Intern Architect](https://jobright.ai/jobs/info/68fc8c1bbf1f431bc45f69ae?utm_campaign=1049&utm_source=git)** | Lynchburg, VA, US | Hybrid | Oct 24 |
 | **[American Lung Association](https://www.lung.org/)** | **[Development Intern](https://jobright.ai/jobs/info/68fc9aa9e0c73b3a1118daad?utm_campaign=1049&utm_source=git)** | San Diego, CA, US | On Site | Oct 24 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Product Designer Intern](https://jobright.ai/jobs/info/68fbe0e693c49825ab106caf?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Oct 24 |
-| **[Humanscale](http://www.humanscale.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68fbd44c93c49825ab1064db?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Oct 24 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Urban Outfitters Home Design Summer Intern  2026 - Textiles](https://jobright.ai/jobs/info/68fbd16593c49825ab10615e?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 24 |
 | **[WindBorne Systems](https://windbornesystems.com)** | **[Creative Intern](https://jobright.ai/jobs/info/68fbc15893c49825ab1056a6?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Oct 24 |
 | **[Northeast Corridor Commission](http://nec-commission.com/)** | **[Spring-Summer 2026 Planning, Reporting, Communications Intern](https://jobright.ai/jobs/info/68fba3a04129dd33cd1334b1?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c35bb4b8c22d3828471258?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Oct 24 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c5185cdb52c07d28840fcc?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Oct 24 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68a7bf9fd627244576e2e60f?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Oct 24 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Spring 2026)](https://jobright.ai/jobs/info/68ecfcf06335d332361248da?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Oct 24 |
-| **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68cdc1aeb2a74e1837edbf0d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
