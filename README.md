@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nuvia Global Foundation](nuviaglobal.org)** | **[Graphic Design / Multimedia Intern](https://jobright.ai/jobs/info/68fea1e7e0c73b3a11197878?utm_campaign=1049&utm_source=git)** | Dublin, OH | On Site | Oct 26 |
+| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Graphic Design](https://jobright.ai/jobs/info/68de7ef5a125e75c422b47d1?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 26 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX Research Intern](https://jobright.ai/jobs/info/68fe5bace04ac838fb5b4072?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 26 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/68fe4bb00ab3b222462a6b8a?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Oct 26 |
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/68fe4ba7e0c73b3a11196f74?utm_campaign=1049&utm_source=git)** | Avon, OH | On Site | Oct 26 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Product Design-Marvel Hardlines Intern, Spring 2026](https://jobright.ai/jobs/info/68fb7bb04129dd33cd132606?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 24 |
 | **[Nutanix](http://www.nutanix.com)** | **[UX Design Intern (Summer 2026- Undergraduates Only)](https://jobright.ai/jobs/info/68f373149a63986de7572274?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Graphic Design](https://jobright.ai/jobs/info/68de7ef5a125e75c422b47d1?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[Purdue Department of Anthropology](https://www.cla.purdue.edu/anthropology/)** | **[Multimedia Designer - Student](https://jobright.ai/jobs/info/68fb2a659e8e925ac6c8941f?utm_campaign=1049&utm_source=git)** | West Lafayette, OH | On Site | Oct 24 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Site Remediation Intern - CSRR-2025-1i](https://jobright.ai/jobs/info/68fc7f4339d0ae3279af5d25?utm_campaign=1049&utm_source=git)** | Trenton, NJ, US | On Site | Oct 23 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68f80848b0edcf159dc8df16?utm_campaign=1049&utm_source=git)** | Spring, TX | On Site | Oct 23 |
 | **[Bohannan Huston, Inc.](http://bhinc.com)** | **[3D Environment Artist - 3D Generalist Intern](https://jobright.ai/jobs/info/68faf81b9e8e925ac6c87fa4?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Oct 23 |
-| **[Kokomo Games](https://kokomo.games)** | **[UGC & Content Creation Intern/Manager/Lead](https://jobright.ai/jobs/info/68faf2939e8e925ac6c87c73?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
