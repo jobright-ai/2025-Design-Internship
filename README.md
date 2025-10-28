@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First American Equipment Finance](http://faef.com)** | **[Design Intern](https://jobright.ai/jobs/info/690134adf8ce7a040fdbd733?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Oct 28 |
+| **[Passero Associates](http://passero.com)** | **[Architecture Co-op/Intern](https://jobright.ai/jobs/info/690131a34539ea1f2141dc0d?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | Oct 28 |
+| **[PCL Construction](http://www.pcl.com)** | **[Design Student](https://jobright.ai/jobs/info/690130df4539ea1f2141db29?utm_campaign=1049&utm_source=git)** | Florida, United States | On Site | Oct 28 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 UX/UI Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/69012fbcd5259a1b3cff28f4?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Oct 28 |
+| **[Sterling Brands](http://sterlingbrands.com)** | **[Design Fellowship NY](https://jobright.ai/jobs/info/6901235a4539ea1f2141cf2d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Oct 28 |
+| **[Cloaked](https://cloaked.app)** | **[Product Design Intern](https://jobright.ai/jobs/info/69011e60d5259a1b3cff1aaa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/690115d7f8ce7a040fdbbdc2?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Oct 28 |
 | **[Promega Corporation ](http://www.promega.com/es)** | **[Graphic Design Intern – Academia & Gov't Markets](https://jobright.ai/jobs/info/690111ecd5259a1b3cff1056?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 28 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69010ee7d5259a1b3cff0e48?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Oct 28 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69010e614539ea1f2141bf7d?utm_campaign=1049&utm_source=git)** | Staunton, VA | On Site | Oct 28 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69010be14539ea1f2141bdcd?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Oct 28 |
+| **[Kate Barton LLC](https://katebartondesign.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690128bed5259a1b3cff2294?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6900f6d5f8ce7a040fdbac38?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 28 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Design](https://jobright.ai/jobs/info/68e44252f758fe1f97e66379?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 28 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6900d857f8ce7a040fdb9b75?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Multimedia Design Intern](https://jobright.ai/jobs/info/68c4be5931e5763f188e324a?utm_campaign=1049&utm_source=git)** | Southfield, MI | On Site | Oct 26 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7c9a5f9f0336447de10a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Winter/Spring 2026 (On-Site)](https://jobright.ai/jobs/info/68f95f88cadb2e5a06a6465f?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 25 |
-| **[Plan Monster](https://www.linkedin.com/company/108333842)** | **[Architectural Internship](https://jobright.ai/jobs/info/68fd37ad0ab3b222462a14c5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
 | **[Meta](https://www.meta.com)** | **[UX Research Intern, Quantitative (Summer 2026)](https://jobright.ai/jobs/info/68fcf0ab0ab3b222462a08fa?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
 | ↳ | **[Quantitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fceebd0ab3b222462a07dc?utm_campaign=1049&utm_source=git)** | Burlingame, CA | On Site | Oct 25 |
 | ↳ | **[UX Research Intern, Qualitative (Summer 2026)](https://jobright.ai/jobs/info/68fce9c7e04ac838fb5adaf1?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
-| ↳ | **[UX Research Scientist Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fce864e04ac838fb5ada47?utm_campaign=1049&utm_source=git)** | Burlingame, CA | On Site | Oct 25 |
-| ↳ | **[Qualitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fce7c5e0c73b3a11190a36?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
-| ↳ | **[UX Research Scientist Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fce73be04ac838fb5ad998?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
-| ↳ | **[Qualitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fce71ee04ac838fb5ad98a?utm_campaign=1049&utm_source=git)** | Burlingame, CA | On Site | Oct 25 |
-| ↳ | **[Quantitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fce634e04ac838fb5ad922?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04b6ff758fe1f97e4c072?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
