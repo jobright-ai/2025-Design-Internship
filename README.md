@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OneCo](https://www.tryoneco.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69005f3ee0c73b3a111a498f?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Saxum](http://saxum.com)** | **[2026 Spring Paid Internship- Design](https://jobright.ai/jobs/info/69004fad0ab3b222462b3e4e?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, US | On Site | Oct 27 |
 | **[The New York Times](https://www.nytco.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69002f1fe0c73b3a111a30c2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[AECOM](http://www.aecom.com/)** | **[Architecture Design Intern- Networking Event with AECOM - Boston](https://jobright.ai/jobs/info/69002db5e04ac838fb5bfe0c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 27 |
@@ -130,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Graphic Design (Year-Round)](https://jobright.ai/jobs/info/68c498cb14bb275ce0194dca?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 25 |
 | **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68c47c4ae471ef3ce16d6aee?utm_campaign=1049&utm_source=git)** | Champaign, IL | On Site | Oct 25 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68e026a3f758fe1f97e4a154?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 25 |
-| **[KeyBank](https://www.key.com)** | **[Summer 2026 Graphic Design Internship - Cleveland](https://jobright.ai/jobs/info/68fc0a7ef55bb021a889fd40?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Oct 25 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68cef67c846f0b04af67e091?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Oct 25 |
 | ↳ | **[Interior Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68df7ed26be63b6ec997097c?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Oct 25 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Creative Intern, Spring 2026](https://jobright.ai/jobs/info/68fcd842e04ac838fb5ad407?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 25 |
