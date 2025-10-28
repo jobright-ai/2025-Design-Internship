@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/690115d7f8ce7a040fdbbdc2?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Oct 28 |
+| **[Promega Corporation ](http://www.promega.com/es)** | **[Graphic Design Intern – Academia & Gov't Markets](https://jobright.ai/jobs/info/690111ecd5259a1b3cff1056?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 28 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69010ee7d5259a1b3cff0e48?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Oct 28 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69010e614539ea1f2141bf7d?utm_campaign=1049&utm_source=git)** | Staunton, VA | On Site | Oct 28 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69010be14539ea1f2141bdcd?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Oct 28 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6900f6d5f8ce7a040fdbac38?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 28 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Design](https://jobright.ai/jobs/info/68e44252f758fe1f97e66379?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 28 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6900d857f8ce7a040fdb9b75?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
@@ -95,13 +100,13 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[UI-UX Graduate Intern](https://jobright.ai/jobs/info/69001edc0ab3b222462b200c?utm_campaign=1049&utm_source=git)** | Rochester, MN, United States | Remote | Oct 27 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4a76a2d2a252445cd8272?utm_campaign=1049&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Oct 27 |
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690014640ab3b222462b1a5d?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 27 |
+| **[Guidon](https://www.guidondesign.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69011380d5259a1b3cff116a?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Oct 27 |
 | **[Sloane Strategy](https://sloanestrategy.com)** | **[Creative Media Intern (Winter 2026)](https://jobright.ai/jobs/info/68fffef9e04ac838fb5be53d?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 27 |
 | **[The New York Times](https://www.nytco.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/68fff8b8e04ac838fb5be0ed?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Little Caesars Pizza](http://littlecaesars.com/)** | **[UI/UX Intern](https://jobright.ai/jobs/info/68fff7b1e04ac838fb5bdfcd?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 27 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Creative Services/Lifestyle Show Intern - Spring Semester](https://jobright.ai/jobs/info/68fff0a10ab3b222462b048d?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 27 |
 | **[South Carolina Waterfowl Association](http://scwa.org)** | **[Content Creator - Internship](https://jobright.ai/jobs/info/68ffea9ce04ac838fb5bd4b0?utm_campaign=1049&utm_source=git)** | Pinewood, SC | On Site | Oct 27 |
 | **[PROCON](http://proconinc.com)** | **[Architectural Intern-2026](https://jobright.ai/jobs/info/68d4b4e7fcd3367e8df17154?utm_campaign=1049&utm_source=git)** | Hooksett, NH | On Site | Oct 27 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Platform Team Intern](https://jobright.ai/jobs/info/68ffe8ce0ab3b222462afee6?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services/Lifestyle Show Intern - Spring Semester](https://jobright.ai/jobs/info/68ffe8ade04ac838fb5bd1af?utm_campaign=1049&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Oct 27 |
 | **[The Bliss Group](https://www.theblissgrp.com)** | **[Spring 2026 Graphic Design Internship](https://jobright.ai/jobs/info/68ffe8930ab3b222462afe89?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Design Intern, Summer 2026](https://jobright.ai/jobs/info/68ffe54fe04ac838fb5bd073?utm_campaign=1049&utm_source=git)** | Santa Monica, CA, USA | On Site | Oct 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Qualitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fce71ee04ac838fb5ad98a?utm_campaign=1049&utm_source=git)** | Burlingame, CA | On Site | Oct 25 |
 | ↳ | **[Quantitative UX Research Intern, Reality Labs (Summer 2026)](https://jobright.ai/jobs/info/68fce634e04ac838fb5ad922?utm_campaign=1049&utm_source=git)** | Menlo Park, CA | On Site | Oct 25 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04b6ff758fe1f97e4c072?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c7cbc6f42a830e1c7e8240?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Oct 25 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[User Experience Designer Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68cda5211ad6b16f0289cb38?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 25 |
-| **[Winsupply](http://www.winsupplyinc.com)** | **[UIUX Intern](https://jobright.ai/jobs/info/68c2f38d5adaee6c9bda5a99?utm_campaign=1049&utm_source=git)** | Moraine, OH | On Site | Oct 25 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Graphic Design (Year-Round)](https://jobright.ai/jobs/info/68c498cb14bb275ce0194dca?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 25 |
-| **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68c47c4ae471ef3ce16d6aee?utm_campaign=1049&utm_source=git)** | Champaign, IL | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
