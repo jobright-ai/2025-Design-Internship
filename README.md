@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[OneCo](https://www.tryoneco.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69005f3ee0c73b3a111a498f?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 27 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[UI-UX Graduate Intern](https://jobright.ai/jobs/info/69008537e04ac838fb5c28ce?utm_campaign=1049&utm_source=git)** | Rochester, MN | On Site | Oct 28 |
+| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69007b52e0c73b3a111a53b8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 28 |
 | **[Saxum](http://saxum.com)** | **[2026 Spring Paid Internship- Design](https://jobright.ai/jobs/info/69004fad0ab3b222462b3e4e?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, US | On Site | Oct 27 |
 | **[The New York Times](https://www.nytco.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69002f1fe0c73b3a111a30c2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[AECOM](http://www.aecom.com/)** | **[Architecture Design Intern- Networking Event with AECOM - Boston](https://jobright.ai/jobs/info/69002db5e04ac838fb5bfe0c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Design Visualization - AI CGI](https://jobright.ai/jobs/info/68fc0ecdf55bb021a889ff72?utm_campaign=1049&utm_source=git)** | Warren, Michigan, United States of America | On Site | Oct 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc048e93c49825ab108c86?utm_campaign=1049&utm_source=git)** | Lehi | Hybrid | Oct 24 |
 | ↳ | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc002e4129dd33cd1378ff?utm_campaign=1049&utm_source=git)** | Seattle | Hybrid | Oct 24 |
-| **[ZGF Architects](https://www.zgf.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/68fc1ba393c49825ab109dcd?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
