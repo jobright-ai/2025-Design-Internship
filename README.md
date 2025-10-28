@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The New York Times](https://www.nytco.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69002f1fe0c73b3a111a30c2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
+| **[AECOM](http://www.aecom.com/)** | **[Architecture Design Intern- Networking Event with AECOM - Boston](https://jobright.ai/jobs/info/69002db5e04ac838fb5bfe0c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 27 |
+| ↳ | **[Architecture Design Intern- Networking Event with AECOM - Boston](https://jobright.ai/jobs/info/69002903e04ac838fb5bfb7d?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Oct 27 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/690022e8e04ac838fb5bf80c?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Oct 27 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[UI-UX Graduate Intern](https://jobright.ai/jobs/info/69001edc0ab3b222462b200c?utm_campaign=1049&utm_source=git)** | Rochester, MN, United States | Remote | Oct 27 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4a76a2d2a252445cd8272?utm_campaign=1049&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Oct 27 |
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690014640ab3b222462b1a5d?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medical Associates Clinic](http://mahealthcare.com)** | **[Marketing & Graphic Design Intern](https://jobright.ai/jobs/info/68fc2710f55bb021a88a1025?utm_campaign=1049&utm_source=git)** | Dubuque, Iowa | On Site | Oct 24 |
 | ↳ | **[Marketing & Graphic Design Intern](https://jobright.ai/jobs/info/68fc1e81f55bb021a88a09ba?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Oct 24 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Design Visualization - AI CGI](https://jobright.ai/jobs/info/68fc0ecdf55bb021a889ff72?utm_campaign=1049&utm_source=git)** | Warren, Michigan, United States of America | On Site | Oct 24 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc048e93c49825ab108c86?utm_campaign=1049&utm_source=git)** | Lehi | Hybrid | Oct 24 |
-| ↳ | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc002e4129dd33cd1378ff?utm_campaign=1049&utm_source=git)** | Seattle | Hybrid | Oct 24 |
-| **[ZGF Architects](https://www.zgf.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/68fc1ba393c49825ab109dcd?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Oct 24 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fbff1493c49825ab1086cb?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
