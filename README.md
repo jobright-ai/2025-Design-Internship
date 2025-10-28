@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Design](https://jobright.ai/jobs/info/68e44252f758fe1f97e66379?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 28 |
+| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6900d857f8ce7a040fdb9b75?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Layout Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68cce23977add66568abb602?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Oct 28 |
+| **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68eca4a9d4b0106e703eb8fc?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Oct 28 |
+| ↳ | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec9bd4d4b0106e703ea888?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Oct 28 |
+| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6900cc1b4539ea1f21419a5f?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Oct 28 |
+| ↳ | **[Media Production Intern](https://jobright.ai/jobs/info/6900cc0ff8ce7a040fdb95c0?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec8fbc1eecd439f43f9e8f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
 | ↳ | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec8f4ac26b9574506f397a?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Design Intern, Summer 2026](https://jobright.ai/jobs/info/6900bccdd5259a1b3cfee425?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Oct 28 |
 | **[Graco](http://graco.com/in/en/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/68ea31bfdb8fbc4015c661d5?utm_campaign=1049&utm_source=git)** | Rogers, MN | On Site | Oct 28 |
+| **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec99ef1eecd439f43fb041?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Oct 28 |
 | **[Garver](https://garverusa.com/)** | **[Federal Intern - Landscape Architecture](https://jobright.ai/jobs/info/68ad1426daf1431824c9a40d?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Oct 28 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Design, The Trust](https://jobright.ai/jobs/info/68e47acdb99ec3563b0eab2b?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c8d67ff9c6ff7aedf131d5?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Oct 28 |
@@ -84,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[UI-UX Graduate Intern](https://jobright.ai/jobs/info/69001edc0ab3b222462b200c?utm_campaign=1049&utm_source=git)** | Rochester, MN, United States | Remote | Oct 27 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4a76a2d2a252445cd8272?utm_campaign=1049&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Oct 27 |
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690014640ab3b222462b1a5d?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 27 |
+| **[AI Made Fun](aimadefun.com)** | **[Graphic Design & Branding Intern](https://jobright.ai/jobs/info/6900c5c54539ea1f214197aa?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Sloane Strategy](https://sloanestrategy.com)** | **[Creative Media Intern (Winter 2026)](https://jobright.ai/jobs/info/68fffef9e04ac838fb5be53d?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 27 |
 | **[The New York Times](https://www.nytco.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/68fff8b8e04ac838fb5be0ed?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Little Caesars Pizza](http://littlecaesars.com/)** | **[UI/UX Intern](https://jobright.ai/jobs/info/68fff7b1e04ac838fb5bdfcd?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 27 |
@@ -101,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdf4ee04ac838fb5bc8fc?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Oct 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Design Intern, Summer 2026](https://jobright.ai/jobs/info/68ffdd400ab3b222462af41e?utm_campaign=1049&utm_source=git)** | Seattle, WA, USA | On Site | Oct 27 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdcd10ab3b222462af360?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Oct 27 |
+| **[Records on Main](https://recordsonmain.com/)** | **[Record Store Social, Operations & Design Intern - Unpaid](https://jobright.ai/jobs/info/6900ca6bd5259a1b3cfee856?utm_campaign=1049&utm_source=git)** | Littleton, CO | On Site | Oct 27 |
 | **[Cinq à Sept](http://cinqasept.nyc)** | **[Design Intern](https://jobright.ai/jobs/info/68ffd5fae0c73b3a1119f108?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[First American Equipment Finance](http://faef.com)** | **[Design Intern](https://jobright.ai/jobs/info/68ffd2c9e0c73b3a1119ecb9?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Oct 27 |
 | **[The Bliss Group](https://www.theblissgrp.com)** | **[Spring 2026 Graphic Design Internship](https://jobright.ai/jobs/info/68ffc7e4e0c73b3a1119e434?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[User Experience Designer Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68cda5211ad6b16f0289cb38?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 25 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[UIUX Intern](https://jobright.ai/jobs/info/68c2f38d5adaee6c9bda5a99?utm_campaign=1049&utm_source=git)** | Moraine, OH | On Site | Oct 25 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Graphic Design (Year-Round)](https://jobright.ai/jobs/info/68c498cb14bb275ce0194dca?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 25 |
-| **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68c47c4ae471ef3ce16d6aee?utm_campaign=1049&utm_source=git)** | Champaign, IL | On Site | Oct 25 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68e026a3f758fe1f97e4a154?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 25 |
-| **[KeyBank](https://www.key.com)** | **[Summer 2026 Graphic Design Internship - Cleveland](https://jobright.ai/jobs/info/68fc0a7ef55bb021a889fd40?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Oct 25 |
-| **[American Structurepoint](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68cef67c846f0b04af67e091?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Oct 25 |
-| ↳ | **[Interior Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68df7ed26be63b6ec997097c?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Oct 25 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Creative Intern, Spring 2026](https://jobright.ai/jobs/info/68fcd842e04ac838fb5ad407?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 25 |
-| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Creative Services Intern - SMSC Marketing](https://jobright.ai/jobs/info/68c4c2467279451d6a0376ac?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Oct 25 |
-| **[Rocket](https://rocket.delivery/null/en)** | **[Graphic Design Intern - Winter 2026](https://jobright.ai/jobs/info/68e04211b99ec3563b0cdfdc?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 25 |
-| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Creative Services Intern - SMSC Marketing](https://jobright.ai/jobs/info/68c4c89e31e5763f188e395d?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Oct 25 |
-| **[Databricks](https://www.databricks.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/68cbd9079e3a822f5d24c198?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
