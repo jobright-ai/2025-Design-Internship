@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[UI-UX Graduate Intern](https://jobright.ai/jobs/info/6900a89ce0c73b3a111a64dc?utm_campaign=1049&utm_source=git)** | Rochester, MN | On Site | Oct 28 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship- Visual Design Intern](https://jobright.ai/jobs/info/68ec97f51eecd439f43fab98?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 28 |
+| ↳ | **[Summer 2026 Internship - Product Design Intern](https://jobright.ai/jobs/info/68fd875c0ab3b222462a29df?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer Intern](https://jobright.ai/jobs/info/68ccf83bd11b445e0bee5474?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Oct 28 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Ops Label & Kit Design Intern - Summer 2026](https://jobright.ai/jobs/info/68e472b61852e62f008060ec?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 28 |
+| ↳ | **[Commercial CX Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68e476f6f758fe1f97e689b4?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 28 |
+| **[Emerson](http://www.emerson.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/68f8ba7ca628d10664e85755?utm_campaign=1049&utm_source=git)** | Round Rock, TX | Hybrid | Oct 28 |
+| **[Aptiv](http://www.aptiv.com)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/68cf5bcafb49c96ca6ea7fba?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Oct 28 |
+| **[Steelcase](https://www.steelcase.com/)** | **[2026 Spring Industrial Design Co-op](https://jobright.ai/jobs/info/68cd311eb2a74e1837ed3aff?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Oct 28 |
+| ↳ | **[Year Round Interior Design Intern](https://jobright.ai/jobs/info/68c787797d0db4114273ce43?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Oct 28 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[UI-UX Graduate Intern](https://jobright.ai/jobs/info/69008537e04ac838fb5c28ce?utm_campaign=1049&utm_source=git)** | Rochester, MN | On Site | Oct 28 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69007b52e0c73b3a111a53b8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 28 |
 | **[Saxum](http://saxum.com)** | **[2026 Spring Paid Internship- Design](https://jobright.ai/jobs/info/69004fad0ab3b222462b3e4e?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, US | On Site | Oct 27 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SeatGeek](https://seatgeek.com)** | **[UX Design - Internship](https://jobright.ai/jobs/info/68e0345f1852e62f007e8991?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
 | **[Studio AR&D Architects](http://www.studio-ard.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/68fc9bdee0c73b3a1118dc91?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Oct 25 |
 | **[Rocket Companies](https://rocket.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68fc9a8fe04ac838fb5aac06?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 25 |
-| **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/68fcbae40ab3b2224629f0d5?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Oct 25 |
-| **[Neon](https://neon.tech)** | **[NEON Digital Distribution Intern, Spring 2026](https://jobright.ai/jobs/info/68fc73cc4129dd33cd13c14f?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Oct 24 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc5010f55bb021a88a2b15?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Design Visualization - AI CGI](https://jobright.ai/jobs/info/68fc41aa93c49825ab10b3a4?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Oct 24 |
-| **[Nintendo](http://nintendo.com)** | **[Intern - UX Writer (NTD)](https://jobright.ai/jobs/info/68fc480df55bb021a88a23ad?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Oct 24 |
-| **[Medical Associates Clinic](http://mahealthcare.com)** | **[Marketing & Graphic Design Intern](https://jobright.ai/jobs/info/68fc2710f55bb021a88a1025?utm_campaign=1049&utm_source=git)** | Dubuque, Iowa | On Site | Oct 24 |
-| ↳ | **[Marketing & Graphic Design Intern](https://jobright.ai/jobs/info/68fc1e81f55bb021a88a09ba?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Oct 24 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Design Visualization - AI CGI](https://jobright.ai/jobs/info/68fc0ecdf55bb021a889ff72?utm_campaign=1049&utm_source=git)** | Warren, Michigan, United States of America | On Site | Oct 24 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc048e93c49825ab108c86?utm_campaign=1049&utm_source=git)** | Lehi | Hybrid | Oct 24 |
-| ↳ | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc002e4129dd33cd1378ff?utm_campaign=1049&utm_source=git)** | Seattle | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
