@@ -121,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4a76a2d2a252445cd8272?utm_campaign=1049&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Oct 27 |
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690014640ab3b222462b1a5d?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 27 |
 | **[Guidon](https://www.guidondesign.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69011380d5259a1b3cff116a?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Oct 27 |
-| **[Sloane Strategy](https://sloanestrategy.com)** | **[Creative Media Intern (Winter 2026)](https://jobright.ai/jobs/info/68fffef9e04ac838fb5be53d?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 27 |
 | **[The New York Times](https://www.nytco.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/68fff8b8e04ac838fb5be0ed?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Little Caesars Pizza](http://littlecaesars.com/)** | **[UI/UX Intern](https://jobright.ai/jobs/info/68fff7b1e04ac838fb5bdfcd?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 27 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Creative Services/Lifestyle Show Intern - Spring Semester](https://jobright.ai/jobs/info/68fff0a10ab3b222462b048d?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 26 |
 | **[Nuvia Global Foundation](nuviaglobal.org)** | **[Graphic Design / Multimedia Intern](https://jobright.ai/jobs/info/68fea1e7e0c73b3a11197878?utm_campaign=1049&utm_source=git)** | Dublin, OH | On Site | Oct 26 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Graphic Design](https://jobright.ai/jobs/info/68de7ef5a125e75c422b47d1?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 26 |
+| **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX Research Intern](https://jobright.ai/jobs/info/68fe5bace04ac838fb5b4072?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
