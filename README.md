@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steelcase](https://www.steelcase.com/)** | **[2026 Summer/Co-Op Interior Design Intern](https://jobright.ai/jobs/info/68c98a4f95f5211cd2cf14ea?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Oct 29 |
+| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Design Intern](https://jobright.ai/jobs/info/68f9a1836de2db04dc3eaaf9?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 29 |
+| **[SPS Commerce](http://spscommerce.com)** | **[Marketing & Design Internship (Talent Pool)](https://jobright.ai/jobs/info/68fc7c5dbf1f431bc45f486b?utm_campaign=1049&utm_source=git)** | Rogers, AR | Hybrid | Oct 29 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Photography intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/69019ba8f8ce7a040fdc163a?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Oct 29 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - GMO Events Team Designer](https://jobright.ai/jobs/info/68e5953eae2b894b1d711617?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 29 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 - Figma Design Internship](https://jobright.ai/jobs/info/6901ccc44539ea1f2142304b?utm_campaign=1049&utm_source=git)** | Clearwater, FL | Remote | Oct 29 |
+| **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901fb2b00a1816c41e9aa4d?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 29 |
 | **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901aa304539ea1f2142222e?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 28 |
 | ↳ | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901a95ad5259a1b3cff708a?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 28 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[User Experience Communications Intern Summer 2026](https://jobright.ai/jobs/info/69018352d5259a1b3cff5a25?utm_campaign=1049&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Development Internship](https://jobright.ai/jobs/info/68ff4b5ee04ac838fb5b7e37?utm_campaign=1049&utm_source=git)** | Ladson, SC | On Site | Oct 27 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68cee99ffb49c96ca6ea43d6?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Oct 27 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Firmwide Design Development Program - Summer Internship](https://jobright.ai/jobs/info/68cd20cae23def7af55b5c0d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
-| **[Concord](https://concord.com/)** | **[Design Intern](https://jobright.ai/jobs/info/68ff0f7ee0c73b3a1119926d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
-| **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69005711e04ac838fb5c18bb?utm_campaign=1049&utm_source=git)** | Mesa, AZ | On Site | Oct 26 |
-| **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 26 |
-| **[Nuvia Global Foundation](nuviaglobal.org)** | **[Graphic Design / Multimedia Intern](https://jobright.ai/jobs/info/68fea1e7e0c73b3a11197878?utm_campaign=1049&utm_source=git)** | Dublin, OH | On Site | Oct 26 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Graphic Design](https://jobright.ai/jobs/info/68de7ef5a125e75c422b47d1?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 26 |
-| **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX Research Intern](https://jobright.ai/jobs/info/68fe5bace04ac838fb5b4072?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
