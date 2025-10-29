@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/6902514398707b2b0fe6e31a?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Oct 29 |
+| **[The F* Word](https://thefword.ai/)** | **[Featured AI Fashion Design (1 Week Internship)](https://jobright.ai/jobs/info/69024667ff462851fefe1676?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Oct 29 |
+| ↳ | **[Internship (1 week) -> Featured AI Fashion Designer](https://jobright.ai/jobs/info/690238a5ff462851fefe0f45?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Oct 29 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Spring and Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/68cd0ccee23def7af55b474b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Oct 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Advanced Development (January through June)](https://jobright.ai/jobs/info/68cd8320e23def7af55bb027?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/68cd1b83e23def7af55b5810?utm_campaign=1049&utm_source=git)** | Irving, TX | Remote | Oct 29 |
@@ -66,6 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026: Creative Operations Co-op (January through June)](https://jobright.ai/jobs/info/68cd63cf1ad6b16f02899063?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Oct 29 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Interior Design Projects](https://jobright.ai/jobs/info/68fcafc00ab3b2224629e71c?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Oct 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: CMF Industrial Design Intern (May to August)](https://jobright.ai/jobs/info/68cd5b73b2a74e1837ed5e03?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 29 |
+| **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6902387498707b2b0fe6d3d5?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 29 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Studio Production Artist Intern (May to August)](https://jobright.ai/jobs/info/68ca53a85f9f0336447dbdc7?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | **[Amazon](https://amazon.com)** | **[User Experience Research Intern Internship – 2026 (US)](https://jobright.ai/jobs/info/68cfe36ffb49c96ca6eac4b6?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 29 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68ca6ef25f9f0336447ddc24?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Oct 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ca6c935f9f0336447dd96d?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Oct 29 |
@@ -94,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Tech Art Intern](https://jobright.ai/jobs/info/69017c1f4539ea1f214205f1?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Oct 28 |
 | **[The Boat House Group](http://boathouseh2o.com)** | **[Photography & Content Intern](https://jobright.ai/jobs/info/69016f924539ea1f21420077?utm_campaign=1049&utm_source=git)** | Cape Coral, FL | On Site | Oct 28 |
 | **[OOIN Media](https://www.ooinmedia.com/)** | **[Graphic Design Intern (Branding) — Chinese Speaker](https://jobright.ai/jobs/info/69016f8a4539ea1f21420072?utm_campaign=1049&utm_source=git)** | Queens, NY | Hybrid | Oct 28 |
+| **[KEITH](https://keithteam.com/)** | **[Landscape Architect Intern / Co-op](https://jobright.ai/jobs/info/690248a6ff462851fefe17f2?utm_campaign=1049&utm_source=git)** | Pompano Beach, FL | On Site | Oct 28 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Visual Design Internship](https://jobright.ai/jobs/info/69014eefd5259a1b3cff40fe?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 28 |
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/68faa369b2c86843bf2108fa?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Oct 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/690179534539ea1f21420480?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | Hybrid | Oct 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690014640ab3b222462b1a5d?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 27 |
 | **[Guidon](https://www.guidondesign.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69011380d5259a1b3cff116a?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Oct 27 |
 | **[The New York Times](https://www.nytco.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/68fff8b8e04ac838fb5be0ed?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
-| **[Little Caesars Pizza](http://littlecaesars.com/)** | **[UI/UX Intern](https://jobright.ai/jobs/info/68fff7b1e04ac838fb5bdfcd?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Oct 27 |
-| **[WPHL-TV](https://www.phl17.com)** | **[Creative Services/Lifestyle Show Intern - Spring Semester](https://jobright.ai/jobs/info/68fff0a10ab3b222462b048d?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 27 |
-| **[South Carolina Waterfowl Association](http://scwa.org)** | **[Content Creator - Internship](https://jobright.ai/jobs/info/68ffea9ce04ac838fb5bd4b0?utm_campaign=1049&utm_source=git)** | Pinewood, SC | On Site | Oct 27 |
-| **[PROCON](http://proconinc.com)** | **[Architectural Intern-2026](https://jobright.ai/jobs/info/68d4b4e7fcd3367e8df17154?utm_campaign=1049&utm_source=git)** | Hooksett, NH | On Site | Oct 27 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services/Lifestyle Show Intern - Spring Semester](https://jobright.ai/jobs/info/68ffe8ade04ac838fb5bd1af?utm_campaign=1049&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Oct 27 |
-| **[The Bliss Group](https://www.theblissgrp.com)** | **[Spring 2026 Graphic Design Internship](https://jobright.ai/jobs/info/68ffe8930ab3b222462afe89?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
