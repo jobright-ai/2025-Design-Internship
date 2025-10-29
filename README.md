@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altium Packaging](https://altiumpkg.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/68cd1f8ee23def7af55b59f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 29 |
+| **[Arbor Homes](https://yourarborhome.com/)** | **[End User Experience Intern](https://jobright.ai/jobs/info/68cc3db316d00d2beeb1c331?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Oct 29 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cf951d846f0b04af683294?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | On Site | Oct 29 |
+| **[Galloway & Company, LLC](https://gallowayus.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68e55ac41852e62f0080ec64?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Oct 29 |
 | **[Steelcase](https://www.steelcase.com/)** | **[2026 Summer/Co-Op Interior Design Intern](https://jobright.ai/jobs/info/68c98a4f95f5211cd2cf14ea?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Oct 29 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Design Intern](https://jobright.ai/jobs/info/68f9a1836de2db04dc3eaaf9?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 29 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Marketing & Design Internship (Talent Pool)](https://jobright.ai/jobs/info/68fc7c5dbf1f431bc45f486b?utm_campaign=1049&utm_source=git)** | Rogers, AR | Hybrid | Oct 29 |
+| **[Sky Ranch](https://skyranch.org)** | **[Creative Media Intern](https://jobright.ai/jobs/info/6902115d00a1816c41e9b071?utm_campaign=1049&utm_source=git)** | Van, TX | On Site | Oct 29 |
+| **[MATTE Projects](https://matteprojects.com/)** | **[Creative Design Internship Winter/Spring 2026 (On-Site)](https://jobright.ai/jobs/info/68f93b3b6de2db04dc3e6f6d?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 29 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Photography intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/69019ba8f8ce7a040fdc163a?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Oct 29 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68e551a3b99ec3563b0f2be2?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 29 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - GMO Events Team Designer](https://jobright.ai/jobs/info/68e5953eae2b894b1d711617?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 29 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 - Figma Design Internship](https://jobright.ai/jobs/info/6901ccc44539ea1f2142304b?utm_campaign=1049&utm_source=git)** | Clearwater, FL | Remote | Oct 29 |
 | **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901fb2b00a1816c41e9aa4d?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Platform Team Intern](https://jobright.ai/jobs/info/68ffa649e0c73b3a1119d122?utm_campaign=1049&utm_source=git)** | Boston, MA, USA | On Site | Oct 27 |
 | **[Travelers](https://www.travelers.com)** | **[Enterprise Experience Design Intern](https://jobright.ai/jobs/info/68ff955d0ab3b222462ac207?utm_campaign=1049&utm_source=git)** | CT - Hartford | Hybrid | Oct 27 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/68e39d4fb99ec3563b0e19f2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 27 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - UX Designer](https://jobright.ai/jobs/info/68ded1e644d32141e0c02b7c?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 27 |
-| **[Lawrence Group](http://thelawrencegroup.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68dc25ef97329f2f77322f64?utm_campaign=1049&utm_source=git)** | Greater St. Louis | On Site | Oct 27 |
-| **[Synopsys Inc](http://www.synopsys.com)** | **[Spring 2026 UX Intern (Bachelors)](https://jobright.ai/jobs/info/68f00a39de50091dbfa5190f?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Oct 27 |
-| **[BrightView Landscapes](https://www.brightview.com)** | **[Landscape Development Internship](https://jobright.ai/jobs/info/68ff4c03e04ac838fb5b7e58?utm_campaign=1049&utm_source=git)** | Johns Island, SC | On Site | Oct 27 |
-| ↳ | **[Landscape Development Internship](https://jobright.ai/jobs/info/68ff4b5ee04ac838fb5b7e37?utm_campaign=1049&utm_source=git)** | Ladson, SC | On Site | Oct 27 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68cee99ffb49c96ca6ea43d6?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Oct 27 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Firmwide Design Development Program - Summer Internship](https://jobright.ai/jobs/info/68cd20cae23def7af55b5c0d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
