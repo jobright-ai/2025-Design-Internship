@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[User Experience Communications Intern Summer 2026](https://jobright.ai/jobs/info/69018352d5259a1b3cff5a25?utm_campaign=1049&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 28 |
+| **[Cloaked](https://cloaked.app)** | **[Product Design Intern](https://jobright.ai/jobs/info/69017db7f8ce7a040fdc025d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 28 |
+| **[Epic Games](https://epicgames.com)** | **[Tech Art Intern](https://jobright.ai/jobs/info/69017c1f4539ea1f214205f1?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Oct 28 |
 | **[The Boat House Group](http://boathouseh2o.com)** | **[Photography & Content Intern](https://jobright.ai/jobs/info/69016f924539ea1f21420077?utm_campaign=1049&utm_source=git)** | Cape Coral, FL | On Site | Oct 28 |
 | **[OOIN Media](https://www.ooinmedia.com/)** | **[Graphic Design Intern (Branding) — Chinese Speaker](https://jobright.ai/jobs/info/69016f8a4539ea1f21420072?utm_campaign=1049&utm_source=git)** | Queens, NY | Hybrid | Oct 28 |
-| **[Fusion100](http://Fusion100co.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69016068d5259a1b3cff4800?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 28 |
-| **[Reaching & Rooted](https://www.reachingandrooted.org/home-page)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/690150c0d5259a1b3cff421b?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Visual Design Internship](https://jobright.ai/jobs/info/69014eefd5259a1b3cff40fe?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 28 |
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/68faa369b2c86843bf2108fa?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Oct 28 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/690179534539ea1f21420480?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | Hybrid | Oct 28 |
 | **[Epic Games](https://epicgames.com)** | **[Tech Art Intern](https://jobright.ai/jobs/info/6901482af8ce7a040fdbe6c3?utm_campaign=1049&utm_source=git)** | Cary,North Carolina,United States | On Site | Oct 28 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[User Experience Communications Intern Summer 2026](https://jobright.ai/jobs/info/690141e5f8ce7a040fdbe3e1?utm_campaign=1049&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 28 |
 | **[Burns Engineering, Inc.](http://burns-group.com)** | **[Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/69013ab1d5259a1b3cff3388?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
@@ -76,9 +78,11 @@ For a complete list, click the following sortable link below:
 | **[Promega Corporation ](http://www.promega.com/es)** | **[Graphic Design Intern – Academia & Gov't Markets](https://jobright.ai/jobs/info/690111ecd5259a1b3cff1056?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 28 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69010ee7d5259a1b3cff0e48?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Oct 28 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69010e614539ea1f2141bf7d?utm_campaign=1049&utm_source=git)** | Staunton, VA | On Site | Oct 28 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69010be14539ea1f2141bdcd?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Oct 28 |
+| **[AI Made Fun](aimadefun.com)** | **[Graphic Design & Branding Intern](https://jobright.ai/jobs/info/6901775c4539ea1f21420365?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 28 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69010be14539ea1f2141bdcd?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Oct 28 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6900f6d5f8ce7a040fdbac38?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 28 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Design](https://jobright.ai/jobs/info/68e44252f758fe1f97e66379?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 28 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Layout Intern - Bachelor's Degree](https://jobright.ai/jobs/info/69018cec4539ea1f214211b8?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Oct 28 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6900d857f8ce7a040fdb9b75?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part time Digital Designer (Strive to Be) Intern](https://jobright.ai/jobs/info/68e432f7f758fe1f97e65497?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Oct 28 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68eca4a9d4b0106e703eb8fc?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Oct 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Graphic Design](https://jobright.ai/jobs/info/68de7ef5a125e75c422b47d1?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 26 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX Research Intern](https://jobright.ai/jobs/info/68fe5bace04ac838fb5b4072?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Graphic Design Intern / Spring 2026](https://jobright.ai/jobs/info/68fe47e10ab3b222462a6b37?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 26 |
-| **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68a8b166758f2e4ac3ff45c6?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Oct 26 |
-| **[Pond & Company](https://www.pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Oct 26 |
-| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Visual Effects Designer Intern, Spring 2026](https://jobright.ai/jobs/info/68fe0f11e0c73b3a11196492?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 26 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern](https://jobright.ai/jobs/info/68cd40f2b2a74e1837ed471e?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
