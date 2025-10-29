@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Fall Internship 2025 - Visual Merchandising](https://jobright.ai/jobs/info/68e4bd6eb99ec3563b0ed725?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 29 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 29 |
+| ↳ | **[NIKE, Inc Apparel Design Intern](https://jobright.ai/jobs/info/68f1bcafe6870116b1f5c85f?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 29 |
+| ↳ | **[NIKE, Inc Footwear & Apparel, Color & Materials Design Intern](https://jobright.ai/jobs/info/68f1bca5e6870116b1f5c843?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 29 |
+| ↳ | **[NIKE, Inc Innovation Brand Creative Studio Intern](https://jobright.ai/jobs/info/68f89da74bafad6d2d76475b?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 29 |
+| **[Immuta](http://www.immuta.com/)** | **[UX Designer Internship Summer 2026](https://jobright.ai/jobs/info/68cb27e29e3a822f5d243124?utm_campaign=1049&utm_source=git)** | College Park, MD | Hybrid | Oct 29 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc Footwear Design Intern](https://jobright.ai/jobs/info/68f1bd5ee6870116b1f5c997?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 29 |
+| **[AARP](http://www.aarp.org)** | **[Human-Centered Design Insights Intern](https://jobright.ai/jobs/info/6902814000a1816c41e9edf0?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Remote | Oct 29 |
+| **[Bose Professional](https://pro.bose.com/en_us/index.html)** | **[2D/3D Production Artist Co-op](https://jobright.ai/jobs/info/690280e598707b2b0fe7039d?utm_campaign=1049&utm_source=git)** | Hopkinton, MA | On Site | Oct 29 |
+| **[North Jersey Pro Soccer](https://www.northjerseyprosoccer.com/)** | **[Consumer Products Development Intern](https://jobright.ai/jobs/info/69027fcb00a1816c41e9ec36?utm_campaign=1049&utm_source=git)** | Paterson, NJ | On Site | Oct 29 |
+| **[ Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Architecture](https://jobright.ai/jobs/info/6902763eff462851fefe3623?utm_campaign=1049&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Oct 29 |
+| **[eranova](https://eranova.ai/)** | **[UI/UX & Creative Design Intern](https://jobright.ai/jobs/info/6902730498707b2b0fe6f6b2?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN UX Design Intern, Summer 2026](https://jobright.ai/jobs/info/69026c1eff462851fefe2e37?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6902675898707b2b0fe6ef6d?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN UX Design Intern, Summer 2026](https://jobright.ai/jobs/info/690266d698707b2b0fe6ef08?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Oct 29 |
@@ -65,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/6902577c98707b2b0fe6e6c1?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Oct 29 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX Research Intern](https://jobright.ai/jobs/info/68fe5bace04ac838fb5b4072?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/6902514398707b2b0fe6e31a?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Oct 29 |
+| **[ASM Global](http://www.asmglobal.com)** | **[Video/Production Content Intern - University of Nebraska](https://jobright.ai/jobs/info/69027ce5ff462851fefe3a99?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Oct 29 |
 | **[The F* Word](https://thefword.ai/)** | **[Featured AI Fashion Design (1 Week Internship)](https://jobright.ai/jobs/info/69024667ff462851fefe1676?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Oct 29 |
 | ↳ | **[Internship (1 week) -> Featured AI Fashion Designer](https://jobright.ai/jobs/info/690238a5ff462851fefe0f45?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Oct 29 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Spring and Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/68cd0ccee23def7af55b474b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Oct 29 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - Product Design Intern](https://jobright.ai/jobs/info/68fd875c0ab3b222462a29df?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer Intern](https://jobright.ai/jobs/info/68ccf83bd11b445e0bee5474?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Oct 28 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Ops Label & Kit Design Intern - Summer 2026](https://jobright.ai/jobs/info/68e472b61852e62f008060ec?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 28 |
-| ↳ | **[Commercial CX Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68e476f6f758fe1f97e689b4?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 28 |
-| **[Emerson](http://www.emerson.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/68f8ba7ca628d10664e85755?utm_campaign=1049&utm_source=git)** | Round Rock, TX | Hybrid | Oct 28 |
-| **[Aptiv](http://www.aptiv.com)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/68cf5bcafb49c96ca6ea7fba?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Oct 28 |
-| **[Steelcase](https://www.steelcase.com/)** | **[2026 Spring Industrial Design Co-op](https://jobright.ai/jobs/info/68cd311eb2a74e1837ed3aff?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Oct 28 |
-| ↳ | **[Year Round Interior Design Intern](https://jobright.ai/jobs/info/68c787797d0db4114273ce43?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Oct 28 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[UI-UX Graduate Intern](https://jobright.ai/jobs/info/69008537e04ac838fb5c28ce?utm_campaign=1049&utm_source=git)** | Rochester, MN | On Site | Oct 28 |
-| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69007b52e0c73b3a111a53b8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 28 |
-| **[Saxum](http://saxum.com)** | **[2026 Spring Paid Internship- Design](https://jobright.ai/jobs/info/69004fad0ab3b222462b3e4e?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, US | On Site | Oct 27 |
-| **[The New York Times](https://www.nytco.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69002f1fe0c73b3a111a30c2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 27 |
-| **[AECOM](http://www.aecom.com/)** | **[Architecture Design Intern- Networking Event with AECOM - Boston](https://jobright.ai/jobs/info/69002db5e04ac838fb5bfe0c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 27 |
-| ↳ | **[Architecture Design Intern- Networking Event with AECOM - Boston](https://jobright.ai/jobs/info/69002903e04ac838fb5bfb7d?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Oct 27 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/690022e8e04ac838fb5bf80c?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Oct 27 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[UI-UX Graduate Intern](https://jobright.ai/jobs/info/69001edc0ab3b222462b200c?utm_campaign=1049&utm_source=git)** | Rochester, MN, United States | Remote | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
