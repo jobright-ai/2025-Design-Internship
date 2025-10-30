@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Human-Centered Design Insights Intern](https://jobright.ai/jobs/info/6902ae68ff462851fefe5af5?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/68e39d4fb99ec3563b0e19f2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Video/Production Content Intern - University of Nebraska](https://jobright.ai/jobs/info/6902a4e198707b2b0fe71d65?utm_campaign=1049&utm_source=git)** | Lincoln, NE | Hybrid | Oct 29 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68f6aefe76a51a4307bdd301?utm_campaign=1049&utm_source=git)** | Newark, NJ | On Site | Oct 29 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[North Jersey Pro Soccer](https://www.northjerseyprosoccer.com/)** | **[Consumer Products Development Intern](https://jobright.ai/jobs/info/69027fcb00a1816c41e9ec36?utm_campaign=1049&utm_source=git)** | Paterson, NJ | On Site | Oct 29 |
 | **[ Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Architecture](https://jobright.ai/jobs/info/6902763eff462851fefe3623?utm_campaign=1049&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Oct 29 |
 | **[eranova](https://eranova.ai/)** | **[UI/UX & Creative Design Intern](https://jobright.ai/jobs/info/6902730498707b2b0fe6f6b2?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Oct 29 |
+| **[Digital Summit Series](https://digitalsummit.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6902abbf98707b2b0fe71f4f?utm_campaign=1049&utm_source=git)** | US | On Site | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN UX Design Intern, Summer 2026](https://jobright.ai/jobs/info/69026c1eff462851fefe2e37?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 29 |
 | ↳ | **[ESPN UX Design Intern, Summer 2026](https://jobright.ai/jobs/info/690266d698707b2b0fe6ef08?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Oct 29 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, Architecture](https://jobright.ai/jobs/info/6902644698707b2b0fe6ed6d?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Oct 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec8f4ac26b9574506f397a?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Design Intern, Summer 2026](https://jobright.ai/jobs/info/6900bccdd5259a1b3cfee425?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Oct 28 |
 | **[Graco](http://graco.com/in/en/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/68ea31bfdb8fbc4015c661d5?utm_campaign=1049&utm_source=git)** | Rogers, MN | On Site | Oct 28 |
-| **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec99ef1eecd439f43fb041?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Oct 28 |
-| **[Garver](https://garverusa.com/)** | **[Federal Intern - Landscape Architecture](https://jobright.ai/jobs/info/68ad1426daf1431824c9a40d?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
