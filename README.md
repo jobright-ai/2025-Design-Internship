@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JIO ROBOTICS Academy](www.jiorobotics.com)** | **[Sr UX/UI with Strong Backend Development Intern to Fulltime](https://jobright.ai/jobs/info/6902c67300a1816c41ea1576?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Oct 29 |
 | **[AARP](http://www.aarp.org)** | **[Human-Centered Design Insights Intern](https://jobright.ai/jobs/info/6902ae68ff462851fefe5af5?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/68e39d4fb99ec3563b0e19f2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Video/Production Content Intern - University of Nebraska](https://jobright.ai/jobs/info/6902a4e198707b2b0fe71d65?utm_campaign=1049&utm_source=git)** | Lincoln, NE | Hybrid | Oct 29 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Video/Production Content Intern - University of Nebraska](https://jobright.ai/jobs/info/690260aaff462851fefe26ab?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Oct 29 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/6902577c98707b2b0fe6e6c1?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Oct 29 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX Research Intern](https://jobright.ai/jobs/info/68fe5bace04ac838fb5b4072?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 29 |
+| **[BookPage](https://bookpage.com)** | **[Design and Social Media Intern](https://jobright.ai/jobs/info/6902dd35ff462851fefe71dc?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/6902514398707b2b0fe6e31a?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Oct 29 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Video/Production Content Intern - University of Nebraska](https://jobright.ai/jobs/info/69027ce5ff462851fefe3a99?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Oct 29 |
 | **[The F* Word](https://thefword.ai/)** | **[Featured AI Fashion Design (1 Week Internship)](https://jobright.ai/jobs/info/69024667ff462851fefe1676?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Oct 29 |
@@ -111,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Galloway & Company, LLC](https://gallowayus.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68e55ac41852e62f0080ec64?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Oct 29 |
 | **[Steelcase](https://www.steelcase.com/)** | **[2026 Summer/Co-Op Interior Design Intern](https://jobright.ai/jobs/info/68c98a4f95f5211cd2cf14ea?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Oct 29 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Design Intern](https://jobright.ai/jobs/info/68f9a1836de2db04dc3eaaf9?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 29 |
-| **[SPS Commerce](http://spscommerce.com)** | **[Marketing & Design Internship (Talent Pool)](https://jobright.ai/jobs/info/68fc7c5dbf1f431bc45f486b?utm_campaign=1049&utm_source=git)** | Rogers, AR | Hybrid | Oct 29 |
 | **[Sky Ranch](https://skyranch.org)** | **[Creative Media Intern](https://jobright.ai/jobs/info/6902115d00a1816c41e9b071?utm_campaign=1049&utm_source=git)** | Van, TX | On Site | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Hulu Brand Creative Intern, Spring 2026](https://jobright.ai/jobs/info/69021c2eff462851fefe0304?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Oct 29 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Creative Design Internship Winter/Spring 2026 (On-Site)](https://jobright.ai/jobs/info/68f93b3b6de2db04dc3e6f6d?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec8fbc1eecd439f43f9e8f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
 | ↳ | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec8f4ac26b9574506f397a?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Design Intern, Summer 2026](https://jobright.ai/jobs/info/6900bccdd5259a1b3cfee425?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Oct 28 |
-| **[Graco](http://graco.com/in/en/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/68ea31bfdb8fbc4015c661d5?utm_campaign=1049&utm_source=git)** | Rogers, MN | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
