@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Design - Remote Internship!](https://jobright.ai/jobs/info/6903d83cd64a22104aa93de2?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Oct 30 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - User Experience Research](https://jobright.ai/jobs/info/6903c9b0ff462851fefeec97?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Oct 30 |
+| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6903c972ff462851fefeec58?utm_campaign=1049&utm_source=git)** | Reading, PA | On Site | Oct 30 |
+| **[NABI Magazine](https://www.linkedin.com/company/98140484)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6903c891ff462851fefeeb7f?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Oct 30 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Product Design Intern](https://jobright.ai/jobs/info/6903c11363502c0aded6bec1?utm_campaign=1049&utm_source=git)** | North Carolina | Hybrid | Oct 30 |
+| **[CreatorLink](www.creatorlinkmgmt.com)** | **[Design/Creative Intern](https://jobright.ai/jobs/info/6903d967d64a22104aa93ef9?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 30 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Spring Internship - Footwear Design](https://jobright.ai/jobs/info/6903ba0ad64a22104aa922b3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 30 |
+| **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Intern - Industrial Design](https://jobright.ai/jobs/info/6903d58bff462851fefef81d?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | Oct 30 |
 | **[KROST](https://krostnewyork.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/6903b099d64a22104aa91cb7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 30 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/6903ac81ff462851fefed668?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Oct 30 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/6903ac68ff462851fefed659?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Oct 30 |
 | **[The F* Word](https://thefword.ai/)** | **[Internship: Feature AI Fashion Design (1 week)](https://jobright.ai/jobs/info/6903ababff462851fefed5de?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Oct 30 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Graphic Design and Presentation Intern, Spring 2026](https://jobright.ai/jobs/info/6903bd9bff462851fefee2a1?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 30 |
 | **[Klarite](https://www.klaritemiami.com/)** | **[Creative Content Intern (Lifestyle, Wellness & Founder Content)](https://jobright.ai/jobs/info/6903993aff462851fefec8dc?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 - Figma Design Internship](https://jobright.ai/jobs/info/6901ccc44539ea1f2142304b?utm_campaign=1049&utm_source=git)** | Clearwater, FL | Remote | Oct 29 |
 | **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901fb2b00a1816c41e9aa4d?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Oct 29 |
 | **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901aa304539ea1f2142222e?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 28 |
-| ↳ | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901a95ad5259a1b3cff708a?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 28 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[User Experience Communications Intern Summer 2026](https://jobright.ai/jobs/info/69018352d5259a1b3cff5a25?utm_campaign=1049&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 28 |
-| **[Epic Games](https://epicgames.com)** | **[Tech Art Intern](https://jobright.ai/jobs/info/69017c1f4539ea1f214205f1?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Oct 28 |
-| **[The Boat House Group](http://boathouseh2o.com)** | **[Photography & Content Intern](https://jobright.ai/jobs/info/69016f924539ea1f21420077?utm_campaign=1049&utm_source=git)** | Cape Coral, FL | On Site | Oct 28 |
-| **[OOIN Media](https://www.ooinmedia.com/)** | **[Graphic Design Intern (Branding) — Chinese Speaker](https://jobright.ai/jobs/info/69016f8a4539ea1f21420072?utm_campaign=1049&utm_source=git)** | Queens, NY | Hybrid | Oct 28 |
-| **[KEITH](https://keithteam.com/)** | **[Landscape Architect Intern / Co-op](https://jobright.ai/jobs/info/690248a6ff462851fefe17f2?utm_campaign=1049&utm_source=git)** | Pompano Beach, FL | On Site | Oct 28 |
-| **[Symetra](http://www.symetra.com)** | **[2026 Visual Design Internship](https://jobright.ai/jobs/info/69014eefd5259a1b3cff40fe?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
