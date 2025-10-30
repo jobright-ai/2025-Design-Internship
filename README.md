@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/68cf4211846f0b04af67ffa5?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Oct 30 |
+| **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Oct 30 |
 | **[JIO ROBOTICS Academy](www.jiorobotics.com)** | **[Sr UX/UI with Strong Backend Development Intern to Fulltime](https://jobright.ai/jobs/info/6902c67300a1816c41ea1576?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Oct 29 |
 | **[AARP](http://www.aarp.org)** | **[Human-Centered Design Insights Intern](https://jobright.ai/jobs/info/6902ae68ff462851fefe5af5?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/68e39d4fb99ec3563b0e19f2?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Oct 29 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Sky Ranch](https://skyranch.org)** | **[Creative Media Intern](https://jobright.ai/jobs/info/6902115d00a1816c41e9b071?utm_campaign=1049&utm_source=git)** | Van, TX | On Site | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Hulu Brand Creative Intern, Spring 2026](https://jobright.ai/jobs/info/69021c2eff462851fefe0304?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Oct 29 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Creative Design Internship Winter/Spring 2026 (On-Site)](https://jobright.ai/jobs/info/68f93b3b6de2db04dc3e6f6d?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Oct 29 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Photography intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/69019ba8f8ce7a040fdc163a?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Oct 29 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/68e551a3b99ec3563b0f2be2?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Oct 29 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - GMO Events Team Designer](https://jobright.ai/jobs/info/68e5953eae2b894b1d711617?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 29 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Spring 2026 - Figma Design Internship](https://jobright.ai/jobs/info/6901ccc44539ea1f2142304b?utm_campaign=1049&utm_source=git)** | Clearwater, FL | Remote | Oct 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Media Production Intern](https://jobright.ai/jobs/info/6900cc0ff8ce7a040fdb95c0?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec8fbc1eecd439f43f9e8f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
 | ↳ | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec8f4ac26b9574506f397a?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Oct 28 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Design Intern, Summer 2026](https://jobright.ai/jobs/info/6900bccdd5259a1b3cfee425?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
