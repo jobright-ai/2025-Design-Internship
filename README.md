@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[UX Designer Intern- Summer 2026](https://jobright.ai/jobs/info/69051013122e8474c78d597f?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | On Site | Oct 31 |
+| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Photo Management Intern - Spring 2026](https://jobright.ai/jobs/info/69050d38122e8474c78d576e?utm_campaign=1049&utm_source=git)** | Bronx Zoo | Hybrid | Oct 31 |
+| **[Kleberg Bank](http://klebergbank.com)** | **[Creative Content Intern](https://jobright.ai/jobs/info/69050aab63502c0aded776ef?utm_campaign=1049&utm_source=git)** | Corpus Christi,TX,US | On Site | Oct 31 |
+| **[PlayCore](http://www.playcore.com/)** | **[Design Intern - Kraemer Design & Production](https://jobright.ai/jobs/info/6904ffb8ff462851feff96c7?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Oct 31 |
 | **[VibeCaaS](https://vibecaas.com)** | **[VibeJourney Architect (Internship Program)](https://jobright.ai/jobs/info/6904f384ff462851feff8f20?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 31 |
 | **[YourBookTeam](https://yourbookteam.com)** | **[Website Building Intern](https://jobright.ai/jobs/info/6904f0ecff462851feff8d97?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 31 |
+| **[L.L.Bean](http://www.llbean.com/)** | **[Marketing - UX Designer Internship](https://jobright.ai/jobs/info/69050c8c122e8474c78d56f9?utm_campaign=1049&utm_source=git)** | Freeport, Me | On Site | Oct 31 |
 | **[Tanium](http://www.tanium.com)** | **[User Experience Design Intern (UX/UI)](https://jobright.ai/jobs/info/68e8228dc4895107182c2cab?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | Oct 31 |
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - UX Product Design](https://jobright.ai/jobs/info/6904d7cdff462851feff7f89?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Oct 31 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Graphic Design & Print Production Intern](https://jobright.ai/jobs/info/6904d6c663502c0aded759e9?utm_campaign=1049&utm_source=git)** | Longwood, FL | On Site | Oct 31 |
@@ -66,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Web Programs](https://jobright.ai/jobs/info/68cc9756128dc347fd927044?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
 | **[CIELO Agency](https://cielo.agency)** | **[Graphic Design, Brand Building & Social Media Internship](https://jobright.ai/jobs/info/6904eecb63502c0aded766e8?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Oct 31 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Interior Design - CS College Intern](https://jobright.ai/jobs/info/68afe5c913563e782a9f246b?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Oct 31 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Interior Design](https://jobright.ai/jobs/info/68cc63d8128dc347fd924221?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 31 |
 | **[Copart](http://www.copart.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68ec613dbb72c377a5512bc2?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Oct 31 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68df1957fe896042b0b769b9?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Oct 31 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Interior Design College Intern](https://jobright.ai/jobs/info/68d777297a37c712687cdf54?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Oct 31 |
@@ -124,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Altruist](https://altruist.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/68ce72e6846f0b04af67a158?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 30 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Creative Operations Intern (May to August)](https://jobright.ai/jobs/info/68cea715846f0b04af67c0d0?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Oct 30 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68ae4743daf1431824ca1fd0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 30 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Storyboard Artist Intern](https://jobright.ai/jobs/info/69035fd3ff462851fefead1d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 30 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cd10351ad6b16f028942ab?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Oct 30 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Interior Designer, Summer 2026](https://jobright.ai/jobs/info/68e6c5631852e62f0081e66d?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Oct 30 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cd11b81ad6b16f02894547?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Oct 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NIKE, Inc Innovation Brand Creative Studio Intern](https://jobright.ai/jobs/info/68f89da74bafad6d2d76475b?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 29 |
 | **[Immuta](http://www.immuta.com/)** | **[UX Designer Internship Summer 2026](https://jobright.ai/jobs/info/68cb27e29e3a822f5d243124?utm_campaign=1049&utm_source=git)** | College Park, MD | Hybrid | Oct 29 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Footwear Design Intern](https://jobright.ai/jobs/info/68f1bd5ee6870116b1f5c997?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Oct 29 |
-| **[AARP](http://www.aarp.org)** | **[Human-Centered Design Insights Intern](https://jobright.ai/jobs/info/6902814000a1816c41e9edf0?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Remote | Oct 29 |
-| **[Bose Professional](https://pro.bose.com/en_us/index.html)** | **[2D/3D Production Artist Co-op](https://jobright.ai/jobs/info/690280e598707b2b0fe7039d?utm_campaign=1049&utm_source=git)** | Hopkinton, MA | On Site | Oct 29 |
-| **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Oct 29 |
-| **[North Jersey Pro Soccer](https://www.northjerseyprosoccer.com/)** | **[Consumer Products Development Intern](https://jobright.ai/jobs/info/69027fcb00a1816c41e9ec36?utm_campaign=1049&utm_source=git)** | Paterson, NJ | On Site | Oct 29 |
-| **[ Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Architecture](https://jobright.ai/jobs/info/6902763eff462851fefe3623?utm_campaign=1049&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
