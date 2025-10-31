@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RaceTrac](http://www.racetrac.com/)** | **[Creative Intern (Summer 2026)](https://jobright.ai/jobs/info/69041551d64a22104aa96c75?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
+| **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68dc6d91ddc10244dd675722?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Oct 30 |
+| **[Kendra Scott](http://www.kendrascott.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69040ddf63502c0aded6fdb8?utm_campaign=1049&utm_source=git)** | Austin Texas | On Site | Oct 30 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6903f88a63502c0aded6ee73?utm_campaign=1049&utm_source=git)** | Bonita Springs, FL | On Site | Oct 30 |
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Graphic Design Internship - Cleveland](https://jobright.ai/jobs/info/68fc0a7ef55bb021a889fd40?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Oct 30 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - User Experience Research](https://jobright.ai/jobs/info/6903f12aff462851feff0eab?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 30 |
 | **[Insomniac Events](http://insomniac.com)** | **[User Experience Research Intern - Master's](https://jobright.ai/jobs/info/6903f124d64a22104aa9518a?utm_campaign=1049&utm_source=git)** | United States, Burbank, CA | On Site | Oct 30 |
 | ↳ | **[Environment Art Intern](https://jobright.ai/jobs/info/6903f00fd64a22104aa950c2?utm_campaign=1049&utm_source=git)** | United States, Remote | Remote | Oct 30 |
 | **[Ohio Department of Administrative Services](http://das.ohio.gov)** | **[College Intern (Real Estate - Space Planning)](https://jobright.ai/jobs/info/6903dd80ff462851fefefe74?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Oct 30 |
+| **[Longleaf Provisions Company](https://longleafpro.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6903f96663502c0aded6eeeb?utm_campaign=1049&utm_source=git)** | Winston-Salem, NC | On Site | Oct 30 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Design - Remote Internship!](https://jobright.ai/jobs/info/6903d83cd64a22104aa93de2?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Oct 30 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/6903f860d64a22104aa9557e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - User Experience Research](https://jobright.ai/jobs/info/6903c9b0ff462851fefeec97?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Oct 30 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6903c972ff462851fefeec58?utm_campaign=1049&utm_source=git)** | Reading, PA | On Site | Oct 30 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Product Design Intern](https://jobright.ai/jobs/info/6903c11363502c0aded6bec1?utm_campaign=1049&utm_source=git)** | North Carolina | Hybrid | Oct 30 |
@@ -73,10 +76,10 @@ For a complete list, click the following sortable link below:
 | **[KROST](https://krostnewyork.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/6903b099d64a22104aa91cb7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/6903ac81ff462851fefed668?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Oct 30 |
 | **[The F* Word](https://thefword.ai/)** | **[Internship: Feature AI Fashion Design (1 week)](https://jobright.ai/jobs/info/6903ababff462851fefed5de?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Oct 30 |
+| **[Hoskinson Contracting](https://www.hoskinsoncontracting.com/)** | **[Landscape Architectural Intern - Temporary](https://jobright.ai/jobs/info/690400eed64a22104aa95dca?utm_campaign=1049&utm_source=git)** | Gillette, WY | On Site | Oct 30 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Graphic Design and Presentation Intern, Spring 2026](https://jobright.ai/jobs/info/6903bd9bff462851fefee2a1?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Oct 30 |
 | **[Klarite](https://www.klaritemiami.com/)** | **[Creative Content Intern (Lifestyle, Wellness & Founder Content)](https://jobright.ai/jobs/info/6903993aff462851fefec8dc?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69039749ff462851fefec64c?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Oct 30 |
-| **[RJMedex](https://rjmedex.com/)** | **[UX/UI with Strong Backend Development Intern to Fulltime](https://jobright.ai/jobs/info/690393a963502c0aded6a034?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Oct 30 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Intelligence UI/UX (Spring 2026)](https://jobright.ai/jobs/info/69039337d64a22104aa90913?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Oct 30 |
 | ↳ | **[Intern: Industrial Designer, Exterior (Summer 2026)](https://jobright.ai/jobs/info/6903916563502c0aded69e91?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Oct 30 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[CSS Intern](https://jobright.ai/jobs/info/6903852663502c0aded697ba?utm_campaign=1049&utm_source=git)** | Leesburg, FL | On Site | Oct 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altium Packaging](https://altiumpkg.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/68cd1f8ee23def7af55b59f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Oct 29 |
 | **[Arbor Homes](https://yourarborhome.com/)** | **[End User Experience Intern](https://jobright.ai/jobs/info/68cc3db316d00d2beeb1c331?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Oct 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cf951d846f0b04af683294?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | On Site | Oct 29 |
-| **[Steelcase](https://www.steelcase.com/)** | **[2026 Summer/Co-Op Interior Design Intern](https://jobright.ai/jobs/info/68c98a4f95f5211cd2cf14ea?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Oct 29 |
-| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Studio Design Intern](https://jobright.ai/jobs/info/68f9a1836de2db04dc3eaaf9?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Oct 29 |
-| **[Sky Ranch](https://skyranch.org)** | **[Creative Media Intern](https://jobright.ai/jobs/info/6902115d00a1816c41e9b071?utm_campaign=1049&utm_source=git)** | Van, TX | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
