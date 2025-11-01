@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kleberg Bank](http://klebergbank.com)** | **[Creative Content Intern](https://jobright.ai/jobs/info/69056bcf122e8474c78d8d78?utm_campaign=1049&utm_source=git)** | Corpus Christi, TX | On Site | Oct 31 |
+| **[Hepburn and Sons LLC](https://hepburnandsons.com)** | **[Highschool Design Internship](https://jobright.ai/jobs/info/69056b6a63502c0aded7af19?utm_campaign=1049&utm_source=git)** | Manassas, VA | Hybrid | Oct 31 |
+| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/690565e663502c0aded7ace5?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 31 |
 | **[SMUD](https://www.smud.org/en)** | **[IT End User Experience Intern - Year Round](https://jobright.ai/jobs/info/69055ce463502c0aded7a899?utm_campaign=1049&utm_source=git)** | Sacramento, CA, US | On Site | Oct 31 |
 | **[KoolShiit](https://www.koolshiit.com/)** | **[Social Media Art Director - internship](https://jobright.ai/jobs/info/690549a3ff462851feffc881?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Oct 31 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Design Project Intern [TikTok-Design]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/69054546122e8474c78d805a?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Oct 31 |
@@ -82,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[UX Designer Intern- Summer 2026](https://jobright.ai/jobs/info/69051013122e8474c78d597f?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | On Site | Oct 31 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Photo Management Intern - Spring 2026](https://jobright.ai/jobs/info/69050d38122e8474c78d576e?utm_campaign=1049&utm_source=git)** | Bronx Zoo | Hybrid | Oct 31 |
 | **[Kleberg Bank](http://klebergbank.com)** | **[Creative Content Intern](https://jobright.ai/jobs/info/69050aab63502c0aded776ef?utm_campaign=1049&utm_source=git)** | Corpus Christi,TX,US | On Site | Oct 31 |
-| **[RJMedex](https://rjmedex.com/)** | **[Sr UX/UI with Strong Development Exp Intern to FT  USC/GC only](https://jobright.ai/jobs/info/69052aa5ff462851feffb4b2?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Oct 31 |
 | **[PlayCore](http://www.playcore.com/)** | **[Design Intern - Kraemer Design & Production](https://jobright.ai/jobs/info/6904ffb8ff462851feff96c7?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Oct 31 |
 | **[RQ Construction, LLC](http://rqconstruction.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/690540d7122e8474c78d7ddb?utm_campaign=1049&utm_source=git)** | Carlsbad,CA,US | On Site | Oct 31 |
 | **[City of Grand Junction](https://www.gjcity.org)** | **[Visit Grand Junction Intern – Administrative and Content](https://jobright.ai/jobs/info/6905409d122e8474c78d7dc4?utm_campaign=1049&utm_source=git)** | 740 Horizon Drive, Grand Junction, CO, 81506, US | On Site | Oct 31 |
@@ -136,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - User Experience Research](https://jobright.ai/jobs/info/6903c9b0ff462851fefeec97?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Oct 30 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6903c972ff462851fefeec58?utm_campaign=1049&utm_source=git)** | Reading, PA | On Site | Oct 30 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Product Design Intern](https://jobright.ai/jobs/info/6903c11363502c0aded6bec1?utm_campaign=1049&utm_source=git)** | North Carolina | Hybrid | Oct 30 |
+| **[rag & bone](http://www.rag-bone.com)** | **[Spring Internship - Footwear Design](https://jobright.ai/jobs/info/6903ba0ad64a22104aa922b3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Intern - Industrial Design](https://jobright.ai/jobs/info/6903d58bff462851fefef81d?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | Oct 30 |
 | **[KROST](https://krostnewyork.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/6903b099d64a22104aa91cb7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/6903ac68ff462851fefed659?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Oct 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altruist](https://altruist.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/68ce72e6846f0b04af67a158?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 30 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Creative Operations Intern (May to August)](https://jobright.ai/jobs/info/68cea715846f0b04af67c0d0?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Oct 30 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68ae4743daf1431824ca1fd0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 30 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cd10351ad6b16f028942ab?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Oct 30 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Interior Designer, Summer 2026](https://jobright.ai/jobs/info/68e6c5631852e62f0081e66d?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Oct 30 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cd11b81ad6b16f02894547?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
