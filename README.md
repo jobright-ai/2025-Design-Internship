@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer \ Digital Designer \ Visual Design \ ITAR / U.S.Citizen](https://jobright.ai/jobs/info/690670f3122e8474c78e0158?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Music Creative Affairs - Spring 2026](https://jobright.ai/jobs/info/69066305ff462851fe00474f?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | ↳ | **[Intern, Creative Group, SPA - Spring 2026](https://jobright.ai/jobs/info/690662dd122e8474c78dfe86?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
 | ↳ | **[Production and Asset Management LATAM Intern - Spring 2026](https://jobright.ai/jobs/info/690662d2122e8474c78dfe82?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Nov 01 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/68ed4b3370b66e2345d3c3b2?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/6906566563502c0aded81fc4?utm_campaign=1049&utm_source=git)** | Bismarck,ND,US | On Site | Nov 01 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Sports Marketing & Graphic Design Intern, New York City, Spring 2026](https://jobright.ai/jobs/info/6906404763502c0aded81cd3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer \ Digital Designer \ Visual Design / ITAR / U.S.Citizen](https://jobright.ai/jobs/info/6906336eff462851fe003ee9?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 01 |
 | **[NVA General Practice](https://www.nva.com/)** | **[Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/68e99e3e0930fe0bc4627c40?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Nov 01 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX Research Intern](https://jobright.ai/jobs/info/68fe5bace04ac838fb5b4072?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 01 |
 | **[EXPRESS](http://express.com)** | **[Technical Design Summer Internship](https://jobright.ai/jobs/info/69060bb9ff462851fe002bed?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 01 |
@@ -137,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/68e826c509580a2fe57f4703?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 31 |
 | **[SAFEbuilt](http://safebuilt.com/)** | **[Landscape Intern Part Time](https://jobright.ai/jobs/info/68cc479e128dc347fd921f84?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 31 |
 | **[Kendra Scott](http://www.kendrascott.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6904c57c122e8474c78d30ea?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6904c6f163502c0aded752b8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
 | ↳ | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6904c31b63502c0aded75126?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6904c6f163502c0aded752b8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[UX Design Intern, Summer 2026](https://jobright.ai/jobs/info/6904ba4cff462851feff7271?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Service Publications Intern - The Toro Company](https://jobright.ai/jobs/info/68cc1c977342c7623ae5f68c?utm_campaign=1049&utm_source=git)** | Hennepin County, MN | On Site | Oct 31 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Intern – UI/UX Designer (Summer 2026)](https://jobright.ai/jobs/info/68ced81adbd9fb154ede3246?utm_campaign=1049&utm_source=git)** | Downers Grove, IL | On Site | Oct 31 |
