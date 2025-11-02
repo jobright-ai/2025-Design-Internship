@@ -137,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/68e826c509580a2fe57f4703?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 31 |
 | **[SAFEbuilt](http://safebuilt.com/)** | **[Landscape Intern Part Time](https://jobright.ai/jobs/info/68cc479e128dc347fd921f84?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 31 |
 | **[Kendra Scott](http://www.kendrascott.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6904c57c122e8474c78d30ea?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
-| ↳ | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6904c31b63502c0aded75126?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6904c6f163502c0aded752b8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
+| ↳ | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6904c31b63502c0aded75126?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[UX Design Intern, Summer 2026](https://jobright.ai/jobs/info/6904ba4cff462851feff7271?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Service Publications Intern - The Toro Company](https://jobright.ai/jobs/info/68cc1c977342c7623ae5f68c?utm_campaign=1049&utm_source=git)** | Hennepin County, MN | On Site | Oct 31 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Intern – UI/UX Designer (Summer 2026)](https://jobright.ai/jobs/info/68ced81adbd9fb154ede3246?utm_campaign=1049&utm_source=git)** | Downers Grove, IL | On Site | Oct 31 |
