@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Industrial Design Intern – Spring 2026](https://jobright.ai/jobs/info/68b3db3b1ade4306aa63ce60?utm_campaign=1049&utm_source=git)** | Trumbull, CT | Hybrid | Nov 02 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Marketing](https://jobright.ai/jobs/info/69077860ff462851fe009c89?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[CX Engagement and SME intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68b3db0df4e41a61efd8ad5d?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 02 |
 | **[WJF Sports & Entertainment](www.wjfsportsgroup.com)** | **[Graphic Web Designer intern](https://jobright.ai/jobs/info/69076ec5122e8474c78e4cb9?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Nov 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69071e4b63502c0aded84e34?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Oct 31 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/690475c5d64a22104aa99a5a?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Oct 31 |
 | **[Travelers](https://www.travelers.com)** | **[Enterprise Experience Design Intern](https://jobright.ai/jobs/info/68ffd9b80ab3b222462aef79?utm_campaign=1049&utm_source=git)** | Hartford, CT | Hybrid | Oct 31 |
-| **[gravillis™](http://www.gravillisinc.com)** | **[Intern, Social Media](https://jobright.ai/jobs/info/690492c1ff462851feff6468?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
