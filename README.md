@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Nov 01 |
+| **[BeFreed](https://www.befreed.ai/)** | **[Product designer Intern](https://jobright.ai/jobs/info/69069d8e122e8474c78e04c6?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer \ Digital Designer \ Visual Design \ ITAR / U.S.Citizen](https://jobright.ai/jobs/info/690670f3122e8474c78e0158?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Music Creative Affairs - Spring 2026](https://jobright.ai/jobs/info/69066305ff462851fe00474f?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | ↳ | **[Intern, Creative Group, SPA - Spring 2026](https://jobright.ai/jobs/info/690662dd122e8474c78dfe86?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office - Graphic Design Internship](https://jobright.ai/jobs/info/6905d6ac122e8474c78dc577?utm_campaign=1049&utm_source=git)** | Auburn Hills, MI | Hybrid | Nov 01 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Marketing](https://jobright.ai/jobs/info/69059dcd122e8474c78da5a1?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Oct 31 |
 | ↳ | **[Summer 2026 Internship - Marketing](https://jobright.ai/jobs/info/6905e0da63502c0aded7ed16?utm_campaign=1049&utm_source=git)** | Omaha, Nebraska | On Site | Oct 31 |
-| **[RentVision](https://www.rentvision.com/)** | **[Media Editing Intern](https://jobright.ai/jobs/info/6905844eff462851feffe21f?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Oct 31 |
 | **[Kleberg Bank](http://klebergbank.com)** | **[Creative Content Intern](https://jobright.ai/jobs/info/69056bcf122e8474c78d8d78?utm_campaign=1049&utm_source=git)** | Corpus Christi, TX | On Site | Oct 31 |
 | **[Hepburn and Sons LLC](https://hepburnandsons.com)** | **[Highschool Design Internship](https://jobright.ai/jobs/info/69056b6a63502c0aded7af19?utm_campaign=1049&utm_source=git)** | Manassas, VA | Hybrid | Oct 31 |
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/690565e663502c0aded7ace5?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Oct 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bachman's Inc.](http://bachmans.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69053410122e8474c78d76fd?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Oct 30 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Graphic Design & Print Production Intern](https://jobright.ai/jobs/info/69042a4dd64a22104aa97b15?utm_campaign=1049&utm_source=git)** | Longwood,FL,US | Hybrid | Oct 30 |
 | **[Kendra Scott](http://www.kendrascott.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69041ae3d64a22104aa96f78?utm_campaign=1049&utm_source=git)** | Austin Texas | On Site | Oct 30 |
-| **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6903f88a63502c0aded6ee73?utm_campaign=1049&utm_source=git)** | Bonita Springs, FL | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
