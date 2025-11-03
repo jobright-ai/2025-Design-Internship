@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Marketing](https://jobright.ai/jobs/info/6908c81bd046ab6061ccdf9e?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Nov 03 |
+| **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/6908c4ec4a1b456627af8eb1?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 03 |
 | **[WJF Sports & Entertainment](www.wjfsportsgroup.com)** | **[Web Designer intern](https://jobright.ai/jobs/info/6908aeac4a1b456627af8165?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Nov 03 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/687de194ed63844c944b5475?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Nov 03 |
-| **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design \ ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/69089f4ebcccf20de59d23f5?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 03 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/687afddaed63844c944a6421?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Nov 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/69088c51d046ab6061ccbba8?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Nov 03 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/68e826c509580a2fe57f4703?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 31 |
 | **[SAFEbuilt](http://safebuilt.com/)** | **[Landscape Intern Part Time](https://jobright.ai/jobs/info/68cc479e128dc347fd921f84?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 31 |
 | **[Kendra Scott](http://www.kendrascott.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6904c57c122e8474c78d30ea?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
-| ↳ | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6904c31b63502c0aded75126?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6904c6f163502c0aded752b8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
+| ↳ | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6904c31b63502c0aded75126?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[UX Design Intern, Summer 2026](https://jobright.ai/jobs/info/6904ba4cff462851feff7271?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Service Publications Intern - The Toro Company](https://jobright.ai/jobs/info/68cc1c977342c7623ae5f68c?utm_campaign=1049&utm_source=git)** | Hennepin County, MN | On Site | Oct 31 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Intern – UI/UX Designer (Summer 2026)](https://jobright.ai/jobs/info/68ced81adbd9fb154ede3246?utm_campaign=1049&utm_source=git)** | Downers Grove, IL | On Site | Oct 31 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/68cc6f977342c7623ae64d04?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 31 |
-| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Concept Art](https://jobright.ai/jobs/info/68e8a730cc49a84b7e10855b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
