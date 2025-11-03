@@ -57,11 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Value Aligners](Valuealigners.com)** | **[UI UX design Intern](https://jobright.ai/jobs/info/6908e99a4a1b456627afa028?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Nov 03 |
+| **[Riot Games](http://www.riotgames.com)** | **[Technical Game Design Intern, 2XKO - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909036d4a1b456627afb2e1?utm_campaign=1049&utm_source=git)** | Los Angeles, USA | Remote | Nov 03 |
+| **[Zotec Partners](http://www.zotecpartners.com)** | **[UX Designer & Researcher Intern](https://jobright.ai/jobs/info/690902dc4a1b456627afb244?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Nov 03 |
+| **[Riot Games](http://www.riotgames.com)** | **[Concept Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f9e6bcccf20de59d5856?utm_campaign=1049&utm_source=git)** | Los Angeles, USA | Remote | Nov 03 |
+| **[Talentix](https://thetalentix.com/)** | **[UI/UX Designer Intern @Talentix](https://jobright.ai/jobs/info/6908f87fd046ab6061ccfb97?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Nov 03 |
+| **[Riot Games](http://www.riotgames.com)** | **[Technical Art Intern - Rigging, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f819d046ab6061ccfb40?utm_campaign=1049&utm_source=git)** | Los Angeles, USA | Remote | Nov 03 |
+| ↳ | **[Visual Design Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f7c0bcccf20de59d56a0?utm_campaign=1049&utm_source=git)** | Los Angeles, USA | Remote | Nov 03 |
+| **[Valvoline Inc.](http://www.valvoline.com)** | **[Signage and Brand Implementation Intern](https://jobright.ai/jobs/info/6908f462bcccf20de59d53db?utm_campaign=1049&utm_source=git)** | Lexington, KY | Hybrid | Nov 03 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Global Brand Design Undergraduate Internship](https://jobright.ai/jobs/info/6908f283bcccf20de59d522b?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 03 |
+| ↳ | **[NIKE, Inc. Global Brand Narrative & Writing Undergraduate Internship](https://jobright.ai/jobs/info/6908f17a4a1b456627afa6ee?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 03 |
+| ↳ | **[NIKE, Inc. Brand Creative Retail Design Undergraduate Internship](https://jobright.ai/jobs/info/6908eebdd046ab6061ccf289?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 03 |
 | **[Norric](https://norric.ai/)** | **[UI/UX Fall Internship](https://jobright.ai/jobs/info/6908e96fbcccf20de59d4ac8?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Nov 03 |
+| **[RHSEVEN SPORTS](https://www.rhseven.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690903bcbcccf20de59d5ec7?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 03 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6908da77d046ab6061cce6c5?utm_campaign=1049&utm_source=git)** | East Lansing, MI | On Site | Nov 03 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Marketing](https://jobright.ai/jobs/info/6908c81bd046ab6061ccdf9e?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Nov 03 |
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/6908c4ec4a1b456627af8eb1?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 03 |
+| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern UX Research](https://jobright.ai/jobs/info/6908f799bcccf20de59d5683?utm_campaign=1049&utm_source=git)** | HQ-Office, San Francisco, CA, USA | On Site | Nov 03 |
 | **[WJF Sports & Entertainment](www.wjfsportsgroup.com)** | **[Web Designer intern](https://jobright.ai/jobs/info/6908aeac4a1b456627af8165?utm_campaign=1049&utm_source=git)** | Baltimore, MD | Hybrid | Nov 03 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/687de194ed63844c944b5475?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Nov 03 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/687afddaed63844c944a6421?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Nov 03 |
@@ -70,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68dc6d5eddc10244dd6756e0?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Nov 02 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Marketing Graphic Designer](https://jobright.ai/jobs/info/69086a5f4a1b456627af3fd3?utm_campaign=1049&utm_source=git)** | Effingham, IL | On Site | Nov 02 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Streetwear Brand Intern](https://jobright.ai/jobs/info/69083334ff462851fe00cdc1?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Nov 02 |
+| **[LGA Partners](http://lga-partners.com)** | **[Interior Design Intern (Spring Semester 2026)](https://jobright.ai/jobs/info/6909001fd046ab6061cd0037?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Industrial Design Intern – Spring 2026](https://jobright.ai/jobs/info/68b3db3b1ade4306aa63ce60?utm_campaign=1049&utm_source=git)** | Trumbull, CT | Hybrid | Nov 02 |
 | ↳ | **[CX Engagement and SME intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68b3db0df4e41a61efd8ad5d?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 02 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Home Design Intern Summer 2026 - Textiles](https://jobright.ai/jobs/info/69076e5e63502c0aded8701b?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Nov 02 |
@@ -90,6 +102,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architecture Student Intern](https://jobright.ai/jobs/info/690658f7122e8474c78dfca7?utm_campaign=1049&utm_source=git)** | Grand Forks,ND,US | On Site | Nov 01 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/68ed4b3370b66e2345d3c3b2?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/6906566563502c0aded81fc4?utm_campaign=1049&utm_source=git)** | Bismarck,ND,US | On Site | Nov 01 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[UX Designer Intern- Summer 2026](https://jobright.ai/jobs/info/6908fc99bcccf20de59d5910?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | On Site | Nov 01 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Sports Marketing & Graphic Design Intern, New York City, Spring 2026](https://jobright.ai/jobs/info/6906404763502c0aded81cd3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[NVA General Practice](https://www.nva.com/)** | **[Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/68e99e3e0930fe0bc4627c40?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Nov 01 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX Research Intern](https://jobright.ai/jobs/info/68fe5bace04ac838fb5b4072?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 01 |
@@ -108,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68f6aefe76a51a4307bdd301?utm_campaign=1049&utm_source=git)** | Newark, NJ | On Site | Nov 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6905f94dff462851fe001fbb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/68ccd199b274cd205ab4f8f2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| **[Intuit](https://www.intuit.com)** | **[UR Event - Summer 2026 Design Intern](https://jobright.ai/jobs/info/6906156b63502c0aded80d43?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | Nov 01 |
 | **[HDR](http://www.hdrinc.com)** | **[Urban Design/Landscape Planning Intern](https://jobright.ai/jobs/info/68d374448c62e63bc7fe152b?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 01 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Innovation Brand Creative Studio Intern](https://jobright.ai/jobs/info/68f89da74bafad6d2d76475b?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 01 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6905c3feff462851fe0002ab?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 01 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[Intern- UX/UI](https://jobright.ai/jobs/info/690415a0ff462851feff2802?utm_campaign=1049&utm_source=git)** | Wilmington, MA | Hybrid | Oct 31 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Web Programs](https://jobright.ai/jobs/info/68cc9756128dc347fd927044?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
 | ↳ | **[2026 Internship - Interior Design](https://jobright.ai/jobs/info/68cc63d8128dc347fd924221?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Oct 31 |
-| **[Copart](http://www.copart.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68ec613dbb72c377a5512bc2?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Oct 31 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68df1957fe896042b0b769b9?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Oct 31 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68d014ff846f0b04af6876ee?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Oct 31 |
-| **[Musco Lighting](http://www.musco.com)** | **[Production Artist Intern](https://jobright.ai/jobs/info/68e8065b09580a2fe57f2291?utm_campaign=1049&utm_source=git)** | Oskaloosa, IA | On Site | Oct 31 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ccf4a6d11b445e0bee4d31?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Oct 31 |
-| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/68e826c509580a2fe57f4703?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Oct 31 |
-| **[SAFEbuilt](http://safebuilt.com/)** | **[Landscape Intern Part Time](https://jobright.ai/jobs/info/68cc479e128dc347fd921f84?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 31 |
-| **[Kendra Scott](http://www.kendrascott.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6904c57c122e8474c78d30ea?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
-| ↳ | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6904c31b63502c0aded75126?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6904c6f163502c0aded752b8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Oct 31 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[UX Design Intern, Summer 2026](https://jobright.ai/jobs/info/6904ba4cff462851feff7271?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Oct 31 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Service Publications Intern - The Toro Company](https://jobright.ai/jobs/info/68cc1c977342c7623ae5f68c?utm_campaign=1049&utm_source=git)** | Hennepin County, MN | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
