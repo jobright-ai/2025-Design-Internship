@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gabriel AI](https://home.gabrielai.co/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690a52d34a1b456627b06370?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
+| **[Chil & Co. ](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/690a738cbcccf20de59e26ae?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 04 |
+| **[Treme-Parker](https://www.tremeparker.com)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/690a7020d046ab6061cdc9b2?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Nov 04 |
+| **[JLG Architects](http://www.jlgarchitects.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/690a6a494a1b456627b074f8?utm_campaign=1049&utm_source=git)** | Fargo, ND | On Site | Nov 04 |
+| **[MSA Professional Services](http://msa-ps.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/690a6523d046ab6061cdbdef?utm_campaign=1049&utm_source=git)** | US-MN-St Paul | On Site | Nov 04 |
+| **[Pcuro](www.pcuro.com)** | **[UI/UX Design Intern (Unpaid – Remote, Texas, USA)](https://jobright.ai/jobs/info/690a6364d046ab6061cdbd59?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
+| **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Intern - Industrial Design](https://jobright.ai/jobs/info/6903d58bff462851fefef81d?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | Nov 04 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Global Creative Content, Spring 2026](https://jobright.ai/jobs/info/690a5daed046ab6061cdb900?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Nov 04 |
+| **[JLG Architects](http://www.jlgarchitects.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/690a6d16d046ab6061cdc67b?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Nov 04 |
 | **[Riot Games](http://www.riotgames.com)** | **[Concept Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690916bed046ab6061cd12a2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 04 |
 | **[FIRST](https://firstagency.com/)** | **[3D Design Intern (Spring)](https://jobright.ai/jobs/info/690a3598bcccf20de59dfd89?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | Nov 04 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID, Internship, Graphic Designs](https://jobright.ai/jobs/info/690a331d4a1b456627b05163?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Nov 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LGA Partners](http://lga-partners.com)** | **[Interior Design Intern (Spring Semester 2026)](https://jobright.ai/jobs/info/6909001fd046ab6061cd0037?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Industrial Design Intern – Spring 2026](https://jobright.ai/jobs/info/68b3db3b1ade4306aa63ce60?utm_campaign=1049&utm_source=git)** | Trumbull, CT | Hybrid | Nov 02 |
 | ↳ | **[CX Engagement and SME intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68b3db0df4e41a61efd8ad5d?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 02 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Kansas City)](https://jobright.ai/jobs/info/68d510e12ed36439e51e4820?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Nov 02 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Graphic Design Intern / Part-Time / Casey's Center & Iowa Events Center](https://jobright.ai/jobs/info/68f752dd5dc1be601280c9b6?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Nov 02 |
-| **[Quill](http://www.quill.com)** | **[Quill UX/UI Visual Designer Intern - June 2026](https://jobright.ai/jobs/info/68ea82bc2f64880ca0b535ad?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | On Site | Nov 02 |
-| **[Southern Utah University](http://www.suu.edu/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69072679ff462851fe007698?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Nov 02 |
-| **[YC+D Architecture](http://www.ycplusd.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6906ddd4122e8474c78e1532?utm_campaign=1049&utm_source=git)** | Walnut Creek, CA | On Site | Nov 01 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Photography Intern](https://jobright.ai/jobs/info/68e96a740930fe0bc4625789?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6909804a4a1b456627b01118?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
