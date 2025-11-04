@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KeyBank](https://www.key.com)** | **[Summer 2026 Corporate Center – CX Centricity and Design Strategy Intern](https://jobright.ai/jobs/info/69096c884a1b456627b003af?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Nov 03 |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Design Intern](https://jobright.ai/jobs/info/690969f0bcccf20de59daddc?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Nov 03 |
+| ↳ | **[Experiential Design Intern](https://jobright.ai/jobs/info/69095b9e4a1b456627affaf7?utm_campaign=1049&utm_source=git)** | New York | On Site | Nov 03 |
+| **[Awardco](https://www.award.co)** | **[UX Design Intern](https://jobright.ai/jobs/info/690959cc4a1b456627aff985?utm_campaign=1049&utm_source=git)** | Lindon, Utah | On Site | Nov 03 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Global Creative Content, Spring 2026](https://jobright.ai/jobs/info/69095620bcccf20de59da2ef?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Nov 03 |
 | **[McKinley Architecture and Engineering ](https://mckinleydelivers.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/690954d54a1b456627aff57a?utm_campaign=1049&utm_source=git)** | Pittsburgh,PA,US | On Site | Nov 03 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690954354a1b456627aff504?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | Nov 03 |
@@ -84,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Riot Games](http://www.riotgames.com)** | **[Concept Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690916bed046ab6061cd12a2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 03 |
 | **[Insomniac Events](http://insomniac.com)** | **[UI Artist Intern - Undergraduate](https://jobright.ai/jobs/info/690914d84a1b456627afc1ed?utm_campaign=1049&utm_source=git)** | United States, Remote | Remote | Nov 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mixed Media](https://jobright.ai/jobs/info/69092c684a1b456627afd807?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 03 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Brand Graphic Design Internship (Unpaid)](https://jobright.ai/jobs/info/69092ca84a1b456627afd83a?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Nov 03 |
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/69090e914a1b456627afbd93?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 03 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690909894a1b456627afb939?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
 | **[City of Des Moines](https://DSM.city/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/690905ecd046ab6061cd04b1?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Nov 03 |
@@ -110,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern UX Research](https://jobright.ai/jobs/info/6908f799bcccf20de59d5683?utm_campaign=1049&utm_source=git)** | HQ-Office, San Francisco, CA, USA | On Site | Nov 03 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/687de194ed63844c944b5475?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Nov 03 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/687afddaed63844c944a6421?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Nov 03 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/69088c51d046ab6061ccbba8?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Nov 03 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Summer 2026](https://jobright.ai/jobs/info/68dc6d5eddc10244dd6756e0?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Nov 02 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Marketing Graphic Designer](https://jobright.ai/jobs/info/69086a5f4a1b456627af3fd3?utm_campaign=1049&utm_source=git)** | Effingham, IL | On Site | Nov 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Urban Design/Landscape Planning Intern](https://jobright.ai/jobs/info/68d374448c62e63bc7fe152b?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 01 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Innovation Brand Creative Studio Intern](https://jobright.ai/jobs/info/68f89da74bafad6d2d76475b?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 01 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6905c3feff462851fe0002ab?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 01 |
-| **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Marketing](https://jobright.ai/jobs/info/6905e0da63502c0aded7ed16?utm_campaign=1049&utm_source=git)** | Omaha, Nebraska | On Site | Oct 31 |
-| **[Kleberg Bank](http://klebergbank.com)** | **[Creative Content Intern](https://jobright.ai/jobs/info/69056bcf122e8474c78d8d78?utm_campaign=1049&utm_source=git)** | Corpus Christi, TX | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
