@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cookiy AI](https://cookiy.ai/)** | **[User Research Intern](https://jobright.ai/jobs/info/690b706d221b890c277f4e69?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 05 |
+| **[Cristina Ruales Co.](http://www.cristinaruales.com/)** | **[Graphic Design Internship (Unpaid, School Credit Preferred)](https://jobright.ai/jobs/info/690b820f4a1b456627b0ff3c?utm_campaign=1049&utm_source=git)** | Waterford, CT | Remote | Nov 05 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/68f5681476a51a4307bd4dfb?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Nov 05 |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/68ea31cd4ae33307d3eda388?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Nov 05 |
+| **[National Life Group](https://www.nationallife.com)** | **[Illustration Systems Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ce2c09e23def7af55c2bf8?utm_campaign=1049&utm_source=git)** | Addison, TX | Hybrid | Nov 05 |
+| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: UX/UI Design (Summer 2026)](https://jobright.ai/jobs/info/690b8689221b890c277f5805?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Nov 05 |
+| **[National Life Group](https://www.nationallife.com)** | **[Illustration Systems Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68b744f62124650c140212f7?utm_campaign=1049&utm_source=git)** | Montpelier, VT | Hybrid | Nov 05 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2026](https://jobright.ai/jobs/info/68ef0ebc20456578d5eb47e8?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Nov 05 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68eec66046e5b153e5a5fb39?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | On Site | Nov 05 |
+| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2026](https://jobright.ai/jobs/info/68ef2167a1a1d02df61e995f?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Nov 05 |
 | **[Randa Apparel & Accessories](http://www.randa.net)** | **[Design Internship - Summer 2026](https://jobright.ai/jobs/info/690b504e4a1b456627b0ed09?utm_campaign=1049&utm_source=git)** | Farmers Branch, TX | On Site | Nov 05 |
 | ↳ | **[Tech Design Internship - Summer 2026](https://jobright.ai/jobs/info/690b4f7ad046ab6061ce3a9f?utm_campaign=1049&utm_source=git)** | Farmers Branch, TX | On Site | Nov 05 |
 | ↳ | **[Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f96cb36de2db04dc3e9196?utm_campaign=1049&utm_source=git)** | Rosemont, IL | On Site | Nov 05 |
@@ -101,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Video/Production Content Intern - University of Nebraska](https://jobright.ai/jobs/info/6902a4e198707b2b0fe71d65?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Nov 04 |
 | **[SemSem LLC](https://www.semsem.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/690a9d954a1b456627b09b0c?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Nov 04 |
 | **[Mountain States Legal Foundation](https://mslegal.org/)** | **[Creative Media Fellow](https://jobright.ai/jobs/info/690a9c4bd046ab6061cde911?utm_campaign=1049&utm_source=git)** | Lakewood, CO | On Site | Nov 04 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/690b8db54a1b456627b1044b?utm_campaign=1049&utm_source=git)** | Topeka, KS | On Site | Nov 04 |
 | **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/690a870e4a1b456627b08ef4?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Nov 04 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690a76add046ab6061cdcf17?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[FIRST](https://firstagency.com/)** | **[3D Design Intern (Spring)](https://jobright.ai/jobs/info/690a74e4d046ab6061cdcc97?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
@@ -115,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[JonnyPops](https://www.jonnypops.com/)** | **[Studio/Product photographer Intern](https://jobright.ai/jobs/info/690a8ba04a1b456627b0911c?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Nov 04 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Graphic Design Season 2026](https://jobright.ai/jobs/info/690a79e7d046ab6061cdd2ed?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Nov 04 |
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/690a6d16d046ab6061cdc67b?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Nov 04 |
-| **[Aced Golf](http://www.AcedGolf.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690b60804a1b456627b0f24c?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Nov 04 |
 | **[Riot Games](http://www.riotgames.com)** | **[Concept Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690916bed046ab6061cd12a2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 04 |
 | **[FIRST](https://firstagency.com/)** | **[3D Design Intern (Spring)](https://jobright.ai/jobs/info/690a3598bcccf20de59dfd89?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | Nov 04 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690a32cb4a1b456627b05121?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Nov 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Corporate Center – Specialty Design and Storytelling Intern](https://jobright.ai/jobs/info/690978d74a1b456627b00db4?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Nov 03 |
 | ↳ | **[Summer 2026 Corporate Center – CX Centricity and Design Strategy Intern](https://jobright.ai/jobs/info/69096c884a1b456627b003af?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Nov 03 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Design Intern](https://jobright.ai/jobs/info/690969f0bcccf20de59daddc?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Nov 03 |
-| ↳ | **[Experiential Design Intern](https://jobright.ai/jobs/info/69095b9e4a1b456627affaf7?utm_campaign=1049&utm_source=git)** | New York | On Site | Nov 03 |
-| **[Awardco](https://www.award.co)** | **[UX Design Intern](https://jobright.ai/jobs/info/690959cc4a1b456627aff985?utm_campaign=1049&utm_source=git)** | Lindon, Utah | On Site | Nov 03 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Global Creative Content, Spring 2026](https://jobright.ai/jobs/info/69095620bcccf20de59da2ef?utm_campaign=1049&utm_source=git)** | Culver City, California | On Site | Nov 03 |
-| **[McKinley Architecture and Engineering ](https://mckinleydelivers.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/690954d54a1b456627aff57a?utm_campaign=1049&utm_source=git)** | Pittsburgh,PA,US | On Site | Nov 03 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690954354a1b456627aff504?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | Nov 03 |
-| **[NTA Talent Agency](https://ntatalent.com)** | **[Student Intern](https://jobright.ai/jobs/info/690953a0d046ab6061cd43e7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
