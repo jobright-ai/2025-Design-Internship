@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Workday](http://www.workday.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/690ad6824a1b456627b0bcfe?utm_campaign=1049&utm_source=git)** | USA, CA, Pleasanton | Hybrid | Nov 04 |
+| **[Siemens](https://www.siemens.com)** | **[Product Design Intern- US 2026](https://jobright.ai/jobs/info/690ad63ad046ab6061ce0b7b?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Remote | Nov 04 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 04 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Digital CX Specialist Intern](https://jobright.ai/jobs/info/690ac629bcccf20de59e5edc?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
 | **[WindBorne Systems](https://windbornesystems.com)** | **[Creative Intern](https://jobright.ai/jobs/info/690ac5124a1b456627b0b351?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Nov 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/69090e914a1b456627afbd93?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 03 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690909894a1b456627afb939?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
 | **[City of Des Moines](https://DSM.city/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/690905ecd046ab6061cd04b1?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Nov 03 |
-| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern UX Research](https://jobright.ai/jobs/info/69090535bcccf20de59d5fb3?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 03 |
-| **[Riot Games](http://www.riotgames.com)** | **[Technical Game Design Intern, 2XKO - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909036d4a1b456627afb2e1?utm_campaign=1049&utm_source=git)** | Los Angeles, USA | Remote | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
