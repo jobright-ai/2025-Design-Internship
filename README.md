@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Transportation Design Intern](https://jobright.ai/jobs/info/690b1b484a1b456627b0df56?utm_campaign=1049&utm_source=git)** | Portland, OR US | Hybrid | Nov 05 |
+| ↳ | **[UX UI Design Intern](https://jobright.ai/jobs/info/690b1af54a1b456627b0df28?utm_campaign=1049&utm_source=git)** | Portland, OR US | Hybrid | Nov 05 |
+| ↳ | **[Transportation Design Intern](https://jobright.ai/jobs/info/690b17dc4a1b456627b0ddfa?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Nov 05 |
+| ↳ | **[UX UI Design Intern](https://jobright.ai/jobs/info/690b1147d046ab6061ce26e4?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Nov 05 |
 | **[Workday](http://www.workday.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/690ad6824a1b456627b0bcfe?utm_campaign=1049&utm_source=git)** | USA, CA, Pleasanton | Hybrid | Nov 04 |
 | **[Siemens](https://www.siemens.com)** | **[Product Design Intern- US 2026](https://jobright.ai/jobs/info/690ad63ad046ab6061ce0b7b?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Remote | Nov 04 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lamp Rynearson](https://lamprynearson.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/69091831bcccf20de59d7027?utm_campaign=1049&utm_source=git)** | US-NE-Omaha | On Site | Nov 03 |
 | **[Insomniac Events](http://insomniac.com)** | **[UI Artist Intern - Undergraduate](https://jobright.ai/jobs/info/690914d84a1b456627afc1ed?utm_campaign=1049&utm_source=git)** | United States, Remote | Remote | Nov 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mixed Media](https://jobright.ai/jobs/info/69092c684a1b456627afd807?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 03 |
-| **[JLG Architects](http://www.jlgarchitects.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/69090e914a1b456627afbd93?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 03 |
-| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690909894a1b456627afb939?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
-| **[City of Des Moines](https://DSM.city/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/690905ecd046ab6061cd04b1?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Nov 03 |
-| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern UX Research](https://jobright.ai/jobs/info/69090535bcccf20de59d5fb3?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
