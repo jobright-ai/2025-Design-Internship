@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Book Artist Intern](https://jobright.ai/jobs/info/690a9c21d046ab6061cde8fc?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/690a870e4a1b456627b08ef4?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Nov 04 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690a76add046ab6061cdcf17?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
-| **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design / ITAR / U.S.Citizen /](https://jobright.ai/jobs/info/690a768a4a1b456627b08047?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
 | **[FIRST](https://firstagency.com/)** | **[3D Design Intern (Spring)](https://jobright.ai/jobs/info/690a74e4d046ab6061cdcc97?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
 | ↳ | **[2D Design Intern (Spring)](https://jobright.ai/jobs/info/690a74e0bcccf20de59e287e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
 | **[Chil & Co. ](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/690a738cbcccf20de59e26ae?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/69090e914a1b456627afbd93?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 03 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690909894a1b456627afb939?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
 | **[City of Des Moines](https://DSM.city/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/690905ecd046ab6061cd04b1?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Nov 03 |
+| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern UX Research](https://jobright.ai/jobs/info/69090535bcccf20de59d5fb3?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
