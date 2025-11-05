@@ -57,17 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 04 |
+| **[Acuity Insurance](http://www.acuity.com)** | **[Digital CX Specialist Intern](https://jobright.ai/jobs/info/690ac629bcccf20de59e5edc?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
+| **[WindBorne Systems](https://windbornesystems.com)** | **[Creative Intern](https://jobright.ai/jobs/info/690ac5124a1b456627b0b351?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Nov 04 |
+| **[El Paso Locomotive FC](http://eplocomotivefc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690abfdabcccf20de59e58c5?utm_campaign=1049&utm_source=git)** | El Paso, TX | On Site | Nov 04 |
+| **[Acuity Insurance](http://www.acuity.com)** | **[Digital CX Specialist Intern](https://jobright.ai/jobs/info/690abdcdd046ab6061cdfac1?utm_campaign=1049&utm_source=git)** | Sheboygan, WI | Hybrid | Nov 04 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern or Co-op - Winter 2026](https://jobright.ai/jobs/info/690abcd1d046ab6061cdfa09?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | Hybrid | Nov 04 |
+| **[Intereum](http://www.intereum.com)** | **[Design Intern](https://jobright.ai/jobs/info/690aba80bcccf20de59e54dd?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
+| **[Seagate Technology](http://www.seagate.com)** | **[Graphic Design and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/690ab8c64a1b456627b0a96d?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
+| **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Nov 04 |
+| **[Pinterest](https://www.pinterest.com/)** | **[UX Quantitative Research Intern](https://jobright.ai/jobs/info/690aafe6d046ab6061cdf29f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
+| **[El Paso Locomotive FC](http://eplocomotivefc.com)** | **[Video/Photography Intern](https://jobright.ai/jobs/info/690ac6dbbcccf20de59e5f5a?utm_campaign=1049&utm_source=git)** | El Paso, TX | On Site | Nov 04 |
 | **[BAZZAAL](https://bazzaal.com)** | **[(KIJIBAE) Graphic Design Intern](https://jobright.ai/jobs/info/690aa8624a1b456627b0a077?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 04 |
 | **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[UX Quantitative Research Intern](https://jobright.ai/jobs/info/690aa49dd046ab6061cded3d?utm_campaign=1049&utm_source=git)** | Remote, US | Remote | Nov 04 |
 | **[Legends Global](http://legends.net)** | **[Video/Production Content Intern - University of Nebraska](https://jobright.ai/jobs/info/6902a4e198707b2b0fe71d65?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Nov 04 |
 | **[SemSem LLC](https://www.semsem.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/690a9d954a1b456627b09b0c?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Nov 04 |
 | **[Mountain States Legal Foundation](https://mslegal.org/)** | **[Creative Media Fellow](https://jobright.ai/jobs/info/690a9c4bd046ab6061cde911?utm_campaign=1049&utm_source=git)** | Lakewood, CO | On Site | Nov 04 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Book Artist Intern](https://jobright.ai/jobs/info/690a9c21d046ab6061cde8fc?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
-| **[Nintendo](http://nintendo.com)** | **[Intern - Web Designer](https://jobright.ai/jobs/info/690a8a39bcccf20de59e3a25?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Nov 04 |
 | **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/690a870e4a1b456627b08ef4?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Nov 04 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690a76add046ab6061cdcf17?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design / ITAR / U.S.Citizen /](https://jobright.ai/jobs/info/690a768a4a1b456627b08047?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
-| **[Treme-Parker](https://www.tremeparker.com)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/690a7020d046ab6061cdc9b2?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Nov 04 |
 | **[FIRST](https://firstagency.com/)** | **[3D Design Intern (Spring)](https://jobright.ai/jobs/info/690a74e4d046ab6061cdcc97?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
 | ↳ | **[2D Design Intern (Spring)](https://jobright.ai/jobs/info/690a74e0bcccf20de59e287e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
 | **[Chil & Co. ](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/690a738cbcccf20de59e26ae?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 04 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Des Moines](https://DSM.city/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/690905ecd046ab6061cd04b1?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Nov 03 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern UX Research](https://jobright.ai/jobs/info/69090535bcccf20de59d5fb3?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 03 |
 | **[Riot Games](http://www.riotgames.com)** | **[Technical Game Design Intern, 2XKO - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909036d4a1b456627afb2e1?utm_campaign=1049&utm_source=git)** | Los Angeles, USA | Remote | Nov 03 |
-| **[Zotec Partners](http://www.zotecpartners.com)** | **[UX Designer & Researcher Intern](https://jobright.ai/jobs/info/690902dc4a1b456627afb244?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Nov 03 |
-| **[JLG Architects](http://www.jlgarchitects.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/69092708d046ab6061cd2321?utm_campaign=1049&utm_source=git)** | Bismarck, ND | On Site | Nov 03 |
-| **[Textron](http://textron.com)** | **[2026 Internship - Customer Experience (Digital Artistry)](https://jobright.ai/jobs/info/6909222ed046ab6061cd1e23?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Nov 03 |
-| **[Riot Games](http://www.riotgames.com)** | **[Concept Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f9e6bcccf20de59d5856?utm_campaign=1049&utm_source=git)** | Los Angeles, USA | Remote | Nov 03 |
-| ↳ | **[Technical Art Intern - Rigging, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f819d046ab6061ccfb40?utm_campaign=1049&utm_source=git)** | Los Angeles, USA | Remote | Nov 03 |
-| ↳ | **[Visual Design Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6908f7c0bcccf20de59d56a0?utm_campaign=1049&utm_source=git)** | Los Angeles, USA | Remote | Nov 03 |
-| **[Valvoline Inc.](http://www.valvoline.com)** | **[Signage and Brand Implementation Intern](https://jobright.ai/jobs/info/6908f462bcccf20de59d53db?utm_campaign=1049&utm_source=git)** | Lexington, KY | Hybrid | Nov 03 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Global Brand Design Undergraduate Internship](https://jobright.ai/jobs/info/6908f283bcccf20de59d522b?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 03 |
-| ↳ | **[NIKE, Inc. Global Brand Narrative & Writing Undergraduate Internship](https://jobright.ai/jobs/info/6908f17a4a1b456627afa6ee?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
