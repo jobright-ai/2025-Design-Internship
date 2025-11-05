@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAZZAAL](https://bazzaal.com)** | **[(KIJIBAE) Graphic Design Intern](https://jobright.ai/jobs/info/690aa8624a1b456627b0a077?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 04 |
+| **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[UX Quantitative Research Intern](https://jobright.ai/jobs/info/690aa49dd046ab6061cded3d?utm_campaign=1049&utm_source=git)** | Remote, US | Remote | Nov 04 |
+| **[Legends Global](http://legends.net)** | **[Video/Production Content Intern - University of Nebraska](https://jobright.ai/jobs/info/6902a4e198707b2b0fe71d65?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Nov 04 |
+| **[SemSem LLC](https://www.semsem.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/690a9d954a1b456627b09b0c?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Nov 04 |
+| **[Mountain States Legal Foundation](https://mslegal.org/)** | **[Creative Media Fellow](https://jobright.ai/jobs/info/690a9c4bd046ab6061cde911?utm_campaign=1049&utm_source=git)** | Lakewood, CO | On Site | Nov 04 |
+| **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Book Artist Intern](https://jobright.ai/jobs/info/690a9c21d046ab6061cde8fc?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Nintendo](http://nintendo.com)** | **[Intern - Web Designer](https://jobright.ai/jobs/info/690a8a39bcccf20de59e3a25?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Nov 04 |
 | **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/690a870e4a1b456627b08ef4?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Nov 04 |
-| **[Point Off View](http://www.pointoffview.com)** | **[Sustainable Fashion Internship](https://jobright.ai/jobs/info/690a809f4a1b456627b088c9?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690a76add046ab6061cdcf17?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Deca Defense](https://www.decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design / ITAR / U.S.Citizen /](https://jobright.ai/jobs/info/690a768a4a1b456627b08047?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Treme-Parker](https://www.tremeparker.com)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/690a7020d046ab6061cdc9b2?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Nov 04 |
@@ -72,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Continua Interiors](http://continuainteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/690a85554a1b456627b08cf8?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Intern - Industrial Design](https://jobright.ai/jobs/info/6903d58bff462851fefef81d?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | Nov 04 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Global Creative Content, Spring 2026](https://jobright.ai/jobs/info/690a5daed046ab6061cdb900?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Nov 04 |
-| **[Talentix](https://thetalentix.com/)** | **[User Experience Design Specialist(Intern)@Talentix](https://jobright.ai/jobs/info/690a847ed046ab6061cddb70?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Nov 04 |
 | **[JonnyPops](https://www.jonnypops.com/)** | **[Studio/Product photographer Intern](https://jobright.ai/jobs/info/690a8ba04a1b456627b0911c?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Nov 04 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Graphic Design Season 2026](https://jobright.ai/jobs/info/690a79e7d046ab6061cdd2ed?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Nov 04 |
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/690a6d16d046ab6061cdc67b?utm_campaign=1049&utm_source=git)** | Grand Forks, ND | On Site | Nov 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valvoline Inc.](http://www.valvoline.com)** | **[Signage and Brand Implementation Intern](https://jobright.ai/jobs/info/6908f462bcccf20de59d53db?utm_campaign=1049&utm_source=git)** | Lexington, KY | Hybrid | Nov 03 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Global Brand Design Undergraduate Internship](https://jobright.ai/jobs/info/6908f283bcccf20de59d522b?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 03 |
 | ↳ | **[NIKE, Inc. Global Brand Narrative & Writing Undergraduate Internship](https://jobright.ai/jobs/info/6908f17a4a1b456627afa6ee?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 03 |
-| ↳ | **[NIKE, Inc. Brand Creative Retail Design Undergraduate Internship](https://jobright.ai/jobs/info/6908eebdd046ab6061ccf289?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 03 |
-| **[Riot Games](http://www.riotgames.com)** | **[3D Environment Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091198bcccf20de59d6bd9?utm_campaign=1049&utm_source=git)** | Los Angeles, USA | Remote | Nov 03 |
-| **[Norric](https://norric.ai/)** | **[UI/UX Fall Internship](https://jobright.ai/jobs/info/6908e96fbcccf20de59d4ac8?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Nov 03 |
-| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6908da77d046ab6061cce6c5?utm_campaign=1049&utm_source=git)** | East Lansing, MI | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
