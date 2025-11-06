@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68fb0f319e8e925ac6c888c6?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | Hybrid | Nov 06 |
+| ↳ | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68efc5e1de50091dbfa50144?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 06 |
+| ↳ | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68fb5fdb4129dd33cd131d21?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Nov 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb1d7c3c99cc1d96028c27?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 06 |
+| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/690c6fbcd046ab6061ced342?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Nov 05 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/690c48fed046ab6061cec37a?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Nov 05 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6908da77d046ab6061cce6c5?utm_campaign=1049&utm_source=git)** | East Lansing, MI | On Site | Nov 05 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Digital and Graphic Design Intern](https://jobright.ai/jobs/info/690c2316221b890c277fbd4b?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Nov 05 |
@@ -92,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Madison Square Garden Entertainment Corp.](https://www.msgentertainment.com/)** | **[Graphic Design - Sports Summer 2026 Student Associate Program](https://jobright.ai/jobs/info/690bbc984a1b456627b1229d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/690bba3ed046ab6061ce6e7b?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Nov 05 |
 | **[McKinley Architecture and Engineering ](https://mckinleydelivers.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/690bb8a7d046ab6061ce6cf0?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Nov 05 |
-| **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68ca2315f61c922772a734fb?utm_campaign=1049&utm_source=git)** | Richardson, TX | On Site | Nov 05 |
+| **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/68bf009a8e65e77df55b61a4?utm_campaign=1049&utm_source=git)** | Richardson, TX | On Site | Nov 05 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690bd5f2d046ab6061ce8621?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Nov 05 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/690bd8b8221b890c277f9097?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 05 |
 | **[Weil-McLain](https://www.weil-mclain.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690bb1e9d046ab6061ce68d3?utm_campaign=1049&utm_source=git)** | Burr Ridge, IL | On Site | Nov 05 |
@@ -138,7 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Transportation Design Intern](https://jobright.ai/jobs/info/690b1b484a1b456627b0df56?utm_campaign=1049&utm_source=git)** | Portland, OR US | Hybrid | Nov 05 |
 | ↳ | **[UX UI Design Intern](https://jobright.ai/jobs/info/690b1af54a1b456627b0df28?utm_campaign=1049&utm_source=git)** | Portland, OR US | Hybrid | Nov 05 |
 | ↳ | **[Transportation Design Intern](https://jobright.ai/jobs/info/690b17dc4a1b456627b0ddfa?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Nov 05 |
-| ↳ | **[UX UI Design Intern](https://jobright.ai/jobs/info/690b1147d046ab6061ce26e4?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Nov 05 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc Innovation Brand Creative Studio Intern](https://jobright.ai/jobs/info/68f89da74bafad6d2d76475b?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 05 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[UX UI Design Intern](https://jobright.ai/jobs/info/690b1147d046ab6061ce26e4?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Nov 05 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Footwear Design Intern](https://jobright.ai/jobs/info/68f1bd5ee6870116b1f5c997?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 05 |
 | **[Workday](http://www.workday.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/690ad6824a1b456627b0bcfe?utm_campaign=1049&utm_source=git)** | USA, CA, Pleasanton | Hybrid | Nov 04 |
 | **[Siemens](https://www.siemens.com)** | **[Product Design Intern- US 2026](https://jobright.ai/jobs/info/690ad63ad046ab6061ce0b7b?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Remote | Nov 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intereum](http://www.intereum.com)** | **[Design Intern](https://jobright.ai/jobs/info/690aba80bcccf20de59e54dd?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Graphic Design and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/690ab8c64a1b456627b0a96d?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Nov 04 |
-| **[Pinterest](https://www.pinterest.com/)** | **[UX Quantitative Research Intern](https://jobright.ai/jobs/info/690aafe6d046ab6061cdf29f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 04 |
-| **[El Paso Locomotive FC](http://eplocomotivefc.com)** | **[Video/Photography Intern](https://jobright.ai/jobs/info/690ac6dbbcccf20de59e5f5a?utm_campaign=1049&utm_source=git)** | El Paso, TX | On Site | Nov 04 |
-| **[BAZZAAL](https://bazzaal.com)** | **[(KIJIBAE) Graphic Design Intern](https://jobright.ai/jobs/info/690aa8624a1b456627b0a077?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 04 |
-| **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[UX Quantitative Research Intern](https://jobright.ai/jobs/info/690aa49dd046ab6061cded3d?utm_campaign=1049&utm_source=git)** | Remote, US | Remote | Nov 04 |
-| **[Legends Global](http://legends.net)** | **[Video/Production Content Intern - University of Nebraska](https://jobright.ai/jobs/info/6902a4e198707b2b0fe71d65?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Nov 04 |
-| **[SemSem LLC](https://www.semsem.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/690a9d954a1b456627b09b0c?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
