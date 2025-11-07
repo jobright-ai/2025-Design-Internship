@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thompson Hospitality](http://www.thompsonhospitality.com)** | **[Graphic Design Intern (GMU Students)](https://jobright.ai/jobs/info/690d4b66d046ab6061cf520e?utm_campaign=1049&utm_source=git)** | Reston, Virginia | On Site | Nov 06 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Industrial Design Intern](https://jobright.ai/jobs/info/690d486a4a1b456627b2025f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 06 |
 | **[Rare Editions](http://www.rareeditions.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690d33914a1b456627b1f247?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Digital Experience), Ref# 10008](https://jobright.ai/jobs/info/690d32cc4a1b456627b1f1b4?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
 | **[Overland Partners](http://www.overlandpartners.com)** | **[Student Intern](https://jobright.ai/jobs/info/690d316d4a1b456627b1f07c?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Nov 06 |
@@ -69,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Digital Experience), Ref# 10008](https://jobright.ai/jobs/info/690d28574a1b456627b1e96b?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Nov 06 |
 | **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/690d1e54d046ab6061cf3070?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Benco Dental](https://www.benco.com/)** | **[Interior Design Intern (Spring 2026)](https://jobright.ai/jobs/info/690d1be1d046ab6061cf2e4b?utm_campaign=1049&utm_source=git)** | Pittston, PA | Hybrid | Nov 06 |
-| **[HNTB](http://www.hntb.com/)** | **[Graphic Design & Videography Intern - Summer 2026](https://jobright.ai/jobs/info/690d19c2d046ab6061cf2cc9?utm_campaign=1049&utm_source=git)** | Nashville, TN (City Center) | On Site | Nov 06 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- User Experience Researcher](https://jobright.ai/jobs/info/690d1945d046ab6061cf2b6c?utm_campaign=1049&utm_source=git)** | Iowa- Work From Home | Remote | Nov 06 |
+| **[HNTB](http://www.hntb.com/)** | **[Graphic Design & Videography Intern - Summer 2026](https://jobright.ai/jobs/info/690d17064a1b456627b1d8b1?utm_campaign=1049&utm_source=git)** | Nashville, TN (City Center) | On Site | Nov 06 |
 | **[Hirello.ai](https://hirello.ai)** | **[Non Paid Masters Degree UI UX AI Startup Internship](https://jobright.ai/jobs/info/690d168f4a1b456627b1d826?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 06 |
 | **[University of Kentucky](https://medicine.uky.edu)** | **[Marketing and Graphic Design Internship](https://jobright.ai/jobs/info/690d12b1d046ab6061cf2621?utm_campaign=1049&utm_source=git)** | Greater Lexington Area | On Site | Nov 06 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690d0f894a1b456627b1d2a1?utm_campaign=1049&utm_source=git)** | Vinings, GA | Hybrid | Nov 06 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern – Digital Sculpting](https://jobright.ai/jobs/info/68e89d04c72beb74cb32087c?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Nov 06 |
 | ↳ | **[2026 Summer Intern – Creative Design](https://jobright.ai/jobs/info/68fdb03d0ab3b222462a4036?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Nov 06 |
 | **[OTC Industrial Technologies](https://otcindustrial.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68f044079821486c423caf27?utm_campaign=1049&utm_source=git)** | Ohio, United States | Remote | Nov 06 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Photoshop Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/6906f4abff462851fe00636e?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Nov 06 |
 | **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68fb0f319e8e925ac6c888c6?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | Hybrid | Nov 06 |
 | ↳ | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68efc5e1de50091dbfa50144?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 06 |
 | ↳ | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68fb5fdb4129dd33cd131d21?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The New York Times](https://www.nytco.com/)** | **[Creative Team, Wirecutter Intern](https://jobright.ai/jobs/info/690bd3add046ab6061ce83f8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[Acuform Architecture](http://www.acuform.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/690bd2834a1b456627b133f9?utm_campaign=1049&utm_source=git)** | San Antonio, TX | Hybrid | Nov 05 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Interior Design Intern (Part-Time) - Spring 2026](https://jobright.ai/jobs/info/690bcb0dd046ab6061ce7d9b?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Nov 05 |
-| **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Creative Content Communications (Spring 2026)](https://jobright.ai/jobs/info/690bca3f221b890c277f8429?utm_campaign=1049&utm_source=git)** | Dublin, VA | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
