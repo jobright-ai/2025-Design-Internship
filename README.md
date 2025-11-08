@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer \ Digital Designer \ Visual Design \ ITAR \ U.S.Citizen /](https://jobright.ai/jobs/info/690fb428988c2b7b4ec4f208?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 08 |
+| **[Beauty Access](beautyaccess.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690faeffbb519377733e9a1f?utm_campaign=1049&utm_source=git)** | Manhattan, NY | Hybrid | Nov 08 |
+| **[Kharis Publishing](https://kharispublishing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690fadd0bb519377733e99d8?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 08 |
+| **[Graspa Group](https://www.graspagroup.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/690fa3eb988c2b7b4ec4eebb?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Nov 08 |
 | **[Adam Lippes](https://adamlippes.com)** | **[Seasonal Fashion Design and Development Intern](https://jobright.ai/jobs/info/690f7e13988c2b7b4ec4e362?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 08 |
-| **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer \ Digital Designer \ Visual Design \ ITAR / U.S.Citizen /](https://jobright.ai/jobs/info/690f7506bb519377733e8af2?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 08 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Creative Services Intern - Graphics (Melbourne, FL)](https://jobright.ai/jobs/info/690f705e988c2b7b4ec4e047?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Graphic Designer)](https://jobright.ai/jobs/info/68cd78c91ad6b16f02899f37?utm_campaign=1049&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/68bb806e6105227d118a6733?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Nov 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rare Editions](http://www.rareeditions.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690d33914a1b456627b1f247?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Digital Experience), Ref# 10008](https://jobright.ai/jobs/info/690d32cc4a1b456627b1f1b4?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
 | ↳ | **[Student Assistant Internship (Digital Experience), Ref# 9750](https://jobright.ai/jobs/info/690d2fa5221b890c27804737?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
-| **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Technical Design](https://jobright.ai/jobs/info/690d2df8d046ab6061cf3d7c?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Nov 06 |
-| **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Winter Internship 2025/2026](https://jobright.ai/jobs/info/690d2be34a1b456627b1ecff?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Nov 06 |
-| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Digital Experience), Ref# 9750](https://jobright.ai/jobs/info/690d2b814a1b456627b1ec83?utm_campaign=1049&utm_source=git)** | Albany, NY | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
