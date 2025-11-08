@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8046221b890c2780eb2d?utm_campaign=1049&utm_source=git)** | Cambridge, MA | Hybrid | Nov 07 |
+| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Graphic Design](https://jobright.ai/jobs/info/690e9ce244146d3b6ec55f81?utm_campaign=1049&utm_source=git)** | Avon, OH | On Site | Nov 07 |
+| **[GetUp Nutrition Inc.](eatgetup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690e925bd046ab6061cfeebc?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 07 |
+| **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fa544146d3b6ec557b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 07 |
+| ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8046221b890c2780eb2d?utm_campaign=1049&utm_source=git)** | Cambridge, MA | Hybrid | Nov 07 |
 | **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer \ Digital Designer \ Visual Design / ITAR / U.S.Citizen /](https://jobright.ai/jobs/info/690e7780d046ab6061cfde66?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 07 |
+| **[Onni Creative](http://www.onnicreative.xyz)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/690e970544146d3b6ec55ad8?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Nov 07 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Design Intern](https://jobright.ai/jobs/info/68eeccf5d078b81ad160f802?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Nov 07 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[US Campus Summer 2026 Internship Application - Graphic Design & Creative](https://jobright.ai/jobs/info/690e6b8444146d3b6ec540aa?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
 | **[Parkes Philanthropy](https://parkesphilanthropy.com)** | **[Design Intern](https://jobright.ai/jobs/info/690e6b4cd046ab6061cfd58a?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 07 |
@@ -67,14 +71,13 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Graphic Design Intern](https://jobright.ai/jobs/info/68efae8e78ba1621431dfc3c?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[PENSA](https://pensa.co/)** | **[Industrial Design Intern - Jan - June 2026](https://jobright.ai/jobs/info/690e5ff5221b890c2780d4d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Nov 07 |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e5a5344146d3b6ec533b7?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Nov 07 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Motion Graphics Internship (Spring 2026)](https://jobright.ai/jobs/info/690e5a1444146d3b6ec53387?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Nov 07 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/690e545844146d3b6ec52fe5?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Nov 07 |
-| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e5452d046ab6061cfc545?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Nov 07 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[US Campus Summer 2026 Internship Application - Graphic Design & Creative](https://jobright.ai/jobs/info/690e53b544146d3b6ec52f63?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Nov 07 |
 | ↳ | **[US Campus Summer 2026 Internship Application - Graphic Design & Creative](https://jobright.ai/jobs/info/690e783f44146d3b6ec5499a?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Nov 07 |
 | **[2pensmedia Inc.](http://www.2pensmedia.com)** | **[Mobile UX/UI Designer Intern (3-Month Paid Internship – On-Site)](https://jobright.ai/jobs/info/690e60ebd046ab6061cfcdbd?utm_campaign=1049&utm_source=git)** | Park Ridge, IL | On Site | Nov 07 |
 | **[CLD PR](https://cldstylehouse.com)** | **[White Fox Holiday Event Intern (Celebrity & Macro Influencer Experiential Gifting Event)](https://jobright.ai/jobs/info/690e5f2d221b890c2780d429?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
-| **[Friends And The City](https://friendsnthecity.com)** | **[User Experience Designer - Unpaid Internship](https://jobright.ai/jobs/info/690e3e89221b890c2780c118?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Nov 07 |
 | **[National Life Group](https://www.nationallife.com)** | **[Illustration Systems Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690e3c1a221b890c2780bf85?utm_campaign=1049&utm_source=git)** | Montpelier, VT | On Site | Nov 07 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[2026 Summer Designer/Drafter Internship](https://jobright.ai/jobs/info/690e38f644146d3b6ec520ae?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Nov 07 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Spring 2026)](https://jobright.ai/jobs/info/690e31c4d046ab6061cfb2fd?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 07 |
@@ -141,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/690cfa284a1b456627b1c0e2?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690d185b4a1b456627b1da13?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 06 |
 | **[Trove Brands](https://trovebrands.com)** | **[Graphic Design Intern-Summer 2026](https://jobright.ai/jobs/info/690cf855d046ab6061cf1082?utm_campaign=1049&utm_source=git)** | 250 S 850 E, Lehi, UT 84043, USA | On Site | Nov 06 |
+| **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/690cf799d046ab6061cf1011?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Spring Multimedia Intern](https://jobright.ai/jobs/info/690cf4cb221b890c2780147b?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 06 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Graphic Design Summer Internship Program](https://jobright.ai/jobs/info/690cef52221b890c278010c0?utm_campaign=1049&utm_source=git)** | Pontiac, MI | On Site | Nov 06 |
 | **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern (Spring 2026)](https://jobright.ai/jobs/info/68dee2fb09bda65a4b62ebbd?utm_campaign=1049&utm_source=git)** | Pittston, PA | Hybrid | Nov 06 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68f003ca9821486c423c8ad6?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Nov 06 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efd822de50091dbfa509a5?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd5c9821486c423c7cae?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 06 |
-| **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/690cf3d34a1b456627b1bc74?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Staples](http://www.staples.com)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/690ccb824a1b456627b1abde?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | On Site | Nov 06 |
-| **[Quicken Loans](http://www.quickenloans.com/)** | **[Print Technician Intern - Summer 2026](https://jobright.ai/jobs/info/690cc8e6221b890c27800105?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Nov 06 |
-| **[Find Me](https://fyndme.co)** | **[Motion Designer Intern - Unpaid](https://jobright.ai/jobs/info/690d2437221b890c27803d48?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 06 |
-| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68f08d601f624a7ec1cf3ff4?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
