@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arup](http://www.arup.com)** | **[Audio Visual/Experience Designer Intern (Available June 2026)](https://jobright.ai/jobs/info/6907763963502c0aded876d9?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Nov 08 |
+| ↳ | **[Graphic Design Intern (Available June 2026)](https://jobright.ai/jobs/info/6907447f63502c0aded859f1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 08 |
+| **[Rivian](http://www.rivian.com)** | **[Design Intern - Digital Product Designer (Winter 2026 Co-op Program)](https://jobright.ai/jobs/info/690edf65d046ab6061d01cbe?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Nov 08 |
+| **[Rocket Companies](https://rocket.com/)** | **[Print Technician Intern - Summer 2026](https://jobright.ai/jobs/info/690f2b12221b890c27814664?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Nov 08 |
 | **[O'Connell Electric Company](http://oconnellelectric.com)** | **[Marketing Intern - Graphic Design and Corporate Communication](https://jobright.ai/jobs/info/68c9d1b3a0c52d598ea3bc3d?utm_campaign=1049&utm_source=git)** | Victor, New York | On Site | Nov 07 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/69092c74bcccf20de59d82ee?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 | **[Siemens](https://www.siemens.com)** | **[UX Research / Product Research Intern (Undergrad)- 2026](https://jobright.ai/jobs/info/690ec869221b890c27811a73?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Remote | Nov 07 |
@@ -64,9 +68,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Iridium Graphic Design Internship - Summer 2026](https://jobright.ai/jobs/info/690ec17bd046ab6061d00d0a?utm_campaign=1049&utm_source=git)** | US-VA-McLean | Hybrid | Nov 07 |
 | **[WASHINGTON POLITICAL INTERNATIONAL INSTITUTE](www.wpiidc.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690efc2bd046ab6061d028eb?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 | **[Nike](http://www.nike.com)** | **[Jordan Design Undergraduate Internship](https://jobright.ai/jobs/info/68f848ac6de2db04dc3dd90d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 07 |
+| ↳ | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 07 |
 | **[Lindt & Sprüngli USA](https://www.lindtusa.com)** | **[Creative Intern](https://jobright.ai/jobs/info/690ea5ca221b890c278103b4?utm_campaign=1049&utm_source=git)** | Stratham, NH | On Site | Nov 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Industrial Design Intern](https://jobright.ai/jobs/info/690ea57d44146d3b6ec565f2?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Graphic Design](https://jobright.ai/jobs/info/690e9ce244146d3b6ec55f81?utm_campaign=1049&utm_source=git)** | Avon, OH | On Site | Nov 07 |
 | **[GetUp Nutrition Inc.](eatgetup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690e925bd046ab6061cfeebc?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fa544146d3b6ec557b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8046221b890c2780eb2d?utm_campaign=1049&utm_source=git)** | Cambridge, MA | Hybrid | Nov 07 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/690cfa284a1b456627b1c0e2?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690d185b4a1b456627b1da13?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 06 |
 | **[Trove Brands](https://trovebrands.com)** | **[Graphic Design Intern-Summer 2026](https://jobright.ai/jobs/info/690cf855d046ab6061cf1082?utm_campaign=1049&utm_source=git)** | 250 S 850 E, Lehi, UT 84043, USA | On Site | Nov 06 |
+| **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/690cf799d046ab6061cf1011?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Spring Multimedia Intern](https://jobright.ai/jobs/info/690cf4cb221b890c2780147b?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 06 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Graphic Design Summer Internship Program](https://jobright.ai/jobs/info/690cef52221b890c278010c0?utm_campaign=1049&utm_source=git)** | Pontiac, MI | On Site | Nov 06 |
-| **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern (Spring 2026)](https://jobright.ai/jobs/info/68dee2fb09bda65a4b62ebbd?utm_campaign=1049&utm_source=git)** | Pittston, PA | Hybrid | Nov 06 |
-| **[West Shore Home](http://westshorehome.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690d0345d046ab6061cf183c?utm_campaign=1049&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 06 |
-| **[Our Hillside](ourhillside.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690cda44d046ab6061ceffca?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| **[Anglin ](http://anglinpr.com)** | **[Graphic Design Intern - Spring](https://jobright.ai/jobs/info/690cd6d1221b890c278005e8?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
