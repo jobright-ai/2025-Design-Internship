@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[I-Heart Health](https://i-heart.org/)** | **[UIUX Intern](https://jobright.ai/jobs/info/690ed542d046ab6061d01982?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Nov 07 |
+| **[O'Connell Electric Company](http://oconnellelectric.com)** | **[Marketing Intern - Graphic Design and Corporate Communication](https://jobright.ai/jobs/info/68c9d1b3a0c52d598ea3bc3d?utm_campaign=1049&utm_source=git)** | Victor, New York | On Site | Nov 07 |
+| **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/69092c74bcccf20de59d82ee?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 07 |
+| **[Siemens](https://www.siemens.com)** | **[UX Research / Product Research Intern (Undergrad)- 2026](https://jobright.ai/jobs/info/690ec869221b890c27811a73?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Remote | Nov 07 |
+| **[Iridium](http://www.iridium.com/)** | **[Iridium Graphic Design Internship - Summer 2026](https://jobright.ai/jobs/info/690ec7ee221b890c27811a4e?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Nov 07 |
+| ↳ | **[Iridium Graphic Design Internship - Summer 2026](https://jobright.ai/jobs/info/690ec17bd046ab6061d00d0a?utm_campaign=1049&utm_source=git)** | US-VA-McLean | Hybrid | Nov 07 |
 | **[Nike](http://www.nike.com)** | **[Jordan Design Undergraduate Internship](https://jobright.ai/jobs/info/68f848ac6de2db04dc3dd90d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 07 |
 | **[Lindt & Sprüngli USA](https://www.lindtusa.com)** | **[Creative Intern](https://jobright.ai/jobs/info/690ea5ca221b890c278103b4?utm_campaign=1049&utm_source=git)** | Stratham, NH | On Site | Nov 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Industrial Design Intern](https://jobright.ai/jobs/info/690ea57d44146d3b6ec565f2?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
@@ -79,14 +85,12 @@ For a complete list, click the following sortable link below:
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/690e545844146d3b6ec52fe5?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Nov 07 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[US Campus Summer 2026 Internship Application - Graphic Design & Creative](https://jobright.ai/jobs/info/690e53b544146d3b6ec52f63?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Nov 07 |
 | ↳ | **[US Campus Summer 2026 Internship Application - Graphic Design & Creative](https://jobright.ai/jobs/info/690e783f44146d3b6ec5499a?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Nov 07 |
-| **[2pensmedia Inc.](http://www.2pensmedia.com)** | **[Mobile UX/UI Designer Intern (3-Month Paid Internship – On-Site)](https://jobright.ai/jobs/info/690e60ebd046ab6061cfcdbd?utm_campaign=1049&utm_source=git)** | Park Ridge, IL | On Site | Nov 07 |
 | **[CLD PR](https://cldstylehouse.com)** | **[White Fox Holiday Event Intern (Celebrity & Macro Influencer Experiential Gifting Event)](https://jobright.ai/jobs/info/690e5f2d221b890c2780d429?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
 | **[National Life Group](https://www.nationallife.com)** | **[Illustration Systems Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690e3c1a221b890c2780bf85?utm_campaign=1049&utm_source=git)** | Montpelier, VT | On Site | Nov 07 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[2026 Summer Designer/Drafter Internship](https://jobright.ai/jobs/info/690e38f644146d3b6ec520ae?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Nov 07 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Spring 2026)](https://jobright.ai/jobs/info/690e31c4d046ab6061cfb2fd?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f138d6e6870116b1f55011?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 07 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f13ad4ef766b3f0fd0a32b?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
-| **[Soelberg](https://soelbergi.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690e6f24221b890c2780e047?utm_campaign=1049&utm_source=git)** | Orem, UT | On Site | Nov 07 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Spring 2026)](https://jobright.ai/jobs/info/690e3b05221b890c2780beb1?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 07 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d15f462172a5a7d3bdf?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Nov 07 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f14b67ef766b3f0fd0b593?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 07 |
@@ -112,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Lighting Design Intern (Available June 2026)](https://jobright.ai/jobs/info/68bff9298e65e77df55be72c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 07 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - 3D Art](https://jobright.ai/jobs/info/68d5de6f1f7fb2169ab14425?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 07 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/690da74d221b890c27808794?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Nov 07 |
+| **[Visual Concepts](https://www.vcentertainment.com)** | **[Technical Artist (Intern) - NBA 2K](https://jobright.ai/jobs/info/690da558221b890c2780869e?utm_campaign=1049&utm_source=git)** | Novato, CA | On Site | Nov 06 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[UX Content Strategist Intern, Summer 2026](https://jobright.ai/jobs/info/68c8d4ddf9c6ff7aedf12fe0?utm_campaign=1049&utm_source=git)** | Plano, TX | Hybrid | Nov 06 |
 | **[2K](http://2k.com)** | **[Technical Artist (Intern) - NBA 2K](https://jobright.ai/jobs/info/690d8eee221b890c278079ee?utm_campaign=1049&utm_source=git)** | Novato, CA | On Site | Nov 06 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Creative Services Intern, Winter 2025/Spring 2026](https://jobright.ai/jobs/info/68cd54331ad6b16f028980ca?utm_campaign=1049&utm_source=git)** | Yarmouth, ME | On Site | Nov 06 |
@@ -121,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Trove Brands](https://trovebrands.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690daa66d046ab6061cf80b6?utm_campaign=1049&utm_source=git)** | Lehi, UT | Hybrid | Nov 06 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- User Experience Researcher](https://jobright.ai/jobs/info/690d798a221b890c278070da?utm_campaign=1049&utm_source=git)** | Iowa, United States | Remote | Nov 06 |
 | **[HNTB](http://www.hntb.com/)** | **[Graphic Design & Videography Intern - Summer 2026](https://jobright.ai/jobs/info/690d7818221b890c27806fec?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Nov 06 |
-| **[Visual Concepts](https://www.vcentertainment.com)** | **[Technical Artist (Intern) - NBA 2K](https://jobright.ai/jobs/info/690d72354a1b456627b2169c?utm_campaign=1049&utm_source=git)** | Novato, CA | On Site | Nov 06 |
 | **[Thompson Hospitality](http://www.thompsonhospitality.com)** | **[Graphic Design Intern (GMU Students)](https://jobright.ai/jobs/info/690d4b66d046ab6061cf520e?utm_campaign=1049&utm_source=git)** | Reston, Virginia | On Site | Nov 06 |
 | **[Simantel](https://www.simantel.com)** | **[INTERN - Designer intern (Local)](https://jobright.ai/jobs/info/690d6ca2221b890c27806964?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Nov 06 |
 | **[Rare Editions](http://www.rareeditions.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690d33914a1b456627b1f247?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
@@ -136,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[OVERLAND Partners](http://www.overlandpartners.com)** | **[Student Intern](https://jobright.ai/jobs/info/690d316d4a1b456627b1f07c?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Nov 06 |
 | **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/690d1e54d046ab6061cf3070?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Benco Dental](https://www.benco.com/)** | **[Interior Design Intern (Spring 2026)](https://jobright.ai/jobs/info/690d1be1d046ab6061cf2e4b?utm_campaign=1049&utm_source=git)** | Pittston, PA | Hybrid | Nov 06 |
+| **[HNTB](http://www.hntb.com/)** | **[Graphic Design & Videography Intern - Summer 2026](https://jobright.ai/jobs/info/690d19c2d046ab6061cf2cc9?utm_campaign=1049&utm_source=git)** | Nashville, TN (City Center) | On Site | Nov 06 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- User Experience Researcher](https://jobright.ai/jobs/info/690d1945d046ab6061cf2b6c?utm_campaign=1049&utm_source=git)** | Iowa- Work From Home | Remote | Nov 06 |
-| **[HNTB](http://www.hntb.com/)** | **[Graphic Design & Videography Intern - Summer 2026](https://jobright.ai/jobs/info/690d17064a1b456627b1d8b1?utm_campaign=1049&utm_source=git)** | Nashville, TN (City Center) | On Site | Nov 06 |
 | **[University of Kentucky](https://www.ca.uky.edu)** | **[Marketing and Graphic Design Internship](https://jobright.ai/jobs/info/690d12b1d046ab6061cf2621?utm_campaign=1049&utm_source=git)** | Greater Lexington Area | On Site | Nov 06 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690d0f894a1b456627b1d2a1?utm_campaign=1049&utm_source=git)** | Vinings, GA | Hybrid | Nov 06 |
 | **[Ariat International](http://www.ariat.com)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/68e7ff9ccc49a84b7e1006aa?utm_campaign=1049&utm_source=git)** | San Leandro, CA | Hybrid | Nov 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[West Shore Home](http://westshorehome.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690d0345d046ab6061cf183c?utm_campaign=1049&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 06 |
 | **[Our Hillside](ourhillside.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690cda44d046ab6061ceffca?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[Anglin ](http://anglinpr.com)** | **[Graphic Design Intern - Spring](https://jobright.ai/jobs/info/690cd6d1221b890c278005e8?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Nov 06 |
-| **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Spring Multimedia Intern](https://jobright.ai/jobs/info/690d0eee4a1b456627b1d1f9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 06 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Lippincott - Design Intern](https://jobright.ai/jobs/info/690d01ecd046ab6061cf170d?utm_campaign=1049&utm_source=git)** | New York - 499 Park | Hybrid | Nov 06 |
-| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68f003ca9821486c423c8ad6?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Nov 06 |
-| ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efd822de50091dbfa509a5?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
