@@ -147,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[2K](http://2k.com)** | **[Technical Artist (Intern) - NBA 2K](https://jobright.ai/jobs/info/690d6e37221b890c27806a67?utm_campaign=1049&utm_source=git)** | Novato, California, United States | On Site | Nov 06 |
 | **[Arup](http://www.arup.com)** | **[Architectural Design Intern (Available June 2026)](https://jobright.ai/jobs/info/690d6b84d046ab6061cf6133?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Nov 06 |
 | **[CLD PR](https://cldstylehouse.com)** | **[Holiday House 2025 Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/690d698a4a1b456627b21157?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Nov 06 |
-| **[Trove Brands](https://trovebrands.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690daa66d046ab6061cf80b6?utm_campaign=1049&utm_source=git)** | Lehi, UT | Hybrid | Nov 06 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- User Experience Researcher](https://jobright.ai/jobs/info/690d798a221b890c278070da?utm_campaign=1049&utm_source=git)** | Iowa, United States | Remote | Nov 06 |
 | **[HNTB](http://www.hntb.com/)** | **[Graphic Design & Videography Intern - Summer 2026](https://jobright.ai/jobs/info/690d7818221b890c27806fec?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Nov 06 |
 | **[Thompson Hospitality](http://www.thompsonhospitality.com)** | **[Graphic Design Intern (GMU Students)](https://jobright.ai/jobs/info/690d4b66d046ab6061cf520e?utm_campaign=1049&utm_source=git)** | Reston, Virginia | On Site | Nov 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Assistant Internship (Digital Experience), Ref# 9750](https://jobright.ai/jobs/info/690d2fa5221b890c27804737?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Technical Design](https://jobright.ai/jobs/info/690d2df8d046ab6061cf3d7c?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Nov 06 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Winter Internship 2025/2026](https://jobright.ai/jobs/info/690d2be34a1b456627b1ecff?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Nov 06 |
+| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Digital Experience), Ref# 9750](https://jobright.ai/jobs/info/690d2b814a1b456627b1ec83?utm_campaign=1049&utm_source=git)** | Albany, NY | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
