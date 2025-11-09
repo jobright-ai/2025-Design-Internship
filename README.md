@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Method Architecture](http://www.methodarchitecture.com)** | **[Intern](https://jobright.ai/jobs/info/6910f696bb519377733edcd8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Nov 09 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6910f617988c2b7b4ec533d1?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Nov 09 |
+| **[McKinley Architecture and Engineering ](https://mckinleydelivers.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6910f07ebb519377733edb21?utm_campaign=1049&utm_source=git)** | Charleston, WV | Hybrid | Nov 09 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/68ccfc5a77add66568abd1af?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Nov 09 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Minneapolis)](https://jobright.ai/jobs/info/68ea01ee54fbf903f6a80439?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 09 |
-| **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer \ Digital Designer \ Visual Design \ ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/69109a65bb519377733ecb74?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 09 |
 | **[TruStage](https://www.trustage.com/)** | **[Creative Services - Design Intern (Hybrid)](https://jobright.ai/jobs/info/68bb735e8043103d4f2289f2?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Nov 09 |
 | **[Atlassian](https://www.atlassian.com)** | **[Product Design Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68f753ecb0edcf159dc7ad16?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 09 |
 | **[Graspa Group](https://www.graspagroup.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/690fa3eb988c2b7b4ec4eebb?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Nov 08 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Lighting Design Intern (Available June 2026)](https://jobright.ai/jobs/info/68bff9298e65e77df55be72c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 07 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - 3D Art](https://jobright.ai/jobs/info/68d5de6f1f7fb2169ab14425?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 07 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/690da74d221b890c27808794?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Nov 07 |
-| **[Visual Concepts](https://www.vcentertainment.com)** | **[Technical Artist (Intern) - NBA 2K](https://jobright.ai/jobs/info/690da558221b890c2780869e?utm_campaign=1049&utm_source=git)** | Novato, CA | On Site | Nov 06 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications (Fall 2025)](https://jobright.ai/jobs/info/69104971988c2b7b4ec50d45?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 06 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[UX Content Strategist Intern, Summer 2026](https://jobright.ai/jobs/info/68c8d4ddf9c6ff7aedf12fe0?utm_campaign=1049&utm_source=git)** | Plano, TX | Hybrid | Nov 06 |
 | **[2K](http://2k.com)** | **[Technical Artist (Intern) - NBA 2K](https://jobright.ai/jobs/info/690d8eee221b890c278079ee?utm_campaign=1049&utm_source=git)** | Novato, CA | On Site | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[2K](http://2k.com)** | **[Technical Artist (Intern) - NBA 2K](https://jobright.ai/jobs/info/690d6e37221b890c27806a67?utm_campaign=1049&utm_source=git)** | Novato, California, United States | On Site | Nov 06 |
 | **[Arup](http://www.arup.com)** | **[Architectural Design Intern (Available June 2026)](https://jobright.ai/jobs/info/690d6b84d046ab6061cf6133?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Nov 06 |
 | **[CLD PR](https://cldstylehouse.com)** | **[Holiday House 2025 Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/690d698a4a1b456627b21157?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Nov 06 |
-| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- User Experience Researcher](https://jobright.ai/jobs/info/690d798a221b890c278070da?utm_campaign=1049&utm_source=git)** | Iowa, United States | Remote | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
