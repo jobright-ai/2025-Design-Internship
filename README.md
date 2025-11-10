@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Intel Corporation](http://www.intel.com)** | **[Clocking Design Graduate Intern 2026 US Intern](https://jobright.ai/jobs/info/690e657fd046ab6061cfd08b?utm_campaign=1049&utm_source=git)** | US, Texas, Austin | Hybrid | Nov 07 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Graphic Design Intern](https://jobright.ai/jobs/info/68efae8e78ba1621431dfc3c?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 07 |
-| **[PENSA](https://pensa.co/)** | **[Industrial Design Intern - Jan - June 2026](https://jobright.ai/jobs/info/690e5ff5221b890c2780d4d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Nov 07 |
 | **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Motion Graphics Internship (Spring 2026)](https://jobright.ai/jobs/info/690e5a1444146d3b6ec53387?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Nov 07 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/690e545844146d3b6ec52fe5?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Nov 07 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[US Campus Summer 2026 Internship Application - Graphic Design & Creative](https://jobright.ai/jobs/info/690e53b544146d3b6ec52f63?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Nov 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[2K](http://2k.com)** | **[Technical Artist (Intern) - NBA 2K](https://jobright.ai/jobs/info/690d6e37221b890c27806a67?utm_campaign=1049&utm_source=git)** | Novato, California, United States | On Site | Nov 06 |
 | **[Arup](http://www.arup.com)** | **[Architectural Design Intern (Available June 2026)](https://jobright.ai/jobs/info/690d6b84d046ab6061cf6133?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Nov 06 |
 | **[CLD PR](https://cldstylehouse.com)** | **[Holiday House 2025 Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/690d698a4a1b456627b21157?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Nov 06 |
+| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- User Experience Researcher](https://jobright.ai/jobs/info/690d798a221b890c278070da?utm_campaign=1049&utm_source=git)** | Iowa, United States | Remote | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
