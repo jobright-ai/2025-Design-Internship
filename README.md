@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68da38220b832179ca4aca24?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Distribution New Business Design Central](https://jobright.ai/jobs/info/6911d6ec8b818a6dda66be58?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Hybrid | Nov 10 |
 | **[Meitu Inc.](http://www.meitu.com)** | **[RoboNeo AI Agent Campus Creative Ambassador (2025–2026)](https://jobright.ai/jobs/info/691191a5988c2b7b4ec5552f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4a76a2d2a252445cd8272?utm_campaign=1049&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Nov 09 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 09 |
@@ -99,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Rocket Companies](https://rocket.com/)** | **[Print Technician Intern - Summer 2026](https://jobright.ai/jobs/info/690f2b12221b890c27814664?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Nov 08 |
 | **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Graphic Design](https://jobright.ai/jobs/info/6910554e988c2b7b4ec50f6d?utm_campaign=1049&utm_source=git)** | Avon, OH | On Site | Nov 07 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Footwear Design Intern](https://jobright.ai/jobs/info/68f1bd5ee6870116b1f5c997?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 07 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Graphic Design Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/6911856bbb519377733ef982?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Nov 07 |
 | **[O'Connell Electric Company](http://oconnellelectric.com)** | **[Marketing Intern - Graphic Design and Corporate Communication](https://jobright.ai/jobs/info/68c9d1b3a0c52d598ea3bc3d?utm_campaign=1049&utm_source=git)** | Victor, New York | On Site | Nov 07 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/69092c74bcccf20de59d82ee?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 | **[Siemens](https://www.siemens.com)** | **[UX Research / Product Research Intern (Undergrad)- 2026](https://jobright.ai/jobs/info/690ec869221b890c27811a73?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Remote | Nov 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Visual Concepts](https://www.vcentertainment.com)** | **[Technical Artist (Intern) - NBA 2K](https://jobright.ai/jobs/info/690da558221b890c2780869e?utm_campaign=1049&utm_source=git)** | Novato, CA | On Site | Nov 06 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications (Fall 2025)](https://jobright.ai/jobs/info/69104971988c2b7b4ec50d45?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 06 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[UX Content Strategist Intern, Summer 2026](https://jobright.ai/jobs/info/68c8d4ddf9c6ff7aedf12fe0?utm_campaign=1049&utm_source=git)** | Plano, TX | Hybrid | Nov 06 |
-| **[2K](http://2k.com)** | **[Technical Artist (Intern) - NBA 2K](https://jobright.ai/jobs/info/690d8eee221b890c278079ee?utm_campaign=1049&utm_source=git)** | Novato, CA | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
