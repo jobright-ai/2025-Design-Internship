@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEMIA](https://www.idemia.com/)** | **[Marketing & Communications Internship - Summer 2026](https://jobright.ai/jobs/info/690dc761221b890c278098aa?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Nov 11 |
+| **[State of Missouri](http://mo.gov)** | **[Interior Design Unit Intern](https://jobright.ai/jobs/info/690d33b1221b890c278049dd?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Nov 11 |
+| **[HDR](http://www.hdrinc.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68f68a459a65fd345859442b?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Nov 11 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Game Design](https://jobright.ai/jobs/info/68db22830dffed6f83d2cab8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 11 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6912f278d1047e3565d007b6?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Nov 11 |
 | **[Ever Lasting Fabric](https://everlastingfabric.com/)** | **[Social Media Graphic Designer Intern](https://jobright.ai/jobs/info/6912e6b3c98948514c47f62a?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[A24](http://a24films.com/)** | **[Brand Design Intern 2026](https://jobright.ai/jobs/info/6912daf5d1047e3565cffa40?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
@@ -79,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Fluid Sports Tech](www.fluidsportstech.net)** | **[Video Content Creation Intern](https://jobright.ai/jobs/info/6912aedfc98948514c47d2fa?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[To & Fro ](https://www.linkedin.com/company/12644491)** | **[UX Design Intern](https://jobright.ai/jobs/info/6912f547d1047e3565d008ff?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design \ ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/6912917cd1047e3565cfd8b9?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
+| **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Co-Op/Intern, Creative Resourcing](https://jobright.ai/jobs/info/691319fce344172248f6f75d?utm_campaign=1049&utm_source=git)** | Location, WV | On Site | Nov 10 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Spring 2026 Visual Merchandising Intern / New York City](https://jobright.ai/jobs/info/69129dcbc98948514c47ce3a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Canon USA](https://www.usa.canon.com)** | **[Photo & Video Intern - Part Time](https://jobright.ai/jobs/info/69126530c98948514c47b503?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Wealth Warden Partners](www.wardenpartners.com)** | **[Spring 2026 Graphic Design & Marketing Internship (Unpaid / Remote)](https://jobright.ai/jobs/info/6912644cd1047e3565cfc1cf?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marvell Technology](https://www.marvell.com/)** | **[Web Production Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68f2b7529a63986de756b46a?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Nov 08 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2026 - Multimedia Specialist Intern](https://jobright.ai/jobs/info/68f2928b76a51a4307bc4e21?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Nov 08 |
 | **[BUCK](https://buck.co/)** | **[Design Apprentice / Branding](https://jobright.ai/jobs/info/690f470f44146d3b6ec5af20?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
-| **[Premier](https://www.premierpm.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/690f46b3221b890c27814cdf?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cfeaa5dbd9fb154edebe44?utm_campaign=1049&utm_source=git)** | Tucson, AZ | On Site | Nov 08 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cf9cf9846f0b04af68349e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 08 |
-| **[BUCK](https://buck.co/)** | **[Design Apprentice / Graphic](https://jobright.ai/jobs/info/690f5900221b890c278154ff?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Nov 08 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Design Internship - Albuquerque, NM](https://jobright.ai/jobs/info/68d759b461a175619f8c9cb8?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
