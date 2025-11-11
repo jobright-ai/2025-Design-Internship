@@ -57,9 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stratus®](https://www.stratusteam.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6913aed4e344172248f73313?utm_campaign=1049&utm_source=git)** | Marietta, GA | On Site | Nov 11 |
+| **[Analog Devices](http://www.analog.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6913ab54e344172248f730ff?utm_campaign=1049&utm_source=git)** | US, CA, San Jose, Rio Robles | On Site | Nov 11 |
+| ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6913a5cbd1047e3565d04c79?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 11 |
+| **[Stantec](http://www.stantec.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6913a43ee344172248f72d86?utm_campaign=1049&utm_source=git)** | 224 South Michigan Avenue Suite 1400, Chicago, IL, 60604, US | On Site | Nov 11 |
+| **[Bollinger Shipyards](http://bollingershipyards.com)** | **[Outfitting Design Intern](https://jobright.ai/jobs/info/6913a3191465e02904e9639d?utm_campaign=1049&utm_source=git)** | Lockport, LA | On Site | Nov 11 |
+| **[ATPCO](http://www.atpco.net)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/6913948ee344172248f72416?utm_campaign=1049&utm_source=git)** | Herndon, VA | Hybrid | Nov 11 |
 | **[TypTap Insurance Company](https://typtap.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/691391efe344172248f722b0?utm_campaign=1049&utm_source=git)** | Tampa, FL, USA | On Site | Nov 11 |
 | **[Riot Games](http://www.riotgames.com)** | **[Technical Game Design Intern, 2XKO - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091ab9bcccf20de59d7315?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 11 |
 | ↳ | **[3D Environment Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909268f4a1b456627afd450?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 11 |
+| ↳ | **[Visual Design Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092865bcccf20de59d80bc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 11 |
+| ↳ | **[Technical Art Intern - Rigging, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091c74bcccf20de59d74d0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 11 |
+| ↳ | **[Technical Game Design Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909253cbcccf20de59d7e3c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 11 |
 | ↳ | **[Concept Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690916bed046ab6061cd12a2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 11 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[UX Designer Intern](https://jobright.ai/jobs/info/68cd5bebb2a74e1837ed5ef2?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 11 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/68f865564bafad6d2d76248e?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Nov 11 |
@@ -76,9 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Technical Writing and Graphics Intern](https://jobright.ai/jobs/info/68daa50e6df7b8311bb10949?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Nov 11 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Structural/Graphic Design Intern](https://jobright.ai/jobs/info/68f6aac79a63986de7581134?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/68daef8b6df7b8311bb143ef?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 11 |
-| **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design / ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/69134ec5d1047e3565d02607?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 11 |
 | **[Roc Nation](http://rocnation.com)** | **[Spring 2026 Intern - Creative & Design](https://jobright.ai/jobs/info/68f6bdc276a51a4307bddf53?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 11 |
-| **[IBM](http://www.ibm.com)** | **[Designer: User Research Intern 2026](https://jobright.ai/jobs/info/690d96bad046ab6061cf7437?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 11 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Marketing & Communications Internship - Summer 2026](https://jobright.ai/jobs/info/690dc761221b890c278098aa?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Nov 11 |
 | **[State of Missouri](http://mo.gov)** | **[Interior Design Unit Intern](https://jobright.ai/jobs/info/690d33b1221b890c278049dd?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Nov 11 |
 | **[HDR](http://www.hdrinc.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68f68a459a65fd345859442b?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Nov 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jobgether](https://jobgether.com/)** | **[Graphic Design and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69117745bb519377733ef4b9?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 09 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote (Possible) | Hybrid | Nov 09 |
 | **[Sleeper](https://sleeper.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6912cacaea9ab01b82bf4fe8?utm_campaign=1049&utm_source=git)** | California, Oregon, Nevada, Washington | On Site | Nov 09 |
-| **[Method Architecture](http://www.methodarchitecture.com)** | **[Intern](https://jobright.ai/jobs/info/6910f696bb519377733edcd8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Nov 09 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6910f617988c2b7b4ec533d1?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Nov 09 |
-| **[McKinley Architecture and Engineering ](https://mckinleydelivers.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6910f07ebb519377733edb21?utm_campaign=1049&utm_source=git)** | Charleston, WV | Hybrid | Nov 09 |
-| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/68ccfc5a77add66568abd1af?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Nov 09 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Minneapolis)](https://jobright.ai/jobs/info/68ea01ee54fbf903f6a80439?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 09 |
-| **[TruStage](https://www.trustage.com/)** | **[Creative Services - Design Intern (Hybrid)](https://jobright.ai/jobs/info/68bb735e8043103d4f2289f2?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Nov 09 |
-| **[Atlassian](https://www.atlassian.com)** | **[Product Design Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68f753ecb0edcf159dc7ad16?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
