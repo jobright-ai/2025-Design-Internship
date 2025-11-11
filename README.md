@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design \ ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/6912917cd1047e3565cfd8b9?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Canon USA](https://www.usa.canon.com)** | **[Photo & Video Intern - Part Time](https://jobright.ai/jobs/info/69126530c98948514c47b503?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Wealth Warden Partners](www.wardenpartners.com)** | **[Spring 2026 Graphic Design & Marketing Internship (Unpaid / Remote)](https://jobright.ai/jobs/info/6912644cd1047e3565cfc1cf?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[NBC News](http://www.nbcnews.com)** | **[NBC News Technology Internships – Summer 2026](https://jobright.ai/jobs/info/69125c34c98948514c47aeef?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Marketing & Communications – Summer 2026](https://jobright.ai/jobs/info/69125b34c98948514c47ae59?utm_campaign=1049&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | **[NBC News](http://www.nbcnews.com)** | **[NBC News Creative & Design Internships – Summer 2026](https://jobright.ai/jobs/info/69125b06d1047e3565cfbaec?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Graphic Design and Creative Internships – Summer 2026](https://jobright.ai/jobs/info/69125a31d1047e3565cfba3a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
+| **[KRAFZEN](krafzeninc.com)** | **[CAD Designer Intern](https://jobright.ai/jobs/info/69128a8cea9ab01b82bf3611?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 10 |
 | **[84 Lumber](http://www.84lumber.com/)** | **[Deck Design Intern](https://jobright.ai/jobs/info/6912587fea9ab01b82bf1a3e?utm_campaign=1049&utm_source=git)** | Eighty Four, PA | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 New York Marketing & Digital Design Internships – Summer 2026](https://jobright.ai/jobs/info/69125578c98948514c47aa1a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69125497ea9ab01b82bf1775?utm_campaign=1049&utm_source=git)** | Lowell, MA | Hybrid | Nov 10 |
@@ -81,8 +83,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Research Intern – Loyalty Program Strategy](https://jobright.ai/jobs/info/691240e7c98948514c479d8f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[Product Design Intern, Internal Tooling](https://jobright.ai/jobs/info/69123fdeea9ab01b82bf0b20?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Interior Designer, Summer 2026](https://jobright.ai/jobs/info/69123fa7ea9ab01b82bf0b0d?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Nov 10 |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690d185b4a1b456627b1da13?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 10 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[Photo & Video Intern - Part Time](https://jobright.ai/jobs/info/69123b61ea9ab01b82bf0981?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Nov 10 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Graphic Design Internship / Spring 2026](https://jobright.ai/jobs/info/6912347ac98948514c479741?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
+| **[TopBuild](http://www.topbuild.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/691288d7ea9ab01b82bf356c?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL | On Site | Nov 10 |
 | **[The F* Word](https://thefword.ai/)** | **[AI Fashion Designer Featured Program](https://jobright.ai/jobs/info/69122fd6ea9ab01b82bf02f7?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Nov 10 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/69126144d1047e3565cfbf37?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL - Corp. Headquarters | On Site | Nov 10 |
 | **[Du & Berry](www.du-berry.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/691223deea9ab01b82befd42?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Creative Artists Agency](http://www.caa.com)** | **[US Campus Summer 2026 Internship Application - Graphic Design & Creative](https://jobright.ai/jobs/info/690e6b8444146d3b6ec540aa?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
 | ↳ | **[US Campus Summer 2026 Internship Application - Graphic Design & Creative](https://jobright.ai/jobs/info/690e69e8d046ab6061cfd42b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e67bf44146d3b6ec53d00?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Nov 07 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Graphic Design Intern](https://jobright.ai/jobs/info/68efae8e78ba1621431dfc3c?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
-| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 07 |
-| **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Motion Graphics Internship (Spring 2026)](https://jobright.ai/jobs/info/690e5a1444146d3b6ec53387?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Nov 07 |
-| **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/690e545844146d3b6ec52fe5?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
