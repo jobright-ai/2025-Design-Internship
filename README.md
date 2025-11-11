@@ -57,22 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6912f278d1047e3565d007b6?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Nov 11 |
 | **[Ever Lasting Fabric](https://everlastingfabric.com/)** | **[Social Media Graphic Designer Intern](https://jobright.ai/jobs/info/6912e6b3c98948514c47f62a?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[A24](http://a24films.com/)** | **[Brand Design Intern 2026](https://jobright.ai/jobs/info/6912daf5d1047e3565cffa40?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Smart Design](http://smartdesignworldwide.com/)** | **[Industrial Design Intern Winter 2026 (Jan start)](https://jobright.ai/jobs/info/6912d5e2ea9ab01b82bf54d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Nov 10 |
+| **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[UX Research Manager (Volunteer/Internship)](https://jobright.ai/jobs/info/6912fa96ea9ab01b82bf6bbd?utm_campaign=1049&utm_source=git)** | New Haven, CT | Remote | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6912adb7c98948514c47d292?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- User Experience Researcher](https://jobright.ai/jobs/info/6912d928ea9ab01b82bf5ac1?utm_campaign=1049&utm_source=git)** | Iowa, United States | On Site | Nov 10 |
 | **[Sleeper](https://sleeper.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6912c6a7ea9ab01b82bf4e00?utm_campaign=1049&utm_source=git)** | LA Metro Area | Remote | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Products & Experiences Creative & Product Design Internships – Summer 2026](https://jobright.ai/jobs/info/6912d18fea9ab01b82bf52d9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 10 |
 | ↳ | **[Global Streaming Product – UX Design & Communications Internships – Summer 2026](https://jobright.ai/jobs/info/6912ca43ea9ab01b82bf4fb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
+| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Web Designer Marketing Intern](https://jobright.ai/jobs/info/6912fc3bea9ab01b82bf6ce0?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/6912977bd1047e3565cfdae7?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Nov 10 |
-| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6912b429d1047e3565cfe3ab?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
+| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Web Designer Marketing Intern](https://jobright.ai/jobs/info/6912f59bd1047e3565d00925?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
+| ↳ | **[Marketing Design Intern](https://jobright.ai/jobs/info/6912b429d1047e3565cfe3ab?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Research Intern](https://jobright.ai/jobs/info/691292f3ea9ab01b82bf3975?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Nov 10 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Graphic Design Intern, Partnerships](https://jobright.ai/jobs/info/6912b8ced1047e3565cfe54d?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Nov 10 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6912b608d1047e3565cfe461?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | Hybrid | Nov 10 |
 | **[Viget](http://viget.com)** | **[Product Designer Intern (2026)](https://jobright.ai/jobs/info/6912c111ea9ab01b82bf4be3?utm_campaign=1049&utm_source=git)** | Boulder, CO | On Site | Nov 10 |
 | **[Sunergeo](https://www.linkedin.com/company/149231)** | **[Intern, Creative](https://jobright.ai/jobs/info/6912d69dc98948514c47e979?utm_campaign=1049&utm_source=git)** | Vandalia,OH,US | On Site | Nov 10 |
 | **[Fluid Sports Tech](www.fluidsportstech.net)** | **[Video Content Creation Intern](https://jobright.ai/jobs/info/6912aedfc98948514c47d2fa?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
+| **[To & Fro ](https://www.linkedin.com/company/12644491)** | **[UX Design Intern](https://jobright.ai/jobs/info/6912f547d1047e3565d008ff?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design \ ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/6912917cd1047e3565cfd8b9?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Spring 2026 Visual Merchandising Intern / New York City](https://jobright.ai/jobs/info/69129dcbc98948514c47ce3a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Canon USA](https://www.usa.canon.com)** | **[Photo & Video Intern - Part Time](https://jobright.ai/jobs/info/69126530c98948514c47b503?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cf9cf9846f0b04af68349e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 08 |
 | **[BUCK](https://buck.co/)** | **[Design Apprentice / Graphic](https://jobright.ai/jobs/info/690f5900221b890c278154ff?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Nov 08 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Design Internship - Albuquerque, NM](https://jobright.ai/jobs/info/68d759b461a175619f8c9cb8?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Nov 08 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68d654534736ff202fdd297d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 08 |
-| **[Arup](http://www.arup.com)** | **[Audio Visual/Experience Designer Intern (Available June 2026)](https://jobright.ai/jobs/info/6907763963502c0aded876d9?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Nov 08 |
-| ↳ | **[Graphic Design Intern (Available June 2026)](https://jobright.ai/jobs/info/6907447f63502c0aded859f1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 08 |
-| **[Rocket Companies](https://rocket.com/)** | **[Print Technician Intern - Summer 2026](https://jobright.ai/jobs/info/690f2b12221b890c27814664?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Nov 08 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Graphic Design](https://jobright.ai/jobs/info/6910554e988c2b7b4ec50f6d?utm_campaign=1049&utm_source=git)** | Avon, OH | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
