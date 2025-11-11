@@ -57,15 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ever Lasting Fabric](https://everlastingfabric.com/)** | **[Social Media Graphic Designer Intern](https://jobright.ai/jobs/info/6912e6b3c98948514c47f62a?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
+| **[A24](http://a24films.com/)** | **[Brand Design Intern 2026](https://jobright.ai/jobs/info/6912daf5d1047e3565cffa40?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
+| **[Smart Design](http://smartdesignworldwide.com/)** | **[Industrial Design Intern Winter 2026 (Jan start)](https://jobright.ai/jobs/info/6912d5e2ea9ab01b82bf54d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6912adb7c98948514c47d292?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Nov 10 |
+| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- User Experience Researcher](https://jobright.ai/jobs/info/6912d928ea9ab01b82bf5ac1?utm_campaign=1049&utm_source=git)** | Iowa, United States | On Site | Nov 10 |
 | **[Sleeper](https://sleeper.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6912c6a7ea9ab01b82bf4e00?utm_campaign=1049&utm_source=git)** | LA Metro Area | Remote | Nov 10 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Global Streaming Product – UX Design & Communications Internships – Summer 2026](https://jobright.ai/jobs/info/6912ca43ea9ab01b82bf4fb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Products & Experiences Creative & Product Design Internships – Summer 2026](https://jobright.ai/jobs/info/6912d18fea9ab01b82bf52d9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 10 |
+| ↳ | **[Global Streaming Product – UX Design & Communications Internships – Summer 2026](https://jobright.ai/jobs/info/6912ca43ea9ab01b82bf4fb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/6912977bd1047e3565cfdae7?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6912b429d1047e3565cfe3ab?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Research Intern](https://jobright.ai/jobs/info/691292f3ea9ab01b82bf3975?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Nov 10 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Graphic Design Intern, Partnerships](https://jobright.ai/jobs/info/6912b8ced1047e3565cfe54d?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Nov 10 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6912b608d1047e3565cfe461?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | Hybrid | Nov 10 |
 | **[Viget](http://viget.com)** | **[Product Designer Intern (2026)](https://jobright.ai/jobs/info/6912c111ea9ab01b82bf4be3?utm_campaign=1049&utm_source=git)** | Boulder, CO | On Site | Nov 10 |
+| **[Sunergeo](https://www.linkedin.com/company/149231)** | **[Intern, Creative](https://jobright.ai/jobs/info/6912d69dc98948514c47e979?utm_campaign=1049&utm_source=git)** | Vandalia,OH,US | On Site | Nov 10 |
 | **[Fluid Sports Tech](www.fluidsportstech.net)** | **[Video Content Creation Intern](https://jobright.ai/jobs/info/6912aedfc98948514c47d2fa?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design \ ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/6912917cd1047e3565cfd8b9?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Spring 2026 Visual Merchandising Intern / New York City](https://jobright.ai/jobs/info/69129dcbc98948514c47ce3a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
@@ -86,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Viget](http://viget.com)** | **[Product Designer Intern (2026)](https://jobright.ai/jobs/info/691253bdc98948514c47a8cf?utm_campaign=1049&utm_source=git)** | Boulder, CO | On Site | Nov 10 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/691253b7d1047e3565cfb595?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 10 |
 | **[Root Inc.](https://www.root.com)** | **[UX Research Intern – Loyalty Program Strategy](https://jobright.ai/jobs/info/69124e32ea9ab01b82bf1396?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690d0f894a1b456627b1d2a1?utm_campaign=1049&utm_source=git)** | Vinings, GA | Hybrid | Nov 10 |
 | **[Great River Learning](http://greatriverlearning.com)** | **[Web Designer Internship](https://jobright.ai/jobs/info/69124714c98948514c47a17c?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Television Entertainment Group Digital and Design Internships – Summer 2026](https://jobright.ai/jobs/info/691270a3ea9ab01b82bf2b4c?utm_campaign=1049&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | **[Root Inc.](https://www.root.com)** | **[Product Design Intern – Loyalty Program Collaboration](https://jobright.ai/jobs/info/69124669ea9ab01b82bf0f16?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Intern (Available June 2026)](https://jobright.ai/jobs/info/6907447f63502c0aded859f1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 08 |
 | **[Rocket Companies](https://rocket.com/)** | **[Print Technician Intern - Summer 2026](https://jobright.ai/jobs/info/690f2b12221b890c27814664?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Nov 08 |
 | **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Graphic Design](https://jobright.ai/jobs/info/6910554e988c2b7b4ec50f6d?utm_campaign=1049&utm_source=git)** | Avon, OH | On Site | Nov 07 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc Footwear Design Intern](https://jobright.ai/jobs/info/68f1bd5ee6870116b1f5c997?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 07 |
-| **[O'Connell Electric Company](http://oconnellelectric.com)** | **[Marketing Intern - Graphic Design and Corporate Communication](https://jobright.ai/jobs/info/68c9d1b3a0c52d598ea3bc3d?utm_campaign=1049&utm_source=git)** | Victor, New York | On Site | Nov 07 |
-| **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Planning/Reporting/Communications Intern - 90304320 - Washington](https://jobright.ai/jobs/info/69092c74bcccf20de59d82ee?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 07 |
-| **[Siemens](https://www.siemens.com)** | **[UX Research / Product Research Intern (Undergrad)- 2026](https://jobright.ai/jobs/info/690ec869221b890c27811a73?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Remote | Nov 07 |
-| **[Iridium](http://www.iridium.com/)** | **[Iridium Graphic Design Internship - Summer 2026](https://jobright.ai/jobs/info/690ec7ee221b890c27811a4e?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Nov 07 |
-| ↳ | **[Iridium Graphic Design Internship - Summer 2026](https://jobright.ai/jobs/info/690ec17bd046ab6061d00d0a?utm_campaign=1049&utm_source=git)** | US-VA-McLean | Hybrid | Nov 07 |
-| **[Nike](http://www.nike.com)** | **[Jordan Design Undergraduate Internship](https://jobright.ai/jobs/info/68f848ac6de2db04dc3dd90d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
