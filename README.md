@@ -58,8 +58,14 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6912adb7c98948514c47d292?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Nov 10 |
+| **[Sleeper](https://sleeper.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6912c6a7ea9ab01b82bf4e00?utm_campaign=1049&utm_source=git)** | LA Metro Area | Remote | Nov 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Global Streaming Product – UX Design & Communications Internships – Summer 2026](https://jobright.ai/jobs/info/6912ca43ea9ab01b82bf4fb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/6912977bd1047e3565cfdae7?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Nov 10 |
-| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/691292f3ea9ab01b82bf3975?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Nov 10 |
+| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6912b429d1047e3565cfe3ab?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
+| **[Revvity](https://www.revvity.com/)** | **[UX Research Intern](https://jobright.ai/jobs/info/691292f3ea9ab01b82bf3975?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Nov 10 |
+| **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Graphic Design Intern, Partnerships](https://jobright.ai/jobs/info/6912b8ced1047e3565cfe54d?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Nov 10 |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6912b608d1047e3565cfe461?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | Hybrid | Nov 10 |
+| **[Viget](http://viget.com)** | **[Product Designer Intern (2026)](https://jobright.ai/jobs/info/6912c111ea9ab01b82bf4be3?utm_campaign=1049&utm_source=git)** | Boulder, CO | On Site | Nov 10 |
 | **[Fluid Sports Tech](www.fluidsportstech.net)** | **[Video Content Creation Intern](https://jobright.ai/jobs/info/6912aedfc98948514c47d2fa?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design \ ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/6912917cd1047e3565cfd8b9?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Spring 2026 Visual Merchandising Intern / New York City](https://jobright.ai/jobs/info/69129dcbc98948514c47ce3a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
@@ -81,8 +87,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/691253b7d1047e3565cfb595?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 10 |
 | **[Root Inc.](https://www.root.com)** | **[UX Research Intern – Loyalty Program Strategy](https://jobright.ai/jobs/info/69124e32ea9ab01b82bf1396?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Great River Learning](http://greatriverlearning.com)** | **[Web Designer Internship](https://jobright.ai/jobs/info/69124714c98948514c47a17c?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Nov 10 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Products & Experiences Creative & Product Design Internships – Summer 2026](https://jobright.ai/jobs/info/6912702fea9ab01b82bf2af0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 10 |
-| ↳ | **[Universal Television Entertainment Group Digital and Design Internships – Summer 2026](https://jobright.ai/jobs/info/691270a3ea9ab01b82bf2b4c?utm_campaign=1049&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Television Entertainment Group Digital and Design Internships – Summer 2026](https://jobright.ai/jobs/info/691270a3ea9ab01b82bf2b4c?utm_campaign=1049&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | **[Root Inc.](https://www.root.com)** | **[Product Design Intern – Loyalty Program Collaboration](https://jobright.ai/jobs/info/69124669ea9ab01b82bf0f16?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[UX Research Intern – Loyalty Program Strategy](https://jobright.ai/jobs/info/691240e7c98948514c479d8f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[Product Design Intern, Internal Tooling](https://jobright.ai/jobs/info/69123fdeea9ab01b82bf0b20?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
@@ -91,8 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[Photo & Video Intern - Part Time](https://jobright.ai/jobs/info/69123b61ea9ab01b82bf0981?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Nov 10 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Graphic Design Internship / Spring 2026](https://jobright.ai/jobs/info/6912347ac98948514c479741?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/691288d7ea9ab01b82bf356c?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL | On Site | Nov 10 |
-| **[The F* Word](https://thefword.ai/)** | **[AI Fashion Designer Featured Program](https://jobright.ai/jobs/info/69122fd6ea9ab01b82bf02f7?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Nov 10 |
-| **[TopBuild](http://www.topbuild.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/69126144d1047e3565cfbf37?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL - Corp. Headquarters | On Site | Nov 10 |
+| ↳ | **[Intern - Graphic Design](https://jobright.ai/jobs/info/69126144d1047e3565cfbf37?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL - Corp. Headquarters | On Site | Nov 10 |
 | **[Du & Berry](www.du-berry.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/691223deea9ab01b82befd42?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Ascend Group](http://www.ascendcorp.com)** | **[UI Designer](https://jobright.ai/jobs/info/69124312d1047e3565cfab86?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Root Inc.](https://www.root.com)** | **[Product Design Intern, Internal Tooling](https://jobright.ai/jobs/info/691230e7c98948514c479595?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Nov 10 |
@@ -107,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 09 |
 | **[Jobgether](https://jobgether.com/)** | **[Graphic Design and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69117745bb519377733ef4b9?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 09 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote (Possible) | Hybrid | Nov 09 |
+| **[Sleeper](https://sleeper.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6912cacaea9ab01b82bf4fe8?utm_campaign=1049&utm_source=git)** | California, Oregon, Nevada, Washington | On Site | Nov 09 |
 | **[Method Architecture](http://www.methodarchitecture.com)** | **[Intern](https://jobright.ai/jobs/info/6910f696bb519377733edcd8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Nov 09 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6910f617988c2b7b4ec533d1?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Nov 09 |
 | **[McKinley Architecture and Engineering ](https://mckinleydelivers.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6910f07ebb519377733edb21?utm_campaign=1049&utm_source=git)** | Charleston, WV | Hybrid | Nov 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Iridium](http://www.iridium.com/)** | **[Iridium Graphic Design Internship - Summer 2026](https://jobright.ai/jobs/info/690ec7ee221b890c27811a4e?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Nov 07 |
 | ↳ | **[Iridium Graphic Design Internship - Summer 2026](https://jobright.ai/jobs/info/690ec17bd046ab6061d00d0a?utm_campaign=1049&utm_source=git)** | US-VA-McLean | Hybrid | Nov 07 |
 | **[Nike](http://www.nike.com)** | **[Jordan Design Undergraduate Internship](https://jobright.ai/jobs/info/68f848ac6de2db04dc3dd90d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 07 |
-| ↳ | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 07 |
-| **[Lindt & Sprüngli USA](https://www.lindtusa.com)** | **[Creative Intern](https://jobright.ai/jobs/info/690ea5ca221b890c278103b4?utm_campaign=1049&utm_source=git)** | Stratham, NH | On Site | Nov 07 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Graphic Design](https://jobright.ai/jobs/info/690f300a221b890c2781478b?utm_campaign=1049&utm_source=git)** | US-OH-Avon | Hybrid | Nov 07 |
-| **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fa544146d3b6ec557b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 07 |
-| ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8046221b890c2780eb2d?utm_campaign=1049&utm_source=git)** | Cambridge, MA | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
