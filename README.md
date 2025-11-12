@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xivius](https://www.linkedin.com/company/107599035)** | **[UX/UI Design Intern [Unpaid, Entry-Level]](https://jobright.ai/jobs/info/6913ca97d1047e3565d061ef?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
+| **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68f14fadf462172a5a7d60d1?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Nov 11 |
+| **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design / ITAR / U.S.Citizen](https://jobright.ai/jobs/info/6913bd641465e02904e971e5?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 11 |
+| **[Illumio](http://www.illumio.com)** | **[Technical Content Design Intern](https://jobright.ai/jobs/info/68f6e31e9a63986de7583300?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Nov 11 |
+| **[9Rooftops](https://9rooftops.com)** | **[Digital Design Intern](https://jobright.ai/jobs/info/6913b56fe344172248f73770?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 11 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Products & Experiences Creative & Product Design Internships – Summer 2026](https://jobright.ai/jobs/info/6913afb81465e02904e96a13?utm_campaign=1049&utm_source=git)** | Universal City, CA | Hybrid | Nov 11 |
 | **[Stratus®](https://www.stratusteam.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6913aed4e344172248f73313?utm_campaign=1049&utm_source=git)** | Marietta, GA | On Site | Nov 11 |
 | **[Analog Devices](http://www.analog.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6913ab54e344172248f730ff?utm_campaign=1049&utm_source=git)** | US, CA, San Jose, Rio Robles | On Site | Nov 11 |
 | ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6913a5cbd1047e3565d04c79?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 11 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6913a43ee344172248f72d86?utm_campaign=1049&utm_source=git)** | 224 South Michigan Avenue Suite 1400, Chicago, IL, 60604, US | On Site | Nov 11 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[Outfitting Design Intern](https://jobright.ai/jobs/info/6913a3191465e02904e9639d?utm_campaign=1049&utm_source=git)** | Lockport, LA | On Site | Nov 11 |
+| **[Curious Plot](https://curiousplot.agency/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6913bf8d1465e02904e973c3?utm_campaign=1049&utm_source=git)** | Minneapolis, MN, US | On Site | Nov 11 |
+| **[Stantec](http://www.stantec.com)** | **[Interior Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/6913b55ed1047e3565d055ec?utm_campaign=1049&utm_source=git)** | 224 South Michigan Avenue Suite 1400, Chicago, IL, 60604, US | On Site | Nov 11 |
 | **[ATPCO](http://www.atpco.net)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/6913948ee344172248f72416?utm_campaign=1049&utm_source=git)** | Herndon, VA | Hybrid | Nov 11 |
 | **[TypTap Insurance Company](https://typtap.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/691391efe344172248f722b0?utm_campaign=1049&utm_source=git)** | Tampa, FL, USA | On Site | Nov 11 |
 | **[Riot Games](http://www.riotgames.com)** | **[Technical Game Design Intern, 2XKO - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091ab9bcccf20de59d7315?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 11 |
@@ -90,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Interior Design Unit Intern](https://jobright.ai/jobs/info/690d33b1221b890c278049dd?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Nov 11 |
 | **[HDR](http://www.hdrinc.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68f68a459a65fd345859442b?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Nov 11 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Game Design](https://jobright.ai/jobs/info/68db22830dffed6f83d2cab8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 11 |
+| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Interior Design - Summer 2026](https://jobright.ai/jobs/info/6913c90ad1047e3565d060c7?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Nov 11 |
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design / Video Editor & Blog Marketing Intern](https://jobright.ai/jobs/info/691348121465e02904e93d7d?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Nov 11 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Apparel Design](https://jobright.ai/jobs/info/68f6dc449a63986de7582d1c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 11 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Character Art](https://jobright.ai/jobs/info/68db1faa6df7b8311bb1633b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 11 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Design Intern – Loyalty Program Collaboration](https://jobright.ai/jobs/info/69124d8eea9ab01b82bf1327?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Nov 10 |
 | **[Tombras](http://tombras.com)** | **[Digital Writer Intern](https://jobright.ai/jobs/info/69123244ea9ab01b82bf045e?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 10 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine UX/UI Design Intern- Summer 2026](https://jobright.ai/jobs/info/690ffd15988c2b7b4ec4f8ce?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Nov 10 |
-| **[Rare Editions](http://www.rareeditions.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/6912330cd1047e3565cfa37b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68da38220b832179ca4aca24?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Distribution New Business Design Central](https://jobright.ai/jobs/info/6911d6ec8b818a6dda66be58?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Hybrid | Nov 10 |
-| **[Meitu Inc.](http://www.meitu.com)** | **[RoboNeo AI Agent Campus Creative Ambassador (2025–2026)](https://jobright.ai/jobs/info/691191a5988c2b7b4ec5552f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 09 |
-| **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4a76a2d2a252445cd8272?utm_campaign=1049&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Nov 09 |
-| **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 09 |
-| **[Jobgether](https://jobgether.com/)** | **[Graphic Design and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69117745bb519377733ef4b9?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 09 |
-| **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote (Possible) | Hybrid | Nov 09 |
-| **[Sleeper](https://sleeper.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6912cacaea9ab01b82bf4fe8?utm_campaign=1049&utm_source=git)** | California, Oregon, Nevada, Washington | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
