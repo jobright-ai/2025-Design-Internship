@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Respawn Entertainment](http://www.respawn.com/)** | **[Concept Art Intern (Apex Legends)](https://jobright.ai/jobs/info/691402e91465e02904e996ad?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Nov 11 |
+| **[Insomniac Events](http://insomniac.com)** | **[Environment Art Intern - Undergraduate](https://jobright.ai/jobs/info/6903f00fd64a22104aa950c2?utm_campaign=1049&utm_source=git)** | United States, Burbank, CA | On Site | Nov 11 |
+| **[Respawn Entertainment](http://www.respawn.com/)** | **[Concept Art Intern (Apex Legends)](https://jobright.ai/jobs/info/6913fa561465e02904e99061?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Nov 11 |
+| **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Book Artists Intern](https://jobright.ai/jobs/info/6914155fd1047e3565d08b93?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Nov 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6913f052e344172248f7543f?utm_campaign=1049&utm_source=git)** | Charleston County, SC | On Site | Nov 11 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/6913edd7e344172248f7535f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 11 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6913ed51e344172248f75316?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 11 |
-| **[Athletes First](http://www.athletesfirst.net/)** | **[Spring Graphic Design Intern](https://jobright.ai/jobs/info/6913e653e344172248f75003?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 11 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6914161ed1047e3565d08bcd?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 11 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Industrial Design Intern](https://jobright.ai/jobs/info/6913f13ad1047e3565d073c0?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 11 |
+| **[Athletes First](http://www.athletesfirst.net/)** | **[Spring Graphic Design Intern](https://jobright.ai/jobs/info/69140869e344172248f76237?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 11 |
 | **[Xivius](https://www.linkedin.com/company/107599035)** | **[UX/UI Design Intern [Unpaid, Entry-Level]](https://jobright.ai/jobs/info/6913ca97d1047e3565d061ef?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
 | **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68f14fadf462172a5a7d60d1?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Nov 11 |
 | **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design / ITAR / U.S.Citizen](https://jobright.ai/jobs/info/6913bd641465e02904e971e5?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 11 |
@@ -110,6 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Character Art](https://jobright.ai/jobs/info/68db1faa6df7b8311bb1633b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 11 |
 | **[Amway](http://www.amway.com)** | **[UI/UX Product Design Intern, Summer 2026 (42290)](https://jobright.ai/jobs/info/68f6a4bf9a65fd3458595a21?utm_campaign=1049&utm_source=git)** | Ada, MI | On Site | Nov 11 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6912f278d1047e3565d007b6?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Nov 11 |
+| **[United Landmark Associates](http://www.unitedlandmark.com)** | **[Art Internship – Fall 2025 ⮕](https://jobright.ai/jobs/info/691404c51465e02904e99747?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 10 |
+| **[AIA Colorado](https://aiacolorado.org/)** | **[JUNIOR ARCHITECT / INTERN (3-5 Years)](https://jobright.ai/jobs/info/691412d3d1047e3565d08a44?utm_campaign=1049&utm_source=git)** | Louisville, CO | Hybrid | Nov 10 |
 | **[Yalora Co.](https://www.linkedin.com/company/109486206)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/691340aad1047e3565d0218f?utm_campaign=1049&utm_source=git)** | Farmington, MI | On Site | Nov 10 |
 | **[A24](http://a24films.com/)** | **[Brand Design Intern 2026](https://jobright.ai/jobs/info/6912daf5d1047e3565cffa40?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Smart Design](http://smartdesignworldwide.com/)** | **[Industrial Design Intern Winter 2026 (Jan start)](https://jobright.ai/jobs/info/6912d5e2ea9ab01b82bf54d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Nov 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Research Intern – Loyalty Program Strategy](https://jobright.ai/jobs/info/691240e7c98948514c479d8f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[Product Design Intern, Internal Tooling](https://jobright.ai/jobs/info/69123fdeea9ab01b82bf0b20?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Interior Designer, Summer 2026](https://jobright.ai/jobs/info/69123fa7ea9ab01b82bf0b0d?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Nov 10 |
-| **[The Hillman Group](http://www.hillmangroup.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690d185b4a1b456627b1da13?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 10 |
-| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[Photo & Video Intern - Part Time](https://jobright.ai/jobs/info/69123b61ea9ab01b82bf0981?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Nov 10 |
-| **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Graphic Design Internship / Spring 2026](https://jobright.ai/jobs/info/6912347ac98948514c479741?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
-| **[TopBuild](http://www.topbuild.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/691288d7ea9ab01b82bf356c?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL | On Site | Nov 10 |
-| ↳ | **[Intern - Graphic Design](https://jobright.ai/jobs/info/69126144d1047e3565cfbf37?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL - Corp. Headquarters | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
