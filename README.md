@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kiva](http://kiva.org)** | **[Design Intern](https://jobright.ai/jobs/info/69141d84d1047e3565d0915e?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Nov 11 |
 | **[Insomniac Events](http://insomniac.com)** | **[Environment Art Intern - Undergraduate](https://jobright.ai/jobs/info/6903f00fd64a22104aa950c2?utm_campaign=1049&utm_source=git)** | United States, Burbank, CA | On Site | Nov 11 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Concept Art Intern (Apex Legends)](https://jobright.ai/jobs/info/6913fa561465e02904e99061?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Nov 11 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Book Artists Intern](https://jobright.ai/jobs/info/6914155fd1047e3565d08b93?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Nov 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6913f052e344172248f7543f?utm_campaign=1049&utm_source=git)** | Charleston County, SC | On Site | Nov 11 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/6913edd7e344172248f7535f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 11 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6913ed51e344172248f75316?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 11 |
+| **[Athletes First](http://www.athletesfirst.net/)** | **[Spring Graphic Design Intern](https://jobright.ai/jobs/info/6913e653e344172248f75003?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6914161ed1047e3565d08bcd?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 11 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Industrial Design Intern](https://jobright.ai/jobs/info/6913f13ad1047e3565d073c0?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 11 |
-| **[Athletes First](http://www.athletesfirst.net/)** | **[Spring Graphic Design Intern](https://jobright.ai/jobs/info/69140869e344172248f76237?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 11 |
 | **[Xivius](https://www.linkedin.com/company/107599035)** | **[UX/UI Design Intern [Unpaid, Entry-Level]](https://jobright.ai/jobs/info/6913ca97d1047e3565d061ef?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
 | **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68f14fadf462172a5a7d60d1?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Nov 11 |
 | **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer / Digital Designer / Visual Design / ITAR / U.S.Citizen](https://jobright.ai/jobs/info/6913bd641465e02904e971e5?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 11 |
@@ -108,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Interior Design Unit Intern](https://jobright.ai/jobs/info/690d33b1221b890c278049dd?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Nov 11 |
 | **[HDR](http://www.hdrinc.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68f68a459a65fd345859442b?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Nov 11 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Game Design](https://jobright.ai/jobs/info/68db22830dffed6f83d2cab8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 11 |
+| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Interior Design - Summer 2026](https://jobright.ai/jobs/info/691437a8286ccf0a15125d1d?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Nov 11 |
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design / Video Editor & Blog Marketing Intern](https://jobright.ai/jobs/info/691348121465e02904e93d7d?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Nov 11 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Apparel Design](https://jobright.ai/jobs/info/68f6dc449a63986de7582d1c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 11 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Character Art](https://jobright.ai/jobs/info/68db1faa6df7b8311bb1633b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 11 |
@@ -115,15 +117,13 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6912f278d1047e3565d007b6?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Nov 11 |
 | **[United Landmark Associates](http://www.unitedlandmark.com)** | **[Art Internship – Fall 2025 ⮕](https://jobright.ai/jobs/info/691404c51465e02904e99747?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 10 |
 | **[AIA Colorado](https://aiacolorado.org/)** | **[JUNIOR ARCHITECT / INTERN (3-5 Years)](https://jobright.ai/jobs/info/691412d3d1047e3565d08a44?utm_campaign=1049&utm_source=git)** | Louisville, CO | Hybrid | Nov 10 |
-| **[Yalora Co.](https://www.linkedin.com/company/109486206)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/691340aad1047e3565d0218f?utm_campaign=1049&utm_source=git)** | Farmington, MI | On Site | Nov 10 |
 | **[A24](http://a24films.com/)** | **[Brand Design Intern 2026](https://jobright.ai/jobs/info/6912daf5d1047e3565cffa40?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Smart Design](http://smartdesignworldwide.com/)** | **[Industrial Design Intern Winter 2026 (Jan start)](https://jobright.ai/jobs/info/6912d5e2ea9ab01b82bf54d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Nov 10 |
 | **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[UX Research Manager (Volunteer/Internship)](https://jobright.ai/jobs/info/6912fa96ea9ab01b82bf6bbd?utm_campaign=1049&utm_source=git)** | New Haven, CT | Remote | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6912adb7c98948514c47d292?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- User Experience Researcher](https://jobright.ai/jobs/info/6912d928ea9ab01b82bf5ac1?utm_campaign=1049&utm_source=git)** | Iowa, United States | On Site | Nov 10 |
 | **[Sleeper](https://sleeper.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6912c6a7ea9ab01b82bf4e00?utm_campaign=1049&utm_source=git)** | LA Metro Area | Remote | Nov 10 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Products & Experiences Creative & Product Design Internships – Summer 2026](https://jobright.ai/jobs/info/6912d18fea9ab01b82bf52d9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 10 |
-| ↳ | **[Global Streaming Product – UX Design & Communications Internships – Summer 2026](https://jobright.ai/jobs/info/6912ca43ea9ab01b82bf4fb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Global Streaming Product – UX Design & Communications Internships – Summer 2026](https://jobright.ai/jobs/info/6912ca43ea9ab01b82bf4fb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Web Designer Marketing Intern](https://jobright.ai/jobs/info/6912fc3bea9ab01b82bf6ce0?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/6912977bd1047e3565cfdae7?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Nov 10 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/691292f3ea9ab01b82bf3975?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Nov 10 |
