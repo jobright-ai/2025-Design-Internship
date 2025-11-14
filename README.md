@@ -57,14 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[STUDENT ASSISTANT - CARTOONIST - FOGHORN NEWS POOL](https://jobright.ai/jobs/info/691779a13ea85638ae1caeb2?utm_campaign=1049&utm_source=git)** | Corpus Christi, TX | On Site | Nov 14 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69176fc0bcdbf3560c9c7b4e?utm_campaign=1049&utm_source=git)** | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | On Site | Nov 14 |
+| **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern (Juicy Couture)](https://jobright.ai/jobs/info/69176c383ea85638ae1ca814?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Nov 14 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Creative Design Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def79144d32141e0c045cd?utm_campaign=1049&utm_source=git)** | Green Bay, WI | Hybrid | Nov 14 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Outlet Design](https://jobright.ai/jobs/info/6917698dbcdbf3560c9c77a1?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Nov 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Assistant Design Intern - Accessories - Global Product Creation Intern, Spring 2026](https://jobright.ai/jobs/info/691761ff3ea85638ae1ca25f?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | Hybrid | Nov 14 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / St. Paul, MN](https://jobright.ai/jobs/info/69175b06370fde633d07f5bb?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Nov 14 |
+| **[Talentix](https://thetalentix.com/)** | **[UI/UX Designer Internship @Talentix](https://jobright.ai/jobs/info/6917839245fb6f5ead89b926?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Nov 14 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/691748913ea85638ae1c9819?utm_campaign=1049&utm_source=git)** | Cleveland, OH | Hybrid | Nov 14 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Columbus, OH](https://jobright.ai/jobs/info/6917640bbcdbf3560c9c7593?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Nov 14 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Cleveland, OH](https://jobright.ai/jobs/info/691782d645fb6f5ead89b87e?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Nov 14 |
+| ↳ | **[Commercial Landscape Internship / Columbus, OH](https://jobright.ai/jobs/info/6917640bbcdbf3560c9c7593?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Nov 14 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c5185cdb52c07d28840fcc?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Nov 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Spring 2026)](https://jobright.ai/jobs/info/68ecfcf06335d332361248da?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Nov 14 |
+| **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fac4b3edd1901442390a5f?utm_campaign=1049&utm_source=git)** | Vestavia Hills, AL | Hybrid | Nov 14 |
+| **[Kuvare Holdings](http://kuvare.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faad7dedd190144238fd40?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Nov 14 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68cdc1aeb2a74e1837edbf0d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Digital Content Creation Intern (Masters)](https://jobright.ai/jobs/info/68ccff47d11b445e0bee5cf9?utm_campaign=1049&utm_source=git)** | Mettawa, IL | On Site | Nov 14 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Industrial Design Intern](https://jobright.ai/jobs/info/69174b26370fde633d07ef4b?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/69081de463502c0aded8a4ab?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Nov 13 |
 | **[FIRST](https://firstagency.com/)** | **[Design Production Intern (Spring)](https://jobright.ai/jobs/info/691559c9286ccf0a1512d8fd?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/691582cb286ccf0a1512edc4?utm_campaign=1049&utm_source=git)** | Conshohocken, PA | On Site | Nov 12 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Design Practice & Special Projects, Consumer Industries](https://jobright.ai/jobs/info/691569f79c388539cbdf3523?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 12 |
-| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/691526f56f36db06ef04c27a?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Nov 12 |
-| **[McKinley Architecture and Engineering ](https://mckinleydelivers.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69158f529c388539cbdf4690?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Nov 12 |
-| **[AGBO](https://www.agbo.com)** | **[Intern, Creative - Spring 2026](https://jobright.ai/jobs/info/6915357c9c388539cbdf1822?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
-| **[McKinley Architecture and Engineering ](https://mckinleydelivers.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69155fec286ccf0a1512dba6?utm_campaign=1049&utm_source=git)** | Charleston, WV | On Site | Nov 12 |
-| **[Archinect](https://archinect.com)** | **[Part Time Intern Architect - Immediate](https://jobright.ai/jobs/info/69166a166f36db06ef05612c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 12 |
-| **[Organon](https://www.organon.com)** | **[Employee User Research Intern](https://jobright.ai/jobs/info/6915268a9c388539cbdf0f87?utm_campaign=1049&utm_source=git)** | USA - New Jersey - Jersey City | Hybrid | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
