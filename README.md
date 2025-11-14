@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Nov 13 |
 | **[Reveal Global Consulting ](https://www.revealgc.com)** | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69169d226f36db06ef058556?utm_campaign=1049&utm_source=git)** | Fulton, MD | On Site | Nov 13 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[UX Design Internship](https://jobright.ai/jobs/info/6916b3a2286ccf0a15138c1f?utm_campaign=1049&utm_source=git)** | Piscataway, NJ | Hybrid | Nov 13 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[ATPCO](http://www.atpco.net)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/6913948ee344172248f72416?utm_campaign=1049&utm_source=git)** | Herndon, VA | Hybrid | Nov 13 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship -  Image Database Curator](https://jobright.ai/jobs/info/69164568286ccf0a15133f36?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Nov 13 |
 | ↳ | **[Remote Summer Internship - Graphic Designer - Kids' Ministry](https://jobright.ai/jobs/info/691643389c388539cbdf93dd?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Nov 13 |
+| **[Respawn Entertainment](http://www.respawn.com/)** | **[Concept Art Intern (Apex Legends)](https://jobright.ai/jobs/info/691713e7bcdbf3560c9c4c31?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 13 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Human Centered Design](https://jobright.ai/jobs/info/6916736c286ccf0a15136191?utm_campaign=1049&utm_source=git)** | Laurel, Maryland | On Site | Nov 13 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Graphic Designer - Kids' Ministry](https://jobright.ai/jobs/info/691656679c388539cbdfa104?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/691655b79c388539cbdfa0a2?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Nov 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Temporary Senior Designer](https://jobright.ai/jobs/info/691514079c388539cbdf03d2?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Nov 12 |
 | **[National Life Group](https://www.nationallife.com)** | **[Illustration Systems Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6914d0139c388539cbdedccf?utm_campaign=1049&utm_source=git)** | Montpelier, VT | On Site | Nov 12 |
 | **[Hatch](https://www.hatch.com)** | **[Landscape Architecture Intern (Summer 2026)](https://jobright.ai/jobs/info/6914cdfb9c388539cbdedbc9?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Nov 12 |
-| **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Design Coordinator](https://jobright.ai/jobs/info/6914c5ee6f36db06ef048c6d?utm_campaign=1049&utm_source=git)** | TBGSEA, Redmond, WA, US | On Site | Nov 12 |
-| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Program Management (Design Team)](https://jobright.ai/jobs/info/68c664697d0db41142739895?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
