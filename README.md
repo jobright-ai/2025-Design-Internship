@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Nov 13 |
 | **[Reveal Global Consulting ](https://www.revealgc.com)** | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69169d226f36db06ef058556?utm_campaign=1049&utm_source=git)** | Fulton, MD | On Site | Nov 13 |
-| ↳ | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69168ec19c388539cbdfcaa1?utm_campaign=1049&utm_source=git)** | Fulton, MD, US | On Site | Nov 13 |
+| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[UX Design Internship](https://jobright.ai/jobs/info/6916b3a2286ccf0a15138c1f?utm_campaign=1049&utm_source=git)** | Piscataway, NJ | Hybrid | Nov 13 |
+| **[Reveal Global Consulting ](https://www.revealgc.com)** | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69168ec19c388539cbdfcaa1?utm_campaign=1049&utm_source=git)** | Fulton, MD, US | On Site | Nov 13 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/69168c126f36db06ef057ad4?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Nov 13 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Intern - Research Web Design and Development Intern](https://jobright.ai/jobs/info/691685459c388539cbdfc318?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Nov 13 |
 | **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer \ Digital Designer \ Visual Design / ITAR / U.S.Citizen /](https://jobright.ai/jobs/info/691673c89c388539cbdfb79d?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 13 |
@@ -126,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Multimedia Designer Intern - The Toro Company](https://jobright.ai/jobs/info/68c04349702aa35207aab876?utm_campaign=1049&utm_source=git)** | Hennepin County, MN | On Site | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/69081de463502c0aded8a4ab?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Nov 13 |
 | **[FIRST](https://firstagency.com/)** | **[Design Production Intern (Spring)](https://jobright.ai/jobs/info/691559c9286ccf0a1512d8fd?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
+| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Graphic Design - Summer 2026](https://jobright.ai/jobs/info/6916ade9286ccf0a1513875e?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Nov 12 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/691582cb286ccf0a1512edc4?utm_campaign=1049&utm_source=git)** | Conshohocken, PA | On Site | Nov 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Design Practice & Special Projects, Consumer Industries](https://jobright.ai/jobs/info/691569f79c388539cbdf3523?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 12 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/691526f56f36db06ef04c27a?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Nov 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Landscape Architecture Intern (Summer 2026)](https://jobright.ai/jobs/info/6914cdfb9c388539cbdedbc9?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Nov 12 |
 | **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Design Coordinator](https://jobright.ai/jobs/info/6914c5ee6f36db06ef048c6d?utm_campaign=1049&utm_source=git)** | TBGSEA, Redmond, WA, US | On Site | Nov 12 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Program Management (Design Team)](https://jobright.ai/jobs/info/68c664697d0db41142739895?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Nov 12 |
-| **[SmithGroup](https://www.smithgroup.com/)** | **[SmithGroup Design a Better Future Scholarship - Interior Design Internship](https://jobright.ai/jobs/info/68dcc6a5a125e75c422a5508?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | Nov 12 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Nov 12 |
-| **[National Life Group](https://www.nationallife.com)** | **[Illustration Systems Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6914e8659c388539cbdee727?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
