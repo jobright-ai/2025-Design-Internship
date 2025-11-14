@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reveal Global Consulting ](https://www.revealgc.com)** | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69169d226f36db06ef058556?utm_campaign=1049&utm_source=git)** | Fulton, MD | On Site | Nov 13 |
+| ↳ | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69168ec19c388539cbdfcaa1?utm_campaign=1049&utm_source=git)** | Fulton, MD, US | On Site | Nov 13 |
+| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/69168c126f36db06ef057ad4?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Nov 13 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Intern - Research Web Design and Development Intern](https://jobright.ai/jobs/info/691685459c388539cbdfc318?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Nov 13 |
 | **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer \ Digital Designer \ Visual Design / ITAR / U.S.Citizen /](https://jobright.ai/jobs/info/691673c89c388539cbdfb79d?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 13 |
+| **[Hatch Design Architecture](https://www.hatchda.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69168c5a6f36db06ef057b10?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Nov 13 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Architecture](https://jobright.ai/jobs/info/69166b7e6f36db06ef05629d?utm_campaign=1049&utm_source=git)** | Bettendorf, IA | Hybrid | Nov 13 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 13 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691690e8286ccf0a151377b0?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
 | **[KROST](https://krostnewyork.com)** | **[Graphic Design/Content Intern](https://jobright.ai/jobs/info/691670799c388539cbdfb4cb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Intern - Research Web Design and Development Intern](https://jobright.ai/jobs/info/69167db2286ccf0a1513692f?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Image Database Curator](https://jobright.ai/jobs/info/691646686f36db06ef054811?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 13 |
@@ -124,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/691582cb286ccf0a1512edc4?utm_campaign=1049&utm_source=git)** | Conshohocken, PA | On Site | Nov 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Design Practice & Special Projects, Consumer Industries](https://jobright.ai/jobs/info/691569f79c388539cbdf3523?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 12 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/691526f56f36db06ef04c27a?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Nov 12 |
+| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Industrial Design - Summer 2026](https://jobright.ai/jobs/info/691692e89c388539cbdfccd6?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Nov 12 |
 | **[McKinley Architecture and Engineering ](https://mckinleydelivers.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69158f529c388539cbdf4690?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Nov 12 |
 | **[AGBO](https://www.agbo.com)** | **[Intern, Creative - Spring 2026](https://jobright.ai/jobs/info/6915357c9c388539cbdf1822?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
 | **[McKinley Architecture and Engineering ](https://mckinleydelivers.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69155fec286ccf0a1512dba6?utm_campaign=1049&utm_source=git)** | Charleston, WV | On Site | Nov 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SmithGroup](https://www.smithgroup.com/)** | **[SmithGroup Design a Better Future Scholarship - Interior Design Internship](https://jobright.ai/jobs/info/68dcc6a5a125e75c422a5508?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | Nov 12 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Nov 12 |
 | **[National Life Group](https://www.nationallife.com)** | **[Illustration Systems Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6914e8659c388539cbdee727?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Nov 12 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/68bf497a5c5d5f14f46d5c2a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Nov 12 |
-| **[Quill](http://www.quill.com)** | **[Quill UX/UI Visual Designer Intern - June 2026](https://jobright.ai/jobs/info/6914d8f86f36db06ef049375?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | On Site | Nov 12 |
-| **[Staples](http://www.staples.com)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/6914e35e9c388539cbdee4ad?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | On Site | Nov 12 |
-| **[ServiceNow](http://www.servicenow.com)** | **[EX - UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68dc63d7accfd24b67e550c4?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Nov 12 |
-| **[First Internet Bank](https://www.firstib.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68bf2ee35c5d5f14f46d491d?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Nov 12 |
-| **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[UX Intern](https://jobright.ai/jobs/info/690d7e2ed046ab6061cf6a6a?utm_campaign=1049&utm_source=git)** | Overland Park, KS | Hybrid | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
