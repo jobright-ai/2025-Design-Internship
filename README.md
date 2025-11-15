@@ -61,12 +61,14 @@ For a complete list, click the following sortable link below:
 | **[Weigel Broadcasting Co.](https://www.weigelbroadcasting.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/6917ece415b415636717cd96?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6917ea5cbcdbf3560c9cc97a?utm_campaign=1049&utm_source=git)** | Waterloo, WI | On Site | Nov 14 |
 | **[Kinectrics](http://www.kinectrics.com)** | **[Multimedia Designer Co-op Student](https://jobright.ai/jobs/info/6917de9315b415636717c4d0?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 14 |
+| **[IPMD, Inc.](https://www.ipmdinc.com/)** | **[UI/UX, Graphic, Motion, and Art Designer Intern](https://jobright.ai/jobs/info/6918014445fb6f5ead8a0ce6?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Nov 14 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Graphic Design and Visual Communications](https://jobright.ai/jobs/info/6917d89615b415636717c210?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 14 |
 | **[AOA](https://www.insideaoa.com/)** | **[Concept Design Intern- West Coast](https://jobright.ai/jobs/info/6917d7d315b415636717c162?utm_campaign=1049&utm_source=git)** | Burbank,CA,US | On Site | Nov 14 |
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6917f35315b415636717d222?utm_campaign=1049&utm_source=git)** | Waterloo, Wisconsin | On Site | Nov 14 |
 | **[AOA](https://www.insideaoa.com/)** | **[Graphic Design Intern- TN](https://jobright.ai/jobs/info/6917cfe515b415636717bc82?utm_campaign=1049&utm_source=git)** | Nashville,TN,US | On Site | Nov 14 |
 | **[Habits 365](habits365.com)** | **[College Fitness Line Intern (Women’s Focus)](https://jobright.ai/jobs/info/6917c58e45fb6f5ead89e85c?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 14 |
-| **[AOA](https://www.insideaoa.com/)** | **[Concept Design Intern- East Coast](https://jobright.ai/jobs/info/6917f12745fb6f5ead8a016c?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
+| **[AOA](https://www.insideaoa.com/)** | **[Show Set Design Intern](https://jobright.ai/jobs/info/691800e745fb6f5ead8a0cb4?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
+| ↳ | **[Concept Design Intern- East Coast](https://jobright.ai/jobs/info/6917f12745fb6f5ead8a016c?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6917eba6bcdbf3560c9cca64?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | **[Crawford Models](https://www.crawfordmodels.com)** | **[Graphic Designer Intern for Modeling Agency](https://jobright.ai/jobs/info/6917be7345fb6f5ead89e272?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/6917e169bcdbf3560c9cc434?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Nov 14 |
@@ -113,8 +115,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Nov 13 |
 | **[Reveal Global Consulting](https://www.revealgc.com)** | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69169d226f36db06ef058556?utm_campaign=1049&utm_source=git)** | Fulton, MD | On Site | Nov 13 |
-| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[UX Design Internship](https://jobright.ai/jobs/info/6916b3a2286ccf0a15138c1f?utm_campaign=1049&utm_source=git)** | Piscataway, NJ | Hybrid | Nov 13 |
-| **[Reveal Global Consulting](https://www.revealgc.com)** | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69168ec19c388539cbdfcaa1?utm_campaign=1049&utm_source=git)** | Fulton, MD, US | On Site | Nov 13 |
+| ↳ | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69168ec19c388539cbdfcaa1?utm_campaign=1049&utm_source=git)** | Fulton, MD, US | On Site | Nov 13 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/69168c126f36db06ef057ad4?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Nov 13 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Intern - Research Web Design and Development Intern](https://jobright.ai/jobs/info/691685459c388539cbdfc318?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Nov 13 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern (Juicy Couture)](https://jobright.ai/jobs/info/6917916ebcdbf3560c9c8f05?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Dallas)](https://jobright.ai/jobs/info/68c8f05395f5211cd2cebb3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Nov 13 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9225fa628d10664e8991b?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Nov 13 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f92d936de2db04dc3e64e2?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Nov 13 |
-| ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f9174d6de2db04dc3e550f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
