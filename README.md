@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AOA](https://www.insideaoa.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69189c9315b415636718310a?utm_campaign=1049&utm_source=git)** | Winter Park, FL | On Site | Nov 15 |
+| ↳ | **[Concept Design Intern- East Coast](https://jobright.ai/jobs/info/69189b1dbcdbf3560c9d2ec4?utm_campaign=1049&utm_source=git)** | Winter Park, FL | On Site | Nov 15 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Design Practice & Special Projects, Consumer Industries](https://jobright.ai/jobs/info/6918999e45fb6f5ead8a617a?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 15 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c7cbc6f42a830e1c7e8240?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Nov 15 |
+| **[AOA](https://www.insideaoa.com/)** | **[Concept Design Intern- West Coast](https://jobright.ai/jobs/info/691893bf15b4156367182e33?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Nov 15 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6918925f15b4156367182da1?utm_campaign=1049&utm_source=git)** | Winter Park, FL | On Site | Nov 15 |
+| ↳ | **[Visioning & Planning Intern](https://jobright.ai/jobs/info/691890c1bcdbf3560c9d2afa?utm_campaign=1049&utm_source=git)** | Winter Park, FL | On Site | Nov 15 |
+| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c35bb4b8c22d3828471258?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Nov 15 |
+| **[Deca Defense](https://decadefense.com/)** | **[Internship: Digital Designer \ Graphic Designer \ Visual Design \ ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/69188bd1bcdbf3560c9d2a2e?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 15 |
+| **[AOA](https://www.insideaoa.com/)** | **[Graphic Design Intern- TN](https://jobright.ai/jobs/info/69188b8715b4156367182b98?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Nov 15 |
+| ↳ | **[Show Set Design Intern](https://jobright.ai/jobs/info/69188b2b15b4156367182b7b?utm_campaign=1049&utm_source=git)** | Winter Park, FL | On Site | Nov 15 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04b6ff758fe1f97e4c072?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Graphic Design (Year-Round)](https://jobright.ai/jobs/info/68c498cb14bb275ce0194dca?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 15 |
+| **[Progressive Companies](http://www.progressiveae.com)** | **[Summer 2026 Interior Design Student Intern](https://jobright.ai/jobs/info/69188673bcdbf3560c9d280f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Nov 15 |
+| **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68c47c4ae471ef3ce16d6aee?utm_campaign=1049&utm_source=git)** | Champaign, IL | On Site | Nov 15 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68e026a3f758fe1f97e4a154?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68cef67c846f0b04af67e091?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Nov 15 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Product Designer Intern](https://jobright.ai/jobs/info/68fbe0e693c49825ab106caf?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Nov 15 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Design Visualization - AI CGI](https://jobright.ai/jobs/info/6915970e286ccf0a1512f617?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Nov 15 |
@@ -64,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Assistant Design Intern - Accessories - Global Product Creation Intern, Spring 2026](https://jobright.ai/jobs/info/69186dbfbcdbf3560c9d2180?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Nov 15 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/69186a5445fb6f5ead8a5393?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 15 |
 | **[Databricks](https://www.databricks.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/68cbd9079e3a822f5d24c198?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
+| **[Rocket](https://rocket.delivery/null/en)** | **[Graphic Design Intern - Winter 2026](https://jobright.ai/jobs/info/68e04211b99ec3563b0cdfdc?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Nov 15 |
 | **[HDR](http://www.hdrinc.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/68c911f4f9c6ff7aedf17743?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Nov 15 |
 | **[Nintendo](http://nintendo.com)** | **[Intern - UX Writer (NTD)](https://jobright.ai/jobs/info/68fc480df55bb021a88a23ad?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Nov 15 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7f2546caff4db51ffe8a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Nov 15 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 University Intern - Research Web Design and Development Intern](https://jobright.ai/jobs/info/69167db2286ccf0a1513692f?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Image Database Curator](https://jobright.ai/jobs/info/691646686f36db06ef054811?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 13 |
 | ↳ | **[Remote Summer Internship - Graphic Design / Bibles, Books, Bulletins](https://jobright.ai/jobs/info/691646549c388539cbdf960c?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 13 |
-| **[ATPCO](http://www.atpco.net)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/6913948ee344172248f72416?utm_campaign=1049&utm_source=git)** | Herndon, VA | Hybrid | Nov 13 |
-| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship -  Image Database Curator](https://jobright.ai/jobs/info/69164568286ccf0a15133f36?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Nov 13 |
-| ↳ | **[Remote Summer Internship - Graphic Designer - Kids' Ministry](https://jobright.ai/jobs/info/691643389c388539cbdf93dd?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Nov 13 |
-| **[Respawn Entertainment](http://www.respawn.com/)** | **[Concept Art Intern (Apex Legends)](https://jobright.ai/jobs/info/691723b9370fde633d07db3f?utm_campaign=1049&utm_source=git)** | Greater Vancouver Metropolitan Area | On Site | Nov 13 |
-| ↳ | **[Concept Art Intern (Apex Legends)](https://jobright.ai/jobs/info/691713e7bcdbf3560c9c4c31?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 13 |
-| **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Human Centered Design](https://jobright.ai/jobs/info/6916736c286ccf0a15136191?utm_campaign=1049&utm_source=git)** | Laurel, Maryland | On Site | Nov 13 |
-| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Graphic Designer - Kids' Ministry](https://jobright.ai/jobs/info/691656679c388539cbdfa104?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 13 |
-| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/691655b79c388539cbdfa0a2?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Nov 13 |
-| **[Business of Home](https://businessofhome.com)** | **[Studio Intern](https://jobright.ai/jobs/info/691655886f36db06ef05527c?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Nov 13 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Design Intern](https://jobright.ai/jobs/info/6916332f9c388539cbdf89bb?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
-| ↳ | **[2026 Summer Intern: Design Intern](https://jobright.ai/jobs/info/691644629c388539cbdf9489?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Nov 13 |
-| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f92226cadb2e5a06a6182d?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 13 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Design Intern](https://jobright.ai/jobs/info/6916316f9c388539cbdf8879?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 13 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Custom Design Co-Operative Intern (Spring 2026)](https://jobright.ai/jobs/info/69160e52286ccf0a151322b1?utm_campaign=1049&utm_source=git)** | Piedmont, South Carolina | On Site | Nov 13 |
-| **[Business of Home](https://businessofhome.com)** | **[Design Intern](https://jobright.ai/jobs/info/69166791286ccf0a15135773?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
-| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f924aaa628d10664e89a6f?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Nov 13 |
-| **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Lighting Designer- Internship Spring 2026](https://jobright.ai/jobs/info/68de3783a125e75c422b26ce?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
