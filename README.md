@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deca Defense](https://decadefense.com/)** | **[Internship: Graphic Designer \ Digital Designer \ Visual Design \ ITAR \ U.S.Citizen /](https://jobright.ai/jobs/info/6917b85245fb6f5ead89dfa8?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 14 |
+| **[Treme-Parker](https://www.tremeparker.com)** | **[Unpaid Graphic Design Marketing Intern](https://jobright.ai/jobs/info/6917b3e415b415636717a9cf?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Nov 14 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Richmond, VA](https://jobright.ai/jobs/info/6917a96b15b415636717a331?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Nov 14 |
+| **[Noblis](http://www.noblis.org)** | **[Summer 2026 - Multimedia Specialist Intern](https://jobright.ai/jobs/info/68f2928b76a51a4307bc4e21?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Nov 14 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69179593bcdbf3560c9c91d1?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Nov 14 |
+| **[University of South Florida](http://www.usf.edu)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/6917af5c45fb6f5ead89d7df?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 14 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69178c0915b4156367178dfa?utm_campaign=1049&utm_source=git)** | Austin,TX,US | On Site | Nov 14 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69179a0615b4156367179745?utm_campaign=1049&utm_source=git)** | Grimes, IA | On Site | Nov 14 |
+| **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6917bbc615b415636717b00a?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Nov 14 |
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[STUDENT ASSISTANT - CARTOONIST - FOGHORN NEWS POOL](https://jobright.ai/jobs/info/691779a13ea85638ae1caeb2?utm_campaign=1049&utm_source=git)** | Corpus Christi, TX | On Site | Nov 14 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Industrial Design Intern](https://jobright.ai/jobs/info/69179a8745fb6f5ead89c96d?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 14 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69176fc0bcdbf3560c9c7b4e?utm_campaign=1049&utm_source=git)** | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | On Site | Nov 14 |
 | **[Weigel Broadcasting Co.](https://www.weigelbroadcasting.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69178c2e15b4156367178e1d?utm_campaign=1049&utm_source=git)** | Chicago,IL,US | On Site | Nov 14 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern (Juicy Couture)](https://jobright.ai/jobs/info/69176c383ea85638ae1ca814?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Nov 14 |
@@ -69,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[STUDENT ASSISTANT - PHOTO EDITOR - FOGHORN NEWS POOL](https://jobright.ai/jobs/info/691796c5bcdbf3560c9c92fa?utm_campaign=1049&utm_source=git)** | Corpus Christi, TX | On Site | Nov 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Assistant Design Intern - Accessories - Global Product Creation Intern, Spring 2026](https://jobright.ai/jobs/info/691761ff3ea85638ae1ca25f?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | Hybrid | Nov 14 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / St. Paul, MN](https://jobright.ai/jobs/info/69175b06370fde633d07f5bb?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Nov 14 |
+| **[Agile Space Industries](http://agilespaceindustries.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/6917b9bb15b415636717aeed?utm_campaign=1049&utm_source=git)** | Durango, CO | On Site | Nov 14 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/691748913ea85638ae1c9819?utm_campaign=1049&utm_source=git)** | Cleveland, OH | Hybrid | Nov 14 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Columbus, OH](https://jobright.ai/jobs/info/6917640bbcdbf3560c9c7593?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Nov 14 |
 | ↳ | **[Commercial Landscape Internship / Cleveland, OH](https://jobright.ai/jobs/info/691782d645fb6f5ead89b87e?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Nov 14 |
@@ -79,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Kuvare Holdings](http://kuvare.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faad7dedd190144238fd40?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Nov 14 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68cdc1aeb2a74e1837edbf0d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Digital Content Creation Intern (Masters)](https://jobright.ai/jobs/info/68ccff47d11b445e0bee5cf9?utm_campaign=1049&utm_source=git)** | Mettawa, IL | On Site | Nov 14 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Industrial Design Intern](https://jobright.ai/jobs/info/69174b26370fde633d07ef4b?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 14 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68fa9709b2c86843bf20fc7d?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 14 |
 | **[IDEMIA](https://www.idemia.com/)** | **[User Experience Design Research Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8e56edd190144238e2a2?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Nov 14 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68faddc63c99cc1d96026f52?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Nov 14 |
@@ -93,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/69168c126f36db06ef057ad4?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Nov 13 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Intern - Research Web Design and Development Intern](https://jobright.ai/jobs/info/691685459c388539cbdfc318?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Nov 13 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern (Juicy Couture)](https://jobright.ai/jobs/info/6917916ebcdbf3560c9c8f05?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 13 |
+| **[Mansueto Ventures](http://www.mansueto.com)** | **[Design Intern, Digital Product](https://jobright.ai/jobs/info/6917aaa115b415636717a419?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
 | **[Hatch Design Architecture](https://www.hatchda.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69168c5a6f36db06ef057b10?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Nov 13 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Architecture](https://jobright.ai/jobs/info/69166b7e6f36db06ef05629d?utm_campaign=1049&utm_source=git)** | Bettendorf, IA | Hybrid | Nov 13 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd8337ddc10244dd680199?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Nov 13 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/68ed4b3370b66e2345d3c3b2?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddda4444d32141e0bfb380?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Nov 13 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68f98ae96de2db04dc3e9f86?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Nov 13 |
-| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Environment Artist - 2026 Summer Internship](https://jobright.ai/jobs/info/68f9ae096de2db04dc3eb2f1?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 13 |
-| **[Rocket Loans](http://www.rocketloans.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/68f951e86de2db04dc3e8403?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Nov 13 |
-| **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/6907762263502c0aded876aa?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 13 |
-| ↳ | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/68f9438ccadb2e5a06a630df?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Nov 13 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd873e44d32141e0bf79d7?utm_campaign=1049&utm_source=git)** | Escondido, CA | On Site | Nov 13 |
-| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Art Outsourcing - 2026 Summer Internship](https://jobright.ai/jobs/info/68f9aadecadb2e5a06a66c17?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 13 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68dd8c8bddc10244dd680baa?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
