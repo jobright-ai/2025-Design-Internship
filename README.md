@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbfa7c93c49825ab108452?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Nov 15 |
+| ↳ | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbf8d493c49825ab10829c?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Nov 15 |
 | **[AOA](https://www.insideaoa.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69189c9315b415636718310a?utm_campaign=1049&utm_source=git)** | Winter Park, FL | On Site | Nov 15 |
 | ↳ | **[Concept Design Intern- East Coast](https://jobright.ai/jobs/info/69189b1dbcdbf3560c9d2ec4?utm_campaign=1049&utm_source=git)** | Winter Park, FL | On Site | Nov 15 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Design Practice & Special Projects, Consumer Industries](https://jobright.ai/jobs/info/6918999e45fb6f5ead8a617a?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 15 |
@@ -102,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6917f35315b415636717d222?utm_campaign=1049&utm_source=git)** | Waterloo, Wisconsin | On Site | Nov 14 |
 | **[AOA](https://www.insideaoa.com/)** | **[Graphic Design Intern- TN](https://jobright.ai/jobs/info/6917cfe515b415636717bc82?utm_campaign=1049&utm_source=git)** | Nashville,TN,US | On Site | Nov 14 |
 | **[Habits 365](habits365.com)** | **[College Fitness Line Intern (Women’s Focus)](https://jobright.ai/jobs/info/6917c58e45fb6f5ead89e85c?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 14 |
-| **[AOA](https://www.insideaoa.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6917eba6bcdbf3560c9cca64?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
-| ↳ | **[Show Set Design Intern](https://jobright.ai/jobs/info/691800e745fb6f5ead8a0cb4?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
+| **[AOA](https://www.insideaoa.com/)** | **[Show Set Design Intern](https://jobright.ai/jobs/info/691800e745fb6f5ead8a0cb4?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6917eba6bcdbf3560c9cca64?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | ↳ | **[Concept Design Intern- East Coast](https://jobright.ai/jobs/info/6917f12745fb6f5ead8a016c?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | **[Crawford Models](https://www.crawfordmodels.com)** | **[Graphic Designer Intern for Modeling Agency](https://jobright.ai/jobs/info/6917be7345fb6f5ead89e272?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/6917e169bcdbf3560c9cc434?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Nov 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 13 |
 | **[KROST](https://krostnewyork.com)** | **[Graphic Design/Content Intern](https://jobright.ai/jobs/info/691670799c388539cbdfb4cb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Intern - Research Web Design and Development Intern](https://jobright.ai/jobs/info/69167db2286ccf0a1513692f?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
-| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Image Database Curator](https://jobright.ai/jobs/info/691646686f36db06ef054811?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 13 |
-| ↳ | **[Remote Summer Internship - Graphic Design / Bibles, Books, Bulletins](https://jobright.ai/jobs/info/691646549c388539cbdf960c?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
