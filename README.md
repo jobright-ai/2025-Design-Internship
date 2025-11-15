@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Democratic National Committee](https://democrats.org/)** | **[Spring 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/69183efdbcdbf3560c9d03f4?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 15 |
+| ↳ | **[Spring 2026 DNC Design Internship](https://jobright.ai/jobs/info/69183eef15b4156367180549?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 15 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Graphic Design](https://jobright.ai/jobs/info/6918281fbcdbf3560c9cf123?utm_campaign=1049&utm_source=git)** | Hancock Whitney Plaza - Gulfport, MS | On Site | Nov 14 |
 | **[The Creative Agency](https://thecreativeagencyco.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/691816c115b415636717e9f8?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Nov 14 |
 | **[Data Visualization Society](https://www.datavisualizationsociety.com/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/6918108315b415636717e55c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 14 |
@@ -69,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6917f35315b415636717d222?utm_campaign=1049&utm_source=git)** | Waterloo, Wisconsin | On Site | Nov 14 |
 | **[AOA](https://www.insideaoa.com/)** | **[Graphic Design Intern- TN](https://jobright.ai/jobs/info/6917cfe515b415636717bc82?utm_campaign=1049&utm_source=git)** | Nashville,TN,US | On Site | Nov 14 |
 | **[Habits 365](habits365.com)** | **[College Fitness Line Intern (Women’s Focus)](https://jobright.ai/jobs/info/6917c58e45fb6f5ead89e85c?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 14 |
-| **[AOA](https://www.insideaoa.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6917eba6bcdbf3560c9cca64?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
-| ↳ | **[Show Set Design Intern](https://jobright.ai/jobs/info/691800e745fb6f5ead8a0cb4?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
+| **[AOA](https://www.insideaoa.com/)** | **[Show Set Design Intern](https://jobright.ai/jobs/info/691800e745fb6f5ead8a0cb4?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6917eba6bcdbf3560c9cca64?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | ↳ | **[Concept Design Intern- East Coast](https://jobright.ai/jobs/info/6917f12745fb6f5ead8a016c?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | **[Crawford Models](https://www.crawfordmodels.com)** | **[Graphic Designer Intern for Modeling Agency](https://jobright.ai/jobs/info/6917be7345fb6f5ead89e272?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/6917e169bcdbf3560c9cc434?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Nov 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9225fa628d10664e8991b?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Nov 13 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f92d936de2db04dc3e64e2?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Nov 13 |
 | ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f9174d6de2db04dc3e550f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Nov 13 |
-| ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f92c0a6de2db04dc3e6254?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 13 |
-| ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9155d6de2db04dc3e5321?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
