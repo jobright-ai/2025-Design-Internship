@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RJMedex](https://rjmedex.com/)** | **[Sr UX/UI with Strong Backend Development Intern to Fulltime](https://jobright.ai/jobs/info/6919fd61bcdbf3560c9d7a44?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Nov 16 |
+| **[Boys Lie ](https://boyslieofficial.com)** | **[Design Intern](https://jobright.ai/jobs/info/6919f7db15b4156367187b89?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
 | **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68a8b166758f2e4ac3ff45c6?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern](https://jobright.ai/jobs/info/68cd40f2b2a74e1837ed471e?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Nov 16 |
 | **[Riserva Capital](https://www.riservacapital.com)** | **[Intern](https://jobright.ai/jobs/info/6919d8fabcdbf3560c9d759d?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69168ec19c388539cbdfcaa1?utm_campaign=1049&utm_source=git)** | Fulton, MD, US | On Site | Nov 13 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/69168c126f36db06ef057ad4?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Nov 13 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Intern - Research Web Design and Development Intern](https://jobright.ai/jobs/info/691685459c388539cbdfc318?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Nov 13 |
-| **[Uline](http://www.uline.com)** | **[Photography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9d00f7b89366816034689?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 13 |
-| **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern (Juicy Couture)](https://jobright.ai/jobs/info/6917916ebcdbf3560c9c8f05?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
