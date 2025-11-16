@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deeplocal](http://deeplocal.com)** | **[Design Intern](https://jobright.ai/jobs/info/6919538815b4156367185134?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 15 |
 | **[Signal Theory Inc.](https://www.signaltheory.com)** | **[Art Director Internship](https://jobright.ai/jobs/info/691920e115b41563671844da?utm_campaign=1049&utm_source=git)** | Kansas City, Kansas City, MO, US | On Site | Nov 15 |
 | **[Neuraci Labs](www.neuraci.com)** | **[Textile Design Intern](https://jobright.ai/jobs/info/6918c90515b4156367183b20?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbfa7c93c49825ab108452?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 13 |
 | **[KROST](https://krostnewyork.com)** | **[Graphic Design/Content Intern](https://jobright.ai/jobs/info/691670799c388539cbdfb4cb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Intern - Research Web Design and Development Intern](https://jobright.ai/jobs/info/69167db2286ccf0a1513692f?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
-| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Image Database Curator](https://jobright.ai/jobs/info/691646686f36db06ef054811?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
