@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Studio AR&D Architects](http://www.studio-ard.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/691a382515b415636718824c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
+| **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Nov 16 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/691a3449bcdbf3560c9d7ffa?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Nov 16 |
+| ↳ | **[Color, Material, and Finish (CMF) Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/691a30ea45fb6f5ead8ab2f2?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 16 |
+| **[Kids in the Game ](http://kidsinthegame.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/691a30d215b415636718819e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 16 |
 | **[Oxford University Clinical Research Unit](http://www.oucru.org)** | **[Web Design Intern/Volunteer (CONNECT website) (JDHAN-1025-008)](https://jobright.ai/jobs/info/691a1def15b4156367187ed0?utm_campaign=1049&utm_source=git)** | Indiana, United States | Hybrid | Nov 16 |
 | **[AaronBux Asset Management Firm LLC](www.AaronBux.com)** | **[UI Designer / Lead (Internship/Co-op/Returnship) – Remote / Fractional Investment Fintech Startup](https://jobright.ai/jobs/info/691a17a9bcdbf3560c9d7c3a?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 16 |
 | **[RJMedex](https://rjmedex.com/)** | **[Sr UX/UI with Strong Backend Development Intern to Fulltime](https://jobright.ai/jobs/info/6919fd61bcdbf3560c9d7a44?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Nov 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68faddc63c99cc1d96026f52?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Nov 14 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68fadc6f8d32c164778cc049?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Nov 14 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68a7bf9fd627244576e2e60f?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Nov 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/68984bee5574fd6bc0c77429?utm_campaign=1049&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
-| **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Nov 13 |
-| **[Reveal Global Consulting](https://www.revealgc.com)** | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69169d226f36db06ef058556?utm_campaign=1049&utm_source=git)** | Fulton, MD | On Site | Nov 13 |
-| ↳ | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69168ec19c388539cbdfcaa1?utm_campaign=1049&utm_source=git)** | Fulton, MD, US | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
