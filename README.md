@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oxford University Clinical Research Unit](http://www.oucru.org)** | **[Web Design Intern/Volunteer (CONNECT website) (JDHAN-1025-008)](https://jobright.ai/jobs/info/691a1def15b4156367187ed0?utm_campaign=1049&utm_source=git)** | Indiana, United States | Hybrid | Nov 16 |
+| **[AaronBux Asset Management Firm LLC](www.AaronBux.com)** | **[UI Designer / Lead (Internship/Co-op/Returnship) – Remote / Fractional Investment Fintech Startup](https://jobright.ai/jobs/info/691a17a9bcdbf3560c9d7c3a?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 16 |
 | **[RJMedex](https://rjmedex.com/)** | **[Sr UX/UI with Strong Backend Development Intern to Fulltime](https://jobright.ai/jobs/info/6919fd61bcdbf3560c9d7a44?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Nov 16 |
 | **[Boys Lie ](https://boyslieofficial.com)** | **[Design Intern](https://jobright.ai/jobs/info/6919f7db15b4156367187b89?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
 | **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68a8b166758f2e4ac3ff45c6?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Nov 13 |
 | **[Reveal Global Consulting](https://www.revealgc.com)** | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69169d226f36db06ef058556?utm_campaign=1049&utm_source=git)** | Fulton, MD | On Site | Nov 13 |
 | ↳ | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69168ec19c388539cbdfcaa1?utm_campaign=1049&utm_source=git)** | Fulton, MD, US | On Site | Nov 13 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/69168c126f36db06ef057ad4?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Nov 13 |
-| **[Adobe](http://www.adobe.com)** | **[2026 University Intern - Research Web Design and Development Intern](https://jobright.ai/jobs/info/691685459c388539cbdfc318?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
