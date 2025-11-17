@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer (Memphis, TN)](https://jobright.ai/jobs/info/691ad76145fb6f5ead8ae334?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer Merchandise (Memphis, TN)](https://jobright.ai/jobs/info/691ac83745fb6f5ead8ad9ac?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68cee99ffb49c96ca6ea43d6?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Nov 17 |
+| **[GenPark](https://genpark.ai)** | **[Web Design Intern](https://jobright.ai/jobs/info/691af62922a2cb4b9bd0f900?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer Merchandise (Memphis, TN)](https://jobright.ai/jobs/info/691ad72f45fb6f5ead8ae323?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| ↳ | **[Summer 2026 Intern - Graphic Designer (Memphis, TN)](https://jobright.ai/jobs/info/691ad68445fb6f5ead8ae2f2?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Apparel Development Intern (High-End Streetwear)](https://jobright.ai/jobs/info/691a96bb45fb6f5ead8ac31e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691a517845fb6f5ead8ab58e?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 16 |
 | **[Studio AR&D Architects](http://www.studio-ard.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/691a382515b415636718824c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fast Company](http://www.fastcompany.com)** | **[Design Intern, Digital Product](https://jobright.ai/jobs/info/69179ae915b4156367179804?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Nov 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Spring 2026)](https://jobright.ai/jobs/info/68ecfcf06335d332361248da?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Nov 14 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fac4b3edd1901442390a5f?utm_campaign=1049&utm_source=git)** | Vestavia Hills, AL | Hybrid | Nov 14 |
-| **[Kuvare Holdings](http://kuvare.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faad7dedd190144238fd40?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Nov 14 |
-| **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68cdc1aeb2a74e1837edbf0d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
