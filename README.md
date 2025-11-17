@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer (Memphis, TN)](https://jobright.ai/jobs/info/691ad76145fb6f5ead8ae334?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer Merchandise (Memphis, TN)](https://jobright.ai/jobs/info/691ac83745fb6f5ead8ad9ac?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
-| **[Tive](https://tive.com)** | **[Product Design Co-Op](https://jobright.ai/jobs/info/691a9bae15b41563671894be?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Nov 16 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Apparel Development Intern (High-End Streetwear)](https://jobright.ai/jobs/info/691a96bb45fb6f5ead8ac31e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691a517845fb6f5ead8ab58e?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 16 |
 | **[Studio AR&D Architects](http://www.studio-ard.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/691a382515b415636718824c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
@@ -109,8 +109,10 @@ For a complete list, click the following sortable link below:
 | **[SeatGeek](https://seatgeek.com)** | **[UX Design - Internship](https://jobright.ai/jobs/info/68e0345f1852e62f007e8991?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/68e02dcab99ec3563b0cce35?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 15 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Graphic Design](https://jobright.ai/jobs/info/69184f30bcdbf3560c9d156f?utm_campaign=1049&utm_source=git)** | Gulfport, MS | On Site | Nov 15 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / St. Paul, MN](https://jobright.ai/jobs/info/691ae87045fb6f5ead8aed36?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Nov 15 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Spring 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/69183efdbcdbf3560c9d03f4?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 15 |
 | ↳ | **[Spring 2026 DNC Design Internship](https://jobright.ai/jobs/info/69183eef15b4156367180549?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 15 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Richmond, VA](https://jobright.ai/jobs/info/691ae12d15b415636718b751?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Nov 15 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Graphic Design](https://jobright.ai/jobs/info/6918281fbcdbf3560c9cf123?utm_campaign=1049&utm_source=git)** | Hancock Whitney Plaza - Gulfport, MS | On Site | Nov 14 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Columbus, OH](https://jobright.ai/jobs/info/691accf1bcdbf3560c9da9be?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Nov 14 |
 | **[Data Visualization Society](https://www.datavisualizationsociety.com/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/6918108315b415636717e55c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 14 |
@@ -123,10 +125,9 @@ For a complete list, click the following sortable link below:
 | **[AOA](https://www.insideaoa.com/)** | **[Concept Design Intern- West Coast](https://jobright.ai/jobs/info/6917d7d315b415636717c162?utm_campaign=1049&utm_source=git)** | Burbank,CA,US | On Site | Nov 14 |
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6917f35315b415636717d222?utm_campaign=1049&utm_source=git)** | Waterloo, Wisconsin | On Site | Nov 14 |
 | **[AOA](https://www.insideaoa.com/)** | **[Graphic Design Intern- TN](https://jobright.ai/jobs/info/6917cfe515b415636717bc82?utm_campaign=1049&utm_source=git)** | Nashville,TN,US | On Site | Nov 14 |
-| **[Habits 365](habits365.com)** | **[College Fitness Line Intern (Women’s Focus)](https://jobright.ai/jobs/info/6917c58e45fb6f5ead89e85c?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 14 |
-| **[AOA](https://www.insideaoa.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6917eba6bcdbf3560c9cca64?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | ↳ | **[Show Set Design Intern](https://jobright.ai/jobs/info/691800e745fb6f5ead8a0cb4?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | ↳ | **[Concept Design Intern- East Coast](https://jobright.ai/jobs/info/6917f12745fb6f5ead8a016c?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6917eba6bcdbf3560c9cca64?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | **[Crawford Models](https://www.crawfordmodels.com)** | **[Graphic Designer Intern for Modeling Agency](https://jobright.ai/jobs/info/6917be7345fb6f5ead89e272?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/6917e169bcdbf3560c9cc434?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Nov 14 |
 | **[Treme-Parker](https://www.tremeparker.com)** | **[Unpaid Graphic Design Marketing Intern](https://jobright.ai/jobs/info/6917b3e415b415636717a9cf?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Nov 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fac4b3edd1901442390a5f?utm_campaign=1049&utm_source=git)** | Vestavia Hills, AL | Hybrid | Nov 14 |
 | **[Kuvare Holdings](http://kuvare.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faad7dedd190144238fd40?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Nov 14 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68cdc1aeb2a74e1837edbf0d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Digital Content Creation Intern (Masters)](https://jobright.ai/jobs/info/68ccff47d11b445e0bee5cf9?utm_campaign=1049&utm_source=git)** | Mettawa, IL | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
