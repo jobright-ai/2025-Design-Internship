@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/691b593715b415636718e471?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 17 |
+| **[Distribution International](http://www.distributioninternational.com/)** | **[Design Dept. Intern](https://jobright.ai/jobs/info/691b548822a2cb4b9bd117cb?utm_campaign=1049&utm_source=git)** | North Tonawanda, NY | On Site | Nov 17 |
+| **[Erie Events](https://www.erieevents.com/)** | **[Creative Content & Graphic Design Intern](https://jobright.ai/jobs/info/691b511715b415636718e124?utm_campaign=1049&utm_source=git)** | Erie, PA | On Site | Nov 17 |
+| **[The Creative Agency](https://thecreativeagencyco.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/691b506a15b415636718e0ff?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Nov 17 |
+| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/691b464b15b415636718dc29?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Nov 17 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/691b428515b415636718daa5?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Nov 17 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/691b365315b415636718d674?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 17 |
 | **[Pond & Company](https://www.pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Nov 17 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69176fc0bcdbf3560c9c7b4e?utm_campaign=1049&utm_source=git)** | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | On Site | Nov 14 |
 | **[Weigel Broadcasting Co.](https://www.weigelbroadcasting.com/)** | **[Post Production Intern](https://jobright.ai/jobs/info/69178c2e15b4156367178e1d?utm_campaign=1049&utm_source=git)** | Chicago,IL,US | On Site | Nov 14 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern (Juicy Couture)](https://jobright.ai/jobs/info/69176c383ea85638ae1ca814?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Nov 14 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Creative Design Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def79144d32141e0c045cd?utm_campaign=1049&utm_source=git)** | Green Bay, WI | Hybrid | Nov 14 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Outlet Design](https://jobright.ai/jobs/info/6917698dbcdbf3560c9c77a1?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Nov 14 |
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[STUDENT ASSISTANT - PHOTO EDITOR - FOGHORN NEWS POOL](https://jobright.ai/jobs/info/691796c5bcdbf3560c9c92fa?utm_campaign=1049&utm_source=git)** | Corpus Christi, TX | On Site | Nov 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Assistant Design Intern - Accessories - Global Product Creation Intern, Spring 2026](https://jobright.ai/jobs/info/691761ff3ea85638ae1ca25f?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | Hybrid | Nov 14 |
 | **[Agile Space Industries](http://agilespaceindustries.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/6917b9bb15b415636717aeed?utm_campaign=1049&utm_source=git)** | Durango, CO | On Site | Nov 14 |
-| **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/691748913ea85638ae1c9819?utm_campaign=1049&utm_source=git)** | Cleveland, OH | Hybrid | Nov 14 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c5185cdb52c07d28840fcc?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Nov 14 |
-| **[Fast Company](http://www.fastcompany.com)** | **[Design Intern, Digital Product](https://jobright.ai/jobs/info/69179ae915b4156367179804?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Nov 14 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Spring 2026)](https://jobright.ai/jobs/info/68ecfcf06335d332361248da?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
