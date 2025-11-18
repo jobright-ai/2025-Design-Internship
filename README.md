@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Four Hands](https://fourhands.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/691bb3c915b4156367191ced?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Nov 17 |
+| **[The Cultural Calendar](theculturalcalendar.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/691bb32915b4156367191c5f?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Nov 17 |
 | **[H7 BioCapital](https://h7biocapital.com)** | **[Graphic Design Internship (Remote)](https://jobright.ai/jobs/info/691b928cbcdbf3560c9e0327?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 17 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - R&D Design Intern](https://jobright.ai/jobs/info/691bb0ab22a2cb4b9bd1500c?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Nov 17 |
 | **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/691b8ae315b4156367190082?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Nov 17 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/691b869f15b415636718fd7a?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Nov 17 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern (May – August 2026)](https://jobright.ai/jobs/info/691bb396bcdbf3560c9e1a01?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 17 |
+| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Architecture](https://jobright.ai/jobs/info/691bb3bf22a2cb4b9bd15202?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Nov 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Assistant Design Intern - Accessories - Global Product Creation Intern, Spring 2026](https://jobright.ai/jobs/info/691b760b22a2cb4b9bd128b4?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Nov 17 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/691b75d422a2cb4b9bd12882?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Nov 17 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/691b7380bcdbf3560c9def0c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 17 |
@@ -77,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[The Creative Agency](https://thecreativeagencyco.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/691b506a15b415636718e0ff?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Nov 17 |
 | **[Amptier Inc](https://amptier.net/)** | **[UI/UX Intern](https://jobright.ai/jobs/info/691b6e7815b415636718effd?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Par5](https://par5.io)** | **[Graphic Design and Content Intern](https://jobright.ai/jobs/info/691b6ac822a2cb4b9bd123b3?utm_campaign=1049&utm_source=git)** | Hoboken, NJ | Hybrid | Nov 17 |
-| **[Blossom and Bloom Interiors + Events](www.blossomandbloominteriors.com)** | **[Content Creation & Multimedia Intern](https://jobright.ai/jobs/info/691b63ae22a2cb4b9bd11f90?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/691b428515b415636718daa5?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Nov 17 |
 | **[Pond & Company](https://www.pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Nov 17 |
 | **[Tive](https://tive.com)** | **[Product Design Co-Op](https://jobright.ai/jobs/info/691b325222a2cb4b9bd10a7e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 17 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Concept Design Intern- East Coast](https://jobright.ai/jobs/info/6917f12745fb6f5ead8a016c?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6917eba6bcdbf3560c9cca64?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | ↳ | **[Show Set Design Intern](https://jobright.ai/jobs/info/691800e745fb6f5ead8a0cb4?utm_campaign=1049&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
-| **[Crawford Models](https://www.crawfordmodels.com)** | **[Graphic Designer Intern for Modeling Agency](https://jobright.ai/jobs/info/6917be7345fb6f5ead89e272?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/6917e169bcdbf3560c9cc434?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Nov 14 |
 | **[Treme-Parker](https://www.tremeparker.com)** | **[Unpaid Graphic Design Marketing Intern](https://jobright.ai/jobs/info/6917b3e415b415636717a9cf?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Nov 14 |
-| **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Co-Op/Intern, Product Design](https://jobright.ai/jobs/info/6917cda715b415636717bad7?utm_campaign=1049&utm_source=git)** | Location, WV | On Site | Nov 14 |
-| **[Pennant Digital](https://pennantdigital.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6917cb1245fb6f5ead89ea92?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 14 |
-| **[LSG](https://locuststreet.com)** | **[Intern - Graphic Design and Visual Communications](https://jobright.ai/jobs/info/6917d58a15b415636717bf81?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
