@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DemaDose](https://www.linkedin.com/company/107191997)** | **[Motion Graphic Designer](https://jobright.ai/jobs/info/691c097615b4156367195775?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 17 |
+| **[Endeavor Air](http://www.endeavorair.com/)** | **[Visual Media Intern](https://jobright.ai/jobs/info/691c08fa22a2cb4b9bd18ad0?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 17 |
 | **[VITA ESTATES](vitaestates.com)** | **[Web Flow Designer Intern l Luxury Real Estate and lifestyle brand](https://jobright.ai/jobs/info/691bf2cf15b4156367194779?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | Hybrid | Nov 17 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Color Raw Materials Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/691bf27b22a2cb4b9bd17c8f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 17 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Visual Media Intern](https://jobright.ai/jobs/info/691bf1c2bcdbf3560c9e4370?utm_campaign=1049&utm_source=git)** | US-MN-Minneapolis | On Site | Nov 17 |
@@ -66,10 +68,10 @@ For a complete list, click the following sortable link below:
 | **[Amperity](https://amperity.com)** | **[Product Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/691bf841bcdbf3560c9e493a?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Nov 17 |
 | **[SolidSky](www.solid-sky.com)** | **[Brand / Visual Design Intern](https://jobright.ai/jobs/info/691bc51122a2cb4b9bd15eab?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Designer Intern - Summer 2026](https://jobright.ai/jobs/info/691bb83e22a2cb4b9bd15564?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Nov 17 |
+| **[Four Hands](https://fourhands.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/691bb3c915b4156367191ced?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Nov 17 |
 | **[The Cultural Calendar](theculturalcalendar.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/691bb32915b4156367191c5f?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Nov 17 |
 | **[Nike](http://www.nike.com)** | **[Jordan Design Undergraduate Internship](https://jobright.ai/jobs/info/691be36822a2cb4b9bd17251?utm_campaign=1049&utm_source=git)** | Beaverton, Oregon | On Site | Nov 17 |
 | **[H7 BioCapital](https://h7biocapital.com)** | **[Graphic Design Internship (Remote)](https://jobright.ai/jobs/info/691b928cbcdbf3560c9e0327?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 17 |
-| **[Four Hands](https://fourhands.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/691bbf5615b41563671924ed?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Nov 17 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - R&D Design Intern](https://jobright.ai/jobs/info/691bb0ab22a2cb4b9bd1500c?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Nov 17 |
 | **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/691b8ae315b4156367190082?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Nov 17 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/691b869f15b415636718fd7a?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Nov 17 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/691b7380bcdbf3560c9def0c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 17 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Graphic Designers](https://jobright.ai/jobs/info/691b721022a2cb4b9bd126e0?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Nov 17 |
 | **[Distribution International](http://www.distributioninternational.com/)** | **[Design Dept. Intern](https://jobright.ai/jobs/info/691b91b815b4156367190611?utm_campaign=1049&utm_source=git)** | North Tonawanda, NY | On Site | Nov 17 |
-| **[Zebrosys](www.zebrosys.com)** | **[Creative + Social Media Mentee](https://jobright.ai/jobs/info/691b6bce15b415636718eeb8?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 17 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/691b909915b415636719050c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 17 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Architectural Designer Intern - Summer 2026](https://jobright.ai/jobs/info/691b8bde15b415636719015a?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Nov 17 |
 | ↳ | **[Landscape Architecture Intern – Spring 2026](https://jobright.ai/jobs/info/691b8f8fbcdbf3560c9e020b?utm_campaign=1049&utm_source=git)** | Henderson, NV | On Site | Nov 17 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Erie Events](https://www.erieevents.com/)** | **[Creative Content & Graphic Design Intern](https://jobright.ai/jobs/info/691b511715b415636718e124?utm_campaign=1049&utm_source=git)** | Erie, PA | On Site | Nov 17 |
 | **[The Creative Agency](https://thecreativeagencyco.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/691b506a15b415636718e0ff?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Nov 17 |
 | **[Amptier Inc](https://amptier.net/)** | **[UI/UX Intern](https://jobright.ai/jobs/info/691b6e7815b415636718effd?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 17 |
-| **[Par5](https://par5.io)** | **[Graphic Design and Content Intern](https://jobright.ai/jobs/info/691b6ac822a2cb4b9bd123b3?utm_campaign=1049&utm_source=git)** | Hoboken, NJ | Hybrid | Nov 17 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/691b428515b415636718daa5?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Nov 17 |
 | **[Pond & Company](https://www.pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Nov 17 |
 | **[Tive](https://tive.com)** | **[Product Design Co-Op](https://jobright.ai/jobs/info/691b325222a2cb4b9bd10a7e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 17 |
