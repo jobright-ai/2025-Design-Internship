@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Project 8p Foundation](https://project8p.org)** | **[Graphic Design & Digital Storytelling Intern](https://jobright.ai/jobs/info/691d4632bcdbf3560c9ef525?utm_campaign=1049&utm_source=git)** | Massachusetts, United States | Remote | Nov 18 |
+| **[Nike](http://www.nike.com)** | **[Nike Inc. Global Brand Creative, Brand Experience & Content Creation Undergraduate Internship](https://jobright.ai/jobs/info/691d40867481340785ed57f4?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 18 |
+| **[lululemon](http://shop.lululemon.com)** | **[Design Intern - Accessories - Socks & Headwear / Contract June - August 2026](https://jobright.ai/jobs/info/691d3d99bcdbf3560c9eea39?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 18 |
 | **[Zoox](https://www.zoox.com/)** | **[Design Systems Intern](https://jobright.ai/jobs/info/691d31260b7dff7341500b3e?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Nov 18 |
+| **[The New York Times](https://www.nytco.com/)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/691d4c800b7dff73415022b3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 18 |
+| **[lululemon](http://shop.lululemon.com)** | **[Design Intern - Men's / Contract June - August 2026](https://jobright.ai/jobs/info/691d4a730b7dff7341502168?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 18 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Graphic and Interactive Design Intern](https://jobright.ai/jobs/info/691d250f7481340785ed4457?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Nov 18 |
 | **[The Andersons, Inc.](http://www.andersonsinc.com)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/691d398fbcdbf3560c9ee5f4?utm_campaign=1049&utm_source=git)** | Maumee, OH | On Site | Nov 18 |
 | **[WindBorne Systems](https://windbornesystems.com)** | **[Creative Intern](https://jobright.ai/jobs/info/691d308cbcdbf3560c9ee050?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Nov 18 |
@@ -142,8 +147,7 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/691b7380bcdbf3560c9def0c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 17 |
 | **[Distribution International](http://www.distributioninternational.com/)** | **[Design Dept. Intern](https://jobright.ai/jobs/info/691b91b815b4156367190611?utm_campaign=1049&utm_source=git)** | North Tonawanda, NY | On Site | Nov 17 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/691b909915b415636719050c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 17 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Architectural Designer Intern - Summer 2026](https://jobright.ai/jobs/info/691b8bde15b415636719015a?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Nov 17 |
-| ↳ | **[Architectural Intern – Summer 2026](https://jobright.ai/jobs/info/691b877922a2cb4b9bd13411?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Nov 17 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Architectural Intern – Summer 2026](https://jobright.ai/jobs/info/691b877922a2cb4b9bd13411?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Nov 17 |
 | **[Denver Botanic Gardens](http://www.botanicgardens.org)** | **[Native Plants and Urban Landscapes Internship, Intern](https://jobright.ai/jobs/info/691b875c15b415636718fdf6?utm_campaign=1049&utm_source=git)** | Denver,CO,US | On Site | Nov 17 |
 | **[Distribution International](http://www.distributioninternational.com/)** | **[Design Dept. Intern](https://jobright.ai/jobs/info/691b548822a2cb4b9bd117cb?utm_campaign=1049&utm_source=git)** | North Tonawanda, NY | On Site | Nov 17 |
 | **[Erie Events](https://www.erieevents.com/)** | **[Creative Content & Graphic Design Intern](https://jobright.ai/jobs/info/691b511715b415636718e124?utm_campaign=1049&utm_source=git)** | Erie, PA | On Site | Nov 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pond & Company](https://www.pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/671ffc9e57291484c9ba4fba?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Nov 17 |
 | **[Tive](https://tive.com)** | **[Product Design Co-Op](https://jobright.ai/jobs/info/691b325222a2cb4b9bd10a7e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 17 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68cee99ffb49c96ca6ea43d6?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer Merchandise (Memphis, TN)](https://jobright.ai/jobs/info/691ad72f45fb6f5ead8ae323?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
-| ↳ | **[Summer 2026 Intern - Graphic Designer (Memphis, TN)](https://jobright.ai/jobs/info/691ad68445fb6f5ead8ae2f2?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Data Visualization Intern - iDeas Lab (Spring 2026)](https://jobright.ai/jobs/info/691a517845fb6f5ead8ab58e?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 16 |
-| **[Studio AR&D Architects](http://www.studio-ard.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/691a382515b415636718824c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
