@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[User Interface Intern](https://jobright.ai/jobs/info/691eac883f782d2f1afb6641?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
-| ↳ | **[User Experience Intern](https://jobright.ai/jobs/info/691eac3509cc522e8773b792?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
+| **[GenPark](https://genpark.ai)** | **[UI/UX Intern](https://jobright.ai/jobs/info/691eca0409cc522e8773c1ef?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Nov 19 |
 | **[Cristina Ruales Co.](http://www.cristinaruales.com/)** | **[Web Design, Graphics Intern](https://jobright.ai/jobs/info/691e86023f782d2f1afb594d?utm_campaign=1049&utm_source=git)** | Waterford, CT | Remote | Nov 19 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Summer Internship - Publishing Operations/Cover Production Design](https://jobright.ai/jobs/info/691e73bf3f782d2f1afb4b68?utm_campaign=1049&utm_source=git)** | Naperville, IL | Hybrid | Nov 19 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Motion Design, Social Intern](https://jobright.ai/jobs/info/691e73a73f782d2f1afb4b4c?utm_campaign=1049&utm_source=git)** | Costa Mesa, California, United States | On Site | Nov 19 |
@@ -131,8 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/691d03d922a2cb4b9bd1fd4b?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Nov 18 |
 | **[Atelier Arielle](www.atelierarielle.com)** | **[Design Internship](https://jobright.ai/jobs/info/691dc01c61dc50590a649ccc?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Nov 18 |
 | **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/691d005ebcdbf3560c9ec2fc?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 18 |
-| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Brand Creative Studio: Brand Strategy & AI Research](https://jobright.ai/jobs/info/691cdea0bcdbf3560c9eaa30?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
-| ↳ | **[Summer Intern, XQ Institute: Product Designer](https://jobright.ai/jobs/info/691ce34422a2cb4b9bd1e485?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Nov 18 |
+| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, XQ Institute: Product Designer](https://jobright.ai/jobs/info/691ce34422a2cb4b9bd1e485?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Brand Creative Studio: Design](https://jobright.ai/jobs/info/691ce19b22a2cb4b9bd1e33c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
 | **[The New York Times Company](https://www.nytco.com)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/691d1a517481340785ed3c49?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[lululemon](http://shop.lululemon.com)** | **[Design Intern - Women's Athletic / Contract June - August 2026](https://jobright.ai/jobs/info/691cf4eeff7024498416c3da?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 18 |
@@ -144,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Brand Creative Studio: Production](https://jobright.ai/jobs/info/691cd839ff7024498416afed?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
 | ↳ | **[Summer Intern, XQ Institute: Product Designer](https://jobright.ai/jobs/info/691cd673ff7024498416ae99?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Nov 18 |
 | **[The Third Cartel](http://www.thethirdcartel.com)** | **[Creative Assistant Internship](https://jobright.ai/jobs/info/691d1aff0b7dff73414ffcc1?utm_campaign=1049&utm_source=git)** | Westland, MI | On Site | Nov 18 |
-| **[IBM](http://www.ibm.com)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/691cf44bff7024498416c31a?utm_campaign=1049&utm_source=git)** | Tucson, AZ | Hybrid | Nov 18 |
-| ↳ | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/691d0b8fff7024498416d52d?utm_campaign=1049&utm_source=git)** | Research Park, CA | Hybrid | Nov 18 |
+| **[IBM](http://www.ibm.com)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/691d0b8fff7024498416d52d?utm_campaign=1049&utm_source=git)** | Research Park, CA | Hybrid | Nov 18 |
+| ↳ | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/691cf44bff7024498416c31a?utm_campaign=1049&utm_source=git)** | Tucson, AZ | Hybrid | Nov 18 |
 | ↳ | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/691d1ef8bcdbf3560c9ed647?utm_campaign=1049&utm_source=git)** | Poughkeepsie, AR | Hybrid | Nov 18 |
 | ↳ | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/691d049cbcdbf3560c9ec64b?utm_campaign=1049&utm_source=git)** | Rochester, MN | Hybrid | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Brand Creative Studio: Production](https://jobright.ai/jobs/info/691cd2d022a2cb4b9bd1d9d3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Intrigue Design & Events](http://www.Intrigueevents.com)** | **[Spring 2026 Event Planning Internship](https://jobright.ai/jobs/info/691d0bac22a2cb4b9bd203a9?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Nov 18 |
 | **[Riot Games](http://www.riotgames.com)** | **[3D Environment Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909268f4a1b456627afd450?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 18 |
 | ↳ | **[Technical Game Design Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909253cbcccf20de59d7e3c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 18 |
+| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Brand Creative Studio: Brand Strategy & AI Research](https://jobright.ai/jobs/info/691ce7f8ff7024498416ba03?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
+| ↳ | **[Summer Intern, Brand Creative Studio: Brand Strategy & Research](https://jobright.ai/jobs/info/691ce54dbcdbf3560c9eaf22?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
