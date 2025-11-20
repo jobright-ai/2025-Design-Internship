@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cristina Ruales Co.](http://www.cristinaruales.com/)** | **[Web Design, Graphics Intern](https://jobright.ai/jobs/info/691e86023f782d2f1afb594d?utm_campaign=1049&utm_source=git)** | Waterford, CT | Remote | Nov 19 |
+| **[Sourcebooks](http://www.sourcebooks.com/)** | **[Summer Internship - Publishing Operations/Cover Production Design](https://jobright.ai/jobs/info/691e73bf3f782d2f1afb4b68?utm_campaign=1049&utm_source=git)** | Naperville, IL | Hybrid | Nov 19 |
+| **[Anduril Industries](https://www.anduril.com)** | **[Motion Design, Social Intern](https://jobright.ai/jobs/info/691e73a73f782d2f1afb4b4c?utm_campaign=1049&utm_source=git)** | Costa Mesa, California, United States | On Site | Nov 19 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Summer Internship - Stonefruit Editorial/Marketing & Publicity/Design](https://jobright.ai/jobs/info/691e707509cc522e87739b12?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
-| **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/691e586809cc522e87739353?utm_campaign=1049&utm_source=git)** | 205 North Michigan Avenue, Chicago, IL, 60601, US | On Site | Nov 19 |
+| **[DECIEM | THE ABNORMAL BEAUTY COMPANY](http://deciem.com)** | **[Intern, Website Experience - Global](https://jobright.ai/jobs/info/691e7cdc09cc522e8773a4f2?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 19 |
+| **[Q Prime Artist Management](http://qprime.com)** | **[Video Editing Intern](https://jobright.ai/jobs/info/691e7d143f782d2f1afb53b8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Design Intern](https://jobright.ai/jobs/info/691e5698a49a885af9a27ca5?utm_campaign=1049&utm_source=git)** | Palo Alto, CA or Bellevue, WA | Hybrid | Nov 19 |
+| **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/691e545fa49a885af9a27b7a?utm_campaign=1049&utm_source=git)** | 205 North Michigan Avenue, Chicago, IL, 60601, US | On Site | Nov 19 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Architecture](https://jobright.ai/jobs/info/691e503009cc522e87738cf3?utm_campaign=1049&utm_source=git)** | Bettendorf, IA | Hybrid | Nov 19 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Architecture Intern - Healthcare Design](https://jobright.ai/jobs/info/691e4ad4a49a885af9a274e6?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Nov 19 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/691e4745a49a885af9a271ba?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Nov 19 |
+| **[Big Ass Fans](http://www.bigassfans.com)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/691e7b263f782d2f1afb519a?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Nov 19 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[UX Design Intern (Unpaid)](https://jobright.ai/jobs/info/691e3e85a49a885af9a26cc2?utm_campaign=1049&utm_source=git)** | Berkeley, CA | On Site | Nov 19 |
 | **[Passero Associates](http://passero.com)** | **[Architecture Co-op/Intern](https://jobright.ai/jobs/info/691e39b909cc522e87737d1b?utm_campaign=1049&utm_source=git)** | St. Augustine, FL, US | On Site | Nov 19 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Television Entertainment Group Digital and Design Internships – Summer 2026](https://jobright.ai/jobs/info/691e34cc3f782d2f1afb260d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Brand Creative Studio: Production](https://jobright.ai/jobs/info/691cd2d022a2cb4b9bd1d9d3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
 | **[IBM](http://www.ibm.com)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/691cec1b22a2cb4b9bd1ec72?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, XQ Institute: Design Operations & Production](https://jobright.ai/jobs/info/691ccf71ff7024498416a943?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Nov 18 |
-| **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/691cf48fff7024498416c369?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Nov 18 |
-| **[Bohler](https://bohlerengineering.com)** | **[Landscape Designer Intern - Summer 2026](https://jobright.ai/jobs/info/691d0714ff7024498416d149?utm_campaign=1049&utm_source=git)** | Westborough, MA | Hybrid | Nov 18 |
-| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, XQ Institute: Graphic Designer](https://jobright.ai/jobs/info/691d67fb7481340785ed7496?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Nov 18 |
-| ↳ | **[Summer Intern, XQ Institute: Creative Technologist](https://jobright.ai/jobs/info/691ce5e122a2cb4b9bd1e67f?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Nov 18 |
-| **[Intrigue Design & Events](http://www.Intrigueevents.com)** | **[Spring 2026 Event Planning Internship](https://jobright.ai/jobs/info/691d0bac22a2cb4b9bd203a9?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Nov 18 |
-| **[Riot Games](http://www.riotgames.com)** | **[3D Environment Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909268f4a1b456627afd450?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
