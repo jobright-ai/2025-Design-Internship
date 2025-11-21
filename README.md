@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ccf4a6d11b445e0bee4d31?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Nov 21 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Concept Art](https://jobright.ai/jobs/info/68e8a730cc49a84b7e10855b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Intern – UI/UX Designer (Summer 2026)](https://jobright.ai/jobs/info/68ced81adbd9fb154ede3246?utm_campaign=1049&utm_source=git)** | Downers Grove, IL | On Site | Nov 21 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - User Experience Research](https://jobright.ai/jobs/info/6903f12aff462851feff0eab?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 21 |
+| **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/68cc6f977342c7623ae64d04?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 21 |
+| **[Hypard Trading Corp](https://hypard.com)** | **[Paid Internship: Creative Ad Producer](https://jobright.ai/jobs/info/69205232a49a885af9a38940?utm_campaign=1049&utm_source=git)** | City of Industry, CA | On Site | Nov 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[UX Content Strategist Intern](https://jobright.ai/jobs/info/692024ce3f782d2f1afc3324?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 21 |
 | **[Kinectrics](http://www.kinectrics.com)** | **[Multimedia Designer Co-op Student](https://jobright.ai/jobs/info/69200e87a49a885af9a363cc?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 20 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical UX Content Strategist Intern](https://jobright.ai/jobs/info/69203d0500c9ee50eaec089e?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Keeler & Co. Interior Design](http://www.keelerandco.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/691df4b3a49a885af9a22e91?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 19 |
 | **[Leverage Football](https://www.leveragefootball.com/)** | **[Social Media Design Intern](https://jobright.ai/jobs/info/691f2462a49a885af9a2c841?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 19 |
 | **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, 3D Technical Coordinator](https://jobright.ai/jobs/info/691e188c09cc522e87736369?utm_campaign=1049&utm_source=git)** | Chanhassen, MN | On Site | Nov 19 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Creative Operations Co-op (January through June)](https://jobright.ai/jobs/info/68cd63cf1ad6b16f02899063?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Nov 19 |
-| ↳ | **[Summer 2026: Industrial Design Intern (May to August)](https://jobright.ai/jobs/info/68cb5948efdec76df36bb83c?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Nov 19 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/68cce26c77add66568abb6a7?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
