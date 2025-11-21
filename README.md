@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Technical UX Content Strategist Intern](https://jobright.ai/jobs/info/691fde7ca49a885af9a34e42?utm_campaign=1049&utm_source=git)** | Hybrid | On Site | Nov 20 |
+| ↳ | **[UX Content Strategist Intern](https://jobright.ai/jobs/info/691fdc7aa49a885af9a34d32?utm_campaign=1049&utm_source=git)** | Hybrid | On Site | Nov 20 |
+| **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern, Product Design](https://jobright.ai/jobs/info/691fd9693f782d2f1afc0d10?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 20 |
+| **[Revvity](https://www.revvity.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/691fcce1a49a885af9a3436c?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Nov 20 |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Landscape Architect](https://jobright.ai/jobs/info/691fc76ca49a885af9a33ff0?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Nov 20 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
+| **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[K-12 Graphic Design Internship](https://jobright.ai/jobs/info/691fdc413f782d2f1afc0eac?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Nov 20 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Design Intern](https://jobright.ai/jobs/info/68eeccf5d078b81ad160f802?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Nov 20 |
 | **[Cencora](http://www.cencora.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/691fa2c609cc522e87743f46?utm_campaign=1049&utm_source=git)** | Carrollton, TX | On Site | Nov 20 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Graphic Design Intern](https://jobright.ai/jobs/info/68efae8e78ba1621431dfc3c?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 20 |
@@ -73,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Fashion Design Internship (Spring 2026)](https://jobright.ai/jobs/info/691f6b3a09cc522e87740f29?utm_campaign=1049&utm_source=git)** | New York,NY,US | On Site | Nov 20 |
 | **[Kahua](http://www.kahua.com)** | **[UX/UI Intern](https://jobright.ai/jobs/info/691f97623f782d2f1afbe60c?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Nov 20 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/691f962e09cc522e87743601?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
-| **[Athletes First](http://www.athletesfirst.net/)** | **[Summer 2026 Spring Graphic Design Intern](https://jobright.ai/jobs/info/691f66e109cc522e87740a34?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 20 |
 | **[Mosaic Development Partners JV](https://www.mosaicdp.com/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/691f80d03f782d2f1afbd104?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 20 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Creative Operations Intern (May to August)](https://jobright.ai/jobs/info/68cea715846f0b04af67c0d0?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Nov 20 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/6903ac68ff462851fefed659?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Nov 20 |
@@ -113,12 +118,14 @@ For a complete list, click the following sortable link below:
 | **[Big Ass Fans](http://www.bigassfans.com)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/691f2b34a49a885af9a2cb57?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Nov 20 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68e6b022e8daec61499ad6bb?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 20 |
+| **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Architecture Intern - Healthcare Design](https://jobright.ai/jobs/info/691fda65a49a885af9a34a39?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Nov 19 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Summer Internship - Publishing Operations/Cover Production Design](https://jobright.ai/jobs/info/691e73bf3f782d2f1afb4b68?utm_campaign=1049&utm_source=git)** | Naperville, IL | Hybrid | Nov 19 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Motion Design, Social Intern](https://jobright.ai/jobs/info/691e73a73f782d2f1afb4b4c?utm_campaign=1049&utm_source=git)** | Costa Mesa, California, United States | On Site | Nov 19 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Summer Internship - Stonefruit Editorial/Marketing & Publicity/Design](https://jobright.ai/jobs/info/691e707509cc522e87739b12?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 | **[Herbert, Rowland & Grubic, Inc. - HRG](https://www.hrg-inc.com)** | **[Intern / Landscape Architecture & Planning](https://jobright.ai/jobs/info/691fc0ee09cc522e8774512f?utm_campaign=1049&utm_source=git)** | Allentown, PA | Hybrid | Nov 19 |
 | **[DECIEM | THE ABNORMAL BEAUTY COMPANY](http://deciem.com)** | **[Intern, Website Experience - Global](https://jobright.ai/jobs/info/691e7cdc09cc522e8773a4f2?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 19 |
-| **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/691e586809cc522e87739353?utm_campaign=1049&utm_source=git)** | 205 North Michigan Avenue, Chicago, IL, 60601, US | On Site | Nov 19 |
+| **[Athletes First](http://www.athletesfirst.net/)** | **[Summer 2026 Spring Graphic Design Intern](https://jobright.ai/jobs/info/691fb94ba49a885af9a336a5?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
+| **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/691e544ea49a885af9a27b73?utm_campaign=1049&utm_source=git)** | 205 North Michigan Avenue, Chicago, IL, 60601, US | On Site | Nov 19 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Architecture](https://jobright.ai/jobs/info/691e503009cc522e87738cf3?utm_campaign=1049&utm_source=git)** | Bettendorf, IA | Hybrid | Nov 19 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/691e4745a49a885af9a271ba?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Nov 19 |
 | **[Passero Associates](http://passero.com)** | **[Architecture Co-op/Intern](https://jobright.ai/jobs/info/691e39b909cc522e87737d1b?utm_campaign=1049&utm_source=git)** | St. Augustine, FL, US | On Site | Nov 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Designer Intern - Summer 2026](https://jobright.ai/jobs/info/691e0db3a49a885af9a2433f?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Nov 19 |
 | ↳ | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/691df5aaa49a885af9a22f2e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec8f4ac26b9574506f397a?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Nov 19 |
-| **[Arbor Homes](https://yourarborhome.com/)** | **[End User Experience Intern](https://jobright.ai/jobs/info/68cc3db316d00d2beeb1c331?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Nov 19 |
-| **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68ca6ef25f9f0336447ddc24?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Nov 19 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Studio Production Artist Intern (May to August)](https://jobright.ai/jobs/info/68ca53a85f9f0336447dbdc7?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Nov 19 |
-| **[Behaviour Interactive](http://www.bhvr.com/)** | **[Motion Designer – Internship Winter 2026](https://jobright.ai/jobs/info/691dfd2d3f782d2f1afaf682?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 19 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[User Experience Communications Intern Summer 2026](https://jobright.ai/jobs/info/69018352d5259a1b3cff5a25?utm_campaign=1049&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 19 |
-| **[Burns Engineering, Inc.](http://burns-group.com)** | **[Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/69013ab1d5259a1b3cff3388?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 19 |
-| **[Epic Games](https://epicgames.com)** | **[Tech Art Intern](https://jobright.ai/jobs/info/69017c1f4539ea1f214205f1?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
