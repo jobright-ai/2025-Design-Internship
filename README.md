@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Concept Art](https://jobright.ai/jobs/info/68e8a730cc49a84b7e10855b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Intern – UI/UX Designer (Summer 2026)](https://jobright.ai/jobs/info/68ced81adbd9fb154ede3246?utm_campaign=1049&utm_source=git)** | Downers Grove, IL | On Site | Nov 21 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - User Experience Research](https://jobright.ai/jobs/info/6903f12aff462851feff0eab?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[UX Content Strategist Intern](https://jobright.ai/jobs/info/692024ce3f782d2f1afc3324?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 21 |
 | **[Kinectrics](http://www.kinectrics.com)** | **[Multimedia Designer Co-op Student](https://jobright.ai/jobs/info/69200e87a49a885af9a363cc?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 20 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Technical UX Content Strategist Intern](https://jobright.ai/jobs/info/69203d0500c9ee50eaec089e?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 20 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/691fe5c3a49a885af9a352ac?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/692006803f782d2f1afc248c?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | Nov 20 |
 | **[Cencora](http://www.cencora.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69201f02a49a885af9a36e3c?utm_campaign=1049&utm_source=git)** | Carrollton, TX | On Site | Nov 20 |
@@ -123,6 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Big Ass Fans](http://www.bigassfans.com)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/691f2b34a49a885af9a2cb57?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Nov 20 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68e6b022e8daec61499ad6bb?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 20 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69203b19a49a885af9a3791a?utm_campaign=1049&utm_source=git)** | Staunton, VA | On Site | Nov 20 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6920379500c9ee50eaec045c?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Nov 20 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69200eae09cc522e87747a90?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Nov 19 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Marketing & Design Internship (Talent Pool)](https://jobright.ai/jobs/info/692001453f782d2f1afc1ffd?utm_campaign=1049&utm_source=git)** | Rogers, AR | Hybrid | Nov 19 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Spring and Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/691ff14b09cc522e87746cd9?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Creative Operations Co-op (January through June)](https://jobright.ai/jobs/info/68cd63cf1ad6b16f02899063?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Nov 19 |
 | ↳ | **[Summer 2026: Industrial Design Intern (May to August)](https://jobright.ai/jobs/info/68cb5948efdec76df36bb83c?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Nov 19 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/68cce26c77add66568abb6a7?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Nov 19 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Design Engineering Intern, Advanced Development (May to August)](https://jobright.ai/jobs/info/68cc831d128dc347fd925fcc?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Nov 19 |
-| **[David Zwirner](http://www.davidzwirner.com/)** | **[Design Intern](https://jobright.ai/jobs/info/691e171b09cc522e87736173?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 19 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68cecf56dbd9fb154ede2fcc?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Nov 19 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Interior Design Projects](https://jobright.ai/jobs/info/68fcafc00ab3b2224629e71c?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Nov 19 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Advanced Development (January through June)](https://jobright.ai/jobs/info/68cd8320e23def7af55bb027?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Nov 19 |
-| ↳ | **[Summer 2026: CMF Industrial Design Intern (May to August)](https://jobright.ai/jobs/info/68cd5b73b2a74e1837ed5e03?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
