@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Urban Design/Landscape Planning Intern](https://jobright.ai/jobs/info/68d374448c62e63bc7fe152b?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Design Intern, Product](https://jobright.ai/jobs/info/6921830b3f782d2f1afd2a12?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | ↳ | **[Ralph Lauren Lauren Sweater Design Intern](https://jobright.ai/jobs/info/69217dd3d1ec2c3565c449c2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | ↳ | **[Ralph Lauren Performance Activewear Design intern](https://jobright.ai/jobs/info/69217bc2a49a885af9a461b2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
@@ -65,15 +66,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ralph Lauren Interior Design Intern](https://jobright.ai/jobs/info/692177fe3f782d2f1afd2531?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | ↳ | **[Ralph Lauren Brand Image Fashion & Resourcing Intern](https://jobright.ai/jobs/info/69217686d1ec2c3565c44580?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | ↳ | **[Ralph Lauren Womens Polo - Roughwear Outerwear & Bottoms Design Intern](https://jobright.ai/jobs/info/692176043f782d2f1afd245d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
+| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Collection Sweater Design Intern](https://jobright.ai/jobs/info/692186b4a49a885af9a46868?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
+| ↳ | **[Ralph Lauren Agency Creative Intern](https://jobright.ai/jobs/info/692187aaa49a885af9a468b2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/692141c300c9ee50eaecd233?utm_campaign=1049&utm_source=git)** | Ontario, Canada | On Site | Nov 21 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/69213bf400c9ee50eaecd0b3?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Nov 21 |
 | **[IPMD, Inc.](https://www.ipmdinc.com/)** | **[UI/UX, Graphic, Motion, and Art Designer Intern (Non-Paid Educational Internship Program)](https://jobright.ai/jobs/info/692134203f782d2f1afd0462?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Nov 21 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Graphic Design Co-op (Spring 2026) - Cincinnati, OH](https://jobright.ai/jobs/info/6921308e00c9ee50eaecc9d7?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Nov 21 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Graphic Design Internship (Unpaid)](https://jobright.ai/jobs/info/69211869a49a885af9a42deb?utm_campaign=1049&utm_source=git)** | Berkeley, CA | On Site | Nov 21 |
-| **[Boll & Branch](https://www.bollandbranch.com)** | **[CAD Design Intern](https://jobright.ai/jobs/info/6921134a3f782d2f1afcef25?utm_campaign=1049&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
+| **[Boll & Branch](https://www.bollandbranch.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6921185b3f782d2f1afcf2fc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
+| ↳ | **[CAD Design Intern](https://jobright.ai/jobs/info/6921134a3f782d2f1afcef25?utm_campaign=1049&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | ↳ | **[Visual Design Intern](https://jobright.ai/jobs/info/692111e6a49a885af9a42990?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | ↳ | **[CAD Design Intern](https://jobright.ai/jobs/info/692110b8a49a885af9a42847?utm_campaign=1049&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
-| ↳ | **[Visual Design Intern](https://jobright.ai/jobs/info/6921102b3f782d2f1afcecd8?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Art and Design Adjunct - Graphic Design](https://jobright.ai/jobs/info/69210dbe3f782d2f1afce9e9?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Nov 21 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development and Production Intern – SPT Nonfiction & IPC – Van Nuys](https://jobright.ai/jobs/info/6920f93aa49a885af9a41a01?utm_campaign=1049&utm_source=git)** | Van Nuys, California | On Site | Nov 21 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Lauren Sweater Design Intern](https://jobright.ai/jobs/info/6920e46300c9ee50eaec92f7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[InsideHook](http://www.insidehook.com)** | **[Marketing and Design Fellow](https://jobright.ai/jobs/info/691f6188a49a885af9a2f01c?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Nov 20 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/691f5e5fa49a885af9a2ece1?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/691f6c0709cc522e87741015?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
-| **[AARP](http://www.aarp.org)** | **[Design Thinking and Product Intern](https://jobright.ai/jobs/info/6902ae68ff462851fefe5af5?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 20 |
-| **[Respawn Entertainment](http://www.respawn.com/)** | **[UI Artist Intern (Apex Legends)](https://jobright.ai/jobs/info/691dc3b361dc50590a649feb?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 20 |
-| **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690298b700a1816c41ea0124?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
