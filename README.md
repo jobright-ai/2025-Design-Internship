@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revvity](https://www.revvity.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/692141c300c9ee50eaecd233?utm_campaign=1049&utm_source=git)** | Ontario, Canada | On Site | Nov 21 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/69213bf400c9ee50eaecd0b3?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Nov 21 |
+| **[IPMD, Inc.](https://www.ipmdinc.com/)** | **[UI/UX, Graphic, Motion, and Art Designer Intern (Non-Paid Educational Internship Program)](https://jobright.ai/jobs/info/692134203f782d2f1afd0462?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Nov 21 |
+| **[Messer Construction Co.](http://www.messer.com)** | **[Graphic Design Co-op (Spring 2026) - Cincinnati, OH](https://jobright.ai/jobs/info/6921308e00c9ee50eaecc9d7?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Nov 21 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Graphic Design Internship (Unpaid)](https://jobright.ai/jobs/info/69211869a49a885af9a42deb?utm_campaign=1049&utm_source=git)** | Berkeley, CA | On Site | Nov 21 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6921185b3f782d2f1afcf2fc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | ↳ | **[CAD Design Intern](https://jobright.ai/jobs/info/6921134a3f782d2f1afcef25?utm_campaign=1049&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
@@ -139,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Universal Television Entertainment Group Digital and Design Internships – Summer 2026](https://jobright.ai/jobs/info/691f667ba49a885af9a2f478?utm_campaign=1049&utm_source=git)** | Universal City, CA | On Site | Nov 20 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Spring and Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/68cfe2f5846f0b04af685d6e?utm_campaign=1049&utm_source=git)** | Toledo, OH | Hybrid | Nov 20 |
 | **[InsideHook](http://www.insidehook.com)** | **[Marketing and Design Fellow](https://jobright.ai/jobs/info/691f6188a49a885af9a2f01c?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Nov 20 |
-| **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/691f6c0709cc522e87741015?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
-| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/691f5dd809cc522e87740268?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
+| **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/691f5e5fa49a885af9a2ece1?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
+| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/691f6c0709cc522e87741015?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | **[AARP](http://www.aarp.org)** | **[Design Thinking and Product Intern](https://jobright.ai/jobs/info/6902ae68ff462851fefe5af5?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[UI Artist Intern (Apex Legends)](https://jobright.ai/jobs/info/691dc3b361dc50590a649feb?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 20 |
 | **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690298b700a1816c41ea0124?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | Hybrid | Nov 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altruist](https://altruist.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/68ce72e6846f0b04af67a158?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 20 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Summer Internship - Stonefruit Editorial/Marketing & Publicity/Design](https://jobright.ai/jobs/info/691f49ed09cc522e8773f1d8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | ↳ | **[Summer Internship - Publishing Operations/Cover Production Design](https://jobright.ai/jobs/info/691f4f8e3f782d2f1afba460?utm_campaign=1049&utm_source=git)** | Naperville, IL | On Site | Nov 20 |
-| **[M.C. Dean, Inc.](http://mcdean.com)** | **[Graphic Design Intern - 2025 - 2026 Season](https://jobright.ai/jobs/info/691f1276a49a885af9a2c101?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | Nov 20 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Interior Designer, Summer 2026](https://jobright.ai/jobs/info/6913939dd1047e3565d042de?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Nov 20 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cd11b81ad6b16f02894547?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Nov 20 |
-| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/690ddb8544146d3b6ec50356?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
