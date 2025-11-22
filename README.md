@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deca Defense](https://decadefense.com/)** | **[Internship: Digital Designer / Graphic Designer / Visual Design / ITAR / U.S.Citizen /](https://jobright.ai/jobs/info/6921f2cca49a885af9a47fe6?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 22 |
+| **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[Game Design Intern](https://jobright.ai/jobs/info/691e0acca49a885af9a24088?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 22 |
+| **[Zekelman Industries](http://www.zekelman.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/68cd95851ad6b16f0289bdc9?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Nov 22 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Women's Design Intern, Concept](https://jobright.ai/jobs/info/68e96e10f195760c354a9088?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Architecture Intern](https://jobright.ai/jobs/info/691558029c388539cbdf2b2f?utm_campaign=1049&utm_source=git)** | Waco, TX | Hybrid | Nov 22 |
 | **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68cc93477342c7623ae669a1?utm_campaign=1049&utm_source=git)** | Clayton, MO | Hybrid | Nov 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6905f94dff462851fe001fbb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |
@@ -83,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ralph Lauren Agency Creative Intern](https://jobright.ai/jobs/info/692187aaa49a885af9a468b2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/692141c300c9ee50eaecd233?utm_campaign=1049&utm_source=git)** | Ontario, Canada | On Site | Nov 21 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/69213bf400c9ee50eaecd0b3?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Nov 21 |
-| **[IPMD, Inc.](https://www.ipmdinc.com/)** | **[UI/UX, Graphic, Motion, and Art Designer Intern (Non-Paid Educational Internship Program)](https://jobright.ai/jobs/info/692134203f782d2f1afd0462?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Nov 21 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Graphic Design Co-op (Spring 2026) - Cincinnati, OH](https://jobright.ai/jobs/info/6921308e00c9ee50eaecc9d7?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Nov 21 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Graphic Design Internship (Unpaid)](https://jobright.ai/jobs/info/69211869a49a885af9a42deb?utm_campaign=1049&utm_source=git)** | Berkeley, CA | On Site | Nov 21 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6921185b3f782d2f1afcf2fc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Digital Production Intern](https://jobright.ai/jobs/info/6920b9ed3f782d2f1afcaa54?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Mosaic Development Partners JV](https://www.mosaicdp.com/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/691f80d03f782d2f1afbd104?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 20 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Creative Operations Intern (May to August)](https://jobright.ai/jobs/info/68cea715846f0b04af67c0d0?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Nov 20 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/6903ac68ff462851fefed659?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Nov 20 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Planning Design & Construction Interior Design Intern](https://jobright.ai/jobs/info/691f51ef09cc522e8773f879?utm_campaign=1049&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 20 |
-| **[Chiappetta Shoes Inc](http://www.chiappettashoes.com)** | **[Part Time Content Creator Internship](https://jobright.ai/jobs/info/691f7e8009cc522e87742108?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
