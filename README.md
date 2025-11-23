@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[CX Engagement and SME intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68b3db0df4e41a61efd8ad5d?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 23 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/692323d938cd5478a8d56173?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Nov 23 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Kansas City)](https://jobright.ai/jobs/info/68d510e12ed36439e51e4820?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Nov 23 |
 | **[AIR Health](https://www.airhealth.co/)** | **[User Interface Designer Intern (Undergraduate)](https://jobright.ai/jobs/info/692296eac0cefa13343d8685?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 22 |
 | **[Idori](https://idori.com/)** | **[Game Design Internship (Unity - C#)](https://jobright.ai/jobs/info/692212623f782d2f1afd485e?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Nov 22 |
 | **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[Game Design Intern](https://jobright.ai/jobs/info/691e0acca49a885af9a24088?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 22 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visual Design Intern](https://jobright.ai/jobs/info/692111e6a49a885af9a42990?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | ↳ | **[CAD Design Intern](https://jobright.ai/jobs/info/692110b8a49a885af9a42847?utm_campaign=1049&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Art and Design Adjunct - Graphic Design](https://jobright.ai/jobs/info/69210dbe3f782d2f1afce9e9?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Nov 21 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Development and Production Intern – SPT Nonfiction & IPC – Van Nuys](https://jobright.ai/jobs/info/6920f93aa49a885af9a41a01?utm_campaign=1049&utm_source=git)** | Van Nuys, California | On Site | Nov 21 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Lauren Sweater Design Intern](https://jobright.ai/jobs/info/6920e46300c9ee50eaec92f7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6920e40600c9ee50eaec92b8?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Styling Intern](https://jobright.ai/jobs/info/6920d5773f782d2f1afcbf9e?utm_campaign=1049&utm_source=git)** | Lititz, PA | On Site | Nov 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Creative Services Internship / Hybrid](https://jobright.ai/jobs/info/691fa5cd09cc522e87744166?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 20 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Fashion Design Internship (Spring 2026)](https://jobright.ai/jobs/info/691f6b3a09cc522e87740f29?utm_campaign=1049&utm_source=git)** | New York,NY,US | On Site | Nov 20 |
 | **[Kahua](http://www.kahua.com)** | **[UX/UI Intern](https://jobright.ai/jobs/info/691f97623f782d2f1afbe60c?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Nov 20 |
-| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/691f962e09cc522e87743601?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
-| **[Athletes First](http://www.athletesfirst.net/)** | **[Summer 2026 Spring Graphic Design Intern](https://jobright.ai/jobs/info/691f66e109cc522e87740a34?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
