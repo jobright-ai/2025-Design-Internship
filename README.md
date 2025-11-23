@@ -57,10 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[UX Design Intern (Unpaid)](https://jobright.ai/jobs/info/69221732a49a885af9a48619?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Nov 22 |
 | **[Idori](https://idori.com/)** | **[Game Design Internship (Unity - C#)](https://jobright.ai/jobs/info/692212623f782d2f1afd485e?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Nov 22 |
 | **[RAAS](https://raastheglobaldesi.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/69220beca49a885af9a48375?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Nov 22 |
-| **[Deca Defense](https://decadefense.com/)** | **[Internship: Digital Designer / Graphic Designer / Visual Design / ITAR / U.S.Citizen /](https://jobright.ai/jobs/info/6921f2cca49a885af9a47fe6?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 22 |
 | **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[Game Design Intern](https://jobright.ai/jobs/info/691e0acca49a885af9a24088?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 22 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/68cd95851ad6b16f0289bdc9?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Nov 22 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Women's Design Intern, Concept](https://jobright.ai/jobs/info/68e96e10f195760c354a9088?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 22 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/691f962e09cc522e87743601?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Digital Production Intern](https://jobright.ai/jobs/info/6920b9ed3f782d2f1afcaa54?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Mosaic Development Partners JV](https://www.mosaicdp.com/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/691f80d03f782d2f1afbd104?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 20 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Creative Operations Intern (May to August)](https://jobright.ai/jobs/info/68cea715846f0b04af67c0d0?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Nov 20 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/6903ac68ff462851fefed659?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
