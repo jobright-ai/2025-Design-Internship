@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AIR Health](https://www.airhealth.co/)** | **[User Interface Designer Intern](https://jobright.ai/jobs/info/69228007c0cefa13343d805c?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 22 |
+| **[AIR Health](https://www.airhealth.co/)** | **[User Interface Designer Intern](https://jobright.ai/jobs/info/692296eac0cefa13343d8685?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 22 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[UX Design Intern (Unpaid)](https://jobright.ai/jobs/info/69228ca738cd5478a8d54224?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Nov 22 |
 | **[Idori](https://idori.com/)** | **[Game Design Internship (Unity - C#)](https://jobright.ai/jobs/info/692212623f782d2f1afd485e?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Nov 22 |
 | **[RAAS](https://raastheglobaldesi.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/69220beca49a885af9a48375?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Nov 22 |
 | **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[Game Design Intern](https://jobright.ai/jobs/info/691e0acca49a885af9a24088?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 22 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ralph Lauren Agency Creative Intern](https://jobright.ai/jobs/info/692187aaa49a885af9a468b2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/692141c300c9ee50eaecd233?utm_campaign=1049&utm_source=git)** | Ontario, Canada | On Site | Nov 21 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Graphic Design Co-op (Spring 2026) - Cincinnati, OH](https://jobright.ai/jobs/info/6921308e00c9ee50eaecc9d7?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Nov 21 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Web Programs](https://jobright.ai/jobs/info/68cc9756128dc347fd927044?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Nov 21 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6921185b3f782d2f1afcf2fc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | ↳ | **[CAD Design Intern](https://jobright.ai/jobs/info/6921134a3f782d2f1afcef25?utm_campaign=1049&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | ↳ | **[Visual Design Intern](https://jobright.ai/jobs/info/692111e6a49a885af9a42990?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
@@ -133,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[UX Content Strategist Intern](https://jobright.ai/jobs/info/692024ce3f782d2f1afc3324?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 21 |
 | **[Kinectrics](http://www.kinectrics.com)** | **[Multimedia Designer Co-op Student](https://jobright.ai/jobs/info/69200e87a49a885af9a363cc?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 20 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical UX Content Strategist Intern](https://jobright.ai/jobs/info/69203d0500c9ee50eaec089e?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 20 |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Landscape Architect](https://jobright.ai/jobs/info/692293d2c0cefa13343d85f5?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Nov 20 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/691fe5c3a49a885af9a352ac?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/692006803f782d2f1afc248c?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | Nov 20 |
 | **[Cencora](http://www.cencora.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69201f02a49a885af9a36e3c?utm_campaign=1049&utm_source=git)** | Carrollton, TX | On Site | Nov 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Creative Services Internship / Hybrid](https://jobright.ai/jobs/info/691fa5cd09cc522e87744166?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 20 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Fashion Design Internship (Spring 2026)](https://jobright.ai/jobs/info/691f6b3a09cc522e87740f29?utm_campaign=1049&utm_source=git)** | New York,NY,US | On Site | Nov 20 |
 | **[Kahua](http://www.kahua.com)** | **[UX/UI Intern](https://jobright.ai/jobs/info/691f97623f782d2f1afbe60c?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Nov 20 |
-| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/691f962e09cc522e87743601?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
-| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Digital Production Intern](https://jobright.ai/jobs/info/6920b9ed3f782d2f1afcaa54?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| **[Mosaic Development Partners JV](https://www.mosaicdp.com/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/691f80d03f782d2f1afbd104?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
