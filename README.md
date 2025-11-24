@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Social Media Graphic Design Winter Internship (Unpaid)](https://jobright.ai/jobs/info/6923cf0038cd5478a8d576cd?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Nov 23 |
+| **[Fusion100](http://Fusion100co.com)** | **[Greek Life Clothing Intern](https://jobright.ai/jobs/info/6923be1c38cd5478a8d57101?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Nov 23 |
 | **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6923a59d7795cd460c838e12?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 23 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/6923a0d1c0cefa13343dafdc?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
 | **[Chil & Co. ](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/6923607438cd5478a8d56817?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 23 |
@@ -146,7 +148,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Content Strategist Intern](https://jobright.ai/jobs/info/691fdc7aa49a885af9a34d32?utm_campaign=1049&utm_source=git)** | Hybrid | On Site | Nov 20 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/691fcce1a49a885af9a3436c?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Nov 20 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
-| **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[K-12 Graphic Design Internship](https://jobright.ai/jobs/info/691fdc413f782d2f1afc0eac?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Nov 20 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Design Intern](https://jobright.ai/jobs/info/68eeccf5d078b81ad160f802?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Nov 20 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Experiential Graphic Design Intern / Summer 2026](https://jobright.ai/jobs/info/691fe2c3a49a885af9a350f6?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Nov 20 |
 | **[Cencora](http://www.cencora.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/691fa2c609cc522e87743f46?utm_campaign=1049&utm_source=git)** | Carrollton, TX | On Site | Nov 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Experiential Graphic Design Intern / Summer 2026](https://jobright.ai/jobs/info/691f90e33f782d2f1afbdf41?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | Hybrid | Nov 20 |
 | **[UX Woman](https://www.uxwoman.com/)** | **[Entry Level UX Design Apprenticeship](https://jobright.ai/jobs/info/691f897ba49a885af9a3167c?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 20 |
 | **[Dana-co LLC](https://www.dana-co.com)** | **[Design Internship (part-time on-site)](https://jobright.ai/jobs/info/691fa4713f782d2f1afbee66?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Creative Services Internship / Hybrid](https://jobright.ai/jobs/info/691fa5cd09cc522e87744166?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
