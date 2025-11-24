@@ -60,9 +60,9 @@ For a complete list, click the following sortable link below:
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Social Media Graphic Design Winter Internship (Unpaid)](https://jobright.ai/jobs/info/6923cf0038cd5478a8d576cd?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Nov 23 |
 | **[Fusion100](http://Fusion100co.com)** | **[Greek Life Clothing Intern](https://jobright.ai/jobs/info/6923be1c38cd5478a8d57101?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Nov 23 |
 | **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6923a59d7795cd460c838e12?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 23 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/6923a0d1c0cefa13343dafdc?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
+| **[Prodam](https://portal.prodam.sp.gov.br)** | **[Estagiário de Web design](https://jobright.ai/jobs/info/6923d7747795cd460c839913?utm_campaign=1049&utm_source=git)** | Greater São Paulo Area | On Site | Nov 23 |
+| **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6923a0d1c0cefa13343dafdc?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
 | **[Chil & Co. ](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/6923607438cd5478a8d56817?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 23 |
-| **[The Sunrise State](https://sunrisestate.in)** | **[Information Experience Designer Intern](https://jobright.ai/jobs/info/69238a7f38cd5478a8d56bf6?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID, Internship, Graphic Designs](https://jobright.ai/jobs/info/6923334938cd5478a8d562e4?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Nov 23 |
 | **[Henkel](http://www.henkel.com)** | **[CX Engagement and SME intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68b3db0df4e41a61efd8ad5d?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 23 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/692323d938cd5478a8d56173?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Nov 23 |
@@ -138,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Service Publications Intern - The Toro Company](https://jobright.ai/jobs/info/68cc1c977342c7623ae5f68c?utm_campaign=1049&utm_source=git)** | Hennepin County, MN | On Site | Nov 21 |
 | **[Hypard Trading Corp](https://hypard.com)** | **[Paid Internship: Creative Ad Producer](https://jobright.ai/jobs/info/69205232a49a885af9a38940?utm_campaign=1049&utm_source=git)** | City of Industry, CA | On Site | Nov 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[UX Content Strategist Intern](https://jobright.ai/jobs/info/692024ce3f782d2f1afc3324?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 21 |
-| **[Kinectrics](http://www.kinectrics.com)** | **[Multimedia Designer Co-op Student](https://jobright.ai/jobs/info/69200e87a49a885af9a363cc?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 20 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical UX Content Strategist Intern](https://jobright.ai/jobs/info/69203d0500c9ee50eaec089e?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 20 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Landscape Architect](https://jobright.ai/jobs/info/692293d2c0cefa13343d85f5?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Nov 20 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/691fe5c3a49a885af9a352ac?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Experiential Graphic Design Intern / Summer 2026](https://jobright.ai/jobs/info/691f90e33f782d2f1afbdf41?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | Hybrid | Nov 20 |
 | **[UX Woman](https://www.uxwoman.com/)** | **[Entry Level UX Design Apprenticeship](https://jobright.ai/jobs/info/691f897ba49a885af9a3167c?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Nov 20 |
 | **[Dana-co LLC](https://www.dana-co.com)** | **[Design Internship (part-time on-site)](https://jobright.ai/jobs/info/691fa4713f782d2f1afbee66?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 20 |
+| **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Creative Services Internship / Hybrid](https://jobright.ai/jobs/info/691fa5cd09cc522e87744166?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
