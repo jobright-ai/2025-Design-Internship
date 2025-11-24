@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/69247ca838cd5478a8d5ad5b?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/687afddaed63844c944a6421?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Nov 24 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Nov 24 |
-| **[Deca Defense](https://decadefense.com/)** | **[Internship: Digital Designer / Graphic Designer / Visual Design / ITAR / U.S.Citizen /](https://jobright.ai/jobs/info/69244d8bec574f4265bb31c2?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4a76a2d2a252445cd8272?utm_campaign=1049&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Nov 24 |
 | **[Fusion100](http://Fusion100co.com)** | **[Greek Life Clothing Intern](https://jobright.ai/jobs/info/6923be1c38cd5478a8d57101?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Nov 23 |
 | **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6923a59d7795cd460c838e12?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 23 |
