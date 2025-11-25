@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Graphic Design Intern](https://jobright.ai/jobs/info/69254297f0beb0723261c7ae?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 24 |
 | **[Jazwares, LLC](http://jazwares.com)** | **[Intern - Product Design](https://jobright.ai/jobs/info/69252d0427bf2f41a2c3cda8?utm_campaign=1049&utm_source=git)** | Plantation, FL | On Site | Nov 24 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69252bc227bf2f41a2c3cc93?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | **[Cher ®](https://cherahome.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6925298427bf2f41a2c3ca8f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 24 |
@@ -104,8 +105,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/691cec1b22a2cb4b9bd1ec72?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
 | **[Herzog](https://www.herzog.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6924b36838cd5478a8d5cb79?utm_campaign=1049&utm_source=git)** | St Joseph, MO | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69125417ea9ab01b82bf1714?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
-| **[HDR](http://www.hdrinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6924dc5038cd5478a8d5ec02?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[2026 Intern – UI/UX Design](https://jobright.ai/jobs/info/69125c39d1047e3565cfbbe6?utm_campaign=1049&utm_source=git)** | Research Park, CA | Hybrid | Nov 24 |
+| ↳ | **[2026 Intern – UI/UX Design](https://jobright.ai/jobs/info/69125c39d1047e3565cfbbe6?utm_campaign=1049&utm_source=git)** | Research Park, CA | Hybrid | Nov 24 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Interior Design Intern (Part-Time)](https://jobright.ai/jobs/info/6924b280c0cefa13343e0db7?utm_campaign=1049&utm_source=git)** | Airside Business Park, Moon Township, PA, 15108, US | On Site | Nov 24 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6924d139c0cefa13343e254c?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | Remote | Nov 24 |
 | ↳ | **[On-site Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6924b120ec574f4265bb5c6f?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Nov 24 |
@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/68f9438ccadb2e5a06a630df?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
 | ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/69125497ea9ab01b82bf1775?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Nov 24 |
 | **[The Organized Crime and Corruption Reporting Project](http://www.occrp.org)** | **[Design Intern (paid internship)](https://jobright.ai/jobs/info/6924c7fbec574f4265bb6f1f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 24 |
-| **[Blue Revival](https://www.bluerevival.com/)** | **[Social Media & Fashion Intern](https://jobright.ai/jobs/info/6924a0ccec574f4265bb5250?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6924d6df38cd5478a8d5e672?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Lilly Pulitzer](https://www.lillypulitzer.com/)** | **[Print & Surface Design Intern](https://jobright.ai/jobs/info/69249fc7c0cefa13343e0138?utm_campaign=1049&utm_source=git)** | King of Prussia, PA | Hybrid | Nov 24 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Designer](https://jobright.ai/jobs/info/69249ac1ec574f4265bb4e09?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[Retouching Intern](https://jobright.ai/jobs/info/68e9744865768b6412b1c49b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | ↳ | **[Women's Design Intern, High Jewelry](https://jobright.ai/jobs/info/68e9731665768b6412b1c2f3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | ↳ | **[Photography Intern](https://jobright.ai/jobs/info/68e96a740930fe0bc4625789?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 22 |
+| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2026](https://jobright.ai/jobs/info/68ec8e9bc26b9574506f36db?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
