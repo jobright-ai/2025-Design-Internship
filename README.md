@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[K-12 Graphic Design Internship](https://jobright.ai/jobs/info/69253b5bd47de4798ecce934?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Nov 25 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Creative Design Intern - Summer 2026](https://jobright.ai/jobs/info/6909bde74a1b456627b02bae?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 25 |
+| **[YourBookTeam](https://yourbookteam.com)** | **[Website Building Intern](https://jobright.ai/jobs/info/6925d9bbd47de4798ecd22ae?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 25 |
+| **[Fleur du Mal](http://fleurdumal.com)** | **[Design Internship](https://jobright.ai/jobs/info/6925d838f0beb0723261fa65?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Nov 25 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mixed Media](https://jobright.ai/jobs/info/691a9f1d15b4156367189582?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 25 |
+| **[San Francisco Chronicle](http://www.sfgate.com)** | **[Digital Design/Development Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4e6b81fdd1626d39ac09?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
 | **[Sun Country Airlines](https://www.suncountry.com/)** | **[UX Intern](https://jobright.ai/jobs/info/69093170bcccf20de59d875e?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 25 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Marketing - Graphic Design](https://jobright.ai/jobs/info/6925c5a1f0beb0723261f1cf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 25 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/6925c540f0beb0723261f1a8?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Nov 25 |
@@ -72,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/68d1f2c38c62e63bc7fd1852?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Nov 25 |
 | ↳ | **[Intern, Experience Design](https://jobright.ai/jobs/info/68d1f6a117554c2d9eee1b5b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68ce1822e23def7af55c20ec?utm_campaign=1049&utm_source=git)** | Dayton, OH | On Site | Nov 25 |
-| **[Adps AI](https://www.adps.ai)** | **[Remote Internship Opportunity – Product Designer - UI/UX @ Adps AI (Unpaid)](https://jobright.ai/jobs/info/69257ee6f0beb0723261de69?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | Nov 25 |
 | **[Ampliforce](https://qlytics.com/)** | **[AI UI/UX Intern](https://jobright.ai/jobs/info/69257144d47de4798eccfff7?utm_campaign=1049&utm_source=git)** | Montréal, Canada | Hybrid | Nov 25 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Graphic Design Intern](https://jobright.ai/jobs/info/69254297f0beb0723261c7ae?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Nov 24 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69252bc227bf2f41a2c3cc93?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/687afddaed63844c944a6421?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Nov 24 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Nov 24 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4a76a2d2a252445cd8272?utm_campaign=1049&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Nov 24 |
-| **[Jobgether](https://jobgether.com/)** | **[Graphic Design Intern (Remote - US)](https://jobright.ai/jobs/info/6924937ec0cefa13343dfa4b?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 23 |
-| **[Fusion100](http://Fusion100co.com)** | **[Greek Life Clothing Intern](https://jobright.ai/jobs/info/6923be1c38cd5478a8d57101?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Nov 23 |
-| **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6923a59d7795cd460c838e12?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 23 |
-| **[Chil & Co. ](https://www.chilatl.com)** | **[Video Intern](https://jobright.ai/jobs/info/6923607438cd5478a8d56817?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 23 |
-| **[Henkel](http://www.henkel.com)** | **[CX Engagement and SME intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68b3db0df4e41a61efd8ad5d?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
