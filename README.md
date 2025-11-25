@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69252497f0beb0723261b0a6?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 24 |
+| ↳ | **[Summer Intern - Landscape](https://jobright.ai/jobs/info/6925248827bf2f41a2c3c64d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
+| ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/692523a0d47de4798eccd458?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
+| ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/69252379d47de4798eccd436?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 24 |
+| ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69251d4638cd5478a8d62823?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
+| ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69251bebc0cefa13343e6a43?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
+| ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6925199938cd5478a8d62554?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 24 |
+| **[Pinterest](https://www.pinterest.com/)** | **[UX Engineer Intern](https://jobright.ai/jobs/info/692513d9c0cefa13343e6422?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 24 |
+| **[HDR](http://www.hdrinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69250fffec574f4265bbb34f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
+| **[Give Kids The World Village](https://www.gktw.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6925083fec574f4265bbab60?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Nov 24 |
 | **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6925038fc0cefa13343e57d4?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 24 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Landscape](https://jobright.ai/jobs/info/6925014dc0cefa13343e55f0?utm_campaign=1049&utm_source=git)** | New York | On Site | Nov 24 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6924f0feec574f4265bb975b?utm_campaign=1049&utm_source=git)** | New York | On Site | Nov 24 |
@@ -107,17 +117,14 @@ For a complete list, click the following sortable link below:
 | **[Blue Revival](https://www.bluerevival.com/)** | **[Social Media & Fashion Intern](https://jobright.ai/jobs/info/6924a0ccec574f4265bb5250?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6924d6df38cd5478a8d5e672?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Lilly Pulitzer](https://www.lillypulitzer.com/)** | **[Print & Surface Design Intern](https://jobright.ai/jobs/info/69249fc7c0cefa13343e0138?utm_campaign=1049&utm_source=git)** | King of Prussia, PA | Hybrid | Nov 24 |
-| **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Art Director](https://jobright.ai/jobs/info/69248461ec574f4265bb42bb?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Designer](https://jobright.ai/jobs/info/69249ac1ec574f4265bb4e09?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 24 |
-| **[Netup](https://www.netup.social)** | **[Brand designer Intern - Mandarin Speaking](https://jobright.ai/jobs/info/6924c08aec574f4265bb6936?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 24 |
 | **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/6924b8a7ec574f4265bb62c6?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Nov 24 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/69249229ec574f4265bb490b?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Nov 24 |
 | **[The North Face](http://www.thenorthface.com/)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/69249070c0cefa13343df88d?utm_campaign=1049&utm_source=git)** | USCA > USA > Colorado > Denver HQ - VFC | Hybrid | Nov 24 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Art Director](https://jobright.ai/jobs/info/6924902dc0cefa13343df85e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 24 |
 | **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/69248e55c0cefa13343df74c?utm_campaign=1049&utm_source=git)** | USCA > USA > Colorado > Denver HQ - VFC | Hybrid | Nov 24 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Art Director](https://jobright.ai/jobs/info/69248d2f38cd5478a8d5b492?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Nov 24 |
-| **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6924abd638cd5478a8d5c6a0?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 24 |
-| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/692488e738cd5478a8d5b252?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 24 |
+| ↳ | **[The Ogilvy Group / Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/692488e738cd5478a8d5b252?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 24 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Art Director](https://jobright.ai/jobs/info/692486acc0cefa13343df3a8?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Designer](https://jobright.ai/jobs/info/6924b0d2c0cefa13343e0c3a?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Nov 24 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Television Entertainment Group Digital and Design Internships – Summer 2026](https://jobright.ai/jobs/info/692497acec574f4265bb4c3b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6909804a4a1b456627b01118?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 22 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/69052df6122e8474c78d726e?utm_campaign=1049&utm_source=git)** | Irvine, CA | Hybrid | Nov 22 |
 | ↳ | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/6905203d63502c0aded785cc?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 22 |
-| **[HDR](http://www.hdrinc.com)** | **[Urban Design/Landscape Planning Intern](https://jobright.ai/jobs/info/68d374448c62e63bc7fe152b?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 22 |
-| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Design Intern, Product](https://jobright.ai/jobs/info/6921830b3f782d2f1afd2a12?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
-| ↳ | **[Ralph Lauren Lauren Sweater Design Intern](https://jobright.ai/jobs/info/69217dd3d1ec2c3565c449c2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
-| ↳ | **[Ralph Lauren Performance Activewear Design intern](https://jobright.ai/jobs/info/69217bc2a49a885af9a461b2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Design Engineering Intern, Shark (May to August)](https://jobright.ai/jobs/info/69217af7a49a885af9a46160?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Nov 22 |
-| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Fabric Development Research Intern](https://jobright.ai/jobs/info/6921787c3f782d2f1afd2551?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
-| ↳ | **[Ralph Lauren Interior Design Intern](https://jobright.ai/jobs/info/692177fe3f782d2f1afd2531?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
