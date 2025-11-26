@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Multimedia Intern (Rochester, NY)](https://jobright.ai/jobs/info/692751a891ceeb2e8a53dfdc?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Nov 26 |
+| **[American Modern Insurance Group](https://www.amig.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690b93854a1b456627b10828?utm_campaign=1049&utm_source=git)** | Cincinnati Metro | Hybrid | Nov 26 |
+| **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Graphic Design](https://jobright.ai/jobs/info/69274e31d47de4798ecdb42d?utm_campaign=1049&utm_source=git)** | Grand Prairie, TX | Hybrid | Nov 26 |
+| **[FIRST](https://firstagency.com/)** | **[2D Design Intern (Spring)](https://jobright.ai/jobs/info/690a74e0bcccf20de59e287e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68eeae9246e5b153e5a5e406?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 26 |
 | **[FIRST](https://firstagency.com/)** | **[3D Design Intern (Spring)](https://jobright.ai/jobs/info/690a74e4d046ab6061cdcc97?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
 | **[Santander](https://www.santander.com/)** | **[UX Product Design Intern](https://jobright.ai/jobs/info/69271fde91ceeb2e8a53cb14?utm_campaign=1049&utm_source=git)** | Miami Coconut Grove Corp | On Site | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Digital Design/Development Intern, Summer 2026](https://jobright.ai/jobs/info/68ed4e6b81fdd1626d39ac09?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
 | **[Sun Country Airlines](https://www.suncountry.com/)** | **[UX Intern](https://jobright.ai/jobs/info/69093170bcccf20de59d875e?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 25 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Marketing - Graphic Design](https://jobright.ai/jobs/info/6925c5a1f0beb0723261f1cf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 25 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/6925c540f0beb0723261f1a8?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Nov 25 |
-| **[ROC](https://roc.ai)** | **[UX / UI Design Internship](https://jobright.ai/jobs/info/692717fdf0beb07232627846?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Nov 25 |
-| **[Galloway & Company, LLC](https://gallowayus.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69092cebd046ab6061cd2695?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 25 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690954354a1b456627aff504?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
