@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6926afc7d47de4798ecd8704?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 25 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/69267a8c27bf2f41a2c46758?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Nov 25 |
 | **[Talbots](http://www.talbots.com)** | **[Intern Spring'26 - Print, Pattern, & CAD](https://jobright.ai/jobs/info/69267698f0beb07232625198?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 25 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Art Director](https://jobright.ai/jobs/info/6926763027bf2f41a2c464aa?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Nov 25 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Oceaneering](http://www.oceaneering.com/)** | **[2026 Bus Dev – Visual Media Intern](https://jobright.ai/jobs/info/6926507927bf2f41a2c45367?utm_campaign=1049&utm_source=git)** | Hanover, MD | Hybrid | Nov 25 |
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69264df127bf2f41a2c45232?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Nov 25 |
 | **[NewDealDesign](http://newdealdesign.com/)** | **[Experience Design Intern](https://jobright.ai/jobs/info/69268770d47de4798ecd7ef2?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States | On Site | Nov 25 |
-| **[Wray Ward](https://www.wrayward.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69266dfaf0beb07232624ca7?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Nov 25 |
-| ↳ | **[Digital Design Intern](https://jobright.ai/jobs/info/69266f3c27bf2f41a2c46093?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Nov 25 |
+| **[Wray Ward](https://www.wrayward.com/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/69266f3c27bf2f41a2c46093?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Nov 25 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69266dfaf0beb07232624ca7?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Nov 25 |
 | **[Zoom](https://www.zoom.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69263b7ed47de4798ecd5c3f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 25 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Interior Design](https://jobright.ai/jobs/info/692638ed27bf2f41a2c4483a?utm_campaign=1049&utm_source=git)** | Little Rock, AR | On Site | Nov 25 |
 | **[Zoom](https://www.zoom.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69263656d47de4798ecd591a?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 25 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[UX Design Intern (Apex Legends)](https://jobright.ai/jobs/info/69262df627bf2f41a2c4415f?utm_campaign=1049&utm_source=git)** | Greater Vancouver Metropolitan Area | On Site | Nov 25 |
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/692608a227bf2f41a2c42aef?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 25 |
 | **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Print Production Intern](https://jobright.ai/jobs/info/6926062127bf2f41a2c427c6?utm_campaign=1049&utm_source=git)** | Welch, MN 55089, USA | On Site | Nov 25 |
-| ↳ | **[Graphic Design Creative Intern](https://jobright.ai/jobs/info/692600ae27bf2f41a2c4249a?utm_campaign=1049&utm_source=git)** | Welch, MN 55089, USA | On Site | Nov 25 |
 | **[Innocence Project](http://www.innocenceproject.org)** | **[Creative Intern (Spring 2026)](https://jobright.ai/jobs/info/6926151b27bf2f41a2c4335f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
+| **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Graphic Design Creative Intern](https://jobright.ai/jobs/info/692600ae27bf2f41a2c4249a?utm_campaign=1049&utm_source=git)** | Welch, MN 55089, USA | On Site | Nov 25 |
 | **[Riot Games](http://www.riotgames.com)** | **[Technical Game Design Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909253cbcccf20de59d7e3c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 25 |
 | ↳ | **[Visual Design Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092865bcccf20de59d80bc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 25 |
 | ↳ | **[Technical Game Design Intern, 2XKO - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091ab9bcccf20de59d7315?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[UX Engineer Intern](https://jobright.ai/jobs/info/6924e98ec0cefa13343e3fa8?utm_campaign=1049&utm_source=git)** | San Francisco, CA, US | On Site | Nov 24 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Interior Design Intern (Part-Time)](https://jobright.ai/jobs/info/6924e69938cd5478a8d5f8c9?utm_campaign=1049&utm_source=git)** | Pittsburgh Region | On Site | Nov 24 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69250226ec574f4265bba7cb?utm_campaign=1049&utm_source=git)** | Los Angeles | On Site | Nov 24 |
-| ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6924f71238cd5478a8d60bed?utm_campaign=1049&utm_source=git)** | New York | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
