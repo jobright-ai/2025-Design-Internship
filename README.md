@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/69267a8c27bf2f41a2c46758?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Nov 25 |
+| **[Talbots](http://www.talbots.com)** | **[Intern Spring'26 - Print, Pattern, & CAD](https://jobright.ai/jobs/info/69267698f0beb07232625198?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 25 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Art Director](https://jobright.ai/jobs/info/6926763027bf2f41a2c464aa?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Nov 25 |
 | ↳ | **[The Ogilvy Group / 2026 Creative Summer Internship - Designer](https://jobright.ai/jobs/info/69267245f0beb07232624f4b?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Nov 25 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Designer](https://jobright.ai/jobs/info/692671d0f0beb07232624f12?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
@@ -69,12 +71,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/692668e8f0beb07232624b16?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Designer](https://jobright.ai/jobs/info/692668d6d47de4798ecd70ea?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 25 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Designer](https://jobright.ai/jobs/info/692664eb27bf2f41a2c45cf7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
-| **[NewDealDesign](http://newdealdesign.com/)** | **[Experience Design Intern](https://jobright.ai/jobs/info/692655b5d47de4798ecd67b7?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 25 |
+| **[Sty1e Studios INC](https://www.sty1estudios.com/)** | **[Environmental Artist / Level Designer (Unity) Internship](https://jobright.ai/jobs/info/692678f127bf2f41a2c4668d?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Aspida](http://globalbankers.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/69265571d47de4798ecd6792?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Nov 25 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[2026 Bus Dev – Visual Media Intern](https://jobright.ai/jobs/info/6926507927bf2f41a2c45367?utm_campaign=1049&utm_source=git)** | Hanover, MD | Hybrid | Nov 25 |
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69264df127bf2f41a2c45232?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Nov 25 |
-| **[Wray Ward](https://www.wrayward.com/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/69266f3c27bf2f41a2c46093?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Nov 25 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69266dfaf0beb07232624ca7?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Nov 25 |
+| **[NewDealDesign](http://newdealdesign.com/)** | **[Experience Design Intern](https://jobright.ai/jobs/info/69268770d47de4798ecd7ef2?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States | On Site | Nov 25 |
+| **[Wray Ward](https://www.wrayward.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69266dfaf0beb07232624ca7?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Nov 25 |
+| ↳ | **[Digital Design Intern](https://jobright.ai/jobs/info/69266f3c27bf2f41a2c46093?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Nov 25 |
 | **[Zoom](https://www.zoom.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69263b7ed47de4798ecd5c3f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Nov 25 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Interior Design](https://jobright.ai/jobs/info/692638ed27bf2f41a2c4483a?utm_campaign=1049&utm_source=git)** | Little Rock, AR | On Site | Nov 25 |
 | **[Zoom](https://www.zoom.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69263656d47de4798ecd591a?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Interior Design Intern (Part-Time)](https://jobright.ai/jobs/info/6924e69938cd5478a8d5f8c9?utm_campaign=1049&utm_source=git)** | Pittsburgh Region | On Site | Nov 24 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69250226ec574f4265bba7cb?utm_campaign=1049&utm_source=git)** | Los Angeles | On Site | Nov 24 |
 | ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6924f71238cd5478a8d60bed?utm_campaign=1049&utm_source=git)** | New York | On Site | Nov 24 |
-| ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6924d1fdc0cefa13343e25f0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 24 |
-| **[HDR](http://www.hdrinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6924ce7aec574f4265bb739b?utm_campaign=1049&utm_source=git)** | United States-New York-New York | On Site | Nov 24 |
-| **[Atlanta Hustle](https://www.watchufa.com/hustle)** | **[Multimedia & Content Creation Internship (Spring 2026 – For Course Credit)](https://jobright.ai/jobs/info/6924cc8738cd5478a8d5df35?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
