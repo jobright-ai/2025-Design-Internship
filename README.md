@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Nov 26 |
+| **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Planning & Development Intern](https://jobright.ai/jobs/info/6927854791ceeb2e8a540b0e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
+| **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (February 2026)](https://jobright.ai/jobs/info/692780e0f0beb0723262b46c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 26 |
+| ↳ | **[UX/UI Design Intern - Digital Experience Team (Summer 2026)](https://jobright.ai/jobs/info/69277b8f91ceeb2e8a53ff57?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[Arts Axis Florida Brand Student Intern-WUSF](https://jobright.ai/jobs/info/69276e98f0beb0723262a209?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Nov 26 |
+| **[Magnolia](https://magnolia.com)** | **[Creative - Graphic Design Intern](https://jobright.ai/jobs/info/69276dfdd47de4798ecdc8f0?utm_campaign=1049&utm_source=git)** | Waco, TX | On Site | Nov 26 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer (Memphis, TN)](https://jobright.ai/jobs/info/691ad68445fb6f5ead8ae2f2?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Nov 26 |
 | **[Parkes Philanthropy](https://parkesphilanthropy.com)** | **[Design Intern](https://jobright.ai/jobs/info/69276d1791ceeb2e8a53f258?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Johnson, Mirmiran & Thompson](http://jmt.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69276cbed47de4798ecdc7fc?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD | Hybrid | Nov 26 |
 | **[University of South Florida](http://www.usf.edu)** | **[Arts Axis Florida Brand Student Intern-WUSF](https://jobright.ai/jobs/info/69276b7e91ceeb2e8a53f0ca?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 26 |
-| **[Magnolia](https://magnolia.com)** | **[Creative - Graphic Design Intern](https://jobright.ai/jobs/info/69276880f0beb07232629e99?utm_campaign=1049&utm_source=git)** | Waco, TX | On Site | Nov 26 |
-| ↳ | **[Magnolia Journal Art Production Intern](https://jobright.ai/jobs/info/69276740d47de4798ecdc48d?utm_campaign=1049&utm_source=git)** | Waco, TX | On Site | Nov 26 |
+| **[Magnolia](https://magnolia.com)** | **[Magnolia Journal Art Production Intern](https://jobright.ai/jobs/info/69276740d47de4798ecdc48d?utm_campaign=1049&utm_source=git)** | Waco, TX | On Site | Nov 26 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - BTS Customer Engagement Intern](https://jobright.ai/jobs/info/69275abbf0beb072326294eb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (February 2026)](https://jobright.ai/jobs/info/69275997f0beb072326293df?utm_campaign=1049&utm_source=git)** | Tower Point, 6th Floor, 27-43 Wormwood Street, Boston, MA 02210, United States of America, Boston | On Site | Nov 26 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/68f5681476a51a4307bd4dfb?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Nov 26 |
@@ -123,7 +127,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/692668e8f0beb07232624b16?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Designer](https://jobright.ai/jobs/info/692668d6d47de4798ecd70ea?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 25 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Designer](https://jobright.ai/jobs/info/692664eb27bf2f41a2c45cf7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
-| **[Sty1e Studios INC](https://www.sty1estudios.com/)** | **[Environmental Artist / Level Designer (Unity) Internship](https://jobright.ai/jobs/info/692678f127bf2f41a2c4668d?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Aspida](http://globalbankers.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/69265571d47de4798ecd6792?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Nov 25 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[2026 Bus Dev – Visual Media Intern](https://jobright.ai/jobs/info/6926507927bf2f41a2c45367?utm_campaign=1049&utm_source=git)** | Hanover, MD | Hybrid | Nov 25 |
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69264df127bf2f41a2c45232?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Nov 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visual Design Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092865bcccf20de59d80bc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 25 |
 | ↳ | **[Technical Game Design Intern, 2XKO - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091ab9bcccf20de59d7315?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 25 |
 | ↳ | **[Technical Art Intern - Rigging, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091c74bcccf20de59d74d0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 25 |
-| **[Intrigue Design & Events](http://www.Intrigueevents.com)** | **[Spring 2026 Event Planning Internship](https://jobright.ai/jobs/info/6925f434d47de4798ecd308b?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Nov 25 |
-| **[Riot Games](http://www.riotgames.com)** | **[3D Environment Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909268f4a1b456627afd450?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 25 |
-| **[FusionSite](https://fusionsiteservices.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6925f215d47de4798ecd2f48?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
