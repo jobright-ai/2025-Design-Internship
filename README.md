@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd5c9821486c423c7cae?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 27 |
+| **[Castlewood Apparel Corp.](https://www.castlewoodapparel.com)** | **[Design Intern](https://jobright.ai/jobs/info/6928a83ef0beb07232630fcd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 27 |
+| **[DV8 Communication](https://www.dv8communication.com/)** | **[Graphic Designer Internship (2 months)](https://jobright.ai/jobs/info/6928a51591ceeb2e8a5460b5?utm_campaign=1049&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Nov 27 |
+| **[YourBookTeam](https://yourbookteam.com)** | **[Book Formatting Intern](https://jobright.ai/jobs/info/6928943391ceeb2e8a545e25?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 27 |
+| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efde109821486c423c7d63?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Nov 27 |
+| ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd5c9821486c423c7cae?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 27 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Branding & Design Intern - Summer 2026](https://jobright.ai/jobs/info/690be878221b890c277f9aaf?utm_campaign=1049&utm_source=git)** | Highland Heights, OH | On Site | Nov 27 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Spring Web and Digital Intern: Spring 2026](https://jobright.ai/jobs/info/68d46d09ffc1276de3fdad23?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Nov 27 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68b712501ade4306aa6477a7?utm_campaign=1049&utm_source=git)** | Moraine, OH | On Site | Nov 27 |
@@ -94,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Marketing Graphic Designer](https://jobright.ai/jobs/info/6927c79c91ceeb2e8a5430b6?utm_campaign=1049&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Men's Design Intern](https://jobright.ai/jobs/info/6927a3e3d47de4798ecdf3b5?utm_campaign=1049&utm_source=git)** | Buck Mason HQ | On Site | Nov 26 |
 | **[Environmental Management, Inc.](https://www.landscapepros.com/water-management)** | **[Internship](https://jobright.ai/jobs/info/6927a1c9f0beb0723262cb34?utm_campaign=1049&utm_source=git)** | Plain City, OH | On Site | Nov 26 |
-| **[MDB Management Innovations LLC](https://www.mdbmanagementinnovations.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6928492b91ceeb2e8a544fcc?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - BTS Customer Engagement Intern](https://jobright.ai/jobs/info/69279ce091ceeb2e8a5419ea?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[GitHub](https://github.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/6927958391ceeb2e8a54166f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 26 |
 | **[ROC](https://roc.ai)** | **[UX / UI Design Internship](https://jobright.ai/jobs/info/69279222d47de4798ecdea1d?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[The Ogilvy Group / 2026 Creative Summer Internship - Designer](https://jobright.ai/jobs/info/6927021791ceeb2e8a53c03a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6926afc7d47de4798ecd8704?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Nov 25 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/6926cce7f0beb0723262666a?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 25 |
-| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/69267a8c27bf2f41a2c46758?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Nov 25 |
-| **[Talbots](http://www.talbots.com)** | **[Intern Spring'26 - Print, Pattern, & CAD](https://jobright.ai/jobs/info/69267698f0beb07232625198?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 25 |
-| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Art Director](https://jobright.ai/jobs/info/6926763027bf2f41a2c464aa?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
