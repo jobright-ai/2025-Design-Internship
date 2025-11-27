@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEMIA Public Security](https://na.idemia.com/)** | **[User Experience Design Research Internship - Summer 2026](https://jobright.ai/jobs/info/6928622dd47de4798ece2a6c?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Nov 27 |
+| ↳ | **[Marketing & Communications Internship - Summer 2026](https://jobright.ai/jobs/info/692861d0d47de4798ece2a50?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Nov 27 |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[UX Product Design Intern](https://jobright.ai/jobs/info/692856daf0beb0723263017d?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/690bb0304a1b456627b11a02?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Nov 27 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/690bba3ed046ab6061ce6e7b?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Nov 27 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Digital Sculpting](https://jobright.ai/jobs/info/68e88eb209580a2fe57f91a6?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Nov 27 |
@@ -85,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Marketing Graphic Designer](https://jobright.ai/jobs/info/6927c79c91ceeb2e8a5430b6?utm_campaign=1049&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Men's Design Intern](https://jobright.ai/jobs/info/6927a3e3d47de4798ecdf3b5?utm_campaign=1049&utm_source=git)** | Buck Mason HQ | On Site | Nov 26 |
 | **[Environmental Management, Inc.](https://www.landscapepros.com/water-management)** | **[Internship](https://jobright.ai/jobs/info/6927a1c9f0beb0723262cb34?utm_campaign=1049&utm_source=git)** | Plain City, OH | On Site | Nov 26 |
+| **[MDB Management Innovations LLC](https://www.mdbmanagementinnovations.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6928492b91ceeb2e8a544fcc?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - BTS Customer Engagement Intern](https://jobright.ai/jobs/info/69279ce091ceeb2e8a5419ea?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[GitHub](https://github.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/6927958391ceeb2e8a54166f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 26 |
 | **[ROC](https://roc.ai)** | **[UX / UI Design Internship](https://jobright.ai/jobs/info/69279222d47de4798ecdea1d?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Nov 26 |
@@ -92,12 +96,12 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Planning & Development Intern](https://jobright.ai/jobs/info/6927854791ceeb2e8a540b0e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (February 2026)](https://jobright.ai/jobs/info/692780e0f0beb0723262b46c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | ↳ | **[UX/UI Design Intern - Digital Experience Team (Summer 2026)](https://jobright.ai/jobs/info/69277b8f91ceeb2e8a53ff57?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 26 |
+| **[Magnolia](https://magnolia.com)** | **[Magnolia Journal Art Production Intern](https://jobright.ai/jobs/info/69276ede91ceeb2e8a53f3d8?utm_campaign=1049&utm_source=git)** | Waco, TX | On Site | Nov 26 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[Arts Axis Florida Brand Student Intern-WUSF](https://jobright.ai/jobs/info/69276e98f0beb0723262a209?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Nov 26 |
-| **[Magnolia](https://magnolia.com)** | **[Creative - Graphic Design Intern](https://jobright.ai/jobs/info/69276dfdd47de4798ecdc8f0?utm_campaign=1049&utm_source=git)** | Waco, TX | On Site | Nov 26 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer (Memphis, TN)](https://jobright.ai/jobs/info/691ad68445fb6f5ead8ae2f2?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Nov 26 |
 | **[Johnson, Mirmiran & Thompson](http://jmt.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69276cbed47de4798ecdc7fc?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD | Hybrid | Nov 26 |
 | **[University of South Florida](http://www.usf.edu)** | **[Arts Axis Florida Brand Student Intern-WUSF](https://jobright.ai/jobs/info/69276b7e91ceeb2e8a53f0ca?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 26 |
-| **[Magnolia](https://magnolia.com)** | **[Magnolia Journal Art Production Intern](https://jobright.ai/jobs/info/69276740d47de4798ecdc48d?utm_campaign=1049&utm_source=git)** | Waco, TX | On Site | Nov 26 |
+| **[Magnolia](https://magnolia.com)** | **[Creative - Graphic Design Intern](https://jobright.ai/jobs/info/69276880f0beb07232629e99?utm_campaign=1049&utm_source=git)** | Waco, TX | On Site | Nov 26 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - BTS Customer Engagement Intern](https://jobright.ai/jobs/info/69275abbf0beb072326294eb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (February 2026)](https://jobright.ai/jobs/info/69275997f0beb072326293df?utm_campaign=1049&utm_source=git)** | Tower Point, 6th Floor, 27-43 Wormwood Street, Boston, MA 02210, United States of America, Boston | On Site | Nov 26 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/68f5681476a51a4307bd4dfb?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Art Director](https://jobright.ai/jobs/info/69266edb27bf2f41a2c46048?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 25 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/69266e65d47de4798ecd73cc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/69266ce2d47de4798ecd72e2?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 25 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer Merchandise (Memphis, TN)](https://jobright.ai/jobs/info/691ad72f45fb6f5ead8ae323?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Nov 25 |
-| **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Art Director](https://jobright.ai/jobs/info/69266a6b27bf2f41a2c45f54?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
-| ↳ | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/692668e8f0beb07232624b16?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
-| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Designer](https://jobright.ai/jobs/info/692668d6d47de4798ecd70ea?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
