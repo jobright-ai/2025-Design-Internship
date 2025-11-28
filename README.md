@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Intern / Co-Op III](https://jobright.ai/jobs/info/6928eadc91ceeb2e8a546958?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Platform Team Intern](https://jobright.ai/jobs/info/6928bc0cd47de4798ece39fd?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 27 |
 | **[TD](https://www.td.com)** | **[Intern / Co-Op III](https://jobright.ai/jobs/info/6928bb9df0beb0723263133f?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Graphic Design Internship](https://jobright.ai/jobs/info/6928b04991ceeb2e8a546224?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[SPX Technologies](https://www.spx.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/691a9aa8bcdbf3560c9d912d?utm_campaign=1049&utm_source=git)** | Burr Ridge, IL | On Site | Nov 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb1d7c3c99cc1d96028c27?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 27 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68cfb216fb49c96ca6eaae52?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Nov 27 |
-| **[Philo Homes](https://philo.homes/)** | **[Graphic Design Intern_Mandarin_English](https://jobright.ai/jobs/info/69280956f0beb0723262f2b6?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Nov 27 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/692803e4f0beb0723262f198?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 26 |
 | **[Asha Leopard INC.](http://asha-leopard.com)** | **[平面设计专员](https://jobright.ai/jobs/info/6927f002f0beb0723262edce?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 26 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Arts Axis Florida Brand Student Intern-WUSF](https://jobright.ai/jobs/info/6927e22d91ceeb2e8a543ced?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 26 |
@@ -108,12 +108,12 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Planning & Development Intern](https://jobright.ai/jobs/info/6927854791ceeb2e8a540b0e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (February 2026)](https://jobright.ai/jobs/info/692780e0f0beb0723262b46c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | ↳ | **[UX/UI Design Intern - Digital Experience Team (Summer 2026)](https://jobright.ai/jobs/info/69277b8f91ceeb2e8a53ff57?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 26 |
+| **[Magnolia](https://magnolia.com)** | **[Magnolia Journal Art Production Intern](https://jobright.ai/jobs/info/69276ede91ceeb2e8a53f3d8?utm_campaign=1049&utm_source=git)** | Waco, TX | On Site | Nov 26 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[Arts Axis Florida Brand Student Intern-WUSF](https://jobright.ai/jobs/info/69276e98f0beb0723262a209?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Nov 26 |
 | **[Magnolia](https://magnolia.com)** | **[Creative - Graphic Design Intern](https://jobright.ai/jobs/info/69276dfdd47de4798ecdc8f0?utm_campaign=1049&utm_source=git)** | Waco, TX | On Site | Nov 26 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer (Memphis, TN)](https://jobright.ai/jobs/info/691ad68445fb6f5ead8ae2f2?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Nov 26 |
 | **[Johnson, Mirmiran & Thompson](http://jmt.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69276cbed47de4798ecdc7fc?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD | Hybrid | Nov 26 |
 | **[University of South Florida](http://www.usf.edu)** | **[Arts Axis Florida Brand Student Intern-WUSF](https://jobright.ai/jobs/info/69276b7e91ceeb2e8a53f0ca?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 26 |
-| **[Magnolia](https://magnolia.com)** | **[Magnolia Journal Art Production Intern](https://jobright.ai/jobs/info/69276740d47de4798ecdc48d?utm_campaign=1049&utm_source=git)** | Waco, TX | On Site | Nov 26 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - BTS Customer Engagement Intern](https://jobright.ai/jobs/info/69275abbf0beb072326294eb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (February 2026)](https://jobright.ai/jobs/info/69275997f0beb072326293df?utm_campaign=1049&utm_source=git)** | Tower Point, 6th Floor, 27-43 Wormwood Street, Boston, MA 02210, United States of America, Boston | On Site | Nov 26 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/68f5681476a51a4307bd4dfb?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Nov 26 |
