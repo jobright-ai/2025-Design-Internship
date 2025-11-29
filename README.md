@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JBIER Inc.](https://www.jbierboutique.com)** | **[Web Design, Photography, and Videography Intern](https://jobright.ai/jobs/info/692a536e66796e3028f8ed40?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Nov 28 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/6917e169bcdbf3560c9cc434?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Nov 28 |
 | **[Ontario Energy Board](https://oeb.ca)** | **[Summer Student, Engagement, Digital and Creative Services](https://jobright.ai/jobs/info/6929f8724c474121999caf77?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[Summer Intern - Document & Drawing Digitization](https://jobright.ai/jobs/info/68f18b8fe6870116b1f5a42b?utm_campaign=1049&utm_source=git)** | Arkansas, United States | On Site | Nov 28 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Castlewood Apparel Corp.](https://www.castlewoodapparel.com)** | **[Design Intern](https://jobright.ai/jobs/info/6928a83ef0beb07232630fcd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[DV8 Communication](https://www.dv8communication.com/)** | **[Graphic Designer Internship (2 months)](https://jobright.ai/jobs/info/6928a51591ceeb2e8a5460b5?utm_campaign=1049&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Nov 27 |
 | **[FutureNexus Labs Inc.](http://www.futurenxl.com)** | **[Creative Interns (Multiple Roles)](https://jobright.ai/jobs/info/69299f974c474121999c9e83?utm_campaign=1049&utm_source=git)** | Canada | Remote | Nov 27 |
-| **[YourBookTeam](https://yourbookteam.com)** | **[Book Formatting Intern](https://jobright.ai/jobs/info/6928943391ceeb2e8a545e25?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 27 |
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efde109821486c423c7d63?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Nov 27 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd5c9821486c423c7cae?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 27 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Branding & Design Intern - Summer 2026](https://jobright.ai/jobs/info/690be878221b890c277f9aaf?utm_campaign=1049&utm_source=git)** | Highland Heights, OH | On Site | Nov 27 |
