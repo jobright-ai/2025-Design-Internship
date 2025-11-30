@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StreamScoop](https://streamscoop.substack.com/)** | **[Graphic Design/Social Media Manager](https://jobright.ai/jobs/info/692c875efa28370be269b2ce?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Socials Graphic Design Winter Intern (Unpaid)](https://jobright.ai/jobs/info/692c85564c474121999d02c5?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Nov 30 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Web Production Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68f2b7529a63986de756b46a?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Nov 30 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Graphics Design Intern (Various Locations)](https://jobright.ai/jobs/info/690f705e988c2b7b4ec4e047?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Nov 30 |
-| **[Orvanta](orvanta.us)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/692c638bfa28370be269b04c?utm_campaign=1049&utm_source=git)** | Texas, United States | Remote | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/68eb57042f64880ca0b57033?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Design Internship](https://jobright.ai/jobs/info/6917065ebcdbf3560c9c4300?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Design Research Intern](https://jobright.ai/jobs/info/68cf9dbffb49c96ca6ea9c2f?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
@@ -137,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[City of Arvada](https://arvada.org)** | **[Digital Media Production Intern](https://jobright.ai/jobs/info/692958d066796e3028f8c07f?utm_campaign=1049&utm_source=git)** | Arvada City Hall | On Site | Nov 28 |
 | **[Philo Homes](https://philo.homes/)** | **[Graphic Design Intern (Bilingual_Unpaid)](https://jobright.ai/jobs/info/692917ed91ceeb2e8a546f2b?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Nov 27 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Intern / Co-Op III](https://jobright.ai/jobs/info/6928eadc91ceeb2e8a546958?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
-| **[TD](https://www.td.com)** | **[Intern / Co-Op III](https://jobright.ai/jobs/info/692c81d24c474121999d0280?utm_campaign=1049&utm_source=git)** | Toronto, Ontario | Hybrid | Nov 27 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Platform Team Intern](https://jobright.ai/jobs/info/6928bc0cd47de4798ece39fd?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 27 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Graphic Design Internship](https://jobright.ai/jobs/info/6928b04991ceeb2e8a546224?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
 | **[Castlewood Apparel Corp.](https://www.castlewoodapparel.com)** | **[Design Intern](https://jobright.ai/jobs/info/6928a83ef0beb07232630fcd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Graco](http://graco.com/in/en/)** | **[Interior Planning and Design Intern](https://jobright.ai/jobs/info/68d460b28c62e63bc7fe8be5?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/692002e209cc522e877472e3?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/690bad8c4a1b456627b11823?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Nov 27 |
+| **[Weil-McLain](https://www.weil-mclain.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690bb1e9d046ab6061ce68d3?utm_campaign=1049&utm_source=git)** | Burr Ridge, IL | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
