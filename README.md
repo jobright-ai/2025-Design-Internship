@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ogilvy New York](https://www.ogilvy.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/692b72eefa28370be2698c4e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 29 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/692b316a4c474121999cd6dd?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 29 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Nov 29 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68f15cefe6870116b1f57afa?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Graphic Design](https://jobright.ai/jobs/info/69202d93a49a885af9a372db?utm_campaign=1049&utm_source=git)** | Avon, OH | On Site | Nov 29 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b74ef766b3f0fd09546?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Nov 29 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Spring 2026)](https://jobright.ai/jobs/info/690e31c4d046ab6061cfb2fd?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 29 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc Footwear & Apparel, Color & Materials Design Intern](https://jobright.ai/jobs/info/68f1bca5e6870116b1f5c843?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 29 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8046221b890c2780eb2d?utm_campaign=1049&utm_source=git)** | Cambridge, MA | Hybrid | Nov 29 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f14b67ef766b3f0fd0b593?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 29 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68d700ee45853d0e39ccbf0b?utm_campaign=1049&utm_source=git)** | Appleton, WI | On Site | Nov 29 |
@@ -128,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Intern / Co-Op III](https://jobright.ai/jobs/info/6928bb9df0beb0723263133f?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Graphic Design Internship](https://jobright.ai/jobs/info/6928b04991ceeb2e8a546224?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
 | **[Castlewood Apparel Corp.](https://www.castlewoodapparel.com)** | **[Design Intern](https://jobright.ai/jobs/info/6928a83ef0beb07232630fcd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 27 |
-| **[FutureNexus Labs Inc.](http://www.futurenxl.com)** | **[Creative Interns (Multiple Roles)](https://jobright.ai/jobs/info/69299f974c474121999c9e83?utm_campaign=1049&utm_source=git)** | Canada | Remote | Nov 27 |
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efde109821486c423c7d63?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Nov 27 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd5c9821486c423c7cae?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 27 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Branding & Design Intern - Summer 2026](https://jobright.ai/jobs/info/690be878221b890c277f9aaf?utm_campaign=1049&utm_source=git)** | Highland Heights, OH | On Site | Nov 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Madison Square Garden Entertainment Corp.](https://www.msgentertainment.com/)** | **[Graphic Design - Sports Summer 2026 Student Associate Program](https://jobright.ai/jobs/info/690bbc984a1b456627b1229d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68fb5fdb4129dd33cd131d21?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Nov 27 |
 | **[SPX Technologies](https://www.spx.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/691a9aa8bcdbf3560c9d912d?utm_campaign=1049&utm_source=git)** | Burr Ridge, IL | On Site | Nov 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb1d7c3c99cc1d96028c27?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Nov 27 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68cfb216fb49c96ca6eaae52?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
