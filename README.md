@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[StreamScoop](https://streamscoop.substack.com/)** | **[Graphic Design/Social Media Manager](https://jobright.ai/jobs/info/692c875efa28370be269b2ce?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 30 |
+| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Area Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/692cbd5e66796e3028f93534?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 30 |
+| **[Cindy Castro New York](https://www.cindycastro.com)** | **[Fashion Design Internship / Spring 26](https://jobright.ai/jobs/info/692cb69dfa28370be269b725?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 30 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Socials Graphic Design Winter Intern (Unpaid)](https://jobright.ai/jobs/info/692c85564c474121999d02c5?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Nov 30 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Web Production Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68f2b7529a63986de756b46a?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Nov 30 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Graphics Design Intern (Various Locations)](https://jobright.ai/jobs/info/690f705e988c2b7b4ec4e047?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Nov 30 |
@@ -136,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - 3D Art](https://jobright.ai/jobs/info/68d5de6f1f7fb2169ab14425?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 28 |
 | **[City of Arvada](https://arvada.org)** | **[Digital Media Production Intern](https://jobright.ai/jobs/info/692958d066796e3028f8c07f?utm_campaign=1049&utm_source=git)** | Arvada City Hall | On Site | Nov 28 |
 | **[Philo Homes](https://philo.homes/)** | **[Graphic Design Intern (Bilingual_Unpaid)](https://jobright.ai/jobs/info/692917ed91ceeb2e8a546f2b?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Nov 27 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Intern / Co-Op III](https://jobright.ai/jobs/info/6928eadc91ceeb2e8a546958?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Platform Team Intern](https://jobright.ai/jobs/info/6928bc0cd47de4798ece39fd?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 27 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Graphic Design Internship](https://jobright.ai/jobs/info/6928b04991ceeb2e8a546224?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
 | **[Castlewood Apparel Corp.](https://www.castlewoodapparel.com)** | **[Design Intern](https://jobright.ai/jobs/info/6928a83ef0beb07232630fcd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 27 |
