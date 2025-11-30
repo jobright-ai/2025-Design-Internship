@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/692b983266796e3028f90c08?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Nov 29 |
 | **[Ogilvy New York](https://www.ogilvy.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/692b72eefa28370be2698c4e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 29 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/692b316a4c474121999cd6dd?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 29 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Lighting Design Intern (Available June 2026)](https://jobright.ai/jobs/info/68bff9298e65e77df55be72c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 28 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - 3D Art](https://jobright.ai/jobs/info/68d5de6f1f7fb2169ab14425?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 28 |
 | **[City of Arvada](https://arvada.org)** | **[Digital Media Production Intern](https://jobright.ai/jobs/info/692958d066796e3028f8c07f?utm_campaign=1049&utm_source=git)** | Arvada City Hall | On Site | Nov 28 |
-| **[For Love & Lemons](http://www.forloveandlemons.com/)** | **[Fashion Design Internship](https://jobright.ai/jobs/info/692957794c474121999c9225?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Nov 28 |
 | **[Philo Homes](https://philo.homes/)** | **[Graphic Design Intern (Bilingual_Unpaid)](https://jobright.ai/jobs/info/692917ed91ceeb2e8a546f2b?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Nov 27 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Intern / Co-Op III](https://jobright.ai/jobs/info/6928eadc91ceeb2e8a546958?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Platform Team Intern](https://jobright.ai/jobs/info/6928bc0cd47de4798ece39fd?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 27 |
