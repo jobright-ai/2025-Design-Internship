@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[4Creeks, Inc.](https://www.4-creeks.com)** | **[Architectural Designer Summer Internship 2026 (Visalia)](https://jobright.ai/jobs/info/692d47c9fa28370be269c432?utm_campaign=1049&utm_source=git)** | Visalia, California, United States | On Site | Nov 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/692d2d84fa28370be269c16c?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 30 |
+| **[KnitWell Group](https://knitwellgroup.com/)** | **[Intern Spring '26 - Design](https://jobright.ai/jobs/info/692d3e1766796e3028f94046?utm_campaign=1049&utm_source=git)** | New York Office | On Site | Nov 30 |
 | **[Find Me](https://fyndme.co)** | **[Senior - UX/UI/Graphic Design Intern – Unpaid](https://jobright.ai/jobs/info/692d192ffa28370be269c004?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Enilram Creative Solutions LLC](https://www.enilramcreative.com/links)** | **[Enilram Creative Solutions - 2026 Internship Program](https://jobright.ai/jobs/info/692cd5a966796e3028f936c0?utm_campaign=1049&utm_source=git)** | Florida, United States | Remote | Nov 30 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Nov 30 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Design Internship - Albuquerque, NM](https://jobright.ai/jobs/info/68d759b461a175619f8c9cb8?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Nov 29 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/692b983266796e3028f90c08?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Nov 29 |
 | **[Ogilvy New York](https://www.ogilvy.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/692b72eefa28370be2698c4e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
+| **[Homely](https://www.cardenashomestays.com)** | **[Short term rental Interior Design / Staging Internship (Paid)](https://jobright.ai/jobs/info/692d35e84c474121999d122f?utm_campaign=1049&utm_source=git)** | Greater Seattle Area | Hybrid | Nov 29 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 29 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Nov 29 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68f15cefe6870116b1f57afa?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Digital and Graphic Design Intern](https://jobright.ai/jobs/info/690c2316221b890c277fbd4b?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Nov 27 |
 | **[IDEMIA Public Security](https://na.idemia.com/)** | **[User Experience Design Research Internship - Summer 2026](https://jobright.ai/jobs/info/6928622dd47de4798ece2a6c?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Nov 27 |
 | ↳ | **[Marketing & Communications Internship - Summer 2026](https://jobright.ai/jobs/info/692861d0d47de4798ece2a50?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Nov 27 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[UX Product Design Intern](https://jobright.ai/jobs/info/692856daf0beb0723263017d?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 27 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/690bb0304a1b456627b11a02?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Nov 27 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/690bba3ed046ab6061ce6e7b?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
