@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talbots](http://www.talbots.com)** | **[Intern Spring '26 - Design](https://jobright.ai/jobs/info/692daf7066796e3028f959b7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 01 |
+| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/68ccfc5a77add66568abd1af?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Dec 01 |
+| **[4Creeks, Inc.](https://www.4-creeks.com)** | **[Architectural Designer Summer Internship 2026 (San Luis Obispo)](https://jobright.ai/jobs/info/692dad3366796e3028f95905?utm_campaign=1049&utm_source=git)** | San Luis Obispo, CA | On Site | Dec 01 |
+| **[ticker](https://www.tickerapp.io)** | **[Creative Content Intern (TikTok & Instagram)](https://jobright.ai/jobs/info/692daa2b4c474121999d2ab8?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 01 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Minneapolis)](https://jobright.ai/jobs/info/68ea01ee54fbf903f6a80439?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Dec 01 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68da38220b832179ca4aca24?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 01 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/692d94f44c474121999d2535?utm_campaign=1049&utm_source=git)** | Burr Ridge, IL | On Site | Dec 01 |
+| **[4Creeks, Inc.](https://www.4-creeks.com)** | **[Architectural Designer Summer Internship 2026 (Visalia)](https://jobright.ai/jobs/info/692db5954c474121999d2e7f?utm_campaign=1049&utm_source=git)** | Visalia, CA | On Site | Dec 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Urban, Creative Intern](https://jobright.ai/jobs/info/692d7390fa28370be269cf58?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Dec 01 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Marketing Graphic Designer](https://jobright.ai/jobs/info/692d66904c474121999d1b79?utm_campaign=1049&utm_source=git)** | Effingham, IL | On Site | Dec 01 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Landscape Architect](https://jobright.ai/jobs/info/692d556afa28370be269c758?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 01 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Marketing Graphic Designer](https://jobright.ai/jobs/info/692db4f666796e3028f95b8c?utm_campaign=1049&utm_source=git)** | Effingham, Illinois | On Site | Dec 01 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Urban, Creative Intern](https://jobright.ai/jobs/info/692d6d0366796e3028f94ab2?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA, USA | On Site | Dec 01 |
 | **[4Creeks, Inc.](https://www.4-creeks.com)** | **[Architectural Designer Summer Internship 2026 (San Luis Obispo)](https://jobright.ai/jobs/info/692d4a0c4c474121999d14f3?utm_campaign=1049&utm_source=git)** | San Luis Obispo, California, United States | On Site | Nov 30 |
 | ↳ | **[Architectural Designer Summer Internship 2026 (Visalia)](https://jobright.ai/jobs/info/692d47c9fa28370be269c432?utm_campaign=1049&utm_source=git)** | Visalia, California, United States | On Site | Nov 30 |
@@ -72,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Nov 30 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Area Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/692cbd5e66796e3028f93534?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 30 |
 | **[Cindy Castro New York](https://www.cindycastro.com)** | **[Fashion Design Internship / Spring 26](https://jobright.ai/jobs/info/692cb69dfa28370be269b725?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 30 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Socials Graphic Design Winter Intern (Unpaid)](https://jobright.ai/jobs/info/692c85564c474121999d02c5?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Nov 30 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Web Production Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68f2b7529a63986de756b46a?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Nov 30 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Graphics Design Intern (Various Locations)](https://jobright.ai/jobs/info/690f705e988c2b7b4ec4e047?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/68eb57042f64880ca0b57033?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
@@ -129,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d15f462172a5a7d3bdf?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efd822de50091dbfa509a5?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68f08d601f624a7ec1cf3ff4?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 28 |
-| **[Brightly Software](https://www.brightlysoftware.com)** | **[Product Design Intern- US 2026](https://jobright.ai/jobs/info/6929cddf66796e3028f8d241?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Remote | Nov 28 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Visual Merchandising Internship](https://jobright.ai/jobs/info/69171dc73ea85638ae1c7f30?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68f003ca9821486c423c8ad6?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
 | **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern (Spring 2026)](https://jobright.ai/jobs/info/68dee2fb09bda65a4b62ebbd?utm_campaign=1049&utm_source=git)** | Pittston, PA | Hybrid | Nov 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - 3D Art](https://jobright.ai/jobs/info/68d5de6f1f7fb2169ab14425?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 28 |
 | **[City of Arvada](https://arvada.org)** | **[Digital Media Production Intern](https://jobright.ai/jobs/info/692958d066796e3028f8c07f?utm_campaign=1049&utm_source=git)** | Arvada City Hall | On Site | Nov 28 |
 | **[Philo Homes](https://philo.homes/)** | **[Graphic Design Intern (Bilingual_Unpaid)](https://jobright.ai/jobs/info/692917ed91ceeb2e8a546f2b?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Nov 27 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Platform Team Intern](https://jobright.ai/jobs/info/6928bc0cd47de4798ece39fd?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Nov 27 |
-| **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Graphic Design Internship](https://jobright.ai/jobs/info/6928b04991ceeb2e8a546224?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
-| **[Castlewood Apparel Corp.](https://www.castlewoodapparel.com)** | **[Design Intern](https://jobright.ai/jobs/info/6928a83ef0beb07232630fcd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 27 |
-| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efde109821486c423c7d63?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Nov 27 |
-| ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd5c9821486c423c7cae?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
