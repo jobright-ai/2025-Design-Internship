@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Urban, Creative Intern](https://jobright.ai/jobs/info/692d7390fa28370be269cf58?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Dec 01 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Marketing Graphic Designer](https://jobright.ai/jobs/info/692d66904c474121999d1b79?utm_campaign=1049&utm_source=git)** | Effingham, IL | On Site | Dec 01 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Landscape Architect](https://jobright.ai/jobs/info/692d556afa28370be269c758?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 01 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Urban, Creative Intern](https://jobright.ai/jobs/info/692d6d0366796e3028f94ab2?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA, USA | On Site | Dec 01 |
 | **[4Creeks, Inc.](https://www.4-creeks.com)** | **[Architectural Designer Summer Internship 2026 (San Luis Obispo)](https://jobright.ai/jobs/info/692d4a0c4c474121999d14f3?utm_campaign=1049&utm_source=git)** | San Luis Obispo, California, United States | On Site | Nov 30 |
 | ↳ | **[Architectural Designer Summer Internship 2026 (Visalia)](https://jobright.ai/jobs/info/692d47c9fa28370be269c432?utm_campaign=1049&utm_source=git)** | Visalia, California, United States | On Site | Nov 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/692d2d84fa28370be269c16c?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd5c9821486c423c7cae?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Nov 27 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Branding & Design Intern - Summer 2026](https://jobright.ai/jobs/info/690be878221b890c277f9aaf?utm_campaign=1049&utm_source=git)** | Highland Heights, OH | On Site | Nov 27 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Spring Web and Digital Intern: Spring 2026](https://jobright.ai/jobs/info/68d46d09ffc1276de3fdad23?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Nov 27 |
-| **[Winsupply](http://www.winsupplyinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68b712501ade4306aa6477a7?utm_campaign=1049&utm_source=git)** | Moraine, OH | On Site | Nov 27 |
-| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/68ea31cd4ae33307d3eda388?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Nov 27 |
-| **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Digital and Graphic Design Intern](https://jobright.ai/jobs/info/690c2316221b890c277fbd4b?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
