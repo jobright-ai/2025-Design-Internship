@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[4Creeks, Inc.](https://www.4-creeks.com)** | **[Architectural Designer Summer Internship 2026 (Visalia)](https://jobright.ai/jobs/info/692d47c9fa28370be269c432?utm_campaign=1049&utm_source=git)** | Visalia, California, United States | On Site | Nov 30 |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Landscape Architect](https://jobright.ai/jobs/info/692d556afa28370be269c758?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 01 |
+| **[4Creeks, Inc.](https://www.4-creeks.com)** | **[Architectural Designer Summer Internship 2026 (San Luis Obispo)](https://jobright.ai/jobs/info/692d4a0c4c474121999d14f3?utm_campaign=1049&utm_source=git)** | San Luis Obispo, California, United States | On Site | Nov 30 |
+| ↳ | **[Architectural Designer Summer Internship 2026 (Visalia)](https://jobright.ai/jobs/info/692d47c9fa28370be269c432?utm_campaign=1049&utm_source=git)** | Visalia, California, United States | On Site | Nov 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/692d2d84fa28370be269c16c?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Nov 30 |
 | **[KnitWell Group](https://knitwellgroup.com/)** | **[Intern Spring '26 - Design](https://jobright.ai/jobs/info/692d3e1766796e3028f94046?utm_campaign=1049&utm_source=git)** | New York Office | On Site | Nov 30 |
 | **[Find Me](https://fyndme.co)** | **[Senior - UX/UI/Graphic Design Intern – Unpaid](https://jobright.ai/jobs/info/692d192ffa28370be269c004?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Winsupply](http://www.winsupplyinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68b712501ade4306aa6477a7?utm_campaign=1049&utm_source=git)** | Moraine, OH | On Site | Nov 27 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/68ea31cd4ae33307d3eda388?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Nov 27 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Digital and Graphic Design Intern](https://jobright.ai/jobs/info/690c2316221b890c277fbd4b?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Nov 27 |
-| **[IDEMIA Public Security](https://na.idemia.com/)** | **[User Experience Design Research Internship - Summer 2026](https://jobright.ai/jobs/info/6928622dd47de4798ece2a6c?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Nov 27 |
-| ↳ | **[Marketing & Communications Internship - Summer 2026](https://jobright.ai/jobs/info/692861d0d47de4798ece2a50?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
