@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heartland Food Products Group](http://heartlandfpg.com/)** | **[Design Intern - Splenda](https://jobright.ai/jobs/info/692dcd5d66796e3028f96606?utm_campaign=1049&utm_source=git)** | Carmel, IN, US | On Site | Dec 01 |
+| **[Kadant Black Clawson LLC](http://fiberprocessing.kadant.com)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/692dcbe5fa28370be269e7cc?utm_campaign=1049&utm_source=git)** | Lebanon, OH | On Site | Dec 01 |
 | **[Talbots](http://www.talbots.com)** | **[Intern Spring '26 - Design](https://jobright.ai/jobs/info/692daf7066796e3028f959b7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 01 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/68ccfc5a77add66568abd1af?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Dec 01 |
 | **[4Creeks, Inc.](https://www.4-creeks.com)** | **[Architectural Designer Summer Internship 2026 (San Luis Obispo)](https://jobright.ai/jobs/info/692dad3366796e3028f95905?utm_campaign=1049&utm_source=git)** | San Luis Obispo, CA | On Site | Dec 01 |
 | **[ticker](https://www.tickerapp.io)** | **[Creative Content Intern (TikTok & Instagram)](https://jobright.ai/jobs/info/692daa2b4c474121999d2ab8?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 01 |
+| **[Lyft](https://www.lyft.com/)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6916eba09c388539cbdffeff?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 01 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Minneapolis)](https://jobright.ai/jobs/info/68ea01ee54fbf903f6a80439?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Dec 01 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/68da38220b832179ca4aca24?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 01 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/692d94f44c474121999d2535?utm_campaign=1049&utm_source=git)** | Burr Ridge, IL | On Site | Dec 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket](https://rocket.delivery/null/en)** | **[Print Technician Intern - Summer 2026](https://jobright.ai/jobs/info/690d22b6d046ab6061cf344d?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Nov 28 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68b73c792124650c14020947?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Nov 28 |
 | **[Arup](http://www.arup.com)** | **[Lighting Design Intern (Available June 2026)](https://jobright.ai/jobs/info/68bff9298e65e77df55be72c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 28 |
-| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - 3D Art](https://jobright.ai/jobs/info/68d5de6f1f7fb2169ab14425?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 28 |
-| **[City of Arvada](https://arvada.org)** | **[Digital Media Production Intern](https://jobright.ai/jobs/info/692958d066796e3028f8c07f?utm_campaign=1049&utm_source=git)** | Arvada City Hall | On Site | Nov 28 |
-| **[Philo Homes](https://philo.homes/)** | **[Graphic Design Intern (Bilingual_Unpaid)](https://jobright.ai/jobs/info/692917ed91ceeb2e8a546f2b?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
