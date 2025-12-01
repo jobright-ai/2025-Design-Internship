@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enilram Creative Solutions LLC](https://www.enilramcreative.com/links)** | **[Enilram Creative Solutions - 2026 Internship Program](https://jobright.ai/jobs/info/692cd5a966796e3028f936c0?utm_campaign=1049&utm_source=git)** | Florida, United States | Remote | Nov 30 |
+| **[MeshyAI](https://www.meshy.ai/)** | **[Community Intern](https://jobright.ai/jobs/info/68d441ac17554c2d9eef759f?utm_campaign=1049&utm_source=git)** | US Remote | Hybrid | Nov 30 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Area Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/692cbd5e66796e3028f93534?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Nov 30 |
 | **[Cindy Castro New York](https://www.cindycastro.com)** | **[Fashion Design Internship / Spring 26](https://jobright.ai/jobs/info/692cb69dfa28370be269b725?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 30 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Socials Graphic Design Winter Intern (Unpaid)](https://jobright.ai/jobs/info/692c85564c474121999d02c5?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Digital Sculpting](https://jobright.ai/jobs/info/68e88eb209580a2fe57f91a6?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Nov 27 |
 | **[Graco](http://graco.com/in/en/)** | **[Interior Planning and Design Intern](https://jobright.ai/jobs/info/68d460b28c62e63bc7fe8be5?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Nov 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/692002e209cc522e877472e3?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Nov 27 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/690bad8c4a1b456627b11823?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Nov 27 |
-| **[Weil-McLain](https://www.weil-mclain.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690bb1e9d046ab6061ce68d3?utm_campaign=1049&utm_source=git)** | Burr Ridge, IL | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
