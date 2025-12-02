@@ -58,9 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[American Medical Association](http://ama-assn.org)** | **[Intern, Medical Illustration (Hybrid)](https://jobright.ai/jobs/info/692e73ecef4b48533d13ffda?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Dec 01 |
+| **[AccuData Integrated Marketing](http://www.accudata.com)** | **[Summer 2026 Design and Production Internship, Los Angeles - Onsite](https://jobright.ai/jobs/info/692e8367ef4b48533d1404ba?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 01 |
+| ↳ | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692e7e104c474121999d9d72?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[Centric Brands](https://centricbrands.com)** | **[Design Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e70fa4c474121999d9863?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[Goodwill Industries of South Florida](https://goodwillsouthflorida.org/)** | **[Intern - Donated Goods](https://jobright.ai/jobs/info/692e6d9f4c474121999d9760?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Dec 01 |
-| **[Blue Ventis](blueventis.us)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/692e6445ef4b48533d13f74c?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | Remote | Dec 01 |
 | **[Camping World](http://www.campingworld.com/)** | **[Design Intern](https://jobright.ai/jobs/info/692e4d7c4c474121999d835d?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Dec 01 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/692e749dfa28370be26a4bbc?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Dec 01 |
 | **[HDR](http://www.hdrinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/692e4b69ef4b48533d13e796?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Progressive Companies](http://www.progressiveae.com)** | **[Summer 2026 Landscape Architecture Intern](https://jobright.ai/jobs/info/691d52940b7dff734150289e?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Nov 29 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship (Touring)](https://jobright.ai/jobs/info/68d594dd39247e3c807ed486?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fa544146d3b6ec557b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Nov 29 |
-| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e67bf44146d3b6ec53d00?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
