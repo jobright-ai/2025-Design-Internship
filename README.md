@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Structural/Graphic Design Intern](https://jobright.ai/jobs/info/68f6aac79a63986de7581134?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
+| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6912f278d1047e3565d007b6?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Dec 02 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine UX/UI Design Intern- Summer 2026](https://jobright.ai/jobs/info/690ffd15988c2b7b4ec4f8ce?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Dec 02 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern — User Experience Design](https://jobright.ai/jobs/info/692ef6cffa28370be26a6996?utm_campaign=1049&utm_source=git)** | Burlington, NC | On Site | Dec 02 |
+| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2026](https://jobright.ai/jobs/info/692ef4fe4c474121999db783?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Dec 02 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern — User Experience Design](https://jobright.ai/jobs/info/692ef2b5ef4b48533d141d88?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Remote | Dec 02 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/691288d7ea9ab01b82bf356c?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL | On Site | Dec 02 |
 | **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68cd9c82e23def7af55bca7a?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Dec 02 |
 | **[Root Inc.](https://www.root.com)** | **[Product Design Intern – Loyalty Program Collaboration](https://jobright.ai/jobs/info/69124669ea9ab01b82bf0f16?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 02 |
@@ -64,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Root Inc.](https://www.root.com)** | **[Product Design Intern, Internal Tooling](https://jobright.ai/jobs/info/69123fdeea9ab01b82bf0b20?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 02 |
 | ↳ | **[UX Research Intern – Voice of Customer (VOC)](https://jobright.ai/jobs/info/69124e32ea9ab01b82bf1396?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 02 |
 | ↳ | **[UX Research Intern – Loyalty Program Strategy](https://jobright.ai/jobs/info/691240e7c98948514c479d8f?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 02 |
+| **[Celtra](http://www.celtra.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/692ef7acfa28370be26a69f4?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Dec 02 |
 | **[Amway](http://www.amway.com)** | **[UI/UX Product Design Intern, Summer 2026 (42290)](https://jobright.ai/jobs/info/68f6a4bf9a65fd3458595a21?utm_campaign=1049&utm_source=git)** | Ada, MI | On Site | Dec 02 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Game Design](https://jobright.ai/jobs/info/68db22830dffed6f83d2cab8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 02 |
 | ↳ | **[2026 US Summer Internships - Character Art](https://jobright.ai/jobs/info/68db1faa6df7b8311bb1633b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ogilvy New York](https://www.ogilvy.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/692b72eefa28370be2698c4e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 29 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Nov 29 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68f15cefe6870116b1f57afa?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Internship in Digital Media, 3D artist (Winter, 2026)](https://jobright.ai/jobs/info/6916ef5f286ccf0a1513aeb4?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Nov 29 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc Apparel Design Intern](https://jobright.ai/jobs/info/68f1bcafe6870116b1f5c85f?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 29 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Graphic Design](https://jobright.ai/jobs/info/69202d93a49a885af9a372db?utm_campaign=1049&utm_source=git)** | Avon, OH | On Site | Nov 29 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc Footwear Design Intern](https://jobright.ai/jobs/info/68f1bd5ee6870116b1f5c997?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 29 |
-| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b74ef766b3f0fd09546?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Nov 29 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Spring 2026)](https://jobright.ai/jobs/info/690e31c4d046ab6061cfb2fd?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
