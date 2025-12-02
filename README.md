@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Camping World](http://www.campingworld.com/)** | **[Construction Design Intern](https://jobright.ai/jobs/info/692f24cefa28370be26a7b50?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 02 |
+| **[Canon USA](https://www.usa.canon.com)** | **[Photo & Video Intern - Part Time](https://jobright.ai/jobs/info/69126530c98948514c47b503?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Structural/Graphic Design Intern](https://jobright.ai/jobs/info/68f6aac79a63986de7581134?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6912f278d1047e3565d007b6?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Dec 02 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[10115131 Disney Corporate Creative Resources UX Design Intern, Spring 2026](https://jobright.ai/jobs/info/692f1ca7fa28370be26a772d?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | Hybrid | Dec 02 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine UX/UI Design Intern- Summer 2026](https://jobright.ai/jobs/info/690ffd15988c2b7b4ec4f8ce?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI | On Site | Dec 02 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern — User Experience Design](https://jobright.ai/jobs/info/692ef6cffa28370be26a6996?utm_campaign=1049&utm_source=git)** | Burlington, NC | On Site | Dec 02 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2026](https://jobright.ai/jobs/info/692ef4fe4c474121999db783?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Dec 02 |
+| **[Gleam Media Studios](https://gleamstudios.framer.website)** | **[Creative Content Intern (Video & AI Art)](https://jobright.ai/jobs/info/692f1445ef4b48533d14296f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 02 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern — User Experience Design](https://jobright.ai/jobs/info/692ef2b5ef4b48533d141d88?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Remote | Dec 02 |
 | **[TopBuild](http://www.topbuild.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/691288d7ea9ab01b82bf356c?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL | On Site | Dec 02 |
 | **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68cd9c82e23def7af55bca7a?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Dec 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Premier](https://www.premierpm.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/690f46b3221b890c27814cdf?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Nov 30 |
 | **[Atlassian](https://www.atlassian.com)** | **[Product Design Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68f753ecb0edcf159dc7ad16?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Nov 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Design Internship - Albuquerque, NM](https://jobright.ai/jobs/info/68d759b461a175619f8c9cb8?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Nov 29 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/692b983266796e3028f90c08?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Nov 29 |
-| **[Ogilvy New York](https://www.ogilvy.com/)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Integrated Production](https://jobright.ai/jobs/info/692b72eefa28370be2698c4e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc Product Graphics Design Intern](https://jobright.ai/jobs/info/68f1c3c3f462172a5a7dc53d?utm_campaign=1049&utm_source=git)** | Beaverton, OR | On Site | Nov 29 |
-| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/684d0a44ef735fe085bd08da?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
