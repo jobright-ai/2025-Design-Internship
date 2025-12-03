@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69264df127bf2f41a2c45232?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Dec 02 |
 | **[The Growth X](https://www.linkedin.com/company/33198212)** | **[Social Media Graphic Designer](https://jobright.ai/jobs/info/692fa219ef4b48533d1479a4?utm_campaign=1049&utm_source=git)** | LA Metro Area | Remote | Dec 02 |
 | **[Carters Inc.](http://www.carters.com)** | **[Art Intern, Summer 2026](https://jobright.ai/jobs/info/692fa1404c474121999e134a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 02 |
+| **[ELSEHERE](elsehereglobal.com)** | **[Founding Collaborators](https://jobright.ai/jobs/info/692fd975fa28370be26add18?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Wray Ward](https://www.wrayward.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/692f9434ef4b48533d147003?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Dec 02 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Materials Library / Summer 2026](https://jobright.ai/jobs/info/692f938fef4b48533d146f6e?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
 | **[Carters Inc.](http://www.carters.com)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/692f8fa04c474121999e066c?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 02 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/692f84484c474121999dff6a?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 02 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/692f57af4c474121999ddf96?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 02 |
 | **[Garan, Incorporated](http://www.garanimals.com/)** | **[Technical Design Intern](https://jobright.ai/jobs/info/692f37664c474121999dd0df?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| **[Women Speak Up](www.womenspeakupus.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/692f90a5fa28370be26ab8b1?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 02 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Creative Services Intern - Telemundo Colorado](https://jobright.ai/jobs/info/692f4b4a4c474121999dd904?utm_campaign=1049&utm_source=git)** | 4100 E Dry Creek Road, Centennial, COLORADO | On Site | Dec 02 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern (Juicy Couture Daywear)](https://jobright.ai/jobs/info/692f645f4c474121999de7f7?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Dec 02 |
 | **[Netup](https://www.netup.social)** | **[Brand designer Intern - Mandarin Speaking](https://jobright.ai/jobs/info/692f46cdfa28370be26a881c?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 02 |
@@ -90,14 +90,11 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/692f6a62fa28370be26a9e78?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Dec 02 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692fa5b6ef4b48533d147beb?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Dec 02 |
 | **[Riot Games](http://www.riotgames.com)** | **[Technical Game Design Intern, 2XKO - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091ab9bcccf20de59d7315?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 02 |
-| **[HONOR](https://www.honornyc.com)** | **[Luxury Womenswear Design Internship](https://jobright.ai/jobs/info/692f6ff94c474121999df028?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| **[YourBookTeam](https://yourbookteam.com)** | **[Website Building Intern](https://jobright.ai/jobs/info/692f6687ef4b48533d144f2a?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Spring 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/692f6bbefa28370be26a9f8e?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 02 |
 | **[Carters Inc.](http://www.carters.com)** | **[Art Intern, Summer 2026](https://jobright.ai/jobs/info/692f5ce4fa28370be26a93a2?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 02 |
 | **[GPTZero](https://gptzero.me)** | **[Design Intern](https://jobright.ai/jobs/info/692f35c2fa28370be26a815f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 02 |
-| **[Sequel](https://www.trysequel.com/)** | **[Intern](https://jobright.ai/jobs/info/692f60f7fa28370be26a965a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| **[Aptima](http://aptima.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/692f635e4c474121999de76d?utm_campaign=1049&utm_source=git)** | Fully Remote | Remote | Dec 02 |
-| ↳ | **[Graphic Artist Intern](https://jobright.ai/jobs/info/692f62f5ef4b48533d144c9f?utm_campaign=1049&utm_source=git)** | Remote Worker - N/A | Remote | Dec 02 |
+| **[Aptima](http://aptima.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/692f62f5ef4b48533d144c9f?utm_campaign=1049&utm_source=git)** | Remote Worker - N/A | Remote | Dec 02 |
+| ↳ | **[Graphic Artist Intern](https://jobright.ai/jobs/info/692f635e4c474121999de76d?utm_campaign=1049&utm_source=git)** | Fully Remote | Remote | Dec 02 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Creative Services Intern - Telemundo Colorado](https://jobright.ai/jobs/info/692f52c2fa28370be26a8ed8?utm_campaign=1049&utm_source=git)** | Centennial, CO | On Site | Dec 02 |
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/692f9f4bef4b48533d1477cb?utm_campaign=1049&utm_source=git)** | US-NJ-Camden | On Site | Dec 02 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Web and Digital Intern: Summer (Housing Provided)](https://jobright.ai/jobs/info/692f6b8e4c474121999dec3f?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Dec 02 |
@@ -106,9 +103,9 @@ For a complete list, click the following sortable link below:
 | **[DV8 Communication](https://www.dv8communication.com/)** | **[Graphic Designer Internship (2 months)](https://jobright.ai/jobs/info/692f5ac14c474121999de181?utm_campaign=1049&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Dec 02 |
 | **[Riot Games](http://www.riotgames.com)** | **[Technical Art Intern - Rigging, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091c74bcccf20de59d74d0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 02 |
 | ↳ | **[Visual Design Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092865bcccf20de59d80bc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 02 |
-| ↳ | **[Technical Game Design Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909253cbcccf20de59d7e3c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 02 |
 | ↳ | **[Concept Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690916bed046ab6061cd12a2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 02 |
 | ↳ | **[3D Environment Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909268f4a1b456627afd450?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 02 |
+| ↳ | **[Technical Game Design Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909253cbcccf20de59d7e3c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 02 |
 | **[Aspida](http://globalbankers.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/69265571d47de4798ecd6792?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | Dec 02 |
 | **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX/UI Researcher](https://jobright.ai/jobs/info/692f3197ef4b48533d143521?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Canon USA](https://www.usa.canon.com)** | **[Photo & Video Intern - Part Time](https://jobright.ai/jobs/info/69126530c98948514c47b503?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 02 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - San Francisco (Spring 2026)](https://jobright.ai/jobs/info/692e2198fa28370be26a18bd?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
 | **[Camping World](http://www.campingworld.com/)** | **[Design Intern](https://jobright.ai/jobs/info/692e4429fa28370be26a2e9d?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Dec 01 |
 | **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Co-Op/Intern, Creative Resourcing](https://jobright.ai/jobs/info/692e44514c474121999d7c6f?utm_campaign=1049&utm_source=git)** | Location, WV | On Site | Dec 01 |
+| **[Alcon](http://www.alcon.com)** | **[Summer Intern 2026 - Human Computer Interactions](https://jobright.ai/jobs/info/692e13274c474121999d5d9d?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Dec 01 |
+| **[PSEG](https://www.pseg.com)** | **[Summer 2026 - Staff Intern - Graphic Design - Corporate Communications](https://jobright.ai/jobs/info/692e25274c474121999d69ab?utm_campaign=1049&utm_source=git)** | Newark, NJ | Hybrid | Dec 01 |
+| **[Troon](http://www.troon.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/692e4d04fa28370be26a34d6?utm_campaign=1049&utm_source=git)** | Birmingham, AL | Hybrid | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
