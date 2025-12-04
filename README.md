@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Creative Intern](https://jobright.ai/jobs/info/69311ab3ef4b48533d152627?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Dec 03 |
+| **[Orvanta](orvanta.us)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/6931186eef4b48533d1524e5?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | Remote | Dec 03 |
+| **[Flexco](https://flexco.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/693108e0ef4b48533d151bf2?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI, USA | On Site | Dec 03 |
+| **[ROCK](http://www.rockventures.com/)** | **[Apparel Design Intern - Summer 2026](https://jobright.ai/jobs/info/69311fe5ef4b48533d152924?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Design Strategist Intern, NYC](https://jobright.ai/jobs/info/6930efe44c474121999ea819?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 03 |
 | **[Duolingo for Schools](schools.duolingo.com)** | **[Illustrator, Thrive Intern](https://jobright.ai/jobs/info/6930e8934c474121999ea323?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 03 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Architecture Design](https://jobright.ai/jobs/info/6930e4a94c474121999ea105?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 03 |
@@ -64,16 +68,16 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Digital Innovation Intern](https://jobright.ai/jobs/info/6930e0a2fa28370be26b4ce8?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Dec 03 |
 | **[Duolingo for Schools](schools.duolingo.com)** | **[Motion Designer, Thrive Intern](https://jobright.ai/jobs/info/6930db91ef4b48533d150043?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Design Strategist Intern, NYC](https://jobright.ai/jobs/info/6930f086ef4b48533d150ea6?utm_campaign=1049&utm_source=git)** | New York City | On Site | Dec 03 |
+| **[JLG Architects](http://www.jlgarchitects.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6931129fef4b48533d1522cc?utm_campaign=1049&utm_source=git)** | Sioux Falls,SD,US | On Site | Dec 03 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Creative Intern](https://jobright.ai/jobs/info/693102754c474121999eb34f?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA, USA | On Site | Dec 03 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Marketing & Creative Design](https://jobright.ai/jobs/info/6930ccbffa28370be26b3ea3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 03 |
 | **[Parker Zinn](https://www.parkerzinn.com/)** | **[Crafting Intern - Parker Zinn](https://jobright.ai/jobs/info/6930dfa0fa28370be26b4c1e?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Dec 03 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[NIWC - Undergraduate III (Senior) - IMGENS-AI Project (Task 53-132530)](https://jobright.ai/jobs/info/6930dc944c474121999e9b1c?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 03 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/6930dbc4fa28370be26b49ab?utm_campaign=1049&utm_source=git)** | TQL Stadium | On Site | Dec 03 |
-| **[Kittle Property Group](https://kittleproperties.com)** | **[Architect Intern (On-site at the KPG Corporate Office)](https://jobright.ai/jobs/info/6930b3bc4c474121999e7a8c?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Dec 03 |
 | **[Duolingo](https://www.duolingo.com)** | **[Motion Designer, Thrive Intern](https://jobright.ai/jobs/info/6930abfaef4b48533d14daaa?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
 | **[SMRT Architects & Engineers](http://smrtinc.com)** | **[Paid Interior Design Student Intern](https://jobright.ai/jobs/info/6930ec3aef4b48533d150b44?utm_campaign=1049&utm_source=git)** | Andover, MA | On Site | Dec 03 |
-| ↳ | **[Paid Architectural Student Intern](https://jobright.ai/jobs/info/6930e44a4c474121999ea0a7?utm_campaign=1049&utm_source=git)** | Andover, MA | On Site | Dec 03 |
 | ↳ | **[Paid Architectural Student Intern](https://jobright.ai/jobs/info/6930f02afa28370be26b5684?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Dec 03 |
+| ↳ | **[Paid Architectural Student Intern](https://jobright.ai/jobs/info/6930e44a4c474121999ea0a7?utm_campaign=1049&utm_source=git)** | Andover, MA | On Site | Dec 03 |
 | ↳ | **[Paid Interior Design Student Intern](https://jobright.ai/jobs/info/6930dc7e4c474121999e9b09?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Dec 03 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[User Experience Research (UXR) Intern (Summer 2026)](https://jobright.ai/jobs/info/6930ab1cfa28370be26b22be?utm_campaign=1049&utm_source=git)** | Marysville, OH | On Site | Dec 03 |
 | **[Pond Lehocky Giordano Inc.](https://www.pondlehocky.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6930c48e4c474121999e89a2?utm_campaign=1049&utm_source=git)** | Cherry Hill, NJ | On Site | Dec 03 |
@@ -83,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6930be2def4b48533d14e9d7?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Dec 03 |
 | **[SMRT Architects & Engineers](http://smrtinc.com)** | **[Paid Architectural Student Intern](https://jobright.ai/jobs/info/69309beb4c474121999e68a8?utm_campaign=1049&utm_source=git)** | Andover,MA,US | On Site | Dec 03 |
 | **[Meridian of Illinois](http://ilmeridian.com)** | **[Graphic Design Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/6930be68ef4b48533d14ea01?utm_campaign=1049&utm_source=git)** | Illinois, United States | Remote | Dec 03 |
+| **[Kittle Property Group](https://kittleproperties.com)** | **[Architect Intern (On-site at the KPG Corporate Office)](https://jobright.ai/jobs/info/6930c076fa28370be26b34ea?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Dec 03 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/6930b81d4c474121999e7f3e?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 03 |
 | ↳ | **[Illustrator, Thrive Intern](https://jobright.ai/jobs/info/6930b780ef4b48533d14e3a2?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 03 |
 | **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Content Producer Intern](https://jobright.ai/jobs/info/6930ba6f4c474121999e81f0?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Dec 03 |
@@ -93,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Marketing & Creative Design](https://jobright.ai/jobs/info/69309c2c4c474121999e68f2?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Dec 03 |
 | **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6925038fc0cefa13343e57d4?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 03 |
 | **[Centene Corporation](http://www.centene.com)** | **[Graphic Design Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/69307764fa28370be26b06fb?utm_campaign=1049&utm_source=git)** | Remote-IL | Remote | Dec 03 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 3D Design Intern](https://jobright.ai/jobs/info/693075c9ef4b48533d14bc6d?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Dec 03 |
 | **[Duolingo](https://www.duolingo.com)** | **[Illustrator, Thrive Intern](https://jobright.ai/jobs/info/693074b8ef4b48533d14bbe4?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 03 |
 | **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6923a59d7795cd460c838e12?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 03 |
 | **[Headlamp Health](https://www.headlamp.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69308da84c474121999e5fd8?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 03 |
@@ -110,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Design & Production Intern](https://jobright.ai/jobs/info/693072bd4c474121999e5601?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Dec 03 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Content Design Intern](https://jobright.ai/jobs/info/68f6e31e9a63986de7583300?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Dec 03 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/68f14fadf462172a5a7d60d1?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Dec 03 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 3D Design Intern](https://jobright.ai/jobs/info/693081e04c474121999e5b48?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Dec 03 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Graphic Design Internship (Garments)](https://jobright.ai/jobs/info/69172993370fde633d07deb1?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 03 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/68bf497a5c5d5f14f46d5c2a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Dec 03 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/69304337fa28370be26af82c?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Dec 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Creative Services Intern - Telemundo Colorado](https://jobright.ai/jobs/info/692f4b4a4c474121999dd904?utm_campaign=1049&utm_source=git)** | 4100 E Dry Creek Road, Centennial, COLORADO | On Site | Dec 02 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern (Juicy Couture Daywear)](https://jobright.ai/jobs/info/692f645f4c474121999de7f7?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Dec 02 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, Los Angeles - Onsite](https://jobright.ai/jobs/info/692f84afef4b48533d14658b?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Dec 02 |
-| **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/692f6a62fa28370be26a9e78?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Dec 02 |
-| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692fa5b6ef4b48533d147beb?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Dec 02 |
-| **[Riot Games](http://www.riotgames.com)** | **[Technical Game Design Intern, 2XKO - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091ab9bcccf20de59d7315?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 02 |
-| **[Democratic National Committee](https://democrats.org/)** | **[Spring 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/692f6bbefa28370be26a9f8e?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 02 |
-| **[Carters Inc.](http://www.carters.com)** | **[Art Intern, Summer 2026](https://jobright.ai/jobs/info/692f5ce4fa28370be26a93a2?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
