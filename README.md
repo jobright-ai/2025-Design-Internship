@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Creative Intern](https://jobright.ai/jobs/info/69311ab3ef4b48533d152627?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Dec 03 |
-| **[Orvanta](orvanta.us)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/6931186eef4b48533d1524e5?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | Remote | Dec 03 |
 | **[Flexco](https://flexco.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/693108e0ef4b48533d151bf2?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI, USA | On Site | Dec 03 |
 | **[ROCK](http://www.rockventures.com/)** | **[Apparel Design Intern - Summer 2026](https://jobright.ai/jobs/info/69311fe5ef4b48533d152924?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Design Strategist Intern, NYC](https://jobright.ai/jobs/info/6930efe44c474121999ea819?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 03 |
@@ -75,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Parker Zinn](https://www.parkerzinn.com/)** | **[Crafting Intern - Parker Zinn](https://jobright.ai/jobs/info/6930dfa0fa28370be26b4c1e?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Dec 03 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[NIWC - Undergraduate III (Senior) - IMGENS-AI Project (Task 53-132530)](https://jobright.ai/jobs/info/6930dc944c474121999e9b1c?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 03 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/6930dbc4fa28370be26b49ab?utm_campaign=1049&utm_source=git)** | TQL Stadium | On Site | Dec 03 |
+| **[Kittle Property Group](https://kittleproperties.com)** | **[Architect Intern (On-site at the KPG Corporate Office)](https://jobright.ai/jobs/info/6930b3bc4c474121999e7a8c?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Dec 03 |
 | **[Duolingo](https://www.duolingo.com)** | **[Motion Designer, Thrive Intern](https://jobright.ai/jobs/info/6930abfaef4b48533d14daaa?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
 | **[SMRT Architects & Engineers](http://smrtinc.com)** | **[Paid Interior Design Student Intern](https://jobright.ai/jobs/info/6930ec3aef4b48533d150b44?utm_campaign=1049&utm_source=git)** | Andover, MA | On Site | Dec 03 |
 | ↳ | **[Paid Architectural Student Intern](https://jobright.ai/jobs/info/6930e44a4c474121999ea0a7?utm_campaign=1049&utm_source=git)** | Andover, MA | On Site | Dec 03 |
@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6930be2def4b48533d14e9d7?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Dec 03 |
 | **[SMRT Architects & Engineers](http://smrtinc.com)** | **[Paid Architectural Student Intern](https://jobright.ai/jobs/info/69309beb4c474121999e68a8?utm_campaign=1049&utm_source=git)** | Andover,MA,US | On Site | Dec 03 |
 | **[Meridian of Illinois](http://ilmeridian.com)** | **[Graphic Design Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/6930be68ef4b48533d14ea01?utm_campaign=1049&utm_source=git)** | Illinois, United States | Remote | Dec 03 |
-| **[Kittle Property Group](https://kittleproperties.com)** | **[Architect Intern (On-site at the KPG Corporate Office)](https://jobright.ai/jobs/info/6930c076fa28370be26b34ea?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Dec 03 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/6930b81d4c474121999e7f3e?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 03 |
 | ↳ | **[Illustrator, Thrive Intern](https://jobright.ai/jobs/info/6930b780ef4b48533d14e3a2?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 03 |
 | **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Content Producer Intern](https://jobright.ai/jobs/info/6930ba6f4c474121999e81f0?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Dec 03 |
@@ -122,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/69304337fa28370be26af82c?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Dec 03 |
 | **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68cf5c07dbd9fb154ede73c2?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Dec 03 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/68dc110ed6470e72cf4d85df?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Dec 03 |
+| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Technical Writing and Graphics Intern](https://jobright.ai/jobs/info/68daa50e6df7b8311bb10949?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Dec 03 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/693056c5fa28370be26afd53?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Corporate Creative Resources UX Design Intern, Spring 2026](https://jobright.ai/jobs/info/69302ed84c474121999e4485?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Dec 03 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6913f052e344172248f7543f?utm_campaign=1049&utm_source=git)** | Charleston County, SC | On Site | Dec 03 |
