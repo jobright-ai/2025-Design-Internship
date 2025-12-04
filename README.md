@@ -77,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/6930dbc4fa28370be26b49ab?utm_campaign=1049&utm_source=git)** | TQL Stadium | On Site | Dec 03 |
 | **[Duolingo](https://www.duolingo.com)** | **[Motion Designer, Thrive Intern](https://jobright.ai/jobs/info/6930abfaef4b48533d14daaa?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
 | **[SMRT Architects & Engineers](http://smrtinc.com)** | **[Paid Interior Design Student Intern](https://jobright.ai/jobs/info/6930ec3aef4b48533d150b44?utm_campaign=1049&utm_source=git)** | Andover, MA | On Site | Dec 03 |
-| ↳ | **[Paid Architectural Student Intern](https://jobright.ai/jobs/info/6930f02afa28370be26b5684?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Dec 03 |
 | ↳ | **[Paid Architectural Student Intern](https://jobright.ai/jobs/info/6930e44a4c474121999ea0a7?utm_campaign=1049&utm_source=git)** | Andover, MA | On Site | Dec 03 |
+| ↳ | **[Paid Architectural Student Intern](https://jobright.ai/jobs/info/6930f02afa28370be26b5684?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Dec 03 |
 | ↳ | **[Paid Interior Design Student Intern](https://jobright.ai/jobs/info/6930dc7e4c474121999e9b09?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Dec 03 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[User Experience Research (UXR) Intern (Summer 2026)](https://jobright.ai/jobs/info/6930ab1cfa28370be26b22be?utm_campaign=1049&utm_source=git)** | Marysville, OH | On Site | Dec 03 |
 | **[Pond Lehocky Giordano Inc.](https://www.pondlehocky.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6930c48e4c474121999e89a2?utm_campaign=1049&utm_source=git)** | Cherry Hill, NJ | On Site | Dec 03 |
