@@ -57,19 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Interior Design](https://jobright.ai/jobs/info/69328908764507023d1af3d0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 04 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Studios Hollywood, Entertainment Production Design Internship – Summer 2026](https://jobright.ai/jobs/info/693275daa0dde7020e2e719b?utm_campaign=1049&utm_source=git)** | Universal City, CA | On Site | Dec 04 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Industrial Design, Design Studio (Summer 2026)](https://jobright.ai/jobs/info/6932676da0dde7020e2e68f0?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Dec 04 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69325b94f131d96e4845b811?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Dec 04 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 04 |
 | **[Stripe](https://stripe.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6932554df131d96e4845b3c1?utm_campaign=1049&utm_source=git)** | New York City | On Site | Dec 04 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - 3D Visual Experience 1](https://jobright.ai/jobs/info/693253c7f131d96e4845b2f8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 04 |
-| **[Orvanta](orvanta.us)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/69326d30764507023d1ae794?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Remote | Dec 04 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - UX Design](https://jobright.ai/jobs/info/69324bd7f131d96e4845ac13?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Dec 04 |
-| **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/69327070a0dde7020e2e6f8a?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Dec 04 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Part Time Intern - Digital & Analytics](https://jobright.ai/jobs/info/69324619a0dde7020e2e5083?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Dec 04 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - Creative Print 1](https://jobright.ai/jobs/info/69326d90764507023d1ae7ca?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 04 |
-| ↳ | **[Design Apprentice - Jewelry / Hardware 1](https://jobright.ai/jobs/info/69325beef131d96e4845b859?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
-| ↳ | **[Design Apprentice - 3D Design 1](https://jobright.ai/jobs/info/69325d3da0dde7020e2e62df?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
 | ↳ | **[Design Apprentice - Novelty 1](https://jobright.ai/jobs/info/6932631bf131d96e4845bc36?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
+| ↳ | **[Design Apprentice - 3D Design 1](https://jobright.ai/jobs/info/69325d3da0dde7020e2e62df?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
+| ↳ | **[Design Apprentice - Jewelry / Hardware 1](https://jobright.ai/jobs/info/69325beef131d96e4845b859?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
 | **[Stripe](https://stripe.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6932601ba0dde7020e2e64a0?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Dec 04 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Landscape Architecture](https://jobright.ai/jobs/info/693239b4fa28370be26c33f5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692e4125fa28370be26a2d72?utm_campaign=1049&utm_source=git)** | United States, New York, New York | Hybrid | Dec 04 |
@@ -78,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Digital Modeling, Design Studio (Summer 2026)](https://jobright.ai/jobs/info/693229bad0010831497c0382?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Dec 04 |
 | **[BRONX AND BANCO](https://bronxandbanco.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/69324e64764507023d1ace0e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[Larson Design Group](http://larsondesigngroup.com)** | **[Architectural Intern Spring & Summer 2026](https://jobright.ai/jobs/info/6932466bf131d96e4845a78f?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | Hybrid | Dec 04 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Interior Design](https://jobright.ai/jobs/info/69325704764507023d1ad5b0?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Dec 04 |
-| ↳ | **[Summer Intern, Landscape Architecture](https://jobright.ai/jobs/info/693249f6f131d96e4845aa98?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Dec 04 |
+| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Landscape Architecture](https://jobright.ai/jobs/info/693249f6f131d96e4845aa98?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Dec 04 |
+| ↳ | **[Summer Intern, Interior Design](https://jobright.ai/jobs/info/69325704764507023d1ad5b0?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Dec 04 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Landscape Architect Intern -Summer 2026](https://jobright.ai/jobs/info/693220a04c474121999f73c5?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 04 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Interior Design](https://jobright.ai/jobs/info/693257c3764507023d1ad6aa?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | Dec 04 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Landscape Architect Intern -Summer 2026](https://jobright.ai/jobs/info/69321b2b4c474121999f6f57?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 04 |
@@ -122,9 +121,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship - Creative Art Direction](https://jobright.ai/jobs/info/6931d9d1fa28370be26bea6f?utm_campaign=1049&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Dec 04 |
 | ↳ | **[Spring 2026 Internship - Creative Art Direction](https://jobright.ai/jobs/info/6931d9bed0010831497bc4d2?utm_campaign=1049&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Dec 04 |
 | ↳ | **[Spring 2026 Internship - Creative Strategy](https://jobright.ai/jobs/info/6931d9b24c474121999f39fd?utm_campaign=1049&utm_source=git)** | USA-MT - Montana Remote | Remote | Dec 04 |
-| ↳ | **[Spring 2026 Internship - Creative Strategy](https://jobright.ai/jobs/info/6931d951fa28370be26bea25?utm_campaign=1049&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Dec 04 |
 | ↳ | **[Spring 2026 Internship - Creative Strategy](https://jobright.ai/jobs/info/6931d9514c474121999f39a3?utm_campaign=1049&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Dec 04 |
 | ↳ | **[Spring 2026 Internship - Creative Art Direction](https://jobright.ai/jobs/info/6931d951fa28370be26bea26?utm_campaign=1049&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Dec 04 |
+| ↳ | **[Spring 2026 Internship - Creative Strategy](https://jobright.ai/jobs/info/6931d951fa28370be26bea25?utm_campaign=1049&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Dec 04 |
 | ↳ | **[Spring 2026 Internship - Creative Art Direction](https://jobright.ai/jobs/info/6931d8c8fa28370be26be9c3?utm_campaign=1049&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Dec 04 |
 | ↳ | **[Spring 2026 Internship - Creative Art Direction](https://jobright.ai/jobs/info/6931d8bdfa28370be26be9ba?utm_campaign=1049&utm_source=git)** | USA-TX - Texas Remote | Remote | Dec 04 |
 | ↳ | **[Spring 2026 Internship - Creative Art Direction](https://jobright.ai/jobs/info/6931d893fa28370be26be99c?utm_campaign=1049&utm_source=git)** | USA-VA - Virginia Remote | Remote | Dec 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/69320a65fa28370be26c11ff?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 04 |
 | **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f924aaa628d10664e89a6f?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Dec 04 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f92d936de2db04dc3e64e2?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Dec 04 |
+| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Creative Strategy](https://jobright.ai/jobs/info/6931e6684c474121999f4280?utm_campaign=1049&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
