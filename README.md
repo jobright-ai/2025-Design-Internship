@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology User Experience](https://jobright.ai/jobs/info/69339456a0dde7020e2ef564?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 05 |
+| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/6933944aa0dde7020e2ef55f?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Dec 05 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Graphic Design / Books & Bibles](https://jobright.ai/jobs/info/69338893a0dde7020e2eef74?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Dec 05 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[UX/UI Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69337deea0dde7020e2ee8b6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology User Experience](https://jobright.ai/jobs/info/693377e8764507023d1b6097?utm_campaign=1049&utm_source=git)** | 3250 Van Ness Ave, San Francisco, CA, 94109, US | On Site | Dec 05 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Print Graphic Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69336dbaa0dde7020e2ede51?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Print Graphic Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69338a6ff131d96e484643e1?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
+| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6933a666764507023d1b7abb?utm_campaign=1049&utm_source=git)** | Lansing, MI | On Site | Dec 05 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[UX/UI Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69335f13a0dde7020e2ed1f6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Technical Designer – Internship Winter 2026](https://jobright.ai/jobs/info/6933803e764507023d1b63e1?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/69335a08764507023d1b4a64?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
@@ -144,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Stripe](https://stripe.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6932554df131d96e4845b3c1?utm_campaign=1049&utm_source=git)** | New York City | On Site | Dec 04 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - 3D Visual Experience 1](https://jobright.ai/jobs/info/693253c7f131d96e4845b2f8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - UX Design](https://jobright.ai/jobs/info/69324bd7f131d96e4845ac13?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Dec 04 |
-| **[Fuser](https://fuser.studio)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6932e610f131d96e4845e975?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
+| **[Fuser](https://fuser.studio)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6932e610f131d96e4845e975?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 04 |
 | ↳ | **[Brand & Motion Design Intern](https://jobright.ai/jobs/info/69334401a0dde7020e2ebfb1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - Creative Print 1](https://jobright.ai/jobs/info/69326d90764507023d1ae7ca?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | ↳ | **[Design Apprentice - 3D Design 1](https://jobright.ai/jobs/info/69325d3da0dde7020e2e62df?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Landscape Architecture](https://jobright.ai/jobs/info/693239b4fa28370be26c33f5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692e4125fa28370be26a2d72?utm_campaign=1049&utm_source=git)** | United States, New York, New York | Hybrid | Dec 04 |
 | **[Maiden Home](https://www.maidenhome.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6933585ea0dde7020e2ece43?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 04 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, CMF Design, Design Studio (Summer 2026)](https://jobright.ai/jobs/info/69322c64fa28370be26c2bf0?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Dec 04 |
-| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69322adbd0010831497c0430?utm_campaign=1049&utm_source=git)** | Madison, WI - National Office | Hybrid | Dec 04 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Digital Modeling, Design Studio (Summer 2026)](https://jobright.ai/jobs/info/693229bad0010831497c0382?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
