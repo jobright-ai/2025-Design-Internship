@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Democratic National Committee](https://democrats.org/)** | **[Spring 2026 DNC Design Internship](https://jobright.ai/jobs/info/6934a283a0dde7020e2f6039?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 06 |
+| **[JLG Architects](http://www.jlgarchitects.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/693497fb764507023d1bd838?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 06 |
+| **[RQ Construction, LLC](http://rqconstruction.com)** | **[Design Intern](https://jobright.ai/jobs/info/69349765764507023d1bd81a?utm_campaign=1049&utm_source=git)** | Carlsbad, CA | On Site | Dec 06 |
+| **[JBIER Inc.](https://www.jbierboutique.com)** | **[Web Design, Photography, and Videography Intern](https://jobright.ai/jobs/info/69349325f131d96e4846b234?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Dec 06 |
 | **[Acme Dermatology Initiative](acmeoutreach.org)** | **[Web Designer Intern [UNPAID]](https://jobright.ai/jobs/info/69347872764507023d1bd203?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 06 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbf8d493c49825ab10829c?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Dec 06 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Graphic Design](https://jobright.ai/jobs/info/69184f30bcdbf3560c9d156f?utm_campaign=1049&utm_source=git)** | Gulfport, MS | On Site | Dec 06 |
@@ -83,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Nintendo](http://nintendo.com)** | **[Intern - UX Writer (NTD)](https://jobright.ai/jobs/info/68fc480df55bb021a88a23ad?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Dec 06 |
 | **[Climate Designers](https://www.climatedesigners.org)** | **[Design Intern](https://jobright.ai/jobs/info/69341b82764507023d1bbf55?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 06 |
 | **[The Eighth Day Club](https://www.linkedin.com/company/108693164)** | **[Creative Intern](https://jobright.ai/jobs/info/6933ebe1a0dde7020e2f304f?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 06 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Graphic Design and Branding Internship](https://jobright.ai/jobs/info/6933c647764507023d1b955b?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Dec 05 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology User Experience](https://jobright.ai/jobs/info/69339456a0dde7020e2ef564?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 05 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/6933944aa0dde7020e2ef55f?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Dec 05 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Graphic Design / Books & Bibles](https://jobright.ai/jobs/info/69338893a0dde7020e2eef74?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Dec 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Digital Content Creation Intern (Masters)](https://jobright.ai/jobs/info/68ccff47d11b445e0bee5cf9?utm_campaign=1049&utm_source=git)** | Mettawa, IL | On Site | Dec 05 |
 | **[Museum of the Bible](https://www.museumofthebible.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6932d77ff131d96e4845e468?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 05 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
-| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Environment Artist - 2026 Summer Internship](https://jobright.ai/jobs/info/68f9ae096de2db04dc3eb2f1?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 05 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Design Intern](https://jobright.ai/jobs/info/6916332f9c388539cbdf89bb?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 05 |
-| ↳ | **[2026 Summer Intern: Design Intern](https://jobright.ai/jobs/info/691644629c388539cbdf9489?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
