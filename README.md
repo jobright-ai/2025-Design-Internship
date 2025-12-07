@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbfa7c93c49825ab108452?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Dec 07 |
+| **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/691d881cbcdbf3560c9f1993?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 07 |
+| **[Deca Defense](https://decadefense.com/)** | **[Internship: Digital Designer / Graphic Designer / Visual Design \ ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/69359257f131d96e4846e982?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 07 |
+| **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68c47c4ae471ef3ce16d6aee?utm_campaign=1049&utm_source=git)** | Champaign, IL | On Site | Dec 07 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04b6ff758fe1f97e4c072?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 07 |
+| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c35bb4b8c22d3828471258?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Dec 07 |
 | **[The Sunrise State](https://sunrisestate.in)** | **[Information Experience Designer Intern](https://jobright.ai/jobs/info/693579b6a0dde7020e2f8d56?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68e026a3f758fe1f97e4a154?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 07 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7c9a5f9f0336447de10a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
@@ -69,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/6934f48fa0dde7020e2f6c5b?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Dec 06 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/6934d336764507023d1be072?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Dec 06 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 06 |
+| **[Rise Dental](risesmiles.com)** | **[Creative Content Intern (Wellness + Modern Dental Brand)](https://jobright.ai/jobs/info/69357807a0dde7020e2f8cfc?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 06 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Spring 2026 DNC Design Internship](https://jobright.ai/jobs/info/6934a283a0dde7020e2f6039?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 06 |
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/693497fb764507023d1bd838?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 06 |
 | **[RQ Construction, LLC](http://rqconstruction.com)** | **[Design Intern](https://jobright.ai/jobs/info/69349765764507023d1bd81a?utm_campaign=1049&utm_source=git)** | Carlsbad, CA | On Site | Dec 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst- UX/UI Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd2d67e23def7af55b694b?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68fadc6f8d32c164778cc049?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Dec 05 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Concept Art Intern (Apex Legends)](https://jobright.ai/jobs/info/691723b9370fde633d07db3f?utm_campaign=1049&utm_source=git)** | Greater Vancouver Metropolitan Area | On Site | Dec 05 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/691fe24e3f782d2f1afc11ef?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 05 |
-| **[Kuvare Holdings](http://kuvare.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/68faad7dedd190144238fd40?utm_campaign=1049&utm_source=git)** | Des Moines, IA | Hybrid | Dec 05 |
-| **[Reveal Global Consulting](https://www.revealgc.com)** | **[Product Design Intern(UI/UX)](https://jobright.ai/jobs/info/69169d226f36db06ef058556?utm_campaign=1049&utm_source=git)** | Fulton, MD | On Site | Dec 05 |
-| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[UX Design Internship](https://jobright.ai/jobs/info/691a9ad115b41563671892e1?utm_campaign=1049&utm_source=git)** | Piscataway, NJ | Hybrid | Dec 05 |
-| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f918c3a628d10664e892c8?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Dec 05 |
-| **[Professional Sports Partners](https://www.professionalsportspartners.com)** | **[2026 Spring Creative Internship](https://jobright.ai/jobs/info/69332409a0dde7020e2eac84?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Dec 05 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68f934b0a628d10664e8a64b?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
