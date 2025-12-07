@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mainflow](http://www.mainflow.com/)** | **[[Weekend] - Quant UX Apprenticeship](https://jobright.ai/jobs/info/6934f8daa0dde7020e2f6e05?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Dec 06 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/6934f48fa0dde7020e2f6c5b?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Dec 06 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/6934d336764507023d1be072?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Dec 06 |
 | **[Fusion100](http://Fusion100co.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6934d329f131d96e4846bc11?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Dec 06 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 06 |
-| **[DiscoverU Health](http://www.discoveruhealth.net)** | **[UX/UI Intern](https://jobright.ai/jobs/info/6934bf18764507023d1bdddf?utm_campaign=1049&utm_source=git)** | Laurel, MD | Hybrid | Dec 06 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Spring 2026 DNC Design Internship](https://jobright.ai/jobs/info/6934a283a0dde7020e2f6039?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 06 |
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/693497fb764507023d1bd838?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 06 |
 | **[RQ Construction, LLC](http://rqconstruction.com)** | **[Design Intern](https://jobright.ai/jobs/info/69349765764507023d1bd81a?utm_campaign=1049&utm_source=git)** | Carlsbad, CA | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68b14dc16fab621da7b0c434?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68f98ae96de2db04dc3e9f86?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Dec 05 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68a7bf9fd627244576e2e60f?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Dec 05 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddda4444d32141e0bfb380?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
