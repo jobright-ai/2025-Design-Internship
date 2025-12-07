@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/6934d336764507023d1be072?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Dec 06 |
+| **[Fusion100](http://Fusion100co.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6934d329f131d96e4846bc11?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Dec 06 |
+| **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 06 |
 | **[DiscoverU Health](http://www.discoveruhealth.net)** | **[UX/UI Intern](https://jobright.ai/jobs/info/6934bf18764507023d1bdddf?utm_campaign=1049&utm_source=git)** | Laurel, MD | Hybrid | Dec 06 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Spring 2026 DNC Design Internship](https://jobright.ai/jobs/info/6934a283a0dde7020e2f6039?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 06 |
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/693497fb764507023d1bd838?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 06 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Graphic Design](https://jobright.ai/jobs/info/69184f30bcdbf3560c9d156f?utm_campaign=1049&utm_source=git)** | Gulfport, MS | On Site | Dec 06 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Partner Loan Network Internship](https://jobright.ai/jobs/info/693466e1f131d96e4846a9cb?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c7cbc6f42a830e1c7e8240?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Dec 06 |
-| **[Deca Defense](https://decadefense.com/)** | **[Internship: Digital Designer / Graphic Designer \ Visual Design \ ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/69347585f131d96e4846ac1e?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 06 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4a76a2d2a252445cd8272?utm_campaign=1049&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Dec 06 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68fa9709b2c86843bf20fc7d?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 06 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Outlet Design](https://jobright.ai/jobs/info/6917698dbcdbf3560c9c77a1?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 06 |
@@ -94,12 +96,12 @@ For a complete list, click the following sortable link below:
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[UX/UI Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69337deea0dde7020e2ee8b6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology User Experience](https://jobright.ai/jobs/info/693377e8764507023d1b6097?utm_campaign=1049&utm_source=git)** | 3250 Van Ness Ave, San Francisco, CA, 94109, US | On Site | Dec 05 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Print Graphic Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69336dbaa0dde7020e2ede51?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
+| **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[User Experience Research (UXR) Intern (Summer 2026)](https://jobright.ai/jobs/info/6930ab1cfa28370be26b22be?utm_campaign=1049&utm_source=git)** | Marysville, OH | On Site | Dec 05 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Print Graphic Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69338a6ff131d96e484643e1?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6933a666764507023d1b7abb?utm_campaign=1049&utm_source=git)** | Lansing, MI | On Site | Dec 05 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[UX/UI Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69335f13a0dde7020e2ed1f6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Technical Designer – Internship Winter 2026](https://jobright.ai/jobs/info/6933803e764507023d1b63e1?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/69335a08764507023d1b4a64?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Graphic Design Winter Intern (Unpaid)](https://jobright.ai/jobs/info/69335558f131d96e4846215c?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Dec 05 |
 | **[HOK](http://www.hok.com/)** | **[Interiors - Interiors Student Intern](https://jobright.ai/jobs/info/6933541fa0dde7020e2ecb1f?utm_campaign=1049&utm_source=git)** | San Francisco, CA, USA | Hybrid | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[User Experience Designer Intern 2026](https://jobright.ai/jobs/info/693353c5f131d96e4846201a?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
 | ↳ | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/69335137764507023d1b4218?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Dec 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68f98ae96de2db04dc3e9f86?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Dec 05 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68a7bf9fd627244576e2e60f?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Dec 05 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ddda4444d32141e0bfb380?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Dec 05 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Digital Content Creation Intern (Masters)](https://jobright.ai/jobs/info/68ccff47d11b445e0bee5cf9?utm_campaign=1049&utm_source=git)** | Mettawa, IL | On Site | Dec 05 |
-| **[Museum of the Bible](https://www.museumofthebible.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6932d77ff131d96e4845e468?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
