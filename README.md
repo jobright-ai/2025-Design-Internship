@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atmosfy](https://atmosfy.io)** | **[Atmosfy UX/UI Researcher](https://jobright.ai/jobs/info/692f3197ef4b48533d143521?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 07 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbfa7c93c49825ab108452?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Dec 07 |
 | **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/691d881cbcdbf3560c9f1993?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 07 |
 | **[Deca Defense](https://decadefense.com/)** | **[Internship: Digital Designer / Graphic Designer / Visual Design \ ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/69359257f131d96e4846e982?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c5185cdb52c07d28840fcc?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Dec 05 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst- UX/UI Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd2d67e23def7af55b694b?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68fadc6f8d32c164778cc049?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Dec 05 |
-| **[Respawn Entertainment](http://www.respawn.com/)** | **[Concept Art Intern (Apex Legends)](https://jobright.ai/jobs/info/691723b9370fde633d07db3f?utm_campaign=1049&utm_source=git)** | Greater Vancouver Metropolitan Area | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
