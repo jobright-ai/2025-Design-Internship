@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mainflow](http://www.mainflow.com/)** | **[[Weekend] - Quant UX Apprenticeship](https://jobright.ai/jobs/info/6934f8daa0dde7020e2f6e05?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Dec 06 |
+| **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/6935012fa0dde7020e2f70a4?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
+| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/69350070a0dde7020e2f7082?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
+| **[Mainflow](http://www.mainflow.com/)** | **[[Weekend] - Quant UX Apprenticeship](https://jobright.ai/jobs/info/6934fcbfa0dde7020e2f6f92?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Dec 06 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/6934f48fa0dde7020e2f6c5b?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Dec 06 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/6934d336764507023d1be072?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Dec 06 |
 | **[Fusion100](http://Fusion100co.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6934d329f131d96e4846bc11?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Dec 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f91cbaa628d10664e896a2?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Dec 05 |
 | ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f9174d6de2db04dc3e550f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Dec 05 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68b14dc16fab621da7b0c434?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 05 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68f98ae96de2db04dc3e9f86?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Dec 05 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68a7bf9fd627244576e2e60f?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
