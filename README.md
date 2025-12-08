@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern](https://jobright.ai/jobs/info/68cd40f2b2a74e1837ed471e?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Dec 08 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / St. Paul, MN](https://jobright.ai/jobs/info/6936ace444eb324fb785ceb8?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Dec 08 |
 | ↳ | **[Commercial Landscape Internship / Columbus, OH](https://jobright.ai/jobs/info/6936ac3744eb324fb785ce94?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Dec 08 |
 | ↳ | **[Commercial Landscape Internship / Richmond, VA](https://jobright.ai/jobs/info/6936a8791c1c2161c13ee2e7?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Dec 08 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Agency Creative, Graphic Design Intern](https://jobright.ai/jobs/info/6936a13344eb324fb785ccc5?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 08 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Cleveland, OH](https://jobright.ai/jobs/info/6936a06a44eb324fb785cc9f?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Dec 08 |
-| **[Studio Alexander Nikban](www.studioalexandernikban.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6936923c1c1c2161c13edbe0?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 08 |
+| **[Studio Alexander](www.alexandernikban.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6936923c1c1c2161c13edbe0?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 08 |
 | **[Pechaan](pechaan.co)** | **[Digital content Intern (Unpaid)](https://jobright.ai/jobs/info/69367a11f131d96e48471ab1?utm_campaign=1049&utm_source=git)** | Tysons Corner, VA | On Site | Dec 07 |
 | **[LION](https://www.lionprotects.com/)** | **[Pattern Maker/Designer Intern](https://jobright.ai/jobs/info/69366b13f131d96e48471605?utm_campaign=1049&utm_source=git)** | Dayton, OH | On Site | Dec 07 |
 | **[Philo Homes](https://philo.homes/)** | **[Graphic Design Intern (Mandarin-English)](https://jobright.ai/jobs/info/69366133f131d96e484711c1?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Dec 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Osiris 9 Consulting, LLC](http://osiris9.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6933135da0dde7020e2ea4a7?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Dec 05 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Design Researcher Intern - Summer 2026](https://jobright.ai/jobs/info/69330bf6f131d96e4845f686?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 05 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Lighting Designer- Internship Spring 2026](https://jobright.ai/jobs/info/68de3783a125e75c422b26ce?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Dec 05 |
-| **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9225fa628d10664e8991b?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
