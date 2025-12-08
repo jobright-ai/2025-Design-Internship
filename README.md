@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / St. Paul, MN](https://jobright.ai/jobs/info/6936ace444eb324fb785ceb8?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Dec 08 |
+| ↳ | **[Commercial Landscape Internship / Columbus, OH](https://jobright.ai/jobs/info/6936ac3744eb324fb785ce94?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Dec 08 |
+| ↳ | **[Commercial Landscape Internship / Richmond, VA](https://jobright.ai/jobs/info/6936a8791c1c2161c13ee2e7?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Dec 08 |
+| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Agency Creative, Graphic Design Intern](https://jobright.ai/jobs/info/6936a13344eb324fb785ccc5?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 08 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Cleveland, OH](https://jobright.ai/jobs/info/6936a06a44eb324fb785cc9f?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Dec 08 |
 | **[Studio Alexander Nikban](www.studioalexandernikban.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6936923c1c1c2161c13edbe0?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 08 |
 | **[Pechaan](pechaan.co)** | **[Digital content Intern (Unpaid)](https://jobright.ai/jobs/info/69367a11f131d96e48471ab1?utm_campaign=1049&utm_source=git)** | Tysons Corner, VA | On Site | Dec 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Design Researcher Intern - Summer 2026](https://jobright.ai/jobs/info/69330bf6f131d96e4845f686?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 05 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Lighting Designer- Internship Spring 2026](https://jobright.ai/jobs/info/68de3783a125e75c422b26ce?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Dec 05 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9225fa628d10664e8991b?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Dec 05 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Graphic Design Intern – Marketing Communications](https://jobright.ai/jobs/info/68ce9bb3dbd9fb154ede1378?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 05 |
-| **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9155d6de2db04dc3e5321?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Dec 05 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c5185cdb52c07d28840fcc?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Dec 05 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst- UX/UI Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd2d67e23def7af55b694b?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
