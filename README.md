@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Architecture Student Intern - Full time - Detroit](https://jobright.ai/jobs/info/69372af01c1c2161c13f1120?utm_campaign=1049&utm_source=git)** | Detroit, Michigan | On Site | Dec 08 |
+| **[Renesas Electronics](https://www.renesas.com)** | **[Web Experience Intern](https://jobright.ai/jobs/info/69372a5a1c1c2161c13f10c2?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | Hybrid | Dec 08 |
+| **[Make-A-Wish North Texas](https://northtexaskids.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6937206aa0dde7020e2ff357?utm_campaign=1049&utm_source=git)** | DFW Metroplex | On Site | Dec 08 |
 | **[Legion Management](https://thisislegion.co/)** | **[Intern Spring 2026 – A&R, Manager, Marketing, Graphic Design, Video (In-Person, Unpaid, For College Credit)](https://jobright.ai/jobs/info/69370db3a0dde7020e2fea71?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 08 |
 | **[The F* Word](https://thefword.ai/)** | **[Featured AI Streetwear Designer Program (7 Days)](https://jobright.ai/jobs/info/69370cd3a0dde7020e2fea03?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Dec 08 |
+| **[The Hai Haus](https://www.thehaihaus.com)** | **[Content Creation Intern — Spring 2026 (Hybrid, NYC/MIA)](https://jobright.ai/jobs/info/69372a02a0dde7020e2ff79c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Dec 08 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (February 2026)](https://jobright.ai/jobs/info/693706c2aabec14a727c3955?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Dec 08 |
 | **[HONOR](https://www.honornyc.com)** | **[Luxury Womenswear Design Internship](https://jobright.ai/jobs/info/6936ed83a0dde7020e2fdd80?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Dec 08 |
+| **[RDM Architecture Kansas City](http://www.rdmarchitecture.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69371c73aabec14a727c420f?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Dec 08 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern – Networking Event with AECOM – Coral Gables, FL](https://jobright.ai/jobs/info/6936ef41a0dde7020e2fddfe?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | Hybrid | Dec 08 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/6937148daabec14a727c3f23?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Dec 08 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Styling Intern](https://jobright.ai/jobs/info/6936e14ea0dde7020e2fd9b5?utm_campaign=1049&utm_source=git)** | Lititz, PA | On Site | Dec 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern](https://jobright.ai/jobs/info/68cd40f2b2a74e1837ed471e?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Dec 08 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / St. Paul, MN](https://jobright.ai/jobs/info/6936ace444eb324fb785ceb8?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Dec 08 |
@@ -98,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Graphic Design](https://jobright.ai/jobs/info/69184f30bcdbf3560c9d156f?utm_campaign=1049&utm_source=git)** | Gulfport, MS | On Site | Dec 06 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Partner Loan Network Internship](https://jobright.ai/jobs/info/693466e1f131d96e4846a9cb?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c7cbc6f42a830e1c7e8240?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Dec 06 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/6936f7e0aabec14a727c3314?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | Dec 06 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2026)](https://jobright.ai/jobs/info/68a4a76a2d2a252445cd8272?utm_campaign=1049&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Dec 06 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68fa9709b2c86843bf20fc7d?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 06 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Outlet Design](https://jobright.ai/jobs/info/6917698dbcdbf3560c9c77a1?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6933611a764507023d1b5017?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Dec 05 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69332e3cf131d96e484606a9?utm_campaign=1049&utm_source=git)** | Lansing, MI | Hybrid | Dec 05 |
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f92bb5cadb2e5a06a61e33?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Dec 05 |
-| ↳ | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9234d6de2db04dc3e5d13?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 05 |
-| **[AECOM](http://www.aecom.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69334e00764507023d1b3ef5?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 05 |
-| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - BTS Customer Engagement Intern](https://jobright.ai/jobs/info/69279ce091ceeb2e8a5419ea?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
-| **[Surgo Studios](https://www.surgostudios.com)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/69333d6cf131d96e4846100d?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Dec 05 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Photography & Video Content](https://jobright.ai/jobs/info/693340fc764507023d1b37a9?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
