@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AECOM](http://www.aecom.com/)** | **[Design Intern – Networking Event with AECOM – Coral Gables, FL](https://jobright.ai/jobs/info/6936ef41a0dde7020e2fddfe?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | Hybrid | Dec 08 |
+| **[HONOR](https://www.honornyc.com)** | **[Luxury Womenswear Design Internship](https://jobright.ai/jobs/info/6936ed83a0dde7020e2fdd80?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Dec 08 |
+| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Styling Intern](https://jobright.ai/jobs/info/6936e14ea0dde7020e2fd9b5?utm_campaign=1049&utm_source=git)** | Lititz, PA | On Site | Dec 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern](https://jobright.ai/jobs/info/68cd40f2b2a74e1837ed471e?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Dec 08 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / St. Paul, MN](https://jobright.ai/jobs/info/6936ace444eb324fb785ceb8?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Dec 08 |
 | ↳ | **[Commercial Landscape Internship / Columbus, OH](https://jobright.ai/jobs/info/6936ac3744eb324fb785ce94?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Dec 08 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7c9a5f9f0336447de10a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
 | **[Databricks](https://www.databricks.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/68cbd9079e3a822f5d24c198?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 07 |
 | **[HDR](http://www.hdrinc.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/68c911f4f9c6ff7aedf17743?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Dec 07 |
-| **[SeatGeek](https://seatgeek.com)** | **[UX Design - Internship](https://jobright.ai/jobs/info/68e0345f1852e62f007e8991?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 07 |
 | **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/6935012fa0dde7020e2f70a4?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/69350070a0dde7020e2f7082?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/6934d336764507023d1be072?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Dec 06 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Design Researcher Intern - Summer 2026](https://jobright.ai/jobs/info/69334cb3f131d96e4846193f?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 05 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[ComicArts Marketing Design Intern](https://jobright.ai/jobs/info/69334c87a0dde7020e2ec54a?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69334bd0f131d96e4846189b?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Dec 05 |
+| **[HOK](http://www.hok.com/)** | **[Interiors - Interiors Student Intern (Spring/Summer)](https://jobright.ai/jobs/info/69334f1bf131d96e48461b8f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 05 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Digital Designer](https://jobright.ai/jobs/info/69336805764507023d1b547f?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Dec 05 |
-| **[HOK](http://www.hok.com/)** | **[Interiors - Interiors Student Intern](https://jobright.ai/jobs/info/69334f1bf131d96e48461b8f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 05 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Live Art Intern (Apex Legends)](https://jobright.ai/jobs/info/693365e7a0dde7020e2ed733?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/693373cca0dde7020e2ee2f8?utm_campaign=1049&utm_source=git)** | Lowell, MA | Hybrid | Dec 05 |
 | ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/69336a38764507023d1b5652?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Dec 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f92226cadb2e5a06a6182d?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Dec 05 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Concept Art Intern (Apex Legends)](https://jobright.ai/jobs/info/691713e7bcdbf3560c9c4c31?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 05 |
 | **[Osiris 9 Consulting, LLC](http://osiris9.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6933135da0dde7020e2ea4a7?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Dec 05 |
-| **[Quicken Loans](http://www.quickenloans.com/)** | **[Design Researcher Intern - Summer 2026](https://jobright.ai/jobs/info/69330bf6f131d96e4845f686?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 05 |
-| **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Lighting Designer- Internship Spring 2026](https://jobright.ai/jobs/info/68de3783a125e75c422b26ce?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
