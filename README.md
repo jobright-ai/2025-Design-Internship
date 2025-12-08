@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pechaan](pechaan.co)** | **[Digital content Intern (Unpaid)](https://jobright.ai/jobs/info/69367a11f131d96e48471ab1?utm_campaign=1049&utm_source=git)** | Tysons Corner, VA | On Site | Dec 07 |
+| **[GenPark](https://genpark.ai)** | **[UI/UX Designer](https://jobright.ai/jobs/info/69366f31764507023d1c356d?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Dec 07 |
+| **[LION](https://www.lionprotects.com/)** | **[Pattern Maker/Designer Intern](https://jobright.ai/jobs/info/69366b13f131d96e48471605?utm_campaign=1049&utm_source=git)** | Dayton, OH | On Site | Dec 07 |
 | **[Philo Homes](https://philo.homes/)** | **[Graphic Design Intern (Mandarin-English)](https://jobright.ai/jobs/info/69366133f131d96e484711c1?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Dec 07 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/6936205a764507023d1c19ce?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 07 |
 | ↳ | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/6936194ea0dde7020e2f9dca?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 07 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/6934d336764507023d1be072?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Dec 06 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 06 |
 | **[Rise Dental](risesmiles.com)** | **[Creative Content Intern (Wellness + Modern Dental Brand)](https://jobright.ai/jobs/info/69357807a0dde7020e2f8cfc?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 06 |
-| **[Democratic National Committee](https://democrats.org/)** | **[Spring 2026 DNC Design Internship](https://jobright.ai/jobs/info/6934a283a0dde7020e2f6039?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 06 |
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/693497fb764507023d1bd838?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 06 |
 | **[JBIER Inc.](https://www.jbierboutique.com)** | **[Web Design, Photography, and Videography Intern](https://jobright.ai/jobs/info/69349325f131d96e4846b234?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Dec 06 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbf8d493c49825ab10829c?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Dec 06 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc5010f55bb021a88a2b15?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 06 |
 | **[Nintendo](http://nintendo.com)** | **[Intern - UX Writer (NTD)](https://jobright.ai/jobs/info/68fc480df55bb021a88a23ad?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Dec 06 |
 | **[The Eighth Day Club](https://www.linkedin.com/company/108693164)** | **[Creative Intern](https://jobright.ai/jobs/info/6933ebe1a0dde7020e2f304f?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 06 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/6936601f764507023d1c2f43?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | Dec 05 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology User Experience](https://jobright.ai/jobs/info/69339456a0dde7020e2ef564?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 05 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/6933944aa0dde7020e2ef55f?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Dec 05 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Graphic Design / Books & Bibles](https://jobright.ai/jobs/info/69338893a0dde7020e2eef74?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Dec 05 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Design Researcher Intern - Summer 2026](https://jobright.ai/jobs/info/69334cb3f131d96e4846193f?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 05 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[ComicArts Marketing Design Intern](https://jobright.ai/jobs/info/69334c87a0dde7020e2ec54a?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69334bd0f131d96e4846189b?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Dec 05 |
-| **[HOK](http://www.hok.com/)** | **[Interiors - Interiors Student Intern (Spring/Summer)](https://jobright.ai/jobs/info/69334f1bf131d96e48461b8f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 05 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Digital Designer](https://jobright.ai/jobs/info/69336805764507023d1b547f?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Dec 05 |
+| **[HOK](http://www.hok.com/)** | **[Interiors - Interiors Student Intern](https://jobright.ai/jobs/info/69334f1bf131d96e48461b8f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 05 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Live Art Intern (Apex Legends)](https://jobright.ai/jobs/info/693365e7a0dde7020e2ed733?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/693373cca0dde7020e2ee2f8?utm_campaign=1049&utm_source=git)** | Lowell, MA | Hybrid | Dec 05 |
 | ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/69336a38764507023d1b5652?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Dec 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9155d6de2db04dc3e5321?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Dec 05 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c5185cdb52c07d28840fcc?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Dec 05 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst- UX/UI Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd2d67e23def7af55b694b?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 05 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68fadc6f8d32c164778cc049?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
