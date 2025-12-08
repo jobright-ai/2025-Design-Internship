@@ -74,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[SeatGeek](https://seatgeek.com)** | **[UX Design - Internship](https://jobright.ai/jobs/info/68e0345f1852e62f007e8991?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 07 |
 | **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/6935012fa0dde7020e2f70a4?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/69350070a0dde7020e2f7082?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/6934f48fa0dde7020e2f6c5b?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Dec 06 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/6934d336764507023d1be072?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Dec 06 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 06 |
 | **[Rise Dental](risesmiles.com)** | **[Creative Content Intern (Wellness + Modern Dental Brand)](https://jobright.ai/jobs/info/69357807a0dde7020e2f8cfc?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst- UX/UI Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd2d67e23def7af55b694b?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68fadc6f8d32c164778cc049?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Dec 05 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Concept Art Intern (Apex Legends)](https://jobright.ai/jobs/info/691723b9370fde633d07db3f?utm_campaign=1049&utm_source=git)** | Greater Vancouver Metropolitan Area | On Site | Dec 05 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/691fe24e3f782d2f1afc11ef?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
