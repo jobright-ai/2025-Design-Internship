@@ -57,22 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[acronym](www.the-acronym.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69375b70a0dde7020e301c4f?utm_campaign=1049&utm_source=git)** | Oak Brook, IL | Hybrid | Dec 08 |
+| **[Robinhood](https://www.robinhood.com)** | **[Production Intern](https://jobright.ai/jobs/info/69377c7aa0dde7020e30362c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 08 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[NERA – Graphic Design Summer Intern (Washington DC)](https://jobright.ai/jobs/info/69376e741c1c2161c13f45b3?utm_campaign=1049&utm_source=git)** | Washington - Pennsylvania | Hybrid | Dec 08 |
+| **[Realtor.com](https://www.realtor.com/)** | **[User Experience and Web Analytics Intern](https://jobright.ai/jobs/info/6937655ca0dde7020e30255e?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Dec 08 |
+| ↳ | **[User Experience and Web Analytics Intern](https://jobright.ai/jobs/info/693765051c1c2161c13f3d25?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | Hybrid | Dec 08 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/69375b081c1c2161c13f33c5?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 08 |
+| **[Maricich Health](https://maricich.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/693774631c1c2161c13f4a12?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 08 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Austin](https://jobright.ai/jobs/info/69374b931c1c2161c13f27db?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 08 |
+| **[Deca Defense](https://decadefense.com/)** | **[Internship: Digital Designer / Graphic Designer / Visual Design / ITAR \ U.S.Citizen](https://jobright.ai/jobs/info/69376fd4aabec14a727c80a6?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 08 |
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - User Experience Design](https://jobright.ai/jobs/info/69374761aabec14a727c5e92?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Dec 08 |
-| **[RightOn Education](https://www.rightoneducation.com)** | **[Intern - Product Design](https://jobright.ai/jobs/info/6937636d1c1c2161c13f3bc0?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 08 |
 | **[StrawberryFrog](http://www.strawberryfrog.com)** | **[2026 StrawberryFrog Tadpoles (Internship Program)](https://jobright.ai/jobs/info/6937446da0dde7020e300afb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69373fea1c1c2161c13f1fce?utm_campaign=1049&utm_source=git)** | Poughkeepsie, AR | Hybrid | Dec 08 |
+| **[Cinq à Sept](http://cinqasept.nyc)** | **[Technical Design Intern](https://jobright.ai/jobs/info/69376f9daabec14a727c8070?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Dec 08 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Design Intern](https://jobright.ai/jobs/info/69373dd6a0dde7020e3005c8?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 08 |
 | **[Robinhood](https://www.robinhood.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69373d061c1c2161c13f1d84?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 08 |
-| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/69376264a0dde7020e3022cc?utm_campaign=1049&utm_source=git)** | Greenville, SC, US | On Site | Dec 08 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/693756901c1c2161c13f2ee8?utm_campaign=1049&utm_source=git)** | Katonah, NY, US | On Site | Dec 08 |
+| **[Utopia Deals](https://www.utopiadeals.com)** | **[Fashion Design Research Intern](https://jobright.ai/jobs/info/69376713a0dde7020e3026af?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 08 |
+| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/69375ea8aabec14a727c71d5?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | Dec 08 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69375c2e1c1c2161c13f351c?utm_campaign=1049&utm_source=git)** | Olean, NY, US | On Site | Dec 08 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69375eceaabec14a727c71e1?utm_campaign=1049&utm_source=git)** | Johnstown, PA, US | On Site | Dec 08 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/693758d4a0dde7020e3019cf?utm_campaign=1049&utm_source=git)** | Fairport, NY, US | On Site | Dec 08 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69375b841c1c2161c13f345b?utm_campaign=1049&utm_source=git)** | Raleigh, NC, US | On Site | Dec 08 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69375eceaabec14a727c71e1?utm_campaign=1049&utm_source=git)** | Johnstown, PA, US | On Site | Dec 08 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69375ea8aabec14a727c71d5?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | Dec 08 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69375c2e1c1c2161c13f351c?utm_campaign=1049&utm_source=git)** | Olean, NY, US | On Site | Dec 08 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/693756901c1c2161c13f2ee8?utm_campaign=1049&utm_source=git)** | Katonah, NY, US | On Site | Dec 08 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69376264a0dde7020e3022cc?utm_campaign=1049&utm_source=git)** | Greenville, SC, US | On Site | Dec 08 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Architecture Student Intern - Full time - Detroit](https://jobright.ai/jobs/info/69374dccaabec14a727c6322?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 08 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Client Experience (CX) Department](https://jobright.ai/jobs/info/69372c8caabec14a727c4b19?utm_campaign=1049&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 08 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Austin](https://jobright.ai/jobs/info/69372c27aabec14a727c4ad5?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 08 |
@@ -122,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/68c911f4f9c6ff7aedf17743?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Dec 07 |
 | **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/6935012fa0dde7020e2f70a4?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/69350070a0dde7020e2f7082?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Spring 2026](https://jobright.ai/jobs/info/6934d336764507023d1be072?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Dec 06 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 06 |
 | **[Rise Dental](risesmiles.com)** | **[Creative Content Intern (Wellness + Modern Dental Brand)](https://jobright.ai/jobs/info/69357807a0dde7020e2f8cfc?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 06 |
 | **[JLG Architects](http://www.jlgarchitects.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/693497fb764507023d1bd838?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology User Experience](https://jobright.ai/jobs/info/69339456a0dde7020e2ef564?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 05 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/6933944aa0dde7020e2ef55f?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Dec 05 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Graphic Design / Books & Bibles](https://jobright.ai/jobs/info/69338893a0dde7020e2eef74?utm_campaign=1049&utm_source=git)** | US-Remote | Remote | Dec 05 |
-| **[Diablo/Freud Tools](https://diablotools.com/)** | **[UX/UI Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69337deea0dde7020e2ee8b6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
-| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology User Experience](https://jobright.ai/jobs/info/693377e8764507023d1b6097?utm_campaign=1049&utm_source=git)** | 3250 Van Ness Ave, San Francisco, CA, 94109, US | On Site | Dec 05 |
-| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Print Graphic Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69336dbaa0dde7020e2ede51?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
-| **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[User Experience Research (UXR) Intern (Summer 2026)](https://jobright.ai/jobs/info/6930ab1cfa28370be26b22be?utm_campaign=1049&utm_source=git)** | Marysville, OH | On Site | Dec 05 |
-| **[Diablo/Freud Tools](https://diablotools.com/)** | **[Print Graphic Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69338a6ff131d96e484643e1?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
