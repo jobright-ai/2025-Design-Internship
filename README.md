@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[GoDaddy](https://www.godaddy.com)** | **[Intern - UX Designer](https://jobright.ai/jobs/info/69379277aabec14a727c9702?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 08 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Montgomery Co, MD](https://jobright.ai/jobs/info/6937bc80aabec14a727ccc18?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Dec 08 |
 | **[Find Me](https://fyndme.co)** | **[Senior - UX/UI/Graphic Design Intern – Unpaid](https://jobright.ai/jobs/info/6937abb4a0dde7020e3058ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 08 |
 | **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/6937af4faabec14a727cb600?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Dec 08 |
 | **[Candy Stripers®](http://www.candystriperny.org)** | **[REMOTE WINTER SESSION INTERNSHIP  (COLLEGE CREDIT ONLY)](https://jobright.ai/jobs/info/69378c431c1c2161c13f59a9?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 08 |
@@ -81,14 +82,13 @@ For a complete list, click the following sortable link below:
 | **[Cinq à Sept](http://cinqasept.nyc)** | **[Technical Design Intern](https://jobright.ai/jobs/info/69376f9daabec14a727c8070?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Dec 08 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Design Intern](https://jobright.ai/jobs/info/69373dd6a0dde7020e3005c8?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 08 |
 | **[Robinhood](https://www.robinhood.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69373d061c1c2161c13f1d84?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 08 |
-| **[Utopia Deals](https://www.utopiadeals.com)** | **[Fashion Design Research Intern](https://jobright.ai/jobs/info/69376713a0dde7020e3026af?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 08 |
-| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/693756901c1c2161c13f2ee8?utm_campaign=1049&utm_source=git)** | Katonah, NY, US | On Site | Dec 08 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69375ea8aabec14a727c71d5?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | Dec 08 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69376264a0dde7020e3022cc?utm_campaign=1049&utm_source=git)** | Greenville, SC, US | On Site | Dec 08 |
+| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/69376264a0dde7020e3022cc?utm_campaign=1049&utm_source=git)** | Greenville, SC, US | On Site | Dec 08 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/693756901c1c2161c13f2ee8?utm_campaign=1049&utm_source=git)** | Katonah, NY, US | On Site | Dec 08 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69375b841c1c2161c13f345b?utm_campaign=1049&utm_source=git)** | Raleigh, NC, US | On Site | Dec 08 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/693758d4a0dde7020e3019cf?utm_campaign=1049&utm_source=git)** | Fairport, NY, US | On Site | Dec 08 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69375c2e1c1c2161c13f351c?utm_campaign=1049&utm_source=git)** | Olean, NY, US | On Site | Dec 08 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69375eceaabec14a727c71e1?utm_campaign=1049&utm_source=git)** | Johnstown, PA, US | On Site | Dec 08 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/693758d4a0dde7020e3019cf?utm_campaign=1049&utm_source=git)** | Fairport, NY, US | On Site | Dec 08 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69375b841c1c2161c13f345b?utm_campaign=1049&utm_source=git)** | Raleigh, NC, US | On Site | Dec 08 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69375ea8aabec14a727c71d5?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | Dec 08 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Architecture Student Intern - Full time - Detroit](https://jobright.ai/jobs/info/69374dccaabec14a727c6322?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 08 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Client Experience (CX) Department](https://jobright.ai/jobs/info/69372c8caabec14a727c4b19?utm_campaign=1049&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 08 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Austin](https://jobright.ai/jobs/info/69372c27aabec14a727c4ad5?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 08 |
@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Arts Axis Florida Brand Student Intern-WUSF](https://jobright.ai/jobs/info/6937331a1c1c2161c13f1659?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 08 |
 | **[The Hai Haus](https://www.thehaihaus.com)** | **[Content Creation Intern — Spring 2026 (Hybrid, NYC/MIA)](https://jobright.ai/jobs/info/69372a02a0dde7020e2ff79c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Dec 08 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (February 2026)](https://jobright.ai/jobs/info/693706c2aabec14a727c3955?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Dec 08 |
-| **[HONOR](https://www.honornyc.com)** | **[Luxury Womenswear Design Internship](https://jobright.ai/jobs/info/6936ed83a0dde7020e2fdd80?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Dec 08 |
 | **[RDM Architecture Kansas City](http://www.rdmarchitecture.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69371c73aabec14a727c420f?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Dec 08 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Styling Intern](https://jobright.ai/jobs/info/6936e14ea0dde7020e2fd9b5?utm_campaign=1049&utm_source=git)** | Lititz, PA | On Site | Dec 08 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern](https://jobright.ai/jobs/info/68cd40f2b2a74e1837ed471e?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Dec 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/6934293bf131d96e48469d27?utm_campaign=1049&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7f2546caff4db51ffe8a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Dec 06 |
 | **[Rocket](https://rocket.delivery/null/en)** | **[Graphic Design Intern - Winter 2026](https://jobright.ai/jobs/info/68e04211b99ec3563b0cdfdc?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
