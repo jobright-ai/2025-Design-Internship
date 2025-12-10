@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pittsburgh Vintage Grand Prix](http://www.pvgp.org)** | **[Pittsburgh Vintage Grand Prix Content Producer Internship: Video & Photo Editing Focus](https://jobright.ai/jobs/info/6939aaa048a8ce22990da5d6?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 10 |
+| **[Human Rights Foundation (HRF)](http://hrf.org)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6939aa0156b68f3dc4e6ff1a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 10 |
 | **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Marketing & Graphic Design Internship](https://jobright.ai/jobs/info/693992fa56b68f3dc4e6f585?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 10 |
+| **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[World Art Intern](https://jobright.ai/jobs/info/691cdf6a22a2cb4b9bd1e155?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 10 |
 | **[Arbor Homes](https://yourarborhome.com/)** | **[End User Experience Intern](https://jobright.ai/jobs/info/68cc3db316d00d2beeb1c331?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Dec 10 |
+| **[MBJ Network](www.mbj-network.com)** | **[Website Development Assistant - Intern](https://jobright.ai/jobs/info/6939acfc48a8ce22990da76b?utm_campaign=1049&utm_source=git)** | Lombard, IL | Hybrid | Dec 10 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec8f4ac26b9574506f397a?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Dec 10 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69200eae09cc522e87747a90?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Dec 10 |
 | **[Aptiv](http://www.aptiv.com)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/68cf5bcafb49c96ca6ea7fba?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Dec 10 |
@@ -103,7 +107,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938da27b95c305f206e123d?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Dec 09 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938d140aabec14a727db700?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 09 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[UX/UI Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69337deea0dde7020e2ee8b6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 09 |
-| **[Readeezy](http://readeezy.com)** | **[Writer Intern](https://jobright.ai/jobs/info/6938aa97aabec14a727d9b40?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/6938a1ecb95c305f206ddb19?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Philadelphia](https://jobright.ai/jobs/info/69389fcea0dde7020e3139d7?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Costa Mesa](https://jobright.ai/jobs/info/69389e11a0dde7020e3136a1?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Dec 09 |
@@ -119,8 +122,6 @@ For a complete list, click the following sortable link below:
 | **[somuchlove](https://www.somuchlove.design)** | **[Creative Intern](https://jobright.ai/jobs/info/693982b856b68f3dc4e6e9e7?utm_campaign=1049&utm_source=git)** | Eugene, OR | On Site | Dec 09 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Industrial Design Internship (Year-Long)](https://jobright.ai/jobs/info/69388b1daabec14a727d6d17?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Pittsburgh](https://jobright.ai/jobs/info/6938b0a9aabec14a727da02a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Architecture - Winter 2025 - New York](https://jobright.ai/jobs/info/6938bda8a0dde7020e315663?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 09 |
-| **[Zoox](https://www.zoox.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6938a237aabec14a727d8bde?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Dec 09 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program – Seattle](https://jobright.ai/jobs/info/69388522a0dde7020e31173e?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Raleigh](https://jobright.ai/jobs/info/693884acb95c305f206db674?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 09 |
 | **[Southgate Academy](http://www.southgateaz.org)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69397da6ac80bb5492bc028a?utm_campaign=1049&utm_source=git)** | Tucson, AZ | On Site | Dec 09 |
@@ -139,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Interaction Design Internship (Year-Long)](https://jobright.ai/jobs/info/6938a9d0aabec14a727d99fa?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Dec 09 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program – Pittsburgh](https://jobright.ai/jobs/info/69387f26b95c305f206db314?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Pittsburgh](https://jobright.ai/jobs/info/69387ec7aabec14a727d653c?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
+| **[Zoox](https://www.zoox.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6938ae6eb95c305f206dec53?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Dec 09 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2026] Graphic Design Internship](https://jobright.ai/jobs/info/6938ad70b95c305f206deb5e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/693898bda0dde7020e312da7?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 09 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/69387b99b95c305f206db09a?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Costa Mesa](https://jobright.ai/jobs/info/69387470b95c305f206dab17?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Dec 09 |
 | **[Riot Games](http://www.riotgames.com)** | **[Concept Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690916bed046ab6061cd12a2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Philadelphia](https://jobright.ai/jobs/info/69388a97a0dde7020e311d28?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 09 |
-| ↳ | **[Summer 2026 Design Internship Program – Stamford](https://jobright.ai/jobs/info/69388a62aabec14a727d6c9a?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – New York](https://jobright.ai/jobs/info/69388becb95c305f206dbbc1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 09 |
+| ↳ | **[Summer 2026 Design Internship Program – Stamford](https://jobright.ai/jobs/info/69388a62aabec14a727d6c9a?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Los Angeles](https://jobright.ai/jobs/info/69388baea0dde7020e311e65?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 09 |
-| ↳ | **[Summer 2026 Design Internship Program – Washington, DC](https://jobright.ai/jobs/info/69388b68b95c305f206dbb46?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 09 |
-| **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program – Stamford](https://jobright.ai/jobs/info/69388cebaabec14a727d6e41?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
