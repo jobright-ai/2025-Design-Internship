@@ -57,26 +57,30 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6938ea83a0dde7020e318933?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 09 |
+| **[MGIC](https://www.mgic.com)** | **[CX Strategy & Digital Experience Intern](https://jobright.ai/jobs/info/6938d273a0dde7020e316641?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 09 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938ce47b95c305f206e005a?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Dec 09 |
 | **[CO Architects](https://coarchitects.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/6938cc8eb95c305f206dfe9e?utm_campaign=1049&utm_source=git)** | Los Angeles, California | On Site | Dec 09 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938e8d6a0dde7020e318822?utm_campaign=1049&utm_source=git)** | Tucson, AZ | On Site | Dec 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, UX Design, Design Studio (Summer 2026)](https://jobright.ai/jobs/info/6938bfb5b95c305f206df79a?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Dec 09 |
 | **[Saint Laurent](http://www.ysl.com)** | **[SAINT LAURENT Visual Merchandising Intern](https://jobright.ai/jobs/info/6938b6f8a0dde7020e3151f0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 09 |
+| **[Burson](https://www.bursonglobal.com)** | **[Junior Graphic Design Intern](https://jobright.ai/jobs/info/6938d268a0dde7020e316634?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[MGIC](https://www.mgic.com)** | **[CX Strategy & Digital Experience Intern](https://jobright.ai/jobs/info/6938b3e6aabec14a727da292?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 09 |
+| **[Capstone](https://capstonedc.com)** | **[Spring 2026- Graphic Design and UX Design Intern](https://jobright.ai/jobs/info/6938d972aabec14a727dc4f8?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Flow Shooting Academy](WWW.flowshootingacademy.com)** | **[Videographer/Photographer Intern](https://jobright.ai/jobs/info/6938b37db95c305f206def04?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Dec 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, UX Design, Design Studio (Summer 2026)](https://jobright.ai/jobs/info/6938b26ea0dde7020e314e68?utm_campaign=1049&utm_source=git)** | Fremont, California | On Site | Dec 09 |
 | **[LandDesign](http://landdesign.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938ceb9b95c305f206e00ea?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 09 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938d086b95c305f206e029a?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Dec 09 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938cedea0dde7020e3161a2?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938d086b95c305f206e029a?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Dec 09 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938da27b95c305f206e123d?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Dec 09 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938d140aabec14a727db700?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 09 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[UX/UI Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69337deea0dde7020e2ee8b6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 09 |
 | **[Readeezy](http://readeezy.com)** | **[Writer Intern](https://jobright.ai/jobs/info/6938aa97aabec14a727d9b40?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 09 |
-| **[Parkii Organic Skin Care](https://parkiiorganicskincare.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6938d08da0dde7020e316361?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/6938a1ecb95c305f206ddb19?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Philadelphia](https://jobright.ai/jobs/info/69389fcea0dde7020e3139d7?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Costa Mesa](https://jobright.ai/jobs/info/69389e11a0dde7020e3136a1?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Stamford](https://jobright.ai/jobs/info/69389d57a0dde7020e31355b?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
 | **[Planned Parenthood Keystone](http://www.plannedparenthood.org/keystone/)** | **[Graphics Intern](https://jobright.ai/jobs/info/6938b89ab95c305f206df32b?utm_campaign=1049&utm_source=git)** | Pennsylvania | Remote | Dec 09 |
-| **[Burson](https://www.bursonglobal.com)** | **[Junior Graphic Design Intern](https://jobright.ai/jobs/info/6938c656aabec14a727dae88?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Washington, DC](https://jobright.ai/jobs/info/693899a5a0dde7020e312edc?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Capstone](https://capstonedc.com)** | **[Spring 2026- Graphic Design and UX Design Intern](https://jobright.ai/jobs/info/69389933b95c305f206dcb04?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Dec 09 |
 | **[Infinity Marketing Team, LLC](http://www.infinitymarketing.com/)** | **[Spring Intern - Design](https://jobright.ai/jobs/info/6938b879a0dde7020e31532c?utm_campaign=1049&utm_source=git)** | Culver City, CA | Hybrid | Dec 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68cee99ffb49c96ca6ea43d6?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Dec 09 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdffbe0c73b3a1119fc36?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | Hybrid | Dec 09 |
 | **[GoDaddy](https://www.godaddy.com)** | **[Intern - UX Designer](https://jobright.ai/jobs/info/69379277aabec14a727c9702?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 08 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Montgomery Co, MD](https://jobright.ai/jobs/info/6937bc80aabec14a727ccc18?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Dec 08 |
-| **[Find Me](https://fyndme.co)** | **[Senior - UX/UI/Graphic Design Intern – Unpaid](https://jobright.ai/jobs/info/6937abb4a0dde7020e3058ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 08 |
-| **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/6937af4faabec14a727cb600?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Dec 08 |
-| **[Candy Stripers®](http://www.candystriperny.org)** | **[REMOTE WINTER SESSION INTERNSHIP  (COLLEGE CREDIT ONLY)](https://jobright.ai/jobs/info/69378c431c1c2161c13f59a9?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
