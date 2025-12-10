@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Manhattan, Kansas](https://www.manhattanks.gov/)** | **[Intern - Architecture/Landscape Architecture](https://jobright.ai/jobs/info/6939254f56b68f3dc4e69e52?utm_campaign=1049&utm_source=git)** | Manhattan,KS,US | On Site | Dec 09 |
+| **[AARP](http://www.aarp.org)** | **[Consumer Care Digital Channel Intern](https://jobright.ai/jobs/info/693920b048a8ce22990d40bf?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Dec 09 |
+| **[GRO](https://www.readysetgro.io/)** | **[UI/UX Designer Internship (Figma + Web Design)](https://jobright.ai/jobs/info/6939254c56b68f3dc4e69e50?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | Remote | Dec 09 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Real Property Asset Management (RPAM) Summer Intern](https://jobright.ai/jobs/info/6938ee28a0dde7020e318bc0?utm_campaign=1049&utm_source=git)** | Aiken, SC | On Site | Dec 09 |
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6938ea83a0dde7020e318933?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 09 |
+| **[International](https://www.international.com)** | **[Automotive Industrial Design Intern](https://jobright.ai/jobs/info/69390bbc610de506401c5d7c?utm_campaign=1049&utm_source=git)** | Lisle, IL | On Site | Dec 09 |
 | **[Universal Studios Hollywood](http://www.universalstudioshollywood.com)** | **[Universal Studios Hollywood, Entertainment Production Design Internship – Summer 2026](https://jobright.ai/jobs/info/69335923764507023d1b4965?utm_campaign=1049&utm_source=git)** | Universal City, CA | On Site | Dec 09 |
 | **[MGIC](https://www.mgic.com)** | **[CX Strategy & Digital Experience Intern](https://jobright.ai/jobs/info/6938d273a0dde7020e316641?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 09 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938ce47b95c305f206e005a?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Dec 09 |
@@ -72,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[The Third Cartel](http://www.thethirdcartel.com)** | **[Creative Internship](https://jobright.ai/jobs/info/6938f425aabec14a727de55d?utm_campaign=1049&utm_source=git)** | Westland, MI | On Site | Dec 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, UX Design, Design Studio (Summer 2026)](https://jobright.ai/jobs/info/6938b26ea0dde7020e314e68?utm_campaign=1049&utm_source=git)** | Fremont, California | On Site | Dec 09 |
 | **[LandDesign](http://landdesign.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938ceb9b95c305f206e00ea?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 09 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938d086b95c305f206e029a?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Dec 09 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938cedea0dde7020e3161a2?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938d086b95c305f206e029a?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Dec 09 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938da27b95c305f206e123d?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Dec 09 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938d140aabec14a727db700?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 09 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[UX/UI Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69337deea0dde7020e2ee8b6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 09 |
@@ -94,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Industrial Design Internship (Year-Long)](https://jobright.ai/jobs/info/69388b1daabec14a727d6d17?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Pittsburgh](https://jobright.ai/jobs/info/6938b0a9aabec14a727da02a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Architecture - Winter 2025 - New York](https://jobright.ai/jobs/info/6938bda8a0dde7020e315663?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 09 |
+| **[Zoox](https://www.zoox.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6938a237aabec14a727d8bde?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Dec 09 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program – Seattle](https://jobright.ai/jobs/info/69388522a0dde7020e31173e?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Raleigh](https://jobright.ai/jobs/info/693884acb95c305f206db674?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 09 |
 | **[Russell Stover Chocolates](http://www.russellstover.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6938a4c6b95c305f206de14e?utm_campaign=1049&utm_source=git)** | KC Metro Area | Hybrid | Dec 09 |
@@ -101,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Design Internship Program – San Francisco](https://jobright.ai/jobs/info/6938a8dba0dde7020e31487b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 09 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program – Los Angeles](https://jobright.ai/jobs/info/6938842da0dde7020e311676?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Chicago](https://jobright.ai/jobs/info/6938a334a0dde7020e314038?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 09 |
-| ↳ | **[Summer 2026 Design Internship Program – Los Angeles](https://jobright.ai/jobs/info/6938a66bb95c305f206de514?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Seattle](https://jobright.ai/jobs/info/6938a03cb95c305f206dd729?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 09 |
+| ↳ | **[Summer 2026 Design Internship Program – Los Angeles](https://jobright.ai/jobs/info/6938a66bb95c305f206de514?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – San Francisco](https://jobright.ai/jobs/info/693883f8aabec14a727d6874?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/69388362a0dde7020e3115e8?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program – Philadelphia](https://jobright.ai/jobs/info/6938825ba0dde7020e31152d?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 09 |
@@ -111,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Interaction Design Internship (Year-Long)](https://jobright.ai/jobs/info/6938a9d0aabec14a727d99fa?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Dec 09 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program – Pittsburgh](https://jobright.ai/jobs/info/69387f26b95c305f206db314?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Pittsburgh](https://jobright.ai/jobs/info/69387ec7aabec14a727d653c?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
-| **[Zoox](https://www.zoox.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6938ae6eb95c305f206dec53?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Dec 09 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2026] Graphic Design Internship](https://jobright.ai/jobs/info/6938ad70b95c305f206deb5e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/693898bda0dde7020e312da7?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 09 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/69387b99b95c305f206db09a?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
@@ -127,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Philadelphia](https://jobright.ai/jobs/info/69388a97a0dde7020e311d28?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – New York](https://jobright.ai/jobs/info/69388becb95c305f206dbbc1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Stamford](https://jobright.ai/jobs/info/69388a62aabec14a727d6c9a?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
-| ↳ | **[Summer 2026 Design Internship Program – Washington, DC](https://jobright.ai/jobs/info/69388b68b95c305f206dbb46?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Los Angeles](https://jobright.ai/jobs/info/69388baea0dde7020e311e65?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 09 |
+| ↳ | **[Summer 2026 Design Internship Program – Washington, DC](https://jobright.ai/jobs/info/69388b68b95c305f206dbb46?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program – Stamford](https://jobright.ai/jobs/info/69388cebaabec14a727d6e41?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2026] Graphic Design Internship](https://jobright.ai/jobs/info/69388ce4aabec14a727d6e39?utm_campaign=1049&utm_source=git)** | New York City, NY | Hybrid | Dec 09 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Interaction Design Internship (Year-Long)](https://jobright.ai/jobs/info/69386591a0dde7020e30f15c?utm_campaign=1049&utm_source=git)** | USA, Louisville, KY | Hybrid | Dec 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec8fbc1eecd439f43f9e8f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/691b909915b415636719050c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/691b7380bcdbf3560c9def0c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Dec 09 |
-| **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Designer Intern - Summer 2026](https://jobright.ai/jobs/info/691bfae915b4156367194e66?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 09 |
-| **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c8d67ff9c6ff7aedf131d5?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Dec 09 |
-| **[Synopsys Inc](http://www.synopsys.com)** | **[Spring 2026 UX Intern (Bachelors)](https://jobright.ai/jobs/info/68f00a39de50091dbfa5190f?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Dec 09 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68cee99ffb49c96ca6ea43d6?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
