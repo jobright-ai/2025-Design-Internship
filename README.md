@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692e4125fa28370be26a2d72?utm_campaign=1049&utm_source=git)** | United States, New York, New York | On Site | Dec 11 |
+| **[Talentix](https://thetalentix.com/)** | **[UX Designer(Intern) – MCP / Cursor / Claude Experience @Talentix](https://jobright.ai/jobs/info/693a8d7eed39e94c66590663?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Dec 11 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/693a71d5ac80bb5492bcf70e?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: User Experience Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/693a4fefac80bb5492bcce61?utm_campaign=1049&utm_source=git)** | Milford, OH | Hybrid | Dec 10 |
-| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - UX Research Lab Assistant](https://jobright.ai/jobs/info/693a7513ac80bb5492bcf7d9?utm_campaign=1049&utm_source=git)** | Orem, UT | On Site | Dec 10 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Web Experience Intern](https://jobright.ai/jobs/info/693a42cdac80bb5492bcc47f?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Dec 10 |
 | **[Vivint](http://www.vivint.com)** | **[ID Intern](https://jobright.ai/jobs/info/693a42ad56b68f3dc4e79ae7?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Dec 10 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern – UI/UX Design](https://jobright.ai/jobs/info/693a36a2ac80bb5492bcbd1c?utm_campaign=1049&utm_source=git)** | Research Park, CA | Hybrid | Dec 10 |
 | **[Shelley Whitman Associates](https://www.shelleywhitman.com/)** | **[Illustration and Graphic Design Internships](https://jobright.ai/jobs/info/693a329048a8ce22990e28c2?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 10 |
@@ -76,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Q Prime Artist Management](http://qprime.com)** | **[Graphic Design Intern (Music Industry)](https://jobright.ai/jobs/info/6939f254ac80bb5492bc699f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 10 |
 | **[KROST](https://krostnewyork.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/693a1147ac80bb5492bc94f8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 10 |
 | **[Giant Noise](http://giantnoise.com)** | **[Design Intern](https://jobright.ai/jobs/info/6939ef1848a8ce22990de3f0?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 10 |
-| **[Lilly Pulitzer](https://www.lillypulitzer.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/693a2ad256b68f3dc4e77d44?utm_campaign=1049&utm_source=git)** | King of Prussia, PA - Home Office | Hybrid | Dec 10 |
-| **[Talentix](https://thetalentix.com/)** | **[UX Designer – MCP / Cursor / Claude Experience](https://jobright.ai/jobs/info/6939fb0148a8ce22990def59?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Dec 10 |
+| **[Lilly Pulitzer](https://www.lillypulitzer.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/693a2ad256b68f3dc4e77d44?utm_campaign=1049&utm_source=git)** | King of Prussia, PA - Home Office | Remote | Dec 10 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/693a0388ac80bb5492bc84f6?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 10 |
 | ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6939fe4e48a8ce22990df56b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 10 |
 | **[Atlassian](https://www.atlassian.com)** | **[Creative Operations Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/6939f73956b68f3dc4e7462a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
@@ -131,15 +130,14 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, UX Design, Design Studio (Summer 2026)](https://jobright.ai/jobs/info/6938bfb5b95c305f206df79a?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Dec 09 |
 | **[KEITH](https://keithteam.com/)** | **[Landscape Architect Intern / Co-op](https://jobright.ai/jobs/info/6939f9b856b68f3dc4e747ba?utm_campaign=1049&utm_source=git)** | Pompano Beach, FL | On Site | Dec 09 |
 | **[Saint Laurent](http://www.ysl.com)** | **[SAINT LAURENT Visual Merchandising Intern](https://jobright.ai/jobs/info/6938b6f8a0dde7020e3151f0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 09 |
-| **[Burson](https://www.bursonglobal.com)** | **[Junior Graphic Design Intern](https://jobright.ai/jobs/info/6938d268a0dde7020e316634?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[MGIC](https://www.mgic.com)** | **[CX Strategy & Digital Experience Intern](https://jobright.ai/jobs/info/6938b3e6aabec14a727da292?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 09 |
 | **[Capstone](https://capstonedc.com)** | **[Spring 2026- Graphic Design and UX Design Intern](https://jobright.ai/jobs/info/6938d972aabec14a727dc4f8?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Flow Shooting Academy](WWW.flowshootingacademy.com)** | **[Videographer/Photographer Intern](https://jobright.ai/jobs/info/6938b37db95c305f206def04?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Dec 09 |
 | **[The Third Cartel](http://www.thethirdcartel.com)** | **[Creative Internship](https://jobright.ai/jobs/info/6938f425aabec14a727de55d?utm_campaign=1049&utm_source=git)** | Westland, MI | On Site | Dec 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, UX Design, Design Studio (Summer 2026)](https://jobright.ai/jobs/info/6938b26ea0dde7020e314e68?utm_campaign=1049&utm_source=git)** | Fremont, California | On Site | Dec 09 |
 | **[LandDesign](http://landdesign.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938ceb9b95c305f206e00ea?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 09 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938cedea0dde7020e3161a2?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938d086b95c305f206e029a?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Dec 09 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938cedea0dde7020e3161a2?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938da27b95c305f206e123d?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Dec 09 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938d140aabec14a727db700?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 09 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[UX/UI Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69337deea0dde7020e2ee8b6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 09 |
@@ -148,6 +146,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Design Internship Program – Costa Mesa](https://jobright.ai/jobs/info/69389e11a0dde7020e3136a1?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Stamford](https://jobright.ai/jobs/info/69389d57a0dde7020e31355b?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
 | **[Planned Parenthood Keystone](http://www.plannedparenthood.org/keystone/)** | **[Graphics Intern](https://jobright.ai/jobs/info/6938b89ab95c305f206df32b?utm_campaign=1049&utm_source=git)** | Pennsylvania | Remote | Dec 09 |
+| **[Burson](https://www.bursonglobal.com)** | **[Junior Graphic Design Intern](https://jobright.ai/jobs/info/6938c656aabec14a727dae88?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Washington, DC](https://jobright.ai/jobs/info/693899a5a0dde7020e312edc?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Capstone](https://capstonedc.com)** | **[Spring 2026- Graphic Design and UX Design Intern](https://jobright.ai/jobs/info/69389933b95c305f206dcb04?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Raleigh](https://jobright.ai/jobs/info/6938b75eaabec14a727da443?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Industrial Design Internship (Year-Long)](https://jobright.ai/jobs/info/69388b1daabec14a727d6d17?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Pittsburgh](https://jobright.ai/jobs/info/6938b0a9aabec14a727da02a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
 | **[Zoox](https://www.zoox.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6938a237aabec14a727d8bde?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Dec 09 |
+| **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program – Seattle](https://jobright.ai/jobs/info/69388522a0dde7020e31173e?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
