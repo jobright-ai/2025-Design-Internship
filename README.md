@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Middlesex University Dubai](http://www.mdx.ac.ae)** | **[Graphic Designer Intern (Apply via link) (Remote)](https://jobright.ai/jobs/info/693ac366d4054a2bc024b74f?utm_campaign=1049&utm_source=git)** | Remote job | Remote | Dec 11 |
+| **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 11 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69203b19a49a885af9a3791a?utm_campaign=1049&utm_source=git)** | Staunton, VA | On Site | Dec 11 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69336705764507023d1b53aa?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Dec 11 |
 | **[Epic Games](https://epicgames.com)** | **[Tech Art Intern](https://jobright.ai/jobs/info/69017c1f4539ea1f214205f1?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Dec 11 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[User Experience Communications Intern Summer 2026](https://jobright.ai/jobs/info/69018352d5259a1b3cff5a25?utm_campaign=1049&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 11 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692e4125fa28370be26a2d72?utm_campaign=1049&utm_source=git)** | United States, New York, New York | On Site | Dec 11 |
 | **[Talentix](https://thetalentix.com/)** | **[UX Designer(Intern) – MCP / Cursor / Claude Experience @Talentix](https://jobright.ai/jobs/info/693a8d7eed39e94c66590663?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Dec 11 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/693a9c44b309e378008674fe?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Dec 10 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/693a71d5ac80bb5492bcf70e?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: User Experience Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/693a4fefac80bb5492bcce61?utm_campaign=1049&utm_source=git)** | Milford, OH | Hybrid | Dec 10 |
 | **[Vivint](http://www.vivint.com)** | **[ID Intern](https://jobright.ai/jobs/info/693a42ad56b68f3dc4e79ae7?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Dec 10 |
-| **[IBM](http://www.ibm.com)** | **[2026 Intern – UI/UX Design](https://jobright.ai/jobs/info/693a36a2ac80bb5492bcbd1c?utm_campaign=1049&utm_source=git)** | Research Park, CA | Hybrid | Dec 10 |
 | **[Shelley Whitman Associates](https://www.shelleywhitman.com/)** | **[Illustration and Graphic Design Internships](https://jobright.ai/jobs/info/693a329048a8ce22990e28c2?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 10 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Graphic Design Intern (Spring 2026)](https://jobright.ai/jobs/info/693a4ff748a8ce22990e5720?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 10 |
 | **[Express Wash Concepts](https://expresswashconcepts.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/693a2911ac80bb5492bcae4c?utm_campaign=1049&utm_source=git)** | Etna, OH 43068, USA | Hybrid | Dec 10 |
@@ -132,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, UX Design, Design Studio (Summer 2026)](https://jobright.ai/jobs/info/6938bfb5b95c305f206df79a?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Dec 09 |
 | **[KEITH](https://keithteam.com/)** | **[Landscape Architect Intern / Co-op](https://jobright.ai/jobs/info/6939f9b856b68f3dc4e747ba?utm_campaign=1049&utm_source=git)** | Pompano Beach, FL | On Site | Dec 09 |
 | **[Saint Laurent](http://www.ysl.com)** | **[SAINT LAURENT Visual Merchandising Intern](https://jobright.ai/jobs/info/6938b6f8a0dde7020e3151f0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 09 |
+| **[Burson](https://www.bursonglobal.com)** | **[Junior Graphic Design Intern](https://jobright.ai/jobs/info/6938d268a0dde7020e316634?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[MGIC](https://www.mgic.com)** | **[CX Strategy & Digital Experience Intern](https://jobright.ai/jobs/info/6938b3e6aabec14a727da292?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 09 |
 | **[Capstone](https://capstonedc.com)** | **[Spring 2026- Graphic Design and UX Design Intern](https://jobright.ai/jobs/info/6938d972aabec14a727dc4f8?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Flow Shooting Academy](WWW.flowshootingacademy.com)** | **[Videographer/Photographer Intern](https://jobright.ai/jobs/info/6938b37db95c305f206def04?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Dec 09 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Design Internship Program – Costa Mesa](https://jobright.ai/jobs/info/69389e11a0dde7020e3136a1?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Design Internship Program – Stamford](https://jobright.ai/jobs/info/69389d57a0dde7020e31355b?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
 | **[Planned Parenthood Keystone](http://www.plannedparenthood.org/keystone/)** | **[Graphics Intern](https://jobright.ai/jobs/info/6938b89ab95c305f206df32b?utm_campaign=1049&utm_source=git)** | Pennsylvania | Remote | Dec 09 |
-| **[Burson](https://www.bursonglobal.com)** | **[Junior Graphic Design Intern](https://jobright.ai/jobs/info/6938c656aabec14a727dae88?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Washington, DC](https://jobright.ai/jobs/info/693899a5a0dde7020e312edc?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Capstone](https://capstonedc.com)** | **[Spring 2026- Graphic Design and UX Design Intern](https://jobright.ai/jobs/info/69389933b95c305f206dcb04?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Dec 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Raleigh](https://jobright.ai/jobs/info/6938b75eaabec14a727da443?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 09 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Spring 2026 Full time)](https://jobright.ai/jobs/info/69388ff7b95c305f206dbe1f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 09 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6938af5eaabec14a727d9f12?utm_campaign=1049&utm_source=git)** | Ridgefield, CT | Hybrid | Dec 09 |
-| **[somuchlove](https://www.somuchlove.design)** | **[Creative Intern](https://jobright.ai/jobs/info/693982b856b68f3dc4e6e9e7?utm_campaign=1049&utm_source=git)** | Eugene, OR | On Site | Dec 09 |
-| **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Industrial Design Internship (Year-Long)](https://jobright.ai/jobs/info/69388b1daabec14a727d6d17?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Dec 09 |
-| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Pittsburgh](https://jobright.ai/jobs/info/6938b0a9aabec14a727da02a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
