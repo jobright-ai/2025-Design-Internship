@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/690ddb8544146d3b6ec50356?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 12 |
+| **[Intuit](https://www.intuit.com)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/692006803f782d2f1afc248c?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | Dec 12 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[UX Content Strategist Intern](https://jobright.ai/jobs/info/692024ce3f782d2f1afc3324?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Dec 12 |
 | ↳ | **[Technical UX Content Strategist Intern](https://jobright.ai/jobs/info/69203d0500c9ee50eaec089e?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Dec 12 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Concept Art](https://jobright.ai/jobs/info/6934f775a0dde7020e2f6cbb?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 12 |
@@ -78,17 +80,17 @@ For a complete list, click the following sortable link below:
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/68cd0a46e23def7af55b414b?utm_campaign=1049&utm_source=git)** | Latham, NY | On Site | Dec 11 |
 | **[J. Jill](http://www.jjill.com/)** | **[Design Internship - Summer 2026](https://jobright.ai/jobs/info/693b88c3b309e37800873496?utm_campaign=1049&utm_source=git)** | US-MA-Quincy | On Site | Dec 11 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[UX/UI Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69337deea0dde7020e2ee8b6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
+| **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Summer 2026)](https://jobright.ai/jobs/info/693b77a3d4054a2bc0255eea?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 11 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, Product Design](https://jobright.ai/jobs/info/693b7815d4054a2bc0255f0a?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Dec 11 |
-| **[SMACT Works](https://www.smactworks.com/)** | **[Multimedia Content Intern](https://jobright.ai/jobs/info/693b52cfb309e37800871295?utm_campaign=1049&utm_source=git)** | Dublin, OH | On Site | Dec 11 |
-| **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Summer 2026)](https://jobright.ai/jobs/info/693b4230b309e3780086f822?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 11 |
+| **[SMACT Works Inc](https://www.smactworks.com/)** | **[Multimedia Content Intern](https://jobright.ai/jobs/info/693b52cfb309e37800871295?utm_campaign=1049&utm_source=git)** | Dublin, OH | On Site | Dec 11 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern, User Experience and Growth](https://jobright.ai/jobs/info/693b6394d4054a2bc0255892?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/693b531ab309e3780087135b?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Dec 11 |
 | **[Norric](https://norric.ai)** | **[UI/UX Internship Spring 2026](https://jobright.ai/jobs/info/693b2d975f2c001987ed2e17?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Dec 11 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/693b2a73d4054a2bc0251943?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Dec 11 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 11 |
 | **[Chrome Industries](http://www.chromeindustries.com)** | **[Product Design & Development Intern - Chrome](https://jobright.ai/jobs/info/693b4921b309e3780086fdde?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Dec 11 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Architecture Archives Intern - UEIS Division](https://jobright.ai/jobs/info/693b4865b309e3780086fc61?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 11 |
 | **[Gulf Coast Blood](https://www.giveblood.org/)** | **[Marketing Intern- UX Design Intern (Paid Internship)](https://jobright.ai/jobs/info/693b2f17b309e3780086ea1c?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Dec 11 |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Architecture Archives Intern - UEIS Division](https://jobright.ai/jobs/info/693af0e1b309e3780086a6b3?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6933fad3a0dde7020e2f37ee?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Dec 11 |
 | **[Altruist](https://altruist.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/68ce72e6846f0b04af67a158?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 11 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Spring and Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/691ff14b09cc522e87746cd9?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 11 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 11 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69203b19a49a885af9a3791a?utm_campaign=1049&utm_source=git)** | Staunton, VA | On Site | Dec 11 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69336705764507023d1b53aa?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Dec 11 |
+| **[Giant Noise](http://giantnoise.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6939ef1848a8ce22990de3f0?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 11 |
 | **[Epic Games](https://epicgames.com)** | **[Tech Art Intern](https://jobright.ai/jobs/info/69017c1f4539ea1f214205f1?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Dec 11 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[User Experience Communications Intern Summer 2026](https://jobright.ai/jobs/info/69018352d5259a1b3cff5a25?utm_campaign=1049&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 11 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692e4125fa28370be26a2d72?utm_campaign=1049&utm_source=git)** | United States, New York, New York | On Site | Dec 11 |
@@ -128,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/693a14a456b68f3dc4e77002?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Dec 10 |
 | **[KROST](https://krostnewyork.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/693a1147ac80bb5492bc94f8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 10 |
 | **[Lilly Pulitzer](https://www.lillypulitzer.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/693a2ad256b68f3dc4e77d44?utm_campaign=1049&utm_source=git)** | King of Prussia, PA - Home Office | Remote | Dec 10 |
-| **[Giant Noise](http://giantnoise.com)** | **[Design Intern](https://jobright.ai/jobs/info/6939ef1848a8ce22990de3f0?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 10 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/693a0388ac80bb5492bc84f6?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 10 |
 | ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6939fe4e48a8ce22990df56b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 10 |
 | **[Atlassian](https://www.atlassian.com)** | **[Creative Operations Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/6939f73956b68f3dc4e7462a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69200eae09cc522e87747a90?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Dec 10 |
 | **[Aptiv](http://www.aptiv.com)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/68cf5bcafb49c96ca6ea7fba?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Dec 10 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Interactive and Graphic Design Intern](https://jobright.ai/jobs/info/6938fc3db95c305f206e3663?utm_campaign=1049&utm_source=git)** | Plymouth, MN | Hybrid | Dec 10 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69010be14539ea1f2141bdcd?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Dec 10 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Commercial CX Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68e476f6f758fe1f97e689b4?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
