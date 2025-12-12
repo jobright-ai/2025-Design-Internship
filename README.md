@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parkin Architects](http://www.parkin.ca/)** | **[ARCHITECT - INTERN](https://jobright.ai/jobs/info/693bdeeb4911ef04095f1798?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Dec 12 |
+| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/693be17c50bbaf76504f4cf6?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 11 |
+| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Architecture/Interior Design](https://jobright.ai/jobs/info/693bd26450bbaf76504f2ee5?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Dec 11 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/693b9185b309e37800873d95?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Dec 11 |
 | **[TAIT](http://www.taittowers.com)** | **[Motion Designer Intern](https://jobright.ai/jobs/info/693bb80c49a7695fbd02a507?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Dec 11 |
 | **[SMRT Architects & Engineers](http://smrtinc.com)** | **[Paid Interior Design Student Intern](https://jobright.ai/jobs/info/693b878db309e378008733b2?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Dec 11 |
@@ -79,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/693b2a73d4054a2bc0251943?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Dec 11 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 11 |
 | **[Chrome Industries](http://www.chromeindustries.com)** | **[Product Design & Development Intern - Chrome](https://jobright.ai/jobs/info/693b4921b309e3780086fdde?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Dec 11 |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Architecture Archives Intern - UEIS Division](https://jobright.ai/jobs/info/693b4865b309e3780086fc61?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 11 |
 | **[Gulf Coast Blood](https://www.giveblood.org/)** | **[Marketing Intern- UX Design Intern (Paid Internship)](https://jobright.ai/jobs/info/693b2f17b309e3780086ea1c?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Dec 11 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Architecture Archives Intern - UEIS Division](https://jobright.ai/jobs/info/693af0e1b309e3780086a6b3?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6933fad3a0dde7020e2f37ee?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Dec 11 |
 | **[Altruist](https://altruist.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/68ce72e6846f0b04af67a158?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 11 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Spring and Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/691ff14b09cc522e87746cd9?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 11 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/693a71d5ac80bb5492bcf70e?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: User Experience Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/693a4fefac80bb5492bcce61?utm_campaign=1049&utm_source=git)** | Milford, OH | Hybrid | Dec 10 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/693bc3b750bbaf76504f2407?utm_campaign=1049&utm_source=git)** | Elkhart, IN | On Site | Dec 10 |
-| **[Giant Noise](http://giantnoise.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6939ef1848a8ce22990de3f0?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 10 |
 | **[Vivint](http://www.vivint.com)** | **[ID Intern](https://jobright.ai/jobs/info/693a42ad56b68f3dc4e79ae7?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Dec 10 |
 | **[Shelley Whitman Associates](https://www.shelleywhitman.com/)** | **[Illustration and Graphic Design Internships](https://jobright.ai/jobs/info/693a329048a8ce22990e28c2?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 10 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Graphic Design Intern (Spring 2026)](https://jobright.ai/jobs/info/693a4ff748a8ce22990e5720?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 10 |
@@ -121,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/693a14a456b68f3dc4e77002?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Dec 10 |
 | **[KROST](https://krostnewyork.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/693a1147ac80bb5492bc94f8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 10 |
 | **[Lilly Pulitzer](https://www.lillypulitzer.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/693a2ad256b68f3dc4e77d44?utm_campaign=1049&utm_source=git)** | King of Prussia, PA - Home Office | Remote | Dec 10 |
+| **[Giant Noise](http://giantnoise.com)** | **[Design Intern](https://jobright.ai/jobs/info/6939ef1848a8ce22990de3f0?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 10 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/693a0388ac80bb5492bc84f6?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 10 |
 | ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6939fe4e48a8ce22990df56b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 10 |
 | **[Atlassian](https://www.atlassian.com)** | **[Creative Operations Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/6939f73956b68f3dc4e7462a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
@@ -134,6 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026: Product Design Engineering Intern, Advanced Development (May to August)](https://jobright.ai/jobs/info/68cc831d128dc347fd925fcc?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Dec 10 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[Intern- UX/UI](https://jobright.ai/jobs/info/6939df5148a8ce22990ddabb?utm_campaign=1049&utm_source=git)** | Wilmington, MA | On Site | Dec 10 |
 | **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939d04bac80bb5492bc514a?utm_campaign=1049&utm_source=git)** | Sacramento, CA | Hybrid | Dec 10 |
+| **[The Vision Detroit](https://linktr.ee/thevisiondetroit)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/693bd4fe49a7695fbd02b790?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | Dec 10 |
 | **[Pittsburgh Vintage Grand Prix](http://www.pvgp.org)** | **[Pittsburgh Vintage Grand Prix Content Producer Internship: Video & Photo Editing Focus](https://jobright.ai/jobs/info/6939aaa048a8ce22990da5d6?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 10 |
 | **[Human Rights Foundation (HRF)](http://hrf.org)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6939aa0156b68f3dc4e6ff1a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 10 |
 | **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[World Art Intern](https://jobright.ai/jobs/info/691cdf6a22a2cb4b9bd1e155?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/6934293bf131d96e48469d27?utm_campaign=1049&utm_source=git)** | Emeryville, CA | On Site | Dec 10 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdcd10ab3b222462af360?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Dec 10 |
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/691d6bb67481340785ed7686?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | On Site | Dec 10 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdf4ee04ac838fb5bc8fc?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Dec 10 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/691d2d1b7481340785ed485b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 10 |
-| ↳ | **[2026 Intern - GMO Events Team Designer](https://jobright.ai/jobs/info/68e5953eae2b894b1d711617?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 10 |
-| **[MBJ Network](www.mbj-network.com)** | **[Lead Graphic Designer - Intern / Remote](https://jobright.ai/jobs/info/6939546756b68f3dc4e6cb99?utm_campaign=1049&utm_source=git)** | Lombard, IL | Remote | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
