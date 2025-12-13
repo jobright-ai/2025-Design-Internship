@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/68cc6f977342c7623ae64d04?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 13 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - User Experience Research](https://jobright.ai/jobs/info/6903f12aff462851feff0eab?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 13 |
 | **[Nightwing](nightwing.com)** | **[UI/UX Design Intern - 2026](https://jobright.ai/jobs/info/693d2df749a7695fbd03e2d7?utm_campaign=1049&utm_source=git)** | Sterling, VA | On Site | Dec 13 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/693d1665aa598a08c3edd979?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 12 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/693cef92aa598a08c3edafe9?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Dec 12 |
 | **[SGS & Co](https://www.sgsco.com/)** | **[Graphic Communication Intern](https://jobright.ai/jobs/info/693ce7ea49a7695fbd0393f6?utm_campaign=1049&utm_source=git)** | Butler, PA | On Site | Dec 12 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[User Experience Content Intern](https://jobright.ai/jobs/info/693ce2e949a7695fbd0391ab?utm_campaign=1049&utm_source=git)** | United States | On Site | Dec 12 |
@@ -137,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Norric](https://norric.ai)** | **[UI/UX Internship Spring 2026](https://jobright.ai/jobs/info/693b2d975f2c001987ed2e17?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Dec 11 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/693b2a73d4054a2bc0251943?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Dec 11 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 11 |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Architecture Archives Intern - UEIS Division](https://jobright.ai/jobs/info/693b4865b309e3780086fc61?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 11 |
 | **[Gulf Coast Blood](https://www.giveblood.org/)** | **[Marketing Intern- UX Design Intern (Paid Internship)](https://jobright.ai/jobs/info/693b2f17b309e3780086ea1c?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Dec 11 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Architecture Archives Intern - UEIS Division](https://jobright.ai/jobs/info/693af0e1b309e3780086a6b3?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6933fad3a0dde7020e2f37ee?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Dec 11 |
 | **[Altruist](https://altruist.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/68ce72e6846f0b04af67a158?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 11 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Spring and Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/691ff14b09cc522e87746cd9?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Middlesex University Dubai](http://www.mdx.ac.ae)** | **[Graphic Designer Intern (Apply via link) (Remote)](https://jobright.ai/jobs/info/693ac366d4054a2bc024b74f?utm_campaign=1049&utm_source=git)** | Remote job | Remote | Dec 11 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68ae4743daf1431824ca1fd0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 11 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 11 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69203b19a49a885af9a3791a?utm_campaign=1049&utm_source=git)** | Staunton, VA | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
