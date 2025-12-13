@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nightwing](nightwing.com)** | **[UI/UX Design Intern - 2026](https://jobright.ai/jobs/info/693d2df749a7695fbd03e2d7?utm_campaign=1049&utm_source=git)** | Sterling, VA | On Site | Dec 13 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/693d1665aa598a08c3edd979?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 12 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graphic Artist, Tahlequah](https://jobright.ai/jobs/info/693cef92aa598a08c3edafe9?utm_campaign=1049&utm_source=git)** | Tahlequah, OK | On Site | Dec 12 |
 | **[SGS & Co](https://www.sgsco.com/)** | **[Graphic Communication Intern](https://jobright.ai/jobs/info/693ce7ea49a7695fbd0393f6?utm_campaign=1049&utm_source=git)** | Butler, PA | On Site | Dec 12 |
@@ -64,7 +65,7 @@ For a complete list, click the following sortable link below:
 | **[FTI](http://www.faithtechinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/693cc571aa598a08c3ed97dc?utm_campaign=1049&utm_source=git)** | Menasha, WI | Hybrid | Dec 12 |
 | **[J. Jill](http://www.jjill.com/)** | **[Design Internship - Summer 2026](https://jobright.ai/jobs/info/693cbda949a7695fbd037ce6?utm_campaign=1049&utm_source=git)** | Quincy, MA | On Site | Dec 12 |
 | **[Empire State Realty Trust](https://www.esrtreit.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/693cb3dd49a7695fbd0378d0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 12 |
-| **[FTI](http://www.faithtechinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/693ca78249a7695fbd0372fd?utm_campaign=1049&utm_source=git)** | WI - Menasha | Hybrid | Dec 12 |
+| **[FTI](http://www.faithtechinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/693caa1c50bbaf76504fed59?utm_campaign=1049&utm_source=git)** | WI - Menasha | Hybrid | Dec 12 |
 | **[Empire State Realty Trust](https://www.esrtreit.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/693ca17a49a7695fbd036f5d?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Dec 12 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[User Experience Content Intern](https://jobright.ai/jobs/info/693ca11daa598a08c3ed860c?utm_campaign=1049&utm_source=git)** | United States | On Site | Dec 12 |
 | **[Monigle](https://www.monigle.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/693c94b949a7695fbd035659?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 12 |
@@ -104,9 +105,9 @@ For a complete list, click the following sortable link below:
 | **[J. Jill](http://www.jjill.com/)** | **[Design Internship - Summer 2026](https://jobright.ai/jobs/info/693b88c3b309e37800873496?utm_campaign=1049&utm_source=git)** | US-MA-Quincy | On Site | Dec 11 |
 | **[Sleeper](https://sleeper.com)** | **[Graphic Designer (Intern-to-Hire)](https://jobright.ai/jobs/info/693c744f49a7695fbd0339ec?utm_campaign=1049&utm_source=git)** | California, Oregon, Nevada, Washington | Remote | Dec 11 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[UX/UI Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69337deea0dde7020e2ee8b6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
+| **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Summer 2026)](https://jobright.ai/jobs/info/693b77a3d4054a2bc0255eea?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 11 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, Product Design](https://jobright.ai/jobs/info/693b7815d4054a2bc0255f0a?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Dec 11 |
 | **[SMACT Works Inc](https://www.smactworks.com/)** | **[Multimedia Content Intern](https://jobright.ai/jobs/info/693b52cfb309e37800871295?utm_campaign=1049&utm_source=git)** | Dublin, OH | On Site | Dec 11 |
-| **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Summer 2026)](https://jobright.ai/jobs/info/693b4230b309e3780086f822?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 11 |
 | **[Phoenix Generation Conference](www.phoenixgeneration.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/693d056eaa598a08c3edd1e7?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Dec 11 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern, User Experience and Growth](https://jobright.ai/jobs/info/693b6394d4054a2bc0255892?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/693b531ab309e3780087135b?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Dec 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6939fe4e48a8ce22990df56b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 10 |
 | **[Atlassian](https://www.atlassian.com)** | **[Creative Operations Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/6939f73956b68f3dc4e7462a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
 | **[Stripe](https://stripe.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/693a02fa56b68f3dc4e759a1?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 10 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/6939f6c756b68f3dc4e745df?utm_campaign=1049&utm_source=git)** | Toronto | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
