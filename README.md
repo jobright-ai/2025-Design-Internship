@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Urban Design/Landscape Planning Intern](https://jobright.ai/jobs/info/68d374448c62e63bc7fe152b?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 14 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/69052df6122e8474c78d726e?utm_campaign=1049&utm_source=git)** | Irvine, CA | Hybrid | Dec 14 |
+| ↳ | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/6905203d63502c0aded785cc?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Dec 14 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[YXP Graphic Design Intern - FWS](https://jobright.ai/jobs/info/693e5d2849a7695fbd0496f4?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 13 |
 | **[Orvanta](orvanta.us)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/693e414949a7695fbd048e32?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Remote | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Wealth Management, Summer UX Designer Intern (4-8 months)](https://jobright.ai/jobs/info/693e391349a7695fbd047521?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 13 |
@@ -90,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Bohler](https://bohlerengineering.com)** | **[Landscape Designer Intern / Summer 2026 / Raleigh, NC / Bohler](https://jobright.ai/jobs/info/693d44e450bbaf765050648e?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 12 |
 | ↳ | **[Landscape Designer Intern / Summer 2026 / Chalfont, PA/ Bohler](https://jobright.ai/jobs/info/693d4a6349a7695fbd03ee8e?utm_campaign=1049&utm_source=git)** | Chalfont, PA | On Site | Dec 12 |
 | ↳ | **[Landscape Designer Intern / Summer 2026 / Warren, NJ/ Bohler](https://jobright.ai/jobs/info/693d42bbaa598a08c3ee035b?utm_campaign=1049&utm_source=git)** | Warren, NJ | On Site | Dec 12 |
-| ↳ | **[Landscape Designer Intern / Summer 2026 / Orlando, FL / Bohler](https://jobright.ai/jobs/info/693d45a250bbaf76505064c0?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Dec 12 |
 | ↳ | **[Landscape Designer Intern / Summer 2026 / Boston, MA  / Bohler](https://jobright.ai/jobs/info/693d434a50bbaf765050644c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Dec 12 |
+| ↳ | **[Landscape Designer Intern / Summer 2026 / Orlando, FL / Bohler](https://jobright.ai/jobs/info/693d45a250bbaf76505064c0?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Dec 12 |
 | ↳ | **[Landscape Designer Intern / Summer 2026 / Towson, MD / Bohler](https://jobright.ai/jobs/info/693d49c2aa598a08c3ee04fc?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | Dec 12 |
 | ↳ | **[Landscape Designer Intern / Summer 2026 / Herndon, VA / Bohler](https://jobright.ai/jobs/info/693d488a50bbaf7650506584?utm_campaign=1049&utm_source=git)** | Herndon, VA | On Site | Dec 12 |
 | **[Empire State Realty Trust](https://www.esrtreit.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/693ca17a49a7695fbd036f5d?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Dec 12 |
@@ -134,13 +137,13 @@ For a complete list, click the following sortable link below:
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[UX/UI Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69337deea0dde7020e2ee8b6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, Product Design](https://jobright.ai/jobs/info/693b7815d4054a2bc0255f0a?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Dec 11 |
 | **[SMACT Works Inc](https://www.smactworks.com/)** | **[Multimedia Content Intern](https://jobright.ai/jobs/info/693b52cfb309e37800871295?utm_campaign=1049&utm_source=git)** | Dublin, OH | On Site | Dec 11 |
-| **[Chrome Industries](http://www.chromeindustries.com)** | **[Product Design & Development Intern - Chrome](https://jobright.ai/jobs/info/693b6f8dd4054a2bc0255cb4?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Dec 11 |
 | **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Summer 2026)](https://jobright.ai/jobs/info/693b4230b309e3780086f822?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 11 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern, User Experience and Growth](https://jobright.ai/jobs/info/693b6394d4054a2bc0255892?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/693b531ab309e3780087135b?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Dec 11 |
 | **[Norric](https://norric.ai)** | **[UI/UX Internship Spring 2026](https://jobright.ai/jobs/info/693b2d975f2c001987ed2e17?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Dec 11 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/693b2a73d4054a2bc0251943?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Dec 11 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 11 |
+| **[Chrome Industries](http://www.chromeindustries.com)** | **[Product Design & Development Intern - Chrome](https://jobright.ai/jobs/info/693b4921b309e3780086fdde?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Dec 11 |
 | **[Gulf Coast Blood](https://www.giveblood.org/)** | **[Marketing Intern- UX Design Intern (Paid Internship)](https://jobright.ai/jobs/info/693b2f17b309e3780086ea1c?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Dec 11 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Architecture Archives Intern - UEIS Division](https://jobright.ai/jobs/info/693af0e1b309e3780086a6b3?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6933fad3a0dde7020e2f37ee?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Dec 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Creative Operations Co-op (February to July)](https://jobright.ai/jobs/info/68cd63cf1ad6b16f02899063?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Dec 11 |
 | ↳ | **[Spring 2026: CMF Industrial Design Co-op (February to July)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Dec 11 |
 | ↳ | **[Spring 2026: Product Design Engineering Co-op, Advanced Development (January through June)](https://jobright.ai/jobs/info/68cd8320e23def7af55bb027?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Dec 11 |
-| ↳ | **[Summer 2026: Industrial Design Intern (May to August)](https://jobright.ai/jobs/info/68cb5948efdec76df36bb83c?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Dec 11 |
-| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6900d857f8ce7a040fdb9b75?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 11 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68cecf56dbd9fb154ede2fcc?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
