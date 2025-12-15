@@ -57,14 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - IT End User Experience](https://jobright.ai/jobs/info/6940650150bbaf7650526936?utm_campaign=1049&utm_source=git)** | Whippany, NJ | On Site | Dec 15 |
+| **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Creative Studio Design Intern](https://jobright.ai/jobs/info/694064d949a7695fbd05e892?utm_campaign=1049&utm_source=git)** | Campbell, California | Hybrid | Dec 15 |
+| ↳ | **[Pricing and Packaging Intern](https://jobright.ai/jobs/info/6940634749a7695fbd05e769?utm_campaign=1049&utm_source=git)** | Campbell, California | Hybrid | Dec 15 |
+| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Design Research](https://jobright.ai/jobs/info/694060c650bbaf7650526646?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 15 |
+| **[ThinkMarkets](https://www.thinkmarkets.com/en/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69405987aa598a08c3effe70?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Dec 15 |
+| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[UX Designer Intern (Academic Credit Only) Winter / Spring 2026](https://jobright.ai/jobs/info/69404e8750bbaf7650525c9f?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Dec 15 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Global Events & Exhibitions](https://jobright.ai/jobs/info/6940467b49a7695fbd05ce46?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
+| **[UNCO](https://www.unco.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69406154aa598a08c3f002a3?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 15 |
 | **[Henkel](http://www.henkel.com)** | **[CX Engagement and SME intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68b3db0df4e41a61efd8ad5d?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 15 |
 | **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Program Internship Opportunity](https://jobright.ai/jobs/info/687e62dcdb19f31cf0d69e3f?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 15 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - UX Research](https://jobright.ai/jobs/info/6940333c49a7695fbd05b6c8?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
 | ↳ | **[Internship - Design Research](https://jobright.ai/jobs/info/694031cdaa598a08c3efd331?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
 | ↳ | **[Internship - Store Design Architecture](https://jobright.ai/jobs/info/694030d349a7695fbd05b588?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
 | ↳ | **[Internship - UX Design](https://jobright.ai/jobs/info/69402fd750bbaf76505235bb?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
-| ↳ | **[Internship - 3D Design Visualization](https://jobright.ai/jobs/info/69402f11aa598a08c3efd1ba?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
 | ↳ | **[Internship - Digital Design](https://jobright.ai/jobs/info/69402eb950bbaf7650523520?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
 | ↳ | **[Internship - IT End User Experience](https://jobright.ai/jobs/info/69402d6949a7695fbd05b444?utm_campaign=1049&utm_source=git)** | Whippany, NJ, United States | On Site | Dec 15 |
 | **[Future London Academy](http://futurelondonacademy.co.uk/)** | **[Creative Intern](https://jobright.ai/jobs/info/6940289849a7695fbd05b24e?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Dec 15 |
@@ -109,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Technical Assistant Intern - Summer 2026 (Open to Canadian Citizens & PR only)](https://jobright.ai/jobs/info/693d5cb649a7695fbd03f078?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 13 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/693d583050bbaf76505067f2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 13 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/68cc6f977342c7623ae64d04?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 13 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - User Experience Research](https://jobright.ai/jobs/info/6903f12aff462851feff0eab?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 13 |
 | **[Nightwing](nightwing.com)** | **[UI/UX Design Intern - 2026](https://jobright.ai/jobs/info/693d2df749a7695fbd03e2d7?utm_campaign=1049&utm_source=git)** | Sterling, VA | On Site | Dec 13 |
 | **[SGS & Co](https://www.sgsco.com/)** | **[Graphic Communication Intern](https://jobright.ai/jobs/info/693ce7ea49a7695fbd0393f6?utm_campaign=1049&utm_source=git)** | Butler, PA | On Site | Dec 12 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[User Experience Content Intern](https://jobright.ai/jobs/info/693ce2e949a7695fbd0391ab?utm_campaign=1049&utm_source=git)** | United States | On Site | Dec 12 |
@@ -133,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Haworth](http://www.haworth.com/)** | **[Design Research Intern - Holland, MI](https://jobright.ai/jobs/info/693c680849a7695fbd033375?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Dec 12 |
 | **[Guidon](https://www.guidondesign.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/693c5b4250bbaf76504fa652?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Dec 12 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[UI Artist Intern (Apex Legends)](https://jobright.ai/jobs/info/691ddae8748c4e1301ec9636?utm_campaign=1049&utm_source=git)** | Greater Vancouver Metropolitan Area | Hybrid | Dec 12 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/6933b8baa0dde7020e2f0ff2?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Dec 12 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6908da77d046ab6061cce6c5?utm_campaign=1049&utm_source=git)** | East Lansing, MI | On Site | Dec 12 |
 | **[AARP](http://www.aarp.org)** | **[Design Thinking and Product Intern](https://jobright.ai/jobs/info/6902ae68ff462851fefe5af5?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Creative Operations Intern (May to August)](https://jobright.ai/jobs/info/68cea715846f0b04af67c0d0?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Dec 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Architectural Student Intern](https://jobright.ai/jobs/info/693b85acb309e37800873242?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Dec 11 |
 | **[Lyft](https://www.lyft.com/)** | **[Architecture Design Intern (Summer 2026)](https://jobright.ai/jobs/info/693b6c67d4054a2bc0255bd3?utm_campaign=1049&utm_source=git)** | San Francisco County, CA | Hybrid | Dec 11 |
 | ↳ | **[Architecture Design Intern (Summer 2026)](https://jobright.ai/jobs/info/693b6d55d4054a2bc0255c17?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 11 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Technical Assistant Intern - Summer 2026 (Open to Canadian Citizens & PR only)](https://jobright.ai/jobs/info/693baef750bbaf76504f1751?utm_campaign=1049&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Dec 11 |
-| **[SMRT Architects & Engineers](http://smrtinc.com)** | **[Paid Interior Design Student Intern](https://jobright.ai/jobs/info/693b92bbd4054a2bc02574c9?utm_campaign=1049&utm_source=git)** | Andover, MA | On Site | Dec 11 |
-| ↳ | **[Paid Architectural Student Intern](https://jobright.ai/jobs/info/693b945a5f2c001987ed88c5?utm_campaign=1049&utm_source=git)** | Andover, MA | On Site | Dec 11 |
-| **[Realtor.com](https://www.realtor.com/)** | **[Intern, Product Design](https://jobright.ai/jobs/info/693b6e6cb309e378008728ac?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | Hybrid | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
