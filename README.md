@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pinterest](https://www.pinterest.com/)** | **[UX Engineer Intern](https://jobright.ai/jobs/info/692513d9c0cefa13343e6422?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
+| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Styling Intern](https://jobright.ai/jobs/info/6941784950bbaf76505357e4?utm_campaign=1049&utm_source=git)** | Lititz, PA | On Site | Dec 16 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - City Design](https://jobright.ai/jobs/info/69252379d47de4798eccd436?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
 | ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6924d1fdc0cefa13343e25f0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 16 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69252497f0beb0723261b0a6?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/692527f927bf2f41a2c3c952?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
 | **[Zscaler](https://www.zscaler.com)** | **[Workplace Design and Graphics Intern](https://jobright.ai/jobs/info/6924c7c8c0cefa13343e1d33?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Dec 16 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69251bebc0cefa13343e6a43?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Architecture Student Intern - Full time - Detroit](https://jobright.ai/jobs/info/69374dccaabec14a727c6322?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 16 |
 | **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/6924b8a7ec574f4265bb62c6?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Dec 16 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69252bc227bf2f41a2c3cc93?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 16 |
 | ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69252885d47de4798eccd987?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
@@ -75,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Climate Designers](https://www.climatedesigners.org)** | **[UX Design Intern](https://jobright.ai/jobs/info/69415c5414ee092a69ff8197?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Dec 16 |
 | **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Dec 16 |
 | **[Flick (YC F25)](https://flick.art/)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6941094249a7695fbd06908a?utm_campaign=1049&utm_source=git)** | Remote (US) | Remote | Dec 15 |
+| **[Elev8tech](elev8tech.co)** | **[Digital Product Design Intern](https://jobright.ai/jobs/info/694168cd14ee092a69ff88c1?utm_campaign=1049&utm_source=git)** | Riverside, CA | Hybrid | Dec 15 |
 | **[Dae Haus Creative](http://www.daehauscreative.com)** | **[Creative Assistant Internship](https://jobright.ai/jobs/info/6940e5bd50bbaf765052ea6f?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Remote | Dec 15 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6940cf7849a7695fbd065379?utm_campaign=1049&utm_source=git)** | Bayport, MN | On Site | Dec 15 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/6940cc0049a7695fbd064b22?utm_campaign=1049&utm_source=git)** | Buffalo, NY | Hybrid | Dec 15 |
@@ -125,13 +129,12 @@ For a complete list, click the following sortable link below:
 | **[Sasaki](https://www.sasaki.com/)** | **[2026 Summer Internship - Architecture (Boston)](https://jobright.ai/jobs/info/6940906daa598a08c3f03c8f?utm_campaign=1049&utm_source=git)** | Boston, MA, US | On Site | Dec 15 |
 | ↳ | **[2026 Summer Internship - Landscape Architecture (BOS, BKN)](https://jobright.ai/jobs/info/69409be150bbaf765052a9df?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, US | On Site | Dec 15 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Web Experience Intern](https://jobright.ai/jobs/info/69406f95aa598a08c3f00e03?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | Hybrid | Dec 15 |
-| **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[Shared Land Access Case Studies Intern (Spring 2026)](https://jobright.ai/jobs/info/69408ccc49a7695fbd061e45?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 15 |
+| **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[hared Land Access Case Studies Intern (Spring 2025)](https://jobright.ai/jobs/info/69408ccc49a7695fbd061e45?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 15 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program - Healthcare - New York](https://jobright.ai/jobs/info/69406c68aa598a08c3f00b4a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Pricing and Packaging Intern](https://jobright.ai/jobs/info/69408b00aa598a08c3f03aa9?utm_campaign=1049&utm_source=git)** | Campbell, CA | Hybrid | Dec 15 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[User Researcher - 2026 Summer Internship](https://jobright.ai/jobs/info/6940895c50bbaf7650529895?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Remote | Dec 15 |
-| ↳ | **[User Researcher - 2026 Summer Internship](https://jobright.ai/jobs/info/69408a90aa598a08c3f039fa?utm_campaign=1049&utm_source=git)** | Framingham, MA | Remote | Dec 15 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[User Researcher - 2026 Summer Internship](https://jobright.ai/jobs/info/69408a90aa598a08c3f039fa?utm_campaign=1049&utm_source=git)** | Framingham, MA | Remote | Dec 15 |
+| ↳ | **[User Researcher - 2026 Summer Internship](https://jobright.ai/jobs/info/6940895c50bbaf7650529895?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Remote | Dec 15 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[TNT Sports Broadcast Design Intern: ATL- Spring 2026](https://jobright.ai/jobs/info/6940885149a7695fbd061761?utm_campaign=1049&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Dec 15 |
-| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Styling Intern](https://jobright.ai/jobs/info/69408b3baa598a08c3f03ad4?utm_campaign=1049&utm_source=git)** | Lititz, PA | On Site | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/694066a4aa598a08c3f006a3?utm_campaign=1049&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[User Researcher - 2026 Summer Internship](https://jobright.ai/jobs/info/694081f4aa598a08c3f025cf?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Dec 15 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - IT End User Experience](https://jobright.ai/jobs/info/6940650150bbaf7650526936?utm_campaign=1049&utm_source=git)** | Whippany, NJ | On Site | Dec 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[CX Engagement and SME intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68b3db0df4e41a61efd8ad5d?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 15 |
 | **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Program Internship Opportunity](https://jobright.ai/jobs/info/687e62dcdb19f31cf0d69e3f?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 15 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - UX Research](https://jobright.ai/jobs/info/6940333c49a7695fbd05b6c8?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
-| ↳ | **[Internship - Design Research](https://jobright.ai/jobs/info/694031cdaa598a08c3efd331?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
-| ↳ | **[Internship - Store Design Architecture](https://jobright.ai/jobs/info/694030d349a7695fbd05b588?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
-| ↳ | **[Internship - UX Design](https://jobright.ai/jobs/info/69402fd750bbaf76505235bb?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
