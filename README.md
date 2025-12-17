@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Climate Designers](https://www.climatedesigners.org)** | **[UX Design Intern](https://jobright.ai/jobs/info/69429714dd382f5f5668a62f?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Dec 17 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68f1d6a5f462172a5a7dcf38?utm_campaign=1049&utm_source=git)** | Westminster, CO | On Site | Dec 17 |
 | **[Anchor Home](http://www.anchorhomeinc.com)** | **[Graphic Design Internship - Spring 2026](https://jobright.ai/jobs/info/694261d750bbaf765054594f?utm_campaign=1049&utm_source=git)** | Timonium, MD | On Site | Dec 16 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/69423fb150bbaf76505422d8?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | Dec 16 |
 | **[Targon LLC](targonglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69425aaebdcf884a5ade3eeb?utm_campaign=1049&utm_source=git)** | Manhattan, KS | On Site | Dec 16 |
@@ -83,22 +85,22 @@ For a complete list, click the following sortable link below:
 | **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68f14fadf462172a5a7d60d1?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Dec 16 |
 | **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Creative Services (Video)](https://jobright.ai/jobs/info/69423d5550bbaf76505420d5?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Dec 16 |
 | **[TmrO App](https://www.tmroapp.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6941fb6650bbaf765053cfa8?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
-| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, CAD Artist/ Design Assistant, Graphics](https://jobright.ai/jobs/info/6941f96c50bbaf765053ce4c?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 16 |
-| ↳ | **[Summer Intern - Men's Lee Design](https://jobright.ai/jobs/info/6941f35c14ee092a69001132?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 16 |
+| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern - Men's Lee Design](https://jobright.ai/jobs/info/6941f35c14ee092a69001132?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 16 |
+| ↳ | **[Summer Intern, CAD Artist/ Design Assistant, Graphics](https://jobright.ai/jobs/info/6941f96c50bbaf765053ce4c?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 16 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/6942095550bbaf765053da61?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Dec 16 |
 | **[Legends Global](http://legends.net)** | **[Video/Production Content Intern - University of Nebraska](https://jobright.ai/jobs/info/6941e62f14ee092a69fffc09?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Dec 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6941c46dbdcf884a5add7cb6?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Dec 16 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Content Design Intern](https://jobright.ai/jobs/info/68f6e31e9a63986de7583300?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Dec 16 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6941c0cb14ee092a69ffdab8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Graphic Design](https://jobright.ai/jobs/info/6941c00214ee092a69ffda4e?utm_campaign=1049&utm_source=git)** | Okemos, MI | Hybrid | Dec 16 |
 | **[Penn State University](http://psu.edu)** | **[Physical Plant Landscape Architecture Intern](https://jobright.ai/jobs/info/6941f12150bbaf765053c0d0?utm_campaign=1049&utm_source=git)** | Penn State University Park | On Site | Dec 16 |
-| **[HP](http://www.hp.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6941dbcb14ee092a69ffeb96?utm_campaign=1049&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Dec 16 |
+| **[HP](http://www.hp.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6941db8314ee092a69ffeb1b?utm_campaign=1049&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Dec 16 |
 | **[SOSHE Beauty](https://soshebeauty.com)** | **[Product Ops Intern](https://jobright.ai/jobs/info/6941e84750bbaf765053b3c2?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Dec 16 |
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69264df127bf2f41a2c45232?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Dec 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6941ce7250bbaf76505398c3?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[Riot Games](http://www.riotgames.com)** | **[Visual Design Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092865bcccf20de59d80bc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 16 |
 | **[Climate Democracy Initiative](www.climatedemocracyinitiative.org)** | **[Social Media And Website Design Intern](https://jobright.ai/jobs/info/6941cf1b14ee092a69ffe353?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 16 |
 | **[Riot Games](http://www.riotgames.com)** | **[Technical Art Intern - Rigging, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091c74bcccf20de59d74d0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 16 |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Graphic Design](https://jobright.ai/jobs/info/6941a5f750bbaf7650538189?utm_campaign=1049&utm_source=git)** | Okemos, MI | Hybrid | Dec 16 |
 | **[acronym](www.the-acronym.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69421086bdcf884a5addcc1a?utm_campaign=1049&utm_source=git)** | Oak Brook, IL | Hybrid | Dec 16 |
 | **[Riot Games](http://www.riotgames.com)** | **[Concept Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690916bed046ab6061cd12a2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 16 |
 | **[BSA](http://bsalifestructures.com)** | **[Architecture Summer 2026 Internship - Raleigh](https://jobright.ai/jobs/info/69419cdb14ee092a69ffb742?utm_campaign=1049&utm_source=git)** | North Carolina, Raleigh, NC, US | On Site | Dec 16 |
@@ -142,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Ruoff Mortgage](http://ruoff.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6940b668aa598a08c3f0547a?utm_campaign=1049&utm_source=git)** | Fort Wayne,IN,US | On Site | Dec 15 |
 | **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/6942151b50bbaf765053eb2a?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 15 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/6940b10549a7695fbd0633d4?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Dec 15 |
-| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/69420d4b14ee092a690029e6?utm_campaign=1049&utm_source=git)** | Fairport, NY | On Site | Dec 15 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69420f4950bbaf765053e057?utm_campaign=1049&utm_source=git)** | Katonah, NY | On Site | Dec 15 |
+| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/69420f4950bbaf765053e057?utm_campaign=1049&utm_source=git)** | Katonah, NY | On Site | Dec 15 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69420d4b14ee092a690029e6?utm_campaign=1049&utm_source=git)** | Fairport, NY | On Site | Dec 15 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6942135f50bbaf765053e79f?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Dec 15 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/694201bebdcf884a5addba91?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 15 |
 | **[MZ Wallace](https://www.mzwallace.com/)** | **[Social Creative Internship](https://jobright.ai/jobs/info/69409be0aa598a08c3f04594?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Dec 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Multistudio](http://www.gouldevans.com)** | **[Intern Designer - Interiors](https://jobright.ai/jobs/info/69408875aa598a08c3f034d6?utm_campaign=1049&utm_source=git)** | KC, Kansas City, MO, US | On Site | Dec 15 |
 | **[Wanderboat AI](https://wanderboat.cloud/)** | **[Content Designer](https://jobright.ai/jobs/info/6940993050bbaf765052a77e?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 15 |
 | **[Zoox](https://www.zoox.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69409770aa598a08c3f0424c?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Dec 15 |
-| **[ServiceNow](http://www.servicenow.com)** | **[EX - UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68dc63d7accfd24b67e550c4?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Dec 15 |
-| ↳ | **[EX - Product Design Internships (UX, Visual and Content Design) - Summer 2026](https://jobright.ai/jobs/info/68e0d045b99ec3563b0d3ef8?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
