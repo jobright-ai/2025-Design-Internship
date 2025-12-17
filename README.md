@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Climate Designers](https://www.climatedesigners.org)** | **[UX Design Intern](https://jobright.ai/jobs/info/6941eebc14ee092a69000970?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Dec 16 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Color, Material, and Finish (CMF) Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/6941d9afbdcf884a5add8d60?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 16 |
+| **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68f14fadf462172a5a7d60d1?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Dec 16 |
+| **[Legends Global](http://legends.net)** | **[Video/Production Content Intern - University of Nebraska](https://jobright.ai/jobs/info/6941e62f14ee092a69fffc09?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Dec 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6941c46dbdcf884a5add7cb6?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Dec 16 |
+| **[Illumio](http://www.illumio.com)** | **[Technical Content Design Intern](https://jobright.ai/jobs/info/68f6e31e9a63986de7583300?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Dec 16 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6941c0cb14ee092a69ffdab8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Graphic Design](https://jobright.ai/jobs/info/6941c00214ee092a69ffda4e?utm_campaign=1049&utm_source=git)** | Okemos, MI | Hybrid | Dec 16 |
+| **[HP](http://www.hp.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6941db8314ee092a69ffeb1b?utm_campaign=1049&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Dec 16 |
+| **[SOSHE Beauty](https://soshebeauty.com)** | **[Product Ops Intern](https://jobright.ai/jobs/info/6941e84750bbaf765053b3c2?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Dec 16 |
+| **[kW Engineering](https://www.kw-engineering.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69264df127bf2f41a2c45232?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Dec 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6941ce7250bbaf76505398c3?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[Talentix](https://thetalentix.com/)** | **[Product Design Intern – Cursor & Claude Ecosystem](https://jobright.ai/jobs/info/6941b00ebdcf884a5add70c5?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Dec 16 |
 | **[Riot Games](http://www.riotgames.com)** | **[Visual Design Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092865bcccf20de59d80bc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 16 |
@@ -140,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[User Researcher - 2026 Summer Internship](https://jobright.ai/jobs/info/694077de50bbaf7650527709?utm_campaign=1049&utm_source=git)** | Plano, TX | Remote | Dec 15 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Design Research](https://jobright.ai/jobs/info/694060c650bbaf7650526646?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | ↳ | **[Internship - UX Research](https://jobright.ai/jobs/info/69406fae50bbaf7650527130?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 15 |
-| **[Sasaki](https://www.sasaki.com/)** | **[2026 Summer Internship - Architecture (Boston)](https://jobright.ai/jobs/info/6940906daa598a08c3f03c8f?utm_campaign=1049&utm_source=git)** | Boston, MA, US | On Site | Dec 15 |
-| ↳ | **[2026 Summer Internship - Landscape Architecture (BOS, BKN)](https://jobright.ai/jobs/info/69409be150bbaf765052a9df?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, US | On Site | Dec 15 |
+| **[Sasaki](https://www.sasaki.com/)** | **[2026 Summer Internship - Landscape Architecture (BOS, BKN)](https://jobright.ai/jobs/info/69409be150bbaf765052a9df?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, US | On Site | Dec 15 |
+| ↳ | **[2026 Summer Internship - Architecture (Boston)](https://jobright.ai/jobs/info/6940906daa598a08c3f03c8f?utm_campaign=1049&utm_source=git)** | Boston, MA, US | On Site | Dec 15 |
 | **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[hared Land Access Case Studies Intern (Spring 2025)](https://jobright.ai/jobs/info/69408ccc49a7695fbd061e45?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 15 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program - Healthcare - New York](https://jobright.ai/jobs/info/69406c68aa598a08c3f00b4a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Pricing and Packaging Intern](https://jobright.ai/jobs/info/69408b00aa598a08c3f03aa9?utm_campaign=1049&utm_source=git)** | Campbell, CA | Hybrid | Dec 15 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Researcher - 2026 Summer Internship](https://jobright.ai/jobs/info/69408a90aa598a08c3f039fa?utm_campaign=1049&utm_source=git)** | Framingham, MA | Remote | Dec 15 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[TNT Sports Broadcast Design Intern: ATL- Spring 2026](https://jobright.ai/jobs/info/6940885149a7695fbd061761?utm_campaign=1049&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/694066a4aa598a08c3f006a3?utm_campaign=1049&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[User Researcher - 2026 Summer Internship](https://jobright.ai/jobs/info/694081f4aa598a08c3f025cf?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Dec 15 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - IT End User Experience](https://jobright.ai/jobs/info/6940650150bbaf7650526936?utm_campaign=1049&utm_source=git)** | Whippany, NJ | On Site | Dec 15 |
-| **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Creative Studio Design Intern](https://jobright.ai/jobs/info/694064d949a7695fbd05e892?utm_campaign=1049&utm_source=git)** | Campbell, California | Hybrid | Dec 15 |
-| ↳ | **[Pricing and Packaging Intern](https://jobright.ai/jobs/info/6940634749a7695fbd05e769?utm_campaign=1049&utm_source=git)** | Campbell, California | Hybrid | Dec 15 |
-| **[ThinkMarkets](https://www.thinkmarkets.com/en/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69405987aa598a08c3effe70?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Dec 15 |
-| **[NRG Energy](http://www.nrg.com/)** | **[UX Intern](https://jobright.ai/jobs/info/69407ae349a7695fbd05fae2?utm_campaign=1049&utm_source=git)** | Utah, United States | Hybrid | Dec 15 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Digital Design](https://jobright.ai/jobs/info/69407a7c49a7695fbd05f9fd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 15 |
-| ↳ | **[Internship - Global Events & Exhibitions](https://jobright.ai/jobs/info/694074f9aa598a08c3f0128b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
