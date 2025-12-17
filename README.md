@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690954354a1b456627aff504?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | Dec 17 |
+| **[Galloway & Company, LLC](https://gallowayus.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69092cebd046ab6061cd2695?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Dec 17 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68ed566b81fdd1626d39b271?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Dec 17 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[2026 Bus Dev – Visual Media Intern](https://jobright.ai/jobs/info/6926507927bf2f41a2c45367?utm_campaign=1049&utm_source=git)** | Hanover, MD | Hybrid | Dec 17 |
 | **[Climate Designers](https://www.climatedesigners.org)** | **[UX Design Intern](https://jobright.ai/jobs/info/69429714dd382f5f5668a62f?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Dec 17 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68f1d6a5f462172a5a7dcf38?utm_campaign=1049&utm_source=git)** | Westminster, CO | On Site | Dec 17 |
+| **[KCI](http://www.kci.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/68d1a96117554c2d9eede173?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 17 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68ce1822e23def7af55c20ec?utm_campaign=1049&utm_source=git)** | Dayton, OH | On Site | Dec 17 |
+| **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69429d5750bbaf765054856a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 17 |
 | **[Anchor Home](http://www.anchorhomeinc.com)** | **[Graphic Design Internship - Spring 2026](https://jobright.ai/jobs/info/694261d750bbaf765054594f?utm_campaign=1049&utm_source=git)** | Timonium, MD | On Site | Dec 16 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/69423fb150bbaf76505422d8?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | Dec 16 |
 | **[Targon LLC](targonglobal.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69425aaebdcf884a5ade3eeb?utm_campaign=1049&utm_source=git)** | Manhattan, KS | On Site | Dec 16 |
@@ -70,11 +77,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/694219f6bdcf884a5adddd44?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Dec 16 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6942180a14ee092a69003d9b?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Dec 16 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Graphic Designer - Kids' Ministry](https://jobright.ai/jobs/info/691d484e0b7dff7341501e88?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 16 |
-| **[Sigma](http://sigmacomputing.com)** | **[Product Design System Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/694206ec14ee092a690023a1?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
-| ↳ | **[Content Design Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/69422537bdcf884a5addef59?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
 | **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, CAD Artist/ Design Assistant, Graphics](https://jobright.ai/jobs/info/6942261214ee092a690052c2?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 16 |
 | ↳ | **[Summer Intern - Men's Lee Design](https://jobright.ai/jobs/info/694224ac50bbaf7650540379?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 16 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Illustrator Winter Startup Internship (Unpaid)](https://jobright.ai/jobs/info/694220c5bdcf884a5adde877?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Dec 16 |
+| **[Sigma](http://sigmacomputing.com)** | **[Content Design Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/69421159bdcf884a5addcdb9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
 | **[Teradata](https://www.teradata.com)** | **[Content Design Intern](https://jobright.ai/jobs/info/6941f38c50bbaf765053c485?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Dec 16 |
 | **[Anchor Home](http://www.anchorhomeinc.com)** | **[Graphic Design Internship - Spring 2026](https://jobright.ai/jobs/info/69421451bdcf884a5addd29c?utm_campaign=1049&utm_source=git)** | Timonium, MD | On Site | Dec 16 |
 | **[Climate Designers](https://www.climatedesigners.org)** | **[UX Design Intern](https://jobright.ai/jobs/info/6941eebc14ee092a69000970?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Dec 16 |
@@ -144,17 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Ruoff Mortgage](http://ruoff.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6940b668aa598a08c3f0547a?utm_campaign=1049&utm_source=git)** | Fort Wayne,IN,US | On Site | Dec 15 |
 | **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/6942151b50bbaf765053eb2a?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 15 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/6940b10549a7695fbd0633d4?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Dec 15 |
-| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/69420f4950bbaf765053e057?utm_campaign=1049&utm_source=git)** | Katonah, NY | On Site | Dec 15 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69420d4b14ee092a690029e6?utm_campaign=1049&utm_source=git)** | Fairport, NY | On Site | Dec 15 |
+| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/69420d4b14ee092a690029e6?utm_campaign=1049&utm_source=git)** | Fairport, NY | On Site | Dec 15 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69420f4950bbaf765053e057?utm_campaign=1049&utm_source=git)** | Katonah, NY | On Site | Dec 15 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6942135f50bbaf765053e79f?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Dec 15 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/694201bebdcf884a5addba91?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 15 |
 | **[MZ Wallace](https://www.mzwallace.com/)** | **[Social Creative Internship](https://jobright.ai/jobs/info/69409be0aa598a08c3f04594?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Dec 15 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Landscape Architect Intern -Summer 2026](https://jobright.ai/jobs/info/69321b2b4c474121999f6f57?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 15 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6941f0ecbdcf884a5addad0b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 15 |
-| **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Landscape Architect Intern -Summer 2026](https://jobright.ai/jobs/info/693220a04c474121999f73c5?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 15 |
-| **[ThinkMarkets](https://www.thinkmarkets.com/en/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6940a95649a7695fbd06305a?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 15 |
-| **[Ruoff Mortgage](http://ruoff.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69415efa50bbaf765053377f?utm_campaign=1049&utm_source=git)** | Fort Wayne, IN | On Site | Dec 15 |
-| **[Multistudio](http://www.gouldevans.com)** | **[Intern Designer - Interiors](https://jobright.ai/jobs/info/69408875aa598a08c3f034d6?utm_campaign=1049&utm_source=git)** | KC, Kansas City, MO, US | On Site | Dec 15 |
-| **[Wanderboat AI](https://wanderboat.cloud/)** | **[Content Designer](https://jobright.ai/jobs/info/6940993050bbaf765052a77e?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 15 |
-| **[Zoox](https://www.zoox.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69409770aa598a08c3f0424c?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
