@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68efc5e1de50091dbfa50144?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Dec 19 |
+| **[Weil-McLain](https://www.weil-mclain.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/690bb1e9d046ab6061ce68d3?utm_campaign=1049&utm_source=git)** | Burr Ridge, IL | On Site | Dec 19 |
+| **[SPX Technologies](https://www.spx.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/691a9aa8bcdbf3560c9d912d?utm_campaign=1049&utm_source=git)** | Burr Ridge, IL | On Site | Dec 19 |
+| **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68fb0f319e8e925ac6c888c6?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | Hybrid | Dec 19 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68cfb216fb49c96ca6eaae52?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Dec 19 |
 | **[Meta](https://www.metacareers.com/)** | **[UX Research Scientist Intern, Multimodal Conversation Analyst (PhD)](https://jobright.ai/jobs/info/69451cd863141d188454a612?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Dec 19 |
 | **[GFF](http://gff.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69450ed550bbaf7650571b37?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 19 |
 | **[Gray Design Group](http://graydesigngroup.com)** | **[Architect Intern](https://jobright.ai/jobs/info/694509a950bbaf76505716ea?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Dec 19 |
@@ -83,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Sweetwater](http://www.sweetwater.com/)** | **[Graphic Artist Intern - Campus Assets and Rock Camp](https://jobright.ai/jobs/info/694481bcdd382f5f566aae49?utm_campaign=1049&utm_source=git)** | Fort Wayne, IN | On Site | Dec 18 |
 | **[San Francisco 49ers](http://www.49ers.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/69447e4d50bbaf7650568fe9?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Dec 18 |
 | **[InsideHook](http://www.insidehook.com)** | **[Marketing and Design Fellow](https://jobright.ai/jobs/info/69447bc4dd382f5f566aa922?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Dec 18 |
-| **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/694477e250bbaf765056836a?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 18 |
 | **[Gray Design Group](http://graydesigngroup.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6944737494730b739877a369?utm_campaign=1049&utm_source=git)** | Saint Louis, MO | Hybrid | Dec 18 |
 | ↳ | **[Architect Intern](https://jobright.ai/jobs/info/69447094dd382f5f566a9563?utm_campaign=1049&utm_source=git)** | Saint Louis, MO | Hybrid | Dec 18 |
 | **[Venn](venn.ca/?utm_source=linkedin)** | **[Design Intern (Product & Marketing) — Summer 2026](https://jobright.ai/jobs/info/69448cabdd382f5f566ab549?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 18 |
@@ -94,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Tanium](http://www.tanium.com)** | **[UX/UI Intern](https://jobright.ai/jobs/info/694461fb94730b7398778a62?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | Dec 18 |
 | **[Nokia](http://www.nokia.com)** | **[Multimedia Designer Co-op/Intern](https://jobright.ai/jobs/info/69448133dd382f5f566aadd8?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 18 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69447c98dd382f5f566aaa9d?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 18 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69447c5b50bbaf7650568ec8?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 18 |
 | **[Product Manager Accelerator](https://www.pmaccelerator.io/)** | **[AI UI/UX Designer Intern - AI ML/Gen AI Design & Development](https://jobright.ai/jobs/info/69445c3250bbaf765056595c?utm_campaign=1049&utm_source=git)** | Canada | Remote | Dec 18 |
 | **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[Digital Engagement Intern](https://jobright.ai/jobs/info/69445b3a50bbaf7650565864?utm_campaign=1049&utm_source=git)** | Arlington | Hybrid | Dec 18 |
 | **[LEARFIELD](http://learfield.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69445a8edd382f5f566a73fc?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Dec 18 |
@@ -107,9 +112,9 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Columbus, OH](https://jobright.ai/jobs/info/69444e1594730b73987778c6?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Dec 18 |
 | **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69444d6194730b739877784f?utm_campaign=1049&utm_source=git)** | Waltham, Massachusetts | On Site | Dec 18 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/6944a9bb50bbaf765056c182?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 18 |
+| ↳ | **[Apparel Design Intern - Summer 2026](https://jobright.ai/jobs/info/6944b0a094730b739877f4ad?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 18 |
 | ↳ | **[Design Researcher Intern - Summer 2026](https://jobright.ai/jobs/info/6944aa1694730b739877ee06?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 18 |
 | ↳ | **[Photography Intern - Summer 2026](https://jobright.ai/jobs/info/6944b8e094730b739877fc98?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 18 |
-| ↳ | **[Apparel Design Intern - Summer 2026](https://jobright.ai/jobs/info/6944b0a094730b739877f4ad?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 18 |
 | **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[UX Intern](https://jobright.ai/jobs/info/694461e994730b7398778a54?utm_campaign=1049&utm_source=git)** | Arlington | Hybrid | Dec 18 |
 | **[Miles Ahead Sports Marketing](https://www.linkedin.com/company/101852220)** | **[Content & Distribution Intern](https://jobright.ai/jobs/info/6944604494730b73987788b3?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Dec 18 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Montgomery Co, MD](https://jobright.ai/jobs/info/6944644294730b7398778cc1?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Dec 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692e4125fa28370be26a2d72?utm_campaign=1049&utm_source=git)** | United States, New York, New York | On Site | Dec 17 |
 | **[Framewell](www.framewell.org)** | **[UI/UX Design Intern (Jan-Mar 2026)](https://jobright.ai/jobs/info/6943f83fdd382f5f566a1eae?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 17 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6908da77d046ab6061cce6c5?utm_campaign=1049&utm_source=git)** | East Lansing, MI | On Site | Dec 17 |
-| **[Seagate Technology](http://www.seagate.com)** | **[Graphic Design and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69437c0994730b7398769a3f?utm_campaign=1049&utm_source=git)** | New Jersey, United States | Remote | Dec 17 |
-| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Real Property Asset Management (RPAM) Summer Intern](https://jobright.ai/jobs/info/6938ee28a0dde7020e318bc0?utm_campaign=1049&utm_source=git)** | Aiken, SC | On Site | Dec 17 |
-| **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/694363d350bbaf7650554afd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
-| **[Ripple](http://ripple.com)** | **[Brand Design Intern, Brand Studio (Summer 2026)](https://jobright.ai/jobs/info/69435e4fdd382f5f56696082?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Dec 17 |
-| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/69435b82dd382f5f56695a39?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
