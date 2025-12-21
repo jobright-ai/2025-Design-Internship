@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Graphic Design Spring Startup Internship (Unpaid)](https://jobright.ai/jobs/info/694780ec63141d18845725ee?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Dec 20 |
-| **[MDB Management Innovations LLC](https://www.mdbmanagementinnovations.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69472a3c63141d188456d953?utm_campaign=1049&utm_source=git)** | Liberty, ME | Remote | Dec 20 |
 | **[The Sunrise State](https://sunrisestate.in)** | **[Information Experience Designer Intern](https://jobright.ai/jobs/info/6947242c63141d188456d641?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 20 |
 | **[FiPet](https://www.linkedin.com/company/107127420)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6947211763141d188456d476?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[The Larry H. Miller Company](https://www.lhm.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69470e89d1953b5d11c03cc2?utm_campaign=1049&utm_source=git)** | Herriman, UT | On Site | Dec 20 |
@@ -86,11 +85,11 @@ For a complete list, click the following sortable link below:
 | **[Ontario Energy Board](https://oeb.ca)** | **[Co-op Student, Engagement, Digital and Creative Services](https://jobright.ai/jobs/info/6929f8724c474121999caf77?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 20 |
 | **[NBBJ Design](http://nbbj.com)** | **[Summer Internship](https://jobright.ai/jobs/info/694655c263141d1884560ce7?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Dec 19 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/694655247d506e3808f1b337?utm_campaign=1049&utm_source=git)** | Los Angeles, California | On Site | Dec 19 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/694654c2d1953b5d11bf7d53?utm_campaign=1049&utm_source=git)** | San Francisco, California | On Site | Dec 19 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/694650fa7d506e3808f1ae72?utm_campaign=1049&utm_source=git)** | Portland, Oregon | On Site | Dec 19 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/694655ba7d506e3808f1b3c3?utm_campaign=1049&utm_source=git)** | Portland, Oregon | On Site | Dec 19 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/69465240d1953b5d11bf797d?utm_campaign=1049&utm_source=git)** | San Francisco, California | On Site | Dec 19 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6946521763141d1884560833?utm_campaign=1049&utm_source=git)** | Columbus, Ohio | On Site | Dec 19 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/69464e9cd1953b5d11bf76f6?utm_campaign=1049&utm_source=git)** | Seattle, Washington | On Site | Dec 19 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/69464b8863141d18845601d2?utm_campaign=1049&utm_source=git)** | Columbus, Ohio | On Site | Dec 19 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6946496d7d506e3808f1a6f9?utm_campaign=1049&utm_source=git)** | Los Angeles, California | On Site | Dec 19 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Customer Experience (UX) Intern / Summer 2026](https://jobright.ai/jobs/info/6946285763141d188455d1f7?utm_campaign=1049&utm_source=git)** | Brentwood, TN | Hybrid | Dec 19 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Design & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/694621097d506e3808f1737d?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Spring Web and Digital Intern: Spring 2026](https://jobright.ai/jobs/info/694771cdd1953b5d11c0839e?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Dec 19 |
@@ -115,11 +114,10 @@ For a complete list, click the following sortable link below:
 | **[NRG Energy](http://www.nrg.com/)** | **[Brand & Production Support Intern](https://jobright.ai/jobs/info/6945f789d1953b5d11bf00c1?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Dec 19 |
 | **[Pocketride](https://mypocketride.com)** | **[Creative Coordinator](https://jobright.ai/jobs/info/6945eaee63141d188455868c?utm_campaign=1049&utm_source=git)** | Canada | Remote | Dec 19 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/6945ea8c7d506e3808f12d7f?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
-| **[Netflix](https://www.netflix.com)** | **[Consumer Insights (CI) / User Experience (UX) Research Internship - Summer 2026](https://jobright.ai/jobs/info/6945e7ca7d506e3808f12c97?utm_campaign=1049&utm_source=git)** | Los Gatos, CA | On Site | Dec 19 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Print Technician Intern - Summer 2026](https://jobright.ai/jobs/info/6945e07863141d1884557f30?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Art + Commerce](https://jobright.ai/jobs/info/6945d8add1953b5d11beeb47?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Dec 19 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Art + Commerce](https://jobright.ai/jobs/info/6945d25095165407353801b1?utm_campaign=1049&utm_source=git)** | NY-Brooklyn-1 Main Street | On Site | Dec 19 |
 | **[ROCK](http://www.rockventures.com/)** | **[Apparel Design Intern - Summer 2026](https://jobright.ai/jobs/info/6945d224d1953b5d11bede5e?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Art + Commerce](https://jobright.ai/jobs/info/6945d14463141d1884556bd2?utm_campaign=1049&utm_source=git)** | NY-Brooklyn-1 Main Street | On Site | Dec 19 |
 | **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Wrangler Design](https://jobright.ai/jobs/info/6945cffc63141d18845564f7?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Dec 19 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/6945ca70951654073537e7a1?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Dec 19 |
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6945c543d1953b5d11bec501?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 19 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Vitesse](http://www.vitessepsp.com)** | **[Brand & Web Design Internship (B2B SaaS)](https://jobright.ai/jobs/info/69456e619516540735377e45?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern, User Experience and Growth](https://jobright.ai/jobs/info/693b6394d4054a2bc0255892?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 19 |
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd5c9821486c423c7cae?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Dec 19 |
+| ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efde109821486c423c7d63?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Dec 19 |
+| **[Ad Astra](http://aais.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6945747dd1953b5d11be6a00?utm_campaign=1049&utm_source=git)** | KC Metro Area | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
