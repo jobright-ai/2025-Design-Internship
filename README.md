@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Photography intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/694a180c63141d188459c74b?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Dec 23 |
-| ↳ | **[Graphic Design Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/694a496d3019f50a4fe5701d?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Dec 23 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/692e2f544c474121999d710d?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 23 |
+| **[HDR](http://www.hdrinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/692e4b69ef4b48533d13e796?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 23 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/692e3671fa28370be26a253c?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 23 |
 | **[Scholarship Auditions](https://scholarshipauditions.com/)** | **[Motion Graphics & Video Production Intern](https://jobright.ai/jobs/info/694a25a763141d188459d6b2?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 22 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Future Product Innovation Research Intern, HCI Creativity](https://jobright.ai/jobs/info/692dfae64c474121999d4e3f?utm_campaign=1049&utm_source=git)** | Los Altos, CA | Hybrid | Dec 22 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern (High School)](https://jobright.ai/jobs/info/694a1ada7d506e3808f55677?utm_campaign=1049&utm_source=git)** | Rock Hill, SC | On Site | Dec 22 |
@@ -67,8 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Arcis Golf](http://www.arcisgolf.com)** | **[Website Coordinator Intern](https://jobright.ai/jobs/info/694a0f7f7d506e3808f540a5?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
 | **[Experian](http://www.experianplc.com)** | **[Creative Summer Intern (Hybrid & Paid)](https://jobright.ai/jobs/info/694a0c9e7d506e3808f5398c?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | Hybrid | Dec 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/694a00fd63141d1884598e82?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Dec 22 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/694a4ae631c12007d3b90a36?utm_campaign=1049&utm_source=git)** | Greater Orlando | Hybrid | Dec 22 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6949f9d7c6f0e2546ceed270?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 22 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6949f9d7c6f0e2546ceed270?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[People Inc.](https://www.people.inc/)** | **[Summer Intern, Beauty/Style Graphic Design](https://jobright.ai/jobs/info/694a1d207d506e3808f5586d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Experian](http://www.experianplc.com)** | **[Creative Summer Intern (Hybrid & Paid)](https://jobright.ai/jobs/info/6949f89cc6f0e2546ceed148?utm_campaign=1049&utm_source=git)** | 475 Anton Blvd, Costa Mesa, CA 92626, USA | Hybrid | Dec 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6949f10663141d1884597377?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 22 |
@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - Outlet Graphic Design](https://jobright.ai/jobs/info/69498d33d1953b5d11c2899f?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 22 |
 | ↳ | **[Summer 2026 Internship - Creative](https://jobright.ai/jobs/info/69499ccd7d506e3808f4c55e?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Dec 22 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator Intern](https://jobright.ai/jobs/info/6949a2f17d506e3808f4ce08?utm_campaign=1049&utm_source=git)** | United States-Florida-Tampa | On Site | Dec 22 |
-| **[Brand New School](http://brandnewschool.com)** | **[2D/3D Design Internship NY - Winter 2026](https://jobright.ai/jobs/info/69498ed363141d18845927b9?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Dec 22 |
-| ↳ | **[Motion Design & Animation Internship NY - Winter 2026](https://jobright.ai/jobs/info/69499e517d506e3808f4c809?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Dec 22 |
+| **[Brand New School](http://brandnewschool.com)** | **[Motion Design & Animation Internship NY - Winter 2026](https://jobright.ai/jobs/info/69499e517d506e3808f4c809?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Dec 22 |
+| ↳ | **[2D/3D Design Internship NY - Winter 2026](https://jobright.ai/jobs/info/69498ed363141d18845927b9?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Dec 22 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6949971ed1953b5d11c29a7f?utm_campaign=1049&utm_source=git)** | 500 - 311 Portage Avenue, Winnipeg, MB, R3B 2B9, CA | On Site | Dec 22 |
 | **[Condé Nast](http://www.condenast.com)** | **[Design Intern, Allure and SELF](https://jobright.ai/jobs/info/694994a1d1953b5d11c29710?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | ↳ | **[Visuals & Editorial Production Intern, CNT](https://jobright.ai/jobs/info/69498d507d506e3808f4b0bb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 22 |
