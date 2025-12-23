@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6949f10663141d1884597377?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 22 |
+| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Image Database Curator](https://jobright.ai/jobs/info/691d61e3bcdbf3560c9f05f5?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6949abd463141d188459484a?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 22 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6949ab217d506e3808f4d582?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Dec 22 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6949a10fd1953b5d11c2a5f9?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 22 |
@@ -141,19 +143,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Design Intern (Available June 2026)](https://jobright.ai/jobs/info/690d6b84d046ab6061cf6133?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Dec 20 |
 | **[Ontario Energy Board](https://oeb.ca)** | **[Co-op Student, Engagement, Digital and Creative Services](https://jobright.ai/jobs/info/6929f8724c474121999caf77?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 20 |
-| **[NBBJ Design](http://nbbj.com)** | **[Summer Internship](https://jobright.ai/jobs/info/694655c263141d1884560ce7?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Dec 19 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/694655ba7d506e3808f1b3c3?utm_campaign=1049&utm_source=git)** | Portland, Oregon | On Site | Dec 19 |
+| **[NBBJ Design](http://nbbj.com)** | **[Summer Internship](https://jobright.ai/jobs/info/694655ba7d506e3808f1b3c3?utm_campaign=1049&utm_source=git)** | Portland, Oregon | On Site | Dec 19 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/694655247d506e3808f1b337?utm_campaign=1049&utm_source=git)** | Los Angeles, California | On Site | Dec 19 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/69465240d1953b5d11bf797d?utm_campaign=1049&utm_source=git)** | San Francisco, California | On Site | Dec 19 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/694654c2d1953b5d11bf7d53?utm_campaign=1049&utm_source=git)** | San Francisco, California | On Site | Dec 19 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/69464e9cd1953b5d11bf76f6?utm_campaign=1049&utm_source=git)** | Seattle, Washington | On Site | Dec 19 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/69464cdc63141d18845602a4?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Dec 19 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/69464b8863141d18845601d2?utm_campaign=1049&utm_source=git)** | Columbus, Ohio | On Site | Dec 19 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Customer Experience (UX) Intern / Summer 2026](https://jobright.ai/jobs/info/6946285763141d188455d1f7?utm_campaign=1049&utm_source=git)** | Brentwood, TN | Hybrid | Dec 19 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Spring Web and Digital Intern: Spring 2026](https://jobright.ai/jobs/info/694771cdd1953b5d11c0839e?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Dec 19 |
-| **[Merrick & Company](http://www.merrick.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69461b8463141d188455c951?utm_campaign=1049&utm_source=git)** | Chamblee, GA | On Site | Dec 19 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6946187d63141d188455c762?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | Dec 19 |
+| **[Merrick & Company](http://www.merrick.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6946187d63141d188455c762?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | Dec 19 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, CBS Philadelphia (Summer 2026)](https://jobright.ai/jobs/info/6946127b7d506e3808f169a5?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 19 |
-| **[Merrick & Company](http://www.merrick.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6946121d7d506e3808f16945?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Dec 19 |
-| **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, CBS New York (Summer 2026)](https://jobright.ai/jobs/info/6946111b63141d188455c06f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 19 |
+| ↳ | **[Creative Services Intern, CBS New York (Summer 2026)](https://jobright.ai/jobs/info/6946111b63141d188455c06f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Art + Commerce](https://jobright.ai/jobs/info/69460ce57d506e3808f162fb?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Dec 19 |
 | **[Haus of Meeshie](www.hausofmeeshie.com)** | **[Design Studio Office Intern](https://jobright.ai/jobs/info/694608e77d506e3808f16081?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Dec 19 |
 | **[Airstream](https://www.airstream.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/694607d663141d188455b730?utm_campaign=1049&utm_source=git)** | Jackson Center, OH, US | On Site | Dec 19 |
