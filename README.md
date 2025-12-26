@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[No Barriers Education Inc.](https://www.nobarrierseducation.com/)** | **[Website Designer Intern](https://jobright.ai/jobs/info/694ef3dece13cd10565731c2?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Dec 26 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/694ee4c129655e4dd6587159?utm_campaign=1049&utm_source=git)** | Deerfield, IL | On Site | Dec 26 |
 | **[Copart](http://www.copart.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/694ed15029655e4dd65867e7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 26 |
 | **[Monkee's Franchising LLC](https://www.shopmonkees.com)** | **[Summer Intern 2026 - Graphic Designer](https://jobright.ai/jobs/info/694ecc5ece13cd1056571775?utm_campaign=1049&utm_source=git)** | Winston-Salem, NC | On Site | Dec 26 |
-| **[SRND AI](srnd.ai)** | **[(Unpaid) UI Designer (internship)](https://jobright.ai/jobs/info/694ec33329655e4dd6586581?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Cookies for Kids'​ Cancer](https://cookiesforkidscancer.org)** | **[Graphic Design Intern - Remote](https://jobright.ai/jobs/info/694eb8fda2668b7f5451feab?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 26 |
 | **[SOTI](http://www.soti.net/)** | **[Graphic Design Intern - AI Focused (May 2026 12 Months)](https://jobright.ai/jobs/info/692f5eb3ef4b48533d1449a9?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 26 |
 | **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f91cc3cadb2e5a06a6144b?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 26 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/694b3a433019f50a4fe65370?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 23 |
 | ↳ | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b3c673019f50a4fe65cf7?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 23 |
 | ↳ | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b39723019f50a4fe64c42?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Dec 23 |
-| ↳ | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/694b37c01224705e90025023?utm_campaign=1049&utm_source=git)** | Wilmington, NC | On Site | Dec 23 |
+| ↳ | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b385d1224705e9002504e?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
