@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monkee's Franchising LLC](https://www.shopmonkees.com)** | **[Summer Intern 2026 - Graphic Designer](https://jobright.ai/jobs/info/694ecc5ece13cd1056571775?utm_campaign=1049&utm_source=git)** | Winston-Salem, NC | On Site | Dec 26 |
+| **[SRND AI](srnd.ai)** | **[(Unpaid) UI Designer (internship)](https://jobright.ai/jobs/info/694ec33329655e4dd6586581?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 26 |
+| **[Cookies for Kids'​ Cancer](https://cookiesforkidscancer.org)** | **[Graphic Design Intern - Remote](https://jobright.ai/jobs/info/694eb8fda2668b7f5451feab?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 26 |
 | **[SOTI](http://www.soti.net/)** | **[Graphic Design Intern - AI Focused (May 2026 12 Months)](https://jobright.ai/jobs/info/692f5eb3ef4b48533d1449a9?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 26 |
 | **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f91cc3cadb2e5a06a6144b?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 26 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f92d936de2db04dc3e64e2?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Dec 26 |
@@ -85,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Art Outsourcing - 2026 Summer Internship](https://jobright.ai/jobs/info/691ff13f09cc522e87746cc2?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 26 |
 | **[Staples](http://www.staples.com)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/6914e35e9c388539cbdee4ad?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 26 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69325b94f131d96e4845b811?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Dec 26 |
+| **[Toole Design Group](http://www.tooledesign.com)** | **[Urban Design Intern](https://jobright.ai/jobs/info/694ebdddce13cd105657116d?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Dec 25 |
 | **[I.M.P.](http://www.impconcerts.com)** | **[Art Internship](https://jobright.ai/jobs/info/694df42cd4a7df7a0672e2dc?utm_campaign=1049&utm_source=git)** | All Venues - Washington, DC | On Site | Dec 25 |
 | **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/694db99cd4a7df7a0672bc37?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 25 |
 | **[Lumerse Studio](https://www.linkedin.com/company/104404079)** | **[3D Modeling & Visualization Internship](https://jobright.ai/jobs/info/694da8fdf5bef51c96eb3094?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 25 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/694b0dc81224705e9002218c?utm_campaign=1049&utm_source=git)** | Jacksonville, Florida, United States | On Site | Dec 23 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b39a11224705e900250c3?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Dec 23 |
 | ↳ | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/694b3a433019f50a4fe65370?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 23 |
-| ↳ | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b385d1224705e9002504e?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Dec 23 |
 | ↳ | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/694b38a73019f50a4fe64713?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Dec 23 |
 | ↳ | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/694b37c01224705e90025023?utm_campaign=1049&utm_source=git)** | Wilmington, NC | On Site | Dec 23 |
-| ↳ | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b3c673019f50a4fe65cf7?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 23 |
 | ↳ | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b39723019f50a4fe64c42?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Dec 23 |
-| ↳ | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b0e464b53a1551f94be83?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Dec 23 |
-| ↳ | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b0d131224705e90022030?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Dec 23 |
-| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6932036c4c474121999f5b4b?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
-| **[Notion](https://www.notion.com/)** | **[UX Research Intern (Summer 2026)](https://jobright.ai/jobs/info/694b2a1d4b53a1551f94e9c5?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 23 |
+| ↳ | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b385d1224705e9002504e?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Dec 23 |
+| ↳ | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b3c673019f50a4fe65cf7?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
