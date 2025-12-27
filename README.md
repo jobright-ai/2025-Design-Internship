@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[UI/UX Designer Intern (Summer '25)](https://jobright.ai/jobs/info/694f6b30ce13cd105657a429?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
+| **[No Barriers Education Inc.](https://www.nobarrierseducation.com/)** | **[Wix Website Designer Intern](https://jobright.ai/jobs/info/694fa0cda2668b7f5452c2df?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Dec 27 |
+| **[Amazon](https://amazon.com)** | **[Motion Design Intern (Master’s Level) , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f9939ce13cd105657b6f5?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Dec 27 |
 | **[Century Furniture](http://centuryfurniture.com/)** | **[Intern](https://jobright.ai/jobs/info/694f4549ce13cd1056577163?utm_campaign=1049&utm_source=git)** | Century Main Office - Hickory, NC 28601 | On Site | Dec 26 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, Los Angeles - Onsite](https://jobright.ai/jobs/info/692e47e5fa28370be26a31bd?utm_campaign=1049&utm_source=git)** | United States, California, Los Angeles | On Site | Dec 26 |
 | **[Cambria](http://www.cambriausa.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/694f3820a2668b7f545270da?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Dallas)](https://jobright.ai/jobs/info/68c8f05395f5211cd2cebb3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 26 |
 | **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c0817d5c5d5f14f46de8e8?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Dec 26 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Dec 26 |
+| **[Uline](http://www.uline.com)** | **[Photography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9d00f7b89366816034689?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Dec 26 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Spring 2026](https://jobright.ai/jobs/info/69324127f131d96e4845a2ed?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Dec 26 |
 | **[International Justice Mission](http://www.ijm.org)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/693363cff131d96e48462c31?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 26 |
 | **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c080ca702aa35207aadf94?utm_campaign=1049&utm_source=git)** | Bellevue, NE | On Site | Dec 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/694b32764b53a1551f94ecc4?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Dec 23 |
 | ↳ | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/694b31b13019f50a4fe63ea4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | ↳ | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b30b01224705e90024ccd?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 23 |
-| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 23 |
-| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern – Research & Innovation](https://jobright.ai/jobs/info/694b27723019f50a4fe63a5e?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
