@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[UI/UX Designer Intern (Summer '25)](https://jobright.ai/jobs/info/694f6b30ce13cd105657a429?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
 | **[Century Furniture](http://centuryfurniture.com/)** | **[Intern](https://jobright.ai/jobs/info/694f4549ce13cd1056577163?utm_campaign=1049&utm_source=git)** | Century Main Office - Hickory, NC 28601 | On Site | Dec 26 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, Los Angeles - Onsite](https://jobright.ai/jobs/info/692e47e5fa28370be26a31bd?utm_campaign=1049&utm_source=git)** | United States, California, Los Angeles | On Site | Dec 26 |
-| **[Todd](https://toddagriscience.com)** | **[UI/UX Designer Intern (Summer '25)](https://jobright.ai/jobs/info/694f3b32ce13cd1056576cd5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
 | **[Cambria](http://www.cambriausa.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/694f3820a2668b7f545270da?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/694f379ece13cd1056576a67?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Video Content Creator Intern](https://jobright.ai/jobs/info/694f0fd2a2668b7f54524c72?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
@@ -117,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Illustrator, Thrive Intern](https://jobright.ai/jobs/info/6930b780ef4b48533d14e3a2?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Dec 25 |
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[CBS Sports Design Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/694cf4c0f5bef51c96eaafda?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 25 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/694ce877f5bef51c96eaaa62?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Dec 24 |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Web Design - Summer 2026](https://jobright.ai/jobs/info/694f553829655e4dd658cb97?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Dec 24 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Digital and Graphic Design Intern](https://jobright.ai/jobs/info/694c6223d64ebf28d8220089?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Dec 24 |
 | **[Reico Kitchen & Bath](https://www.reico.com/)** | **[INTERN (51894)](https://jobright.ai/jobs/info/694c46af1a572a617dde7ae2?utm_campaign=1049&utm_source=git)** | VA  Falls Church - Falls Church, VA 22046 | On Site | Dec 24 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Design Technician Intern](https://jobright.ai/jobs/info/694c44ddd64ebf28d821da97?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Dec 24 |
@@ -138,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Amway](http://www.amway.com)** | **[UI/UX Product Design Intern, Summer 2026 (42290)](https://jobright.ai/jobs/info/6941d49d50bbaf7650539bec?utm_campaign=1049&utm_source=git)** | Ada, MI | On Site | Dec 24 |
 | **[ftrprf](https://ftrprf.com)** | **[Design Intern](https://jobright.ai/jobs/info/694bb6935d73121134703843?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Dec 23 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Architect/Landscape Internship Spring (may extend in to Summer) Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/694b96621a572a617dddf71d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Graphic Design Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/694f668ea2668b7f5452a669?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Dec 23 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6940cf7849a7695fbd065379?utm_campaign=1049&utm_source=git)** | Bayport, MN | On Site | Dec 23 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Photoshop Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/694f554cce13cd1056577c51?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Dec 23 |
 | ↳ | **[Marketing Photography intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/694f50acce13cd1056577a4c?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Dec 23 |
