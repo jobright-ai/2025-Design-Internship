@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cambria](http://www.cambriausa.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/694f0fd2a2668b7f54524c72?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
+| **[Todd](https://toddagriscience.com)** | **[UI/UX Designer Intern (Summer '25)](https://jobright.ai/jobs/info/694f3b32ce13cd1056576cd5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
+| **[Cambria](http://www.cambriausa.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/694f3820a2668b7f545270da?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
+| ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/694f379ece13cd1056576a67?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
+| ↳ | **[Video Content Creator Intern](https://jobright.ai/jobs/info/694f0fd2a2668b7f54524c72?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | **[Amazon](https://amazon.com)** | **[Motion Design Intern (Master’s Level) , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f0e70ce13cd105657463c?utm_campaign=1049&utm_source=git)** | Culver City, California, USA | On Site | Dec 26 |
 | **[Cambria](http://www.cambriausa.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/694f0e43ce13cd105657462e?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | **[Candy Stripers®](http://www.candystripersny.org)** | **[REMOTE WINTER SESSION INTERNSHIP  (COLLEGE CREDIT ONLY)](https://jobright.ai/jobs/info/694f070729655e4dd658942e?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 26 |
-| **[No Barriers Education Inc.](https://www.nobarrierseducation.com/)** | **[Website Designer Intern](https://jobright.ai/jobs/info/694ef3dece13cd10565731c2?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Dec 26 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/694ee4c129655e4dd6587159?utm_campaign=1049&utm_source=git)** | Deerfield, IL | On Site | Dec 26 |
 | **[Copart](http://www.copart.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/694ed15029655e4dd65867e7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 26 |
 | **[Cookies for Kids'​ Cancer](https://cookiesforkidscancer.org)** | **[Graphic Design Intern - Remote](https://jobright.ai/jobs/info/694eb8fda2668b7f5451feab?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/694b0b431224705e90021e3e?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Dec 23 |
 | ↳ | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/694b089067a69734cac618b6?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Dec 23 |
 | ↳ | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/694b0ac93019f50a4fe61035?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina, United States | On Site | Dec 23 |
-| ↳ | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/694b0dc81224705e9002218c?utm_campaign=1049&utm_source=git)** | Jacksonville, Florida, United States | On Site | Dec 23 |
-| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b39a11224705e900250c3?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
