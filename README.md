@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ChatLabs](https://www.chatlabs.com)** | **[AI Artist & Community Builder (Internship)](https://jobright.ai/jobs/info/69500614a2668b7f54530a58?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f918c3a628d10664e892c8?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Dec 27 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f91cbaa628d10664e896a2?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Dec 27 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f92c0a6de2db04dc3e6254?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Dec 27 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/693ed75baa598a08c3eef58d?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[UX Design Internship](https://jobright.ai/jobs/info/691a9ad115b41563671892e1?utm_campaign=1049&utm_source=git)** | Piscataway, NJ | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/693fc6edaa598a08c3ef88a0?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Design Intern](https://jobright.ai/jobs/info/6916332f9c388539cbdf89bb?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
 | **[PostNet International Franchise Corporation](http://www.PostNet.com)** | **[Graphic Service Internship (In-Person)](https://jobright.ai/jobs/info/694fd696a2668b7f5452eec7?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | On Site | Dec 27 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Design Intern](https://jobright.ai/jobs/info/6916316f9c388539cbdf8879?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[UX Designer Intern (8 months)](https://jobright.ai/jobs/info/69335697f131d96e48462287?utm_campaign=1049&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 27 |
