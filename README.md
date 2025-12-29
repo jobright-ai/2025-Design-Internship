@@ -57,17 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Architecture Intern](https://jobright.ai/jobs/info/6952b980935649778e208434?utm_campaign=1049&utm_source=git)** | Waco, TX | Hybrid | Dec 29 |
+| **[JIO ROBOTICS 3D Printing and Design](www.jiorobotics.com)** | **[Sr UX/UI with Web Development Intern to Full Time - Remote/onsite](https://jobright.ai/jobs/info/6952aa12935649778e2063cf?utm_campaign=1049&utm_source=git)** | Germantown, MD | On Site | Dec 29 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbfa7c93c49825ab108452?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Dec 29 |
 | **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/691d881cbcdbf3560c9f1993?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 29 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04b6ff758fe1f97e4c072?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c35bb4b8c22d3828471258?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Dec 29 |
 | **[Stuller, Inc.](http://stuller.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/6952673c935649778e202f6c?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Dec 29 |
-| ↳ | **[Web Design Intern](https://jobright.ai/jobs/info/69526485935649778e202f2b?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Dec 29 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7c9a5f9f0336447de10a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Dec 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/68c911f4f9c6ff7aedf17743?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Dec 29 |
 | **[Databricks](https://www.databricks.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/68cbd9079e3a822f5d24c198?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Dec 29 |
 | **[TD](https://www.td.com)** | **[Creative Services Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69524f35f1f8465b79e9b47b?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[Netup](https://www.netup.social)** | **[Brand designer Intern - Mandarin Speaking](https://jobright.ai/jobs/info/69524966935649778e202a48?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 29 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6908da77d046ab6061cce6c5?utm_campaign=1049&utm_source=git)** | East Lansing, MI | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Creative Services Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952225ea2668b7f5454b0be?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[User Experience Designer Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952220ca2668b7f5454b0ab?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
