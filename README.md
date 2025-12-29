@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minor Football League](http://www.mflishere.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6951b51b29655e4dd65a9396?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 28 |
 | **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6951a104a2668b7f54544cdb?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 28 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/69519b3929655e4dd65a8f51?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
 | ↳ | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/695196c7ce13cd105659296f?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Dec 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Staples](http://www.staples.com)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/6914e35e9c388539cbdee4ad?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 26 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69325b94f131d96e4845b811?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Dec 26 |
 | **[Toole Design Group](http://www.tooledesign.com)** | **[Urban Design Intern](https://jobright.ai/jobs/info/694ebdddce13cd105657116d?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Dec 25 |
-| **[I.M.P.](http://www.impconcerts.com)** | **[Art Internship](https://jobright.ai/jobs/info/694df42cd4a7df7a0672e2dc?utm_campaign=1049&utm_source=git)** | All Venues - Washington, DC | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
