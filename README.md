@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952da87f1f8465b79ea2405?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 29 |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Landscape Architect](https://jobright.ai/jobs/info/6952ed1f935649778e20b7dd?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Winter 2026 - Toronto](https://jobright.ai/jobs/info/6952ec755bb7de448ef607c6?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[Realtor.com](https://www.realtor.com/)** | **[User Experience Intern (Masters)](https://jobright.ai/jobs/info/6939a8d756b68f3dc4e6fe75?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | Hybrid | Dec 29 |
+| **[Nemer Fieger](https://nemerfieger.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6952e457f1f8465b79ea2dfe?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Dec 29 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6952e165935649778e209e78?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 29 |
+| **[Stantec](http://www.stantec.com)** | **[Interior Design Co-op/Intern - Buildings (Spring/Summer 2026)](https://jobright.ai/jobs/info/6952dfeb935649778e209d18?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 29 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6952df3ff1f8465b79ea27d9?utm_campaign=1049&utm_source=git)** | Fort Mill, SC | On Site | Dec 29 |
+| **[Stantec](http://www.stantec.com)** | **[Interior Design Co-op/Intern - Buildings (Spring/Summer 2026)](https://jobright.ai/jobs/info/6952de085bb7de448ef5ef11?utm_campaign=1049&utm_source=git)** | 1800 Main Street Suite 123, Dallas, TX, 75201, US | On Site | Dec 29 |
+| **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952dd38935649778e209b5a?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Dec 29 |
+| ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952da87f1f8465b79ea2405?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 29 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952da7a935649778e209892?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Dec 29 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d96a935649778e20977e?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Dec 29 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d8a75bb7de448ef5ea27?utm_campaign=1049&utm_source=git)** | US-PA-King of Prussia | On Site | Dec 29 |
@@ -69,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Orvanta](orvanta.us)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/6952d6915bb7de448ef5e7e5?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Dec 29 |
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d3fef1f8465b79ea1ca1?utm_campaign=1049&utm_source=git)** | US-FL-Ponte Vedra Beach | On Site | Dec 29 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d0f4f1f8465b79ea1ab1?utm_campaign=1049&utm_source=git)** | US-TX-Houston | On Site | Dec 29 |
-| **[Veltrana Group](veltranagroup.us)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/6952cf175bb7de448ef5e1aa?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Dec 29 |
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Store Design & Equipment Intern](https://jobright.ai/jobs/info/6952cd8b5bb7de448ef5e0fb?utm_campaign=1049&utm_source=git)** | Kansas City, KS | On Site | Dec 29 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Winter 2026 - Toronto](https://jobright.ai/jobs/info/6952c0b95bb7de448ef5dab3?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | Dec 29 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Architecture Intern](https://jobright.ai/jobs/info/6952b980935649778e208434?utm_campaign=1049&utm_source=git)** | Waco, TX | Hybrid | Dec 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/694f379ece13cd1056576a67?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Video Content Creator Intern](https://jobright.ai/jobs/info/694f0fd2a2668b7f54524c72?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | **[Amazon](https://amazon.com)** | **[Motion Design Intern (Master’s Level) , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f0e70ce13cd105657463c?utm_campaign=1049&utm_source=git)** | Culver City, California, USA | On Site | Dec 26 |
-| **[Cambria](http://www.cambriausa.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/694f0e43ce13cd105657462e?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
-| **[Candy Stripers®](http://www.candystripersny.org)** | **[REMOTE WINTER SESSION INTERNSHIP  (COLLEGE CREDIT ONLY)](https://jobright.ai/jobs/info/694f070729655e4dd658942e?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 26 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/694ee4c129655e4dd6587159?utm_campaign=1049&utm_source=git)** | Deerfield, IL | On Site | Dec 26 |
-| **[Copart](http://www.copart.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/694ed15029655e4dd65867e7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 26 |
-| **[Cookies for Kids'​ Cancer](https://cookiesforkidscancer.org)** | **[Graphic Design Intern - Remote](https://jobright.ai/jobs/info/694eb8fda2668b7f5451feab?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 26 |
-| **[SOTI](http://www.soti.net/)** | **[Graphic Design Intern - AI Focused (May 2026 12 Months)](https://jobright.ai/jobs/info/692f5eb3ef4b48533d1449a9?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 26 |
-| **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f91cc3cadb2e5a06a6144b?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 26 |
-| ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f92d936de2db04dc3e64e2?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
