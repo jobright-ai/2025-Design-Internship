@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stuller, Inc.](http://stuller.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/6952673c935649778e202f6c?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Dec 29 |
+| ↳ | **[Web Design Intern](https://jobright.ai/jobs/info/69526485935649778e202f2b?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Dec 29 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7c9a5f9f0336447de10a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Dec 29 |
+| **[HDR](http://www.hdrinc.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/68c911f4f9c6ff7aedf17743?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Dec 29 |
+| **[Databricks](https://www.databricks.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/68cbd9079e3a822f5d24c198?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Dec 29 |
+| **[TD](https://www.td.com)** | **[Creative Services Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69524f35f1f8465b79e9b47b?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[Netup](https://www.netup.social)** | **[Brand designer Intern - Mandarin Speaking](https://jobright.ai/jobs/info/69524966935649778e202a48?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 29 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6908da77d046ab6061cce6c5?utm_campaign=1049&utm_source=git)** | East Lansing, MI | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Creative Services Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952225ea2668b7f5454b0be?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
@@ -82,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/68e02dcab99ec3563b0cce35?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc5010f55bb021a88a2b15?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 28 |
 | **[Nintendo](http://nintendo.com)** | **[Intern - UX Writer (NTD)](https://jobright.ai/jobs/info/68fc480df55bb021a88a23ad?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Dec 28 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/695200a7a2668b7f545485ca?utm_campaign=1049&utm_source=git)** | Towson, MD | Hybrid | Dec 27 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 27 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Austin](https://jobright.ai/jobs/info/69374b931c1c2161c13f27db?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | **[ChatLabs](https://www.chatlabs.com)** | **[AI Artist & Community Builder (Internship)](https://jobright.ai/jobs/info/69500614a2668b7f54530a58?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 27 |
@@ -121,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Design Intern](https://jobright.ai/jobs/info/6916332f9c388539cbdf89bb?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Intern - Research Web Design and Development](https://jobright.ai/jobs/info/69167db2286ccf0a1513692f?utm_campaign=1049&utm_source=git)** | San Jose, CA | Remote | Dec 27 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | Remote | Dec 27 |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Industrial Design - Summer 2026](https://jobright.ai/jobs/info/695249395bb7de448ef574ea?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Motion Design Intern (Master’s Level) , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f9939ce13cd105657b6f5?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Dec 27 |
 | **[Century Furniture](http://centuryfurniture.com/)** | **[Intern](https://jobright.ai/jobs/info/694f4549ce13cd1056577163?utm_campaign=1049&utm_source=git)** | Century Main Office - Hickory, NC 28601 | On Site | Dec 26 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, Los Angeles - Onsite](https://jobright.ai/jobs/info/692e47e5fa28370be26a31bd?utm_campaign=1049&utm_source=git)** | United States, California, Los Angeles | On Site | Dec 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Dec 26 |
 | **[Uline](http://www.uline.com)** | **[Photography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9d00f7b89366816034689?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Dec 26 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Spring 2026](https://jobright.ai/jobs/info/69324127f131d96e4845a2ed?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Dec 26 |
-| **[International Justice Mission](http://www.ijm.org)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/693363cff131d96e48462c31?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 26 |
-| **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c080ca702aa35207aadf94?utm_campaign=1049&utm_source=git)** | Bellevue, NE | On Site | Dec 26 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Asset Management Internship](https://jobright.ai/jobs/info/694e25b3d4a7df7a06730ba2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
-| **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - 3D Design 1](https://jobright.ai/jobs/info/69325d3da0dde7020e2e62df?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
