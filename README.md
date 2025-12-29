@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952da87f1f8465b79ea2405?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Dec 29 |
+| ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952da7a935649778e209892?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Dec 29 |
+| ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d96a935649778e20977e?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Dec 29 |
+| ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d8a75bb7de448ef5ea27?utm_campaign=1049&utm_source=git)** | US-PA-King of Prussia | On Site | Dec 29 |
+| ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d86a5bb7de448ef5e9f2?utm_campaign=1049&utm_source=git)** | US-NC-Charlotte | On Site | Dec 29 |
+| ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d815935649778e20960e?utm_campaign=1049&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Dec 29 |
+| ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d803f1f8465b79ea2112?utm_campaign=1049&utm_source=git)** | King of Prussia, PA | On Site | Dec 29 |
+| ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d7f55bb7de448ef5e964?utm_campaign=1049&utm_source=git)** | US-VA-Richmond | On Site | Dec 29 |
+| ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d694f1f8465b79ea1f75?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 29 |
+| **[Orvanta](orvanta.us)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/6952d6915bb7de448ef5e7e5?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Dec 29 |
+| **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d3fef1f8465b79ea1ca1?utm_campaign=1049&utm_source=git)** | US-FL-Ponte Vedra Beach | On Site | Dec 29 |
+| ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d0f4f1f8465b79ea1ab1?utm_campaign=1049&utm_source=git)** | US-TX-Houston | On Site | Dec 29 |
+| **[Veltrana Group](veltranagroup.us)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/6952cf175bb7de448ef5e1aa?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Dec 29 |
+| **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Store Design & Equipment Intern](https://jobright.ai/jobs/info/6952cd8b5bb7de448ef5e0fb?utm_campaign=1049&utm_source=git)** | Kansas City, KS | On Site | Dec 29 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Winter 2026 - Toronto](https://jobright.ai/jobs/info/6952c0b95bb7de448ef5dab3?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | Dec 29 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Architecture Intern](https://jobright.ai/jobs/info/6952b980935649778e208434?utm_campaign=1049&utm_source=git)** | Waco, TX | Hybrid | Dec 29 |
 | **[JIO ROBOTICS 3D Printing and Design](www.jiorobotics.com)** | **[Sr UX/UI with Web Development Intern to Full Time - Remote/onsite](https://jobright.ai/jobs/info/6952aa12935649778e2063cf?utm_campaign=1049&utm_source=git)** | Germantown, MD | On Site | Dec 29 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbfa7c93c49825ab108452?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Dec 29 |
@@ -74,9 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6952159ea2668b7f5454ac8e?utm_campaign=1049&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[User Experience Designer Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69521562a2668b7f5454ac77?utm_campaign=1049&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | ↳ | **[Creative Services Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952155029655e4dd65aeea3?utm_campaign=1049&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/69519b3929655e4dd65a8f51?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
-| ↳ | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/695196c7ce13cd105659296f?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Dec 28 |
-| ↳ | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/69516ba7a2668b7f5454287a?utm_campaign=1049&utm_source=git)** | Toronto, ON, CAN | Hybrid | Dec 28 |
 | **[Lusive Decor](https://www.lusive.com)** | **[Design Intern & Admin Assistant - Paid Internship](https://jobright.ai/jobs/info/695164fd29655e4dd65a6c59?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Dec 28 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbf8d493c49825ab10829c?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Dec 28 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/694206ec14ee092a690023a1?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 28 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SOTI](http://www.soti.net/)** | **[Graphic Design Intern - AI Focused (May 2026 12 Months)](https://jobright.ai/jobs/info/692f5eb3ef4b48533d1449a9?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 26 |
 | **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f91cc3cadb2e5a06a6144b?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 26 |
 | ↳ | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f92d936de2db04dc3e64e2?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Dec 26 |
-| **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - Novelty 1](https://jobright.ai/jobs/info/6932631bf131d96e4845bc36?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
-| ↳ | **[Design Apprentice - 3D Visual Experience 1](https://jobright.ai/jobs/info/693253c7f131d96e4845b2f8?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
-| **[Uline](http://www.uline.com)** | **[Videography Internship - Summer 2026](https://jobright.ai/jobs/info/68f9223da628d10664e89901?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Dec 26 |
-| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Dec 26 |
-| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f924aaa628d10664e89a6f?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Dec 26 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern I - UX Design](https://jobright.ai/jobs/info/693cd3f450bbaf76504fffc0?utm_campaign=1049&utm_source=git)** | United States | On Site | Dec 26 |
-| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Dec 26 |
-| **[Stripe](https://stripe.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6932601ba0dde7020e2e64a0?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Dec 26 |
-| **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f915e26de2db04dc3e538d?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Dec 26 |
-| **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68bf38ae5c5d5f14f46d519f?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | Dec 26 |
-| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ed46de2db04dc3e5a86?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 26 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Dallas)](https://jobright.ai/jobs/info/68c8f05395f5211cd2cebb3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
