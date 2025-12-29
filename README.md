@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RJMedex](https://rjmedex.com/)** | **[Sr UX/UI with Web Development Intern to Full Time - Remote/onsite](https://jobright.ai/jobs/info/6951c82ba2668b7f54545140?utm_campaign=1049&utm_source=git)** | Germantown, MD | On Site | Dec 28 |
-| **[Minor Football League](http://www.mflishere.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6951b51b29655e4dd65a9396?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 28 |
-| **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6951a104a2668b7f54544cdb?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 28 |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6952159ea2668b7f5454ac8e?utm_campaign=1049&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
+| **[TD](https://www.td.com)** | **[User Experience Designer Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69521562a2668b7f5454ac77?utm_campaign=1049&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
+| ↳ | **[Creative Services Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952155029655e4dd65aeea3?utm_campaign=1049&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/69519b3929655e4dd65a8f51?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
 | ↳ | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/695196c7ce13cd105659296f?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Dec 28 |
 | ↳ | **[Intern, User Experience Content Design](https://jobright.ai/jobs/info/69516ba7a2668b7f5454287a?utm_campaign=1049&utm_source=git)** | Toronto, ON, CAN | Hybrid | Dec 28 |
@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/68e02dcab99ec3563b0cce35?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc5010f55bb021a88a2b15?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 28 |
 | **[Nintendo](http://nintendo.com)** | **[Intern - UX Writer (NTD)](https://jobright.ai/jobs/info/68fc480df55bb021a88a23ad?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Dec 28 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/695200a7a2668b7f545485ca?utm_campaign=1049&utm_source=git)** | Towson, MD | Hybrid | Dec 27 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 27 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Austin](https://jobright.ai/jobs/info/69374b931c1c2161c13f27db?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | **[ChatLabs](https://www.chatlabs.com)** | **[AI Artist & Community Builder (Internship)](https://jobright.ai/jobs/info/69500614a2668b7f54530a58?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/693207174c474121999f5fb2?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 26 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Art Outsourcing - 2026 Summer Internship](https://jobright.ai/jobs/info/691ff13f09cc522e87746cc2?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Dec 26 |
 | **[Staples](http://www.staples.com)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/6914e35e9c388539cbdee4ad?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 26 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69325b94f131d96e4845b811?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
