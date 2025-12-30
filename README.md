@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Power Authority](http://www.nypa.gov)** | **[Digital End-User Experience, Developmental Intern](https://jobright.ai/jobs/info/69544593aa05c26e7aaec6f2?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Dec 30 |
+| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6932036c4c474121999f5b4b?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 30 |
+| **[GFF](http://gff.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69543d4e5bb7de448ef722e9?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Dec 30 |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/695435faf1f8465b79eb5638?utm_campaign=1049&utm_source=git)** | Stamford, CT | Hybrid | Dec 30 |
+| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship - Interior Design](https://jobright.ai/jobs/info/695430725bb7de448ef71c23?utm_campaign=1049&utm_source=git)** | Bettendorf,IA,US | On Site | Dec 30 |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 UX/UI Designer Intern](https://jobright.ai/jobs/info/69543018f1f8465b79eb5283?utm_campaign=1049&utm_source=git)** | Stamford, CT | Hybrid | Dec 30 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Architecture](https://jobright.ai/jobs/info/69540f94f1f8465b79eb40df?utm_campaign=1049&utm_source=git)** | Bettendorf, IA | Hybrid | Dec 30 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6953f32bf1f8465b79eb1ea8?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – San Francisco](https://jobright.ai/jobs/info/6938a8dba0dde7020e31487b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
@@ -74,6 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Kin Haus](http://www.thekinhaus.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6953af11f1f8465b79eaf0ca?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Graphic Design and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69437c0994730b7398769a3f?utm_campaign=1049&utm_source=git)** | New Jersey, United States | Remote | Dec 29 |
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/69532cc2f1f8465b79ea7edf?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Dec 29 |
+| **[Kahler Slater](https://www.kahlerslater.com)** | **[Summer Architectural Student Intern](https://jobright.ai/jobs/info/69543b32aa05c26e7aaea775?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Dec 29 |
+| ↳ | **[Summer Architectural Student Intern](https://jobright.ai/jobs/info/69543e495bb7de448ef72365?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Dec 29 |
+| ↳ | **[Summer Architectural Student Intern](https://jobright.ai/jobs/info/695443f55bb7de448ef73e68?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
 | **[Caplugs](http://www.caplugs.com)** | **[Graphic Design/ Video Marketing Intern](https://jobright.ai/jobs/info/6952f5fc5bb7de448ef6181b?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Landscape Architect](https://jobright.ai/jobs/info/6952ed1f935649778e20b7dd?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Winter 2026 - Toronto](https://jobright.ai/jobs/info/6952ec755bb7de448ef607c6?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Graphic Design Intern – Marketing Communications](https://jobright.ai/jobs/info/68ce9bb3dbd9fb154ede1378?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/69336884a0dde7020e2ed984?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Dec 27 |
 | ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/693ed75baa598a08c3eef58d?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
-| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[UX Design Internship](https://jobright.ai/jobs/info/691a9ad115b41563671892e1?utm_campaign=1049&utm_source=git)** | Piscataway, NJ | Hybrid | Dec 27 |
-| **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/693fc6edaa598a08c3ef88a0?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
-| **[PostNet International Franchise Corporation](http://www.PostNet.com)** | **[Graphic Service Internship (In-Person)](https://jobright.ai/jobs/info/694fd696a2668b7f5452eec7?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | On Site | Dec 27 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Design Intern](https://jobright.ai/jobs/info/6916316f9c388539cbdf8879?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 27 |
-| **[IBM](http://www.ibm.com)** | **[UX Designer Intern (8 months)](https://jobright.ai/jobs/info/69335697f131d96e48462287?utm_campaign=1049&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 27 |
-| ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/693354a7764507023d1b4519?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 27 |
-| ↳ | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/69335a08764507023d1b4a64?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c5185cdb52c07d28840fcc?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Dec 27 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Digital Content Creation Intern (Masters)](https://jobright.ai/jobs/info/68ccff47d11b445e0bee5cf9?utm_campaign=1049&utm_source=git)** | Mettawa, IL | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
