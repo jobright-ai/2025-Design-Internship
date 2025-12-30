@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Caplugs](http://www.caplugs.com)** | **[Graphic Design/ Video Marketing Intern](https://jobright.ai/jobs/info/6952f5fc5bb7de448ef6181b?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Landscape Architect](https://jobright.ai/jobs/info/6952ed1f935649778e20b7dd?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Winter 2026 - Toronto](https://jobright.ai/jobs/info/6952ec755bb7de448ef607c6?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[Realtor.com](https://www.realtor.com/)** | **[User Experience Intern (Masters)](https://jobright.ai/jobs/info/6939a8d756b68f3dc4e6fe75?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | Hybrid | Dec 29 |
@@ -75,8 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d803f1f8465b79ea2112?utm_campaign=1049&utm_source=git)** | King of Prussia, PA | On Site | Dec 29 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d7f55bb7de448ef5e964?utm_campaign=1049&utm_source=git)** | US-VA-Richmond | On Site | Dec 29 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d694f1f8465b79ea1f75?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Dec 29 |
-| **[Orvanta](orvanta.us)** | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/6952d6915bb7de448ef5e7e5?utm_campaign=1049&utm_source=git)** | Wisconsin, United States | On Site | Dec 29 |
-| **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d3fef1f8465b79ea1ca1?utm_campaign=1049&utm_source=git)** | US-FL-Ponte Vedra Beach | On Site | Dec 29 |
+| ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d3fef1f8465b79ea1ca1?utm_campaign=1049&utm_source=git)** | US-FL-Ponte Vedra Beach | On Site | Dec 29 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d0f4f1f8465b79ea1ab1?utm_campaign=1049&utm_source=git)** | US-TX-Houston | On Site | Dec 29 |
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Store Design & Equipment Intern](https://jobright.ai/jobs/info/6952cd8b5bb7de448ef5e0fb?utm_campaign=1049&utm_source=git)** | Kansas City, KS | On Site | Dec 29 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Winter 2026 - Toronto](https://jobright.ai/jobs/info/6952c0b95bb7de448ef5dab3?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | Dec 29 |
@@ -85,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbfa7c93c49825ab108452?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Dec 29 |
 | **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/691d881cbcdbf3560c9f1993?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 29 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04b6ff758fe1f97e4c072?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
-| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Packaging Design Intern - Summer 2026](https://jobright.ai/jobs/info/68c35bb4b8c22d3828471258?utm_campaign=1049&utm_source=git)** | Fishers, IN | On Site | Dec 29 |
 | **[Stuller, Inc.](http://stuller.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/6952673c935649778e202f6c?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Dec 29 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7c9a5f9f0336447de10a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Dec 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/68c911f4f9c6ff7aedf17743?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Dec 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/694f379ece13cd1056576a67?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Video Content Creator Intern](https://jobright.ai/jobs/info/694f0fd2a2668b7f54524c72?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | **[Amazon](https://amazon.com)** | **[Motion Design Intern (Master’s Level) , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f0e70ce13cd105657463c?utm_campaign=1049&utm_source=git)** | Culver City, California, USA | On Site | Dec 26 |
+| **[Cambria](http://www.cambriausa.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/694f0e43ce13cd105657462e?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
