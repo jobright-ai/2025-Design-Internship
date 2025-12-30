@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seagate Technology](http://www.seagate.com)** | **[Graphic Design and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69437c0994730b7398769a3f?utm_campaign=1049&utm_source=git)** | New Jersey, United States | Remote | Dec 29 |
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/69532cc2f1f8465b79ea7edf?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Dec 29 |
-| **[Ethical and Sustainable Sourcing #ESSourcing](https://www.eandsources.com)** | **[Spring 2026 Website UX & Maintenance HTML Internship](https://jobright.ai/jobs/info/69531c4ef1f8465b79ea5c5f?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Berners Schober](https://bernersschober.com/)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/69531bb1f1f8465b79ea5c31?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Dec 29 |
 | **[Caplugs](http://www.caplugs.com)** | **[Graphic Design/ Video Marketing Intern](https://jobright.ai/jobs/info/6952f5fc5bb7de448ef6181b?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Landscape Architect](https://jobright.ai/jobs/info/6952ed1f935649778e20b7dd?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
@@ -87,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbfa7c93c49825ab108452?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Dec 29 |
 | **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/691d881cbcdbf3560c9f1993?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 29 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04b6ff758fe1f97e4c072?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
-| **[Stuller, Inc.](http://stuller.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/6952673c935649778e202f6c?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Dec 29 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7c9a5f9f0336447de10a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Dec 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/68c911f4f9c6ff7aedf17743?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Dec 29 |
 | **[Databricks](https://www.databricks.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/68cbd9079e3a822f5d24c198?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Dec 29 |
@@ -114,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/68fc5010f55bb021a88a2b15?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Dec 28 |
 | **[Nintendo](http://nintendo.com)** | **[Intern - UX Writer (NTD)](https://jobright.ai/jobs/info/68fc480df55bb021a88a23ad?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Dec 28 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Dec 27 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/695356565bb7de448ef6639c?utm_campaign=1049&utm_source=git)** | Towson, MD | Hybrid | Dec 27 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Dec 27 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Austin](https://jobright.ai/jobs/info/69374b931c1c2161c13f27db?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | **[ChatLabs](https://www.chatlabs.com)** | **[AI Artist & Community Builder (Internship)](https://jobright.ai/jobs/info/69500614a2668b7f54530a58?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 27 |
