@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sparrow](https://www.sparrowup.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6953f32bf1f8465b79eb1ea8?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 30 |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – San Francisco](https://jobright.ai/jobs/info/6938a8dba0dde7020e31487b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Design Strategist Intern, NYC](https://jobright.ai/jobs/info/6930f086ef4b48533d150ea6?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Dec 30 |
 | **[Realtor.com](https://www.realtor.com/)** | **[User Experience and Web Analytics Intern](https://jobright.ai/jobs/info/6937655ca0dde7020e30255e?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Dec 30 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Client Experience (CX) Department](https://jobright.ai/jobs/info/69375e1d1c1c2161c13f36d1?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 30 |
@@ -71,12 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Kin Haus](http://www.thekinhaus.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6953af11f1f8465b79eaf0ca?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Graphic Design and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69437c0994730b7398769a3f?utm_campaign=1049&utm_source=git)** | New Jersey, United States | Remote | Dec 29 |
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/69532cc2f1f8465b79ea7edf?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Dec 29 |
-| **[Berners Schober](https://bernersschober.com/)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/69531bb1f1f8465b79ea5c31?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Dec 29 |
 | **[Caplugs](http://www.caplugs.com)** | **[Graphic Design/ Video Marketing Intern](https://jobright.ai/jobs/info/6952f5fc5bb7de448ef6181b?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Landscape Architect](https://jobright.ai/jobs/info/6952ed1f935649778e20b7dd?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Winter 2026 - Toronto](https://jobright.ai/jobs/info/6952ec755bb7de448ef607c6?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[Realtor.com](https://www.realtor.com/)** | **[User Experience Intern (Masters)](https://jobright.ai/jobs/info/6939a8d756b68f3dc4e6fe75?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | Hybrid | Dec 29 |
-| **[Nemer Fieger](https://nemerfieger.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6952e457f1f8465b79ea2dfe?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Dec 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6952e165935649778e209e78?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 29 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Design Co-op/Intern - Buildings (Spring/Summer 2026)](https://jobright.ai/jobs/info/6952dfeb935649778e209d18?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6952df3ff1f8465b79ea27d9?utm_campaign=1049&utm_source=git)** | Fort Mill, SC | On Site | Dec 29 |
