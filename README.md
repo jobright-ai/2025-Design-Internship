@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/69532cc2f1f8465b79ea7edf?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Dec 29 |
+| **[Ethical and Sustainable Sourcing #ESSourcing](https://www.eandsources.com)** | **[Spring 2026 Website UX & Maintenance HTML Internship](https://jobright.ai/jobs/info/69531c4ef1f8465b79ea5c5f?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 29 |
+| **[Berners Schober](https://bernersschober.com/)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/69531bb1f1f8465b79ea5c31?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Dec 29 |
 | **[Caplugs](http://www.caplugs.com)** | **[Graphic Design/ Video Marketing Intern](https://jobright.ai/jobs/info/6952f5fc5bb7de448ef6181b?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Landscape Architect](https://jobright.ai/jobs/info/6952ed1f935649778e20b7dd?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Winter 2026 - Toronto](https://jobright.ai/jobs/info/6952ec755bb7de448ef607c6?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Store Design & Equipment Intern](https://jobright.ai/jobs/info/6952cd8b5bb7de448ef5e0fb?utm_campaign=1049&utm_source=git)** | Kansas City, KS | On Site | Dec 29 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Winter 2026 - Toronto](https://jobright.ai/jobs/info/6952c0b95bb7de448ef5dab3?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | Dec 29 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Architecture Intern](https://jobright.ai/jobs/info/6952b980935649778e208434?utm_campaign=1049&utm_source=git)** | Waco, TX | Hybrid | Dec 29 |
-| **[JIO ROBOTICS 3D Printing and Design](www.jiorobotics.com)** | **[Sr UX/UI with Web Development Intern to Full Time - Remote/onsite](https://jobright.ai/jobs/info/6952aa12935649778e2063cf?utm_campaign=1049&utm_source=git)** | Germantown, MD | On Site | Dec 29 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbfa7c93c49825ab108452?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Dec 29 |
 | **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/691d881cbcdbf3560c9f1993?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Dec 29 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04b6ff758fe1f97e4c072?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cambria](http://www.cambriausa.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/694f3820a2668b7f545270da?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/694f379ece13cd1056576a67?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Video Content Creator Intern](https://jobright.ai/jobs/info/694f0fd2a2668b7f54524c72?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
-| **[Amazon](https://amazon.com)** | **[Motion Design Intern (Master’s Level) , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f0e70ce13cd105657463c?utm_campaign=1049&utm_source=git)** | Culver City, California, USA | On Site | Dec 26 |
-| **[Cambria](http://www.cambriausa.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/694f0e43ce13cd105657462e?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
