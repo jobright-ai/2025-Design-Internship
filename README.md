@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NRG Energy](http://www.nrg.com/)** | **[ID Intern](https://jobright.ai/jobs/info/693a237cac80bb5492bca658?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Jan 01 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdf4ee04ac838fb5bc8fc?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 01 |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/693a279e56b68f3dc4e77b0e?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Jan 01 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdcd10ab3b222462af360?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 01 |
+| **[Atlassian](https://www.atlassian.com)** | **[Creative Operations Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/6939f73956b68f3dc4e7462a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Commercial CX Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68e476f6f758fe1f97e689b4?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Jan 01 |
+| **[Zoox](https://www.zoox.com/)** | **[Design Systems Intern](https://jobright.ai/jobs/info/691d31260b7dff7341500b3e?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Jan 01 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - GMO Events Team Designer](https://jobright.ai/jobs/info/68e5953eae2b894b1d711617?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 01 |
+| ↳ | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/691d2d1b7481340785ed485b?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jan 01 |
+| **[adidas](https://www.adidas-group.com)** | **[2026 US Undergraduate Internship - Apparel Development](https://jobright.ai/jobs/info/695643ecf1f8465b79ed2947?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 01 |
+| ↳ | **[2026 US Undergraduate Internship - Graphic Design (Portland & Los Angeles)](https://jobright.ai/jobs/info/695643ddf1f8465b79ed2942?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
 | **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern (New graduate)](https://jobright.ai/jobs/info/695630bcf1f8465b79ed1eb3?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Jan 01 |
 | **[Upbound Group](https://www.upbound.com)** | **[Content & Design Intern](https://jobright.ai/jobs/info/69562ae7aa05c26e7ab067c9?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jan 01 |
 | **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Intern Architect](https://jobright.ai/jobs/info/695633059f1b381eb26f6783?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Dec 31 |
@@ -127,11 +138,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/695472c6aa05c26e7aaee0bd?utm_campaign=1049&utm_source=git)** | Basalt, CO | On Site | Dec 30 |
 | **[Firespring](http://firespring.com)** | **[Creative Intern](https://jobright.ai/jobs/info/695497765bb7de448ef79005?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Dec 30 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/695486caf1f8465b79ebb916?utm_campaign=1049&utm_source=git)** | US-CO-Denver | On Site | Dec 30 |
+| ↳ | **[2026 Dr. Charles Fountain Internship Program](https://jobright.ai/jobs/info/69548637f1f8465b79ebb88e?utm_campaign=1049&utm_source=git)** | US-CO-Basalt | On Site | Dec 30 |
 | ↳ | **[2026 Dr. Charles Fountain Internship Program](https://jobright.ai/jobs/info/695484a55bb7de448ef78231?utm_campaign=1049&utm_source=git)** | US-NC-Raleigh | On Site | Dec 30 |
 | ↳ | **[2026 Dr. Charles Fountain Internship Program](https://jobright.ai/jobs/info/69548431aa05c26e7aaf00b1?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Dec 30 |
-| ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/695486c7aa05c26e7aaf05ea?utm_campaign=1049&utm_source=git)** | US-CO-Basalt | On Site | Dec 30 |
-| ↳ | **[2026 Dr. Charles Fountain Internship Program](https://jobright.ai/jobs/info/69548637f1f8465b79ebb88e?utm_campaign=1049&utm_source=git)** | US-CO-Basalt | On Site | Dec 30 |
 | ↳ | **[2026 Dr. Charles Fountain Internship Program](https://jobright.ai/jobs/info/69548772f1f8465b79ebb9a3?utm_campaign=1049&utm_source=git)** | US-NV-Tahoe | On Site | Dec 30 |
+| ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/695486c7aa05c26e7aaf05ea?utm_campaign=1049&utm_source=git)** | US-CO-Basalt | On Site | Dec 30 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – New York](https://jobright.ai/jobs/info/6938a91baabec14a727d988c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/692111e6a49a885af9a42990?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Dec 30 |
 | **[New York Power Authority](http://www.nypa.gov)** | **[Digital End-User Experience, Developmental Intern](https://jobright.ai/jobs/info/69544593aa05c26e7aaec6f2?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Dec 30 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – San Francisco](https://jobright.ai/jobs/info/6938a8dba0dde7020e31487b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Design Strategist Intern, NYC](https://jobright.ai/jobs/info/6930f086ef4b48533d150ea6?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Dec 30 |
 | **[Realtor.com](https://www.realtor.com/)** | **[User Experience and Web Analytics Intern](https://jobright.ai/jobs/info/6937655ca0dde7020e30255e?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Dec 30 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Client Experience (CX) Department](https://jobright.ai/jobs/info/69375e1d1c1c2161c13f36d1?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 30 |
-| **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (February 2026)](https://jobright.ai/jobs/info/693706c2aabec14a727c3955?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Dec 30 |
-| **[Grainger](https://www.grainger.com)** | **[GTG Intern - User Experience Design](https://jobright.ai/jobs/info/69374761aabec14a727c5e92?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
-| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026 POK](https://jobright.ai/jobs/info/694109d050bbaf7650530f1d?utm_campaign=1049&utm_source=git)** | Poughkeepsie, AR | On Site | Dec 30 |
-| **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6937696aa0dde7020e302936?utm_campaign=1049&utm_source=git)** | United States | Remote | Dec 30 |
-| **[Robinhood](https://www.robinhood.com)** | **[Production Intern](https://jobright.ai/jobs/info/69379375a0dde7020e304537?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 30 |
-| **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Remote | Dec 29 |
-| **[Stuller, Inc.](http://stuller.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/69560f4caa05c26e7ab0550f?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Dec 29 |
-| **[Seagate Technology](http://www.seagate.com)** | **[Graphic Design and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/69437c0994730b7398769a3f?utm_campaign=1049&utm_source=git)** | New Jersey, United States | Remote | Dec 29 |
-| **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/69532cc2f1f8465b79ea7edf?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Dec 29 |
-| **[Kahler Slater](https://www.kahlerslater.com)** | **[Summer Architectural Student Intern](https://jobright.ai/jobs/info/69543b32aa05c26e7aaea775?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
