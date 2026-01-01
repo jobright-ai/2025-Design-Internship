@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NXTPRO SPORTS](http://www.nxtprohoops.com)** | **[Creative Video Internship](https://jobright.ai/jobs/info/6956e71caa05c26e7ab11b51?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jan 01 |
+| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[UX Design & Research Internship](https://jobright.ai/jobs/info/6956e5f8aa05c26e7ab11b01?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 01 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dd85f1f8465b79edcf0b?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
+| **[WHEELHOUSE Center for Health and Wellbeing](http://wheelhouse.health)** | **[Graphic Design & Website Development Intern](https://jobright.ai/jobs/info/6956dd59f1f8465b79edcf01?utm_campaign=1049&utm_source=git)** | Fairfield, CT | Hybrid | Jan 01 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/6956acc4aa05c26e7ab0e0b7?utm_campaign=1049&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
 | **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[World Art Intern](https://jobright.ai/jobs/info/691cdf6a22a2cb4b9bd1e155?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 01 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8046221b890c2780eb2d?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jan 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/69547852f1f8465b79ebaeb3?utm_campaign=1049&utm_source=git)** | US-CO-Denver | On Site | Dec 30 |
 | ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/695476455bb7de448ef76323?utm_campaign=1049&utm_source=git)** | US-NV-Tahoe | On Site | Dec 30 |
 | ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/6954746daa05c26e7aaee1b2?utm_campaign=1049&utm_source=git)** | US-TX-Houston | On Site | Dec 30 |
-| ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/69547425aa05c26e7aaee128?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 30 |
-| ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/695472c6aa05c26e7aaee0bd?utm_campaign=1049&utm_source=git)** | Basalt, CO | On Site | Dec 30 |
-| **[Firespring](http://firespring.com)** | **[Creative Intern](https://jobright.ai/jobs/info/695497765bb7de448ef79005?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Dec 30 |
-| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Dr. Charles Fountain Internship Program](https://jobright.ai/jobs/info/69548637f1f8465b79ebb88e?utm_campaign=1049&utm_source=git)** | US-CO-Basalt | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
