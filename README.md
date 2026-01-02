@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692e4125fa28370be26a2d72?utm_campaign=1049&utm_source=git)** | United States, New York, New York | On Site | Jan 02 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/69573174f1f8465b79edfc97?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dd85f1f8465b79edcf0b?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
 | **[WHEELHOUSE Center for Health and Wellbeing](http://wheelhouse.health)** | **[Graphic Design & Website Development Intern](https://jobright.ai/jobs/info/6956dd59f1f8465b79edcf01?utm_campaign=1049&utm_source=git)** | Fairfield, CT | Hybrid | Jan 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/69547852f1f8465b79ebaeb3?utm_campaign=1049&utm_source=git)** | US-CO-Denver | On Site | Dec 30 |
 | ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/695476455bb7de448ef76323?utm_campaign=1049&utm_source=git)** | US-NV-Tahoe | On Site | Dec 30 |
 | ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/6954746daa05c26e7aaee1b2?utm_campaign=1049&utm_source=git)** | US-TX-Houston | On Site | Dec 30 |
-| ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/69547425aa05c26e7aaee128?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
