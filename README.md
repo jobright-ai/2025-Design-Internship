@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JBIER Inc.](https://www.jbierboutique.com)** | **[Web Design, Photography, and Videography Intern](https://jobright.ai/jobs/info/6957e7c8aa05c26e7ab1d2e1?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Jan 02 |
+| **[Aurate New York](https://www.auratec.com.br)** | **[Art Direction / Content Creation Intern](https://jobright.ai/jobs/info/6957d689aa05c26e7ab1ce52?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
+| **[Lyft](https://www.lyft.com/)** | **[Architecture Design Intern (Summer 2026)](https://jobright.ai/jobs/info/693b6c67d4054a2bc0255bd3?utm_campaign=1049&utm_source=git)** | San Francisco County, CA | Hybrid | Jan 02 |
+| **[Realtor.com](https://www.realtor.com/)** | **[Intern, Product Design](https://jobright.ai/jobs/info/693b7815d4054a2bc0255f0a?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 02 |
+| **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6933fad3a0dde7020e2f37ee?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Jan 02 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Advanced Development (February to July)](https://jobright.ai/jobs/info/68cd8320e23def7af55bb027?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jan 02 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Digital Production Intern](https://jobright.ai/jobs/info/6948f8b063141d188458a2a4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Industrial Design Intern (May to August)](https://jobright.ai/jobs/info/68cb5948efdec76df36bb83c?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jan 02 |
@@ -64,14 +69,16 @@ For a complete list, click the following sortable link below:
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68ae4743daf1431824ca1fd0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 02 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6900d857f8ce7a040fdb9b75?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 02 |
 | **[Altruist](https://altruist.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/68ce72e6846f0b04af67a158?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 02 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: CMF Industrial Design Co-op (February to July)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jan 02 |
+| **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68ca6ef25f9f0336447ddc24?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 02 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[User Experience Communications Intern Summer 2026](https://jobright.ai/jobs/info/69018352d5259a1b3cff5a25?utm_campaign=1049&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 02 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 02 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69336705764507023d1b53aa?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 02 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692e4125fa28370be26a2d72?utm_campaign=1049&utm_source=git)** | United States, New York, New York | On Site | Jan 02 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/69573174f1f8465b79edfc97?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
+| **[HarvOx](https://www.linkedin.com/company/106916829)** | **[Architectural Designer Intern (AI-Driven Design)](https://jobright.ai/jobs/info/6957c834f1f8465b79ee73f5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dd85f1f8465b79edcf0b?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
-| **[WHEELHOUSE Center for Health and Wellbeing](http://wheelhouse.health)** | **[Graphic Design & Website Development Intern](https://jobright.ai/jobs/info/6956dd59f1f8465b79edcf01?utm_campaign=1049&utm_source=git)** | Fairfield, CT | Hybrid | Jan 01 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/6956acc4aa05c26e7ab0e0b7?utm_campaign=1049&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
+| ↳ | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/6956acc4aa05c26e7ab0e0b7?utm_campaign=1049&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
 | **[Full Circle Studio](https://www.ea.com/ea-studios/full-circle)** | **[World Art Intern](https://jobright.ai/jobs/info/691cdf6a22a2cb4b9bd1e155?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 01 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8046221b890c2780eb2d?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jan 01 |
 | **[Symbotic](https://www.symbotic.com)** | **[Intern- UX/UI](https://jobright.ai/jobs/info/6939df5148a8ce22990ddabb?utm_campaign=1049&utm_source=git)** | Wilmington, MA | On Site | Jan 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Dr. Charles Fountain Internship Program](https://jobright.ai/jobs/info/6954b0b5f1f8465b79ebf2e9?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 30 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/695490b8f1f8465b79ebbff7?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Dec 30 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6954826daa05c26e7aaefd54?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Dec 30 |
-| ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/6954822df1f8465b79ebb625?utm_campaign=1049&utm_source=git)** | US-NC-Raleigh | On Site | Dec 30 |
-| ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/6954821ff1f8465b79ebb619?utm_campaign=1049&utm_source=git)** | US-CO-Basalt | On Site | Dec 30 |
-| ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/69548199aa05c26e7aaefb79?utm_campaign=1049&utm_source=git)** | US-NV-Tahoe | On Site | Dec 30 |
-| ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/69548187f1f8465b79ebb5a1?utm_campaign=1049&utm_source=git)** | Denver County, CO | On Site | Dec 30 |
-| ↳ | **[2026 Dr. Charles Fountain Internship Program](https://jobright.ai/jobs/info/695480eeaa05c26e7aaefa0c?utm_campaign=1049&utm_source=git)** | Denver County, CO | On Site | Dec 30 |
-| ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/6954801f5bb7de448ef777fe?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Dec 30 |
-| ↳ | **[2026 Dr. Charles Fountain Internship Program](https://jobright.ai/jobs/info/69547e77f1f8465b79ebb32c?utm_campaign=1049&utm_source=git)** | US-CO-Denver | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
