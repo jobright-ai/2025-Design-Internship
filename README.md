@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[User Experience Communications Intern Summer 2026](https://jobright.ai/jobs/info/69018352d5259a1b3cff5a25?utm_campaign=1049&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 02 |
+| **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 02 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69336705764507023d1b53aa?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 02 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692e4125fa28370be26a2d72?utm_campaign=1049&utm_source=git)** | United States, New York, New York | On Site | Jan 02 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/69573174f1f8465b79edfc97?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dd85f1f8465b79edcf0b?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Dr. Charles Fountain Internship Program](https://jobright.ai/jobs/info/69547beb5bb7de448ef76ede?utm_campaign=1049&utm_source=git)** | US-TX-Houston | On Site | Dec 30 |
 | ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/69547b475bb7de448ef76d5b?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | Dec 30 |
 | **[Firespring](http://firespring.com)** | **[Creative Intern](https://jobright.ai/jobs/info/695478b5f1f8465b79ebaf03?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Dec 30 |
-| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/69547852f1f8465b79ebaeb3?utm_campaign=1049&utm_source=git)** | US-CO-Denver | On Site | Dec 30 |
-| ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/695476455bb7de448ef76323?utm_campaign=1049&utm_source=git)** | US-NV-Tahoe | On Site | Dec 30 |
-| ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/6954746daa05c26e7aaee1b2?utm_campaign=1049&utm_source=git)** | US-TX-Houston | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
