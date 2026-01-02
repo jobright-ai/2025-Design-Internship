@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NXTPRO SPORTS](http://www.nxtprohoops.com)** | **[Creative Video Internship](https://jobright.ai/jobs/info/6956e71caa05c26e7ab11b51?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jan 01 |
-| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[UX Design & Research Internship](https://jobright.ai/jobs/info/6956e5f8aa05c26e7ab11b01?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 01 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dd85f1f8465b79edcf0b?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
 | **[WHEELHOUSE Center for Health and Wellbeing](http://wheelhouse.health)** | **[Graphic Design & Website Development Intern](https://jobright.ai/jobs/info/6956dd59f1f8465b79edcf01?utm_campaign=1049&utm_source=git)** | Fairfield, CT | Hybrid | Jan 01 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/6956acc4aa05c26e7ab0e0b7?utm_campaign=1049&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
@@ -94,7 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 US Undergraduate Internship - Graphic Design (Portland & Los Angeles)](https://jobright.ai/jobs/info/695643ddf1f8465b79ed2942?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
 | **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern (New graduate)](https://jobright.ai/jobs/info/695630bcf1f8465b79ed1eb3?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Jan 01 |
 | **[Upbound Group](https://www.upbound.com)** | **[Content & Design Intern](https://jobright.ai/jobs/info/69562ae7aa05c26e7ab067c9?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jan 01 |
-| **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Intern Architect](https://jobright.ai/jobs/info/695633059f1b381eb26f6783?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Dec 31 |
+| **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern  (New graduate)](https://jobright.ai/jobs/info/69570a589f1b381eb2701dd9?utm_campaign=1049&utm_source=git)** | Lynchburg,VA,US | Hybrid | Dec 31 |
+| ↳ | **[Intern Architect](https://jobright.ai/jobs/info/695633059f1b381eb26f6783?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Dec 31 |
 | **[M3 Design](http://m3design.com)** | **[Industrial Design Intern Summer 2026](https://jobright.ai/jobs/info/6955cb5aaa05c26e7aaffc31?utm_campaign=1049&utm_source=git)** | Round Rock, TX | On Site | Dec 31 |
 | **[Vast](https://www.vast.space)** | **[2026 Summer Internship - Brand Design (Marketing)](https://jobright.ai/jobs/info/6944a768a7227b3ece66544a?utm_campaign=1049&utm_source=git)** | Long Beach, California, United States | On Site | Dec 31 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Post Studios](https://jobright.ai/jobs/info/69558f2e9f1b381eb26ecf8f?utm_campaign=1049&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/69547852f1f8465b79ebaeb3?utm_campaign=1049&utm_source=git)** | US-CO-Denver | On Site | Dec 30 |
 | ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/695476455bb7de448ef76323?utm_campaign=1049&utm_source=git)** | US-NV-Tahoe | On Site | Dec 30 |
 | ↳ | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/6954746daa05c26e7aaee1b2?utm_campaign=1049&utm_source=git)** | US-TX-Houston | On Site | Dec 30 |
+| ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/69547425aa05c26e7aaee128?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
