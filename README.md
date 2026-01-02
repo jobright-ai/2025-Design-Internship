@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/69573174f1f8465b79edfc97?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dd85f1f8465b79edcf0b?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
 | **[WHEELHOUSE Center for Health and Wellbeing](http://wheelhouse.health)** | **[Graphic Design & Website Development Intern](https://jobright.ai/jobs/info/6956dd59f1f8465b79edcf01?utm_campaign=1049&utm_source=git)** | Fairfield, CT | Hybrid | Jan 01 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/6956acc4aa05c26e7ab0e0b7?utm_campaign=1049&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Upbound Group](https://www.upbound.com)** | **[Content & Design Intern](https://jobright.ai/jobs/info/69562ae7aa05c26e7ab067c9?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jan 01 |
 | **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern  (New graduate)](https://jobright.ai/jobs/info/69570a589f1b381eb2701dd9?utm_campaign=1049&utm_source=git)** | Lynchburg,VA,US | Hybrid | Dec 31 |
 | ↳ | **[Intern Architect](https://jobright.ai/jobs/info/695633059f1b381eb26f6783?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Dec 31 |
-| **[M3 Design](http://m3design.com)** | **[Industrial Design Intern Summer 2026](https://jobright.ai/jobs/info/6955cb5aaa05c26e7aaffc31?utm_campaign=1049&utm_source=git)** | Round Rock, TX | On Site | Dec 31 |
 | **[Vast](https://www.vast.space)** | **[2026 Summer Internship - Brand Design (Marketing)](https://jobright.ai/jobs/info/6944a768a7227b3ece66544a?utm_campaign=1049&utm_source=git)** | Long Beach, California, United States | On Site | Dec 31 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Post Studios](https://jobright.ai/jobs/info/69558f2e9f1b381eb26ecf8f?utm_campaign=1049&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
