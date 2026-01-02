@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INSPYR Sports & Entertainment](www.inspyr-sports.com)** | **[Sports Maketing Intern](https://jobright.ai/jobs/info/695815d89f1b381eb270fb6a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 02 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Design & Production Intern](https://jobright.ai/jobs/info/69580df6f1f8465b79eeaf87?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 02 |
+| ↳ | **[Spring 2026 3D Design Intern](https://jobright.ai/jobs/info/69580c5a9f1b381eb270f907?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 02 |
+| **[HONOR](https://www.honornyc.com)** | **[Luxury Womenswear Paid Design Internship](https://jobright.ai/jobs/info/69580c44f1f8465b79eeaed6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[JBIER Inc.](https://www.jbierboutique.com)** | **[Web Design, Photography, and Videography Intern](https://jobright.ai/jobs/info/6957e7c8aa05c26e7ab1d2e1?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Jan 02 |
 | **[Aurate New York](https://www.auratec.com.br)** | **[Art Direction / Content Creation Intern](https://jobright.ai/jobs/info/6957d689aa05c26e7ab1ce52?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Lyft](https://www.lyft.com/)** | **[Architecture Design Intern (Summer 2026)](https://jobright.ai/jobs/info/693b6c67d4054a2bc0255bd3?utm_campaign=1049&utm_source=git)** | San Francisco County, CA | Hybrid | Jan 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ampliwork](https://qlytics.com/)** | **[AI UI/UX Intern](https://jobright.ai/jobs/info/693744561c1c2161c13f2311?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 31 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Spring 2026 UX Intern (Bachelors)](https://jobright.ai/jobs/info/68f00a39de50091dbfa5190f?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | Remote | Dec 31 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68cee99ffb49c96ca6ea43d6?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Dec 31 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Design Intern (Spring 2026)](https://jobright.ai/jobs/info/690e31c4d046ab6061cfb2fd?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 31 |
-| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Dr. Charles Fountain Internship Program](https://jobright.ai/jobs/info/6954b0b5f1f8465b79ebf2e9?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Dec 30 |
-| **[MillerKnoll](http://www.millerknoll.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/695490b8f1f8465b79ebbff7?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Dec 30 |
-| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6954826daa05c26e7aaefd54?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
