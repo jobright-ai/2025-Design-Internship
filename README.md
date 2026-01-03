@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Creative Operations Intern (May to August)](https://jobright.ai/jobs/info/68cea715846f0b04af67c0d0?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Jan 03 |
+| **[Monigle](https://www.monigle.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/693c94b949a7695fbd035659?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 03 |
 | **[Nightwing](nightwing.com)** | **[UI/UX Design Intern - 2026](https://jobright.ai/jobs/info/694b057f67a69734cac615c7?utm_campaign=1049&utm_source=git)** | Sterling, VA | On Site | Jan 03 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/693ce0b750bbaf76505006f7?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 03 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical UX Content Strategist Intern](https://jobright.ai/jobs/info/69203d0500c9ee50eaec089e?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 03 |
@@ -69,7 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Creative (Summer 2026)](https://jobright.ai/jobs/info/6958b7e0f1f8465b79ef5144?utm_campaign=1049&utm_source=git)** | Montgomery, AL | Hybrid | Jan 02 |
 | ↳ | **[Intern, Creative (Summer 2026)](https://jobright.ai/jobs/info/6958a647aa05c26e7ab27573?utm_campaign=1049&utm_source=git)** | Jackson, MS | Hybrid | Jan 02 |
 | ↳ | **[Intern, Creative (Summer 2026)](https://jobright.ai/jobs/info/6958a9b9f1f8465b79ef2cfa?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
-| **[SER.O.YA](https://seroya.nyc)** | **[Fashion Design Internship](https://jobright.ai/jobs/info/69587b629f1b381eb2716553?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jan 02 |
+| **[SEROYA](https://seroya.nyc)** | **[Fashion Design Internship](https://jobright.ai/jobs/info/69587b629f1b381eb2716553?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jan 02 |
 | **[Zynga](http://www.zynga.com)** | **[Technical Art Intern - Harry Potter Puzzles and Spells](https://jobright.ai/jobs/info/69586bb59f1b381eb2715c34?utm_campaign=1049&utm_source=git)** | Toronto, Canada | Remote | Jan 02 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69586b089f1b381eb27156a8?utm_campaign=1049&utm_source=git)** | Irving, TX | Hybrid | Jan 02 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Los Angeles](https://jobright.ai/jobs/info/6938a66bb95c305f206de514?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 02 |
@@ -135,10 +137,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/691d2d1b7481340785ed485b?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jan 01 |
 | **[adidas](https://www.adidas-group.com)** | **[2026 US Undergraduate Internship - Apparel Development](https://jobright.ai/jobs/info/695643ecf1f8465b79ed2947?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 01 |
 | ↳ | **[2026 US Undergraduate Internship - Graphic Design (Portland & Los Angeles)](https://jobright.ai/jobs/info/695643ddf1f8465b79ed2942?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
-| **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern (New graduate)](https://jobright.ai/jobs/info/695630bcf1f8465b79ed1eb3?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Jan 01 |
 | **[Upbound Group](https://www.upbound.com)** | **[Content & Design Intern](https://jobright.ai/jobs/info/69562ae7aa05c26e7ab067c9?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jan 01 |
 | **[Wiley|Wilson](https://www.wileywilson.com/)** | **[Architect - Intern  (New graduate)](https://jobright.ai/jobs/info/69570a589f1b381eb2701dd9?utm_campaign=1049&utm_source=git)** | Lynchburg,VA,US | Hybrid | Dec 31 |
-| **[Vast](https://www.vast.space)** | **[2026 Summer Internship - Brand Design (Marketing)](https://jobright.ai/jobs/info/6944a768a7227b3ece66544a?utm_campaign=1049&utm_source=git)** | Long Beach, California, United States | On Site | Dec 31 |
+| **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Brand Design (Marketing)](https://jobright.ai/jobs/info/6944a768a7227b3ece66544a?utm_campaign=1049&utm_source=git)** | Long Beach, California, United States | On Site | Dec 31 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Post Studios](https://jobright.ai/jobs/info/69558f2e9f1b381eb26ecf8f?utm_campaign=1049&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6938af5eaabec14a727d9f12?utm_campaign=1049&utm_source=git)** | Ridgefield, CT | Hybrid | Dec 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Garver](https://garverusa.com/)** | **[Federal Intern - Landscape Architecture](https://jobright.ai/jobs/info/68ad1426daf1431824c9a40d?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Dec 31 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec9bd4d4b0106e703ea888?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 31 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Washington, DC](https://jobright.ai/jobs/info/693899a5a0dde7020e312edc?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 31 |
-| ↳ | **[Summer 2026 Design Internship Program – Chicago](https://jobright.ai/jobs/info/6938a334a0dde7020e314038?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
