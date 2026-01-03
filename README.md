@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative (Summer 2026)](https://jobright.ai/jobs/info/69589e8f9f1b381eb271795e?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Jan 02 |
 | ↳ | **[Intern, Creative (Summer 2026)](https://jobright.ai/jobs/info/69589ae3f1f8465b79ef2a44?utm_campaign=1049&utm_source=git)** | New Orleans, LA | Hybrid | Jan 02 |
+| ↳ | **[Intern, Creative (Summer 2026)](https://jobright.ai/jobs/info/6958ba95aa05c26e7ab29d46?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jan 02 |
+| ↳ | **[Intern, Creative (Summer 2026)](https://jobright.ai/jobs/info/6958b7e0f1f8465b79ef5144?utm_campaign=1049&utm_source=git)** | Montgomery, AL | Hybrid | Jan 02 |
 | ↳ | **[Intern, Creative (Summer 2026)](https://jobright.ai/jobs/info/6958a647aa05c26e7ab27573?utm_campaign=1049&utm_source=git)** | Jackson, MS | Hybrid | Jan 02 |
 | ↳ | **[Intern, Creative (Summer 2026)](https://jobright.ai/jobs/info/6958a9b9f1f8465b79ef2cfa?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
 | **[SER.O.YA](https://seroya.nyc)** | **[Fashion Design Internship](https://jobright.ai/jobs/info/69587b629f1b381eb2716553?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jan 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec9bd4d4b0106e703ea888?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Dec 31 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Washington, DC](https://jobright.ai/jobs/info/693899a5a0dde7020e312edc?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Dec 31 |
 | ↳ | **[Summer 2026 Design Internship Program – Chicago](https://jobright.ai/jobs/info/6938a334a0dde7020e314038?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
-| **[MGIC](https://www.mgic.com)** | **[CX Strategy & Digital Experience Intern](https://jobright.ai/jobs/info/6947ca6a63141d188457918e?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 31 |
-| **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ec8fbc1eecd439f43f9e8f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
