@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austin AI Hub](https://www.linkedin.com/company/104862526)** | **[UX & Digital Content Strategy Intern (Spring Semester · Educational · Unpaid)](https://jobright.ai/jobs/info/695984bdf1f8465b79f0024a?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Jan 03 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/68cd0a46e23def7af55b414b?utm_campaign=1049&utm_source=git)** | Latham, NY | On Site | Jan 03 |
 | **[Product Manager Accelerator](https://www.pmaccelerator.io/)** | **[AI UI/UX Designer Intern - AI ML/Gen AI Design & Development](https://jobright.ai/jobs/info/695948a7aa05c26e7ab32a81?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/694206ec14ee092a690023a1?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 03 |
@@ -89,13 +90,13 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69583c589f1b381eb271270b?utm_campaign=1049&utm_source=git)** | Honolulu, HI | Hybrid | Jan 02 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Stamford](https://jobright.ai/jobs/info/69389d57a0dde7020e31355b?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Jan 02 |
 | **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/695831adf1f8465b79eec52b?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 02 |
-| ↳ | **[Intern Architect](https://jobright.ai/jobs/info/69583d3faa05c26e7ab22a78?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 02 |
+| **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Blue Earth Graphic Design Intern](https://jobright.ai/jobs/info/69597ac6f1f8465b79efef1e?utm_campaign=1049&utm_source=git)** | Sioux City, IA | Hybrid | Jan 02 |
+| **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/69583d3faa05c26e7ab22a78?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 02 |
 | ↳ | **[Intern Architect](https://jobright.ai/jobs/info/69583d549f1b381eb2712a85?utm_campaign=1049&utm_source=git)** | Red Deer, Alberta, Canada | On Site | Jan 02 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Design & Production Intern](https://jobright.ai/jobs/info/69580df6f1f8465b79eeaf87?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 02 |
 | ↳ | **[Spring 2026 3D Design Intern](https://jobright.ai/jobs/info/69580c5a9f1b381eb270f907?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 02 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Design Workshop Foundation Internship](https://jobright.ai/jobs/info/6959252ef1f8465b79efb97c?utm_campaign=1049&utm_source=git)** | US-CO-Denver | On Site | Jan 02 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Blue Earth Graphic Design Intern](https://jobright.ai/jobs/info/69582533f1f8465b79eebb62?utm_campaign=1049&utm_source=git)** | US-IA-Sioux City | Hybrid | Jan 02 |
-| **[JBIER Inc.](https://www.jbierboutique.com)** | **[Web Design, Photography, and Videography Intern](https://jobright.ai/jobs/info/6957e7c8aa05c26e7ab1d2e1?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Jan 02 |
 | **[Lyft](https://www.lyft.com/)** | **[Architecture Design Intern (Summer 2026)](https://jobright.ai/jobs/info/693b6c67d4054a2bc0255bd3?utm_campaign=1049&utm_source=git)** | San Francisco County, CA | Hybrid | Jan 02 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, Product Design](https://jobright.ai/jobs/info/693b7815d4054a2bc0255f0a?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 02 |
 | **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6933fad3a0dde7020e2f37ee?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Jan 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Raleigh](https://jobright.ai/jobs/info/6938b75eaabec14a727da443?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Dec 31 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/691c997122a2cb4b9bd1b9be?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Dec 31 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Pittsburgh](https://jobright.ai/jobs/info/6938b0a9aabec14a727da02a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Dec 31 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938ce47b95c305f206e005a?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
