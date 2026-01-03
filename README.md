@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Product Manager Accelerator](https://www.pmaccelerator.io/)** | **[AI UI/UX Designer Intern - AI ML/Gen AI Design & Development](https://jobright.ai/jobs/info/695948a7aa05c26e7ab32a81?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 03 |
+| **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/694206ec14ee092a690023a1?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 03 |
 | **[Talentix](https://thetalentix.com/)** | **[UI/UX Design Intern – AI Tools & Prototyping](https://jobright.ai/jobs/info/6959364eaa05c26e7ab30c91?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Jan 03 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69592d3cf1f8465b79efc05a?utm_campaign=1049&utm_source=git)** | Irving, TX | Hybrid | Jan 03 |
 | **[Balance Now](https://www.balance.ca)** | **[WordPress Designer](https://jobright.ai/jobs/info/69592c07aa05c26e7ab30944?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 03 |
@@ -82,14 +84,12 @@ For a complete list, click the following sortable link below:
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Los Angeles](https://jobright.ai/jobs/info/6938a66bb95c305f206de514?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 02 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jan 02 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69584f809f1b381eb271384f?utm_campaign=1049&utm_source=git)** | Support Center, 1707 Market Place Blvd., Suite 200, Irving, TX | Hybrid | Jan 02 |
-| **[CTC EdTech](www.ctcedtech.com)** | **[Product & Digital Design Intern](https://jobright.ai/jobs/info/69584e8ef1f8465b79eeed9f?utm_campaign=1049&utm_source=git)** | San Jose, CA | Remote | Jan 02 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Photography Intern](https://jobright.ai/jobs/info/695847f0f1f8465b79eeeac1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[LECHERY](https://lecherynewyork.com/)** | **[Fashion Intern](https://jobright.ai/jobs/info/69583d50f1f8465b79eee507?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69583c589f1b381eb271270b?utm_campaign=1049&utm_source=git)** | Honolulu, HI | Hybrid | Jan 02 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Stamford](https://jobright.ai/jobs/info/69389d57a0dde7020e31355b?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Jan 02 |
 | **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/695831adf1f8465b79eec52b?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 02 |
-| **[Todd](https://toddagriscience.com)** | **[Motion Designer Intern (Summer '26)](https://jobright.ai/jobs/info/695827eff1f8465b79eebd98?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 02 |
-| **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/69583d3faa05c26e7ab22a78?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 02 |
+| ↳ | **[Intern Architect](https://jobright.ai/jobs/info/69583d3faa05c26e7ab22a78?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 02 |
 | ↳ | **[Intern Architect](https://jobright.ai/jobs/info/69583d549f1b381eb2712a85?utm_campaign=1049&utm_source=git)** | Red Deer, Alberta, Canada | On Site | Jan 02 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Design & Production Intern](https://jobright.ai/jobs/info/69580df6f1f8465b79eeaf87?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 02 |
 | ↳ | **[Spring 2026 3D Design Intern](https://jobright.ai/jobs/info/69580c5a9f1b381eb270f907?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 02 |
