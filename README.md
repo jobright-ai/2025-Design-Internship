@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SER.O.YA](https://seroya.nyc)** | **[Fashion Design Internship](https://jobright.ai/jobs/info/69587b629f1b381eb2716553?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jan 02 |
 | **[Zynga](http://www.zynga.com)** | **[Technical Art Intern - Harry Potter Puzzles and Spells](https://jobright.ai/jobs/info/69586bb59f1b381eb2715c34?utm_campaign=1049&utm_source=git)** | Toronto, Canada | Remote | Jan 02 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69586b089f1b381eb27156a8?utm_campaign=1049&utm_source=git)** | Irving, TX | Hybrid | Jan 02 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Los Angeles](https://jobright.ai/jobs/info/6938a66bb95c305f206de514?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Industrial Design Internship (Year-Long)](https://jobright.ai/jobs/info/69388b1daabec14a727d6d17?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Dec 31 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Seattle](https://jobright.ai/jobs/info/6938a03cb95c305f206dd729?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Dec 31 |
 | ↳ | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/6938a1ecb95c305f206ddb19?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Dec 31 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Color Raw Materials Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/691bf27b22a2cb4b9bd17c8f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
