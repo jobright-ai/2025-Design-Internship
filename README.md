@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Antunes](http://www.ajantunes.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/695bfc5faa05c26e7ab55362?utm_campaign=1049&utm_source=git)** | Carol Stream, IL | On Site | Jan 05 |
 | **[Brother USA](https://brother-usa.com)** | **[UI/UX Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf57af1f8465b79f20676?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/695befa9f1f8465b79f1f296?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jan 05 |
 | ↳ | **[Summer 2026 Design and Production Internship, Los Angeles - Onsite](https://jobright.ai/jobs/info/695beda922c9dc0d3d53c2d6?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Jan 05 |
 | **[Maiden Home](https://www.maidenhome.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/695be98922c9dc0d3d53bb75?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Resort Renovation Interior Design Intern](https://jobright.ai/jobs/info/695bdfa3f1f8465b79f1e0ff?utm_campaign=1049&utm_source=git)** | Orlando Corporate Headquarters | Hybrid | Jan 05 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Styling Intern](https://jobright.ai/jobs/info/695bdc2722c9dc0d3d53b364?utm_campaign=1049&utm_source=git)** | Lititz, PA | On Site | Jan 05 |
+| **[Blue Revival](https://www.bluerevival.com/)** | **[Social Media & Fashion Intern](https://jobright.ai/jobs/info/695bfaa2f1f8465b79f20915?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[Venn](venn.ca/?utm_source=linkedin)** | **[Design Intern (Product & Marketing) — Summer 2026](https://jobright.ai/jobs/info/695befba22c9dc0d3d53c892?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[Graphic Design & Digital Content Intern](https://jobright.ai/jobs/info/695bcbbcaa05c26e7ab51f99?utm_campaign=1049&utm_source=git)** | Atlanta - Atlanta, GA 30303 | On Site | Jan 05 |
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/695bbe78f396ad6ddab16d70?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | Remote | Jan 05 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 02 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69336705764507023d1b53aa?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 02 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Design and Production Internship, New York - Onsite](https://jobright.ai/jobs/info/692e4125fa28370be26a2d72?utm_campaign=1049&utm_source=git)** | United States, New York, New York | On Site | Jan 02 |
-| **[Little Diversified Architectural Consulting](http://littleonline.com)** | **[2026 Interior Design / Interior Architecture Summer Intern](https://jobright.ai/jobs/info/695a29edaa05c26e7ab3bfe2?utm_campaign=1049&utm_source=git)** | North Charleston, South Carolina, United States | On Site | Jan 01 |
-| ↳ | **[2026 Architecture Summer Intern](https://jobright.ai/jobs/info/695a39609f1b381eb272cf5c?utm_campaign=1049&utm_source=git)** | North Charleston, South Carolina, United States | On Site | Jan 01 |
-| ↳ | **[2026 Architecture Summer Intern](https://jobright.ai/jobs/info/695a28f7f1f8465b79f07635?utm_campaign=1049&utm_source=git)** | McLean, Virginia, United States | On Site | Jan 01 |
-| ↳ | **[2026 Interior Design / Interior Architecture Summer Intern](https://jobright.ai/jobs/info/695a35219f1b381eb272cd5a?utm_campaign=1049&utm_source=git)** | Newport Beach, California, United States | On Site | Jan 01 |
-| ↳ | **[2026 Architecture Summer Intern](https://jobright.ai/jobs/info/695a35159f1b381eb272cd56?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Jan 01 |
+| **[Little Diversified Architectural Consulting](http://littleonline.com)** | **[2026 Architecture Summer Intern](https://jobright.ai/jobs/info/695a39609f1b381eb272cf5c?utm_campaign=1049&utm_source=git)** | North Charleston, South Carolina, United States | On Site | Jan 01 |
 | ↳ | **[2026 Interior Design / Interior Architecture Summer Intern](https://jobright.ai/jobs/info/695a2ef49f1b381eb272ca5f?utm_campaign=1049&utm_source=git)** | McLean, Virginia, United States | On Site | Jan 01 |
-| ↳ | **[2026 Architecture Summer Intern](https://jobright.ai/jobs/info/695a38aff1f8465b79f07f8a?utm_campaign=1049&utm_source=git)** | Newport Beach, California, United States | On Site | Jan 01 |
+| ↳ | **[2026 Architecture Summer Intern](https://jobright.ai/jobs/info/695a3452aa05c26e7ab3c704?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Jan 01 |
+| ↳ | **[2026 Architecture Summer Intern](https://jobright.ai/jobs/info/695a28f7f1f8465b79f07635?utm_campaign=1049&utm_source=git)** | McLean, Virginia, United States | On Site | Jan 01 |
 | ↳ | **[2026 Interior Design / Interior Architecture Summer Intern](https://jobright.ai/jobs/info/695a2769aa05c26e7ab3becb?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Jan 01 |
+| ↳ | **[2026 Interior Design / Interior Architecture Summer Intern](https://jobright.ai/jobs/info/695a35219f1b381eb272cd5a?utm_campaign=1049&utm_source=git)** | Newport Beach, California, United States | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
