@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Generac](https://www.generac.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/695d2848f5f3c43f38e1ed29?utm_campaign=1049&utm_source=git)** | Waukesha, WI | On Site | Jan 06 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Content Specialist - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695d27cef5f3c43f38e1ecd4?utm_campaign=1049&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jan 06 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Kansas City)](https://jobright.ai/jobs/info/68d510e12ed36439e51e4820?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jan 06 |
 | **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/6942151b50bbaf765053eb2a?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Jan 06 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6942135f50bbaf765053e79f?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Jan 06 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/694201bebdcf884a5addba91?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 06 |
+| **[Manejah PR](https://www.manejahpr.com/)** | **[Part-Time Content Intern (Interior Design + Social Media)](https://jobright.ai/jobs/info/695d2703f1f8465b79f34fc7?utm_campaign=1049&utm_source=git)** | Greater Boston | Hybrid | Jan 06 |
 | **[Corsair](http://www.corsair.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/694066a4aa598a08c3f006a3?utm_campaign=1049&utm_source=git)** | Milpitas, CA | On Site | Jan 06 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Winter Intern - Architecture](https://jobright.ai/jobs/info/69420742bdcf884a5addc032?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
 | **[Vivint](http://www.vivint.com)** | **[UX Intern](https://jobright.ai/jobs/info/69407b60aa598a08c3f0187f?utm_campaign=1049&utm_source=git)** | Lehi, UT | Hybrid | Jan 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/695c89be9a87b95a9397de6e?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 05 |
 | ↳ | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/695c88b5f1f8465b79f2acf4?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jan 05 |
 | ↳ | **[Student Internship - Interior Design - Summer 2026 - Morristown](https://jobright.ai/jobs/info/695c836b5e4962051b59a119?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | Jan 05 |
-| ↳ | **[Student Internship – Architecture – Summer 2026 – Chicago](https://jobright.ai/jobs/info/695c8e009a87b95a9397e1ee?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 05 |
-| ↳ | **[Student Internship - Interior Design - Summer 2026 - Denver](https://jobright.ai/jobs/info/695c88aa9a87b95a9397ddc0?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 05 |
-| ↳ | **[Student Internship - Interior Design - Summer 2026 - Northwest Region](https://jobright.ai/jobs/info/695c8990f1f8465b79f2adb7?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
