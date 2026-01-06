@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[UX Content Strategist Intern](https://jobright.ai/jobs/info/6940be1f50bbaf765052bcaf?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 06 |
+| **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Jan 06 |
+| **[NRG Energy](http://www.nrg.com/)** | **[UX Intern](https://jobright.ai/jobs/info/69407ae349a7695fbd05fae2?utm_campaign=1049&utm_source=git)** | Utah, United States | Hybrid | Jan 06 |
+| **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69406c9a50bbaf7650526ee7?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Washington, DC](https://jobright.ai/jobs/info/693899a5a0dde7020e312edc?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 06 |
+| **[Soccer XS](http://www.soccerxs.com)** | **[Winter Photography & Marketing Intern](https://jobright.ai/jobs/info/695cdada5e4962051b5a0113?utm_campaign=1049&utm_source=git)** | Windsor, CT | Hybrid | Jan 06 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Creative Services Internship Summer 2026](https://jobright.ai/jobs/info/695cc7a75e4962051b59e9be?utm_campaign=1049&utm_source=git)** | Egg Harbor, NJ | On Site | Jan 06 |
 | **[Netup](https://www.netup.social)** | **[Brand designer Intern - Mandarin Speaking](https://jobright.ai/jobs/info/695cbd1d5e4962051b59e195?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 05 |
 | **[GFF](http://gff.com)** | **[Summer Internships- Interior Design](https://jobright.ai/jobs/info/695cda021dfa954d1c4701ab?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 05 |
@@ -140,10 +146,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Internship - Interior Design - Summer 2026 - Morristown](https://jobright.ai/jobs/info/695c836b5e4962051b59a119?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | Jan 05 |
 | ↳ | **[Student Internship - Interior Design - Summer 2026 - Denver](https://jobright.ai/jobs/info/695c88aa9a87b95a9397ddc0?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 05 |
 | ↳ | **[Student Internship – Architecture – Summer 2026 – Chicago](https://jobright.ai/jobs/info/695c8e009a87b95a9397e1ee?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 05 |
-| ↳ | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/695c8ce99a87b95a9397e0f7?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Jan 05 |
 | ↳ | **[Student Internship - Interior Design - Summer 2026 - Northwest Region](https://jobright.ai/jobs/info/695c8990f1f8465b79f2adb7?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
-| ↳ | **[Student Internship - Architecture - Summer 2026 - Morristown](https://jobright.ai/jobs/info/695c8e2e9a87b95a9397e21a?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | Jan 05 |
+| ↳ | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/695c8ce99a87b95a9397e0f7?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Jan 05 |
 | ↳ | **[Student Internship - Architecture - Summer 2026 - Northwest Region](https://jobright.ai/jobs/info/695c8f709a87b95a9397e363?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 05 |
+| ↳ | **[Student Internship - Architecture - Summer 2026 - Morristown](https://jobright.ai/jobs/info/695c8e2e9a87b95a9397e21a?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | Jan 05 |
 | ↳ | **[Student Internship - Interior Design - Summer 2026 - Newport Beach](https://jobright.ai/jobs/info/695c851f5e4962051b59a2b8?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | On Site | Jan 05 |
 | ↳ | **[Student Internship - Interior Design - Summer 2026 - Northwest Region](https://jobright.ai/jobs/info/695c84395e4962051b59a1e5?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Jan 05 |
 | ↳ | **[Student Internship - Interior Design - Summer 2026 - Northwest Region](https://jobright.ai/jobs/info/695c84715e4962051b59a219?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Internship – Interior Design – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/695c6605f1f8465b79f28a1e?utm_campaign=1049&utm_source=git)** | Houston, TX, US | On Site | Jan 05 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/695c6604aa05c26e7ab5cf64?utm_campaign=1049&utm_source=git)** | Seattle, CO | On Site | Jan 05 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/695c65e2f1f8465b79f289ef?utm_campaign=1049&utm_source=git)** | Austin, TX, US | On Site | Jan 05 |
-| ↳ | **[Student Internship - Architecture - Summer 2026 - Northwest Region](https://jobright.ai/jobs/info/695c652ff1f8465b79f28923?utm_campaign=1049&utm_source=git)** | Seattle, WA, US | On Site | Jan 05 |
-| **[Placement By Design, Inc.](http://www.placementbydesign.com)** | **[Architectural Intern/Emerging Professional](https://jobright.ai/jobs/info/695c6488aa05c26e7ab5cdd2?utm_campaign=1049&utm_source=git)** | Plano, Texas | On Site | Jan 05 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Interior Design - Summer 2026 - Northwest Region](https://jobright.ai/jobs/info/695c63f0f1f8465b79f287b8?utm_campaign=1049&utm_source=git)** | San Jose, CA, US | On Site | Jan 05 |
-| **[Intact](http://www.intactfc.com)** | **[Accessibility Designer/Researcher - 4 month Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c6031f1f8465b79f284d8?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 05 |
-| **[Placement By Design, Inc.](http://www.placementbydesign.com)** | **[Architectural Intern/Emerging Professional](https://jobright.ai/jobs/info/695c903d5e4962051b59ae12?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jan 05 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Interior Design - Summer 2026 - Denver](https://jobright.ai/jobs/info/695c82b19a87b95a9397d34d?utm_campaign=1049&utm_source=git)** | Denver, CO, US | On Site | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
