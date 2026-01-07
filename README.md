@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Remote | Jan 07 |
+| **[Vaupell](http://www.vaupell.com/)** | **[Media Design and Marketing Intern](https://jobright.ai/jobs/info/695eb2f0a112b402660d681d?utm_campaign=1049&utm_source=git)** | Constantine, MI | On Site | Jan 07 |
+| **[Salt XC](https://www.saltxc.com/)** | **[Summer Squad - Design Coordinator](https://jobright.ai/jobs/info/695eb009a112b402660d65b2?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/695ea91a08ab990f2829e431?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[Enerpac Tool Group](https://www.enerpactoolgroup.com/)** | **[Industrial Design intern/Co-Op - Summer 2026](https://jobright.ai/jobs/info/695e9ebfa112b402660d49e7?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 07 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/695e9cdfa112b402660d453b?utm_campaign=1049&utm_source=git)** | United States-California-Los Angeles | On Site | Jan 07 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/695e9be90badca5763af078f?utm_campaign=1049&utm_source=git)** | De Pere, WI | On Site | Jan 07 |
+| **[Salt XC](https://www.saltxc.com/)** | **[Summer Squad - Creative Intern (Art Direction/Copywriting)](https://jobright.ai/jobs/info/695eb8fe0badca5763af2f93?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 07 |
 | **[The Kitchen North America](https://www.wearethekitchen.com)** | **[Summer Squad - Creative Intern (Art Direction/Copywriting)](https://jobright.ai/jobs/info/695e958d08ab990f2829d474?utm_campaign=1049&utm_source=git)** | Toronto, Canada | Hybrid | Jan 07 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/695e84e308ab990f2829cb0d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[The Kitchen North America](https://www.wearethekitchen.com)** | **[Summer Squad - Digital Intern](https://jobright.ai/jobs/info/695e71a8a112b402660d2abb?utm_campaign=1049&utm_source=git)** | Toronto, Canada | Hybrid | Jan 07 |
+| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Apparel Design Internship in Paris!](https://jobright.ai/jobs/info/695ea7be08ab990f2829e37e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jan 07 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Content Design Intern](https://jobright.ai/jobs/info/68f6e31e9a63986de7583300?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Jan 07 |
 | **[Pinterest](https://www.pinterest.com/)** | **[UX Engineer Intern](https://jobright.ai/jobs/info/692513d9c0cefa13343e6422?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/6942204a50bbaf765053fda9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Riot Games](http://www.riotgames.com)** | **[Technical Art Intern - Rigging, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091c74bcccf20de59d74d0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
 | ↳ | **[3D Environment Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909268f4a1b456627afd450?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
 | ↳ | **[Concept Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690916bed046ab6061cd12a2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
-| ↳ | **[Visual Design Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092865bcccf20de59d80bc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Color Raw Materials Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d428ffbd62a0a6565ca4d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 06 |
-| ↳ | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d4016f5f3c43f38e1f94d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 06 |
-| **[YINAN NEW YORK](yinan.us)** | **[Social Media and Digital Content Internship in Fashion – YINAN (Midtown, NYC)](https://jobright.ai/jobs/info/695d3d28fbd62a0a6565c68b?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Jan 06 |
-| **[Price Industries](https://www.priceindustries.com)** | **[Internship - Creative Specialist](https://jobright.ai/jobs/info/69459fe463141d1884552cdb?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Jan 06 |
-| **[Generac](https://www.generac.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/695d2848f5f3c43f38e1ed29?utm_campaign=1049&utm_source=git)** | Waukesha, WI | On Site | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
