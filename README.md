@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tighe & Bond](https://www.tighebond.com)** | **[Marketing - Graphic Design Internship - Summer 2026](https://jobright.ai/jobs/info/695db60bf1f8465b79f3fcb2?utm_campaign=1049&utm_source=git)** | Westwood, MA | Hybrid | Jan 06 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/695db334f1f8465b79f3fa3a?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 06 |
+| **[A Tiger Cub](https://atigercub.com)** | **[Visual Development &I Illustrator](https://jobright.ai/jobs/info/695db322fbd62a0a656665ce?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
+| **[Rho](https://rho.co)** | **[Design Intern, Brand](https://jobright.ai/jobs/info/695daca1f5f3c43f38e2916f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 06 |
+| **[NAiiA](https://shopnaiia.com/)** | **[UGC Content Creator & Marketing Internship](https://jobright.ai/jobs/info/695da5d6fbd62a0a6566596e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
+| **[Enerpac Tool Group](https://www.enerpactoolgroup.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/695da1b1fbd62a0a65665479?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 06 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b0e464b53a1551f94be83?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Jan 06 |
 | **[Great Lakes Academy](www.greatlakesbaseball.us)** | **[Social Media - Graphic Design Intern (Summer)](https://jobright.ai/jobs/info/695d99b9f5f3c43f38e27f68?utm_campaign=1049&utm_source=git)** | Woodbury, MN | Hybrid | Jan 06 |
+| **[Design Observer](http://designobserver.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/695da8e2f1f8465b79f3f1e6?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Jan 06 |
+| **[Buckingham Companies](http://buckingham.com)** | **[Design Intern (Indianapolis, IN)](https://jobright.ai/jobs/info/695db479f1f8465b79f3fb82?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jan 06 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Graphic Design Season 2026](https://jobright.ai/jobs/info/695d82e6f1f8465b79f3b4d7?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Jan 06 |
 | **[Wight & Company](http://wightco.com)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/695d809efbd62a0a65661afc?utm_campaign=1049&utm_source=git)** | Darien, Illinois, United States | On Site | Jan 06 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Trend, Concept & Print Design  Intern - Summer 2026](https://jobright.ai/jobs/info/695d8064f5f3c43f38e250cc?utm_campaign=1049&utm_source=git)** | Times Square Tower-ANN-New York, NY 10036 | On Site | Jan 06 |
@@ -67,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Shepley Bulfinch](http://shepleybulfinch.com)** | **[2026 Summer Design Intern Houston (Hybrid)](https://jobright.ai/jobs/info/695d6851f1f8465b79f39278?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jan 06 |
 | **[DISH Media](https://media.dish.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/695d78e8f1f8465b79f3a64e?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | Jan 06 |
 | **[Austin AI Hub](https://www.linkedin.com/company/104862526)** | **[UX & Digital Content Strategy Intern (Spring Semester · Educational · Unpaid)](https://jobright.ai/jobs/info/695d76c7fbd62a0a65660e3f?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Jan 06 |
-| **[Cambria](http://www.cambriausa.com)** | **[Sales Technology Productivity Intern](https://jobright.ai/jobs/info/695d7287f1f8465b79f39eab?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Jan 06 |
 | **[Mentally United](https://www.mentallyunited.com/)** | **[Digital Media & Graphic Design Intern – Spring 2026](https://jobright.ai/jobs/info/695d6c20f1f8465b79f39704?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 06 |
 | **[Rho](https://rho.co)** | **[Design Intern, Brand](https://jobright.ai/jobs/info/695d8881fbd62a0a65662b2c?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jan 06 |
 | **[Buckingham Companies](http://buckingham.com)** | **[Design Intern (Indianapolis, IN)](https://jobright.ai/jobs/info/695d6adaf1f8465b79f3957e?utm_campaign=1049&utm_source=git)** | US-IN-Indianapolis | On Site | Jan 06 |
@@ -76,6 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Copy of Summer Internships- Interior Design](https://jobright.ai/jobs/info/695d88c6f5f3c43f38e26266?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jan 06 |
 | **[Architecture Incorporated](https://www.architectureinc.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/695d968dfbd62a0a656649bb?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Jan 06 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/695d90d9f5f3c43f38e273b0?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Jan 06 |
+| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/695d9dc3f5f3c43f38e283bf?utm_campaign=1049&utm_source=git)** | Rapid City, SD | On Site | Jan 06 |
 | **[GFF](http://gff.com)** | **[Copy of Summer Internships- Interior Design](https://jobright.ai/jobs/info/695d8024fbd62a0a65661a06?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 06 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Creative Services Intern - Telemundo Colorado](https://jobright.ai/jobs/info/695d5e5cf1f8465b79f389e5?utm_campaign=1049&utm_source=git)** | Centennial, CO | On Site | Jan 06 |
 | **[Steelcase](https://www.steelcase.com/)** | **[2026 Summer Industrial Design Intern](https://jobright.ai/jobs/info/695d5ceef5f3c43f38e225aa?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Jan 06 |
@@ -84,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Sonnet Insurance](https://www.sonnet.ca/)** | **[Content Specialist - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695d7c33fbd62a0a656615ce?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
 | **[Ocean Front Entertainment](https://www.oceanfrontent.com)** | **[Graphic Design and Social Media Intern](https://jobright.ai/jobs/info/695d576dfbd62a0a6565f06b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 06 |
 | **[SHP](http://www.shp.com)** | **[Landscape Architecture Internship (Summer 2026)](https://jobright.ai/jobs/info/695d8658f5f3c43f38e25d9e?utm_campaign=1049&utm_source=git)** | Cincinnati,OH,US | On Site | Jan 06 |
-| **[Rethink](https://rethinkideas.com/)** | **[Design Internship](https://jobright.ai/jobs/info/695d7143f5f3c43f38e23d35?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 06 |
+| **[Shepley Bulfinch](http://shepleybulfinch.com)** | **[2026 Summer Design Intern Durham (Hybrid)](https://jobright.ai/jobs/info/695d6e37f1f8465b79f39964?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | Jan 06 |
 | **[Riot Games](http://www.riotgames.com)** | **[Technical Art Intern - Rigging, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091c74bcccf20de59d74d0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
 | ↳ | **[3D Environment Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909268f4a1b456627afd450?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
 | ↳ | **[Concept Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690916bed046ab6061cd12a2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
@@ -127,9 +135,9 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[UI Graphic Design Intern (PICO) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/695c8bc55e4962051b59aa6b?utm_campaign=1049&utm_source=git)** | San Jose, CA | Remote | Jan 05 |
 | **[Detroit Pistons](https://pistons.nba.com/)** | **[Motion Design Intern - Summer 2026](https://jobright.ai/jobs/info/695c87f69a87b95a9397dd33?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jan 05 |
 | **[Beyer Blinder Belle](http://beyerblinderbelle.com)** | **[Urban Design & Planning Intern -Summer 2026](https://jobright.ai/jobs/info/695c86bf9a87b95a9397dbcd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 05 |
-| **[LOFT](https://www.loft.com/)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/695c8624f1f8465b79f2aa7f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[Talbots](http://www.talbots.com)** | **[CAD, Print & Pattern Intern - Summer 2026](https://jobright.ai/jobs/info/695c84c2f1f8465b79f2a917?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 05 |
-| **[LOFT](https://www.loft.com/)** | **[Technical Design Intern - Ann Taylor & LOFT - Summer 2026](https://jobright.ai/jobs/info/695c82145e4962051b59a035?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 05 |
+| **[LOFT](https://www.loft.com/)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/695c82eff1f8465b79f2a755?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 05 |
+| ↳ | **[Technical Design Intern - Ann Taylor & LOFT - Summer 2026](https://jobright.ai/jobs/info/695c82145e4962051b59a035?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/695c820b5e4962051b59a031?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Jan 05 |
 | ↳ | **[Student Internship – Interior Design – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/695c8197f1f8465b79f2a5f9?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 05 |
 | **[Talbots](http://www.talbots.com)** | **[Haven Well Within Design Intern - Summer 2026](https://jobright.ai/jobs/info/695c812d9a87b95a9397d21c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 05 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Internship - Architecture - Summer 2026 - Boston](https://jobright.ai/jobs/info/695c7d1f5e4962051b599ba6?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 05 |
 | **[Talbots](http://www.talbots.com)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/695c7c939a87b95a9397ccfe?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Architecture - Summer 2026 - Denver](https://jobright.ai/jobs/info/695c7c855e4962051b599b07?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 05 |
-| ↳ | **[Student Internship - Interior Design - Summer 2026 - Northwest Region](https://jobright.ai/jobs/info/695c7c789a87b95a9397cce6?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 05 |
-| ↳ | **[Student Internship - Interior Design - Summer 2026 - Boston](https://jobright.ai/jobs/info/695c7c719a87b95a9397cce2?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 05 |
-| ↳ | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/695c7c6df1f8465b79f29fef?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Jan 05 |
-| ↳ | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/695c7c185e4962051b599aa3?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 05 |
-| ↳ | **[Student Internship - Architecture - Summer 2026 - San Diego](https://jobright.ai/jobs/info/695c7ba85e4962051b599a49?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 05 |
-| ↳ | **[Student Internship - Architecture - Summer 2026 - Phoenix](https://jobright.ai/jobs/info/695c7b9af1f8465b79f29f3c?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jan 05 |
-| ↳ | **[Student Internship – Interior Design – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/695c7ad9f1f8465b79f29e68?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Jan 05 |
-| **[SRAM](https://www.sram.com/en/quarq)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/695c7a9d9a87b95a9397cb01?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
