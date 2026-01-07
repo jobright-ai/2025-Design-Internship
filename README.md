@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Kitchen North America](https://www.wearethekitchen.com)** | **[Summer Squad - Digital Intern](https://jobright.ai/jobs/info/695e71a8a112b402660d2abb?utm_campaign=1049&utm_source=git)** | Toronto, Canada | Hybrid | Jan 07 |
+| **[Illumio](http://www.illumio.com)** | **[Technical Content Design Intern](https://jobright.ai/jobs/info/68f6e31e9a63986de7583300?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Jan 07 |
 | **[Pinterest](https://www.pinterest.com/)** | **[UX Engineer Intern](https://jobright.ai/jobs/info/692513d9c0cefa13343e6422?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/6942204a50bbaf765053fda9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 07 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69252bc227bf2f41a2c3cc93?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 07 |
@@ -72,10 +74,17 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69252497f0beb0723261b0a6?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 07 |
 | ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69251d4638cd5478a8d62823?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 07 |
 | **[Zoox](https://www.zoox.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69418672bdcf884a5add462b?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Jan 07 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[2026 Bus Dev – Visual Media Intern](https://jobright.ai/jobs/info/6926507927bf2f41a2c45367?utm_campaign=1049&utm_source=git)** | Hanover, MD | Hybrid | Jan 07 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - City Design](https://jobright.ai/jobs/info/69252379d47de4798eccd436?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
 | ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/694780757d506e3808f2c34d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
-| ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69252885d47de4798eccd987?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
+| **[Intuit](https://www.intuit.com)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/69423fb150bbaf76505422d8?utm_campaign=1049&utm_source=git)** | Mountain View, CA | Remote | Jan 07 |
+| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69252885d47de4798eccd987?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
 | ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6927ca98d47de4798ece086f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 07 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69421e5d14ee092a6900480a?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Jan 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945222ad1953b5d11be1e12?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Jan 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6941c46dbdcf884a5add7cb6?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jan 07 |
+| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6924d1fdc0cefa13343e25f0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 07 |
+| ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6925199938cd5478a8d62554?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 07 |
 | **[Teradata](https://www.teradata.com)** | **[Content Design Intern](https://jobright.ai/jobs/info/695df5714b7a590c5b95626f?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jan 07 |
 | **[TradePronto](https://www.tradepronto.com)** | **[Intern - Product Demo Video Creation](https://jobright.ai/jobs/info/695e38060badca5763aeb449?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 07 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Interior Designer, Summer 2026](https://jobright.ai/jobs/info/695e1d702847344df473a0f7?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Jan 07 |
@@ -122,11 +131,9 @@ For a complete list, click the following sortable link below:
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Intern, Brand and Design](https://jobright.ai/jobs/info/695d7c6ff5f3c43f38e2499a?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Jan 06 |
 | **[DISH Media](https://media.dish.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/695d78e8f1f8465b79f3a64e?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | Jan 06 |
 | **[Austin AI Hub](https://www.linkedin.com/company/104862526)** | **[UX & Digital Content Strategy Intern (Spring Semester · Educational · Unpaid)](https://jobright.ai/jobs/info/695d76c7fbd62a0a65660e3f?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Jan 06 |
-| **[Cambria](http://www.cambriausa.com)** | **[Sales Technology Productivity Intern](https://jobright.ai/jobs/info/695d7287f1f8465b79f39eab?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | Jan 06 |
-| **[Buckingham Companies](http://buckingham.com)** | **[Design Intern (Indianapolis, IN)](https://jobright.ai/jobs/info/695d6adaf1f8465b79f3957e?utm_campaign=1049&utm_source=git)** | US-IN-Indianapolis | On Site | Jan 06 |
+| **[GFF](http://gff.com)** | **[Interior Design Summer Internship](https://jobright.ai/jobs/info/695d9d61fbd62a0a6566512a?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 06 |
 | **[American Chemical Society](https://www.acs.org/)** | **[Asset Manager Intern​](https://jobright.ai/jobs/info/695d68a1f5f3c43f38e23189?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 06 |
-| **[GFF](http://gff.com)** | **[Copy of Summer Internships- Interior Design](https://jobright.ai/jobs/info/695d9d61fbd62a0a6566512a?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 06 |
-| ↳ | **[Copy of Summer Internships- Interior Design](https://jobright.ai/jobs/info/695d88c6f5f3c43f38e26266?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jan 06 |
+| **[GFF](http://gff.com)** | **[Copy of Summer Internships- Interior Design](https://jobright.ai/jobs/info/695d88c6f5f3c43f38e26266?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jan 06 |
 | **[Architecture Incorporated](https://www.architectureinc.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/695d968dfbd62a0a656649bb?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Jan 06 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/695d90d9f5f3c43f38e273b0?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Jan 06 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/695d9dc3f5f3c43f38e283bf?utm_campaign=1049&utm_source=git)** | Rapid City, SD | On Site | Jan 06 |
@@ -138,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Sonnet Insurance](https://www.sonnet.ca/)** | **[Content Specialist - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695d7c33fbd62a0a656615ce?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
 | **[Ocean Front Entertainment](https://www.oceanfrontent.com)** | **[Graphic Design and Social Media Intern](https://jobright.ai/jobs/info/695d576dfbd62a0a6565f06b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 06 |
 | **[SHP](http://www.shp.com)** | **[Landscape Architecture Internship (Summer 2026)](https://jobright.ai/jobs/info/695d8658f5f3c43f38e25d9e?utm_campaign=1049&utm_source=git)** | Cincinnati,OH,US | On Site | Jan 06 |
+| **[Shepley Bulfinch](http://shepleybulfinch.com)** | **[2026 Summer Design Intern Durham (Hybrid)](https://jobright.ai/jobs/info/695d6e37f1f8465b79f39964?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | Jan 06 |
 | **[Riot Games](http://www.riotgames.com)** | **[Technical Art Intern - Rigging, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69091c74bcccf20de59d74d0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
 | ↳ | **[3D Environment Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/6909268f4a1b456627afd450?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
 | ↳ | **[Concept Art Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690916bed046ab6061cd12a2?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Generac](https://www.generac.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/695d2848f5f3c43f38e1ed29?utm_campaign=1049&utm_source=git)** | Waukesha, WI | On Site | Jan 06 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Content Specialist - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695d27cef5f3c43f38e1ecd4?utm_campaign=1049&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jan 06 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[User Researcher - 2026 Summer Internship](https://jobright.ai/jobs/info/694081f4aa598a08c3f025cf?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Jan 06 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Kansas City)](https://jobright.ai/jobs/info/68d510e12ed36439e51e4820?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jan 06 |
-| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/6942151b50bbaf765053eb2a?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Jan 06 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6942135f50bbaf765053e79f?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Jan 06 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/694201bebdcf884a5addba91?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 06 |
-| **[Manejah PR](https://www.manejahpr.com/)** | **[Part-Time Content Intern (Interior Design + Social Media)](https://jobright.ai/jobs/info/695d2703f1f8465b79f34fc7?utm_campaign=1049&utm_source=git)** | Greater Boston | Hybrid | Jan 06 |
-| **[Corsair](http://www.corsair.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/694066a4aa598a08c3f006a3?utm_campaign=1049&utm_source=git)** | Milpitas, CA | On Site | Jan 06 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Winter Intern - Architecture](https://jobright.ai/jobs/info/69420742bdcf884a5addc032?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
-| **[Vivint](http://www.vivint.com)** | **[UX Intern](https://jobright.ai/jobs/info/69407b60aa598a08c3f0187f?utm_campaign=1049&utm_source=git)** | Lehi, UT | Hybrid | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
