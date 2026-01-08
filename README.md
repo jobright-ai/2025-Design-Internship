@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Brand Design – Summer 2026 – Houston/Dallas](https://jobright.ai/jobs/info/695f7067a1bbea1d9a7a2d4b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 08 |
+| **[Epic Games](https://epicgames.com)** | **[Tech Designer Intern](https://jobright.ai/jobs/info/68eefbc9e0db92422580d2ef?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Jan 08 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[UX/UI Design & Research Intern - Summer 2026](https://jobright.ai/jobs/info/68f1d6a5f462172a5a7dcf38?utm_campaign=1049&utm_source=git)** | Westminster, CO | Hybrid | Jan 08 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 - Detroit](https://jobright.ai/jobs/info/695f73690badca5763afdbde?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jan 08 |
+| ↳ | **[Student Internship – Brand Design – Summer 2026 – Houston/Dallas](https://jobright.ai/jobs/info/695f7067a1bbea1d9a7a2d4b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 08 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - UX Design](https://jobright.ai/jobs/info/693cd3f450bbaf76504fffc0?utm_campaign=1049&utm_source=git)** | United States | On Site | Jan 08 |
 | **[A Thinking Ape](http://athinkingape.com)** | **[2D Game Artist Co-op/Intern (May - Aug 2026 term)](https://jobright.ai/jobs/info/695f533c0badca5763afc9f2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 07 |
 | **[Ripple](http://ripple.com)** | **[Web Experience Design Intern (Summer 2026)](https://jobright.ai/jobs/info/695f52dea112b402660e076f?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jan 07 |
 | **[Saleseraian](https://salesera.net/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/695f4b09a112b402660e044d?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jan 07 |
+| **[Sigma](http://sigmacomputing.com)** | **[Content Design Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/69422537bdcf884a5addef59?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 07 |
 | **[Ripple](http://ripple.com)** | **[Web Experience Design Intern (Summer 2026)](https://jobright.ai/jobs/info/695f41500badca5763afc270?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fashion Design](https://jobright.ai/jobs/info/695f3ee7a1bbea1d9a7a1613?utm_campaign=1049&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Jan 07 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 - Detroit](https://jobright.ai/jobs/info/695f3677a112b402660dfad9?utm_campaign=1049&utm_source=git)** | Detroit, MI, US | On Site | Jan 07 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6941c46dbdcf884a5add7cb6?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jan 07 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6924d1fdc0cefa13343e25f0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 07 |
 | ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6925199938cd5478a8d62554?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 07 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Interior Designer, Summer 2026](https://jobright.ai/jobs/info/695e1d702847344df473a0f7?utm_campaign=1049&utm_source=git)** | Newark, CA | On Site | Jan 07 |
-| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Chico's Design Intern - Summer 2026](https://jobright.ai/jobs/info/695e52960badca5763aec19e?utm_campaign=1049&utm_source=git)** | Fort Myers, FL | On Site | Jan 06 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Design Intern](https://jobright.ai/jobs/info/695e021861d5475ac1a0c42a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 06 |
-| **[Business of Home](https://businessofhome.com)** | **[Design Intern](https://jobright.ai/jobs/info/695df7a4821f2713684b29f2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 06 |
-| **[Crusoe](https://crusoe.ai)** | **[Product Design Intern, Summer 2026](https://jobright.ai/jobs/info/695deb854b7a590c5b955311?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 06 |
-| **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/695dea2a4b7a590c5b955158?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 06 |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Los Angeles](https://jobright.ai/jobs/info/6938a66bb95c305f206de514?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
