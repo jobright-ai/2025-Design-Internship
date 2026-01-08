@@ -144,9 +144,9 @@ For a complete list, click the following sortable link below:
 | **[Woof](https://mywoof.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/695dd3ee924bd9135dd45a94?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Jan 06 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/695db334f1f8465b79f3fa3a?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 06 |
 | **[Rho](https://rho.co)** | **[Design Intern, Brand](https://jobright.ai/jobs/info/695daca1f5f3c43f38e2916f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 06 |
-| **[Lionakis](http://lionakis.com)** | **[Student Intern Summer 2026 - Architecture](https://jobright.ai/jobs/info/695ebf32a112b402660d73d9?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Jan 06 |
+| **[Lionakis](http://lionakis.com)** | **[Student Intern Summer 2026 - Architecture](https://jobright.ai/jobs/info/695ecd6b08ab990f282a1914?utm_campaign=1049&utm_source=git)** | Orange County, CA | On Site | Jan 06 |
 | ↳ | **[Student Intern Summer 2026 - Interiors](https://jobright.ai/jobs/info/695ec83708ab990f282a1336?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Jan 06 |
-| ↳ | **[Student Intern Summer 2026 - Architecture](https://jobright.ai/jobs/info/695ecd6b08ab990f282a1914?utm_campaign=1049&utm_source=git)** | Orange County, CA | On Site | Jan 06 |
+| ↳ | **[Student Intern Summer 2026 - Architecture](https://jobright.ai/jobs/info/695ebf32a112b402660d73d9?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Jan 06 |
 | **[Infinity Marketing](http://infinitymkt.com)** | **[Graphic Design Intern (Spring 2026)](https://jobright.ai/jobs/info/695dc3ffefe5dd5cbd3d9e9c?utm_campaign=1049&utm_source=git)** | Greenville,SC,US | On Site | Jan 06 |
 | **[American Chemical Society](https://www.acs.org/)** | **[UX Design Intern](https://jobright.ai/jobs/info/695ddc6589be3415c7463a23?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 06 |
 | **[Enerpac Tool Group](https://www.enerpactoolgroup.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/695da1b1fbd62a0a65665479?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 06 |
