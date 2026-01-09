@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Washington, DC](https://jobright.ai/jobs/info/693899a5a0dde7020e312edc?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 08 |
 | **[Upbound Group](https://www.upbound.com)** | **[Personalization Intern](https://jobright.ai/jobs/info/69562b22f1f8465b79ed1c3e?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jan 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696020d2a1bbea1d9a7af07d?utm_campaign=1049&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Jan 08 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69601f7ca1bbea1d9a7aeed3?utm_campaign=1049&utm_source=git)** | State College, PA, New York, NY or Remote | Remote | Jan 08 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[growlocal SEO](www.usegrowlocal.com)** | **[Website Creation Intern](https://jobright.ai/jobs/info/696010ef7ebc25398eb5fb13?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 08 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Internship – Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69600970a1bbea1d9a7ad250?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 08 |
 | **[Paramount](https://www.paramount.com)** | **[UX & Product Design Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/696008e4a1bbea1d9a7ad1da?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 08 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/696027bfa1bbea1d9a7af9a5?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Jan 08 |
 | **[American Chemical Society](https://www.acs.org/)** | **[UX Research Intern](https://jobright.ai/jobs/info/69600409a112b402660eb45c?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 08 |
 | **[Lillup](https://www.lillup.com/)** | **[Brand Marketing Designer Intern — Apple Liquid Glass Design (Remote, Unpaid)](https://jobright.ai/jobs/info/695ffb68a112b402660eae6a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/695ff84da1bbea1d9a7ac373?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Jan 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Remote | Jan 07 |
 | **[Vaupell](http://www.vaupell.com/)** | **[Media Design and Marketing Intern](https://jobright.ai/jobs/info/695eb2f0a112b402660d681d?utm_campaign=1049&utm_source=git)** | Constantine, MI | On Site | Jan 07 |
 | **[Salt XC](https://www.saltxc.com/)** | **[Summer Squad - Design Coordinator](https://jobright.ai/jobs/info/695eb009a112b402660d65b2?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 07 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/695ea91a08ab990f2829e431?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
-| **[HOK](http://www.hok.com/)** | **[Student Intern - Interiors](https://jobright.ai/jobs/info/695eea690badca5763af6831?utm_campaign=1049&utm_source=git)** | Kansas City, MO, USA | Hybrid | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
