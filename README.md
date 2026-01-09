@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/694b13d61224705e90022d72?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 08 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/693898bda0dde7020e312da7?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 08 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69606ce8a1bbea1d9a7b4695?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 08 |
+| **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Capital Program - Summer 2026](https://jobright.ai/jobs/info/69609767a1bbea1d9a7b5ca6?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
 | **[Proper Cloth](https://propercloth.com)** | **[Spring 2026 Product Styling Internship](https://jobright.ai/jobs/info/69608e7fa1bbea1d9a7b587f?utm_campaign=1049&utm_source=git)** | New York County, NY | On Site | Jan 08 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/696068d3a1bbea1d9a7b42f4?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 08 |
 | **[160over90](http://160over90.com/)** | **[Intern, Creative](https://jobright.ai/jobs/info/69606813a112b402660f29de?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 08 |
@@ -146,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Ripple](http://ripple.com)** | **[Web Experience Design Intern (Summer 2026)](https://jobright.ai/jobs/info/695f41500badca5763afc270?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fashion Design](https://jobright.ai/jobs/info/695f3ee7a1bbea1d9a7a1613?utm_campaign=1049&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Jan 07 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 - Detroit](https://jobright.ai/jobs/info/695f3677a112b402660dfad9?utm_campaign=1049&utm_source=git)** | Detroit, MI, US | On Site | Jan 07 |
+| **[Intact](http://www.intactfc.com)** | **[UX/ UI Designer– 4 month Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695f18dca112b402660ddf92?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 07 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Intern - Art Director](https://jobright.ai/jobs/info/695f2ca5a112b402660df558?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Jan 07 |
 | **[Peter Millar](http://www.petermillar.com/)** | **[Photo Production Internship](https://jobright.ai/jobs/info/695f2c79a112b402660df525?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
 | ↳ | **[Styling Internship](https://jobright.ai/jobs/info/695f26c80badca5763afb407?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SoFi](https://www.sofi.com)** | **[Intern, Creative Production Studio](https://jobright.ai/jobs/info/695f1f960badca5763afadad?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | **[G/FORE](https://www.gfore.com)** | **[G/FORE Photo Studio Internship](https://jobright.ai/jobs/info/695f51a1a1bbea1d9a7a1e1b?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – New York](https://jobright.ai/jobs/info/6938a91baabec14a727d988c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 07 |
-| **[Intact](http://www.intactfc.com)** | **[UX/ UI Designer– 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695f18dca112b402660ddf92?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 07 |
 | **[Travis County](https://www.traviscountytx.gov)** | **[Interior Designer Internship](https://jobright.ai/jobs/info/695f187d0badca5763afa03d?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 07 |
-| **[HDR](http://www.hdrinc.com)** | **[Lighting Design Intern](https://jobright.ai/jobs/info/695f17900badca5763af9e55?utm_campaign=1049&utm_source=git)** | United States-New Jersey-Pennington | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
