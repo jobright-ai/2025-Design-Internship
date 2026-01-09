@@ -57,21 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Content Design: Internship Opportunities](https://jobright.ai/jobs/info/6944053294730b739877356b?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Jan 09 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/68ea31cd4ae33307d3eda388?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Jan 09 |
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/694422b694730b73987748b9?utm_campaign=1049&utm_source=git)** | Manhattan, NY | Hybrid | Jan 09 |
 | **[Continua Interiors](https://continuainteriors.com)** | **[Design Intern - Furniture Dealer](https://jobright.ai/jobs/info/690a3be4d046ab6061cda4d8?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Jan 09 |
 | **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Industrial Design (Marketing)](https://jobright.ai/jobs/info/69445288dd382f5f566a6d85?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Jan 09 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Design: Internship Opportunities](https://jobright.ai/jobs/info/6960f8b1f3f4cd132505f9e0?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Jan 09 |
+| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd5c9821486c423c7cae?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Jan 09 |
 | **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446bd950bbaf7650566909?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | On Site | Jan 09 |
-| ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/69446b2450bbaf76505668b8?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | Jan 09 |
+| **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Brand Design (Marketing)](https://jobright.ai/jobs/info/6944eaa250bbaf765056fd36?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Jan 09 |
+| **[Pinterest](https://www.pinterest.com/)** | **[UX Quantitative Research Intern](https://jobright.ai/jobs/info/690aafe6d046ab6061cdf29f?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 09 |
+| **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446b2450bbaf76505668b8?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | Jan 09 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/69610dc0a112b402660f8ccf?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Jan 09 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Digital Sculpting](https://jobright.ai/jobs/info/68e88eb209580a2fe57f91a6?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Jan 09 |
 | **[Sweetwater](http://www.sweetwater.com/)** | **[Graphic Artist Intern - Campus Assets and Rock Camp](https://jobright.ai/jobs/info/694481bcdd382f5f566aae49?utm_campaign=1049&utm_source=git)** | Fort Wayne, IN | On Site | Jan 09 |
 | ↳ | **[Print Shop Internship](https://jobright.ai/jobs/info/694487c494730b739877c1d3?utm_campaign=1049&utm_source=git)** | Fort Wayne, IN | On Site | Jan 09 |
 | **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern - Men's Lee Design](https://jobright.ai/jobs/info/694224ac50bbaf7650540379?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Jan 09 |
+| ↳ | **[Summer Intern, CAD Artist/ Design Assistant, Graphics](https://jobright.ai/jobs/info/6942261214ee092a690052c2?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Jan 09 |
 | **[Autodesk](http://www.autodesk.com)** | **[PhD Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/6933cdd5a0dde7020e2f20d4?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Jan 09 |
 | **[KCI](http://www.kci.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6959dad5aa05c26e7ab38019?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jan 09 |
-| **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69447c5b50bbaf7650568ec8?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 09 |
+| **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/694477e250bbaf765056836a?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 09 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69447c98dd382f5f566aaa9d?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 09 |
 | **[Meta](https://www.metacareers.com/)** | **[UX Research Scientist Intern, Multimodal Conversation Analyst (PhD)](https://jobright.ai/jobs/info/69451cd863141d188454a612?utm_campaign=1049&utm_source=git)** | Redmond, WA | Remote | Jan 09 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Platform Team Intern](https://jobright.ai/jobs/info/6928bc0cd47de4798ece39fd?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Jan 09 |
@@ -111,12 +116,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Design Internship Program – Pittsburgh](https://jobright.ai/jobs/info/6938b0a9aabec14a727da02a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jan 08 |
 | ↳ | **[Summer 2026 Design Internship Program – Raleigh](https://jobright.ai/jobs/info/6938b75eaabec14a727da443?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Jan 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69605af07ebc25398eb656bb?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 08 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Creative](https://jobright.ai/jobs/info/69603158a112b402660eefeb?utm_campaign=1049&utm_source=git)** | NY-New York (OL) | On Site | Jan 08 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Washington, DC](https://jobright.ai/jobs/info/693899a5a0dde7020e312edc?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 08 |
 | **[Upbound Group](https://www.upbound.com)** | **[Personalization Intern](https://jobright.ai/jobs/info/69562b22f1f8465b79ed1c3e?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jan 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696020d2a1bbea1d9a7af07d?utm_campaign=1049&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Jan 08 |
 | **[Adnan Anwar Design](http://www.adnananwardesign.com)** | **[Editorial & Content Intern – Interior Design & Lifestyle (NYC HYBRID)](https://jobright.ai/jobs/info/6960439ba112b402660f1178?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 08 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69601f7ca1bbea1d9a7aeed3?utm_campaign=1049&utm_source=git)** | State College, PA, New York, NY or Remote | Remote | Jan 08 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Creative](https://jobright.ai/jobs/info/69603ba1a112b402660f0b4b?utm_campaign=1049&utm_source=git)** | NY-New York (OL) | On Site | Jan 08 |
 | **[Velera](https://www.velera.com)** | **[Intern - UX Research & Strategy - Remote](https://jobright.ai/jobs/info/69603a4da112b402660f0784?utm_campaign=1049&utm_source=git)** | Remote-USA | Remote | Jan 08 |
 | **[Lee Enterprises](http://lee.net/)** | **[Photo/Video Summer Intern-Omaha World-Herald](https://jobright.ai/jobs/info/69601961a112b402660ecf54?utm_campaign=1049&utm_source=git)** | Omaha, NE, USA | On Site | Jan 08 |
 | **[Atlantic Emergency Solutions](https://www.atlanticemergency.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69603302a112b402660ef48a?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | Jan 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ripple](http://ripple.com)** | **[Brand Design Intern, Brand Studio (Summer 2026)](https://jobright.ai/jobs/info/6943599b50bbaf7650553920?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 08 |
 | **[Randa Apparel & Accessories](http://www.randa.net)** | **[Tech Design Internship - Summer 2026](https://jobright.ai/jobs/info/690b4f7ad046ab6061ce3a9f?utm_campaign=1049&utm_source=git)** | Farmers Branch, TX | On Site | Jan 08 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Workplace Design (Winter 2026)](https://jobright.ai/jobs/info/694318e9dd382f5f56690c0a?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 08 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/694321a194730b7398762282?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Jan 08 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69430c2994730b7398761095?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 08 |
-| **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Workplace Design (Winter 2026)](https://jobright.ai/jobs/info/6943129b50bbaf765054ea84?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 08 |
-| **[KCI](http://www.kci.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6944e90d50bbaf765056efb2?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 08 |
-| **[Galloway & Company, LLC](https://gallowayus.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/68ed4f0870b66e2345d3c8f2?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
