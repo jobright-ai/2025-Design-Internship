@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Art + Commerce](https://jobright.ai/jobs/info/69460ce57d506e3808f162fb?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
+| **[NRG Energy](http://www.nrg.com/)** | **[Brand & Production Support Intern](https://jobright.ai/jobs/info/6945f789d1953b5d11bf00c1?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 10 |
+| **[Netflix](https://www.netflix.com)** | **[Consumer Insights (CI) / User Experience (UX) Research Internship - Summer 2026](https://jobright.ai/jobs/info/6952070629655e4dd65acbe1?utm_campaign=1049&utm_source=git)** | Los Gatos, CA | On Site | Jan 10 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb1d7c3c99cc1d96028c27?utm_campaign=1049&utm_source=git)** | San Jose, CA | Remote | Jan 10 |
+| **[Arup](http://www.arup.com)** | **[Architectural Design Intern (Available June 2026)](https://jobright.ai/jobs/info/6955e7edf1f8465b79ecd25b?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Jan 10 |
+| **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68efc5e1de50091dbfa50144?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Jan 10 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - 3D Art](https://jobright.ai/jobs/info/68d5de6f1f7fb2169ab14425?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 10 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, CBS New York (Summer 2026)](https://jobright.ai/jobs/info/6946111b63141d188455c06f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 10 |
+| ↳ | **[Creative Services Intern, CBS Philadelphia (Summer 2026)](https://jobright.ai/jobs/info/6946127b7d506e3808f169a5?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
+| ↳ | **[Creative Services Intern, CBS Minnesota (Summer 2026)](https://jobright.ai/jobs/info/69461801d1953b5d11bf3689?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Jan 10 |
+| **[Paramount](https://www.paramount.com)** | **[CBS Sports Design Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6946056fd1953b5d11bf21ec?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 10 |
+| **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68fb5fdb4129dd33cd131d21?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Jan 10 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/6938a1ecb95c305f206ddb19?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | **[Sleeper](https://sleeper.com)** | **[Graphic Designer (Intern-to-Hire)](https://jobright.ai/jobs/info/69621afd2cbf4e44756c14aa?utm_campaign=1049&utm_source=git)** | San Angelo Area | Hybrid | Jan 10 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/6961ff17e7ed9a5731bab3c8?utm_campaign=1049&utm_source=git)** | Lone Tree, CO | On Site | Jan 09 |
@@ -106,7 +118,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961b5eae7ed9a5731ba89da?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Jan 09 |
 | **[Protagonist](http://www.protagonist.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6961abc1a112b40266103d31?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 09 |
 | **[Virtru](https://www.virtru.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6961a40de7ed9a5731ba7abf?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 09 |
-| **[Mayhill Hospital](https://mayhillhospital.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69619a50a112b402661031e4?utm_campaign=1049&utm_source=git)** | King of Prussia, PA | On Site | Jan 09 |
 | **[D2L](http://www.d2l.com)** | **[User Experience Researcher - Spring 2026 Co-op](https://jobright.ai/jobs/info/69619bfef3f4cd132506a8cc?utm_campaign=1049&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Jan 09 |
 | **[Auctane](https://auctane.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69617370f3f4cd1325066b6a?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[CTC EdTech](www.ctcedtech.com)** | **[Product & Digital Design Intern](https://jobright.ai/jobs/info/69618be5e7ed9a5731ba688c?utm_campaign=1049&utm_source=git)** | San Jose, CA | Remote | Jan 09 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Continua Interiors](https://continuainteriors.com)** | **[Design Intern - Furniture Dealer](https://jobright.ai/jobs/info/690a3be4d046ab6061cda4d8?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Jan 09 |
 | **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Industrial Design (Marketing)](https://jobright.ai/jobs/info/69445288dd382f5f566a6d85?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Jan 09 |
 | **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446bd950bbaf7650566909?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | On Site | Jan 09 |
-| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/68efde109821486c423c7d63?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Jan 09 |
-| **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Brand Design (Marketing)](https://jobright.ai/jobs/info/6944eaa250bbaf765056fd36?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Jan 09 |
-| **[GigFinesse](https://www.gigfinesse.com/)** | **[Graphic Design Intern (Spring 2026)](https://jobright.ai/jobs/info/69614004f3f4cd1325063a34?utm_campaign=1049&utm_source=git)** | Austin, Texas (Remote) | Remote | Jan 09 |
-| **[Pinterest](https://www.pinterest.com/)** | **[UX Quantitative Research Intern](https://jobright.ai/jobs/info/690aafe6d046ab6061cdf29f?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 09 |
-| **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446b2450bbaf76505668b8?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | Jan 09 |
-| **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/69610dc0a112b402660f8ccf?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Jan 09 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Digital Sculpting](https://jobright.ai/jobs/info/68e88eb209580a2fe57f91a6?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Jan 09 |
-| **[Sweetwater](http://www.sweetwater.com/)** | **[Graphic Artist Intern - Campus Assets and Rock Camp](https://jobright.ai/jobs/info/694481bcdd382f5f566aae49?utm_campaign=1049&utm_source=git)** | Fort Wayne, IN | On Site | Jan 09 |
-| ↳ | **[Print Shop Internship](https://jobright.ai/jobs/info/694487c494730b739877c1d3?utm_campaign=1049&utm_source=git)** | Fort Wayne, IN | On Site | Jan 09 |
-| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern - Men's Lee Design](https://jobright.ai/jobs/info/694224ac50bbaf7650540379?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Jan 09 |
-| ↳ | **[Summer Intern, CAD Artist/ Design Assistant, Graphics](https://jobright.ai/jobs/info/6942261214ee092a690052c2?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
