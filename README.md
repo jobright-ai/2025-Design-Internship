@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NXTPRO SPORTS](http://www.nxtprohoops.com)** | **[Video Creative Internship](https://jobright.ai/jobs/info/696287b425e18715077f67db?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | Hybrid | Jan 10 |
+| **[Ullabelle](https://ullabelle.com)** | **[Creative Strategist and Social Media intern](https://jobright.ai/jobs/info/696286fc25e18715077f67b4?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Jan 10 |
+| **[A Tiger Cub](https://atigercub.com)** | **[Video Editor(Social Media)](https://jobright.ai/jobs/info/69627ed02cbf4e44756c68b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Community & Wellness Collective](cawcollective.org)** | **[Visual & Media Intern](https://jobright.ai/jobs/info/69626ad825e18715077f4839?utm_campaign=1049&utm_source=git)** | Greater St. Louis | Remote | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f13ad4ef766b3f0fd0a32b?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Customer Experience (UX) Intern / Summer 2026](https://jobright.ai/jobs/info/6946285763141d188455d1f7?utm_campaign=1049&utm_source=git)** | Brentwood, TN | Hybrid | Jan 10 |
@@ -87,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Netflix](https://www.netflix.com)** | **[Consumer Insights (CI) / User Experience (UX) Research Internship - Summer 2026](https://jobright.ai/jobs/info/6952070629655e4dd65acbe1?utm_campaign=1049&utm_source=git)** | Los Gatos, CA | On Site | Jan 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb1d7c3c99cc1d96028c27?utm_campaign=1049&utm_source=git)** | San Jose, CA | Remote | Jan 10 |
 | **[Arup](http://www.arup.com)** | **[Architectural Design Intern (Available June 2026)](https://jobright.ai/jobs/info/6955e7edf1f8465b79ecd25b?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Jan 10 |
+| **[Ontario Energy Board](https://oeb.ca)** | **[Co-op Student, Engagement, Digital and Creative Services](https://jobright.ai/jobs/info/6929f8724c474121999caf77?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
 | **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68efc5e1de50091dbfa50144?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Jan 10 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - 3D Art](https://jobright.ai/jobs/info/68d5de6f1f7fb2169ab14425?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 10 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, CBS New York (Summer 2026)](https://jobright.ai/jobs/info/6946111b63141d188455c06f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 10 |
@@ -124,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Design Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/6961aaf4a112b40266103c62?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jan 09 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Brand Design – Summer 2026 – Dallas](https://jobright.ai/jobs/info/6961aab4a112b40266103c1d?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jan 09 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6961a912e7ed9a5731ba7dd6?utm_campaign=1049&utm_source=git)** | Sarasota, FL 34236 US (Primary) | On Site | Jan 09 |
-| **[Kin Haus](http://www.thekinhaus.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6961c605e7ed9a5731ba97f9?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Jan 09 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Digital Solutions Summer Intern](https://jobright.ai/jobs/info/6961c231a112b40266105217?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 09 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (Vancouver, BC)](https://jobright.ai/jobs/info/6961a516a112b40266103839?utm_campaign=1049&utm_source=git)** | Vancouver, BC | Hybrid | Jan 09 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fa544146d3b6ec557b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 09 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Virtru](https://www.virtru.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6961a40de7ed9a5731ba7abf?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 09 |
 | **[D2L](http://www.d2l.com)** | **[User Experience Researcher - Spring 2026 Co-op](https://jobright.ai/jobs/info/69619bfef3f4cd132506a8cc?utm_campaign=1049&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Jan 09 |
 | **[Auctane](https://auctane.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69617370f3f4cd1325066b6a?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
-| **[CTC EdTech](www.ctcedtech.com)** | **[Product & Digital Design Intern](https://jobright.ai/jobs/info/69618be5e7ed9a5731ba688c?utm_campaign=1049&utm_source=git)** | San Jose, CA | Remote | Jan 09 |
 | **[Exiger](http://www.exiger.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69616c3df3f4cd13250662d1?utm_campaign=1049&utm_source=git)** | McLean, Virginia, United States | Hybrid | Jan 09 |
 | **[Champions Group Holdings](http://ChampionsGroupHoldings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696188e8f3f4cd13250696ad?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | Jan 09 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Packaging Design Intern](https://jobright.ai/jobs/info/69616ae3a112b402660fecff?utm_campaign=1049&utm_source=git)** | Shakopee, MN | On Site | Jan 09 |
 | **[Protagonist](http://www.protagonist.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69616a2ca112b402660fec34?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 09 |
 | **[Exiger](http://www.exiger.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6961661ff3f4cd1325065e8a?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Jan 09 |
 | **[Core Spaces](https://corespaces.com/)** | **[Intern, Design](https://jobright.ai/jobs/info/69615fbba112b402660fe3e4?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
-| **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/69615ec8f3f4cd13250656d1?utm_campaign=1049&utm_source=git)** | Lake Zurich, IL | On Site | Jan 09 |
-| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6903c972ff462851fefeec58?utm_campaign=1049&utm_source=git)** | Reading, PA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
