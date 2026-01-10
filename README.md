@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Remote | Jan 10 |
 | **[NXTPRO SPORTS](http://www.nxtprohoops.com)** | **[Video Creative Internship](https://jobright.ai/jobs/info/696287b425e18715077f67db?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | Hybrid | Jan 10 |
 | **[Ullabelle](https://ullabelle.com)** | **[Creative Strategist and Social Media intern](https://jobright.ai/jobs/info/696286fc25e18715077f67b4?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Jan 10 |
-| **[A Tiger Cub](https://atigercub.com)** | **[Video Editor(Social Media)](https://jobright.ai/jobs/info/69627ed02cbf4e44756c68b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Community & Wellness Collective](cawcollective.org)** | **[Visual & Media Intern](https://jobright.ai/jobs/info/69626ad825e18715077f4839?utm_campaign=1049&utm_source=git)** | Greater St. Louis | Remote | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f13ad4ef766b3f0fd0a32b?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Customer Experience (UX) Intern / Summer 2026](https://jobright.ai/jobs/info/6946285763141d188455d1f7?utm_campaign=1049&utm_source=git)** | Brentwood, TN | Hybrid | Jan 10 |
@@ -141,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Employer Brand Intern](https://jobright.ai/jobs/info/6961b977e7ed9a5731ba8d7a?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jan 09 |
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961985ae7ed9a5731ba735f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 09 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6961b9dba112b40266104a7d?utm_campaign=1049&utm_source=git)** | Waterloo, IA 50703 US (Primary) | On Site | Jan 09 |
-| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/6961b33be7ed9a5731ba8736?utm_campaign=1049&utm_source=git)** | Indianapolis,  IN | On Site | Jan 09 |
-| ↳ | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/6961b3a1a112b40266104421?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jan 09 |
+| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/6961b3a1a112b40266104421?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jan 09 |
+| ↳ | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/6961b33be7ed9a5731ba8736?utm_campaign=1049&utm_source=git)** | Indianapolis,  IN | On Site | Jan 09 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961b75da112b402661047e9?utm_campaign=1049&utm_source=git)** | JUPITER, FL | On Site | Jan 09 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Employer Brand Intern](https://jobright.ai/jobs/info/6961965ef3f4cd132506a443?utm_campaign=1049&utm_source=git)** | Orlando Corporate Headquarters | Hybrid | Jan 09 |
 | **[Accenture](https://www.accenture.com)** | **[Innovation Summer Advanced Degree Intern - Digital Experience- NAELFY26](https://jobright.ai/jobs/info/696195eff3f4cd132506a3cb?utm_campaign=1049&utm_source=git)** | San Francisco, 415 Mission Street, Corp | On Site | Jan 09 |
@@ -153,8 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961b5eae7ed9a5731ba89da?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Jan 09 |
 | **[Protagonist](http://www.protagonist.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6961abc1a112b40266103d31?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 09 |
 | **[Virtru](https://www.virtru.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6961a40de7ed9a5731ba7abf?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 09 |
-| **[Auctane](https://auctane.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69617834f3f4cd1325067168?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[D2L](http://www.d2l.com)** | **[User Experience Researcher - Spring 2026 Co-op](https://jobright.ai/jobs/info/69619bfef3f4cd132506a8cc?utm_campaign=1049&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Jan 09 |
+| **[Auctane](https://auctane.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69617370f3f4cd1325066b6a?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[Exiger](http://www.exiger.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69616c3df3f4cd13250662d1?utm_campaign=1049&utm_source=git)** | McLean, Virginia, United States | Hybrid | Jan 09 |
 | **[Champions Group Holdings](http://ChampionsGroupHoldings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696188e8f3f4cd13250696ad?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | Jan 09 |
+| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Packaging Design Intern](https://jobright.ai/jobs/info/69616ae3a112b402660fecff?utm_campaign=1049&utm_source=git)** | Shakopee, MN | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
