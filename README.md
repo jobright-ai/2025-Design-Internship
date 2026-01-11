@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Charlotte](https://charlottenc.gov/)** | **[Wayfinding & Signage Design Apprentice](https://jobright.ai/jobs/info/69640d4725e1871507809be2?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 11 |
+| **[Mississippi Mud Monsters](https://ondeck2025.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6964032e25e18715078080f1?utm_campaign=1049&utm_source=git)** | Pearl, MS | On Site | Jan 11 |
 | **[Applied Concepts, Inc.](https://www.stalkerradar.com/)** | **[UI Design Internship](https://jobright.ai/jobs/info/6963fed92cbf4e44756d9c40?utm_campaign=1049&utm_source=git)** | Richardson, TX | On Site | Jan 11 |
 | **[Business of Home](https://businessofhome.com)** | **[Design Intern](https://jobright.ai/jobs/info/6963dc98a112b4026611f7b9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[Enchanté Living](http://www.amgroupinc.com)** | **[Graphics Intern](https://jobright.ai/jobs/info/6963dbcd25e187150780726e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/6961b33be7ed9a5731ba8736?utm_campaign=1049&utm_source=git)** | Indianapolis,  IN | On Site | Jan 09 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961b75da112b402661047e9?utm_campaign=1049&utm_source=git)** | JUPITER, FL | On Site | Jan 09 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Employer Brand Intern](https://jobright.ai/jobs/info/6961965ef3f4cd132506a443?utm_campaign=1049&utm_source=git)** | Orlando Corporate Headquarters | Hybrid | Jan 09 |
-| **[Accenture](https://www.accenture.com)** | **[Innovation Summer Advanced Degree Intern - Digital Experience- NAELFY26](https://jobright.ai/jobs/info/696195eff3f4cd132506a3cb?utm_campaign=1049&utm_source=git)** | San Francisco, 415 Mission Street, Corp | On Site | Jan 09 |
-| ↳ | **[Innovation Summer Advanced Degree Intern - Digital Experience- NAELFY26](https://jobright.ai/jobs/info/69619525a112b40266102cc1?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
