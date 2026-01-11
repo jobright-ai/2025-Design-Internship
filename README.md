@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Drafting Intern](https://jobright.ai/jobs/info/692dff634c474121999d51ac?utm_campaign=1049&utm_source=git)** | Deer Lake, PA | On Site | Jan 11 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/694206ec14ee092a690023a1?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 10 |
 | **[SHM Architects](https://www.shmarchitects.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6962af032cbf4e44756c911f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | ↳ | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6962ae2525e18715077f75e7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Champions Group Holdings](http://ChampionsGroupHoldings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696188e8f3f4cd13250696ad?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | Jan 09 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Packaging Design Intern](https://jobright.ai/jobs/info/69616ae3a112b402660fecff?utm_campaign=1049&utm_source=git)** | Shakopee, MN | On Site | Jan 09 |
 | **[Protagonist](http://www.protagonist.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69616a2ca112b402660fec34?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 09 |
-| **[Exiger](http://www.exiger.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6961661ff3f4cd1325065e8a?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
