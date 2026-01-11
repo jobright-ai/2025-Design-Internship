@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f138d6e6870116b1f55011?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Jan 11 |
+| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d15f462172a5a7d3bdf?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Jan 11 |
+| **[Pandora](https://www.pandoragroup.com)** | **[Intern, Visual Merchandising](https://jobright.ai/jobs/info/6963986d2cbf4e44756d39e9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/68cfe877846f0b04af6861b7?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 11 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Digital Sculpting](https://jobright.ai/jobs/info/68e89d04c72beb74cb32087c?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Jan 11 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Drafting Intern](https://jobright.ai/jobs/info/692dff634c474121999d51ac?utm_campaign=1049&utm_source=git)** | Deer Lake, PA | On Site | Jan 11 |
@@ -113,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Visual Concepts](https://www.vcentertainment.com)** | **[Art Producer, Characters and Environments (Intern) - NBA 2K](https://jobright.ai/jobs/info/6961f772f3f4cd132506e39a?utm_campaign=1049&utm_source=git)** | Novato, CA | Remote | Jan 09 |
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Digital Solutions Summer Intern](https://jobright.ai/jobs/info/6961f65ea112b40266106d63?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 09 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961db94e7ed9a5731baa488?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Jan 09 |
-| **[Panasonic North America](https://homes.panasonic.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6961d47af3f4cd132506d355?utm_campaign=1049&utm_source=git)** | Newark, NJ | Remote | Jan 09 |
+| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6961d47af3f4cd132506d355?utm_campaign=1049&utm_source=git)** | Newark, NJ | Remote | Jan 09 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961ccf8e7ed9a5731ba9bf7?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Jan 09 |
 | **[Texas Instruments](http://www.ti.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6961cc3fe7ed9a5731ba9b8b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 09 |
 | **[Visual Concepts](https://www.vcentertainment.com)** | **[Art Producer, Characters and Environments (Intern) - NBA 2K](https://jobright.ai/jobs/info/6961cc22e7ed9a5731ba9b79?utm_campaign=1049&utm_source=git)** | Novato, CA | Remote | Jan 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Protagonist](http://www.protagonist.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6961abc1a112b40266103d31?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 09 |
 | **[Virtru](https://www.virtru.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6961a40de7ed9a5731ba7abf?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 09 |
 | **[Auctane](https://auctane.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69617834f3f4cd1325067168?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
-| **[D2L](http://www.d2l.com)** | **[User Experience Researcher - Spring 2026 Co-op](https://jobright.ai/jobs/info/69619bfef3f4cd132506a8cc?utm_campaign=1049&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Jan 09 |
-| **[Exiger](http://www.exiger.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69616c3df3f4cd13250662d1?utm_campaign=1049&utm_source=git)** | McLean, Virginia, United States | Hybrid | Jan 09 |
-| **[Champions Group Holdings](http://ChampionsGroupHoldings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696188e8f3f4cd13250696ad?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
