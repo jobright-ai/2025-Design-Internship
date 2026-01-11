@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/694206ec14ee092a690023a1?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 10 |
 | **[SHM Architects](https://www.shmarchitects.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6962af032cbf4e44756c911f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | ↳ | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6962ae2525e18715077f75e7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Remote | Jan 10 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Employer Brand Intern](https://jobright.ai/jobs/info/6961b977e7ed9a5731ba8d7a?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jan 09 |
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961985ae7ed9a5731ba735f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 09 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6961b9dba112b40266104a7d?utm_campaign=1049&utm_source=git)** | Waterloo, IA 50703 US (Primary) | On Site | Jan 09 |
-| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/6961b33be7ed9a5731ba8736?utm_campaign=1049&utm_source=git)** | Indianapolis,  IN | On Site | Jan 09 |
-| ↳ | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/6961b3a1a112b40266104421?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jan 09 |
+| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/6961b3a1a112b40266104421?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jan 09 |
+| ↳ | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/6961b33be7ed9a5731ba8736?utm_campaign=1049&utm_source=git)** | Indianapolis,  IN | On Site | Jan 09 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961b75da112b402661047e9?utm_campaign=1049&utm_source=git)** | JUPITER, FL | On Site | Jan 09 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Employer Brand Intern](https://jobright.ai/jobs/info/6961965ef3f4cd132506a443?utm_campaign=1049&utm_source=git)** | Orlando Corporate Headquarters | Hybrid | Jan 09 |
 | **[Accenture](https://www.accenture.com)** | **[Innovation Summer Advanced Degree Intern - Digital Experience- NAELFY26](https://jobright.ai/jobs/info/696195eff3f4cd132506a3cb?utm_campaign=1049&utm_source=git)** | San Francisco, 415 Mission Street, Corp | On Site | Jan 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Packaging Design Intern](https://jobright.ai/jobs/info/69616ae3a112b402660fecff?utm_campaign=1049&utm_source=git)** | Shakopee, MN | On Site | Jan 09 |
 | **[Protagonist](http://www.protagonist.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69616a2ca112b402660fec34?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 09 |
 | **[Exiger](http://www.exiger.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6961661ff3f4cd1325065e8a?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Jan 09 |
-| **[Core Spaces](https://corespaces.com/)** | **[Intern, Design](https://jobright.ai/jobs/info/69615fbba112b402660fe3e4?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
