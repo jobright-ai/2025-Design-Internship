@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f14b67ef766b3f0fd0b593?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 12 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern-Human Interface Design, Foundations](https://jobright.ai/jobs/info/69509c92ce13cd1056587f68?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 12 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Design Research Intern](https://jobright.ai/jobs/info/6959bb479f1b381eb27278e6?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Jan 12 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Creative Design](https://jobright.ai/jobs/info/6949080bd1953b5d11c21203?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Jan 12 |
+| **[Digy4](https://digy4.com)** | **[UX Designer — Canadian Intern - Jan to Apr - (Full Time only)](https://jobright.ai/jobs/info/6964e0102cbf4e44756e4f5f?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jan 12 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/694907ec7d506e3808f43ae7?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Jan 12 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Area Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/692cbd5e66796e3028f93534?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 12 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Industrial Design Intern, Summer 2026](https://jobright.ai/jobs/info/69462740d1953b5d11bf42c2?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | Jan 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6961d47af3f4cd132506d355?utm_campaign=1049&utm_source=git)** | Newark, NJ | Remote | Jan 09 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961ccf8e7ed9a5731ba9bf7?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Jan 09 |
 | **[Texas Instruments](http://www.ti.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6961cc3fe7ed9a5731ba9b8b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 09 |
-| **[Visual Concepts](https://www.vcentertainment.com)** | **[Art Producer, Characters and Environments (Intern) - NBA 2K](https://jobright.ai/jobs/info/6961cc22e7ed9a5731ba9b79?utm_campaign=1049&utm_source=git)** | Novato, CA | Remote | Jan 09 |
-| **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/6961ca2ff3f4cd132506cc9e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
-| **[2K](http://2k.com)** | **[Art Producer, Characters and Environments (Intern) - NBA 2K](https://jobright.ai/jobs/info/6961c825f3f4cd132506cb6e?utm_campaign=1049&utm_source=git)** | Novato, California, United States | Remote | Jan 09 |
-| **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (Vancouver, BC)](https://jobright.ai/jobs/info/6961c5eda112b402661054ca?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 09 |
-| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Seattle](https://jobright.ai/jobs/info/6938a03cb95c305f206dd729?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
