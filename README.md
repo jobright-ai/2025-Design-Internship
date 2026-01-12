@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Unscripted Development Intern, Summer 2026](https://jobright.ai/jobs/info/696489cca112b4026612722b?utm_campaign=1049&utm_source=git)** | Washington, DC, USA | Hybrid | Jan 11 |
+| **[Philo Homes](https://philo.homes/)** | **[Graphic Design Intern (Bilingual Mandarin)](https://jobright.ai/jobs/info/6964804d25e187150780ec20?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jan 11 |
 | **[AIR Health](https://www.airhealth.co/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69646927a112b40266124fc3?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 11 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Resort Renovation Interior Design Intern](https://jobright.ai/jobs/info/69644a7c2cbf4e44756ddc9a?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jan 11 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/6964435da112b402661227ec?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/69619b99a112b402661032dc?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Jan 09 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/69619a28e7ed9a5731ba74c3?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 09 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Employer Brand Intern](https://jobright.ai/jobs/info/6961b977e7ed9a5731ba8d7a?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jan 09 |
-| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961985ae7ed9a5731ba735f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 09 |
-| **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6961b9dba112b40266104a7d?utm_campaign=1049&utm_source=git)** | Waterloo, IA 50703 US (Primary) | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
