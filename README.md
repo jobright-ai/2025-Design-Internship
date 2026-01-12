@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/6965119aa112b4026612e55f?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Jan 12 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Design Intern](https://jobright.ai/jobs/info/69651161a112b4026612e53a?utm_campaign=1049&utm_source=git)** | US - GA - Atlanta | On Site | Jan 12 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/68f14b67ef766b3f0fd0b593?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 12 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern-Human Interface Design, Foundations](https://jobright.ai/jobs/info/69509c92ce13cd1056587f68?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 12 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Design Research Intern](https://jobright.ai/jobs/info/6959bb479f1b381eb27278e6?utm_campaign=1049&utm_source=git)** | Niles, IL | Hybrid | Jan 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Digital Solutions Summer Intern](https://jobright.ai/jobs/info/6961f65ea112b40266106d63?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 09 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961db94e7ed9a5731baa488?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Jan 09 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6961d47af3f4cd132506d355?utm_campaign=1049&utm_source=git)** | Newark, NJ | Remote | Jan 09 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961ccf8e7ed9a5731ba9bf7?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Jan 09 |
-| **[Texas Instruments](http://www.ti.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6961cc3fe7ed9a5731ba9b8b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
