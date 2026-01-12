@@ -57,7 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jacobs](http://www.jacobs.com)** | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964bcda25e1871507812290?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 12 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/694907ec7d506e3808f43ae7?utm_campaign=1049&utm_source=git)** | Pasadena, CA | On Site | Jan 12 |
+| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Area Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/692cbd5e66796e3028f93534?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 12 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Industrial Design Intern, Summer 2026](https://jobright.ai/jobs/info/69462740d1953b5d11bf42c2?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | Jan 12 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern-Human Interface Design, Foundations](https://jobright.ai/jobs/info/6949057263141d188458ab61?utm_campaign=1049&utm_source=git)** | Warren, MI | Hybrid | Jan 12 |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e67bf44146d3b6ec53d00?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Jan 12 |
+| ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 12 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern-Human Interface Design, Foundations](https://jobright.ai/jobs/info/69490eba63141d188458b5e6?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 12 |
+| ↳ | **[2026 Summer Intern – Creative Design](https://jobright.ai/jobs/info/694907cb7d506e3808f43ae1?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Jan 12 |
+| ↳ | **[2026 Summer Intern – Clay Sculpting](https://jobright.ai/jobs/info/69490d267d506e3808f441a5?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Jan 12 |
+| **[Atlassian](https://www.atlassian.com)** | **[Product Design Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/69354051f131d96e4846d898?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 12 |
+| **[Jacobs](http://www.jacobs.com)** | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964c103a112b4026612aa7f?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Jan 12 |
+| ↳ | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964c0752cbf4e44756e45d3?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Jan 12 |
+| ↳ | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964c02825e1871507812626?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 12 |
+| ↳ | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964bcda25e1871507812290?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 12 |
 | ↳ | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964b889a112b4026612a220?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 12 |
 | ↳ | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964b867a112b4026612a203?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Jan 12 |
 | ↳ | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6964b835a112b4026612a1db?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jan 12 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[2K](http://2k.com)** | **[Art Producer, Characters and Environments (Intern) - NBA 2K](https://jobright.ai/jobs/info/6961c825f3f4cd132506cb6e?utm_campaign=1049&utm_source=git)** | Novato, California, United States | Remote | Jan 09 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (Vancouver, BC)](https://jobright.ai/jobs/info/6961c5eda112b402661054ca?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Seattle](https://jobright.ai/jobs/info/6938a03cb95c305f206dd729?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 09 |
-| **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6961c336a112b402661052fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 09 |
-| **[Culture Timing](https://www.linkedin.com/company/96642301)** | **[Student Intern](https://jobright.ai/jobs/info/6963a0642cbf4e44756d562c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Remote | Jan 09 |
-| **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Graphic Design (Spring 2026)](https://jobright.ai/jobs/info/6961baadf3f4cd132506c0fe?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 09 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Brand Design – Summer 2026 – Austin](https://jobright.ai/jobs/info/6961b72ca112b402661047b6?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 09 |
-| ↳ | **[Student Internship – Brand Design – Summer 2026 – Dallas](https://jobright.ai/jobs/info/6961b66ff3f4cd132506bcc8?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 09 |
-| **[Texas Instruments](http://www.ti.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6961b020a112b4026610408d?utm_campaign=1049&utm_source=git)** | FORE 12500 TI Boulevard, Dallas, TX, 75243, US | On Site | Jan 09 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Brand Design – Summer 2026 – Austin](https://jobright.ai/jobs/info/6961ad05a112b40266103e8e?utm_campaign=1049&utm_source=git)** | Austin, TX, US | On Site | Jan 09 |
-| **[Hamilton Tiger-Cats Football Club](https://ticats.ca)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6961cbdee7ed9a5731ba9b5d?utm_campaign=1049&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 09 |
-| **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6961aaf9e7ed9a5731ba7fc5?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jan 09 |
-| ↳ | **[Product Design Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/6961aaf4a112b40266103c62?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jan 09 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Brand Design – Summer 2026 – Dallas](https://jobright.ai/jobs/info/6961aab4a112b40266103c1d?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jan 09 |
-| **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6961a912e7ed9a5731ba7dd6?utm_campaign=1049&utm_source=git)** | Sarasota, FL 34236 US (Primary) | On Site | Jan 09 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Digital Solutions Summer Intern](https://jobright.ai/jobs/info/6961c231a112b40266105217?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
