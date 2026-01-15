@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[2026 Summer Visual Merchandising Intern](https://jobright.ai/jobs/info/69685a1af25a38006696c1bf?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Jan 14 |
 | **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern, Creative Content Editor](https://jobright.ai/jobs/info/69682e6b1703f05405a9d546?utm_campaign=1049&utm_source=git)** | Citi Field – Queens, New York | On Site | Jan 14 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Registration & Production Intern](https://jobright.ai/jobs/info/6945be8c63141d1884554b90?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 14 |
+| **[Pixi Inc.](https://www.pixibeauty.com)** | **[Junior Digital Designer / Design Intern](https://jobright.ai/jobs/info/6968617df25a38006696ccd9?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 14 |
 | **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern, Creative Content Graphic Design](https://jobright.ai/jobs/info/696837b31703f05405a9e58b?utm_campaign=1049&utm_source=git)** | Citi Field – Queens, New York | On Site | Jan 14 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Architecture Intern](https://jobright.ai/jobs/info/69682d471703f05405a9d377?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Jan 14 |
 | **[New York Islanders](http://newyorkislanders.com)** | **[Intern, Motion Design](https://jobright.ai/jobs/info/6968040a639b452fb57d91ff?utm_campaign=1049&utm_source=git)** | Floral Park,NY,US | Hybrid | Jan 14 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern UX Design](https://jobright.ai/jobs/info/6967fb6e1703f05405a999c6?utm_campaign=1049&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jan 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Character Art Intern](https://jobright.ai/jobs/info/69685a38639b452fb57dfd19?utm_campaign=1049&utm_source=git)** | San Carlos, CA | Hybrid | Jan 14 |
 | ↳ | **[Concept/Storyboard Intern](https://jobright.ai/jobs/info/696853dc1703f05405aa0347?utm_campaign=1049&utm_source=git)** | San Carlos, CA | Hybrid | Jan 14 |
+| ↳ | **[Environment Art Intern](https://jobright.ai/jobs/info/696861b81703f05405aa1431?utm_campaign=1049&utm_source=git)** | San Carlos, CA | Hybrid | Jan 14 |
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Architecture Internships - Summer 2026](https://jobright.ai/jobs/info/69682170f25a38006696776c?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Jan 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Environment External Art Intern](https://jobright.ai/jobs/info/6968508bf25a38006696b5a2?utm_campaign=1049&utm_source=git)** | San Carlos, CA | Hybrid | Jan 14 |
 | **[Slingshot Architecture](https://slingshotarchitecture.com)** | **[Internship // Interior Design [Des Moines Studio]](https://jobright.ai/jobs/info/69682b2e639b452fb57dbfd0?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Jan 14 |
@@ -90,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Space Planning Intern (Architecture/Interior Design) (Administrative) (Dulles VA)](https://jobright.ai/jobs/info/69681332639b452fb57da175?utm_campaign=1049&utm_source=git)** | United States-Virginia-Dulles | On Site | Jan 14 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Art Intern, Quanta Magazine](https://jobright.ai/jobs/info/6967e47c639b452fb57d7909?utm_campaign=1049&utm_source=git)** | 915 Broadway, New York, NY | On Site | Jan 14 |
 | **[Crystal Dynamics](http://crystald.com)** | **[External Character Art Intern](https://jobright.ai/jobs/info/69680768f25a380066965c3f?utm_campaign=1049&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 14 |
-| ↳ | **[Environment Art Intern](https://jobright.ai/jobs/info/69681f7e639b452fb57daeff?utm_campaign=1049&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 14 |
 | ↳ | **[Character Art Intern](https://jobright.ai/jobs/info/6968031c639b452fb57d90f5?utm_campaign=1049&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 14 |
+| ↳ | **[Environment Art Intern](https://jobright.ai/jobs/info/69681f7e639b452fb57daeff?utm_campaign=1049&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 14 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Art Intern](https://jobright.ai/jobs/info/696809d8f25a380066965e7e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | **[OPX Ai ™](https://opxai.com)** | **[Digital Content Creator Intern](https://jobright.ai/jobs/info/69680e4a1703f05405a9abac?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 14 |
 | **[MOI](http://www.moii.com)** | **[INTERN](https://jobright.ai/jobs/info/6967f45a639b452fb57d821f?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Jan 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6966b4825ad3a93f8232062c?utm_campaign=1049&utm_source=git)** | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 | On Site | Jan 13 |
 | **[Mead & Hunt](https://meadhunt.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/696682535ad3a93f8231cc89?utm_campaign=1049&utm_source=git)** | North Charleston, SC | On Site | Jan 13 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/69669e09a112b4026614924b?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Jan 13 |
-| **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern - Sleepwear](https://jobright.ai/jobs/info/6966a4475ad3a93f8231f397?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Jan 13 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6966aef55ad3a93f8231ffd3?utm_campaign=1049&utm_source=git)** | 777 Main St., Suite 1900, Fort Worth, Texas 76102 | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
