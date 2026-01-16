@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6969ea86639b452fb57fe58f?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Jan 15 |
+| **[Snappr](https://www.snappr.com/)** | **[Visual Journalist Intern (Photo + Video), Snappr News](https://jobright.ai/jobs/info/6969e11d1703f05405abed39?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 15 |
+| **[Business of Home](https://businessofhome.com)** | **[Full-Time Interior Design Intern](https://jobright.ai/jobs/info/6969ea40f25a38006698ae8b?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Jan 15 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[CMF Designer Intern](https://jobright.ai/jobs/info/6969c614f25a380066987b23?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jan 15 |
+| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Photography/Videography/Graphics Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6969ec20f25a38006698afce?utm_campaign=1049&utm_source=git)** | North Las Vegas, NV | On Site | Jan 15 |
 | **[IH Concepts](https://ihconceptsonline.com)** | **[Graphic Design Internship for Spring](https://jobright.ai/jobs/info/6969a34b1703f05405aba21e?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Jan 15 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69699b7b639b452fb57f8d04?utm_campaign=1049&utm_source=git)** | 6920 Seaway Blvd, Everett, WA, 98203, US | Hybrid | Jan 15 |
 | **[RedPeg Marketing](https://redpeg.com/)** | **[2026 Summer Internship - Designer - Creative Intern](https://jobright.ai/jobs/info/6969cb45639b452fb57fd075?utm_campaign=1049&utm_source=git)** | Alexandria, VA | Hybrid | Jan 15 |
@@ -106,10 +110,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/69697eda1703f05405ab6acd?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Jan 15 |
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/69698772639b452fb57f6486?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Jan 15 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/696979c9f25a380066981f9e?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Jan 15 |
-| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Color, Material, and Finish (CMF) Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/696987c9639b452fb57f64c0?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 15 |
-| ↳ | **[Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69699b6a639b452fb57f8cf4?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Jan 15 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69699b6a639b452fb57f8cf4?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Jan 15 |
+| ↳ | **[Color, Material, and Finish (CMF) Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/696987c9639b452fb57f64c0?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 15 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors](https://jobright.ai/jobs/info/69698ef01703f05405ab81aa?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 15 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6969986f1703f05405ab9855?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Jan 15 |
 | ↳ | **[Design Intern, Interiors](https://jobright.ai/jobs/info/696973d8639b452fb57f5330?utm_campaign=1049&utm_source=git)** | United States-Texas-Dallas | On Site | Jan 15 |
 | **[Western States Fire Protection](https://www.wsfp.com)** | **[Design Intern](https://jobright.ai/jobs/info/69698c36639b452fb57f6f53?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jan 15 |
 | **[Tighe & Bond](https://www.tighebond.com)** | **[Landscape Architecture Internship - Summer 2026](https://jobright.ai/jobs/info/69694aab639b452fb57f157b?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Jan 15 |
@@ -142,8 +145,9 @@ For a complete list, click the following sortable link below:
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/6968c06f1703f05405aa98ee?utm_campaign=1049&utm_source=git)** | US-CO-Aurora | Hybrid | Jan 14 |
 | **[Mixology Clothing Company](https://www.shopmixology.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69688b5d639b452fb57e42bc?utm_campaign=1049&utm_source=git)** | Lynbrook, NY | On Site | Jan 14 |
 | **[Analog Devices](http://www.analog.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/695c844c9a87b95a9397d5ed?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 14 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Space Planning Intern (Architecture/Interior Design) (Administrative) (Dulles VA) - R10219381](https://jobright.ai/jobs/info/6969d9d51703f05405abe7e6?utm_campaign=1049&utm_source=git)** | Dulles, VA | On Site | Jan 14 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Photoshop Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/6969c495639b452fb57fafa3?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Jan 14 |
-| ↳ | **[Marketing Photography intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/6969c64e639b452fb57fb9cf?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Jan 14 |
+| **[Pixi Inc.](https://www.pixibeauty.com)** | **[Junior Digital Designer / Design Intern](https://jobright.ai/jobs/info/69686e761703f05405aa266c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 14 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/696063afa1bbea1d9a7b3dff?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 14 |
 | ↳ | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/696063ba7ebc25398eb65d84?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Jan 14 |
 | ↳ | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/696067ae7ebc25398eb66154?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York Islanders](http://newyorkislanders.com)** | **[Intern, Motion Design](https://jobright.ai/jobs/info/696877cff25a38006696e6c0?utm_campaign=1049&utm_source=git)** | Floral Park, NY | Hybrid | Jan 14 |
 | **[Portland Timbers](http://www.timbers.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/696890311703f05405aa57e6?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jan 14 |
 | **[One Knoxville SC](https://oneknoxsc.com/)** | **[Photography / Videography Internship](https://jobright.ai/jobs/info/696884a11703f05405aa43df?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 14 |
-| **[Visual Concepts](https://www.vcentertainment.com)** | **[Character Artist, Clothing (Intern) - NBA 2K](https://jobright.ai/jobs/info/69683fd2f25a38006696a9c4?utm_campaign=1049&utm_source=git)** | Novato, CA | Remote | Jan 14 |
-| **[Princess Cruises](http://www.princess.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696889411703f05405aa4be5?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Jan 14 |
-| **[Carnival Corporation](http://carnivalcorp.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69688fce639b452fb57e49b4?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Jan 14 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[2026 Summer Visual Merchandising Intern](https://jobright.ai/jobs/info/69685a1af25a38006696c1bf?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
