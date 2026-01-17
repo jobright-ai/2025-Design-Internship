@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lillup](https://www.lillup.com/)** | **[Brand Marketing Designer Intern — Apple Liquid Glass Design (Remote, Unpaid)](https://jobright.ai/jobs/info/696b56a55fc86241853ac34b?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/696b3ed15fc86241853a99a0?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 16 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jan 16 |
 | **[IFF](http://iff.com)** | **[Intern](https://jobright.ai/jobs/info/696afe95db26b618950e73d0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 16 |
@@ -67,15 +68,14 @@ For a complete list, click the following sortable link below:
 | **[Ocean Front Entertainment](https://www.oceanfrontent.com)** | **[Graphic Design and Social Media Intern](https://jobright.ai/jobs/info/696b12565fc86241853a5f68?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 16 |
 | **[Boncom](https://www.boncom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/696b0d1edb26b618950e8752?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 16 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, CSR Graphic Design](https://jobright.ai/jobs/info/696adf38db26b618950e3a98?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 16 |
-| **[Creative Spirit US](http://www.creativespirit-us.org)** | **[Summer 2026 Internship Program (General Roles) - Havas Creative Network](https://jobright.ai/jobs/info/696b0401db26b618950e7b72?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
+| **[Creative Spirit US](http://www.creativespirit-us.org)** | **[Summer 2026 Internship Program (Creative Roles) - Havas Creative Network](https://jobright.ai/jobs/info/696b0567350cf438031245e3?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 16 |
+| ↳ | **[Summer 2026 Internship Program (General Roles) - Havas Creative Network](https://jobright.ai/jobs/info/696b0401db26b618950e7b72?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | ↳ | **[Summer 2026 Internship Program (General Roles) - Havas Creative Network](https://jobright.ai/jobs/info/696b09105fc86241853a5492?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 16 |
-| ↳ | **[Summer 2026 Internship Program (Creative Roles) - Havas Creative Network](https://jobright.ai/jobs/info/696b0567350cf438031245e3?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 16 |
 | ↳ | **[Summer 2026 Internship Program (Creative Roles) - Havas Creative Network](https://jobright.ai/jobs/info/696b0026350cf43803123f1c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | ↳ | **[Summer 2026 Internship Program (General Roles) - Havas Creative Network](https://jobright.ai/jobs/info/696b083d5fc86241853a53d3?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Jan 16 |
 | ↳ | **[Summer 2026 Internship Program (Creative Roles) - Havas Creative Network](https://jobright.ai/jobs/info/696afb98db26b618950e6fb5?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Jan 16 |
 | **[NICOLEHOLLIS](https://nicolehollis.com/)** | **[Interior Architecture Design Intern](https://jobright.ai/jobs/info/696b04945fc86241853a4edf?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 16 |
-| **[OpenID3: Worldpin](https://www.dauth.network)** | **[Graphic Designer UX/UI Intern - Unpaid](https://jobright.ai/jobs/info/696af49a5fc86241853a3a54?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 16 |
-| **[NICOLEHOLLIS](https://nicolehollis.com/)** | **[Interior Architecture Design Intern](https://jobright.ai/jobs/info/696acea35fc862418539eeee?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 16 |
+| ↳ | **[Interior Architecture Design Intern](https://jobright.ai/jobs/info/696acea35fc862418539eeee?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 16 |
 | **[KEENFINITY Group](https://www.keenfinity-group.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696aebc65fc86241853a2921?utm_campaign=1049&utm_source=git)** | Fairport, NY | Hybrid | Jan 16 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Gaming Design Intern](https://jobright.ai/jobs/info/696af152db26b618950e6110?utm_campaign=1049&utm_source=git)** | 6625 Excellence Way, Plano, TX, USA | On Site | Jan 16 |
 | ↳ | **[Gaming Design Intern](https://jobright.ai/jobs/info/696ae4f85fc86241853a18c5?utm_campaign=1049&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Jan 16 |
@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/696aa0c2db26b618950dc8e1?utm_campaign=1049&utm_source=git)** | SLC Triad Center | Hybrid | Jan 16 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Digital Design, Campaigns & Activations](https://jobright.ai/jobs/info/696ac0ca350cf4380311ceb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Storm Water Communications Intern](https://jobright.ai/jobs/info/696ac246350cf4380311d14d?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 16 |
-| **[Spark Growth](https://sparkgrowth.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696abc7a5fc862418539d01a?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 16 |
 | **[Alex Moss New York](https://alexmossny.com/)** | **[Design Internship](https://jobright.ai/jobs/info/696abca8db26b618950dfdde?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[SAVAS](https://www.ateliersavas.com)** | **[Production & General Office Intern](https://jobright.ai/jobs/info/696a95ad5fc8624185398eaf?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Jan 16 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6963af442cbf4e44756d61b7?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[UX Research Intern](https://jobright.ai/jobs/info/6969971cf25a3800669851ad?utm_campaign=1049&utm_source=git)** | 6920 Seaway Blvd, Everett, WA, 98203, US | On Site | Jan 15 |
 | **[Sherwood Design Engineers](http://www.sherwoodengineers.com/)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/696996001703f05405ab95f2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 15 |
 | **[Boncom](https://www.boncom.com/)** | **[Art Director Intern](https://jobright.ai/jobs/info/6969c09cf25a3800669877a8?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 15 |
+| **[UL Research Institutes](https://ul.org)** | **[Graphic Design Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6969c77cf25a380066987dfe?utm_campaign=1049&utm_source=git)** | Columbia, MD | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
