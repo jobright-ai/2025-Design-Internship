@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CME Group](http://www.cmegroup.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/696fc1fd3ed06875134ab2f0?utm_campaign=1049&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Jan 20 |
+| **[IMEG](http://www.imegcorp.com/)** | **[Architectural Lighting Designer Intern / Manhattan, New York](https://jobright.ai/jobs/info/696fb7b882817106e976c599?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 20 |
+| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b02f63019f50a4fe60a35?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina, United States | On Site | Jan 20 |
+| **[Arbor Homes](https://yourarborhome.com/)** | **[Design Center Consult Intern](https://jobright.ai/jobs/info/696fb47e82817106e976be64?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Jan 20 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Design Technology - Summer 2026 - New York](https://jobright.ai/jobs/info/696fb3900f4e0f657ea3fd40?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Jan 20 |
+| **[The Toledo Zoo & Aquarium](http://www.toledozoo.org)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/696fa8763ed06875134a8d45?utm_campaign=1049&utm_source=git)** | Toledo, Ohio Metropolitan Area | On Site | Jan 20 |
 | **[MBH Architects](https://www.mbharch.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/696f9ecf0f4e0f657ea3e837?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 20 |
 | **[MDB Management Innovations LLC](https://www.mdbmanagementinnovations.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/696f92493ed06875134a830f?utm_campaign=1049&utm_source=git)** | Liberty, ME | On Site | Jan 20 |
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d815935649778e20960e?utm_campaign=1049&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Jan 20 |
@@ -117,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[D.C. United](http://dcunited.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/696eaca8db26b6189511a733?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 19 |
 | **[LJA](https://www.lja.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/696e86dedb26b618951164b8?utm_campaign=1049&utm_source=git)** | Houston, Texas, United States | On Site | Jan 19 |
 | **[Dometic](https://www.dometic.com)** | **[INTERN](https://jobright.ai/jobs/info/696e857c350cf43803153c27?utm_campaign=1049&utm_source=git)** | Pompano Beach, FL 33069, USA | On Site | Jan 19 |
-| **[Moseley](http://moseleyarchitects.com)** | **[Design Intern (Architecture); Multiple offices Summer 2026](https://jobright.ai/jobs/info/696e8480350cf43803153b19?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 19 |
 | **[KEENFINITY Group](https://www.keenfinity-group.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696aebc65fc86241853a2921?utm_campaign=1049&utm_source=git)** | Fairport, NY | Hybrid | Jan 19 |
 | **[Crushed Tonic](https://www.crushedtonic.com/)** | **[Social Media / Design Intern](https://jobright.ai/jobs/info/696e7e7fdb26b61895115c90?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Jan 19 |
 | **[Moseley](http://moseleyarchitects.com)** | **[Interior Design Intern - Summer 2026 Program](https://jobright.ai/jobs/info/696e7bba5fc86241853d3696?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 19 |
@@ -146,15 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Brand Design (Marketing)](https://jobright.ai/jobs/info/6944a768a7227b3ece66544a?utm_campaign=1049&utm_source=git)** | Long Beach, California, United States | On Site | Jan 18 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/696dc4e6350cf43803149aaa?utm_campaign=1049&utm_source=git)** | Richmond, Virginia | On Site | Jan 18 |
 | **[Accenture](https://www.accenture.com)** | **[Innovation Summer Advanced Degree Intern - Digital Experience- NAELFY26](https://jobright.ai/jobs/info/69619525a112b40266102cc1?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 18 |
-| **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jan 18 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/696d51b5db26b61895106b37?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Jan 18 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696d4633350cf43803143468?utm_campaign=1049&utm_source=git)** | Beaver Falls, PA | On Site | Jan 18 |
 | **[Angels Acres Farm Animal Sanctuary](www.angelsacres.org)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/696e27215fc86241853ce2af?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | Hybrid | Jan 18 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68cc83de128dc347fd926102?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Jan 18 |
-| ↳ | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c7cbc6f42a830e1c7e8240?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Jan 18 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c7cbc6f42a830e1c7e8240?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Jan 18 |
 | ↳ | **[Architecture Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68cd0bfdb2a74e1837ed15f1?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Jan 18 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, CBS Boston (Summer 2026)](https://jobright.ai/jobs/info/6944b86f94730b739877fc28?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 18 |
-| **[American Structurepoint](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68cef67c846f0b04af67e091?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Jan 18 |
-| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7f2546caff4db51ffe8a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Jan 18 |
-| **[Autodesk](http://www.autodesk.com)** | **[PhD Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/6918711345fb6f5ead8a55d1?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
