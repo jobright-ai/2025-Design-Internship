@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grainger](https://www.grainger.com)** | **[GTG Intern - User Experience Design](https://jobright.ai/jobs/info/69374761aabec14a727c5e92?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
+| **[Robinhood](https://www.robinhood.com)** | **[Production Intern](https://jobright.ai/jobs/info/69379375a0dde7020e304537?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
+| **[HDR](http://www.hdrinc.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/68c911f4f9c6ff7aedf17743?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Jan 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Interior Design Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/696f4c4b82817106e97671d8?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Jan 20 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6966c7b85ad3a93f8232225d?utm_campaign=1049&utm_source=git)** | Chanhassen, MN | On Site | Jan 20 |
 | **[Relativity](http://www.relativity.com)** | **[Product Intern - User Experience](https://jobright.ai/jobs/info/696f207e82817106e9764792?utm_campaign=1049&utm_source=git)** | Illinois, United States | Hybrid | Jan 19 |
@@ -69,10 +72,10 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Digital Experience Summer (STAR) Intern](https://jobright.ai/jobs/info/696f07809c3c52633455cc7e?utm_campaign=1049&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 19 |
 | ↳ | **[Digital Experience Summer (STAR) Intern](https://jobright.ai/jobs/info/696f068d82817106e9762e25?utm_campaign=1049&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 19 |
 | **[NorthPoint Development](http://beyondthecontract.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/696ec9abdb26b6189511d7ba?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jan 19 |
-| **[Dagger](godagger.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/696edc75350cf4380315d584?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 19 |
 | **[Bohler](https://bohlerengineering.com)** | **[Landscape Designer Intern / Summer 2026 / Atlanta, GA / Bohler](https://jobright.ai/jobs/info/696ed6b45fc86241853dd18c?utm_campaign=1049&utm_source=git)** | Atlanta | On Site | Jan 19 |
 | **[Just In.](justinapp.us)** | **[UI Design Intern](https://jobright.ai/jobs/info/696ed424350cf4380315cdfe?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 19 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Technology & Operations Intern](https://jobright.ai/jobs/info/696ed1d4db26b6189511f24c?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Jan 19 |
+| **[MBH Architects](https://www.mbharch.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/696f5b7e0f4e0f657ea3b56e?utm_campaign=1049&utm_source=git)** | Denver Office | On Site | Jan 19 |
 | **[Balance Now](https://www.balance.ca)** | **[WordPress Designer](https://jobright.ai/jobs/info/696ec12f350cf4380315ad47?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 19 |
 | **[Bohler](https://bohlerengineering.com)** | **[Landscape Designer Intern / Summer 2026 / Atlanta, GA / Bohler](https://jobright.ai/jobs/info/696ebee4350cf4380315aadb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 19 |
 | **[Taylor Morrison](http://www.taylormorrison.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/696ebb49350cf43803159fe3?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jan 19 |
@@ -90,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/696e9663db26b61895117765?utm_campaign=1049&utm_source=git)** | Tucson, AZ | Hybrid | Jan 19 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/696e94e5350cf43803154db1?utm_campaign=1049&utm_source=git)** | McKinney, TX | On Site | Jan 19 |
 | **[Grimshaw](http://grimshaw.global)** | **[2026 Architectural Intern](https://jobright.ai/jobs/info/696e93795fc86241853d4c5e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 19 |
-| **[AC Martin](http://acmartin.com)** | **[Design Intern - Pleasanton Office](https://jobright.ai/jobs/info/696ebe1b5fc86241853dacfd?utm_campaign=1049&utm_source=git)** | NorCal2, Pleasanton, CA, US | Hybrid | Jan 19 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/696ebce9db26b6189511cbcd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | Jan 19 |
+| **[AC Martin](http://acmartin.com)** | **[Design Intern](https://jobright.ai/jobs/info/696ebce9db26b6189511cbcd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | Jan 19 |
+| ↳ | **[Design Intern - Pleasanton Office](https://jobright.ai/jobs/info/696ebe1b5fc86241853dacfd?utm_campaign=1049&utm_source=git)** | NorCal2, Pleasanton, CA, US | Hybrid | Jan 19 |
 | **[LJA](https://www.lja.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/696e8f8ddb26b61895116c98?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 19 |
 | **[PHENYX](https://www.phenyx.co)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696e8aefdb26b618951167f9?utm_campaign=1049&utm_source=git)** | Lafayette, CO | On Site | Jan 19 |
 | **[Moseley](http://moseleyarchitects.com)** | **[Design Intern (Architecture); Multiple offices Summer 2026](https://jobright.ai/jobs/info/696e8a3ddb26b61895116739?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Brand Design – Summer 2026 – Dallas](https://jobright.ai/jobs/info/6961b66ff3f4cd132506bcc8?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
 | ↳ | **[Student Internship – Experience Design – Summer 2026 – Austin](https://jobright.ai/jobs/info/6961b72ca112b402661047b6?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 17 |
 | **[Uline](http://www.uline.com)** | **[Print Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f92c0a6de2db04dc3e6254?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Jan 17 |
-| ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f92226cadb2e5a06a6182d?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Jan 17 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, Digital Designer](https://jobright.ai/jobs/info/69336805764507023d1b547f?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
-| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f9174d6de2db04dc3e550f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
