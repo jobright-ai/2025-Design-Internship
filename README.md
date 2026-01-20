@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Interior Design Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/696f4c4b82817106e97671d8?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Jan 20 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6966c7b85ad3a93f8232225d?utm_campaign=1049&utm_source=git)** | Chanhassen, MN | On Site | Jan 20 |
 | **[Relativity](http://www.relativity.com)** | **[Product Intern - User Experience](https://jobright.ai/jobs/info/696f207e82817106e9764792?utm_campaign=1049&utm_source=git)** | Illinois, United States | Hybrid | Jan 19 |
 | **[Sigma](http://sigmacomputing.com)** | **[Content Design Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/69422537bdcf884a5addef59?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 19 |
 | **[narb](https://narb.cc/)** | **[Motion Graphic Designer Intern](https://jobright.ai/jobs/info/696f19000f4e0f657ea384b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 19 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Experience Design Intern 2026](https://jobright.ai/jobs/info/696e9663db26b61895117765?utm_campaign=1049&utm_source=git)** | Tucson, AZ | Hybrid | Jan 19 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/696e94e5350cf43803154db1?utm_campaign=1049&utm_source=git)** | McKinney, TX | On Site | Jan 19 |
 | **[Grimshaw](http://grimshaw.global)** | **[2026 Architectural Intern](https://jobright.ai/jobs/info/696e93795fc86241853d4c5e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 19 |
-| **[AC Martin](http://acmartin.com)** | **[Design Intern](https://jobright.ai/jobs/info/696ebce9db26b6189511cbcd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | Jan 19 |
-| ↳ | **[Design Intern - Pleasanton Office](https://jobright.ai/jobs/info/696ebe1b5fc86241853dacfd?utm_campaign=1049&utm_source=git)** | NorCal2, Pleasanton, CA, US | Hybrid | Jan 19 |
+| **[AC Martin](http://acmartin.com)** | **[Design Intern - Pleasanton Office](https://jobright.ai/jobs/info/696ebe1b5fc86241853dacfd?utm_campaign=1049&utm_source=git)** | NorCal2, Pleasanton, CA, US | Hybrid | Jan 19 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/696ebce9db26b6189511cbcd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | Jan 19 |
 | **[LJA](https://www.lja.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/696e8f8ddb26b61895116c98?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 19 |
 | **[PHENYX](https://www.phenyx.co)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696e8aefdb26b618951167f9?utm_campaign=1049&utm_source=git)** | Lafayette, CO | On Site | Jan 19 |
 | **[Moseley](http://moseleyarchitects.com)** | **[Design Intern (Architecture); Multiple offices Summer 2026](https://jobright.ai/jobs/info/696e8a3ddb26b61895116739?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f92226cadb2e5a06a6182d?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Jan 17 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Digital Designer](https://jobright.ai/jobs/info/69336805764507023d1b547f?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
 | **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f9174d6de2db04dc3e550f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/69667e545ad3a93f8231c569?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Jan 17 |
-| **[Respawn Entertainment](http://www.respawn.com/)** | **[Live Art Intern (Apex Legends)](https://jobright.ai/jobs/info/69422acdbdcf884a5addf6ee?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
