@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Relativity](http://www.relativity.com)** | **[Product Intern - User Experience](https://jobright.ai/jobs/info/696f207e82817106e9764792?utm_campaign=1049&utm_source=git)** | Illinois, United States | Hybrid | Jan 19 |
+| **[Sigma](http://sigmacomputing.com)** | **[Content Design Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/69422537bdcf884a5addef59?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 19 |
+| **[narb](https://narb.cc/)** | **[Motion Graphic Designer Intern](https://jobright.ai/jobs/info/696f19000f4e0f657ea384b7?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 19 |
+| **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/6942204a50bbaf765053fda9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Interior Design Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/696f15b90f4e0f657ea38472?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 19 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Digital Experience Summer (STAR) Intern](https://jobright.ai/jobs/info/696f154c0f4e0f657ea38440?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Show Set Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696f144a0f4e0f657ea383ce?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 19 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Digital Experience Summer (STAR) Intern](https://jobright.ai/jobs/info/696f07809c3c52633455cc7e?utm_campaign=1049&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 19 |
 | ↳ | **[Digital Experience Summer (STAR) Intern](https://jobright.ai/jobs/info/696f068d82817106e9762e25?utm_campaign=1049&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 19 |
 | **[NorthPoint Development](http://beyondthecontract.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/696ec9abdb26b6189511d7ba?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jan 19 |
-| **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Book Artist Intern](https://jobright.ai/jobs/info/696edf51350cf4380315d76e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 19 |
 | **[Dagger](godagger.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/696edc75350cf4380315d584?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 19 |
 | **[Bohler](https://bohlerengineering.com)** | **[Landscape Designer Intern / Summer 2026 / Atlanta, GA / Bohler](https://jobright.ai/jobs/info/696ed6b45fc86241853dd18c?utm_campaign=1049&utm_source=git)** | Atlanta | On Site | Jan 19 |
 | **[Just In.](justinapp.us)** | **[UI Design Intern](https://jobright.ai/jobs/info/696ed424350cf4380315cdfe?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 19 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Brand Design (Marketing)](https://jobright.ai/jobs/info/6944a768a7227b3ece66544a?utm_campaign=1049&utm_source=git)** | Long Beach, California, United States | On Site | Jan 18 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/696dc4e6350cf43803149aaa?utm_campaign=1049&utm_source=git)** | Richmond, Virginia | On Site | Jan 18 |
 | **[Accenture](https://www.accenture.com)** | **[Innovation Summer Advanced Degree Intern - Digital Experience- NAELFY26](https://jobright.ai/jobs/info/69619525a112b40266102cc1?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 18 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/696f13889c3c52633455d731?utm_campaign=1049&utm_source=git)** | Towson, MD | Hybrid | Jan 18 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/69306c524c474121999e53bf?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jan 18 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/696d51b5db26b61895106b37?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Jan 18 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696d4633350cf43803143468?utm_campaign=1049&utm_source=git)** | Beaver Falls, PA | On Site | Jan 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/68f9174d6de2db04dc3e550f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/69667e545ad3a93f8231c569?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Jan 17 |
 | **[Respawn Entertainment](http://www.respawn.com/)** | **[Live Art Intern (Apex Legends)](https://jobright.ai/jobs/info/69422acdbdcf884a5addf6ee?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Jan 17 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Graphic Design Intern – Marketing Communications](https://jobright.ai/jobs/info/68ce9bb3dbd9fb154ede1378?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69674b36f25a38006695ae5d?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
