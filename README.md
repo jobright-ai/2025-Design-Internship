@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MeaVana](https://meavana.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6970816d333b6343a14d044a?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jan 20 |
+| **[Northstar](www.northstarsourcing.com)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/69709a0851f726477182ee07?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Jan 21 |
 | **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/69707947587dfa0bb55e1842?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jan 20 |
 | **[Minor Football League](http://www.mflishere.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697069fe333b6343a14cfa2d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Urban Design](https://jobright.ai/jobs/info/69705bf6333b6343a14ce963?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 20 |
@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970604c333b6343a14cecfd?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/697050ce333b6343a14cbe49?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704f51333b6343a14cbd24?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
-| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970529a333b6343a14cbf94?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69705037333b6343a14cbdd1?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jan 20 |
+| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970529a333b6343a14cbf94?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69705434333b6343a14cc059?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704aa9333b6343a14cba2c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704035333b6343a14ca947?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 20 |
