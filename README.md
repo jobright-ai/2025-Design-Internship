@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MeaVana](https://meavana.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6970816d333b6343a14d044a?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jan 20 |
+| **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/69707947587dfa0bb55e1842?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jan 20 |
 | **[Minor Football League](http://www.mflishere.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697069fe333b6343a14cfa2d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Urban Design](https://jobright.ai/jobs/info/69705bf6333b6343a14ce963?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Beyer Blinder Belle](http://beyerblinderbelle.com)** | **[Graphic Design Intern- LVCK Studio](https://jobright.ai/jobs/info/6970519a51f72647718286a2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 20 |
@@ -98,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Beyer Blinder Belle](http://beyerblinderbelle.com)** | **[Graphic Design Intern- LVCK Studio](https://jobright.ai/jobs/info/69702e54587dfa0bb55db0bc?utm_campaign=1049&utm_source=git)** | New York,NY,US | On Site | Jan 20 |
 | **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69704c6451f7264771828338?utm_campaign=1049&utm_source=git)** | Del Valle, TX | On Site | Jan 20 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69702c2c587dfa0bb55dae21?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 20 |
-| **[Elizabeth Lamont](https://elizabethlamont.com)** | **[Graphic Design & Social Media Intern](https://jobright.ai/jobs/info/69702b9351f7264771825b4c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 20 |
 | **[American Management Association](http://www.amanet.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69702b7851f7264771825b27?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Jan 20 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69702b36333b6343a14c9356?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jan 20 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Design – Summer 2026](https://jobright.ai/jobs/info/69702ad7333b6343a14c92e2?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jan 20 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970604c333b6343a14cecfd?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/697050ce333b6343a14cbe49?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704f51333b6343a14cbd24?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
-| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69705037333b6343a14cbdd1?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970529a333b6343a14cbf94?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 20 |
+| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69705037333b6343a14cbdd1?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69705434333b6343a14cc059?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704aa9333b6343a14cba2c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704035333b6343a14ca947?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship (Raleigh)](https://jobright.ai/jobs/info/696ff7a382817106e97708d1?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Jan 20 |
 | **[Cisco](http://www.cisco.com)** | **[User Experience II (Intern) - United States](https://jobright.ai/jobs/info/696ff79a3ed06875134af144?utm_campaign=1049&utm_source=git)** | Dallas, Texas, US | On Site | Jan 20 |
 | ↳ | **[User Experience II (Intern) - United States](https://jobright.ai/jobs/info/696ff7890f4e0f657ea44b21?utm_campaign=1049&utm_source=git)** | San Jose, California, US | On Site | Jan 20 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/696ff3c482817106e9770078?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
