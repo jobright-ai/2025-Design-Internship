@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern - 3D Model Advanced Visualization Internship - Onsite (AZ)](https://jobright.ai/jobs/info/6970fcd5333b6343a14d67e8?utm_campaign=1049&utm_source=git)** | US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) | On Site | Jan 21 |
+| **[Nightwing](nightwing.com)** | **[UI/UX Design Intern - 2026](https://jobright.ai/jobs/info/694b057f67a69734cac615c7?utm_campaign=1049&utm_source=git)** | Sterling, VA | On Site | Jan 21 |
+| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/6970f3bd51f72647718327b6?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
 | **[Cardiff Metropolitan University](http://www.cardiffmet.ac.uk/)** | **[Design Internship](https://jobright.ai/jobs/info/6970e8e951f72647718321dc?utm_campaign=1049&utm_source=git)** | Alexander, NY | On Site | Jan 21 |
 | **[ALIX OF BOHEMIA](http://www.alixofbohemia.com)** | **[Fashion Design Studio Intern](https://jobright.ai/jobs/info/6970e71c51f72647718320d1?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jan 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Interior Design Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/6970d57751f7264771831592?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Jan 21 |
@@ -128,11 +131,11 @@ For a complete list, click the following sortable link below:
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b0e464b53a1551f94be83?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Jan 20 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970604c333b6343a14cecfd?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/697050ce333b6343a14cbe49?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970529a333b6343a14cbf94?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69705037333b6343a14cbdd1?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704f51333b6343a14cbd24?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
-| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704aa9333b6343a14cba2c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jan 20 |
+| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970529a333b6343a14cbf94?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69705434333b6343a14cc059?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jan 20 |
+| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704aa9333b6343a14cba2c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704035333b6343a14ca947?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 20 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Creative Media Intern](https://jobright.ai/jobs/info/697021773ed06875134b2037?utm_campaign=1049&utm_source=git)** | Newport, KY | On Site | Jan 20 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69701dc93ed06875134b18f6?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69700dba82817106e9772989?utm_campaign=1049&utm_source=git)** | Columbus, Ohio, United States | Hybrid | Jan 20 |
 | ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69700da082817106e977297d?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
 | ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69700cfa0f4e0f657ea4688d?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 20 |
-| ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69700c6c3ed06875134b0a6c?utm_campaign=1049&utm_source=git)** | Washington, D.C. | Hybrid | Jan 20 |
-| **[Zoë Feldman Design](https://www.zoefeldmandesign.com)** | **[Design Intern](https://jobright.ai/jobs/info/69700c240f4e0f657ea4679b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 20 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69700c1782817106e9772860?utm_campaign=1049&utm_source=git)** | Omaha, NE | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
