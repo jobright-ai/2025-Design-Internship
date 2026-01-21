@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Power Authority](http://www.nypa.gov)** | **[Digital End-User Experience, Developmental Intern](https://jobright.ai/jobs/info/69544593aa05c26e7aaec6f2?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Jan 21 |
+| **[Zoox](https://www.zoox.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6938ae6eb95c305f206dec53?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Jan 21 |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Spring 2026 Full time)](https://jobright.ai/jobs/info/69388ff7b95c305f206dbe1f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68cee99ffb49c96ca6ea43d6?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Jan 21 |
 | **[Northstar](www.northstarsourcing.com)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/69709a0851f726477182ee07?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Jan 21 |
 | **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/69707947587dfa0bb55e1842?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jan 20 |
@@ -106,9 +109,9 @@ For a complete list, click the following sortable link below:
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b0e464b53a1551f94be83?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Jan 20 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970604c333b6343a14cecfd?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/697050ce333b6343a14cbe49?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 20 |
+| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970529a333b6343a14cbf94?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704f51333b6343a14cbd24?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69705037333b6343a14cbdd1?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jan 20 |
-| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970529a333b6343a14cbf94?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704aa9333b6343a14cba2c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69705434333b6343a14cc059?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704035333b6343a14ca947?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[User Experience II (Intern) - United States](https://jobright.ai/jobs/info/696ff8aa82817106e9770b65?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, US | On Site | Jan 20 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Architectural Lighting Designer Intern / Manhattan, New York](https://jobright.ai/jobs/info/696ff80782817106e97709e1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship (Raleigh)](https://jobright.ai/jobs/info/696ff7a382817106e97708d1?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Jan 20 |
-| **[Cisco](http://www.cisco.com)** | **[User Experience II (Intern) - United States](https://jobright.ai/jobs/info/696ff79a3ed06875134af144?utm_campaign=1049&utm_source=git)** | Dallas, Texas, US | On Site | Jan 20 |
-| ↳ | **[User Experience II (Intern) - United States](https://jobright.ai/jobs/info/696ff7890f4e0f657ea44b21?utm_campaign=1049&utm_source=git)** | San Jose, California, US | On Site | Jan 20 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/696ff3c482817106e9770078?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
