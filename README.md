@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Media Production Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68cee99ffb49c96ca6ea43d6?utm_campaign=1049&utm_source=git)** | Dickinson County, MI | On Site | Jan 21 |
 | **[Northstar](www.northstarsourcing.com)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/69709a0851f726477182ee07?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Jan 21 |
 | **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/69707947587dfa0bb55e1842?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jan 20 |
 | **[Minor Football League](http://www.mflishere.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697069fe333b6343a14cfa2d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 20 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69704e86587dfa0bb55dd5cd?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 20 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69704e46333b6343a14cbc85?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 20 |
 | ↳ | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/69704a1751f726477182811f?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Jan 20 |
-| ↳ | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/69704981333b6343a14cb921?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 20 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69704920333b6343a14cb8d8?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Jan 20 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/697048ae587dfa0bb55dd1bf?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Student Intern - Marketing (Graphic Design) - Tulane University](https://jobright.ai/jobs/info/697047a6587dfa0bb55dccc7?utm_campaign=1049&utm_source=git)** | NEW ORLEANS, LA, US, 70118-6302 | On Site | Jan 20 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704f51333b6343a14cbd24?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69705037333b6343a14cbdd1?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970529a333b6343a14cbf94?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jan 20 |
-| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69705434333b6343a14cc059?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704aa9333b6343a14cba2c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jan 20 |
+| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69705434333b6343a14cc059?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704035333b6343a14ca947?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 20 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Creative Media Intern](https://jobright.ai/jobs/info/697021773ed06875134b2037?utm_campaign=1049&utm_source=git)** | Newport, KY | On Site | Jan 20 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69701dc93ed06875134b18f6?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jan 20 |
