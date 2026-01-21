@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minor Football League](http://www.mflishere.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697069fe333b6343a14cfa2d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Urban Design](https://jobright.ai/jobs/info/69705bf6333b6343a14ce963?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Beyer Blinder Belle](http://beyerblinderbelle.com)** | **[Graphic Design Intern- LVCK Studio](https://jobright.ai/jobs/info/6970519a51f72647718286a2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Acima](https://www.acima.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69705153587dfa0bb55dd7d5?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | Jan 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[User Experience II (Intern) - United States](https://jobright.ai/jobs/info/696ff79a3ed06875134af144?utm_campaign=1049&utm_source=git)** | Dallas, Texas, US | On Site | Jan 20 |
 | ↳ | **[User Experience II (Intern) - United States](https://jobright.ai/jobs/info/696ff7890f4e0f657ea44b21?utm_campaign=1049&utm_source=git)** | San Jose, California, US | On Site | Jan 20 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/696ff3c482817106e9770078?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Jan 20 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Internship, Design – Summer 2026](https://jobright.ai/jobs/info/696ff3583ed06875134ae5ee?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
