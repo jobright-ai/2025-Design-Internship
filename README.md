@@ -64,8 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Beyer Blinder Belle](http://beyerblinderbelle.com)** | **[Graphic Design Intern- LVCK Studio](https://jobright.ai/jobs/info/6970519a51f72647718286a2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Acima](https://www.acima.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69705153587dfa0bb55dd7d5?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | Jan 20 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - UX Designer (Remote)](https://jobright.ai/jobs/info/6970511b587dfa0bb55dd7b2?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Remote | Jan 20 |
-| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6970510d51f7264771828634?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 20 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/697050ac587dfa0bb55dd764?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 20 |
+| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/697050ac587dfa0bb55dd764?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 20 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69705009333b6343a14cbdad?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 20 |
 | ↳ | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/69704f6f587dfa0bb55dd66a?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 20 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69704e86587dfa0bb55dd5cd?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship (Raleigh)](https://jobright.ai/jobs/info/696ff7a382817106e97708d1?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Jan 20 |
 | **[Cisco](http://www.cisco.com)** | **[User Experience II (Intern) - United States](https://jobright.ai/jobs/info/696ff79a3ed06875134af144?utm_campaign=1049&utm_source=git)** | Dallas, Texas, US | On Site | Jan 20 |
 | ↳ | **[User Experience II (Intern) - United States](https://jobright.ai/jobs/info/696ff7890f4e0f657ea44b21?utm_campaign=1049&utm_source=git)** | San Jose, California, US | On Site | Jan 20 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/696ff3c482817106e9770078?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
