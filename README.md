@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69718bb9587dfa0bb55f3ccb?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
+| **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/697189a9587dfa0bb55f3aef?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 21 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, UX Motion Design Prototyping (Summer)](https://jobright.ai/jobs/info/69717901587dfa0bb55f2ab0?utm_campaign=1049&utm_source=git)** | Mountain View, CA | Hybrid | Jan 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Jan 21 |
 | **[Terrain](http://shopterrain.com)** | **[Terrain Design Services Intern- Delaware Valley University](https://jobright.ai/jobs/info/69717698333b6343a14e1247?utm_campaign=1049&utm_source=git)** | Doylestown, PA | On Site | Jan 21 |
@@ -68,8 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69716ec6333b6343a14df63d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69716e8f333b6343a14df616?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Jan 21 |
 | ↳ | **[Planning & Urban Design Intern / Summer 2026](https://jobright.ai/jobs/info/69716e8751f726477183b7ec?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
-| **[Propac Agency](http://propac.agency)** | **[Creative Intern - Art Direction or Copywriting](https://jobright.ai/jobs/info/69716e6b51f726477183b7d6?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jan 21 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69716d34587dfa0bb55f0c30?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Jan 21 |
+| ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69716d34587dfa0bb55f0c30?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Jan 21 |
 | **[Allstate](http://www.allstate.com)** | **[Arity - Experience Design Intern](https://jobright.ai/jobs/info/69716878333b6343a14df13b?utm_campaign=1049&utm_source=git)** | USA - IL (Remote) | Remote | Jan 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697167f551f726477183b2d4?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 | ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69716676333b6343a14def55?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Urban Design](https://jobright.ai/jobs/info/697042ee333b6343a14caa61?utm_campaign=1049&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704233587dfa0bb55dc3b0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970420551f7264771827218?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 20 |
-| **[Cisco](http://www.cisco.com)** | **[User Experience II (Intern) - United States](https://jobright.ai/jobs/info/69704113333b6343a14ca996?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
