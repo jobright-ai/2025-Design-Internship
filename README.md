@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | On Site | Jan 21 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Spring 2026](https://jobright.ai/jobs/info/69324127f131d96e4845a2ed?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jan 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Illusion Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6971c2a7587dfa0bb55f8b79?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 21 |
 | **[Analog Devices](http://www.analog.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/695c844c9a87b95a9397d5ed?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 21 |
-| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Animation Intern](https://jobright.ai/jobs/info/6971bc4f587dfa0bb55f85d8?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/6971dc22cda45e6953580da8?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 21 |
+| ↳ | **[Animation Intern](https://jobright.ai/jobs/info/6971bc4f587dfa0bb55f85d8?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern - Interior Design](https://jobright.ai/jobs/info/69719bd8587dfa0bb55f4ae1?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 21 |
 | **[F.H. Paschen](http://fhpaschen.com)** | **[Graphic Design & Communications Intern - Chicago Summer 2026](https://jobright.ai/jobs/info/69719b07587dfa0bb55f4a2b?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jan 21 |
 | **[Arity](http://www.arity.com)** | **[Arity - Experience Design Intern - Arity](https://jobright.ai/jobs/info/69719703333b6343a14e3123?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Jacobs](http://www.jacobs.com)** | **[Architectural Intern- Summer 2026](https://jobright.ai/jobs/info/6971af9b587dfa0bb55f797a?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69718bb9587dfa0bb55f3ccb?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/697189a9587dfa0bb55f3aef?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 21 |
 | **[F.H. Paschen](http://fhpaschen.com)** | **[Graphic Design & Communications Intern - Chicago Summer 2026](https://jobright.ai/jobs/info/69719fe6333b6343a14e37ae?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6963af442cbf4e44756d61b7?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Planning & Urban Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971407b333b6343a14db456?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Jan 21 |
 | **[Klopfer Martin Design Group](https://www.klopfermartin.com/)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/69713e5b333b6343a14daf5e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 21 |
-| **[HFG Architecture](http://hfgarchitecture.com)** | **[Internship](https://jobright.ai/jobs/info/6971b5ee587dfa0bb55f8070?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Jan 21 |
 | **[Torch Pictures](http://www.torchpictures.com)** | **[Creative Operations & Social Media Intern](https://jobright.ai/jobs/info/69715d1551f726477183a9ca?utm_campaign=1049&utm_source=git)** | Alexandria, VA | Hybrid | Jan 21 |
 | **[Benchmark Group, Inc.](http://teamofchoice.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69713026587dfa0bb55eb8cc?utm_campaign=1049&utm_source=git)** | Rogers, AR | On Site | Jan 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Project Coordination Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/69712ba5333b6343a14d9c7f?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Jan 21 |
