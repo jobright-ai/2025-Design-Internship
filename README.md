@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939c48bac80bb5492bc4a5a?utm_campaign=1049&utm_source=git)** | Ontario, CA | On Site | Jan 22 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939bfdeac80bb5492bc4707?utm_campaign=1049&utm_source=git)** | Walnut Creek, CA | On Site | Jan 22 |
+| **[Vivint](http://www.vivint.com)** | **[ID Intern](https://jobright.ai/jobs/info/696b0672db26b618950e7e17?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Jan 22 |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/693a279e56b68f3dc4e77b0e?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Jan 22 |
 | **[Zoox](https://www.zoox.com/)** | **[Design Systems Intern](https://jobright.ai/jobs/info/691d31260b7dff7341500b3e?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Jan 22 |
 | **[NRG Energy](http://www.nrg.com/)** | **[ID Intern](https://jobright.ai/jobs/info/693a237cac80bb5492bca658?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Jan 22 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/691b7380bcdbf3560c9def0c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 22 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdffbe0c73b3a1119fc36?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Jan 22 |
+| **[Inteva Products](https://www.intevaproducts.com/)** | **[Design Studio & Marketing Intern](https://jobright.ai/jobs/info/69676f001703f05405a92017?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Jan 22 |
 | **[Big Ass Fans](http://www.bigassfans.com)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6972078447b64f4e963e40bc?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Jan 22 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Experience Design](https://jobright.ai/jobs/info/691d2d1b7481340785ed485b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Visual Merchandising Internship](https://jobright.ai/jobs/info/6971f008b707bf728a4b890e?utm_campaign=1049&utm_source=git)** | Reynoldsburg, OH | On Site | Jan 22 |
@@ -103,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69717219587dfa0bb55f150f?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Jan 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - Interior Design](https://jobright.ai/jobs/info/6971523f333b6343a14ddc33?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 21 |
 | **[Andrew Kwon](http://www.andrewkwon.com)** | **[Couture Design Internship - 2026 / ANDREW KWON](https://jobright.ai/jobs/info/6971772e51f726477183d386?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 21 |
-| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6963af442cbf4e44756d61b7?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Planning & Urban Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971407b333b6343a14db456?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Jan 21 |
 | **[Klopfer Martin Design Group](https://www.klopfermartin.com/)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/69713e5b333b6343a14daf5e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 | **[Torch Pictures](http://www.torchpictures.com)** | **[Creative Operations & Social Media Intern](https://jobright.ai/jobs/info/69715d1551f726477183a9ca?utm_campaign=1049&utm_source=git)** | Alexandria, VA | Hybrid | Jan 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern (May – August 2026)](https://jobright.ai/jobs/info/691bb396bcdbf3560c9e1a01?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 21 |
 | **[International](https://www.international.com)** | **[Automotive Industrial Design Intern](https://jobright.ai/jobs/info/69390bbc610de506401c5d7c?utm_campaign=1049&utm_source=git)** | Lisle, IL | On Site | Jan 21 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 UX/UI Designer Intern](https://jobright.ai/jobs/info/69543018f1f8465b79eb5283?utm_campaign=1049&utm_source=git)** | Stamford, CT | Hybrid | Jan 21 |
-| **[New York Power Authority](http://www.nypa.gov)** | **[Digital End-User Experience, Developmental Intern](https://jobright.ai/jobs/info/69544593aa05c26e7aaec6f2?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Jan 21 |
-| **[Zoox](https://www.zoox.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6938ae6eb95c305f206dec53?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Jan 21 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[WDI Show Set Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6970d969587dfa0bb55e6b95?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 21 |
-| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Spring 2026 Full time)](https://jobright.ai/jobs/info/69388ff7b95c305f206dbe1f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
