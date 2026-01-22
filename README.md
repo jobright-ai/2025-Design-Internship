@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern - Interior Design](https://jobright.ai/jobs/info/69719bd8587dfa0bb55f4ae1?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 21 |
+| **[F.H. Paschen](http://fhpaschen.com)** | **[Graphic Design & Communications Intern - Chicago Summer 2026](https://jobright.ai/jobs/info/69719b07587dfa0bb55f4a2b?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jan 21 |
+| **[Arity](http://www.arity.com)** | **[Arity - Experience Design Intern - Arity](https://jobright.ai/jobs/info/69719703333b6343a14e3123?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69718bb9587dfa0bb55f3ccb?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/697189a9587dfa0bb55f3aef?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 21 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, UX Motion Design Prototyping (Summer)](https://jobright.ai/jobs/info/69717901587dfa0bb55f2ab0?utm_campaign=1049&utm_source=git)** | Mountain View, CA | Hybrid | Jan 21 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Beyer Blinder Belle](http://beyerblinderbelle.com)** | **[Graphic Design Intern- LVCK Studio](https://jobright.ai/jobs/info/6970519a51f72647718286a2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Acima](https://www.acima.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69705153587dfa0bb55dd7d5?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | Jan 20 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - UX Designer (Remote)](https://jobright.ai/jobs/info/6970511b587dfa0bb55dd7b2?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Remote | Jan 20 |
-| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69705009333b6343a14cbdad?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 20 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/697048ae587dfa0bb55dd1bf?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
+| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/697048ae587dfa0bb55dd1bf?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Student Intern - Marketing (Graphic Design) - Tulane University](https://jobright.ai/jobs/info/697047a6587dfa0bb55dccc7?utm_campaign=1049&utm_source=git)** | NEW ORLEANS, LA, US, 70118-6302 | On Site | Jan 20 |
 | **[Skyryse](https://www.skyryse.com/)** | **[Visualization Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6970479151f7264771827eea?utm_campaign=1049&utm_source=git)** | Greater Los Angeles Area, CA | On Site | Jan 20 |
 | **[American Management Association](http://www.amanet.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697064f651f726477182b63f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Urban Design](https://jobright.ai/jobs/info/697042ee333b6343a14caa61?utm_campaign=1049&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
-| **[HKS, Inc.](http://www.hksinc.com/)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/69704233587dfa0bb55dc3b0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
-| ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6970420551f7264771827218?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
