@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fed310f4e0f657ea43489?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jan 22 |
+| **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Art Director Intern](https://jobright.ai/jobs/info/697271c29b83b424830e6212?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | On Site | Jan 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Construction UX Research](https://jobright.ai/jobs/info/69725b3e4ccbf64f8df253bc?utm_campaign=1049&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 22 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/697252174ccbf64f8df23bc5?utm_campaign=1049&utm_source=git)** | United States, Washington, Redmond | Hybrid | Jan 22 |
 | **[Data Visualization Society](https://www.datavisualizationsociety.com/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/697268ea9b83b424830e5e39?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 22 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Happy Camp3r](http://thehappycamp3r.com)** | **[Design Intern – Summer 2026](https://jobright.ai/jobs/info/69715c4c333b6343a14de718?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69717219587dfa0bb55f150f?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Jan 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - Interior Design](https://jobright.ai/jobs/info/6971523f333b6343a14ddc33?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 21 |
-| **[Andrew Kwon](http://www.andrewkwon.com)** | **[Couture Design Internship - 2026 / ANDREW KWON](https://jobright.ai/jobs/info/6971772e51f726477183d386?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Planning & Urban Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971407b333b6343a14db456?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Jan 21 |
 | **[Klopfer Martin Design Group](https://www.klopfermartin.com/)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/69713e5b333b6343a14daf5e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 | **[Torch Pictures](http://www.torchpictures.com)** | **[Creative Operations & Social Media Intern](https://jobright.ai/jobs/info/69715d1551f726477183a9ca?utm_campaign=1049&utm_source=git)** | Alexandria, VA | Hybrid | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALIX OF BOHEMIA](http://www.alixofbohemia.com)** | **[Fashion Design Studio Intern](https://jobright.ai/jobs/info/6970e71c51f72647718320d1?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jan 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Interior Design Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/6970d57751f7264771831592?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Jan 21 |
 | **[Pond & Company](https://www.pondco.com)** | **[Landscape Architect Intern Summer 2025](https://jobright.ai/jobs/info/697238649b83b424830e28bf?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Jan 21 |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/695435faf1f8465b79eb5638?utm_campaign=1049&utm_source=git)** | Stamford, CT | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
