@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Spring 2026](https://jobright.ai/jobs/info/69324127f131d96e4845a2ed?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jan 21 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Illusion Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6971c2a7587dfa0bb55f8b79?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 21 |
+| **[Analog Devices](http://www.analog.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/695c844c9a87b95a9397d5ed?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 21 |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Animation Intern](https://jobright.ai/jobs/info/6971bc4f587dfa0bb55f85d8?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern - Interior Design](https://jobright.ai/jobs/info/69719bd8587dfa0bb55f4ae1?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 21 |
 | **[F.H. Paschen](http://fhpaschen.com)** | **[Graphic Design & Communications Intern - Chicago Summer 2026](https://jobright.ai/jobs/info/69719b07587dfa0bb55f4a2b?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jan 21 |
 | **[Arity](http://www.arity.com)** | **[Arity - Experience Design Intern - Arity](https://jobright.ai/jobs/info/69719703333b6343a14e3123?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/69707947587dfa0bb55e1842?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Urban Design](https://jobright.ai/jobs/info/69705bf6333b6343a14ce963?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Beyer Blinder Belle](http://beyerblinderbelle.com)** | **[Graphic Design Intern- LVCK Studio](https://jobright.ai/jobs/info/6970519a51f72647718286a2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 20 |
-| **[Acima](https://www.acima.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69705153587dfa0bb55dd7d5?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | Jan 20 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - UX Designer (Remote)](https://jobright.ai/jobs/info/6970511b587dfa0bb55dd7b2?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Remote | Jan 20 |
-| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/697048ae587dfa0bb55dd1bf?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
-| **[Aramark Destinations](https://thenationsvacation.com/)** | **[Student Intern - Marketing (Graphic Design) - Tulane University](https://jobright.ai/jobs/info/697047a6587dfa0bb55dccc7?utm_campaign=1049&utm_source=git)** | NEW ORLEANS, LA, US, 70118-6302 | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
