@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boll & Branch](https://www.bollandbranch.com)** | **[Style Intern](https://jobright.ai/jobs/info/692dfe60ef4b48533d13b735?utm_campaign=1049&utm_source=git)** | New Providence, NJ | On Site | Jan 22 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Graphic Design - 2026 Summer Internship](https://jobright.ai/jobs/info/6972ad53584a1c1ef6fdbfc7?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
+| **[Visual Concepts](https://www.vcentertainment.com)** | **[Character Artist, Clothing (Intern) - NBA 2K](https://jobright.ai/jobs/info/696c8e46db26b618950fdb71?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 22 |
+| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Graphic Design - Summer 2026](https://jobright.ai/jobs/info/6972abb49b83b424830eb3cb?utm_campaign=1049&utm_source=git)** | WI - Brillion | On Site | Jan 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6972a466584a1c1ef6fdb626?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[BSA](http://bsalifestructures.com)** | **[Interior Design Summer Internship - Austin](https://jobright.ai/jobs/info/6972a1c09b83b424830ea7e7?utm_campaign=1049&utm_source=git)** | Texas, Austin, TX, US | On Site | Jan 22 |
 | **[Skechers](http://www.skechers.com)** | **[Apparel Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69729d689b83b424830e9e44?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | On Site | Jan 22 |
@@ -69,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[ProAmpac](http://www.proampac.com)** | **[DASL Intern](https://jobright.ai/jobs/info/69728948584a1c1ef6fd84bb?utm_campaign=1049&utm_source=git)** | Rochester, NY 14624, USA | Hybrid | Jan 22 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/6972860d9b83b424830e76aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jan 22 |
 | **[Tonti Properties](https://tontiproperties.com)** | **[Real Estate Design Internship](https://jobright.ai/jobs/info/6972a08d9b83b424830ea531?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
+| **[PS&S](http://psands.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6972a8d0584a1c1ef6fdbce8?utm_campaign=1049&utm_source=git)** | Warren, NJ | On Site | Jan 22 |
 | **[Optimal Sports Management](http://www.optimalsports.net)** | **[Spring 2026 Sports Graphic Design Internship (Unpaid)](https://jobright.ai/jobs/info/69729f5f9b83b424830ea28f?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 22 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/69728015584a1c1ef6fd7b57?utm_campaign=1049&utm_source=git)** | West Palm Beach,FL,US | On Site | Jan 22 |
 | **[B&A Architectural Group Inc](http://www.baarchitecturalgroupinc.com)** | **[Intern Architect](https://jobright.ai/jobs/info/69729d1f9b83b424830e9d9b?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Jan 22 |
@@ -81,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Construction UX Research](https://jobright.ai/jobs/info/69725b3e4ccbf64f8df253bc?utm_campaign=1049&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 22 |
 | **[Soarce](http://soarceusa.com)** | **[Marketing and Design Lead](https://jobright.ai/jobs/info/6972998a4ccbf64f8df29762?utm_campaign=1049&utm_source=git)** | Oviedo, FL | On Site | Jan 22 |
 | **[Data Visualization Society](https://www.datavisualizationsociety.com/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/697268ea9b83b424830e5e39?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6972af124ccbf64f8df2ba35?utm_campaign=1049&utm_source=git)** | United States, Washington, Redmond | Hybrid | Jan 22 |
 | **[Hyperquake](https://www.hyperquake.com/)** | **[Experiential Designer: Summer Internship](https://jobright.ai/jobs/info/6972674b584a1c1ef6fd691c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 22 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Styling Intern](https://jobright.ai/jobs/info/697245c24ccbf64f8df232c4?utm_campaign=1049&utm_source=git)** | Lititz, PA | On Site | Jan 22 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6972431b584a1c1ef6fd3bd5?utm_campaign=1049&utm_source=git)** | 205 North Michigan Avenue, Chicago, IL, 60601, US | On Site | Jan 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[INTO Suffolk University](www.intostudy.com/suffolk)** | **[Marketing & Graphic Design Intern](https://jobright.ai/jobs/info/697126a9587dfa0bb55eaf79?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts | On Site | Jan 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971253e51f72647718359e2?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jan 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Master Planning Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/69714f4f587dfa0bb55eee64?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Jan 21 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971240951f7264771835904?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Jan 21 |
-| ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Jan 21 |
-| **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/69712261333b6343a14d94e2?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Jan 21 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Jan 21 |
-| ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220551f726477183580e?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Jan 21 |
-| ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
