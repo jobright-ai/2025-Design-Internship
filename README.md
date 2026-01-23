@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[KTGY Interior Design & Branded Environments](https://www.simeonedeary.com)** | **[Architecture & Sustainability Intern Associate - Summer 2026](https://jobright.ai/jobs/info/69730330694e99351d1446bd?utm_campaign=1049&utm_source=git)** | TX - Dallas, Dallas, TX, US | On Site | Jan 22 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6972eb1198522904c697bc9c?utm_campaign=1049&utm_source=git)** | Cleveland, OH | Hybrid | Jan 22 |
 | **[KTGY](http://ktgy.com)** | **[Architecture Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972ea161d55d64a20534bc4?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 22 |
-| **[CoPatible](https://copatible.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/6972e78a0488fd59f7d5e52b?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Jan 22 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Graphic Design - Summer 2026](https://jobright.ai/jobs/info/6972e57f98522904c697b946?utm_campaign=1049&utm_source=git)** | Brillion, WI | On Site | Jan 22 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/6972e3e71d55d64a20534734?utm_campaign=1049&utm_source=git)** | Newton, MA | Hybrid | Jan 22 |
 | **[KTGY](http://ktgy.com)** | **[Architecture Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972e2cf98522904c697b680?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 22 |
@@ -116,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6972a466584a1c1ef6fdb626?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[BSA](http://bsalifestructures.com)** | **[Interior Design Summer Internship - Austin](https://jobright.ai/jobs/info/6972a1c09b83b424830ea7e7?utm_campaign=1049&utm_source=git)** | Texas, Austin, TX, US | On Site | Jan 22 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Copy of Landscape Architecture Intern](https://jobright.ai/jobs/info/697310d41790715e866c1550?utm_campaign=1049&utm_source=git)** | Pleasanton, CA | On Site | Jan 22 |
-| **[CTC EdTech](www.ctcedtech.com)** | **[UI/UX, Digital Marketing & Content Design Intern (Figma)](https://jobright.ai/jobs/info/6972bd1b9b83b424830ec483?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Jan 22 |
 | **[Skechers](http://www.skechers.com)** | **[Apparel Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69729d689b83b424830e9e44?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | On Site | Jan 22 |
 | **[Velera](https://www.velera.com)** | **[Intern - UX Research & Strategy - Remote](https://jobright.ai/jobs/info/696074faa1bbea1d9a7b4b95?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 22 |
 | **[PS&S](http://psands.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/697296234ccbf64f8df28f8e?utm_campaign=1049&utm_source=git)** | Warren, NJ, US | On Site | Jan 22 |
@@ -127,11 +125,11 @@ For a complete list, click the following sortable link below:
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/69728dc44ccbf64f8df28026?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Jan 22 |
 | **[ProAmpac](http://www.proampac.com)** | **[DASL Intern](https://jobright.ai/jobs/info/69728948584a1c1ef6fd84bb?utm_campaign=1049&utm_source=git)** | Rochester, NY 14624, USA | Hybrid | Jan 22 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/6972860d9b83b424830e76aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jan 22 |
+| **[B&A Architectural Group Inc](http://www.baarchitecturalgroupinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69729d1f9b83b424830e9d9b?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Jan 22 |
 | **[Tonti Properties](https://tontiproperties.com)** | **[Real Estate Design Internship](https://jobright.ai/jobs/info/6972a08d9b83b424830ea531?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | **[PS&S](http://psands.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6972a8d0584a1c1ef6fdbce8?utm_campaign=1049&utm_source=git)** | Warren, NJ | On Site | Jan 22 |
 | **[Optimal Sports Management](http://www.optimalsports.net)** | **[Spring 2026 Sports Graphic Design Internship (Unpaid)](https://jobright.ai/jobs/info/69729f5f9b83b424830ea28f?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 22 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/69728015584a1c1ef6fd7b57?utm_campaign=1049&utm_source=git)** | West Palm Beach,FL,US | On Site | Jan 22 |
-| **[B&A Architectural Group Inc](http://www.baarchitecturalgroupinc.com)** | **[Intern Architect](https://jobright.ai/jobs/info/69729d1f9b83b424830e9d9b?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Jan 22 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69729c92584a1c1ef6fda4bd?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fed310f4e0f657ea43489?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jan 22 |
 | **[Skechers](http://www.skechers.com)** | **[Apparel Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6972a1944ccbf64f8df2a970?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | On Site | Jan 22 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/693a279e56b68f3dc4e77b0e?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Jan 22 |
 | **[Zoox](https://www.zoox.com/)** | **[Design Systems Intern](https://jobright.ai/jobs/info/691d31260b7dff7341500b3e?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Jan 22 |
 | **[NRG Energy](http://www.nrg.com/)** | **[ID Intern](https://jobright.ai/jobs/info/693a237cac80bb5492bca658?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Jan 22 |
+| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/691b7380bcdbf3560c9def0c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 22 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdffbe0c73b3a1119fc36?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
