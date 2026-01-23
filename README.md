@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/6973be91bc8e722e7b188ff5?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
+| ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/6973be11206da320f49db9d0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
+| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6973bb22206da320f49db7c1?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
+| ↳ | **[Digital Writer Intern](https://jobright.ai/jobs/info/6973ba15bc8e722e7b188d90?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Advanced UX Engineering](https://jobright.ai/jobs/info/6973b124206da320f49db2d2?utm_campaign=1049&utm_source=git)** | Novi, MI | Hybrid | Jan 23 |
 | **[CBC New Media Group, LLC](https://www.linkedin.com/company/5866674)** | **[Creative Content & Social Media Summer Intern](https://jobright.ai/jobs/info/6973ac69206da320f49db03f?utm_campaign=1049&utm_source=git)** | Zebulon, NC, US | On Site | Jan 23 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Graphic Design Summer Intern](https://jobright.ai/jobs/info/6973a8b437785856350d80b0?utm_campaign=1049&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 23 |
@@ -83,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdf4ee04ac838fb5bc8fc?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 23 |
 | **[Atlassian](https://www.atlassian.com)** | **[Creative Operations Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/6959f8beaa05c26e7ab3a611?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Jan 23 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[User Experience Communications Intern Summer 2026](https://jobright.ai/jobs/info/69018352d5259a1b3cff5a25?utm_campaign=1049&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 23 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdcd10ab3b222462af360?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 23 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69336705764507023d1b53aa?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 23 |
 | **[Champions Group Holdings](http://ChampionsGroupHoldings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69734450206da320f49d50c9?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | Jan 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hyperquake](https://www.hyperquake.com/)** | **[Experiential Designer: Summer Internship](https://jobright.ai/jobs/info/6972674b584a1c1ef6fd691c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 22 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Styling Intern](https://jobright.ai/jobs/info/697245c24ccbf64f8df232c4?utm_campaign=1049&utm_source=git)** | Lititz, PA | On Site | Jan 22 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6972431b584a1c1ef6fd3bd5?utm_campaign=1049&utm_source=git)** | 205 North Michigan Avenue, Chicago, IL, 60601, US | On Site | Jan 22 |
-| **[Corning Incorporated](https://www.corning.com/)** | **[Multimedia Intern - Summer 2026](https://jobright.ai/jobs/info/697242f04ccbf64f8df23191?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US, 28216 | On Site | Jan 22 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Construction UX Research](https://jobright.ai/jobs/info/69726b56584a1c1ef6fd6b4a?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 22 |
-| **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/6942204a50bbaf765053fda9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
-| **[Philo Homes](https://philo.homes/)** | **[Digital Design Intern (AI Video)_Bilingual Mandarin](https://jobright.ai/jobs/info/69725e8a9b83b424830e57ea?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jan 22 |
-| **[MBH Architects](https://www.mbharch.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/696f9ecf0f4e0f657ea3e837?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
