@@ -57,15 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6972eb1198522904c697bc9c?utm_campaign=1049&utm_source=git)** | Cleveland, OH | Hybrid | Jan 22 |
+| **[KTGY](http://ktgy.com)** | **[Architecture Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972ea161d55d64a20534bc4?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 22 |
+| **[CoPatible](https://copatible.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/6972e78a0488fd59f7d5e52b?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Jan 22 |
+| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Graphic Design - Summer 2026](https://jobright.ai/jobs/info/6972e57f98522904c697b946?utm_campaign=1049&utm_source=git)** | Brillion, WI | On Site | Jan 22 |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/6972e3e71d55d64a20534734?utm_campaign=1049&utm_source=git)** | Newton, MA | Hybrid | Jan 22 |
+| **[KTGY](http://ktgy.com)** | **[Architecture Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972e2cf98522904c697b680?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 22 |
+| ↳ | **[Architecture Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972e2bf1d55d64a205345e5?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Jan 22 |
 | **[Boncom](https://www.boncom.com/)** | **[2026 Creative Technologist Intern](https://jobright.ai/jobs/info/6972d65c0488fd59f7d5cfce?utm_campaign=1049&utm_source=git)** | Salt Lake City,UT,US | Hybrid | Jan 22 |
+| **[KTGY](http://ktgy.com)** | **[Architecture & Sustainability Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972ee1e0488fd59f7d5e9d3?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | **[Curiosity](https://www.curiosity.fun)** | **[Design Intern](https://jobright.ai/jobs/info/6972d0dd1d55d64a20532ff9?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jan 22 |
 | **[Boncom](https://www.boncom.com/)** | **[2026 Motion Graphics Intern](https://jobright.ai/jobs/info/6972d0330488fd59f7d5c73e?utm_campaign=1049&utm_source=git)** | Salt Lake City,UT,US | Hybrid | Jan 22 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Art Director Intern](https://jobright.ai/jobs/info/6972c4694ccbf64f8df2cfe0?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Interior Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/6972becb584a1c1ef6fdd08f?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Jan 22 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/6972beaf4ccbf64f8df2c9b2?utm_campaign=1049&utm_source=git)** | Asheville, NC | On Site | Jan 22 |
+| **[Boncom](https://www.boncom.com/)** | **[2026 Design Intern](https://jobright.ai/jobs/info/6972e5a81d55d64a20534938?utm_campaign=1049&utm_source=git)** | Salt Lake City,UT,US | Hybrid | Jan 22 |
+| ↳ | **[2026 Advertising Agency Art Director Intern](https://jobright.ai/jobs/info/6972e46198522904c697b812?utm_campaign=1049&utm_source=git)** | Salt Lake City,UT,US | Hybrid | Jan 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fd70582817106e976db0c?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Jan 22 |
 | **[KTGY](http://ktgy.com)** | **[Architecture Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972e0f71d55d64a205343e1?utm_campaign=1049&utm_source=git)** | CA - Irvine, Irvine, CA, US | On Site | Jan 22 |
 | ↳ | **[Architecture Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972d9641d55d64a20533abd?utm_campaign=1049&utm_source=git)** | CA - Oakland, Oakland, CA, US | On Site | Jan 22 |
+| **[Delve](https://www.delve.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6972e3e31d55d64a2053472e?utm_campaign=1049&utm_source=git)** | WI | On Site | Jan 22 |
 | **[KTGY Interior Design & Branded Environments](https://www.simeonedeary.com)** | **[Architecture Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972dc420488fd59f7d5d79f?utm_campaign=1049&utm_source=git)** | CA - Oakland, Oakland, CA, US | On Site | Jan 22 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Style Intern](https://jobright.ai/jobs/info/692dfe60ef4b48533d13b735?utm_campaign=1049&utm_source=git)** | New Providence, NJ | On Site | Jan 22 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Multimedia Intern - Summer 2026](https://jobright.ai/jobs/info/6972d9270488fd59f7d5d383?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WestRock Company](http://www.westrock.com)** | **[Design Intern - Carol Stream, IL - Summer 2026](https://jobright.ai/jobs/info/6972a0684ccbf64f8df2a706?utm_campaign=1049&utm_source=git)** | Carol Stream, IL | On Site | Jan 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69717135587dfa0bb55f0ea0?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697170fc587dfa0bb55f0e85?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Jan 21 |
-| ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69717004587dfa0bb55f0e07?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
-| ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69716ec6333b6343a14df63d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
-| ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69716e8f333b6343a14df616?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Jan 21 |
-| ↳ | **[Planning & Urban Design Intern / Summer 2026](https://jobright.ai/jobs/info/69716e8751f726477183b7ec?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
-| ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69716d34587dfa0bb55f0c30?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Jan 21 |
-| **[Allstate](http://www.allstate.com)** | **[Arity - Experience Design Intern](https://jobright.ai/jobs/info/69716878333b6343a14df13b?utm_campaign=1049&utm_source=git)** | USA - IL (Remote) | Remote | Jan 21 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697167f551f726477183b2d4?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 21 |
-| ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69716676333b6343a14def55?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
-| ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697165e451f726477183b0e1?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Jan 21 |
-| ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69716593587dfa0bb55f0651?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
-| **[PM Group](http://www.pmgroup-global.com/)** | **[Architectural Designer Co-op/Intern](https://jobright.ai/jobs/info/697163fd333b6343a14decd6?utm_campaign=1049&utm_source=git)** | Burlington, MA | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
