@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optimite](https://optimite.net/)** | **[Email Design Intern](https://jobright.ai/jobs/info/69738b72206da320f49d87f1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 23 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 UX Design paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dd85f1f8465b79edcf0b?utm_campaign=1049&utm_source=git)** | Riverton, UT | Hybrid | Jan 23 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: CMF Industrial Design Co-op (February to July)](https://jobright.ai/jobs/info/68ae9a5a03c5f15c2fd8a53d?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jan 23 |
 | **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6933fad3a0dde7020e2f37ee?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Jan 23 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/68ca6ef25f9f0336447ddc24?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 23 |
@@ -125,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/69728dc44ccbf64f8df28026?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Jan 22 |
 | **[ProAmpac](http://www.proampac.com)** | **[DASL Intern](https://jobright.ai/jobs/info/69728948584a1c1ef6fd84bb?utm_campaign=1049&utm_source=git)** | Rochester, NY 14624, USA | Hybrid | Jan 22 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/6972860d9b83b424830e76aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jan 22 |
+| **[Watts & Dray](https://www.watts-dray.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/697389f2206da320f49d86e6?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jan 22 |
 | **[B&A Architectural Group Inc](http://www.baarchitecturalgroupinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69729d1f9b83b424830e9d9b?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Jan 22 |
 | **[Tonti Properties](https://tontiproperties.com)** | **[Real Estate Design Internship](https://jobright.ai/jobs/info/6972a08d9b83b424830ea531?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | **[PS&S](http://psands.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6972a8d0584a1c1ef6fdbce8?utm_campaign=1049&utm_source=git)** | Warren, NJ | On Site | Jan 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vivint](http://www.vivint.com)** | **[ID Intern](https://jobright.ai/jobs/info/696b0672db26b618950e7e17?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Jan 22 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/693a279e56b68f3dc4e77b0e?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Jan 22 |
 | **[Zoox](https://www.zoox.com/)** | **[Design Systems Intern](https://jobright.ai/jobs/info/691d31260b7dff7341500b3e?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Jan 22 |
-| **[NRG Energy](http://www.nrg.com/)** | **[ID Intern](https://jobright.ai/jobs/info/693a237cac80bb5492bca658?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Jan 22 |
-| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/691b7380bcdbf3560c9def0c?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 22 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdffbe0c73b3a1119fc36?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
