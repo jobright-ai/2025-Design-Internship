@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Advanced UX Engineering](https://jobright.ai/jobs/info/6973b124206da320f49db2d2?utm_campaign=1049&utm_source=git)** | Novi, MI | Hybrid | Jan 23 |
+| **[CBC New Media Group, LLC](https://www.linkedin.com/company/5866674)** | **[Creative Content & Social Media Summer Intern](https://jobright.ai/jobs/info/6973ac69206da320f49db03f?utm_campaign=1049&utm_source=git)** | Zebulon, NC, US | On Site | Jan 23 |
+| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Graphic Design Summer Intern](https://jobright.ai/jobs/info/6973a8b437785856350d80b0?utm_campaign=1049&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 23 |
+| **[CBC Real Estate](https://www.cbcrealestate.com/)** | **[Creative Content & Social Media Summer Intern](https://jobright.ai/jobs/info/6973a809206da320f49dac97?utm_campaign=1049&utm_source=git)** | Zebulon, NC, US | On Site | Jan 23 |
+| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Graphic Design Summer Intern](https://jobright.ai/jobs/info/6973a780206da320f49dac32?utm_campaign=1049&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | On Site | Jan 23 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69700bd93ed06875134b09cd?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Jan 23 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Advanced UX Engineering](https://jobright.ai/jobs/info/697399d6206da320f49d8ea6?utm_campaign=1049&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | Hybrid | Jan 23 |
 | **[Optimite](https://optimite.net/)** | **[Email Design Intern](https://jobright.ai/jobs/info/69738b72206da320f49d87f1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 23 |
@@ -129,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/69728dc44ccbf64f8df28026?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Jan 22 |
 | **[ProAmpac](http://www.proampac.com)** | **[DASL Intern](https://jobright.ai/jobs/info/69728948584a1c1ef6fd84bb?utm_campaign=1049&utm_source=git)** | Rochester, NY 14624, USA | Hybrid | Jan 22 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/6972860d9b83b424830e76aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jan 22 |
-| **[Watts & Dray](https://www.watts-dray.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/697389f2206da320f49d86e6?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jan 22 |
 | **[B&A Architectural Group Inc](http://www.baarchitecturalgroupinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69729d1f9b83b424830e9d9b?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Jan 22 |
 | **[Tonti Properties](https://tontiproperties.com)** | **[Real Estate Design Internship](https://jobright.ai/jobs/info/6972a08d9b83b424830ea531?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | **[PS&S](http://psands.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6972a8d0584a1c1ef6fdbce8?utm_campaign=1049&utm_source=git)** | Warren, NJ | On Site | Jan 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/6942204a50bbaf765053fda9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | **[Philo Homes](https://philo.homes/)** | **[Digital Design Intern (AI Video)_Bilingual Mandarin](https://jobright.ai/jobs/info/69725e8a9b83b424830e57ea?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jan 22 |
 | **[MBH Architects](https://www.mbharch.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/696f9ecf0f4e0f657ea3e837?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 22 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Design Engineering Intern, Advanced Development (May to August)](https://jobright.ai/jobs/info/68cc831d128dc347fd925fcc?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jan 22 |
-| **[Stripe](https://stripe.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69729777584a1c1ef6fd9998?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 22 |
-| **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939c48bac80bb5492bc4a5a?utm_campaign=1049&utm_source=git)** | Ontario, CA | On Site | Jan 22 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939bfdeac80bb5492bc4707?utm_campaign=1049&utm_source=git)** | Walnut Creek, CA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
