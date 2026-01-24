@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[3D Computer Graphics Intern](https://jobright.ai/jobs/info/697493f7bc8e722e7b19adcb?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 24 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Graphic Design Intern](https://jobright.ai/jobs/info/697474e9206da320f49eb3be?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | ↳ | **[Summer 2026 Video Production and Media Intern](https://jobright.ai/jobs/info/6974734c37785856350e8b3b?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[To & Fro](https://www.linkedin.com/company/12644491)** | **[UX Design Intern](https://jobright.ai/jobs/info/69747249bc8e722e7b198534?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 23 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 Video Production and Media Intern](https://jobright.ai/jobs/info/69741d99206da320f49e3eda?utm_campaign=1049&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69741d1b37785856350e1603?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Jan 23 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Aviation Student Intern - Interior Design](https://jobright.ai/jobs/info/69741ad0206da320f49e3bc8?utm_campaign=1049&utm_source=git)** | Tampa, Florida, United States | On Site | Jan 23 |
-| **[My Monthly](https://www.mymonthly.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6974109137785856350df53a?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jan 23 |
 | **[Saleseraian](https://salesera.net/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69741023bc8e722e7b18f136?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Interior Design](https://jobright.ai/jobs/info/69742e11bc8e722e7b192454?utm_campaign=1049&utm_source=git)** | Tampa, Florida, United States | On Site | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Graphic Design Intern](https://jobright.ai/jobs/info/69742f4f206da320f49e51cf?utm_campaign=1049&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
@@ -94,9 +94,9 @@ For a complete list, click the following sortable link below:
 | **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/697429b5206da320f49e4b6f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742e83bc8e722e7b1924e1?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742b65bc8e722e7b19214f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
-| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742b40206da320f49e4d3f?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/6974302437785856350e2a9f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/697428f4bc8e722e7b191e36?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
+| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742b40206da320f49e4d3f?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742dc537785856350e27da?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 23 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Art Direction Intern (Summer)](https://jobright.ai/jobs/info/69740991bc8e722e7b18ed6e?utm_campaign=1049&utm_source=git)** | Los Angeles | Hybrid | Jan 23 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Character Tech Art Intern](https://jobright.ai/jobs/info/69740360bc8e722e7b18e7b9?utm_campaign=1049&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 23 |
