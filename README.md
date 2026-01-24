@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/697420aa37785856350e19f8?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
+| **[Berners Schober](https://bernersschober.com/)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/69741fd7206da320f49e4134?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Jan 23 |
+| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/69741eb5bc8e722e7b19135a?utm_campaign=1049&utm_source=git)** | Wilson, NC, US | On Site | Jan 23 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 Video Production and Media Intern](https://jobright.ai/jobs/info/69741d99206da320f49e3eda?utm_campaign=1049&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
+| **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69741d1b37785856350e1603?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Jan 23 |
+| **[Gresham Smith](http://www.greshamsmith.com)** | **[Aviation Student Intern - Interior Design](https://jobright.ai/jobs/info/69741ad0206da320f49e3bc8?utm_campaign=1049&utm_source=git)** | Tampa, Florida, United States | On Site | Jan 23 |
 | **[My Monthly](https://www.mymonthly.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6974109137785856350df53a?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jan 23 |
 | **[Saleseraian](https://salesera.net/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69741023bc8e722e7b18f136?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Art Direction Intern (Summer)](https://jobright.ai/jobs/info/69740991bc8e722e7b18ed6e?utm_campaign=1049&utm_source=git)** | Los Angeles | Hybrid | Jan 23 |
@@ -131,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/6973be11206da320f49db9d0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6973bb22206da320f49db7c1?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | ↳ | **[Digital Writer Intern](https://jobright.ai/jobs/info/6973ba15bc8e722e7b188d90?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
-| **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6973d979bc8e722e7b18a8fd?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 23 |
-| ↳ | **[Intern - Architecture](https://jobright.ai/jobs/info/6973d878206da320f49dd2f4?utm_campaign=1049&utm_source=git)** | Dallas, Texas, United States | On Site | Jan 23 |
+| **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6973d878206da320f49dd2f4?utm_campaign=1049&utm_source=git)** | Dallas, Texas, United States | On Site | Jan 23 |
+| ↳ | **[Intern - Architecture](https://jobright.ai/jobs/info/6973d979bc8e722e7b18a8fd?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 23 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Advanced UX Engineering](https://jobright.ai/jobs/info/6973b124206da320f49db2d2?utm_campaign=1049&utm_source=git)** | Novi, MI | Hybrid | Jan 23 |
 | **[CBC New Media Group, LLC](https://www.linkedin.com/company/5866674)** | **[Creative Content & Social Media Summer Intern](https://jobright.ai/jobs/info/6973ac69206da320f49db03f?utm_campaign=1049&utm_source=git)** | Zebulon, NC, US | On Site | Jan 23 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Graphic Design Summer Intern](https://jobright.ai/jobs/info/6973a8b437785856350d80b0?utm_campaign=1049&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Design Engineering Co-op, Advanced Development (February to July)](https://jobright.ai/jobs/info/68cd8320e23def7af55bb027?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jan 23 |
 | ↳ | **[Summer 2026: Industrial Design Intern (May to August)](https://jobright.ai/jobs/info/68cb5948efdec76df36bb83c?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Illusion Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69736cc037785856350d3653?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 23 |
-| ↳ | **[WDI Project Coordination Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/6970c92051f72647718303a9?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Jan 23 |
-| ↳ | **[WDI Master Planning Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/69736a67206da320f49d5edc?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Jan 23 |
-| ↳ | **[WDI Show Set Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6970c52d587dfa0bb55e4a7f?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 23 |
-| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Illusion Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69737813206da320f49d7cf0?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 23 |
-| ↳ | **[WDI Master Planning Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/69737a7fbc8e722e7b1853b3?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Jan 23 |
-| **[Gelpac](https://www.gelpac.com/)** | **[DASL Intern](https://jobright.ai/jobs/info/69735aabbc8e722e7b1831a6?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
