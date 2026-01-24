@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perkins&Will](http://perkinswill.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/69745bed37785856350e7549?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220551f726477183580e?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Jan 23 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Character Tech Art Intern](https://jobright.ai/jobs/info/697444ba37785856350e3c5e?utm_campaign=1049&utm_source=git)** | San Carlos, CA | Hybrid | Jan 23 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jan 23 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Aviation Student Intern - Interior Design](https://jobright.ai/jobs/info/697439d837785856350e345e?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Jan 23 |
@@ -87,9 +89,9 @@ For a complete list, click the following sortable link below:
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/697428c1206da320f49e4ab6?utm_campaign=1049&utm_source=git)** | US-NC-Wilson | On Site | Jan 23 |
 | **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/697429b5206da320f49e4b6f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742e83bc8e722e7b1924e1?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Jan 23 |
-| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742b65bc8e722e7b19214f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/697428f4bc8e722e7b191e36?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/6974302437785856350e2a9f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jan 23 |
+| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742b65bc8e722e7b19214f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742b40206da320f49e4d3f?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742dc537785856350e27da?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 23 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Art Direction Intern (Summer)](https://jobright.ai/jobs/info/69740991bc8e722e7b18ed6e?utm_campaign=1049&utm_source=git)** | Los Angeles | Hybrid | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Disney Live Entertainment Art Studio Intern, Summer-Fall 2026](https://jobright.ai/jobs/info/6973e8df206da320f49de0af?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Jan 23 |
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6973c62d37785856350d96eb?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jan 23 |
 | **[DAHLIN Architecture | Planning | Interiors](http://dahlingroup.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/6973c625bc8e722e7b18939e?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 23 |
-| **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/6973c50537785856350d959e?utm_campaign=1049&utm_source=git)** | Irvine,CA,US | On Site | Jan 23 |
-| **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6973c4d337785856350d9578?utm_campaign=1049&utm_source=git)** | Ontario, CA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
