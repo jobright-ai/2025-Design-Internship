@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Advertising Agency Art Director Intern](https://jobright.ai/jobs/info/697673dcbc8e722e7b1b05b1?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
+| **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69767e213778585635102af7?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
+| ↳ | **[Advertising Agency Art Director Intern](https://jobright.ai/jobs/info/697673dcbc8e722e7b1b05b1?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
 | ↳ | **[Creative Technologist Intern](https://jobright.ai/jobs/info/6976717f3778585635101391?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/697670783778585635101311?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
 | **[FOCO](https://www.foco.com)** | **[Internship Program, Summer 2026 - Design](https://jobright.ai/jobs/info/697655c1bc8e722e7b1afa26?utm_campaign=1049&utm_source=git)** | Piscataway, NJ | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Jan 23 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/697426d2206da320f49e4925?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Creative Innovation Intern (Summer 2026)](https://jobright.ai/jobs/info/6974253237785856350e1f35?utm_campaign=1049&utm_source=git)** | Los Angeles,California,United States of America | On Site | Jan 23 |
-| **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/6974252a37785856350e1f2e?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
