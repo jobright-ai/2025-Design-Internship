@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6975a980bc8e722e7b1a8951?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Jan 24 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6975be1abc8e722e7b1a9304?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jan 24 |
+| ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6975a980bc8e722e7b1a8951?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Jan 24 |
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Jan 24 |
 | **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Graphic Design (Spring 2026)](https://jobright.ai/jobs/info/6975739f37785856350f5520?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 24 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/69755aa7206da320f49f5ad4?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Jan 24 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Interior Design Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/6970d57751f7264771831592?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Jan 23 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/69745bed37785856350e7549?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220551f726477183580e?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Jan 23 |
-| **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[K-12 Graphic Design Internship](https://jobright.ai/jobs/info/6975a0fd37785856350f8b17?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Jan 23 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Character Tech Art Intern](https://jobright.ai/jobs/info/697444ba37785856350e3c5e?utm_campaign=1049&utm_source=git)** | San Carlos, CA | Hybrid | Jan 23 |
 | **[WestRock Company](http://www.westrock.com)** | **[Design Intern - Carol Stream, IL - Summer 2026](https://jobright.ai/jobs/info/6975a09137785856350f873f?utm_campaign=1049&utm_source=git)** | Carol Stream, IL | On Site | Jan 23 |
 | **[Evander Miami](https://evandermiami.com/)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/69745f5d206da320f49e9e40?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Jan 23 |
