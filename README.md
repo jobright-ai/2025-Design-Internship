@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Service Publications Intern - The Toro Company](https://jobright.ai/jobs/info/68cc1c977342c7623ae5f68c?utm_campaign=1049&utm_source=git)** | Hennepin County, MN | On Site | Jan 25 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6975be1abc8e722e7b1a9304?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jan 24 |
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6975a980bc8e722e7b1a8951?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Jan 24 |
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Jan 24 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/69751288206da320f49f2f58?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Jan 24 |
 | ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/69751284206da320f49f2f57?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | ↳ | **[Interior Design Student Intern](https://jobright.ai/jobs/info/6975124937785856350f089b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 24 |
+| ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/6974f72f206da320f49f1e4b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/6974f5e5206da320f49f1267?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 24 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6974e815bc8e722e7b19e24f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 User Experience Research Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/6974e15dbc8e722e7b19e04a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/6974312e206da320f49e52cf?utm_campaign=1049&utm_source=git)** | Wilson, NC | On Site | Jan 23 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/697237b84ccbf64f8df22628?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Creative Innovation Intern (Summer 2026)](https://jobright.ai/jobs/info/69742925206da320f49e4af9?utm_campaign=1049&utm_source=git)** | Los Angeles | On Site | Jan 23 |
-| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/697428c1206da320f49e4ab6?utm_campaign=1049&utm_source=git)** | US-NC-Wilson | On Site | Jan 23 |
-| **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/697429b5206da320f49e4b6f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
