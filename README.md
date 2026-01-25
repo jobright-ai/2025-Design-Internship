@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Graphic Design (Spring 2026)](https://jobright.ai/jobs/info/6975739f37785856350f5520?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 24 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/69755aa7206da320f49f5ad4?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Jan 24 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fe9c282817106e976eff1?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Jan 24 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/69753b7037785856350f314b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Architecture/Interior Design](https://jobright.ai/jobs/info/693c91a349a7695fbd034cd5?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69583c589f1b381eb271270b?utm_campaign=1049&utm_source=git)** | Honolulu, HI | Hybrid | Jan 24 |
+| **[Psomas](https://psomas.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/69756b63206da320f49f7526?utm_campaign=1049&utm_source=git)** | Seattle, WA, US | On Site | Jan 24 |
 | **[Netflix](https://www.netflix.com)** | **[Creative Innovation Intern (Summer 2026)](https://jobright.ai/jobs/info/6974c1fc37785856350ed7af?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[National Geographic Cartography Intern, Summer 2026](https://jobright.ai/jobs/info/6974c10f206da320f49efdb4?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 24 |
 | ↳ | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026 2026](https://jobright.ai/jobs/info/6974c06a206da320f49efda9?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
@@ -145,16 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/6974312e206da320f49e52cf?utm_campaign=1049&utm_source=git)** | Wilson, NC | On Site | Jan 23 |
 | **[Netflix](https://www.netflix.com)** | **[Creative Innovation Intern (Summer 2026)](https://jobright.ai/jobs/info/69742925206da320f49e4af9?utm_campaign=1049&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/697428c1206da320f49e4ab6?utm_campaign=1049&utm_source=git)** | US-NC-Wilson | On Site | Jan 23 |
-| **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742e83bc8e722e7b1924e1?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Jan 23 |
-| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/697429b5206da320f49e4b6f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
-| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742b65bc8e722e7b19214f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
-| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/697428f4bc8e722e7b191e36?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
+| **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/697429b5206da320f49e4b6f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
+| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742e83bc8e722e7b1924e1?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/6974302437785856350e2a9f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742b40206da320f49e4d3f?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Jan 23 |
+| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/697428f4bc8e722e7b191e36?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
+| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742b65bc8e722e7b19214f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742dc537785856350e27da?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 23 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Art Direction Intern (Summer)](https://jobright.ai/jobs/info/69740991bc8e722e7b18ed6e?utm_campaign=1049&utm_source=git)** | Los Angeles | Hybrid | Jan 23 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Character Tech Art Intern](https://jobright.ai/jobs/info/69740360bc8e722e7b18e7b9?utm_campaign=1049&utm_source=git)** | Hybrid - San Carlos, CA | Hybrid | Jan 23 |
 | **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6974011537785856350de957?utm_campaign=1049&utm_source=git)** | Ontario, CA | On Site | Jan 23 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[3D Computer Graphics Intern](https://jobright.ai/jobs/info/697400e9206da320f49e10e5?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, Florida | On Site | Jan 23 |
-| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Marketing, Graphic Design](https://jobright.ai/jobs/info/6973fd87206da320f49e0da7?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
