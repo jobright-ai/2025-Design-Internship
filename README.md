@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6975a980bc8e722e7b1a8951?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Jan 24 |
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Jan 24 |
 | **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Graphic Design (Spring 2026)](https://jobright.ai/jobs/info/6975739f37785856350f5520?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 24 |
+| **[Archinect](https://archinect.com)** | **[Summer Design Interns](https://jobright.ai/jobs/info/6975e0f9bc8e722e7b1ab772?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/69755aa7206da320f49f5ad4?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Jan 24 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fe9c282817106e976eff1?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Jan 24 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/69753b7037785856350f314b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Netflix](https://www.netflix.com)** | **[Creative Innovation Intern (Summer 2026)](https://jobright.ai/jobs/info/69742925206da320f49e4af9?utm_campaign=1049&utm_source=git)** | Los Angeles | On Site | Jan 23 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/697428c1206da320f49e4ab6?utm_campaign=1049&utm_source=git)** | US-NC-Wilson | On Site | Jan 23 |
 | **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/697429b5206da320f49e4b6f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
-| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69742e83bc8e722e7b1924e1?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
