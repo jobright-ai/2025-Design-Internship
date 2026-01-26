@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/6905203d63502c0aded785cc?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697009720f4e0f657ea4650f?utm_campaign=1049&utm_source=git)** | Cleveland, Ohio, United States | Hybrid | Jan 26 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Creative Production](https://jobright.ai/jobs/info/697723effdeb8243a279f38e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Special Effects Designer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697706ae88e2b47213baee1b?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 25 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/6958a9b9f1f8465b79ef2cfa?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical UX Content Strategist Intern](https://jobright.ai/jobs/info/69203d0500c9ee50eaec089e?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Master Planning Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/69722dbc47b64f4e963e72cf?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 24 |
-| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026 2026](https://jobright.ai/jobs/info/6974d443bc8e722e7b19d934?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
-| ↳ | **[Disney Live Entertainment Lighting Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974cefb37785856350ede05?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Lighting Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974cefb37785856350ede05?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
+| ↳ | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026 2026](https://jobright.ai/jobs/info/6974d443bc8e722e7b19d934?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
 | ↳ | **[Disney Live Entertainment Art Studio Intern, Summer-Fall 2026](https://jobright.ai/jobs/info/6974cb47206da320f49f0244?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[D+ Graphic Design Intern, Summer 2026](https://jobright.ai/jobs/info/6974cfc0bc8e722e7b19d6f2?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Jan 24 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/69589e8f9f1b381eb271795e?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Interior Design Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/6970c98651f72647718303b0?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 23 |
 | **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/697432e6206da320f49e53ae?utm_campaign=1049&utm_source=git)** | Naples, FL | On Site | Jan 23 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/6974317cbc8e722e7b1927f1?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jan 23 |
-| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing and Graphics Design Intern - Furman University](https://jobright.ai/jobs/info/697430f237785856350e2b8c?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
