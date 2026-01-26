@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977c10952f3c27ec643e2f0?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Jan 26 |
+| **[Wearitt](https://wearitt-app.webflow.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/6977c0c188e2b47213bbb671?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 26 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6977bf4952f3c27ec643e213?utm_campaign=1049&utm_source=git)** | Modesto, CA | On Site | Jan 26 |
+| **[Alliance College-Ready Public Schools](http://www.laalliance.org)** | **[Intern, Creative - Video/Design (Unpaid)](https://jobright.ai/jobs/info/6977b89afdeb8243a27aa4f6?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 26 |
+| **[Caplugs](http://www.caplugs.com)** | **[Graphic Design/ Video Marketing Intern](https://jobright.ai/jobs/info/6952f5fc5bb7de448ef6181b?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Jan 26 |
 | **[Business of Home](https://businessofhome.com)** | **[Full-Time Interior Design Intern](https://jobright.ai/jobs/info/6977af2d88e2b47213bb9da7?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Jan 26 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6977a49bfdeb8243a27a8406?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 26 |
 | **[Propac Agency](http://propac.agency)** | **[Creative Intern - Art Direction or Copywriting](https://jobright.ai/jobs/info/69779f6dfdeb8243a27a7c22?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jan 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Concept Art](https://jobright.ai/jobs/info/6934f775a0dde7020e2f6cbb?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/6958b7e0f1f8465b79ef5144?utm_campaign=1049&utm_source=git)** | Montgomery, AL | Hybrid | Jan 24 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[3D Computer Graphics Intern](https://jobright.ai/jobs/info/697493f7bc8e722e7b19adcb?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 24 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Graphic Design Intern](https://jobright.ai/jobs/info/697474e9206da320f49eb3be?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
-| ↳ | **[Summer 2026 Video Production and Media Intern](https://jobright.ai/jobs/info/6974734c37785856350e8b3b?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Interior Design Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/6970d57751f7264771831592?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Jan 23 |
-| **[Perkins&Will](http://perkinswill.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/69745bed37785856350e7549?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220551f726477183580e?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
