@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Business of Home](https://businessofhome.com)** | **[Full-Time Interior Design Intern](https://jobright.ai/jobs/info/6977af2d88e2b47213bb9da7?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Jan 26 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6977a49bfdeb8243a27a8406?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jan 26 |
 | **[Propac Agency](http://propac.agency)** | **[Creative Intern - Art Direction or Copywriting](https://jobright.ai/jobs/info/69779f6dfdeb8243a27a7c22?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jan 26 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fd70582817106e976db0c?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Jan 26 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6963b0bb2cbf4e44756d62cd?utm_campaign=1049&utm_source=git)** | Reading, PA | On Site | Jan 26 |
+| **[Stantec](http://www.stantec.com)** | **[Architectural Intern / Building Designer](https://jobright.ai/jobs/info/6977ac4f88e2b47213bb98c6?utm_campaign=1049&utm_source=git)** | 61 Commercial Street Suite 100, Rochester, NY, 14614, US | Hybrid | Jan 26 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Experience Design, User Experience (September 2026 - 12 months)](https://jobright.ai/jobs/info/695b93b5aa05c26e7ab4f02a?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6933e4d7a0dde7020e2f2d15?utm_campaign=1049&utm_source=git)** | Clayton, MO | Hybrid | Jan 26 |
 | **[City of Avondale, AZ](https://www.avondaleaz.gov)** | **[AviPro Internship Program (Spring 2026)](https://jobright.ai/jobs/info/697778bd88e2b47213bb564f?utm_campaign=1049&utm_source=git)** | Avondale, AZ | On Site | Jan 26 |
@@ -139,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/6958a9b9f1f8465b79ef2cfa?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical UX Content Strategist Intern](https://jobright.ai/jobs/info/69203d0500c9ee50eaec089e?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Master Planning Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/69722dbc47b64f4e963e72cf?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 24 |
-| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Lighting Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974cefb37785856350ede05?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
-| ↳ | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026 2026](https://jobright.ai/jobs/info/6974d443bc8e722e7b19d934?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026 2026](https://jobright.ai/jobs/info/6974d443bc8e722e7b19d934?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
+| ↳ | **[Disney Live Entertainment Lighting Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974cefb37785856350ede05?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
 | ↳ | **[Disney Live Entertainment Art Studio Intern, Summer-Fall 2026](https://jobright.ai/jobs/info/6974cb47206da320f49f0244?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Jan 24 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[D+ Graphic Design Intern, Summer 2026](https://jobright.ai/jobs/info/6974cfc0bc8e722e7b19d6f2?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Jan 24 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/69589e8f9f1b381eb271795e?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Interior Design Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/6970d57751f7264771831592?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Jan 23 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/69745bed37785856350e7549?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220551f726477183580e?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Jan 23 |
-| **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[K-12 Graphic Design Internship](https://jobright.ai/jobs/info/6976fd1652f3c27ec6430b40?utm_campaign=1049&utm_source=git)** | Dubuque, IA | On Site | Jan 23 |
-| **[Crystal Dynamics](http://crystald.com)** | **[Character Tech Art Intern](https://jobright.ai/jobs/info/697444ba37785856350e3c5e?utm_campaign=1049&utm_source=git)** | San Carlos, CA | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
