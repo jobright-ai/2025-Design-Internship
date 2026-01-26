@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Graphic Designer/Video Editor Intern](https://jobright.ai/jobs/info/6976c0ae206da320f4a076ec?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jan 25 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern - Architecture Studio (Summer 2026)](https://jobright.ai/jobs/info/6976b37e206da320f4a0593d?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Jan 25 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Industrial Design Summer Internship](https://jobright.ai/jobs/info/69769b2f377858563510318b?utm_campaign=1049&utm_source=git)** | West Chester, PA | On Site | Jan 25 |
 | **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Design Intern](https://jobright.ai/jobs/info/69768909bc8e722e7b1b20f4?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Jan 25 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69767e213778585635102af7?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/69742be8206da320f49e4df8?utm_campaign=1049&utm_source=git)** | Tampa, Florida, United States | On Site | Jan 23 |
 | ↳ | **[Life and Work Places Student Intern - Interior Design](https://jobright.ai/jobs/info/69742bc1bc8e722e7b1921b5?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Jan 23 |
 | ↳ | **[Life and Work Places Student Intern - Interior Design](https://jobright.ai/jobs/info/6974282e206da320f49e4a49?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 23 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Jan 23 |
-| **[SmithGroup](https://www.smithgroup.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/697426d2206da320f49e4925?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
