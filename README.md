@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Design](https://jobright.ai/jobs/info/69791cd939f7f96cc6d17a64?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 27 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Graphic Design Summer Intern, 2026](https://jobright.ai/jobs/info/69791a4d39f7f96cc6d17718?utm_campaign=1049&utm_source=git)** | 1954 Commerce Street, Dallas, TX, 75201, US | Hybrid | Jan 27 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[User Researcher - 2026 Summer Internship](https://jobright.ai/jobs/info/694081f4aa598a08c3f025cf?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Jan 27 |
 | **[Paul Carroll NY](http://www.paulcarroll.com)** | **[Fashion Design Internship: Learn, Create, and Elevate Your Skills](https://jobright.ai/jobs/info/69790ae052f3c27ec6455355?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Packaging Intern](https://jobright.ai/jobs/info/69790a7d88e2b47213bd2464?utm_campaign=1049&utm_source=git)** | Marysville, OH | On Site | Jan 27 |
 | **[TD](https://www.td.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6978ff9888e2b47213bd0a1e?utm_campaign=1049&utm_source=git)** | Toronto, Ontario | On Site | Jan 27 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fd7f482817106e976dc24?utm_campaign=1049&utm_source=git)** | Omaha, Nebraska, United States | On Site | Jan 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[D+ Graphic Design Intern, Summer 2026](https://jobright.ai/jobs/info/6974bf21206da320f49efd98?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Jan 27 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design, Visual Merchandising](https://jobright.ai/jobs/info/6978f9f539f7f96cc6d14def?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
 | **[Four Hands](https://fourhands.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6978f61e52f3c27ec6453b98?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 27 |
+| **[Diablo/Freud Tools](https://diablotools.com/)** | **[Print Graphic Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69338a6ff131d96e484643e1?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
 | **[Meyers+Associates](https://meyersarchitects.com/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6978e92088e2b47213bcfbb8?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jan 27 |
-| **[TD](https://www.td.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/69790c0452f3c27ec6455449?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia | On Site | Jan 27 |
-| ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979033588e2b47213bd112e?utm_campaign=1049&utm_source=git)** | Regina, Saskatchewan | On Site | Jan 27 |
+| **[TD](https://www.td.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979033588e2b47213bd112e?utm_campaign=1049&utm_source=git)** | Regina, Saskatchewan | On Site | Jan 27 |
+| ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/69790c0452f3c27ec6455449?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia | On Site | Jan 27 |
 | ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979093339f7f96cc6d161da?utm_campaign=1049&utm_source=git)** | Montréal, Québec | On Site | Jan 27 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Architecture/Interior Design](https://jobright.ai/jobs/info/69790abc52f3c27ec6455333?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 27 |
 | **[New England Recruiting Report](www.newenglandrecruitingreport.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697909ab39f7f96cc6d162ad?utm_campaign=1049&utm_source=git)** | Worcester County, MA | Remote | Jan 27 |
@@ -137,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Design Research Intern / Summer 2026](https://jobright.ai/jobs/info/697803cbfdeb8243a27b030b?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Human Resources  Communications and Media Intern](https://jobright.ai/jobs/info/6978222f52f3c27ec6444e56?utm_campaign=1049&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
 | **[GPD Group](http://gpdgroup.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69783a1a39f7f96cc6d0856f?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Jan 26 |
-| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Graphic Design Internship](https://jobright.ai/jobs/info/6978218952f3c27ec6444cb4?utm_campaign=1049&utm_source=git)** | Denver, CO, US | On Site | Jan 26 |
-| ↳ | **[2026 Summer Graphic Design Internship](https://jobright.ai/jobs/info/697827b6fdeb8243a27b1ca8?utm_campaign=1049&utm_source=git)** | US-CO-Denver | On Site | Jan 26 |
+| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Graphic Design Internship](https://jobright.ai/jobs/info/697827b6fdeb8243a27b1ca8?utm_campaign=1049&utm_source=git)** | US-CO-Denver | On Site | Jan 26 |
+| ↳ | **[2026 Summer Graphic Design Internship](https://jobright.ai/jobs/info/6978218952f3c27ec6444cb4?utm_campaign=1049&utm_source=git)** | Denver, CO, US | On Site | Jan 26 |
 | **[My Monthly](https://www.mymonthly.io)** | **[Motion / Animation Intern](https://jobright.ai/jobs/info/69782805fdeb8243a27b1d09?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jan 26 |
 | **[EUA](http://www.eua.com/)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/6977fb6052f3c27ec64435c3?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 26 |
 | **[My Monthly](https://www.mymonthly.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69781c0e52f3c27ec6444891?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jan 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/6977e5eb88e2b47213bbe296?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | On Site | Jan 26 |
 | **[Aviva Canada](https://www.avivacanada.com/)** | **[Product Design Internship](https://jobright.ai/jobs/info/69780aa1fdeb8243a27b0639?utm_campaign=1049&utm_source=git)** | Toronto | Hybrid | Jan 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern (Health) - Spring 2026](https://jobright.ai/jobs/info/6977e33e52f3c27ec6440b56?utm_campaign=1049&utm_source=git)** | United States-California-San Francisco | On Site | Jan 26 |
-| **[EUA](http://www.eua.com/)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/69781404fdeb8243a27b0a2d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
-| ↳ | **[Architectural Student Intern](https://jobright.ai/jobs/info/697815d5fdeb8243a27b0b7d?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Jan 26 |
-| ↳ | **[Interior Design Student Intern](https://jobright.ai/jobs/info/69780797fdeb8243a27b04c9?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 26 |
-| **[Wight & Company](http://wightco.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/6977de0288e2b47213bbda3f?utm_campaign=1049&utm_source=git)** | Darien or Chicago, Illinois | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
