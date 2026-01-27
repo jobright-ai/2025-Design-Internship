@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/6942135f50bbaf765053e79f?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Jan 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Special Effects Designer Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6978b01d52f3c27ec644f209?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 27 |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Creative Services Summer Internship 2026](https://jobright.ai/jobs/info/695cc7a75e4962051b59e9be?utm_campaign=1049&utm_source=git)** | Egg Harbor, NJ | On Site | Jan 27 |
+| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/694201bebdcf884a5addba91?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 27 |
+| **[Corsair](http://www.corsair.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/694066a4aa598a08c3f006a3?utm_campaign=1049&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[WebFX](https://www.webfx.com)** | **[Online Graphics and Web Designer Internship](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f32d?utm_campaign=1049&utm_source=git)** | Harrisburg, PA | On Site | Jan 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[UX Content Strategist Intern](https://jobright.ai/jobs/info/6940be1f50bbaf765052bcaf?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 27 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69406c9a50bbaf7650526ee7?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Graphic Design Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695c0085aa05c26e7ab5558a?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
@@ -134,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Design Intern](https://jobright.ai/jobs/info/6977f42752f3c27ec6442861?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Jan 26 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Intern / Building Designer](https://jobright.ai/jobs/info/6977d49688e2b47213bbcc2f?utm_campaign=1049&utm_source=git)** | Rochester, NY | Hybrid | Jan 26 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6977d33a52f3c27ec643f798?utm_campaign=1049&utm_source=git)** | Westlake, TX | On Site | Jan 26 |
-| **[EUA](http://www.eua.com/)** | **[Experiential Design Intern](https://jobright.ai/jobs/info/6977f3aa88e2b47213bbfda7?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Jan 26 |
-| ↳ | **[Interior Design Student Intern](https://jobright.ai/jobs/info/6977ef7788e2b47213bbf49f?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Jan 26 |
+| **[EUA](http://www.eua.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/6977ef7788e2b47213bbf49f?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Jan 26 |
+| ↳ | **[Experiential Design Intern](https://jobright.ai/jobs/info/6977f3aa88e2b47213bbfda7?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Jan 26 |
 | **[Wight & Company](http://wightco.com)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6977ecdd52f3c27ec6441b1b?utm_campaign=1049&utm_source=git)** | Darien or Chicago, Illinois | On Site | Jan 26 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca3b88e2b47213bbbfa9?utm_campaign=1049&utm_source=git)** | Staunton, VA | On Site | Jan 26 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca2dfdeb8243a27ab6c9?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Jan 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6977bf4952f3c27ec643e213?utm_campaign=1049&utm_source=git)** | Modesto, CA | On Site | Jan 26 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/6977e1a588e2b47213bbdef7?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jan 26 |
 | ↳ | **[Photography Intern - Summer 2026](https://jobright.ai/jobs/info/6977e06188e2b47213bbde19?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jan 26 |
-| **[Alliance College-Ready Public Schools](http://www.laalliance.org)** | **[Intern, Creative - Video/Design (Unpaid)](https://jobright.ai/jobs/info/6977b89afdeb8243a27aa4f6?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 26 |
-| **[Crafton Tull](http://craftontull.com)** | **[Student Landscape Architect Intern](https://jobright.ai/jobs/info/6977db4888e2b47213bbd5ea?utm_campaign=1049&utm_source=git)** | Rogers,AR,US | On Site | Jan 26 |
-| **[Caplugs](http://www.caplugs.com)** | **[Graphic Design/ Video Marketing Intern](https://jobright.ai/jobs/info/6952f5fc5bb7de448ef6181b?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Jan 26 |
-| **[Business of Home](https://businessofhome.com)** | **[Full-Time Interior Design Intern](https://jobright.ai/jobs/info/6977af2d88e2b47213bb9da7?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Jan 26 |
-| **[EUA](http://www.eua.com/)** | **[Experiential Design Intern](https://jobright.ai/jobs/info/6977d62288e2b47213bbce87?utm_campaign=1049&utm_source=git)** | Green Bay, WI 54304, USA | Hybrid | Jan 26 |
-| ↳ | **[Experiential Design Intern](https://jobright.ai/jobs/info/6977df9b52f3c27ec64408a1?utm_campaign=1049&utm_source=git)** | Milwaukee, WI 53202, USA | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
