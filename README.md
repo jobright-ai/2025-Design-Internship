@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring Internship 2026 - Visual Merchandising](https://jobright.ai/jobs/info/695c46afaa05c26e7ab59dd5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Graphic Design Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c527df1f8465b79f2750f?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 26 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Human Resources Communications and Media Intern](https://jobright.ai/jobs/info/69787abe88e2b47213bc9dee?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Skyryse](https://www.skyryse.com/)** | **[Visualization Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69784f9c52f3c27ec644a8cd?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Jan 26 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Architecture/Interior Design](https://jobright.ai/jobs/info/69786add52f3c27ec644bacf?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/6958b7e0f1f8465b79ef5144?utm_campaign=1049&utm_source=git)** | Montgomery, AL | Hybrid | Jan 26 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Design Research Intern / Summer 2026](https://jobright.ai/jobs/info/697803cbfdeb8243a27b030b?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Human Resources  Communications and Media Intern](https://jobright.ai/jobs/info/6978222f52f3c27ec6444e56?utm_campaign=1049&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
 | **[GPD Group](http://gpdgroup.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69783a1a39f7f96cc6d0856f?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Jan 26 |
-| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Graphic Design Internship](https://jobright.ai/jobs/info/6978218952f3c27ec6444cb4?utm_campaign=1049&utm_source=git)** | Denver, CO, US | On Site | Jan 26 |
-| ↳ | **[2026 Summer Graphic Design Internship](https://jobright.ai/jobs/info/697827b6fdeb8243a27b1ca8?utm_campaign=1049&utm_source=git)** | US-CO-Denver | On Site | Jan 26 |
+| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Graphic Design Internship](https://jobright.ai/jobs/info/697827b6fdeb8243a27b1ca8?utm_campaign=1049&utm_source=git)** | US-CO-Denver | On Site | Jan 26 |
+| ↳ | **[2026 Summer Graphic Design Internship](https://jobright.ai/jobs/info/6978218952f3c27ec6444cb4?utm_campaign=1049&utm_source=git)** | Denver, CO, US | On Site | Jan 26 |
 | **[My Monthly](https://www.mymonthly.io)** | **[Motion / Animation Intern](https://jobright.ai/jobs/info/69782805fdeb8243a27b1d09?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jan 26 |
 | **[EUA](http://www.eua.com/)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/6977fb6052f3c27ec64435c3?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 26 |
 | **[My Monthly](https://www.mymonthly.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69781c0e52f3c27ec6444891?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jan 26 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Interior Design Student Intern](https://jobright.ai/jobs/info/6977cf3352f3c27ec643f22b?utm_campaign=1049&utm_source=git)** | Denver, CO 80202, USA | Hybrid | Jan 26 |
 | ↳ | **[Architectural Student Intern](https://jobright.ai/jobs/info/6977cce8fdeb8243a27aba11?utm_campaign=1049&utm_source=git)** | Denver, CO 80202, USA | Hybrid | Jan 26 |
 | ↳ | **[Architectural Student Intern](https://jobright.ai/jobs/info/6977d09588e2b47213bbc62f?utm_campaign=1049&utm_source=git)** | Green Bay, WI 54304, USA | Hybrid | Jan 26 |
-| ↳ | **[Architectural Student Intern](https://jobright.ai/jobs/info/6977d56852f3c27ec643fa8f?utm_campaign=1049&utm_source=git)** | Atlanta, GA 30309, USA | Hybrid | Jan 26 |
-| ↳ | **[Architectural Student Intern](https://jobright.ai/jobs/info/6977d85088e2b47213bbd1d7?utm_campaign=1049&utm_source=git)** | Milwaukee, WI 53202, USA | Hybrid | Jan 26 |
 | ↳ | **[Architectural Student Intern](https://jobright.ai/jobs/info/6977da7a52f3c27ec64400c6?utm_campaign=1049&utm_source=git)** | Madison, WI 53703, USA | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
