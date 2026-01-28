@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Perkins&Will](http://perkinswill.com)** | **[Intern - Interior Designer](https://jobright.ai/jobs/info/697958b052f3c27ec645bbd4?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Jan 27 |
+| **[Haworth](http://www.haworth.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/697962e288e2b47213bdad23?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Jan 27 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d4016f5f3c43f38e1f94d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
+| **[Perkins&Will](http://perkinswill.com)** | **[Intern - Interior Designer](https://jobright.ai/jobs/info/69795e8439f7f96cc6d1da36?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Jan 27 |
+| ↳ | **[Intern - Interior Designer](https://jobright.ai/jobs/info/69795d3252f3c27ec645ccb5?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 27 |
+| ↳ | **[Intern - Interior Designer](https://jobright.ai/jobs/info/697958b052f3c27ec645bbd4?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Jan 27 |
 | **[Price Industries](https://www.priceindustries.com)** | **[Intern - Creative Specialist - Summer 2026](https://jobright.ai/jobs/info/69459fe463141d1884552cdb?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Jan 27 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Graphic Design Summer Internship Program](https://jobright.ai/jobs/info/695d5c6af5f3c43f38e22559?utm_campaign=1049&utm_source=git)** | Pontiac, MI | On Site | Jan 27 |
 | **[Talentix](https://thetalentix.com/)** | **[UX Designers(Interns) - Talentix](https://jobright.ai/jobs/info/6979559852f3c27ec645b8e2?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Jan 27 |
@@ -103,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[Four Hands](https://fourhands.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6978f61e52f3c27ec6453b98?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 27 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Print Graphic Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69338a6ff131d96e484643e1?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
 | **[Meyers+Associates](https://meyersarchitects.com/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6978e92088e2b47213bcfbb8?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jan 27 |
-| **[TD](https://www.td.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979093339f7f96cc6d161da?utm_campaign=1049&utm_source=git)** | Montréal, Québec | On Site | Jan 27 |
+| **[TD](https://www.td.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/69790c0452f3c27ec6455449?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia | On Site | Jan 27 |
 | ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979033588e2b47213bd112e?utm_campaign=1049&utm_source=git)** | Regina, Saskatchewan | On Site | Jan 27 |
-| ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/69790c0452f3c27ec6455449?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia | On Site | Jan 27 |
+| ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979093339f7f96cc6d161da?utm_campaign=1049&utm_source=git)** | Montréal, Québec | On Site | Jan 27 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Architecture/Interior Design](https://jobright.ai/jobs/info/69790abc52f3c27ec6455333?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 27 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/69589e8f9f1b381eb271795e?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Jan 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6978c9ff88e2b47213bcea66?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Spring 2026](https://jobright.ai/jobs/info/69324127f131d96e4845a2ed?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jan 26 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Creative Project Management Intern (Paid)](https://jobright.ai/jobs/info/69781f9d52f3c27ec6444bcf?utm_campaign=1049&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
 | **[SpaceWorks Enterprises, Inc.](https://www.spaceworks.aero)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69781f9552f3c27ec6444bc8?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jan 26 |
-| **[HDR](http://www.hdrinc.com)** | **[Urban Design/Landscape Planning Intern](https://jobright.ai/jobs/info/697840d388e2b47213bc4bd0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 26 |
-| **[GPD Group](http://gpdgroup.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69781dde52f3c27ec6444a40?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jan 26 |
-| **[Wight & Company](http://wightco.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69781d7d88e2b47213bc1d21?utm_campaign=1049&utm_source=git)** | Darien, IL | On Site | Jan 26 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/695c2b23aa05c26e7ab57e47?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
