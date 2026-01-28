@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scheels](http://www.scheels.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/697970199c90a224ecc328a6?utm_campaign=1049&utm_source=git)** | Fargo, North Dakota, United States | On Site | Jan 27 |
+| **[Dropbox](https://www.dropbox.com)** | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69796ed6ca92cf0d6a82927b?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 27 |
+| ↳ | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69796a1652f3c27ec645e051?utm_campaign=1049&utm_source=git)** | Remote - US: All locations | Remote | Jan 27 |
+| **[Votely](https://getvotely.com)** | **[Product Designer](https://jobright.ai/jobs/info/6979689a39f7f96cc6d1f1e5?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 27 |
+| **[Halff](https://www.halff.com/)** | **[Intern, Planning / Landscape Architecture](https://jobright.ai/jobs/info/697966b539f7f96cc6d1efff?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | On Site | Jan 27 |
+| **[Votely](https://getvotely.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/6979656039f7f96cc6d1eeab?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Haworth](http://www.haworth.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/697962e288e2b47213bdad23?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Jan 27 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d4016f5f3c43f38e1f94d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Intern - Interior Designer](https://jobright.ai/jobs/info/69795e8439f7f96cc6d1da36?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Jan 27 |
@@ -108,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Print Graphic Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69338a6ff131d96e484643e1?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
 | **[Meyers+Associates](https://meyersarchitects.com/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6978e92088e2b47213bcfbb8?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jan 27 |
 | **[TD](https://www.td.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/69790c0452f3c27ec6455449?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia | On Site | Jan 27 |
-| ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979033588e2b47213bd112e?utm_campaign=1049&utm_source=git)** | Regina, Saskatchewan | On Site | Jan 27 |
 | ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979093339f7f96cc6d161da?utm_campaign=1049&utm_source=git)** | Montréal, Québec | On Site | Jan 27 |
+| ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979033588e2b47213bd112e?utm_campaign=1049&utm_source=git)** | Regina, Saskatchewan | On Site | Jan 27 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Architecture/Interior Design](https://jobright.ai/jobs/info/69790abc52f3c27ec6455333?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 27 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/69589e8f9f1b381eb271795e?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Jan 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6978c9ff88e2b47213bcea66?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Talbots](http://www.talbots.com)** | **[CAD, Print & Pattern Intern - Summer 2026](https://jobright.ai/jobs/info/695c84c2f1f8465b79f2a917?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Design Visualization - AI CGI](https://jobright.ai/jobs/info/69638ec7a112b4026611a0f4?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Jan 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/6958ba95aa05c26e7ab29d46?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
-| ↳ | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/6958a647aa05c26e7ab27573?utm_campaign=1049&utm_source=git)** | Jackson, MS | Hybrid | Jan 26 |
-| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Creative Project Management Intern (Paid)](https://jobright.ai/jobs/info/6978270dfdeb8243a27b1bf8?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Jan 26 |
-| **[HDR](http://www.hdrinc.com)** | **[Architecture Intern (Health) - Spring 2026](https://jobright.ai/jobs/info/6978224d88e2b47213bc228f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 26 |
-| **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Spring 2026](https://jobright.ai/jobs/info/69324127f131d96e4845a2ed?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jan 26 |
-| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Creative Project Management Intern (Paid)](https://jobright.ai/jobs/info/69781f9d52f3c27ec6444bcf?utm_campaign=1049&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
-| **[SpaceWorks Enterprises, Inc.](https://www.spaceworks.aero)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69781f9552f3c27ec6444bc8?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
