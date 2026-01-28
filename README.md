@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SoFi](https://www.sofi.com)** | **[Intern, UX Researcher](https://jobright.ai/jobs/info/6979c31b0791bc1d72308a2c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 28 |
+| **[HNTB](http://www.hntb.com/)** | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/6979c216d7df290257fc2f7d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
 | **[Masimo](http://www.masimo.com)** | **[2026 Summer Intern - UX Design](https://jobright.ai/jobs/info/695dcd94403df63191d5b8dc?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 27 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6979aaeb0791bc1d72307adb?utm_campaign=1049&utm_source=git)** | Riverside, CA | Hybrid | Jan 27 |
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6979a7de0791bc1d72307927?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 27 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Print Graphic Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69338a6ff131d96e484643e1?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
 | **[Meyers+Associates](https://meyersarchitects.com/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6978e92088e2b47213bcfbb8?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jan 27 |
 | **[TD](https://www.td.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979033588e2b47213bd112e?utm_campaign=1049&utm_source=git)** | Regina, Saskatchewan | On Site | Jan 27 |
-| ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/69790c0452f3c27ec6455449?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia | On Site | Jan 27 |
 | ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979093339f7f96cc6d161da?utm_campaign=1049&utm_source=git)** | Montréal, Québec | On Site | Jan 27 |
+| ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/69790c0452f3c27ec6455449?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia | On Site | Jan 27 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Architecture/Interior Design](https://jobright.ai/jobs/info/69790abc52f3c27ec6455333?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 27 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/69589e8f9f1b381eb271795e?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Jan 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6978c9ff88e2b47213bcea66?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Jan 27 |
 | **[ByteDance](http://bytedance.com)** | **[UI Graphic Design Intern (PICO) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/695c8bc55e4962051b59aa6b?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[UI/UX Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf57af1f8465b79f20676?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
-| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring Internship 2026 - Visual Merchandising](https://jobright.ai/jobs/info/695c46afaa05c26e7ab59dd5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 27 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[Graphic Design Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c527df1f8465b79f2750f?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
