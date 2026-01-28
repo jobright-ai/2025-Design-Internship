@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Design Technology - Summer 2026](https://jobright.ai/jobs/info/69798e55d7df290257fbe69e?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Jan 27 |
+| **[Lucchese Bootmaker](https://www.lucchese.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/69799783d7df290257fbece1?utm_campaign=1049&utm_source=git)** | Dallas Office, Dallas, TX, US | On Site | Jan 27 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Graphic Designer Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/69799666ca92cf0d6a82ce3a?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Jan 27 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Planning & Urban Design Intern / Summer 2026](https://jobright.ai/jobs/info/6979858d0791bc1d7230364b?utm_campaign=1049&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jan 27 |
 | ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697983f7ca92cf0d6a82adb5?utm_campaign=1049&utm_source=git)** | Riverside, California, United States | Hybrid | Jan 27 |
+| **[Iter Innovandi](https://www.iterinnovandi.com)** | **[Graphic & Visual Design Intern](https://jobright.ai/jobs/info/697998830791bc1d72304e8c?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jan 27 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Color Raw Materials Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d428ffbd62a0a6565ca4d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6979719c0791bc1d72301a33?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Scheels](http://www.scheels.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/697970199c90a224ecc328a6?utm_campaign=1049&utm_source=git)** | Fargo, North Dakota, United States | On Site | Jan 27 |
@@ -121,9 +123,9 @@ For a complete list, click the following sortable link below:
 | **[Four Hands](https://fourhands.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6978f61e52f3c27ec6453b98?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 27 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Print Graphic Design Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/69338a6ff131d96e484643e1?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
 | **[Meyers+Associates](https://meyersarchitects.com/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6978e92088e2b47213bcfbb8?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jan 27 |
-| **[TD](https://www.td.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/69790c0452f3c27ec6455449?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia | On Site | Jan 27 |
+| **[TD](https://www.td.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979093339f7f96cc6d161da?utm_campaign=1049&utm_source=git)** | Montréal, Québec | On Site | Jan 27 |
+| ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/69790c0452f3c27ec6455449?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia | On Site | Jan 27 |
 | ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979033588e2b47213bd112e?utm_campaign=1049&utm_source=git)** | Regina, Saskatchewan | On Site | Jan 27 |
-| ↳ | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6979093339f7f96cc6d161da?utm_campaign=1049&utm_source=git)** | Montréal, Québec | On Site | Jan 27 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Student Intern - Architecture/Interior Design](https://jobright.ai/jobs/info/69790abc52f3c27ec6455333?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 27 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/69589e8f9f1b381eb271795e?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Jan 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6978c9ff88e2b47213bcea66?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jan 27 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[UI Graphic Design Intern (PICO) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/695c8bc55e4962051b59aa6b?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[UI/UX Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf57af1f8465b79f20676?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring Internship 2026 - Visual Merchandising](https://jobright.ai/jobs/info/695c46afaa05c26e7ab59dd5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 27 |
+| **[Family Tree Farms](https://familytreefarms.com)** | **[Photography Summer Intern](https://jobright.ai/jobs/info/697993990791bc1d723047d6?utm_campaign=1049&utm_source=git)** | Reedley, CA | On Site | Jan 27 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Graphic Design Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c527df1f8465b79f2750f?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Human Resources Communications and Media Intern](https://jobright.ai/jobs/info/69787abe88e2b47213bc9dee?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Skyryse](https://www.skyryse.com/)** | **[Visualization Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69784f9c52f3c27ec644a8cd?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Jan 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/6958b7e0f1f8465b79ef5144?utm_campaign=1049&utm_source=git)** | Montgomery, AL | Hybrid | Jan 26 |
-| **[Bold Orange](https://boldorange.com/)** | **[Design Intern](https://jobright.ai/jobs/info/697843f188e2b47213bc589f?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | Hybrid | Jan 26 |
-| **[LOFT](https://www.loft.com/)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/695c8624f1f8465b79f2aa7f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 26 |
-| **[Savage X Fenty](https://www.savagex.com/)** | **[Design & Merchandising Intern](https://jobright.ai/jobs/info/6978435888e2b47213bc57f1?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
