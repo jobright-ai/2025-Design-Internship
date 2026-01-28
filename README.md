@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697983f7ca92cf0d6a82adb5?utm_campaign=1049&utm_source=git)** | Riverside, California, United States | Hybrid | Jan 27 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Color Raw Materials Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d428ffbd62a0a6565ca4d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 27 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6979719c0791bc1d72301a33?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Scheels](http://www.scheels.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/697970199c90a224ecc328a6?utm_campaign=1049&utm_source=git)** | Fargo, North Dakota, United States | On Site | Jan 27 |
 | **[Dropbox](https://www.dropbox.com)** | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69796ed6ca92cf0d6a82927b?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 27 |
 | ↳ | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69796a1652f3c27ec645e051?utm_campaign=1049&utm_source=git)** | Remote - US: All locations | Remote | Jan 27 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Price Industries](https://www.priceindustries.com)** | **[Intern - Creative Specialist - Summer 2026](https://jobright.ai/jobs/info/69459fe463141d1884552cdb?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Jan 27 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Graphic Design Summer Internship Program](https://jobright.ai/jobs/info/695d5c6af5f3c43f38e22559?utm_campaign=1049&utm_source=git)** | Pontiac, MI | On Site | Jan 27 |
 | **[Talentix](https://thetalentix.com/)** | **[UX Designers(Interns) - Talentix](https://jobright.ai/jobs/info/6979559852f3c27ec645b8e2?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Jan 27 |
+| **[Dropbox](https://www.dropbox.com)** | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697975cb9c90a224ecc32dc8?utm_campaign=1049&utm_source=git)** | Remote - Canada: Select locations | Remote | Jan 27 |
 | **[DISH Media](https://media.dish.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/695d78e8f1f8465b79f3a64e?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | Jan 27 |
 | **[Xylem](https://heimplanet.com/)** | **[Photography and Social Media Intern](https://jobright.ai/jobs/info/697949d488e2b47213bd80c4?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Burns Engineering, Inc.](http://burns-group.com)** | **[Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6979481b88e2b47213bd7ec6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 27 |
@@ -100,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[KTGY](http://ktgy.com)** | **[Architecture Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972e2cf98522904c697b680?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Maricich Health](https://maricich.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/697935d539f7f96cc6d19e3d?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Jan 27 |
 | **[Valerie James Showroom](http://www.valeriejames.com)** | **[Fashion Showroom Intern](https://jobright.ai/jobs/info/6979310252f3c27ec6457a84?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jan 27 |
+| **[Lendistry](http://www.Lendistry.com)** | **[Collections & Portfolio Management Intern](https://jobright.ai/jobs/info/697971abca92cf0d6a8294e9?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Jan 27 |
 | **[Maryland Institute College of Art](http://www.mica.edu/)** | **[Globe Press Intern](https://jobright.ai/jobs/info/6979414352f3c27ec6459b21?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Jan 27 |
 | **[Paul Carroll NY](http://www.paulcarroll.com)** | **[Fashion Design Internship: Learn, Create, and Elevate Your Skills](https://jobright.ai/jobs/info/69790ae052f3c27ec6455355?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Packaging Intern](https://jobright.ai/jobs/info/69790a7d88e2b47213bd2464?utm_campaign=1049&utm_source=git)** | Marysville, OH | On Site | Jan 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c3ccc22c9dc0d3d541ba9?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | Jan 26 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Creative Services Intern, KPIX San Francisco (Summer 2026)](https://jobright.ai/jobs/info/695c2618aa05c26e7ab57865?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/69589ae3f1f8465b79ef2a44?utm_campaign=1049&utm_source=git)** | New Orleans, LA | Hybrid | Jan 26 |
-| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c2d79aa05c26e7ab57fe7?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 26 |
-| **[Gray AES](https://www.graysolutions.com)** | **[Intern- Interior Design](https://jobright.ai/jobs/info/695c41b2aa05c26e7ab593f7?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Jan 26 |
-| **[Talbots](http://www.talbots.com)** | **[CAD, Print & Pattern Intern - Summer 2026](https://jobright.ai/jobs/info/695c84c2f1f8465b79f2a917?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 26 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Design Visualization - AI CGI](https://jobright.ai/jobs/info/69638ec7a112b4026611a0f4?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Jan 26 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Creative - Video / Photo (Summer 2026)](https://jobright.ai/jobs/info/6958ba95aa05c26e7ab29d46?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
