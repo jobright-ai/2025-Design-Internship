@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Industrial Design Summer Intern 2026](https://jobright.ai/jobs/info/697a4571a5b9804527e010f5?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jan 28 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Jan 28 |
 | **[Mundial Partners](https://www.themundialpartners.com/)** | **[Social Media Content Creation Intern](https://jobright.ai/jobs/info/697a4843a8de441ca7357594?utm_campaign=1049&utm_source=git)** | United States | On Site | Jan 28 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a45eca5b9804527e012c4?utm_campaign=1049&utm_source=git)** | Overland Park, KS | Hybrid | Jan 28 |
-| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Industrial Design Summer Intern 2026](https://jobright.ai/jobs/info/697a4571a5b9804527e010f5?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jan 28 |
 | **[Mouser Electronics](http://mouser.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697a2da1a5b9804527dff6fc?utm_campaign=1049&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 28 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/697a445fa8de441ca73569b8?utm_campaign=1049&utm_source=git)** | Utah | Hybrid | Hybrid | Jan 28 |
 | **[Gensler](http://www.gensler.com)** | **[University of Kansas/Gensler Aviation & Transit Architecture CoLab Internship](https://jobright.ai/jobs/info/697a413bb4589b4ee87c80f5?utm_campaign=1049&utm_source=git)** | Kansas City, MO, US | On Site | Jan 28 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[HFE Summer Intern 2026](https://jobright.ai/jobs/info/697a3fdeb4589b4ee87c7d20?utm_campaign=1049&utm_source=git)** | Raritan, New Jersey, United States of America | On Site | Jan 28 |
 | **[Rogue Architecture PLLC](www.roguearch.com)** | **[Intern Architect](https://jobright.ai/jobs/info/697a3f37a8de441ca7355c59?utm_campaign=1049&utm_source=git)** | Little Rock, AR | Hybrid | Jan 28 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[Intern, Web Design](https://jobright.ai/jobs/info/697a3f36a8de441ca7355c58?utm_campaign=1049&utm_source=git)** | USA - CA - San Francisco | On Site | Jan 28 |
+| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[HFE Summer Intern 2026](https://jobright.ai/jobs/info/697a5dfca8de441ca735852d?utm_campaign=1049&utm_source=git)** | Raritan, NJ | On Site | Jan 28 |
 | **[IBM](http://www.ibm.com)** | **[AI‑First Transformation - Intern (Undergraduate – Summer Internship)](https://jobright.ai/jobs/info/697a3312a5b9804527dff93f?utm_campaign=1049&utm_source=git)** | Armonk, NY | Hybrid | Jan 28 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697a2c9eb4589b4ee87c6e7f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Industrial Design Summer Intern 2026](https://jobright.ai/jobs/info/697a41c6b4589b4ee87c825c?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio, United States of America | On Site | Jan 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/6978ff9888e2b47213bd0a1e?utm_campaign=1049&utm_source=git)** | Toronto, Ontario | On Site | Jan 27 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fd7f482817106e976dc24?utm_campaign=1049&utm_source=git)** | Omaha, Nebraska, United States | On Site | Jan 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[D+ Graphic Design Intern, Summer 2026](https://jobright.ai/jobs/info/6974bf21206da320f49efd98?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Jan 27 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design, Visual Merchandising](https://jobright.ai/jobs/info/6978f9f539f7f96cc6d14def?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
-| **[Four Hands](https://fourhands.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6978f61e52f3c27ec6453b98?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
