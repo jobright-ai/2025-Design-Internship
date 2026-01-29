@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[UX Design Internship](https://jobright.ai/jobs/info/697b60141423772304eb7dba?utm_campaign=1049&utm_source=git)** | Piscataway, NJ | Hybrid | Jan 29 |
+| **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Graphic Design](https://jobright.ai/jobs/info/6947b55063141d188457695a?utm_campaign=1049&utm_source=git)** | Grand Prairie, TX | On Site | Jan 29 |
+| **[PA Consulting](http://www.paconsulting.com/)** | **[UX/UI Design Intern - Digital Experience Team (Summer 2026)](https://jobright.ai/jobs/info/69277b8f91ceeb2e8a53ff57?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jan 29 |
 | **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fashion Design](https://jobright.ai/jobs/info/695f3ee7a1bbea1d9a7a1613?utm_campaign=1049&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Jan 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/694321a194730b7398762282?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Jan 29 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69430c2994730b7398761095?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Randa Apparel & Accessories](http://www.randa.net)** | **[Design Internship - Summer 2026](https://jobright.ai/jobs/info/68f96cb36de2db04dc3e9196?utm_campaign=1049&utm_source=git)** | Rosemont, IL | On Site | Jan 29 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/690954354a1b456627aff504?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | Jan 29 |
 | **[KCI](http://www.kci.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6944e90d50bbaf765056efb2?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 29 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68eec66046e5b153e5a5fb39?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | On Site | Jan 29 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Intern - Art Director](https://jobright.ai/jobs/info/695f2ca5a112b402660df558?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Jan 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern - Interiors](https://jobright.ai/jobs/info/695f0a8a0badca5763af851e?utm_campaign=1049&utm_source=git)** | Pennington, NJ | On Site | Jan 29 |
 | **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern (Sacramento)](https://jobright.ai/jobs/info/697b103e1423772304eb1fc0?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Jan 28 |
@@ -80,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Design Intern, Mixed-use / Summer 2026](https://jobright.ai/jobs/info/697adcd21423772304eac0d3?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 28 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Packaging Design](https://jobright.ai/jobs/info/697adb42c532c4768fe0918c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern (Portland)](https://jobright.ai/jobs/info/697b0377c532c4768fe0e312?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jan 28 |
-| ↳ | **[Student Intern (San Diego)](https://jobright.ai/jobs/info/697b06a917b11b1c2e41fe7e?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
 | ↳ | **[Student Intern (Seattle)](https://jobright.ai/jobs/info/697afc95c532c4768fe0d4bf?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 28 |
+| ↳ | **[Student Intern (San Diego)](https://jobright.ai/jobs/info/697b06a917b11b1c2e41fe7e?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
 | ↳ | **[Student Intern (Los Angeles)](https://jobright.ai/jobs/info/697afce417b11b1c2e41eace?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
 | ↳ | **[Student Intern (San Jose)](https://jobright.ai/jobs/info/697b06fc17b11b1c2e41fe90?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
 | ↳ | **[Student Intern (Sacramento)](https://jobright.ai/jobs/info/697b019e1423772304eb0a84?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Jan 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Footwear/Factory - LIC](https://jobright.ai/jobs/info/697a90739d60e431a16c1e23?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | ↳ | **[Intern - Design, Footwear AK - LIC](https://jobright.ai/jobs/info/697a8fd68dbbf73badc7c0af?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | ↳ | **[Intern - Handbag Design Intern](https://jobright.ai/jobs/info/697a97349d60e431a16c2cf1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
-| ↳ | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/697a98448dbbf73badc7d372?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Design - Content Tooling](https://jobright.ai/jobs/info/697a96888dbbf73badc7cfa4?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[Mouser Electronics](http://mouser.com)** | **[Technical Content Intern](https://jobright.ai/jobs/info/697a8dd19d60e431a16c1969?utm_campaign=1049&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 28 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/697a9970f6fc293b0a2c8206?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
