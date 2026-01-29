@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Packaging Design](https://jobright.ai/jobs/info/697adb42c532c4768fe0918c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[NRG Energy](http://www.nrg.com/)** | **[ID Intern](https://jobright.ai/jobs/info/693a237cac80bb5492bca658?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Design Intern](https://jobright.ai/jobs/info/697ac86f9d60e431a16c70ac?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/697ac7f6f6fc293b0a2cc1fb?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Jan 28 |
@@ -70,10 +71,12 @@ For a complete list, click the following sortable link below:
 | **[Realty Operations Group](https://www.realtyoperations.com/)** | **[Design & Development Intern](https://jobright.ai/jobs/info/697ac1db9d60e431a16c6a7c?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Jan 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/695ea91a08ab990f2829e431?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern, Healthcare /  Summer 2026](https://jobright.ai/jobs/info/697abefcf6fc293b0a2cb9be?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | Hybrid | Jan 28 |
+| **[Stantec](http://www.stantec.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/697adb9b1423772304eabf85?utm_campaign=1049&utm_source=git)** | Binghamton, NY | On Site | Jan 28 |
 | **[Treevah](https://filterfolder.com/)** | **[UI/UX Intern — Spring/Summer (Remote, Unpaid)](https://jobright.ai/jobs/info/697ab2ee9d60e431a16c536d?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Jan 28 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/697aaa798dbbf73badc7eacf?utm_campaign=1049&utm_source=git)** | Draper, UT | Hybrid | Jan 28 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697aa8af9d60e431a16c41be?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Jan 28 |
-| ↳ | **[Architectural Design Intern, Healthcare / Summer 2026](https://jobright.ai/jobs/info/697aa4689d60e431a16c3b0a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Marketing Graphic Design Intern](https://jobright.ai/jobs/info/697ad8dec532c4768fe08f0f?utm_campaign=1049&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 28 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern, Healthcare / Summer 2026](https://jobright.ai/jobs/info/697aa4689d60e431a16c3b0a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Design - Core Listener Experience](https://jobright.ai/jobs/info/697a8e35f6fc293b0a2c6a10?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Pella Corporation](http://www.pella.com)** | **[DesignWorks Intern - Summer 2026](https://jobright.ai/jobs/info/697a9ec89d60e431a16c3469?utm_campaign=1049&utm_source=git)** | 102 Main St, Pella, IA, 50219, US | On Site | Jan 28 |
 | **[MERGE](http://www.mergeworld.com/)** | **[Creative - Art Intern](https://jobright.ai/jobs/info/697a9b699d60e431a16c31dc?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
@@ -112,7 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/697a77a9f6fc293b0a2c4906?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | ↳ | **[Intern - Design, Hosiery - NYC](https://jobright.ai/jobs/info/697a75a28dbbf73badc7998e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, UX Research](https://jobright.ai/jobs/info/697a9bf98dbbf73badc7d815?utm_campaign=1049&utm_source=git)** | Oregon, United States | Remote | Jan 28 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[UX/UI AI App Design Spring Internship (Unpaid)](https://jobright.ai/jobs/info/697a9b539d60e431a16c31be?utm_campaign=1049&utm_source=git)** | Berkeley, CA | Remote | Jan 28 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Footwear/Factory - LIC](https://jobright.ai/jobs/info/697a90739d60e431a16c1e23?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | ↳ | **[Intern - Design, Footwear AK - LIC](https://jobright.ai/jobs/info/697a8fd68dbbf73badc7c0af?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | ↳ | **[Intern - Handbag Design Intern](https://jobright.ai/jobs/info/697a97349d60e431a16c2cf1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arcadis](http://www.arcadis.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/697a3595a5b9804527dffad3?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 28 |
 | **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/697a3153b4589b4ee87c7151?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jan 28 |
 | **[Pinterest](https://www.pinterest.com/)** | **[UX Engineer Intern](https://jobright.ai/jobs/info/692513d9c0cefa13343e6422?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 28 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69421e5d14ee092a6900480a?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Jan 28 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945222ad1953b5d11be1e12?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
