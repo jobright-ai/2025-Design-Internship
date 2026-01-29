@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Creative Intern](https://jobright.ai/jobs/info/697b78621423772304eba0b2?utm_campaign=1049&utm_source=git)** | Westport, CT | On Site | Jan 29 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/68eeae9246e5b153e5a5e406?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | On Site | Jan 29 |
+| **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Photography and Videography Intern](https://jobright.ai/jobs/info/697b966d0b88cc7d6422548e?utm_campaign=1049&utm_source=git)** | Rockwall, TX | On Site | Jan 29 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Marketing Creative](https://jobright.ai/jobs/info/69435eaddd382f5f56696163?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Jan 29 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/697b63e01136d179eeeed9be?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[Yusen Logistics](https://www.yusen-logistics.com)** | **[Graphic Design and Communications Graduate Intern](https://jobright.ai/jobs/info/695fac6aa1bbea1d9a7a767b?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Jan 29 |
@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern (Portland)](https://jobright.ai/jobs/info/697b0377c532c4768fe0e312?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jan 28 |
 | ↳ | **[Student Intern (Seattle)](https://jobright.ai/jobs/info/697afc95c532c4768fe0d4bf?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 28 |
 | ↳ | **[Student Intern (San Diego)](https://jobright.ai/jobs/info/697b06a917b11b1c2e41fe7e?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
-| ↳ | **[Student Intern (San Jose)](https://jobright.ai/jobs/info/697b06fc17b11b1c2e41fe90?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
 | ↳ | **[Student Intern (Los Angeles)](https://jobright.ai/jobs/info/697afce417b11b1c2e41eace?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
+| ↳ | **[Student Intern (San Jose)](https://jobright.ai/jobs/info/697b06fc17b11b1c2e41fe90?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
 | ↳ | **[Student Intern (Sacramento)](https://jobright.ai/jobs/info/697b019e1423772304eb0a84?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Jan 28 |
 | **[Messiah Lifeways](https://messiahlifeways.org)** | **[Summer 2026 Graphic Design Intern](https://jobright.ai/jobs/info/697b026c17b11b1c2e41f583?utm_campaign=1049&utm_source=git)** | Mechanicsburg, PA | On Site | Jan 28 |
 | **[NRG Energy](http://www.nrg.com/)** | **[ID Intern](https://jobright.ai/jobs/info/693a237cac80bb5492bca658?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Jan 28 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/697ac57b9d60e431a16c6dbb?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Jan 28 |
 | **[Activision](https://www.activision.com/)** | **[Stagiaire artiste UI / UI Artist Intern - Été 2026](https://jobright.ai/jobs/info/697ac4da9d60e431a16c6d29?utm_campaign=1049&utm_source=git)** | Québec, Quebec, Canada | On Site | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[User Experience Strategy & Tool Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae34ac532c4768fe09c37?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
-| **[Zimmerman Advertising](https://www.zadv.com)** | **[Internship, Art Director (Summer 2026)](https://jobright.ai/jobs/info/697aebf4c532c4768fe0b392?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 28 |
 | **[Realty Operations Group](https://www.realtyoperations.com/)** | **[Design & Development Intern](https://jobright.ai/jobs/info/697ac1db9d60e431a16c6a7c?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Jan 28 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b5b333b6343a14d90e7?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | Hybrid | Jan 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/695ea91a08ab990f2829e431?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Architecture Intern](https://jobright.ai/jobs/info/697a79758dbbf73badc79e4c?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Jan 28 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2026](https://jobright.ai/jobs/info/695dd6fc89be3415c7463171?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Jan 28 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbags Mainline - NYC](https://jobright.ai/jobs/info/697a783df6fc293b0a2c49cd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
+| ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/697a77a9f6fc293b0a2c4906?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
