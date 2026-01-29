@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Realty Operations Group](https://www.realtyoperations.com/)** | **[Design & Development Intern](https://jobright.ai/jobs/info/697ac1db9d60e431a16c6a7c?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Jan 28 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/695ea91a08ab990f2829e431?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern, Healthcare /  Summer 2026](https://jobright.ai/jobs/info/697abefcf6fc293b0a2cb9be?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | Hybrid | Jan 28 |
 | **[Treevah](https://filterfolder.com/)** | **[UI/UX Intern — Spring/Summer (Remote, Unpaid)](https://jobright.ai/jobs/info/697ab2ee9d60e431a16c536d?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Jan 28 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/697aaa798dbbf73badc7eacf?utm_campaign=1049&utm_source=git)** | Draper, UT | Hybrid | Jan 28 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697aa8af9d60e431a16c41be?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Jan 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Visual Merchandising & Retail Experience, Customer Experience for Sales & Delivery Operations (Summer 2026)](https://jobright.ai/jobs/info/697a15f5a8de441ca735426a?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jan 28 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fe9c282817106e976eff1?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Jan 28 |
 | **[Walker Warner](http://walkerwarner.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6979d519a8de441ca734f1a3?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 28 |
-| **[HNTB](http://www.hntb.com/)** | **[Intern Architect - Summer 2026](https://jobright.ai/jobs/info/6979cc29d7df290257fc361b?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jan 28 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Design Technician Intern](https://jobright.ai/jobs/info/6979c821ca92cf0d6a830806?utm_campaign=1049&utm_source=git)** | West Lafayette, IN | On Site | Jan 28 |
-| **[SoFi](https://www.sofi.com)** | **[Intern, UX Researcher](https://jobright.ai/jobs/info/6979c31b0791bc1d72308a2c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
