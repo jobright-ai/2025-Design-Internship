@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HOK](http://www.hok.com/)** | **[Student Intern - Interiors](https://jobright.ai/jobs/info/695ede4a0badca5763af5803?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Jan 28 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern, Mixed-use / Summer 2026](https://jobright.ai/jobs/info/697aed94c532c4768fe0b651?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
 | ↳ | **[Architectural Design Intern, Mixed-use / Summer 2026](https://jobright.ai/jobs/info/697adcd21423772304eac0d3?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Jan 28 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Packaging Design](https://jobright.ai/jobs/info/697adb42c532c4768fe0918c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
+| **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern (Seattle)](https://jobright.ai/jobs/info/697afc95c532c4768fe0d4bf?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jan 28 |
+| ↳ | **[Student Intern (Los Angeles)](https://jobright.ai/jobs/info/697afce417b11b1c2e41eace?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
 | **[NRG Energy](http://www.nrg.com/)** | **[ID Intern](https://jobright.ai/jobs/info/693a237cac80bb5492bca658?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Design Intern](https://jobright.ai/jobs/info/697ac86f9d60e431a16c70ac?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/697ac7f6f6fc293b0a2cc1fb?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Jan 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a45eca5b9804527e012c4?utm_campaign=1049&utm_source=git)** | Overland Park, KS | Hybrid | Jan 28 |
 | **[Mouser Electronics](http://mouser.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697a2da1a5b9804527dff6fc?utm_campaign=1049&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 28 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/697a445fa8de441ca73569b8?utm_campaign=1049&utm_source=git)** | Utah | Hybrid | Hybrid | Jan 28 |
-| **[Gensler](http://www.gensler.com)** | **[University of Kansas/Gensler Aviation & Transit Architecture CoLab Internship](https://jobright.ai/jobs/info/697a413bb4589b4ee87c80f5?utm_campaign=1049&utm_source=git)** | Kansas City, MO, US | On Site | Jan 28 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[HFE Summer Intern 2026](https://jobright.ai/jobs/info/697a3fdeb4589b4ee87c7d20?utm_campaign=1049&utm_source=git)** | Raritan, New Jersey, United States of America | On Site | Jan 28 |
-| **[Rogue Architecture PLLC](www.roguearch.com)** | **[Intern Architect](https://jobright.ai/jobs/info/697a3f37a8de441ca7355c59?utm_campaign=1049&utm_source=git)** | Little Rock, AR | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
