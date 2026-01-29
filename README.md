@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California Water Service Group](https://www.calwatergroup.com)** | **[Digital Content Intern — Media Curation](https://jobright.ai/jobs/info/697bac0f1136d179eeef31dc?utm_campaign=1049&utm_source=git)** | Torrance, CA | On Site | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Strategy and Governance (Summer 2026)](https://jobright.ai/jobs/info/697ba3770b88cc7d64226f10?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/697ba2951136d179eeef2bed?utm_campaign=1049&utm_source=git)** | Middletown, CT, US | On Site | Jan 29 |
 | **[Vaupell](http://www.vaupell.com/)** | **[Media Design and Marketing Intern](https://jobright.ai/jobs/info/695eb2f0a112b402660d681d?utm_campaign=1049&utm_source=git)** | Constantine, MI | On Site | Jan 29 |
 | **[Galloway & Company, LLC](https://gallowayus.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/696da8a9db26b61895109b7f?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Jan 29 |
 | **[Squarespace](http://www.squarespace.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/697b9dc01136d179eeef2952?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jan 29 |
+| **[Galloway & Company, LLC](https://gallowayus.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/696da7e5350cf43803147092?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 29 |
+| **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[3D Artist Internship](https://jobright.ai/jobs/info/697ba8530b88cc7d6422768a?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Jan 29 |
+| **[PRB Collection](prbcollection.com)** | **[Visual Design & Marketing Intern (20th-Century Furniture)](https://jobright.ai/jobs/info/697bb1411423772304ebdb96?utm_campaign=1049&utm_source=git)** | High Point, NC | On Site | Jan 29 |
 | **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Creative Intern](https://jobright.ai/jobs/info/697b78621423772304eba0b2?utm_campaign=1049&utm_source=git)** | Westport, CT | On Site | Jan 29 |
 | **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Photography and Videography Intern](https://jobright.ai/jobs/info/697b966d0b88cc7d6422548e?utm_campaign=1049&utm_source=git)** | Rockwall, TX | On Site | Jan 29 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Marketing Creative](https://jobright.ai/jobs/info/69435eaddd382f5f56696163?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Jan 29 |
@@ -106,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/697ac75ff6fc293b0a2cc18a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/697ac73ef6fc293b0a2cc169?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Lighting Design Intern](https://jobright.ai/jobs/info/695efe79a1bbea1d9a79cbeb?utm_campaign=1049&utm_source=git)** | Pennington, NJ | On Site | Jan 28 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Creative Services Intern / 2026 Spring Semester](https://jobright.ai/jobs/info/697ac5ab8dbbf73badc81511?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Jan 28 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/697ac57b9d60e431a16c6dbb?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Jan 28 |
 | **[Activision](https://www.activision.com/)** | **[Stagiaire artiste UI / UI Artist Intern - Été 2026](https://jobright.ai/jobs/info/697ac4da9d60e431a16c6d29?utm_campaign=1049&utm_source=git)** | Québec, Quebec, Canada | On Site | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[User Experience Strategy & Tool Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae34ac532c4768fe09c37?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Design Intern](https://jobright.ai/jobs/info/697aaa628dbbf73badc7eab5?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Jan 28 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Architecture Intern](https://jobright.ai/jobs/info/697a7d799d60e431a16bfebd?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jan 28 |
 | **[The Hai Haus](https://www.thehaihaus.com)** | **[Content Creation Intern — Spring 2026 (Hybrid, NYC/MIA)](https://jobright.ai/jobs/info/697ae61317b11b1c2e41b94f?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Jan 28 |
-| **[Gensler](http://www.gensler.com)** | **[University of Kansas/Gensler Aviation & Transit Architecture CoLab Internship](https://jobright.ai/jobs/info/697a7a92f6fc293b0a2c4cb4?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jan 28 |
-| **[HNTB](http://www.hntb.com/)** | **[Intern Interior Designer - Summer 2026](https://jobright.ai/jobs/info/697a7a478dbbf73badc79f3b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
-| ↳ | **[Intern Interior Designer - Summer 2026](https://jobright.ai/jobs/info/697a79c89d60e431a16bf9fb?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
