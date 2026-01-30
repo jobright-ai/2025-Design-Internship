@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Art Direction Intern (Summer)](https://jobright.ai/jobs/info/69742e6837785856350e2894?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697c224d0b88cc7d642325f6?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
+| **[tms](https://themarketingstore.com)** | **[Digital Designer Intern](https://jobright.ai/jobs/info/69605b26a112b402660f1faa?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern](https://jobright.ai/jobs/info/697c13ba0b88cc7d64230427?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Design Intern](https://jobright.ai/jobs/info/697c12ec0b88cc7d6423027f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Program Management (Design Team)](https://jobright.ai/jobs/info/697c126c1423772304ec6385?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
@@ -66,8 +69,12 @@ For a complete list, click the following sortable link below:
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/69761afd37785856350fe5ac?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / K-12 Education](https://jobright.ai/jobs/info/697c04d60b88cc7d6422f2df?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | Hybrid | Jan 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors (Summer 2026)](https://jobright.ai/jobs/info/697c01a81423772304ec4f57?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jan 29 |
+| ↳ | **[Design Intern, Interiors (Summer 2026)](https://jobright.ai/jobs/info/697c1e890b88cc7d64231ad9?utm_campaign=1049&utm_source=git)** | United States-Nebraska-Omaha | On Site | Jan 29 |
 | **[Ripple](http://ripple.com)** | **[Web Experience Design Intern (Summer 2026)](https://jobright.ai/jobs/info/695f41500badca5763afc270?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
+| **[Loureiro Engineering Associates, Inc.](http://www.Loureiro.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/697c1dfb1423772304ec7a88?utm_campaign=1049&utm_source=git)** | Cromwell, CT | On Site | Jan 29 |
 | **[Talentix](https://thetalentix.com/)** | **[User Experience Design Specialist - Internship](https://jobright.ai/jobs/info/697bf6481136d179eeef99f7?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Jan 29 |
+| **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/697c21b81423772304ec8224?utm_campaign=1049&utm_source=git)** | Austin, TX US (Primary) | On Site | Jan 29 |
+| **[Microsoft](https://www.microsoft.com)** | **[UX Design Researcher: Internship Opportunities](https://jobright.ai/jobs/info/697c21bc1423772304ec8229?utm_campaign=1049&utm_source=git)** | United States, Washington, Redmond | On Site | Jan 29 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Intern-Interior Design](https://jobright.ai/jobs/info/697beec61423772304ec34ba?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 29 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6961d47af3f4cd132506d355?utm_campaign=1049&utm_source=git)** | Newark, NJ | Remote | Jan 29 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/697be8791136d179eeef8458?utm_campaign=1049&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 29 |
@@ -94,8 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Squarespace](http://www.squarespace.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/697bbed80b88cc7d64228b19?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 29 |
 | **[NextPort.AI](http://www.nextport.ai)** | **[Design Intern – Architecture/ Landscape  - Summer 2026](https://jobright.ai/jobs/info/697be2671423772304ec2354?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | Jan 29 |
 | **[Cardiff Metropolitan University](http://www.cardiffmet.ac.uk/)** | **[Design Internship](https://jobright.ai/jobs/info/6970e8e951f72647718321dc?utm_campaign=1049&utm_source=git)** | Alexander, NY | On Site | Jan 29 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Design Intern](https://jobright.ai/jobs/info/697bbac21136d179eeef3e58?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
-| ↳ | **[Graphic Design Intern, Global Equipment Platforms](https://jobright.ai/jobs/info/697bb7990b88cc7d6422828e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Graphic Design Intern, Global Equipment Platforms](https://jobright.ai/jobs/info/697bb7990b88cc7d6422828e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Paramount](https://www.paramount.com)** | **[UX & Product Design Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/696008e4a1bbea1d9a7ad1da?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 29 |
 | **[Atlantic Emergency Solutions](https://www.atlanticemergency.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/697bd9c41423772304ec1016?utm_campaign=1049&utm_source=git)** | Lexington, KY | Hybrid | Jan 29 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/697bded01423772304ec1ad5?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Jan 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Intern (San Jose)](https://jobright.ai/jobs/info/697b06fc17b11b1c2e41fe90?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
 | ↳ | **[Student Intern (Sacramento)](https://jobright.ai/jobs/info/697b019e1423772304eb0a84?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Jan 28 |
 | **[Messiah Lifeways](https://messiahlifeways.org)** | **[Summer 2026 Graphic Design Intern](https://jobright.ai/jobs/info/697b026c17b11b1c2e41f583?utm_campaign=1049&utm_source=git)** | Mechanicsburg, PA | On Site | Jan 28 |
-| **[NRG Energy](http://www.nrg.com/)** | **[ID Intern](https://jobright.ai/jobs/info/693a237cac80bb5492bca658?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Jan 28 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/697ac7f6f6fc293b0a2cc1fb?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Jan 28 |
-| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/697ac75ff6fc293b0a2cc18a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
-| **[Stantec](http://www.stantec.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/697ac73ef6fc293b0a2cc169?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 28 |
-| **[HDR](http://www.hdrinc.com)** | **[Lighting Design Intern](https://jobright.ai/jobs/info/695efe79a1bbea1d9a79cbeb?utm_campaign=1049&utm_source=git)** | Pennington, NJ | On Site | Jan 28 |
-| **[Zimmerman Advertising](https://www.zadv.com)** | **[Internship, Art Director (Summer 2026)](https://jobright.ai/jobs/info/697bcc911136d179eeef518f?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
