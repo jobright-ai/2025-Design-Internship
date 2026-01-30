@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Graphic Designer Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/697c79393f57a33569663580?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Jan 30 |
+| ↳ | **[WDI Dimensional Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697c78cd137a05102565776b?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Jan 30 |
+| ↳ | **[WDI Concept Design Intern,  FL Summer/Fall 2026](https://jobright.ai/jobs/info/697c773b727747250d5727a0?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 30 |
+| **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[Graphic Design & Digital Content Intern](https://jobright.ai/jobs/info/697c75b43f57a33569662ca4?utm_campaign=1049&utm_source=git)** | Atlanta - Atlanta, GA 30303 | On Site | Jan 30 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Concept Design Intern,  FL Summer/Fall 2026](https://jobright.ai/jobs/info/697c72b23f57a33569662576?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Jan 30 |
 | **[BrightView Landscapes](https://www.brightview.com)** | **[Landscape Development Internship](https://jobright.ai/jobs/info/697c56b43f57a3356966075d?utm_campaign=1049&utm_source=git)** | Johns Island, SC | On Site | Jan 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c4e76ba9f7d5ec9fcc971?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Graphic Design Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c527df1f8465b79f2750f?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 29 |
@@ -125,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[California Water Service Group](https://www.calwatergroup.com)** | **[Digital Content Intern — Media Curation](https://jobright.ai/jobs/info/697bac0f1136d179eeef31dc?utm_campaign=1049&utm_source=git)** | Torrance, CA | On Site | Jan 29 |
 | **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Photography and Videography Intern](https://jobright.ai/jobs/info/697be1e61136d179eeef7d0b?utm_campaign=1049&utm_source=git)** | Rockwall, Texas, United States | On Site | Jan 29 |
 | **[Cooper Carry](https://www.coopercarry.com/)** | **[Student Intern ( Atlanta, GA)](https://jobright.ai/jobs/info/697bcbec0b88cc7d642299d3?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jan 29 |
-| **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[3D Artist Internship](https://jobright.ai/jobs/info/697bca381136d179eeef506d?utm_campaign=1049&utm_source=git)** | US-AL-Huntsville | On Site | Jan 29 |
-| ↳ | **[3D Artist Internship](https://jobright.ai/jobs/info/697bc2b21423772304ebee85?utm_campaign=1049&utm_source=git)** | Huntsville, AL, US | On Site | Jan 29 |
+| **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[3D Artist Internship](https://jobright.ai/jobs/info/697bc2b21423772304ebee85?utm_campaign=1049&utm_source=git)** | Huntsville, AL, US | On Site | Jan 29 |
+| ↳ | **[3D Artist Internship](https://jobright.ai/jobs/info/697bca381136d179eeef506d?utm_campaign=1049&utm_source=git)** | US-AL-Huntsville | On Site | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Strategy and Governance (Summer 2026)](https://jobright.ai/jobs/info/697ba3770b88cc7d64226f10?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/697ba2951136d179eeef2bed?utm_campaign=1049&utm_source=git)** | Middletown, CT, US | On Site | Jan 29 |
 | **[Vaupell](http://www.vaupell.com/)** | **[Media Design and Marketing Intern](https://jobright.ai/jobs/info/695eb2f0a112b402660d681d?utm_campaign=1049&utm_source=git)** | Constantine, MI | On Site | Jan 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KCI](http://www.kci.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6944e90d50bbaf765056efb2?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 29 |
 | **[Randa Apparel & Accessories](http://www.randa.net)** | **[Tech Design Internship - Summer 2026](https://jobright.ai/jobs/info/690b4f7ad046ab6061ce3a9f?utm_campaign=1049&utm_source=git)** | Farmers Branch, TX | On Site | Jan 29 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Intern - Art Director](https://jobright.ai/jobs/info/695f2ca5a112b402660df558?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Jan 29 |
-| **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern (Sacramento)](https://jobright.ai/jobs/info/697b103e1423772304eb1fc0?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Jan 28 |
-| ↳ | **[Student Intern (San Diego)](https://jobright.ai/jobs/info/697b0d6417b11b1c2e420854?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
-| **[Loudoun United Football Club](https://www.loudoununitedfc.com/)** | **[Photography and Content Creation Intern](https://jobright.ai/jobs/info/697b37dc1136d179eeeeb4e5?utm_campaign=1049&utm_source=git)** | Leesburg, VA | On Site | Jan 28 |
-| **[Rob Metcalf Design](www.robmetcalfdesign.com)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/697b30af1136d179eeeeaadc?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Jan 28 |
-| **[Biasly](http://www.biasly.com)** | **[UX Design Internship Offered at Biasly](https://jobright.ai/jobs/info/697b0ab5c532c4768fe0e952?utm_campaign=1049&utm_source=git)** | Salt Lake City, United States | Remote | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
