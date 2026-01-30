@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Consumer Care Digital Channel Intern](https://jobright.ai/jobs/info/693920b048a8ce22990d40bf?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
+| **[Fittes](https://ariavent.com)** | **[Graphic Design Co-Op](https://jobright.ai/jobs/info/697d1bfd727747250d57d505?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer (Memphis, TN)](https://jobright.ai/jobs/info/697d1be43f57a3356966d340?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Jan 30 |
+| **[Stantec](http://www.stantec.com)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d14dc137a051025660a95?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[2026 Spring/Summer Intern (ARCH)](https://jobright.ai/jobs/info/697d1267727747250d57c910?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Graphic Designer Intern (Unpaid)](https://jobright.ai/jobs/info/697b55b10b88cc7d64221217?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Jan 30 |
@@ -68,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Architectural Designer Internship Program](https://jobright.ai/jobs/info/697d03b23f57a3356966b99f?utm_campaign=1049&utm_source=git)** | Vineyard Haven, MA | On Site | Jan 30 |
 | **[FULLBEAUTY Brands](http://fbbrands.com/)** | **[Creative Production Intern](https://jobright.ai/jobs/info/697cff1b3f57a3356966b6fe?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
 | **[City of Grand Junction](https://www.gjcity.org)** | **[Visit Grand Junction Intern – Administrative and Content](https://jobright.ai/jobs/info/697cf2f63f57a3356966acc9?utm_campaign=1049&utm_source=git)** | 740 Horizon Drive, Grand Junction, CO, 81506, US | On Site | Jan 30 |
+| **[Saleseraian](https://salesera.net/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697d197e3f57a3356966d035?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jan 30 |
 | **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[2026 Summer Intern (ARCH)](https://jobright.ai/jobs/info/697cef723f57a33569669fee?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 30 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6944ac43a7227b3ece665870?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jan 30 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Engineering Intern, Product Design](https://jobright.ai/jobs/info/697ce2f0727747250d578f41?utm_campaign=1049&utm_source=git)** | Valley City, OH, United States | On Site | Jan 30 |
@@ -126,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / K-12 Education](https://jobright.ai/jobs/info/697c04d60b88cc7d6422f2df?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | Hybrid | Jan 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors (Summer 2026)](https://jobright.ai/jobs/info/697c01a81423772304ec4f57?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jan 29 |
 | ↳ | **[Design Intern, Interiors (Summer 2026)](https://jobright.ai/jobs/info/697c1e890b88cc7d64231ad9?utm_campaign=1049&utm_source=git)** | United States-Nebraska-Omaha | On Site | Jan 29 |
+| **[FGM Architects](http://fgmarchitects.com)** | **[Summer Interior Design Intern (Chicago Region)](https://jobright.ai/jobs/info/697d22053f57a3356966d83c?utm_campaign=1049&utm_source=git)** | Westchester, IL | On Site | Jan 29 |
 | **[Ripple](http://ripple.com)** | **[Web Experience Design Intern (Summer 2026)](https://jobright.ai/jobs/info/695f41500badca5763afc270?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/697c21b81423772304ec8224?utm_campaign=1049&utm_source=git)** | Austin, TX US (Primary) | On Site | Jan 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[UX Design Researcher: Internship Opportunities](https://jobright.ai/jobs/info/697c8460137a051025658914?utm_campaign=1049&utm_source=git)** | United States, Washington, Redmond | On Site | Jan 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[J5 Design](http://www.jfive.com)** | **[Service Design Intern (Calgary or Edmonton)](https://jobright.ai/jobs/info/697bed911136d179eeef8d15?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 29 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/697bdce01423772304ec1693?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Jan 29 |
 | **[Squarespace](http://www.squarespace.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/697bbed80b88cc7d64228b19?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 29 |
-| **[NextPort.AI](http://www.nextport.ai)** | **[Design Intern – Architecture/ Landscape  - Summer 2026](https://jobright.ai/jobs/info/697be2671423772304ec2354?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | Jan 29 |
-| **[Cardiff Metropolitan University](http://www.cardiffmet.ac.uk/)** | **[Design Internship](https://jobright.ai/jobs/info/6970e8e951f72647718321dc?utm_campaign=1049&utm_source=git)** | Alexander, NY | On Site | Jan 29 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Graphic Design Intern, Global Equipment Platforms](https://jobright.ai/jobs/info/697bb7990b88cc7d6422828e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
-| **[Paramount](https://www.paramount.com)** | **[UX & Product Design Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/696008e4a1bbea1d9a7ad1da?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 29 |
-| **[Atlantic Emergency Solutions](https://www.atlanticemergency.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/697bd9c41423772304ec1016?utm_campaign=1049&utm_source=git)** | Lexington, KY | Hybrid | Jan 29 |
-| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/697bded01423772304ec1ad5?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
