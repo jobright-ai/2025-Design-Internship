@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fd70582817106e976db0c?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Jan 31 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Experience Design - Summer 2026 - New York](https://jobright.ai/jobs/info/697e17f7ce48107c05425cc4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 31 |
+| **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Packaging Intern](https://jobright.ai/jobs/info/697933c239f7f96cc6d199ed?utm_campaign=1049&utm_source=git)** | Marysville, OH | On Site | Jan 31 |
 | **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[Summer Intern - Document & Drawing Digitization](https://jobright.ai/jobs/info/68f18b8fe6870116b1f5a42b?utm_campaign=1049&utm_source=git)** | Arkansas, United States | On Site | Jan 31 |
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961985ae7ed9a5731ba735f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
 | ↳ | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961b5eae7ed9a5731ba89da?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FULLBEAUTY Brands](http://fbbrands.com/)** | **[Design Internship](https://jobright.ai/jobs/info/697d2f06137a0510256637f0?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Graphic Designer Intern (Unpaid)](https://jobright.ai/jobs/info/697b55b10b88cc7d64221217?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
 | **[S9ARCHITECTURE](https://www.s9architecture.com)** | **[Architectural Interns- Summer 2026](https://jobright.ai/jobs/info/697d31b2137a051025663fb9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 30 |
-| **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
