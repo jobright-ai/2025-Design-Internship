@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Experience Design - Summer 2026 - New York](https://jobright.ai/jobs/info/697d98fa7f40342e15d68122?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Jan 30 |
 | **[Susan Shaw](http://susanshaw.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697d8fdcce48107c0541da54?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern(GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/697d7833137a051025669af3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 30 |
 | **[Dropbox](https://www.dropbox.com)** | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d7411137a0510256696e8?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jan 30 |
@@ -145,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c4e76ba9f7d5ec9fcc971?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Graphic Design Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c527df1f8465b79f2750f?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c4a4cba9f7d5ec9fcc718?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
+| **[Tyndale House Publishers](http://www.tyndale.com)** | **[Print and Digital Typesetting Intern (Summer 2026)](https://jobright.ai/jobs/info/697da054ce48107c0541ec59?utm_campaign=1049&utm_source=git)** | Carol Stream, IL | On Site | Jan 29 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: UX/UI Design Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/697c40c81423772304ecb689?utm_campaign=1049&utm_source=git)** | Pasadena, CA | Hybrid | Jan 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c3de11423772304ecb524?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 29 |
 | **[BrightView Landscapes](https://www.brightview.com)** | **[Landscape Development Internship](https://jobright.ai/jobs/info/697c5adc727747250d570b18?utm_campaign=1049&utm_source=git)** | Ladson, SC | On Site | Jan 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c26e91423772304ec86e9?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | Hybrid | Jan 29 |
 | **[Torch Pictures](http://www.torchpictures.com)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/697c264e1136d179eeefdf9d?utm_campaign=1049&utm_source=git)** | Alexandria, VA | Hybrid | Jan 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c24b20b88cc7d642328f0?utm_campaign=1049&utm_source=git)** | San Diego, California, United States | Hybrid | Jan 29 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Art Direction Intern (Summer)](https://jobright.ai/jobs/info/69742e6837785856350e2894?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697c224d0b88cc7d642325f6?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
