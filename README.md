@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[2026 Summer Intern (LA)](https://jobright.ai/jobs/info/697dcbdbabff4c399a9caa27?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 31 |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Lippincott - Design Intern](https://jobright.ai/jobs/info/69615106a112b402660fd53d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
+| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961ccf8e7ed9a5731ba9bf7?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Jan 31 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fa544146d3b6ec557b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Experience Design - Summer 2026 - New York](https://jobright.ai/jobs/info/697d98fa7f40342e15d68122?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Jan 30 |
 | **[Susan Shaw](http://susanshaw.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697d8fdcce48107c0541da54?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
@@ -102,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Quantum Metric](https://quantummetric.com)** | **[Content Design Intern - Spring 2026](https://jobright.ai/jobs/info/697d2a58727747250d57ecf1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/697237b84ccbf64f8df22628?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Jan 30 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/697d09eb727747250d57bfe5?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jan 30 |
-| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Photo Management Intern- Summer 2026](https://jobright.ai/jobs/info/697d08cc727747250d57be8f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
 | **[Xylem](https://heimplanet.com/)** | **[Photography and Social Media Intern](https://jobright.ai/jobs/info/697949d488e2b47213bd80c4?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Hutker Architects, Inc.](https://hutkerarchitects.com/)** | **[Summer 2026 Architectural Designer Internship Program](https://jobright.ai/jobs/info/697d0582727747250d57bbe6?utm_campaign=1049&utm_source=git)** | Falmouth, MA | On Site | Jan 30 |
 | ↳ | **[Summer 2026 Architectural Designer Internship Program](https://jobright.ai/jobs/info/697d048c137a05102565f9bb?utm_campaign=1049&utm_source=git)** | Plymouth, MA | On Site | Jan 30 |
@@ -111,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Hutker Architects, Inc.](https://hutkerarchitects.com/)** | **[Summer 2026 Architectural Designer Internship Program](https://jobright.ai/jobs/info/697d03b23f57a3356966b99f?utm_campaign=1049&utm_source=git)** | Vineyard Haven, MA | On Site | Jan 30 |
 | **[CME Group](http://www.cmegroup.com)** | **[Document Processing Center Intern - Summer 2026](https://jobright.ai/jobs/info/697d3a49727747250d5809fe?utm_campaign=1049&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Jan 30 |
 | **[FULLBEAUTY Brands](http://fbbrands.com/)** | **[Creative Production Intern](https://jobright.ai/jobs/info/697cff1b3f57a3356966b6fe?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
-| **[City of Grand Junction](https://www.gjcity.org)** | **[Visit Grand Junction Intern – Administrative and Content](https://jobright.ai/jobs/info/697cf2f63f57a3356966acc9?utm_campaign=1049&utm_source=git)** | 740 Horizon Drive, Grand Junction, CO, 81506, US | On Site | Jan 30 |
 | **[Saleseraian](https://salesera.net/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697d197e3f57a3356966d035?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jan 30 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6944ac43a7227b3ece665870?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jan 30 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Engineering Intern, Product Design](https://jobright.ai/jobs/info/697ce2f0727747250d578f41?utm_campaign=1049&utm_source=git)** | Valley City, OH, United States | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Agency EA](http://agencyea.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/697d8da1ce48107c0541d828?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c26e91423772304ec86e9?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | Hybrid | Jan 29 |
 | **[Torch Pictures](http://www.torchpictures.com)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/697c264e1136d179eeefdf9d?utm_campaign=1049&utm_source=git)** | Alexandria, VA | Hybrid | Jan 29 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c24b20b88cc7d642328f0?utm_campaign=1049&utm_source=git)** | San Diego, California, United States | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
