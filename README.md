@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LCS](https://www.lcsnet.com/)** | **[Design Management Internship](https://jobright.ai/jobs/info/68d776d7295f8e37655da818?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Jan 31 |
+| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/69619b99a112b402661032dc?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Jan 31 |
+| **[Mason & Hanger](http://masonandhanger.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/697e086fce48107c0542511e?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | On Site | Jan 31 |
+| **[Minitab](http://www.minitab.com/en-us/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696177d6a112b402660ffc5f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
+| **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6961c336a112b402661052fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
+| **[Corsair](http://www.corsair.com)** | **[Gaming Product Intern - 3D Render](https://jobright.ai/jobs/info/69459d6263141d1884552b9c?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 31 |
+| **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/6961ca2ff3f4cd132506cc9e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
+| **[Visual Concepts](https://www.vcentertainment.com)** | **[Art Producer, Characters and Environments (Intern) - NBA 2K](https://jobright.ai/jobs/info/6961f772f3f4cd132506e39a?utm_campaign=1049&utm_source=git)** | Novato, CA | Remote | Jan 31 |
+| **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op - Customer Experience](https://jobright.ai/jobs/info/697e00677f40342e15d6d84d?utm_campaign=1049&utm_source=git)** | Michigan, United States | On Site | Jan 31 |
 | **[Vitesse](http://www.vitessepsp.com)** | **[Brand & Web Design Internship (B2B SaaS)](https://jobright.ai/jobs/info/69456e619516540735377e45?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Research and Design Intern](https://jobright.ai/jobs/info/696172c5a112b402660ff607?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Jan 31 |
 | **[Progressive Companies](http://www.progressiveae.com)** | **[Summer 2026 Architectural Student Intern](https://jobright.ai/jobs/info/691d39dd7481340785ed4f16?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Jan 31 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Saleseraian](https://salesera.net/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697d197e3f57a3356966d035?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jan 30 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6944ac43a7227b3ece665870?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jan 30 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Engineering Intern, Product Design](https://jobright.ai/jobs/info/697ce2f0727747250d578f41?utm_campaign=1049&utm_source=git)** | Valley City, OH, United States | On Site | Jan 30 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/697ce157727747250d578e37?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Jan 30 |
-| **[City of Grand Junction](https://www.gjcity.org)** | **[Visit Grand Junction Intern – Administrative and Content](https://jobright.ai/jobs/info/697de712abff4c399a9cb6c0?utm_campaign=1049&utm_source=git)** | 740 Horizon Drive, Grand Junction, CO, 81506, US | On Site | Jan 30 |
-| **[Stantec](http://www.stantec.com)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697cd9113f57a335696687aa?utm_campaign=1049&utm_source=git)** | 475 Fifth Avenue 12th Floor, New York, NY, 10017, US | On Site | Jan 30 |
-| **[Just Born, Inc.](http://www.justborn.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/697cd4a53f57a3356966853d?utm_campaign=1049&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 30 |
-| **[The F* Word](https://thefword.ai/)** | **[AI Fashion Design Intern (1 week): Featured Creator](https://jobright.ai/jobs/info/697cd43e3f57a3356966851e?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Jan 30 |
-| **[GA Telesis](http://www.gatelesis.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697cd2203f57a33569668479?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 30 |
-| **[Loureiro Engineering Associates, Inc.](http://www.Loureiro.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/697ce7573f57a33569668fb7?utm_campaign=1049&utm_source=git)** | Cromwell, CT | On Site | Jan 30 |
-| **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Industrial Design (Marketing)](https://jobright.ai/jobs/info/69445288dd382f5f566a6d85?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Jan 30 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711a15333b6343a14d9012?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
