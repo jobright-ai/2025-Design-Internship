@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/6961ca2ff3f4cd132506cc9e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Visual Concepts](https://www.vcentertainment.com)** | **[Art Producer, Characters and Environments (Intern) - NBA 2K](https://jobright.ai/jobs/info/6961f772f3f4cd132506e39a?utm_campaign=1049&utm_source=git)** | Novato, CA | Remote | Jan 31 |
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op - Customer Experience](https://jobright.ai/jobs/info/697e00677f40342e15d6d84d?utm_campaign=1049&utm_source=git)** | Michigan, United States | On Site | Jan 31 |
+| **[NRG Energy](http://www.nrg.com/)** | **[ID Intern](https://jobright.ai/jobs/info/693a237cac80bb5492bca658?utm_campaign=1049&utm_source=git)** | Utah, United States | On Site | Jan 31 |
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/69619a28e7ed9a5731ba74c3?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 31 |
 | **[Vitesse](http://www.vitessepsp.com)** | **[Brand & Web Design Internship (B2B SaaS)](https://jobright.ai/jobs/info/69456e619516540735377e45?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Research and Design Intern](https://jobright.ai/jobs/info/696172c5a112b402660ff607?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Graphic Designer Intern (Unpaid)](https://jobright.ai/jobs/info/697b55b10b88cc7d64221217?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
 | **[S9ARCHITECTURE](https://www.s9architecture.com)** | **[Architectural Interns- Summer 2026](https://jobright.ai/jobs/info/697d31b2137a051025663fb9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Jan 30 |
-| **[Quantum Metric](https://quantummetric.com)** | **[Content Design Intern - Spring 2026](https://jobright.ai/jobs/info/697d2a58727747250d57ecf1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
