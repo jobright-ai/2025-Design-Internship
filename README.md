@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fa544146d3b6ec557b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Experience Design - Summer 2026 - New York](https://jobright.ai/jobs/info/697d98fa7f40342e15d68122?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Jan 30 |
 | **[Susan Shaw](http://susanshaw.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697d8fdcce48107c0541da54?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern(GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/697d7833137a051025669af3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 30 |
@@ -146,11 +147,10 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c4e76ba9f7d5ec9fcc971?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Graphic Design Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c527df1f8465b79f2750f?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c4a4cba9f7d5ec9fcc718?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
-| **[Tyndale House Publishers](http://www.tyndale.com)** | **[Print and Digital Typesetting Intern (Summer 2026)](https://jobright.ai/jobs/info/697da054ce48107c0541ec59?utm_campaign=1049&utm_source=git)** | Carol Stream, IL | On Site | Jan 29 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: UX/UI Design Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/697c40c81423772304ecb689?utm_campaign=1049&utm_source=git)** | Pasadena, CA | Hybrid | Jan 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c3de11423772304ecb524?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 29 |
 | **[BrightView Landscapes](https://www.brightview.com)** | **[Landscape Development Internship](https://jobright.ai/jobs/info/697c5adc727747250d570b18?utm_campaign=1049&utm_source=git)** | Ladson, SC | On Site | Jan 29 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern, K-12 Education / Summer 2026](https://jobright.ai/jobs/info/697c403c0b88cc7d64235992?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 29 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / K-12 Education](https://jobright.ai/jobs/info/697c403c0b88cc7d64235992?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 29 |
 | **[Ripple](http://ripple.com)** | **[Brand Design Intern, Brand Studio (Summer 2026)](https://jobright.ai/jobs/info/6943599b50bbaf7650553920?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c2b8f0b88cc7d64232f3e?utm_campaign=1049&utm_source=git)** | San Diego, California, United States | Hybrid | Jan 29 |
 | **[Agency EA](http://agencyea.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/697d8da1ce48107c0541d828?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
