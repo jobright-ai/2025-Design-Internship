@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jingo](https://www.jingo.app)** | **[Brand & Creative Intern](https://jobright.ai/jobs/info/697f03b7abff4c399a9daeb7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[CoPatible](https://copatible.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/697eba87ce48107c0542d6fc?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | Jan 31 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b0e464b53a1551f94be83?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Jan 31 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jan 31 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Art + Commerce](https://jobright.ai/jobs/info/696d2989db26b61895104761?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jan 31 |
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6945c543d1953b5d11bec501?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Mead & Hunt](https://meadhunt.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/69614ee6f3f4cd132506489f?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | On Site | Jan 31 |
-| **[Intivio](https://www.intivio.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697debc87f40342e15d6ca06?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jan 31 |
 | **[ROCK](http://www.rockventures.com/)** | **[Apparel Design Intern - Summer 2026](https://jobright.ai/jobs/info/6969db25f25a38006698a641?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Design Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6946056fd1953b5d11bf21ec?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68efc5e1de50091dbfa50144?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Jan 31 |
@@ -117,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/6973f278206da320f49df01a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Jan 31 |
 | **[GFF](http://gff.com)** | **[Interior Design Summer Internship - Austin](https://jobright.ai/jobs/info/697dd62cce48107c05422cf2?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 30 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fa544146d3b6ec557b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 30 |
+| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Photo Management Intern- Summer 2026](https://jobright.ai/jobs/info/697f00e37f40342e15d7bc77?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Experience Design - Summer 2026 - New York](https://jobright.ai/jobs/info/697d98fa7f40342e15d68122?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Jan 30 |
 | **[Susan Shaw](http://susanshaw.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697d8fdcce48107c0541da54?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern(GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/697d7833137a051025669af3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[2026 Spring/Summer Intern (ARCH)](https://jobright.ai/jobs/info/697d1267727747250d57c910?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
 | ↳ | **[2026 Summer Intern (LA)](https://jobright.ai/jobs/info/697d315f3f57a3356966fe58?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jan 30 |
 | **[FULLBEAUTY Brands](http://fbbrands.com/)** | **[Design Internship](https://jobright.ai/jobs/info/697d2f06137a0510256637f0?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Jan 30 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Graphic Designer Intern (Unpaid)](https://jobright.ai/jobs/info/697b55b10b88cc7d64221217?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
