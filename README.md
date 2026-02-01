@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/697f9b6dabff4c399a9e33e6?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
-| **[Personality Tracker](https://www.linkedin.com/company/110104502)** | **[UI/UX & Visual Design Intern](https://jobright.ai/jobs/info/697f97cdce48107c0543a4bf?utm_campaign=1049&utm_source=git)** | Utah, United States | Remote | Feb 01 |
+| **[Sigma](http://sigmacomputing.com)** | **[Content Design Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/697faeccce48107c0543ae88?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
+| ↳ | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/697fadb87f40342e15d84a8e?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/68cd0a46e23def7af55b414b?utm_campaign=1049&utm_source=git)** | Latham, NY | On Site | Feb 01 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Digital Sculpting](https://jobright.ai/jobs/info/68e89d04c72beb74cb32087c?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Feb 01 |
 | **[Jingo](https://www.jingo.app)** | **[Brand & Creative Intern](https://jobright.ai/jobs/info/697f03b7abff4c399a9daeb7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
