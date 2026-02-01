@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RJMedex](https://rjmedex.com/)** | **[UX/UI with Web Development Intern to Full Time - Remote](https://jobright.ai/jobs/info/697f5a6eabff4c399a9e0e88?utm_campaign=1049&utm_source=git)** | Germantown, MD | Remote | Feb 01 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/68cd0a46e23def7af55b414b?utm_campaign=1049&utm_source=git)** | Latham, NY | On Site | Feb 01 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Digital Sculpting](https://jobright.ai/jobs/info/68e89d04c72beb74cb32087c?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Feb 01 |
 | **[Jingo](https://www.jingo.app)** | **[Brand & Creative Intern](https://jobright.ai/jobs/info/697f03b7abff4c399a9daeb7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Consumer Care Digital Channel Intern](https://jobright.ai/jobs/info/693920b048a8ce22990d40bf?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
 | **[Fittes](https://ariavent.com)** | **[Graphic Design Co-Op](https://jobright.ai/jobs/info/697d1bfd727747250d57d505?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer (Memphis, TN)](https://jobright.ai/jobs/info/697d1be43f57a3356966d340?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Jan 30 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Engineering Intern, Product Design](https://jobright.ai/jobs/info/697d3b38727747250d580b43?utm_campaign=1049&utm_source=git)** | Valley City, OH | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
