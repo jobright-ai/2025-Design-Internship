@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoPatible](https://copatible.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/697eba87ce48107c0542d6fc?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | Jan 31 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b0e464b53a1551f94be83?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Jan 31 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jan 31 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b02f63019f50a4fe60a35?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina, United States | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer (Memphis, TN)](https://jobright.ai/jobs/info/697d1be43f57a3356966d340?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Jan 30 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Engineering Intern, Product Design](https://jobright.ai/jobs/info/697d3b38727747250d580b43?utm_campaign=1049&utm_source=git)** | Valley City, OH | On Site | Jan 30 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d14dc137a051025660a95?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 30 |
-| **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[2026 Spring/Summer Intern (ARCH)](https://jobright.ai/jobs/info/697d1267727747250d57c910?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
