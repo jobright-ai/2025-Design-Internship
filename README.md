@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jan 31 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b02f63019f50a4fe60a35?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina, United States | On Site | Jan 31 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/697e64afabff4c399a9d1704?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
 | **[LeFrak](http://lefrak.com)** | **[Design & Development Intern](https://jobright.ai/jobs/info/697e5d5a7f40342e15d726b0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 31 |
-| **[Christensen Farms](https://www.christensenfarms.com)** | **[Communications Internship](https://jobright.ai/jobs/info/697e7543abff4c399a9d3428?utm_campaign=1049&utm_source=git)** | Sleepy Eye, MN | On Site | Jan 31 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fd70582817106e976db0c?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Jan 31 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Experience Design - Summer 2026 - New York](https://jobright.ai/jobs/info/697e17f7ce48107c05425cc4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Packaging Intern](https://jobright.ai/jobs/info/697933c239f7f96cc6d199ed?utm_campaign=1049&utm_source=git)** | Marysville, OH | On Site | Jan 31 |
