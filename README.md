@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jacobs](http://www.jacobs.com)** | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964b889a112b4026612a220?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
+| **[LaBella Associates](http://www.labellapc.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6980c08749964d25b5e381cb?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Feb 02 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6980c04649964d25b5e381a7?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 02 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6980bb13abff4c399a9f8041?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Feb 02 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6980b912abff4c399a9f7f42?utm_campaign=1049&utm_source=git)** | Asheville, NC | On Site | Feb 02 |
+| **[Commvault](https://www.commvault.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/6980b00babff4c399a9f7b25?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 02 |
+| **[Jacobs](http://www.jacobs.com)** | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964c103a112b4026612aa7f?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Feb 02 |
+| ↳ | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964b889a112b4026612a220?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
 | **[Atlassian](https://www.atlassian.com)** | **[Product Design Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/69354051f131d96e4846d898?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Feb 02 |
 | **[Jacobs](http://www.jacobs.com)** | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964c02825e1871507812626?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
 | ↳ | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964c0752cbf4e44756e45d3?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Feb 02 |
@@ -139,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Lippincott - Design Intern](https://jobright.ai/jobs/info/69615106a112b402660fd53d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961ccf8e7ed9a5731ba9bf7?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Jan 31 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/6973f278206da320f49df01a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Jan 31 |
+| **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[2026 Summer Intern (ARCH)](https://jobright.ai/jobs/info/697d1267727747250d57c910?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[GFF](http://gff.com)** | **[Interior Design Summer Internship - Austin](https://jobright.ai/jobs/info/697dd62cce48107c05422cf2?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 30 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fa544146d3b6ec557b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Photo Management Intern- Summer 2026](https://jobright.ai/jobs/info/697f00e37f40342e15d7bc77?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Denori Designs](www.denoridesigns.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/697e0f53ce48107c054258f1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Buildings (Summer 2026) - Orlando, FL](https://jobright.ai/jobs/info/697d6a68137a051025668cd0?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 30 |
 | ↳ | **[Architectural Student Intern - Industrial (Summer 2026)](https://jobright.ai/jobs/info/697d6a17727747250d584f5e?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 30 |
-| **[Pear Creations Inc.](https://trypear.ai/)** | **[Design / UX Internship (Summer 2026)](https://jobright.ai/jobs/info/697d67f2727747250d584cad?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
-| **[Hutker Architects, Inc.](https://hutkerarchitects.com/)** | **[Summer 2026 Architectural Designer Internship Program](https://jobright.ai/jobs/info/697d86c37f40342e15d65021?utm_campaign=1049&utm_source=git)** | Vineyard Haven, MA | On Site | Jan 30 |
-| ↳ | **[Summer 2026 Architectural Designer Internship Program](https://jobright.ai/jobs/info/697d83ee7f40342e15d64d9f?utm_campaign=1049&utm_source=git)** | Falmouth, MA | On Site | Jan 30 |
-| ↳ | **[Summer 2026 Architectural Designer Internship Program](https://jobright.ai/jobs/info/697d87c2ce48107c0541b920?utm_campaign=1049&utm_source=git)** | Plymouth, MA | On Site | Jan 30 |
-| **[Dropbox](https://www.dropbox.com)** | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d60623f57a33569674211?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Buildings (Summer 2026) - Orlando, FL](https://jobright.ai/jobs/info/697d5fdb727747250d5843ae?utm_campaign=1049&utm_source=git)** | 4798 New Broad Street Suite 100, Orlando, FL, 32814, US | On Site | Jan 30 |
-| **[Sid Lee](http://sidlee.com/en)** | **[Stagiaire en création de contenu créatif - Creative Content Intern](https://jobright.ai/jobs/info/697d5b6d3f57a33569673cf8?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
