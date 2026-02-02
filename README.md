@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Planning](https://jobright.ai/jobs/info/6973dd74bc8e722e7b18abc3?utm_campaign=1049&utm_source=git)** | Tustin, CA | On Site | Feb 01 |
 | **[LGA Partners](http://lga-partners.com)** | **[Architecture Intern (Summer 2026)](https://jobright.ai/jobs/info/6980012cabff4c399a9ebb73?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
 | ↳ | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6980005e7f40342e15d8c7b1?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
-| **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Graphic Design & Video Editor US Residents Only apply!](https://jobright.ai/jobs/info/697fef11abff4c399a9e9934?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 01 |
 | **[HalloweenEveryNight](https://halloweeneverynight.com)** | **[Graphics/Illustrations Intern](https://jobright.ai/jobs/info/697fee22abff4c399a9e9817?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Content Design Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/697faeccce48107c0543ae88?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | ↳ | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/697fadb87f40342e15d84a8e?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
@@ -107,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945b20163141d1884553f8f?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Jan 31 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945b3ad63141d18845541e7?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jan 31 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Art + Commerce](https://jobright.ai/jobs/info/696d2989db26b61895104761?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jan 31 |
-| **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[2026 Summer Intern (ARCH)](https://jobright.ai/jobs/info/697d1267727747250d57c910?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6945c543d1953b5d11bec501?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Mead & Hunt](https://meadhunt.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/69614ee6f3f4cd132506489f?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | On Site | Jan 31 |
 | **[ROCK](http://www.rockventures.com/)** | **[Apparel Design Intern - Summer 2026](https://jobright.ai/jobs/info/6969db25f25a38006698a641?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d3a26137a0510256648b4?utm_campaign=1049&utm_source=git)** | Remote - Canada: Select locations | Remote | Jan 30 |
 | **[Exiger](http://www.exiger.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6961661ff3f4cd1325065e8a?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Jan 30 |
 | **[Quantum Metric](https://quantummetric.com)** | **[Content Design Intern - Spring 2026](https://jobright.ai/jobs/info/697d2c34727747250d57f1af?utm_campaign=1049&utm_source=git)** | Remote - Intern | Remote | Jan 30 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern, Hospitality / Summer 2026](https://jobright.ai/jobs/info/697d2aad3f57a3356966ec97?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States | Hybrid | Jan 30 |
+| **[HOK](http://www.hok.com/)** | **[Interiors - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/697d25f93f57a3356966e106?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
