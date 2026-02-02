@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6980005e7f40342e15d8c7b1?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
 | **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Graphic Design & Video Editor US Residents Only apply!](https://jobright.ai/jobs/info/697fef11abff4c399a9e9934?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 01 |
 | **[HalloweenEveryNight](https://halloweeneverynight.com)** | **[Graphics/Illustrations Intern](https://jobright.ai/jobs/info/697fee22abff4c399a9e9817?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 01 |
-| **[Ezgoin Brands](https://ezgoinbrands.com/)** | **[Intern content designers](https://jobright.ai/jobs/info/697fe0c6abff4c399a9e88bb?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Content Design Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/697faeccce48107c0543ae88?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | ↳ | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/697fadb87f40342e15d84a8e?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/68cd0a46e23def7af55b414b?utm_campaign=1049&utm_source=git)** | Latham, NY | On Site | Feb 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d3a26137a0510256648b4?utm_campaign=1049&utm_source=git)** | Remote - Canada: Select locations | Remote | Jan 30 |
 | **[Exiger](http://www.exiger.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6961661ff3f4cd1325065e8a?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Jan 30 |
 | **[Quantum Metric](https://quantummetric.com)** | **[Content Design Intern - Spring 2026](https://jobright.ai/jobs/info/697d2c34727747250d57f1af?utm_campaign=1049&utm_source=git)** | Remote - Intern | Remote | Jan 30 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern, Hospitality / Summer 2026](https://jobright.ai/jobs/info/697d2aad3f57a3356966ec97?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
