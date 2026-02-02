@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacobs](http://www.jacobs.com)** | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964b889a112b4026612a220?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
+| **[Atlassian](https://www.atlassian.com)** | **[Product Design Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/69354051f131d96e4846d898?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Feb 02 |
+| **[Jacobs](http://www.jacobs.com)** | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964c02825e1871507812626?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
+| ↳ | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964c0752cbf4e44756e45d3?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Feb 02 |
+| ↳ | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6964b835a112b4026612a1db?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 02 |
+| ↳ | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964bcda25e1871507812290?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e67bf44146d3b6ec53d00?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Feb 02 |
 | **[Jacobs](http://www.jacobs.com)** | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964b867a112b4026612a203?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 02 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 02 |
@@ -70,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Planning](https://jobright.ai/jobs/info/6973dd74bc8e722e7b18abc3?utm_campaign=1049&utm_source=git)** | Tustin, CA | On Site | Feb 01 |
 | **[LGA Partners](http://lga-partners.com)** | **[Architecture Intern (Summer 2026)](https://jobright.ai/jobs/info/6980012cabff4c399a9ebb73?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
 | ↳ | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6980005e7f40342e15d8c7b1?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
-| **[HalloweenEveryNight](https://halloweeneverynight.com)** | **[Graphics/Illustrations Intern](https://jobright.ai/jobs/info/697fee22abff4c399a9e9817?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Content Design Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/697faeccce48107c0543ae88?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | ↳ | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/697fadb87f40342e15d84a8e?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/68cd0a46e23def7af55b414b?utm_campaign=1049&utm_source=git)** | Latham, NY | On Site | Feb 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dropbox](https://www.dropbox.com)** | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d60623f57a33569674211?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Buildings (Summer 2026) - Orlando, FL](https://jobright.ai/jobs/info/697d5fdb727747250d5843ae?utm_campaign=1049&utm_source=git)** | 4798 New Broad Street Suite 100, Orlando, FL, 32814, US | On Site | Jan 30 |
 | **[Sid Lee](http://sidlee.com/en)** | **[Stagiaire en création de contenu créatif - Creative Content Intern](https://jobright.ai/jobs/info/697d5b6d3f57a33569673cf8?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 30 |
-| ↳ | **[Art Director, Intern - Toronto](https://jobright.ai/jobs/info/697d533f3f57a33569671d65?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
-| **[Meyocks](http://www.meyocks.com)** | **[Graphic Design intern](https://jobright.ai/jobs/info/697d76dd727747250d585fa0?utm_campaign=1049&utm_source=git)** | West Des Moines, Iowa, United States | Hybrid | Jan 30 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern, Hospitality / Summer 2026](https://jobright.ai/jobs/info/697d4a0b137a051025665702?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 30 |
-| **[Hogsalt](https://www.hogsalt.com)** | **[Photography Summer Internship Experience](https://jobright.ai/jobs/info/697d6f6b3f57a33569675429?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d6679727747250d584ada?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
