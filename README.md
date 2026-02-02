@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e67bf44146d3b6ec53d00?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Feb 02 |
+| **[Jacobs](http://www.jacobs.com)** | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964b867a112b4026612a203?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 02 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/69807961abff4c399a9f43a3?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Visual Effects Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698073a57f40342e15d94b67?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern, Hospitality / Summer 2026](https://jobright.ai/jobs/info/697d4a0b137a051025665702?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jan 30 |
 | **[Hogsalt](https://www.hogsalt.com)** | **[Photography Summer Internship Experience](https://jobright.ai/jobs/info/697d6f6b3f57a33569675429?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d6679727747250d584ada?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 30 |
-| **[CME Group](http://www.cmegroup.com)** | **[Document Processing Center Intern - Summer 2026](https://jobright.ai/jobs/info/697d41c6137a051025665298?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
-| **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Creative Intern](https://jobright.ai/jobs/info/697d4027727747250d581217?utm_campaign=1049&utm_source=git)** | Irvine, CA | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
