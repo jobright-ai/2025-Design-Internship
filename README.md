@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Consumer Care Digital Channel Intern](https://jobright.ai/jobs/info/693920b048a8ce22990d40bf?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 02 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6980c08749964d25b5e381cb?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Feb 02 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6980c04649964d25b5e381a7?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 02 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6980bb13abff4c399a9f8041?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Feb 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dropbox](https://www.dropbox.com)** | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d7411137a0510256696e8?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jan 30 |
 | **[Denori Designs](www.denoridesigns.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/697e0f53ce48107c054258f1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Buildings (Summer 2026) - Orlando, FL](https://jobright.ai/jobs/info/697d6a68137a051025668cd0?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 30 |
-| ↳ | **[Architectural Student Intern - Industrial (Summer 2026)](https://jobright.ai/jobs/info/697d6a17727747250d584f5e?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
