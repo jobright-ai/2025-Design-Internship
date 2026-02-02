@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Illusion Maker - Figure Finishing Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/69806e837f40342e15d948b7?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Feb 02 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Visual Effects Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698073a57f40342e15d94b67?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Feb 02 |
+| ↳ | **[WDI Illusion Maker - Figure Finishing Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/69806e837f40342e15d948b7?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Feb 02 |
 | ↳ | **[WDI Illusion Maker - Surface Development Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/6980696a7f40342e15d93e35?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Feb 02 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971253e51f72647718359e2?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Feb 02 |
 | **[Jingo](https://www.jingo.app)** | **[Brand & Creative Intern](https://jobright.ai/jobs/info/698062b7abff4c399a9f24fe?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Creative Intern](https://jobright.ai/jobs/info/697d4027727747250d581217?utm_campaign=1049&utm_source=git)** | Irvine, CA | Hybrid | Jan 30 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Student Intern - Industrial (Summer 2026)](https://jobright.ai/jobs/info/697d3ed4727747250d58106a?utm_campaign=1049&utm_source=git)** | 733 Marquette Avenue Suite 1000, Minneapolis, MN, 55402, US | Hybrid | Jan 30 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Marketing, Graphic Design](https://jobright.ai/jobs/info/6973fd87206da320f49e0da7?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Jan 30 |
-| **[Dropbox](https://www.dropbox.com)** | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d3b5f3f57a33569670a8e?utm_campaign=1049&utm_source=git)** | Remote - US: All locations | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
