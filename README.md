@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ezgoin Brands](https://ezgoinbrands.com/)** | **[Intern content designers](https://jobright.ai/jobs/info/697fe0c6abff4c399a9e88bb?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Content Design Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/697faeccce48107c0543ae88?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | ↳ | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/697fadb87f40342e15d84a8e?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/68cd0a46e23def7af55b414b?utm_campaign=1049&utm_source=git)** | Latham, NY | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Deeplocal](http://deeplocal.com)** | **[3D Design Intern](https://jobright.ai/jobs/info/697d3f2f3f57a33569670fdd?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jan 30 |
 | **[AARP](http://www.aarp.org)** | **[Consumer Care Digital Channel Intern](https://jobright.ai/jobs/info/693920b048a8ce22990d40bf?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
 | **[Fittes](https://ariavent.com)** | **[Graphic Design Co-Op](https://jobright.ai/jobs/info/697d1bfd727747250d57d505?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Graphic Designer (Memphis, TN)](https://jobright.ai/jobs/info/697d1be43f57a3356966d340?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
