@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 02 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/69807961abff4c399a9f43a3?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Visual Effects Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698073a57f40342e15d94b67?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Feb 02 |
 | ↳ | **[WDI Illusion Maker - Figure Finishing Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/69806e837f40342e15d948b7?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Feb 02 |
 | ↳ | **[WDI Illusion Maker - Surface Development Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/6980696a7f40342e15d93e35?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d6679727747250d584ada?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[CME Group](http://www.cmegroup.com)** | **[Document Processing Center Intern - Summer 2026](https://jobright.ai/jobs/info/697d41c6137a051025665298?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Creative Intern](https://jobright.ai/jobs/info/697d4027727747250d581217?utm_campaign=1049&utm_source=git)** | Irvine, CA | Hybrid | Jan 30 |
-| **[Stantec](http://www.stantec.com)** | **[Architectural Student Intern - Industrial (Summer 2026)](https://jobright.ai/jobs/info/697d3ed4727747250d58106a?utm_campaign=1049&utm_source=git)** | 733 Marquette Avenue Suite 1000, Minneapolis, MN, 55402, US | Hybrid | Jan 30 |
-| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Marketing, Graphic Design](https://jobright.ai/jobs/info/6973fd87206da320f49e0da7?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
