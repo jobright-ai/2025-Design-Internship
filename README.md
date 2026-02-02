@@ -57,10 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Affinitiv](http://www.affinitiv.com)** | **[Graphic Design Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6980da2549964d25b5e3946b?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 02 |
+| **[BHDP Architecture](http://bhdp.com)** | **[2026 Internship / Architectural / Charlotte](https://jobright.ai/jobs/info/6980d9e049964d25b5e39437?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 02 |
+| ↳ | **[2026 Internship / Architectural / Cincinnati](https://jobright.ai/jobs/info/6980d81049964d25b5e3930c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Feb 02 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Industrial Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6980d795abff4c399a9f9378?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 02 |
+| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship - Planner](https://jobright.ai/jobs/info/6980d5a17f40342e15d99c3a?utm_campaign=1049&utm_source=git)** | Basalt, CO | On Site | Feb 02 |
+| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6980d52b7f40342e15d99c03?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 02 |
 | **[AARP](http://www.aarp.org)** | **[Consumer Care Digital Channel Intern](https://jobright.ai/jobs/info/693920b048a8ce22990d40bf?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 02 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6980c08749964d25b5e381cb?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Feb 02 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6980c04649964d25b5e381a7?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 02 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6980bb13abff4c399a9f8041?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Feb 02 |
+| **[Xylem](https://heimplanet.com/)** | **[Photography and Social Media Intern](https://jobright.ai/jobs/info/697949d488e2b47213bd80c4?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 02 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6980db89abff4c399a9f9800?utm_campaign=1049&utm_source=git)** | Anaheim, CA, USA | Hybrid | Feb 02 |
+| **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Photography Intern- Kane County Cougars](https://jobright.ai/jobs/info/6980dadd7f40342e15d9a1bf?utm_campaign=1049&utm_source=git)** | Geneva, IL | On Site | Feb 02 |
+| **[LaBella Associates](http://www.labellapc.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6980bb13abff4c399a9f8041?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Feb 02 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6980b912abff4c399a9f7f42?utm_campaign=1049&utm_source=git)** | Asheville, NC | On Site | Feb 02 |
 | **[Commvault](https://www.commvault.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/6980b00babff4c399a9f7b25?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 02 |
 | **[Jacobs](http://www.jacobs.com)** | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964c103a112b4026612aa7f?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Feb 02 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/6973f278206da320f49df01a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Jan 31 |
 | **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[2026 Summer Intern (ARCH)](https://jobright.ai/jobs/info/697d1267727747250d57c910?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[GFF](http://gff.com)** | **[Interior Design Summer Internship - Austin](https://jobright.ai/jobs/info/697dd62cce48107c05422cf2?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jan 30 |
-| **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fa544146d3b6ec557b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jan 30 |
-| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Photo Management Intern- Summer 2026](https://jobright.ai/jobs/info/697f00e37f40342e15d7bc77?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Experience Design - Summer 2026 - New York](https://jobright.ai/jobs/info/697d98fa7f40342e15d68122?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Jan 30 |
-| **[Susan Shaw](http://susanshaw.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697d8fdcce48107c0541da54?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
-| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Commercialization Intern](https://jobright.ai/jobs/info/6980368babff4c399a9efa71?utm_campaign=1049&utm_source=git)** | Warren, RI | On Site | Jan 30 |
-| **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern(GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/697d7833137a051025669af3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jan 30 |
-| **[Dropbox](https://www.dropbox.com)** | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d7411137a0510256696e8?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jan 30 |
-| **[Denori Designs](www.denoridesigns.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/697e0f53ce48107c054258f1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Buildings (Summer 2026) - Orlando, FL](https://jobright.ai/jobs/info/697d6a68137a051025668cd0?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
