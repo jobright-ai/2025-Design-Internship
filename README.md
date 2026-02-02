@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Planning](https://jobright.ai/jobs/info/6973dd74bc8e722e7b18abc3?utm_campaign=1049&utm_source=git)** | Tustin, CA | On Site | Feb 01 |
 | **[LGA Partners](http://lga-partners.com)** | **[Architecture Intern (Summer 2026)](https://jobright.ai/jobs/info/6980012cabff4c399a9ebb73?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
 | ↳ | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6980005e7f40342e15d8c7b1?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
 | **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Graphic Design & Video Editor US Residents Only apply!](https://jobright.ai/jobs/info/697fef11abff4c399a9e9934?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d3a26137a0510256648b4?utm_campaign=1049&utm_source=git)** | Remote - Canada: Select locations | Remote | Jan 30 |
 | **[Exiger](http://www.exiger.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6961661ff3f4cd1325065e8a?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Jan 30 |
 | **[Quantum Metric](https://quantummetric.com)** | **[Content Design Intern - Spring 2026](https://jobright.ai/jobs/info/697d2c34727747250d57f1af?utm_campaign=1049&utm_source=git)** | Remote - Intern | Remote | Jan 30 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern, Hospitality / Summer 2026](https://jobright.ai/jobs/info/697d2aad3f57a3356966ec97?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
