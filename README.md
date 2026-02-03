@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TKO](https://tkogrp.com)** | **[Intern - Consumer Products, WWE](https://jobright.ai/jobs/info/69815506abff4c399aa04cd5?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
+| **[Legends Entertainment](https://www.legendsentertainmentgroup.org)** | **[Video Editor and Motion Graphics Design Intern](https://jobright.ai/jobs/info/698153297f40342e15da5597?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Art Directing, WWE](https://jobright.ai/jobs/info/698153167f40342e15da558e?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
+| **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Internship, Packaging](https://jobright.ai/jobs/info/6981528f7f40342e15da5542?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Creative Technologist Intern](https://jobright.ai/jobs/info/698151927f40342e15da54ba?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 02 |
 | **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Internship, Visual Merchandising - Fenty](https://jobright.ai/jobs/info/698151927f40342e15da54b9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
 | **[XÍRENA](https://www.xirena.com)** | **[Art Department / Creative Intern (Fashion Industry)](https://jobright.ai/jobs/info/69814da8abff4c399aa0476f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 02 |
@@ -77,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Environmental Illustration Internship](https://jobright.ai/jobs/info/698132267f40342e15da2255?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Feb 02 |
 | **[FGM Architects](http://fgmarchitects.com)** | **[Interior Design Intern (Chicago Region)](https://jobright.ai/jobs/info/698131817f40342e15da21df?utm_campaign=1049&utm_source=git)** | Westchester, IL | On Site | Feb 02 |
 | **[10 and 5 Creative](https://10and5creative.com/)** | **[Creative Content Coordinator/Intern](https://jobright.ai/jobs/info/69812f3c7f40342e15da1d00?utm_campaign=1049&utm_source=git)** | Denver, CO | Remote | Feb 02 |
+| **[Corewell Health](https://corewellhealth.org)** | **[Architectural Intern](https://jobright.ai/jobs/info/698156cbabff4c399aa04dda?utm_campaign=1049&utm_source=git)** | St Joseph, MI | On Site | Feb 02 |
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Social Media Designer](https://jobright.ai/jobs/info/69811de27f40342e15d9f9b2?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Feb 02 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971240951f7264771835904?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 02 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/697bdddd0b88cc7d6422ba21?utm_campaign=1049&utm_source=git)** | Middletown, CT | On Site | Feb 02 |
@@ -115,18 +120,17 @@ For a complete list, click the following sortable link below:
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Enterprise - Summer 2026](https://jobright.ai/jobs/info/6981155f49964d25b5e3e3ad?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Feb 02 |
 | **[McMillan Pazdan Smith Architecture](http://mcmillanpazdansmith.com)** | **[Summer Internship 2026 - Atlanta Studio](https://jobright.ai/jobs/info/6981167c49964d25b5e3e4f9?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 02 |
 | ↳ | **[Summer Internship 2026 - Augusta Studio](https://jobright.ai/jobs/info/69811e64abff4c399a9ff091?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Feb 02 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Architectural Intern](https://jobright.ai/jobs/info/69811a1049964d25b5e3e80f?utm_campaign=1049&utm_source=git)** | St Joseph, MI | On Site | Feb 02 |
-| **[McMillan Pazdan Smith Architecture](http://mcmillanpazdansmith.com)** | **[Summer Internship 2026 - Asheville Studio](https://jobright.ai/jobs/info/698114317f40342e15d9ee69?utm_campaign=1049&utm_source=git)** | Asheville, NC | On Site | Feb 02 |
+| ↳ | **[Summer Internship 2026 - Asheville Studio](https://jobright.ai/jobs/info/698114317f40342e15d9ee69?utm_campaign=1049&utm_source=git)** | Asheville, NC | On Site | Feb 02 |
 | **[DecorMatters](https://www.decormatters.com)** | **[Design Operation Intern](https://jobright.ai/jobs/info/6980f5a649964d25b5e3c14b?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | Remote | Feb 02 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Creative Technologist Intern](https://jobright.ai/jobs/info/6980f34c49964d25b5e3be17?utm_campaign=1049&utm_source=git)** | US - GA - Atlanta | On Site | Feb 02 |
 | **[McMillan Pazdan Smith Architecture](http://mcmillanpazdansmith.com)** | **[Summer Internship 2026 - Charlotte Studio](https://jobright.ai/jobs/info/6981197babff4c399a9fe90c?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Feb 02 |
-| ↳ | **[Summer Internship 2026 - Asheville Studio](https://jobright.ai/jobs/info/698119d6abff4c399a9fe9a0?utm_campaign=1049&utm_source=git)** | Asheville,NC,US | On Site | Feb 02 |
-| ↳ | **[Summer Internship 2026 - Greenville Studio](https://jobright.ai/jobs/info/69811f097f40342e15d9fb5c?utm_campaign=1049&utm_source=git)** | Greenville,SC,US | On Site | Feb 02 |
-| ↳ | **[Summer Internship 2026 - Huntsville Studio](https://jobright.ai/jobs/info/698116cc7f40342e15d9f17a?utm_campaign=1049&utm_source=git)** | Huntsville,AL,US | On Site | Feb 02 |
-| ↳ | **[Summer Internship 2026 - Huntsville Studio](https://jobright.ai/jobs/info/698116ef49964d25b5e3e585?utm_campaign=1049&utm_source=git)** | Columbus,GA,US | On Site | Feb 02 |
 | ↳ | **[Summer Internship 2026 - Augusta Studio](https://jobright.ai/jobs/info/69811fa2abff4c399a9ff299?utm_campaign=1049&utm_source=git)** | Augusta,GA,US | On Site | Feb 02 |
+| ↳ | **[Summer Internship 2026 - Huntsville Studio](https://jobright.ai/jobs/info/698116ef49964d25b5e3e585?utm_campaign=1049&utm_source=git)** | Columbus,GA,US | On Site | Feb 02 |
+| ↳ | **[Summer Internship 2026 - Asheville Studio](https://jobright.ai/jobs/info/698119d6abff4c399a9fe9a0?utm_campaign=1049&utm_source=git)** | Asheville,NC,US | On Site | Feb 02 |
 | ↳ | **[Summer Internship 2026 - Atlanta Studio](https://jobright.ai/jobs/info/6981190e7f40342e15d9f300?utm_campaign=1049&utm_source=git)** | Atlanta,GA,US | On Site | Feb 02 |
 | ↳ | **[Summer Internship 2026 - West Columbia Studio](https://jobright.ai/jobs/info/698122a549964d25b5e3f23e?utm_campaign=1049&utm_source=git)** | West Columbia,SC,US | On Site | Feb 02 |
+| ↳ | **[Summer Internship 2026 - Huntsville Studio](https://jobright.ai/jobs/info/698116cc7f40342e15d9f17a?utm_campaign=1049&utm_source=git)** | Huntsville,AL,US | On Site | Feb 02 |
+| ↳ | **[Summer Internship 2026 - Greenville Studio](https://jobright.ai/jobs/info/69811f097f40342e15d9fb5c?utm_campaign=1049&utm_source=git)** | Greenville,SC,US | On Site | Feb 02 |
 | **[Oltrelimiti](https://oltrelimiti.com/)** | **[Interior Architecture Intern](https://jobright.ai/jobs/info/6981138f49964d25b5e3e1bb?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Feb 02 |
 | **[TH Experiential](https://thexperiential.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6980ebbb7f40342e15d9c2ad?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 02 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 3D Design Intern](https://jobright.ai/jobs/info/6980eb7c7f40342e15d9c279?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Feb 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xylem](https://heimplanet.com/)** | **[Photography and Social Media Intern](https://jobright.ai/jobs/info/697949d488e2b47213bd80c4?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6980db89abff4c399a9f9800?utm_campaign=1049&utm_source=git)** | Anaheim, CA, USA | Hybrid | Feb 02 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Photography Intern- Kane County Cougars](https://jobright.ai/jobs/info/6980dadd7f40342e15d9a1bf?utm_campaign=1049&utm_source=git)** | Geneva, IL | On Site | Feb 02 |
-| **[LaBella Associates](http://www.labellapc.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6980bb13abff4c399a9f8041?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Feb 02 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6980b912abff4c399a9f7f42?utm_campaign=1049&utm_source=git)** | Asheville, NC | On Site | Feb 02 |
-| **[Commvault](https://www.commvault.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/6980b00babff4c399a9f7b25?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 02 |
-| **[Jacobs](http://www.jacobs.com)** | **[Visual Media Artist Intern](https://jobright.ai/jobs/info/6964c103a112b4026612aa7f?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
