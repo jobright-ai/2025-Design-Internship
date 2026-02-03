@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Graphic Designer/UX Designer](https://jobright.ai/jobs/info/698211b7a314e76369056f28?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Feb 03 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[WDI Illusion Maker - Figure Finishing Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/698207f2a314e763690568c3?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
+| **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 03 |
 | **[160over90](http://160over90.com/)** | **[Intern, Creative](https://jobright.ai/jobs/info/69666b7f5ad3a93f8231bd90?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Color and Paint Intern, Summer 2026](https://jobright.ai/jobs/info/69820ca70f6f7e7a2cdb3186?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
-| ↳ | **[WDI Graphic Design Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/6982082dc3101f1400c3b5c8?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/6973f278206da320f49df01a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Feb 03 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Graphic Design Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/6982082dc3101f1400c3b5c8?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
 | ↳ | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820811c3101f1400c3b5b9?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Feb 03 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[WDI Dimensional Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820806a314e763690568d7?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
-| ↳ | **[WDI Illusion Maker - Figure Finishing Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/698207f2a314e763690568c3?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Character Plaster and Hardscape Internship, Summer 2026](https://jobright.ai/jobs/info/69820703c3101f1400c3b4c8?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
 | ↳ | **[WDI Graphic Designer Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/698205cbc3101f1400c3b3d9?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
 | ↳ | **[WDI Visual Effects Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820536a314e763690566af?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[Intern - Art Directing, WWE](https://jobright.ai/jobs/info/69814433abff4c399aa02bab?utm_campaign=1049&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
 | ↳ | **[Intern - Photo Editing, WWE](https://jobright.ai/jobs/info/698142ea7f40342e15da3443?utm_campaign=1049&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Architectural Intern](https://jobright.ai/jobs/info/698141c17f40342e15da331b?utm_campaign=1049&utm_source=git)** | St Joseph, MI | On Site | Feb 02 |
-| **[TKO](https://tkogrp.com)** | **[Intern - Consumer Products, WWE](https://jobright.ai/jobs/info/6981405049964d25b5e42425?utm_campaign=1049&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
