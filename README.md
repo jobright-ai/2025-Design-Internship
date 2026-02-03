@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perkins&Will](http://perkinswill.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/6965ddad5ad3a93f82314ca1?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 02 |
+| ↳ | **[Interiors Intern](https://jobright.ai/jobs/info/6965e0ffa112b4026613f711?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
+| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6965bafb2cbf4e44756f67a1?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 02 |
+| **[Glen Raven](https://www.glenraven.com/)** | **[Textile Design Internship - Summer 2026](https://jobright.ai/jobs/info/69818f2049964d25b5e4a92a?utm_campaign=1049&utm_source=git)** | Burlington, NC | On Site | Feb 02 |
+| **[RIOS](https://www.rios.com/)** | **[Landscape Architecture Internship Summer 2026](https://jobright.ai/jobs/info/69818d0c49964d25b5e4a6ec?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 02 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Graphic Design Intern for Podcast Company](https://jobright.ai/jobs/info/698186ed7f40342e15da9765?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 02 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69817fe249964d25b5e47dba?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Feb 02 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/69817f42abff4c399aa081d7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 02 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship 2026 - Asheville Studio](https://jobright.ai/jobs/info/698114317f40342e15d9ee69?utm_campaign=1049&utm_source=git)** | Asheville, NC | On Site | Feb 02 |
 | **[DecorMatters](https://www.decormatters.com)** | **[Design Operation Intern](https://jobright.ai/jobs/info/6980f5a649964d25b5e3c14b?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | Remote | Feb 02 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Creative Technologist Intern](https://jobright.ai/jobs/info/6980f34c49964d25b5e3be17?utm_campaign=1049&utm_source=git)** | US - GA - Atlanta | On Site | Feb 02 |
-| **[McMillan Pazdan Smith Architecture](http://mcmillanpazdansmith.com)** | **[Summer Internship 2026 - Atlanta Studio](https://jobright.ai/jobs/info/6981190e7f40342e15d9f300?utm_campaign=1049&utm_source=git)** | Atlanta,GA,US | On Site | Feb 02 |
-| ↳ | **[Summer Internship 2026 - Huntsville Studio](https://jobright.ai/jobs/info/698116ef49964d25b5e3e585?utm_campaign=1049&utm_source=git)** | Columbus,GA,US | On Site | Feb 02 |
-| ↳ | **[Summer Internship 2026 - Augusta Studio](https://jobright.ai/jobs/info/69811fa2abff4c399a9ff299?utm_campaign=1049&utm_source=git)** | Augusta,GA,US | On Site | Feb 02 |
-| ↳ | **[Summer Internship 2026 - Charlotte Studio](https://jobright.ai/jobs/info/6981197babff4c399a9fe90c?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Feb 02 |
-| ↳ | **[Summer Internship 2026 - Greenville Studio](https://jobright.ai/jobs/info/69811f097f40342e15d9fb5c?utm_campaign=1049&utm_source=git)** | Greenville,SC,US | On Site | Feb 02 |
-| ↳ | **[Summer Internship 2026 - Asheville Studio](https://jobright.ai/jobs/info/698119d6abff4c399a9fe9a0?utm_campaign=1049&utm_source=git)** | Asheville,NC,US | On Site | Feb 02 |
+| **[McMillan Pazdan Smith Architecture](http://mcmillanpazdansmith.com)** | **[Summer Internship 2026 - Huntsville Studio](https://jobright.ai/jobs/info/698116ef49964d25b5e3e585?utm_campaign=1049&utm_source=git)** | Columbus,GA,US | On Site | Feb 02 |
 | ↳ | **[Summer Internship 2026 - West Columbia Studio](https://jobright.ai/jobs/info/698122a549964d25b5e3f23e?utm_campaign=1049&utm_source=git)** | West Columbia,SC,US | On Site | Feb 02 |
-| ↳ | **[Summer Internship 2026 - Huntsville Studio](https://jobright.ai/jobs/info/698116cc7f40342e15d9f17a?utm_campaign=1049&utm_source=git)** | Huntsville,AL,US | On Site | Feb 02 |
-| **[Oltrelimiti](https://oltrelimiti.com/)** | **[Interior Architecture Intern](https://jobright.ai/jobs/info/6981138f49964d25b5e3e1bb?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Feb 02 |
+| ↳ | **[Summer Internship 2026 - Charlotte Studio](https://jobright.ai/jobs/info/6981197babff4c399a9fe90c?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Feb 02 |
+| ↳ | **[Summer Internship 2026 - Augusta Studio](https://jobright.ai/jobs/info/69811fa2abff4c399a9ff299?utm_campaign=1049&utm_source=git)** | Augusta,GA,US | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
