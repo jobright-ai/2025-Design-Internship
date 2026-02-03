@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DAHLIN Architecture | Planning | Interiors](http://dahlingroup.com)** | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/69825165348f733a5c351f02?utm_campaign=1049&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 03 |
+| ↳ | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/69824fa6348f733a5c351cb0?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Feb 03 |
 | **[Allegion](https://www.allegion.com)** | **[User Experience (UX) Design Engineer Intern](https://jobright.ai/jobs/info/698244930f6f7e7a2cdb6dc6?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Feb 03 |
 | **[Relay](https://relaypro.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698243d20f6f7e7a2cdb6d0d?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Feb 03 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/698241c8a314e7636905a6cb?utm_campaign=1049&utm_source=git)** | Gainesville, FL | Hybrid | Feb 03 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Allegion](https://www.allegion.com)** | **[User Experience (UX) Design Engineer Intern](https://jobright.ai/jobs/info/698240a9c3101f1400c3f0a2?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Feb 03 |
 | **[State Industrial Products](http://stateindustrial.com)** | **[Multimedia Design Intern](https://jobright.ai/jobs/info/69823a6ac3101f1400c3eb89?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Feb 03 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern (Auburn University - Students)](https://jobright.ai/jobs/info/69823377c3101f1400c3e4fb?utm_campaign=1049&utm_source=git)** | Birmingham, AL, US | On Site | Feb 03 |
-| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[UX Design & Research Internship](https://jobright.ai/jobs/info/69824acea314e7636905ad7a?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 03 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[WDI Illusion Maker - Figure Finishing Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/698207f2a314e763690568c3?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 03 |
 | **[160over90](http://160over90.com/)** | **[Intern, Creative](https://jobright.ai/jobs/info/69666b7f5ad3a93f8231bd90?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 03 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Summer 2026 - Brand Design - Seattle](https://jobright.ai/jobs/info/6981720babff4c399aa06f66?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 02 |
 | **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/698166967f40342e15da6a33?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Feb 02 |
 | **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Internship, Digital Design](https://jobright.ai/jobs/info/6981657049964d25b5e45ad4?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
-| **[MADE Hoops](https://www.madehoops.com/)** | **[Creative Content & Media Intern](https://jobright.ai/jobs/info/69818306abff4c399aa092bd?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 02 |
 | **[Stantec](http://www.stantec.com)** | **[Architecture Intern - Buildings (Summer 2026)](https://jobright.ai/jobs/info/698160197f40342e15da62ec?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Feb 02 |
 | ↳ | **[Interior Design Intern - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69815d60abff4c399aa0543c?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Feb 02 |
 | **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Internship, Emerging Brands Creative](https://jobright.ai/jobs/info/698157a749964d25b5e44b50?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
