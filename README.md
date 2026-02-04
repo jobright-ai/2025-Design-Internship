@@ -57,20 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perkins&Will](http://perkinswill.com)** | **[Intern - Interiors](https://jobright.ai/jobs/info/69828759348f733a5c356f9b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 03 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Graphic Design & Data Visualization Intern](https://jobright.ai/jobs/info/698284bf0f6f7e7a2cdbc5d7?utm_campaign=1049&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | Hybrid | Feb 03 |
+| **[Vistra Corp.](https://vistracorp.com)** | **[Digital Experience Intern - Technology Services](https://jobright.ai/jobs/info/69827d940a9e07331f8d95e9?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Feb 03 |
+| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Ui/UX Designer](https://jobright.ai/jobs/info/69827542348f733a5c3553b5?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Feb 03 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6966b9137a34f53920553a16?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Game Designer](https://jobright.ai/jobs/info/69826b0f0f6f7e7a2cdb9644?utm_campaign=1049&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 03 |
 | **[Oracle](https://www.oracle.com/)** | **[Digital Design Intern  - Remote](https://jobright.ai/jobs/info/69826a500f6f7e7a2cdb94a6?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 03 |
+| **[Finley Shirts](https://www.thefinleyshirt.com/)** | **[Design Internship](https://jobright.ai/jobs/info/698285c10f6f7e7a2cdbc757?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/697237b84ccbf64f8df22628?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 03 |
 | **[Quantum Workplace](http://www.quantumworkplace.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698261af0f6f7e7a2cdb8adb?utm_campaign=1049&utm_source=git)** | Omaha, Nebraska | On Site | Feb 03 |
 | **[Ballinger](http://ballinger.com)** | **[Architecture Summer Intern](https://jobright.ai/jobs/info/69825edb0a9e07331f8d608f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 03 |
+| **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/69827fd3348f733a5c356722?utm_campaign=1049&utm_source=git)** | Triangle Area | On Site | Feb 03 |
 | **[The Variable](https://thevariable.com/)** | **[Vandals Intern](https://jobright.ai/jobs/info/695c3e0722c9dc0d3d541cf9?utm_campaign=1049&utm_source=git)** | Winston-Salem, NC | On Site | Feb 03 |
+| **[SC Johnson](http://www.scjohnson.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6982823b0f6f7e7a2cdbc268?utm_campaign=1049&utm_source=git)** | USA - CA - San Francisco | On Site | Feb 03 |
+| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Ui/UX Designer](https://jobright.ai/jobs/info/69827a810a9e07331f8d9015?utm_campaign=1049&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 03 |
 | **[DAHLIN Architecture | Planning | Interiors](http://dahlingroup.com)** | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/69825165348f733a5c351f02?utm_campaign=1049&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 03 |
 | ↳ | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/69824fa6348f733a5c351cb0?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Feb 03 |
+| **[Realta Fusion](https://realtafusion.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69826d730f6f7e7a2cdb9bbe?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Feb 03 |
+| **[MADE Hoops](https://www.madehoops.com/)** | **[Creative Content & Media Intern](https://jobright.ai/jobs/info/69826dca0f6f7e7a2cdb9c99?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 03 |
+| **[Fossil Group, Inc.](http://www.fossilgroup.com/)** | **[Design Summer Intern](https://jobright.ai/jobs/info/69826d950f6f7e7a2cdb9c30?utm_campaign=1049&utm_source=git)** | Richardson, TX | Hybrid | Feb 03 |
 | **[Allegion](https://www.allegion.com)** | **[User Experience (UX) Design Engineer Intern](https://jobright.ai/jobs/info/698244930f6f7e7a2cdb6dc6?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Feb 03 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6944ac43a7227b3ece665870?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Feb 03 |
 | **[Relay](https://relaypro.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698243d20f6f7e7a2cdb6d0d?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Feb 03 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/698241c8a314e7636905a6cb?utm_campaign=1049&utm_source=git)** | Gainesville, FL | Hybrid | Feb 03 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern (Auburn University - Students)](https://jobright.ai/jobs/info/698241bac3101f1400c3f1e4?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Feb 03 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Photography Intern- Kane County Cougars](https://jobright.ai/jobs/info/698241a6c3101f1400c3f1ce?utm_campaign=1049&utm_source=git)** | Geneva, IL | On Site | Feb 03 |
+| **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/698271d80f6f7e7a2cdba5f7?utm_campaign=1049&utm_source=git)** | DES MOINES, IA 50309, USA | On Site | Feb 03 |
 | **[Allegion](https://www.allegion.com)** | **[User Experience (UX) Design Engineer Intern](https://jobright.ai/jobs/info/698240a9c3101f1400c3f0a2?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Feb 03 |
 | **[State Industrial Products](http://stateindustrial.com)** | **[Multimedia Design Intern](https://jobright.ai/jobs/info/69823a6ac3101f1400c3eb89?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Feb 03 |
 | **[Hatch](https://www.hatch.com)** | **[Landscape Architecture Intern (Summer 2026)](https://jobright.ai/jobs/info/698254cc348f733a5c352380?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 03 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RIOS](https://www.rios.com/)** | **[Landscape Architecture Internship Summer 2026](https://jobright.ai/jobs/info/69818d0c49964d25b5e4a6ec?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 02 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69817fe249964d25b5e47dba?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Feb 02 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/69817f42abff4c399aa081d7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 02 |
-| **[Radiate](https://www.radiatetheworld.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69817e157f40342e15da89f5?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Feb 02 |
-| **[City of Mississauga](http://www.mississauga.ca/portal/home)** | **[Co-Op Student - Landscape Architect](https://jobright.ai/jobs/info/6965a3902cbf4e44756f4e11?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 02 |
-| **[WWE](http://wwe.com)** | **[Intern - Consumer Products, WWE](https://jobright.ai/jobs/info/6981749549964d25b5e46dc0?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
-| ↳ | **[Intern - Photo Editing, WWE](https://jobright.ai/jobs/info/698174467f40342e15da7f15?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
-| **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69816e95abff4c399aa06d81?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | Feb 02 |
-| **[Stantec](http://www.stantec.com)** | **[Student Intern, Architecture - Buildings (Summer 2026)](https://jobright.ai/jobs/info/698169ea49964d25b5e46006?utm_campaign=1049&utm_source=git)** | Fairbanks, AK | Hybrid | Feb 02 |
-| ↳ | **[Landscape Architecture Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/698168ac7f40342e15da6ca0?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 02 |
-| **[WWE](http://wwe.com)** | **[Intern - Art Directing, WWE](https://jobright.ai/jobs/info/698183dfabff4c399aa0972a?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Feb 02 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Summer 2026 - Brand Design - Seattle](https://jobright.ai/jobs/info/6981720babff4c399aa06f66?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 02 |
-| **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/698166967f40342e15da6a33?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Feb 02 |
-| **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Internship, Digital Design](https://jobright.ai/jobs/info/6981657049964d25b5e45ad4?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
-| **[Stantec](http://www.stantec.com)** | **[Architecture Intern - Buildings (Summer 2026)](https://jobright.ai/jobs/info/698160197f40342e15da62ec?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Feb 02 |
-| ↳ | **[Interior Design Intern - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69815d60abff4c399aa0543c?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
