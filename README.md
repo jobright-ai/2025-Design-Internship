@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intuitive](https://www.intuitive.com/)** | **[Interaction Design Intern](https://jobright.ai/jobs/info/698396a10f6f7e7a2cdd0796?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 04 |
+| ↳ | **[Industrial Design Intern](https://jobright.ai/jobs/info/6983967101214b4cdacb4dfb?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Feb 04 |
+| **[All Makes](http://allmakes.com)** | **[Graphic Design & Social Media Intern](https://jobright.ai/jobs/info/6983a10101214b4cdacb5bc3?utm_campaign=1049&utm_source=git)** | Omaha, NE | Hybrid | Feb 04 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/698373110f6f7e7a2cdcd447?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Feb 04 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69837303348f733a5c367aa4?utm_campaign=1049&utm_source=git)** | Midvale, UT | On Site | Feb 04 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Materials Library / Summer 2026](https://jobright.ai/jobs/info/693be79d49a7695fbd02d717?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 04 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[ms consultants, inc.](https://www.msconsultants.com/)** | **[Architecture Internship - Summer 2026](https://jobright.ai/jobs/info/69837c270f6f7e7a2cdcdb78?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | Feb 04 |
 | **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69836fc701214b4cdacb17ae?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 04 |
 | **[Arconic](https://www.arconic.com)** | **[Product Design & Methods Intern (Summer 2026)](https://jobright.ai/jobs/info/6967195d6f782b4e8d52cf6f?utm_campaign=1049&utm_source=git)** | Norcross, GA | On Site | Feb 04 |
-| **[Shop Online New York](https://www.topofny.com)** | **[Ui/ux intern](https://jobright.ai/jobs/info/69834e8001214b4cdacaf5f7?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Feb 04 |
 | **[HOK](http://www.hok.com/)** | **[Interiors - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/6966d2125ad3a93f823238b6?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 04 |
 | **[Mead & Hunt](https://meadhunt.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/696682535ad3a93f8231cc89?utm_campaign=1049&utm_source=git)** | North Charleston, SC | On Site | Feb 04 |
 | **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68cd9c82e23def7af55bca7a?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Feb 04 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/696ff3c482817106e9770078?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Feb 03 |
 | ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696feb463ed06875134ad56e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Feb 03 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[UI/UX Design Internship](https://jobright.ai/jobs/info/69829552348f733a5c357ca7?utm_campaign=1049&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Feb 03 |
-| **[Dropbox](https://www.dropbox.com)** | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698292e3348f733a5c357ae5?utm_campaign=1049&utm_source=git)** | Remote - Canada: Select locations | Remote | Feb 03 |
-| ↳ | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698291970f6f7e7a2cdbd1a8?utm_campaign=1049&utm_source=git)** | Remote - US: All locations | Remote | Feb 03 |
+| **[Dropbox](https://www.dropbox.com)** | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698291970f6f7e7a2cdbd1a8?utm_campaign=1049&utm_source=git)** | Remote - US: All locations | Remote | Feb 03 |
+| ↳ | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698292e3348f733a5c357ae5?utm_campaign=1049&utm_source=git)** | Remote - Canada: Select locations | Remote | Feb 03 |
 | **[The Spin Style Agency](https://www.thespinstyle.agency)** | **[Creative Operations & Social Media Intern](https://jobright.ai/jobs/info/698305f2348f733a5c361a09?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Game Designer](https://jobright.ai/jobs/info/698292aa348f733a5c357aa9?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Feb 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6966b9137a34f53920553a16?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Game Designer](https://jobright.ai/jobs/info/69826b0f0f6f7e7a2cdb9644?utm_campaign=1049&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 03 |
 | **[Oracle](https://www.oracle.com/)** | **[Digital Design Intern  - Remote](https://jobright.ai/jobs/info/69826a500f6f7e7a2cdb94a6?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 03 |
-| **[Finley Shirts](https://www.thefinleyshirt.com/)** | **[Design Internship](https://jobright.ai/jobs/info/698285c10f6f7e7a2cdbc757?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
-| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/697237b84ccbf64f8df22628?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
