@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merrick & Company](http://www.merrick.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6966d38da112b4026614dee4?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 04 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Graphic Design Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/6981a264abff4c399aa0babe?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Feb 04 |
+| ↳ | **[Photoshop Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/6983244e0f6f7e7a2cdc981a?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Feb 04 |
+| **[HDR](http://www.hdrinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6958c072f1f8465b79ef5906?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 04 |
+| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6963b0bb2cbf4e44756d62cd?utm_campaign=1049&utm_source=git)** | Reading, PA | On Site | Feb 04 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2026 (CAN)](https://jobright.ai/jobs/info/698310a9348f733a5c361f72?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 04 |
 | **[Dropbox](https://www.dropbox.com)** | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6982f3e38232105a2d0b6e41?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 03 |
 | ↳ | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6982f2b10f6f7e7a2cdc679c?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 03 |
@@ -114,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/696ff3c482817106e9770078?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Feb 03 |
 | ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696feb463ed06875134ad56e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Feb 03 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[UI/UX Design Internship](https://jobright.ai/jobs/info/69829552348f733a5c357ca7?utm_campaign=1049&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Feb 03 |
-| **[Dropbox](https://www.dropbox.com)** | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698291970f6f7e7a2cdbd1a8?utm_campaign=1049&utm_source=git)** | Remote - US: All locations | Remote | Feb 03 |
-| ↳ | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698292e3348f733a5c357ae5?utm_campaign=1049&utm_source=git)** | Remote - Canada: Select locations | Remote | Feb 03 |
+| **[Dropbox](https://www.dropbox.com)** | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698292e3348f733a5c357ae5?utm_campaign=1049&utm_source=git)** | Remote - Canada: Select locations | Remote | Feb 03 |
+| ↳ | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698291970f6f7e7a2cdbd1a8?utm_campaign=1049&utm_source=git)** | Remote - US: All locations | Remote | Feb 03 |
 | **[The Spin Style Agency](https://www.thespinstyle.agency)** | **[Creative Operations & Social Media Intern](https://jobright.ai/jobs/info/698305f2348f733a5c361a09?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Game Designer](https://jobright.ai/jobs/info/698292aa348f733a5c357aa9?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Feb 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6966b9137a34f53920553a16?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/6973f278206da320f49df01a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Graphic Design Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/6982082dc3101f1400c3b5c8?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
 | ↳ | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820811c3101f1400c3b5b9?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Feb 03 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[WDI Dimensional Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820806a314e763690568d7?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
-| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Character Plaster and Hardscape Internship, Summer 2026](https://jobright.ai/jobs/info/69820703c3101f1400c3b4c8?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
-| ↳ | **[WDI Graphic Designer Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/698205cbc3101f1400c3b3d9?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
-| ↳ | **[WDI Visual Effects Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820536a314e763690566af?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
-| ↳ | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820383c3101f1400c3b219?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
