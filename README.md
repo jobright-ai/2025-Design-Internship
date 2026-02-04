@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2026 (CAN)](https://jobright.ai/jobs/info/698310a9348f733a5c361f72?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 04 |
 | **[Dropbox](https://www.dropbox.com)** | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6982f3e38232105a2d0b6e41?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 03 |
 | ↳ | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6982f2b10f6f7e7a2cdc679c?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 03 |
+| **[TRDI](https://trdi.org/)** | **[Horticulture (Landscaper) Intern](https://jobright.ai/jobs/info/69830e91348f733a5c361e13?utm_campaign=1049&utm_source=git)** | Fort Cavazos, TX | On Site | Feb 03 |
 | **[McConnell Golf](http://mcconnellgolf.com)** | **[Creative Media Internship - McConnell Golf](https://jobright.ai/jobs/info/6982e3208232105a2d0b6626?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 03 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6982baaf348f733a5c35b514?utm_campaign=1049&utm_source=git)** | Provo, UT | On Site | Feb 03 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/6982c1100f6f7e7a2cdc13ba?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Feb 03 |
@@ -98,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[McConnell Golf](http://mcconnellgolf.com)** | **[Creative Media Internship - McConnell Golf](https://jobright.ai/jobs/info/6982bc69348f733a5c35b68c?utm_campaign=1049&utm_source=git)** | US-NC-Raleigh | On Site | Feb 03 |
 | ↳ | **[Creative Media Internship - McConnell Golf](https://jobright.ai/jobs/info/6982afdb8232105a2d0b0269?utm_campaign=1049&utm_source=git)** | Raleigh, NC, US | On Site | Feb 03 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Graphic Designer/UX Designer](https://jobright.ai/jobs/info/6982ab430f6f7e7a2cdbfd2a?utm_campaign=1049&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Feb 03 |
-| **[Urban Practice](http://www.urbanpractice.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/6982bf878232105a2d0b1247?utm_campaign=1049&utm_source=git)** | US-NJ-Camden | On Site | Feb 03 |
-| ↳ | **[Intern - Interior Design](https://jobright.ai/jobs/info/6982bd770f6f7e7a2cdc1050?utm_campaign=1049&utm_source=git)** | Camden, NJ, US | On Site | Feb 03 |
+| **[Urban Practice](http://www.urbanpractice.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/6982bd770f6f7e7a2cdc1050?utm_campaign=1049&utm_source=git)** | Camden, NJ, US | On Site | Feb 03 |
+| ↳ | **[Intern - Interior Design](https://jobright.ai/jobs/info/6982bf878232105a2d0b1247?utm_campaign=1049&utm_source=git)** | US-NJ-Camden | On Site | Feb 03 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Feb 03 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Intern - Interiors](https://jobright.ai/jobs/info/69828759348f733a5c356f9b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Graphic Design Summer 2026 Internship - Parsippany, Holmdel, New York](https://jobright.ai/jobs/info/695c527df1f8465b79f2750f?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Feb 03 |
@@ -114,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Samsung Ads](http://www.samsungads.com)** | **[UI/UX Design Internship](https://jobright.ai/jobs/info/69829552348f733a5c357ca7?utm_campaign=1049&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Feb 03 |
 | **[Dropbox](https://www.dropbox.com)** | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698291970f6f7e7a2cdbd1a8?utm_campaign=1049&utm_source=git)** | Remote - US: All locations | Remote | Feb 03 |
 | ↳ | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698292e3348f733a5c357ae5?utm_campaign=1049&utm_source=git)** | Remote - Canada: Select locations | Remote | Feb 03 |
+| **[The Spin Style Agency](https://www.thespinstyle.agency)** | **[Creative Operations & Social Media Intern](https://jobright.ai/jobs/info/698305f2348f733a5c361a09?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Game Designer](https://jobright.ai/jobs/info/698292aa348f733a5c357aa9?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Feb 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6966b9137a34f53920553a16?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Game Designer](https://jobright.ai/jobs/info/69826b0f0f6f7e7a2cdb9644?utm_campaign=1049&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 03 |
@@ -142,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[State Industrial Products](http://stateindustrial.com)** | **[Multimedia Design Intern](https://jobright.ai/jobs/info/69823a6ac3101f1400c3eb89?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Feb 03 |
 | **[Hatch](https://www.hatch.com)** | **[Landscape Architecture Intern (Summer 2026)](https://jobright.ai/jobs/info/698254cc348f733a5c352380?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 03 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern (Auburn University - Students)](https://jobright.ai/jobs/info/69823377c3101f1400c3e4fb?utm_campaign=1049&utm_source=git)** | Birmingham, AL, US | On Site | Feb 03 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/6982d8d30f6f7e7a2cdc4e99?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Feb 03 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[WDI Illusion Maker - Figure Finishing Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/698207f2a314e763690568c3?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 03 |
 | **[160over90](http://160over90.com/)** | **[Intern, Creative](https://jobright.ai/jobs/info/69666b7f5ad3a93f8231bd90?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WDI Graphic Designer Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/698205cbc3101f1400c3b3d9?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
 | ↳ | **[WDI Visual Effects Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820536a314e763690566af?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
 | ↳ | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820383c3101f1400c3b219?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Feb 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Dimensional Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6982030c0f6f7e7a2cdb2a6d?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
-| ↳ | **[WDI Visual Effects Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820272c3101f1400c3b148?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
