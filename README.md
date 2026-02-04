@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushing Terrell](https://cushingterrell.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/698333710f6f7e7a2cdc9d30?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Feb 04 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/695a1a4c9f1b381eb272bbb0?utm_campaign=1049&utm_source=git)** | Escondido, CA | On Site | Feb 04 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Photography intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/69832f290f6f7e7a2cdc9bc4?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Feb 04 |
+| **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Summer 2026 Graphic Design Internship](https://jobright.ai/jobs/info/696ab3e9db26b618950df15a?utm_campaign=1049&utm_source=git)** | Exeter, NH, US | Hybrid | Feb 04 |
+| **[Panasonic North America](https://homes.panasonic.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6977f3f252f3c27ec64427f9?utm_campaign=1049&utm_source=git)** | Newark, NJ | On Site | Feb 04 |
 | **[Merrick & Company](http://www.merrick.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6966d38da112b4026614dee4?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 04 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Graphic Design Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/6981a264abff4c399aa0babe?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Feb 04 |
 | ↳ | **[Photoshop Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/6983244e0f6f7e7a2cdc981a?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Feb 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern (Auburn University - Students)](https://jobright.ai/jobs/info/69823377c3101f1400c3e4fb?utm_campaign=1049&utm_source=git)** | Birmingham, AL, US | On Site | Feb 03 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[WDI Illusion Maker - Figure Finishing Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/698207f2a314e763690568c3?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 03 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 03 |
-| **[160over90](http://160over90.com/)** | **[Intern, Creative](https://jobright.ai/jobs/info/69666b7f5ad3a93f8231bd90?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Color and Paint Intern, Summer 2026](https://jobright.ai/jobs/info/69820ca70f6f7e7a2cdb3186?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/6973f278206da320f49df01a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Feb 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Graphic Design Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/6982082dc3101f1400c3b5c8?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
-| ↳ | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820811c3101f1400c3b5b9?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
