@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stantec](http://www.stantec.com)** | **[Architectural Student Intern (Summer 2026)](https://jobright.ai/jobs/info/6983fc1e01214b4cdacc4a1c?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | On Site | Feb 04 |
+| **[Stantec](http://www.stantec.com)** | **[Architectural Student Intern (Summer 2026)](https://jobright.ai/jobs/info/698402f8348f733a5c37b463?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 04 |
+| ↳ | **[Architectural Student Intern (Summer 2026)](https://jobright.ai/jobs/info/6983fc1e01214b4cdacc4a1c?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | On Site | Feb 04 |
 | **[Bandon Dunes Golf Resort](https://www.bandondunesgolf.com/)** | **[Content Coordinator Internship @ Rodeo Dunes](https://jobright.ai/jobs/info/6983f9540f6f7e7a2cddfa15?utm_campaign=1049&utm_source=git)** | Roggen, CO | On Site | Feb 04 |
 | **[OpenX](https://www.openx.com/)** | **[Intern - Marketing Design](https://jobright.ai/jobs/info/6983f7f501214b4cdacc41bb?utm_campaign=1049&utm_source=git)** | US - Remote | Remote | Feb 04 |
 | **[Rodeo Dunes](https://www.rodeodunes.com/)** | **[Content Coordinator Internship @ Rodeo Dunes](https://jobright.ai/jobs/info/6983f762348f733a5c379afc?utm_campaign=1049&utm_source=git)** | Roggen, CO | On Site | Feb 04 |
@@ -66,10 +67,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring/Landscape Architectural Design Intern](https://jobright.ai/jobs/info/6983f4a2348f733a5c3794de?utm_campaign=1049&utm_source=git)** | Pennington, NJ | On Site | Feb 04 |
 | **[1Password](https://1password.com)** | **[Product Design Intern - Design & UX, MSP & Billing - Summer 2026](https://jobright.ai/jobs/info/6983f35a0f6f7e7a2cddec13?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 04 |
 | **[AARP](http://www.aarp.org)** | **[Consumer Care Digital Channel Intern](https://jobright.ai/jobs/info/693920b048a8ce22990d40bf?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 04 |
+| **[Rincon Research Corporation](http://www.rincon.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/6984049a0f6f7e7a2cde13e3?utm_campaign=1049&utm_source=git)** | Tucson, AZ, US | On Site | Feb 04 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6983e47b348f733a5c37702e?utm_campaign=1049&utm_source=git)** | Sacramento, CA | Hybrid | Feb 04 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Interior Design - Intern](https://jobright.ai/jobs/info/69681699639b452fb57da550?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 04 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern, Higher Education / Summer 2026](https://jobright.ai/jobs/info/6983e273348f733a5c376a52?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 04 |
-| ↳ | **[Architectural Design Intern / Transportation+Infrastructure](https://jobright.ai/jobs/info/6983df1e01214b4cdacc048e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 04 |
+| **[Wiss](http://www.wiss.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/698406dc348f733a5c37bd2d?utm_campaign=1049&utm_source=git)** | Florham Park, NJ | Hybrid | Feb 04 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Transportation+Infrastructure](https://jobright.ai/jobs/info/6983df1e01214b4cdacc048e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 04 |
 | ↳ | **[Interior Design Intern, Workplace / Summer 2026](https://jobright.ai/jobs/info/6983dc1d01214b4cdacbfb44?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 04 |
 | ↳ | **[Interior Design Intern, Workplace / Summer 2026](https://jobright.ai/jobs/info/6983daae01214b4cdacbf684?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States | Hybrid | Feb 04 |
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Architecture Internships - Summer 2026](https://jobright.ai/jobs/info/69682170f25a38006696776c?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Feb 04 |
@@ -85,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[TD SYNNEX Multi-Country Area (English)](https://lac.tdsynnex.com/mca/en/)** | **[Graphic Design & Print Production Intern - Summer 2026](https://jobright.ai/jobs/info/6983d962348f733a5c3751ec?utm_campaign=1049&utm_source=git)** | Greenville, SC | Hybrid | Feb 04 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Graphic Design Internship (Garments)](https://jobright.ai/jobs/info/6983d7c3348f733a5c374d32?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 04 |
 | **[Agile Defense](https://agiledefense.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6983cd3601214b4cdacbcfbc?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | Feb 04 |
-| **[Spark Growth](https://sparkgrowth.com)** | **[Multimedia Designer Intern](https://jobright.ai/jobs/info/6983d97301214b4cdacbf2a7?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
-| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6983d346348f733a5c373ef0?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
+| **[Spark Growth](https://sparkgrowth.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6983d346348f733a5c373ef0?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
+| ↳ | **[Multimedia Designer Intern](https://jobright.ai/jobs/info/6983d97301214b4cdacbf2a7?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
 | **[McMillan Pazdan Smith Architecture](http://mcmillanpazdansmith.com)** | **[Summer Internship 2026 - Charleston Studio](https://jobright.ai/jobs/info/6983ac9901214b4cdacb79e5?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Feb 04 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/6983ac5f01214b4cdacb7951?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Feb 04 |
 | **[FRAMEWORX](http://www.frameworx.la)** | **[Design Internship](https://jobright.ai/jobs/info/6983cbe201214b4cdacbccc8?utm_campaign=1049&utm_source=git)** | Culver City, CA | Hybrid | Feb 04 |
@@ -104,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[RJMedex](https://rjmedex.com/)** | **[Sr Designer Role UX/UI with Web Development Intern to Full Time - Remote](https://jobright.ai/jobs/info/6983d384348f733a5c373fc7?utm_campaign=1049&utm_source=git)** | Germantown, MD | Remote | Feb 04 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6983c3ee01214b4cdacbb963?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Feb 04 |
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Summer Internship 2026 - Columbus Studio](https://jobright.ai/jobs/info/6983cad801214b4cdacbcbb8?utm_campaign=1049&utm_source=git)** | Columbus, GA | On Site | Feb 04 |
-| ↳ | **[Summer Internship 2026 - West Columbia Studio](https://jobright.ai/jobs/info/6983cf5c01214b4cdacbd687?utm_campaign=1049&utm_source=git)** | West Columbia, SC | On Site | Feb 04 |
 | ↳ | **[Summer Internship 2026 - Charlotte Studio](https://jobright.ai/jobs/info/6983ce5301214b4cdacbd35d?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 04 |
+| ↳ | **[Summer Internship 2026 - West Columbia Studio](https://jobright.ai/jobs/info/6983cf5c01214b4cdacbd687?utm_campaign=1049&utm_source=git)** | West Columbia, SC | On Site | Feb 04 |
 | **[Alta Science & Engineering, Inc.](https://www.alta-se.com)** | **[Job Description - Marketing / Graphic Design Intern](https://jobright.ai/jobs/info/6983e15701214b4cdacc0ba7?utm_campaign=1049&utm_source=git)** | Boise, Idaho, United States | On Site | Feb 04 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern - Architecture Studio (Summer 2026)](https://jobright.ai/jobs/info/6983ca0601214b4cdacbcaf3?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | On Site | Feb 04 |
 | **[Entrata](https://www.entrata.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6983bd210f6f7e7a2cdd5f64?utm_campaign=1049&utm_source=git)** | Lehi, UT | Hybrid | Feb 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6982f2b10f6f7e7a2cdc679c?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 03 |
 | **[TRDI](https://trdi.org/)** | **[Horticulture (Landscaper) Intern](https://jobright.ai/jobs/info/69830e91348f733a5c361e13?utm_campaign=1049&utm_source=git)** | Fort Cavazos, TX | On Site | Feb 03 |
 | **[McConnell Golf](http://mcconnellgolf.com)** | **[Creative Media Internship - McConnell Golf](https://jobright.ai/jobs/info/6982e3208232105a2d0b6626?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 03 |
-| **[Aptive Environmental](http://goaptive.com/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6982baaf348f733a5c35b514?utm_campaign=1049&utm_source=git)** | Provo, UT | On Site | Feb 03 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/6982c1100f6f7e7a2cdc13ba?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Feb 03 |
-| **[Psycho Bunny](https://www.psychobunny.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6982dc9d348f733a5c35ff50?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
