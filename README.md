@@ -62,12 +62,13 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6968cbb2f25a380066975ae1?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Feb 05 |
 | **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6923a59d7795cd460c838e12?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/693b1ee6d4054a2bc0250f8f?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Feb 05 |
+| **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6925038fc0cefa13343e57d4?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 05 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 05 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Feb 05 |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Architectural Design - Summer 2026](https://jobright.ai/jobs/info/6984a636348f733a5c38babf?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Feb 05 |
 | **[Dagne Dover](http://www.dagnedover.com)** | **[Product Design Intern, Spring 26](https://jobright.ai/jobs/info/698476b18da7a612045ea740?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69846983348f733a5c38678f?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 04 |
 | **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Graphic Designer/ Production Specialist](https://jobright.ai/jobs/info/6984823d0f6f7e7a2cdee542?utm_campaign=1049&utm_source=git)** | Las Vegas, NV 89130 | On Site | Feb 04 |
+| **[The Family Office Company BSC (c)](https://www.tfoco.com/)** | **[Communications Graphic Design Intern](https://jobright.ai/jobs/info/6984b81a8da7a612045ef828?utm_campaign=1049&utm_source=git)** | Flowood,MS,US | On Site | Feb 04 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Creative Designer](https://jobright.ai/jobs/info/6968734c1703f05405aa2b48?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 04 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/6968330a639b452fb57dcdbf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Clay Sculpting Intern](https://jobright.ai/jobs/info/6984143f348f733a5c37e142?utm_campaign=1049&utm_source=git)** | Medina, MN | On Site | Feb 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HOK](http://www.hok.com/)** | **[Interiors - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/6966d2125ad3a93f823238b6?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 04 |
 | **[Mead & Hunt](https://meadhunt.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/696682535ad3a93f8231cc89?utm_campaign=1049&utm_source=git)** | North Charleston, SC | On Site | Feb 04 |
 | **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68cd9c82e23def7af55bca7a?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Feb 04 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6959e5ad9f1b381eb2728aba?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
