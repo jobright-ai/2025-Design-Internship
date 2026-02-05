@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Design Intern Summer 2026](https://jobright.ai/jobs/info/6984d104348f733a5c38e71e?utm_campaign=1049&utm_source=git)** | Camden, NJ | On Site | Feb 05 |
+| **[LV Collective](https://lvcollective.com)** | **[Interiors + Curation Intern](https://jobright.ai/jobs/info/6984c9370f6f7e7a2cdf39f3?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 05 |
+| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Design Intern Summer 2026](https://jobright.ai/jobs/info/6984c8c10f6f7e7a2cdf39ac?utm_campaign=1049&utm_source=git)** | USA - NJ - Camden | On Site | Feb 05 |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design (Summer)](https://jobright.ai/jobs/info/6984c581348f733a5c38dbe7?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
+| **[Sterling Brands](http://sterlingbrands.com)** | **[Design Intern NY](https://jobright.ai/jobs/info/6984c3b00f6f7e7a2cdf3664?utm_campaign=1049&utm_source=git)** | New York | On Site | Feb 05 |
 | **[Burgess & Niple](http://burgessniple.com)** | **[Architectural Co-op](https://jobright.ai/jobs/info/696821dbf25a38006696784e?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Feb 05 |
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/69849ee8348f733a5c38b520?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6968cbb2f25a380066975ae1?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Feb 05 |
@@ -112,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[TD SYNNEX Multi-Country Area (English)](https://lac.tdsynnex.com/mca/en/)** | **[Graphic Design & Print Production Intern - Summer 2026](https://jobright.ai/jobs/info/6983d962348f733a5c3751ec?utm_campaign=1049&utm_source=git)** | Greenville, SC | Hybrid | Feb 04 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Graphic Design Internship (Garments)](https://jobright.ai/jobs/info/6983d7c3348f733a5c374d32?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 04 |
 | **[Agile Defense](https://agiledefense.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6983cd3601214b4cdacbcfbc?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | Feb 04 |
-| **[Spark Growth](https://sparkgrowth.com)** | **[Multimedia Designer Intern](https://jobright.ai/jobs/info/6983d97301214b4cdacbf2a7?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
-| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6983d346348f733a5c373ef0?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
+| **[Spark Growth](https://sparkgrowth.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6983d346348f733a5c373ef0?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
+| ↳ | **[Multimedia Designer Intern](https://jobright.ai/jobs/info/6983d97301214b4cdacbf2a7?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
 | **[McMillan Pazdan Smith Architecture](http://mcmillanpazdansmith.com)** | **[Summer Internship 2026 - Charleston Studio](https://jobright.ai/jobs/info/6983ac9901214b4cdacb79e5?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Feb 04 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/6983ac5f01214b4cdacb7951?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Feb 04 |
 | **[HDR](http://www.hdrinc.com)** | **[Spring/Landscape Architectural Design Intern](https://jobright.ai/jobs/info/69840ab101214b4cdacc6971?utm_campaign=1049&utm_source=git)** | United States-New Jersey-Pennington | On Site | Feb 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Upbound Group](https://www.upbound.com)** | **[Content & Design Intern](https://jobright.ai/jobs/info/69835f9a348f733a5c366be7?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Feb 04 |
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Packaging Intern](https://jobright.ai/jobs/info/697933c239f7f96cc6d199ed?utm_campaign=1049&utm_source=git)** | Marysville, OH | On Site | Feb 04 |
 | **[Notion](https://www.notion.com)** | **[UX Research Intern (Summer 2026)](https://jobright.ai/jobs/info/694b2a1d4b53a1551f94e9c5?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 04 |
-| **[ms consultants, inc.](https://www.msconsultants.com/)** | **[Architecture Internship - Summer 2026](https://jobright.ai/jobs/info/69837c270f6f7e7a2cdcdb78?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | Feb 04 |
-| **[Arconic](https://www.arconic.com)** | **[Product Design & Methods Intern (Summer 2026)](https://jobright.ai/jobs/info/6967195d6f782b4e8d52cf6f?utm_campaign=1049&utm_source=git)** | Norcross, GA | On Site | Feb 04 |
-| **[HOK](http://www.hok.com/)** | **[Interiors - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/6966d2125ad3a93f823238b6?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 04 |
-| **[Mead & Hunt](https://meadhunt.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/696682535ad3a93f8231cc89?utm_campaign=1049&utm_source=git)** | North Charleston, SC | On Site | Feb 04 |
-| **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68cd9c82e23def7af55bca7a?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
