@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[CMF Designer Intern](https://jobright.ai/jobs/info/6969c614f25a380066987b23?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Feb 05 |
+| **[Clark Nexsen, A JMT Company](https://www.clarknexsen.com/)** | **[Landscape Architectural Design Intern](https://jobright.ai/jobs/info/69856fdc348f733a5c39d7da?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Feb 05 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Design Documentation, Automotive Experience](https://jobright.ai/jobs/info/69856ad2348f733a5c39d068?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[UL Research Institutes](https://ul.org)** | **[Graphic Design Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6969c77cf25a380066987dfe?utm_campaign=1049&utm_source=git)** | Columbia, MD | Hybrid | Feb 05 |
 | **[HNTB](http://www.hntb.com/)** | **[Graphic Design Intern- Summer 2026](https://jobright.ai/jobs/info/6985573a8da7a612045fd68f?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Feb 05 |
+| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6985723d0f6f7e7a2ce03878?utm_campaign=1049&utm_source=git)** | Ridgefield, CT | On Site | Feb 05 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6969b3c9639b452fb57fa296?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Feb 05 |
 | ↳ | **[Design Intern, Interiors](https://jobright.ai/jobs/info/6969b155639b452fb57fa13b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 05 |
 | **[HNTB](http://www.hntb.com/)** | **[Graphic Design Intern- Summer 2026](https://jobright.ai/jobs/info/6985515e8da7a612045fcb6f?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Feb 05 |
 | **[Intrinsic](https://www.intrinsic.ai)** | **[UX Research Intern](https://jobright.ai/jobs/info/698550fa0f6f7e7a2cdffa11?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | Feb 05 |
 | **[HNTB](http://www.hntb.com/)** | **[Graphic Design Intern- Summer 2026](https://jobright.ai/jobs/info/69854fad8da7a612045fc85b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 05 |
+| **[FutureSelf™](https://www.future-self.ai/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69856d0f348f733a5c39d393?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 05 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6969b8f3639b452fb57fa645?utm_campaign=1049&utm_source=git)** | Greater Houston | On Site | Feb 05 |
 | **[1Password](https://1password.com)** | **[Product Design Intern - Design & UX, SaaS Manager - Summer 2026](https://jobright.ai/jobs/info/69854b630f6f7e7a2cdff048?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 05 |
 | ↳ | **[Product Design Intern - Design & UX, MSP & Billing - Summer 2026](https://jobright.ai/jobs/info/69854ab90f6f7e7a2cdfef42?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 05 |
@@ -72,10 +77,11 @@ For a complete list, click the following sortable link below:
 | **[1Password](https://1password.com)** | **[Product Design Intern - Design & UX, SaaS Manager - Summer 2026](https://jobright.ai/jobs/info/6985451a8da7a612045fbaac?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Intrinsic](https://www.intrinsic.ai)** | **[UX Research Intern](https://jobright.ai/jobs/info/698544d68da7a612045fba34?utm_campaign=1049&utm_source=git)** | Mountain View, California | On Site | Feb 05 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/698544a88da7a612045fb9ee?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 05 |
-| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Summer 2025 TikTok and Communications Intern](https://jobright.ai/jobs/info/698566830f6f7e7a2ce022fc?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698540978da7a612045fb235?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 05 |
+| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Summer 2025 TikTok and Communications Intern](https://jobright.ai/jobs/info/698574fa0f6f7e7a2ce03cca?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Summer Intern 2026- Graphic Design Internship](https://jobright.ai/jobs/info/69698f8c1703f05405ab85d6?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | On Site | Feb 05 |
 | **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/69853be10f6f7e7a2cdfd6cd?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Feb 05 |
+| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698574c3348f733a5c39decd?utm_campaign=1049&utm_source=git)** | Ridgefield, CT 06877, USA | On Site | Feb 05 |
+| **[Hurrdat](https://Hurrdat.com)** | **[Graphic & Apparel Design Intern](https://jobright.ai/jobs/info/698575cd0f6f7e7a2ce03df9?utm_campaign=1049&utm_source=git)** | OMAHA, NE 68137 | On Site | Feb 05 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/698539038da7a612045fa38e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
 | **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/698538df348f733a5c397318?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Feb 05 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[User Experience intern](https://jobright.ai/jobs/info/698537240f6f7e7a2cdfcccd?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Feb 05 |
@@ -85,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69855278348f733a5c399e99?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 05 |
 | **[BAP Agency, LLC](http://www.bap-agency.com)** | **[Graphic Design &amp; Marketing Internship – Hybrid Schedule](https://jobright.ai/jobs/info/69855c41348f733a5c39b2fc?utm_campaign=1049&utm_source=git)** | Huntsville, AL, USA | Hybrid | Feb 05 |
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Graphic Design Intern, Brand Identity](https://jobright.ai/jobs/info/69852df50f6f7e7a2cdfbad9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 05 |
-| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/69852de78da7a612045f8d2f?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | Feb 05 |
 | **[WRA Architects, Inc.](https://www.wraarchitects.com)** | **[Architectural College Intern](https://jobright.ai/jobs/info/698528880f6f7e7a2cdfb52b?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Feb 05 |
 | **[HNTB](http://www.hntb.com/)** | **[Graphic Design Intern- Summer 2026](https://jobright.ai/jobs/info/698527230f6f7e7a2cdfb320?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 05 |
 | ↳ | **[Graphic Design Intern- Summer 2026](https://jobright.ai/jobs/info/698525c4348f733a5c39543c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Feb 05 |
@@ -130,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Summer 2025 TikTok and Communications Intern](https://jobright.ai/jobs/info/69850167348f733a5c391dac?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Feb 05 |
 | **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Video & Photo Intern](https://jobright.ai/jobs/info/698521c70f6f7e7a2cdfacab?utm_campaign=1049&utm_source=git)** | Mackinac Island, MI, US | On Site | Feb 05 |
 | **[Vistex](http://www.vistex.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/69850ee98da7a612045f5d9f?utm_campaign=1049&utm_source=git)** | Hoffman Estates, Illinois, United States | On Site | Feb 05 |
+| **[BAP Agency, LLC](http://www.bap-agency.com)** | **[Graphic Design &amp; Marketing Internship – Hybrid Schedule](https://jobright.ai/jobs/info/69856ffb8da7a612046003b7?utm_campaign=1049&utm_source=git)** | Huntsville, AL, USA | Hybrid | Feb 05 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/6984f802348f733a5c39141b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[Cuningham](http://www.cuningham.com)** | **[Student Summer Internship 2026 / Las Vegas](https://jobright.ai/jobs/info/6984da138da7a612045f249a?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Design Intern Summer 2026](https://jobright.ai/jobs/info/6984d104348f733a5c38e71e?utm_campaign=1049&utm_source=git)** | Camden, NJ | On Site | Feb 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dagne Dover](http://www.dagnedover.com)** | **[Product Design Intern, Spring 26](https://jobright.ai/jobs/info/698476b18da7a612045ea740?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69846983348f733a5c38678f?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 04 |
 | **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Graphic Designer/ Production Specialist](https://jobright.ai/jobs/info/6984823d0f6f7e7a2cdee542?utm_campaign=1049&utm_source=git)** | Las Vegas, NV 89130 | On Site | Feb 04 |
-| **[The Family Office Company BSC (c)](https://www.tfoco.com/)** | **[Communications Graphic Design Intern](https://jobright.ai/jobs/info/6984b81a8da7a612045ef828?utm_campaign=1049&utm_source=git)** | Flowood,MS,US | On Site | Feb 04 |
-| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Creative Designer](https://jobright.ai/jobs/info/6968734c1703f05405aa2b48?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 04 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/6968330a639b452fb57dcdbf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 04 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Clay Sculpting Intern](https://jobright.ai/jobs/info/6984143f348f733a5c37e142?utm_campaign=1049&utm_source=git)** | Medina, MN | On Site | Feb 04 |
-| **[Stantec](http://www.stantec.com)** | **[Student Intern, Architecture - Buildings (Summer 2026)](https://jobright.ai/jobs/info/698409e3348f733a5c37c477?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 04 |
-| ↳ | **[Architectural Student Intern (Summer 2026)](https://jobright.ai/jobs/info/698407a30f6f7e7a2cde1a8b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
