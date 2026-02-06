@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/696a5a465fc8624185394ff0?utm_campaign=1049&utm_source=git)** | Everett, WA | Hybrid | Feb 06 |
+| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Architecture Intern (Tulane University - Students)](https://jobright.ai/jobs/info/69861f878da7a6120460c85a?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Feb 06 |
+| **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6969ef531703f05405abf6f8?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Feb 06 |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[UX Research Intern](https://jobright.ai/jobs/info/696a5f87db26b618950d8264?utm_campaign=1049&utm_source=git)** | Everett, WA | On Site | Feb 06 |
 | **[Staples](http://www.staples.com)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/6914e35e9c388539cbdee4ad?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | Hybrid | Feb 06 |
 | **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Feb 06 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Marketing & Creative Design](https://jobright.ai/jobs/info/6930ccbffa28370be26b3ea3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cuningham](http://www.cuningham.com)** | **[Student Summer Internship 2026 / Las Vegas](https://jobright.ai/jobs/info/6984eab0348f733a5c390837?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 | **[MathWorks](http://www.mathworks.com)** | **[User Experience Designer Internship - Graduate Students](https://jobright.ai/jobs/info/69693716f25a38006697ccba?utm_campaign=1049&utm_source=git)** | Natick, MA | Hybrid | Feb 05 |
 | **[Athena Global Advisors](https://www.athenaglobaladvisors.com)** | **[Summer 2026 Intern, Motion Design](https://jobright.ai/jobs/info/69850c8e8da7a612045f5856?utm_campaign=1049&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Feb 05 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Creative Strategy](https://jobright.ai/jobs/info/6984e61b8da7a612045f3122?utm_campaign=1049&utm_source=git)** | CAN - Toronto Office (Hanna Avenue) | Hybrid | Feb 05 |
-| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/698518b40f6f7e7a2cdf9de9?utm_campaign=1049&utm_source=git)** | 1005 N Cockrell Hill Rd, Dallas, TX 75211, USA | On Site | Feb 05 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Digital Product Design Intern](https://jobright.ai/jobs/info/6984e5ab0f6f7e7a2cdf615b?utm_campaign=1049&utm_source=git)** | Novi, MI, USA | On Site | Feb 05 |
-| ↳ | **[Digital Product Design Intern](https://jobright.ai/jobs/info/6984e5538da7a612045f3067?utm_campaign=1049&utm_source=git)** | Medina, MN, USA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
