@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fe9c282817106e976eff1?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Feb 05 |
+| **[Southwest Solutions Group](http://www.southwestsolutions.com)** | **[2026 Summer Intern - Revit Content Creator](https://jobright.ai/jobs/info/6985801c348f733a5c39f280?utm_campaign=1049&utm_source=git)** | Lewisville, TX | On Site | Feb 05 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[CMF Designer Intern](https://jobright.ai/jobs/info/6969c614f25a380066987b23?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Feb 05 |
 | **[Clark Nexsen, A JMT Company](https://www.clarknexsen.com/)** | **[Landscape Architectural Design Intern](https://jobright.ai/jobs/info/69856fdc348f733a5c39d7da?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Feb 05 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Design Documentation, Automotive Experience](https://jobright.ai/jobs/info/69856ad2348f733a5c39d068?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[1Password](https://1password.com)** | **[Product Design Intern - Design & UX, SaaS Manager - Summer 2026](https://jobright.ai/jobs/info/6985451a8da7a612045fbaac?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Intrinsic](https://www.intrinsic.ai)** | **[UX Research Intern](https://jobright.ai/jobs/info/698544d68da7a612045fba34?utm_campaign=1049&utm_source=git)** | Mountain View, California | On Site | Feb 05 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/698544a88da7a612045fb9ee?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 05 |
-| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Summer 2025 TikTok and Communications Intern](https://jobright.ai/jobs/info/698574fa0f6f7e7a2ce03cca?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Summer Intern 2026- Graphic Design Internship](https://jobright.ai/jobs/info/69698f8c1703f05405ab85d6?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | On Site | Feb 05 |
 | **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/69853be10f6f7e7a2cdfd6cd?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Feb 05 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698574c3348f733a5c39decd?utm_campaign=1049&utm_source=git)** | Ridgefield, CT 06877, USA | On Site | Feb 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Feb 05 |
 | **[Dagne Dover](http://www.dagnedover.com)** | **[Product Design Intern, Spring 26](https://jobright.ai/jobs/info/698476b18da7a612045ea740?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69846983348f733a5c38678f?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 04 |
-| **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Graphic Designer/ Production Specialist](https://jobright.ai/jobs/info/6984823d0f6f7e7a2cdee542?utm_campaign=1049&utm_source=git)** | Las Vegas, NV 89130 | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
