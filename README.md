@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith Transport Inc.](http://smithtransport.com)** | **[Summer Internship 2026 - Augusta Studio](https://jobright.ai/jobs/info/69865a488ca8121a3a689291?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Feb 06 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Dallas)](https://jobright.ai/jobs/info/68c8f05395f5211cd2cebb3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
+| **[Saleseraian](https://salesera.net/)** | **[Graphic Designer](https://jobright.ai/jobs/info/6986546d8ca8121a3a68887c?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 06 |
+| **[DoorDash](http://www.doordash.com)** | **[Product Designer, Intern (Summer 2026)](https://jobright.ai/jobs/info/698650bf8ca8121a3a68856b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69864f278ca8121a3a688383?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - 3D Visual Experience 1](https://jobright.ai/jobs/info/693253c7f131d96e4845b2f8?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Design Engineering Intern, Advanced Development (May to August)](https://jobright.ai/jobs/info/698646b40f6f7e7a2ce128e0?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Feb 06 |
 | **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c0817d5c5d5f14f46de8e8?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Feb 06 |
@@ -66,7 +71,11 @@ For a complete list, click the following sortable link below:
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69863dc88da7a6120460ee2b?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Feb 06 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/696a60a2350cf43803114833?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Alston & Bird](http://www.alston.com/)** | **[Website Design & Communication Intern](https://jobright.ai/jobs/info/69863a738da7a6120460eba8?utm_campaign=1049&utm_source=git)** | Atlanta Metro | Hybrid | Feb 06 |
+| **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - 3D Design 1](https://jobright.ai/jobs/info/69325d3da0dde7020e2e62df?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
+| **[Kubota Tractor Corporation](https://linktr.ee/kubotausa)** | **[Intern - Graphic Design (Summer 2026 - 10 week internship)](https://jobright.ai/jobs/info/696a8e9b350cf43803117db7?utm_campaign=1049&utm_source=git)** | Grapevine, TX | On Site | Feb 06 |
+| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship - Landscape Architecture](https://jobright.ai/jobs/info/698659ae8ca8121a3a689192?utm_campaign=1049&utm_source=git)** | West Des Moines,IA,US | On Site | Feb 06 |
 | **[HH Architecture](https://www.hh-arch.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/698633e30f6f7e7a2ce11696?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 06 |
+| **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/698657d38da7a61204610cba?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Feb 06 |
 | **[geoConvergence](https://39dn.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/698632408da7a6120460e440?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Feb 06 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - Creative Print 1](https://jobright.ai/jobs/info/69326d90764507023d1ae7ca?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | ↳ | **[Design Apprentice - Novelty 1](https://jobright.ai/jobs/info/6932631bf131d96e4845bc36?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cline](http://www.clinedesignassoc.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69853a44348f733a5c397611?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 05 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[CMF & Graphics Intern - Advanced Digital & Material Focus](https://jobright.ai/jobs/info/6985178f0f6f7e7a2cdf9b72?utm_campaign=1049&utm_source=git)** | Medina, MN | On Site | Feb 05 |
 | ↳ | **[Digital Product Design Intern](https://jobright.ai/jobs/info/69851750348f733a5c393f87?utm_campaign=1049&utm_source=git)** | Medina, MN | On Site | Feb 05 |
-| ↳ | **[Digital Product Design Intern](https://jobright.ai/jobs/info/698514dd0f6f7e7a2cdf952c?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Feb 05 |
-| **[IGS Energy](http://www.igsenergy.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/698513f2348f733a5c3938b2?utm_campaign=1049&utm_source=git)** | Ohio, United States | Remote | Feb 05 |
-| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Landscape Design Internship](https://jobright.ai/jobs/info/69855067348f733a5c399b11?utm_campaign=1049&utm_source=git)** | Apex, NC | On Site | Feb 05 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/698510060f6f7e7a2cdf8add?utm_campaign=1049&utm_source=git)** | Nashville, TN; 1200 Broadway, 6th Floor, 37203 | Hybrid | Feb 05 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/6973f278206da320f49df01a?utm_campaign=1049&utm_source=git)** | Edgewater, FL | On Site | Feb 05 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/69850bff8da7a612045f571f?utm_campaign=1049&utm_source=git)** | New York, NY (55th St) | Hybrid | Feb 05 |
-| **[Stanley Martin Homes](http://stanleymartin.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6985083d8da7a612045f5157?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Feb 05 |
-| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/698507da8da7a612045f5102?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 05 |
-| **[Stantec](http://www.stantec.com)** | **[Student Intern, Architecture - Buildings (Summer 2026)](https://jobright.ai/jobs/info/698503c40f6f7e7a2cdf7cc4?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
