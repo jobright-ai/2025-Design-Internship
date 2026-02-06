@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmithGroup](https://www.smithgroup.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6969ee88639b452fb57fe85f?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 06 |
+| **[Bay FC](https://bayfc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6985b0c88ca8121a3a67e224?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
+| **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6969a5aff25a380066985d4e?utm_campaign=1049&utm_source=git)** | Sacramento, CA | Hybrid | Feb 06 |
+| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/6969aa6a1703f05405aba849?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 06 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/696979c9f25a380066981f9e?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Feb 05 |
+| **[Lendistry](http://www.Lendistry.com)** | **[Collections & Portfolio Management Intern](https://jobright.ai/jobs/info/697971abca92cf0d6a8294e9?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Feb 05 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69699fe71703f05405ab9efb?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 05 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Photography/Videography/Graphics Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6969ec20f25a38006698afce?utm_campaign=1049&utm_source=git)** | North Las Vegas, NV | On Site | Feb 05 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fe9c282817106e976eff1?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Feb 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sterling Brands](http://sterlingbrands.com)** | **[Design Intern NY](https://jobright.ai/jobs/info/6984c3b00f6f7e7a2cdf3664?utm_campaign=1049&utm_source=git)** | New York | On Site | Feb 05 |
 | **[Burgess & Niple](http://burgessniple.com)** | **[Architectural Co-op](https://jobright.ai/jobs/info/696821dbf25a38006696784e?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Feb 05 |
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/69849ee8348f733a5c38b520?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 05 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6968cbb2f25a380066975ae1?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Feb 05 |
-| **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6923a59d7795cd460c838e12?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
-| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/693b1ee6d4054a2bc0250f8f?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Feb 05 |
-| **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6925038fc0cefa13343e57d4?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 05 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
