@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - Jewelry / Hardware 1](https://jobright.ai/jobs/info/69325beef131d96e4845b859?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Graphic Design Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/6982082dc3101f1400c3b5c8?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 06 |
+| ↳ | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820811c3101f1400c3b5b9?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Feb 06 |
+| ↳ | **[WDI Dimensional Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6982030c0f6f7e7a2cdb2a6d?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 06 |
+| ↳ | **[Disney Live Entertainment Art Studio Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981fefac3101f1400c3aecb?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Feb 06 |
+| ↳ | **[WDI Character Plaster and Hardscape Internship, Summer 2026](https://jobright.ai/jobs/info/6981f8770f6f7e7a2cdb1e12?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 06 |
+| ↳ | **[WDI Illusion Maker - Figure Finishing Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/6981fe44c3101f1400c3ae48?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 06 |
+| ↳ | **[WDI Graphic Fabrication Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981fe300f6f7e7a2cdb2707?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 06 |
+| ↳ | **[Disney Live Entertainment Industrial Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981fb0b0f6f7e7a2cdb251b?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Feb 06 |
 | **[TriGreen Equipment](http://trigreenequipment.com)** | **[GRAPHIC DESIGN INTERN](https://jobright.ai/jobs/info/6985ca278da7a61204607d7d?utm_campaign=1049&utm_source=git)** | Athens, AL | On Site | Feb 06 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Graphic Artist (Year-Round)](https://jobright.ai/jobs/info/6969fd76f25a38006698c346?utm_campaign=1049&utm_source=git)** | Melville, NY | On Site | Feb 06 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6969ea86639b452fb57fe58f?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Feb 06 |
@@ -147,14 +156,5 @@ For a complete list, click the following sortable link below:
 | **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Summer 2025 TikTok and Communications Intern](https://jobright.ai/jobs/info/69850167348f733a5c391dac?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Feb 05 |
 | **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Video & Photo Intern](https://jobright.ai/jobs/info/698521c70f6f7e7a2cdfacab?utm_campaign=1049&utm_source=git)** | Mackinac Island, MI, US | On Site | Feb 05 |
 | **[Vistex](http://www.vistex.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/69850ee98da7a612045f5d9f?utm_campaign=1049&utm_source=git)** | Hoffman Estates, Illinois, United States | On Site | Feb 05 |
-| **[BAP Agency, LLC](http://www.bap-agency.com)** | **[Graphic Design &amp; Marketing Internship – Hybrid Schedule](https://jobright.ai/jobs/info/69856ffb8da7a612046003b7?utm_campaign=1049&utm_source=git)** | Huntsville, AL, USA | Hybrid | Feb 05 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/6984f802348f733a5c39141b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 05 |
-| **[Cuningham](http://www.cuningham.com)** | **[Student Summer Internship 2026 / Las Vegas](https://jobright.ai/jobs/info/6984da138da7a612045f249a?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
-| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Design Intern Summer 2026](https://jobright.ai/jobs/info/6984d104348f733a5c38e71e?utm_campaign=1049&utm_source=git)** | Camden, NJ | On Site | Feb 05 |
-| **[LV Collective](https://lvcollective.com)** | **[Interiors + Curation Intern](https://jobright.ai/jobs/info/6984c9370f6f7e7a2cdf39f3?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 05 |
-| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Design Intern Summer 2026](https://jobright.ai/jobs/info/6984c8c10f6f7e7a2cdf39ac?utm_campaign=1049&utm_source=git)** | USA - NJ - Camden | On Site | Feb 05 |
-| **[Two Circles](http://www.twocircles.com/)** | **[Art Team Intern](https://jobright.ai/jobs/info/6984ec038da7a612045f367c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 05 |
-| ↳ | **[Art Team Intern](https://jobright.ai/jobs/info/6984f1f60f6f7e7a2cdf6a51?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Feb 05 |
-| ↳ | **[Art Team Intern](https://jobright.ai/jobs/info/6984ed600f6f7e7a2cdf66fd?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 05 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design (Summer)](https://jobright.ai/jobs/info/6984c581348f733a5c38dbe7?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
