@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Staples](http://www.staples.com)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/6914e35e9c388539cbdee4ad?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL | Hybrid | Feb 06 |
+| **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Feb 06 |
+| **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Marketing & Creative Design](https://jobright.ai/jobs/info/6930ccbffa28370be26b3ea3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
+| **[SOTI](http://www.soti.net/)** | **[Graphic Design Intern - AI Focused (May 2026 12 Months)](https://jobright.ai/jobs/info/692f5eb3ef4b48533d1449a9?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 06 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Feb 06 |
+| **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Feb 06 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - Jewelry / Hardware 1](https://jobright.ai/jobs/info/69325beef131d96e4845b859?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Graphic Design Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/6982082dc3101f1400c3b5c8?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 06 |
 | ↳ | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820811c3101f1400c3b5b9?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Feb 06 |
@@ -102,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Intrinsic](https://www.intrinsic.ai)** | **[UX Research Intern](https://jobright.ai/jobs/info/698544d68da7a612045fba34?utm_campaign=1049&utm_source=git)** | Mountain View, California | On Site | Feb 05 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/698544a88da7a612045fb9ee?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 05 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Summer Intern 2026- Graphic Design Internship](https://jobright.ai/jobs/info/69698f8c1703f05405ab85d6?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | On Site | Feb 05 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[User Experience intern](https://jobright.ai/jobs/info/6985f7040f6f7e7a2ce0d987?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Feb 05 |
 | **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/69853be10f6f7e7a2cdfd6cd?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Feb 05 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698574c3348f733a5c39decd?utm_campaign=1049&utm_source=git)** | Ridgefield, CT 06877, USA | On Site | Feb 05 |
 | **[Hurrdat](https://Hurrdat.com)** | **[Graphic & Apparel Design Intern](https://jobright.ai/jobs/info/698575cd0f6f7e7a2ce03df9?utm_campaign=1049&utm_source=git)** | OMAHA, NE 68137 | On Site | Feb 05 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/698518b40f6f7e7a2cdf9de9?utm_campaign=1049&utm_source=git)** | 1005 N Cockrell Hill Rd, Dallas, TX 75211, USA | On Site | Feb 05 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Digital Product Design Intern](https://jobright.ai/jobs/info/6984e5ab0f6f7e7a2cdf615b?utm_campaign=1049&utm_source=git)** | Novi, MI, USA | On Site | Feb 05 |
 | ↳ | **[Digital Product Design Intern](https://jobright.ai/jobs/info/6984e5538da7a612045f3067?utm_campaign=1049&utm_source=git)** | Medina, MN, USA | On Site | Feb 05 |
-| **[Sterling Brands](http://sterlingbrands.com)** | **[Design Internship](https://jobright.ai/jobs/info/6984e16e8da7a612045f2dbd?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 05 |
-| **[Athena Global Advisors](https://www.athenaglobaladvisors.com)** | **[Summer 2026 Intern, Motion Design](https://jobright.ai/jobs/info/698508b9348f733a5c392612?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 05 |
-| **[CWD Sellier](https://north-america.cwdsellier.com)** | **[Graphic Design Intern (Albion)](https://jobright.ai/jobs/info/69850e6b8da7a612045f5c7f?utm_campaign=1049&utm_source=git)** | Wellington,FL,US | On Site | Feb 05 |
-| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Summer 2025 TikTok and Communications Intern](https://jobright.ai/jobs/info/69850167348f733a5c391dac?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Feb 05 |
-| **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Video & Photo Intern](https://jobright.ai/jobs/info/698521c70f6f7e7a2cdfacab?utm_campaign=1049&utm_source=git)** | Mackinac Island, MI, US | On Site | Feb 05 |
-| **[Vistex](http://www.vistex.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/69850ee98da7a612045f5d9f?utm_campaign=1049&utm_source=git)** | Hoffman Estates, Illinois, United States | On Site | Feb 05 |
-| **[Ground Up International](https://www.groundupintl.com)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/6984f802348f733a5c39141b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
