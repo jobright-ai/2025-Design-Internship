@@ -150,8 +150,8 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Dallas)](https://jobright.ai/jobs/info/68c8f05395f5211cd2cebb3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/6986d00c8ca8121a3a694fbc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Oracle](https://www.oracle.com/)** | **[Creative Team Intern](https://jobright.ai/jobs/info/69869a2c0f6f7e7a2ce1a403?utm_campaign=1049&utm_source=git)** | Redwood City, CA, United States | On Site | Feb 06 |
-| **[Stats Perform](http://statsperform.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698678848ca8121a3a68c20c?utm_campaign=1049&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/698673728ca8121a3a68bbe0?utm_campaign=1049&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
+| **[Stats Perform](http://statsperform.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/698673728ca8121a3a68bbe0?utm_campaign=1049&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/698678848ca8121a3a68c20c?utm_campaign=1049&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69866f108ca8121a3a68b6a7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 06 |
 | **[DoorDash](http://www.doordash.com)** | **[Product Designer, Intern (Summer 2026)](https://jobright.ai/jobs/info/698650bf8ca8121a3a68856b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
 | **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69867cf68da7a61204614a66?utm_campaign=1049&utm_source=git)** | Aurora, CO | Hybrid | Feb 06 |
