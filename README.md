@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith Transport Inc.](http://smithtransport.com)** | **[Summer Internship 2026 - Charleston Studio](https://jobright.ai/jobs/info/698793438ca8121a3a6a18dc?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Feb 07 |
+| **[PROMOFLIX.AI](https://promoflix.ai/?fpr=roger87)** | **[UX Design Intern](https://jobright.ai/jobs/info/698790778da7a6120462a02d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 07 |
+| **[Kargo](http://www.kargo.com)** | **[Intern, Interactive Ad Design](https://jobright.ai/jobs/info/698789278ca8121a3a6a137b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
+| ↳ | **[Intern, Interactive Ad Design](https://jobright.ai/jobs/info/698787958ca8121a3a6a123e?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | **[Cuddles Learning](https://www.cuddleskidz.com/)** | **[Graphic Designer / Game Design Intern](https://jobright.ai/jobs/info/698771a70f6f7e7a2ce2ac40?utm_campaign=1049&utm_source=git)** | Markham, Ontario, Canada | Remote | Feb 07 |
 | **[ONE DAY TO REMEMBER](http://www.onedaytoremember.org)** | **[Photo Intern](https://jobright.ai/jobs/info/69876fd48ca8121a3a69f290?utm_campaign=1049&utm_source=git)** | Pennsylvania, United States | Remote | Feb 07 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 07 |
@@ -131,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69867ec98ca8121a3a68cbd6?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 | **[FutureSelf™](https://www.future-self.ai/)** | **[UX Researcher (Intern)](https://jobright.ai/jobs/info/6986c33a8da7a6120461b061?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Digital Design, Campaigns & Activations](https://jobright.ai/jobs/info/696ac0ca350cf4380311ceb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698677f70f6f7e7a2ce1730a?utm_campaign=1049&utm_source=git)** | Tysons Corner, VA | On Site | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/698675bc8da7a61204613fb7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Content Strategy UX Intern](https://jobright.ai/jobs/info/698697208da7a61204616f52?utm_campaign=1049&utm_source=git)** | Hybrid - Texas (Westlake) | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698675588da7a61204613f82?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/698678848ca8121a3a68c20c?utm_campaign=1049&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69866f108ca8121a3a68b6a7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 06 |
 | **[DoorDash](http://www.doordash.com)** | **[Product Designer, Intern (Summer 2026)](https://jobright.ai/jobs/info/698650bf8ca8121a3a68856b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
-| **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69867cf68da7a61204614a66?utm_campaign=1049&utm_source=git)** | Aurora, CO | Hybrid | Feb 06 |
-| ↳ | **[Photo and Video Intern](https://jobright.ai/jobs/info/69867c9d0f6f7e7a2ce17a63?utm_campaign=1049&utm_source=git)** | Aurora, CO | Hybrid | Feb 06 |
-| **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/6986693f8da7a6120461298b?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
