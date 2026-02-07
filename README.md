@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/6967929f639b452fb57d218d?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Feb 07 |
+| **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
+| **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Videography/Graphic Design](https://jobright.ai/jobs/info/696aec6edb26b618950e5643?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Feb 07 |
+| **[IBM](http://www.ibm.com)** | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/6967c70ff25a3800669615ff?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 07 |
+| ↳ | **[Research Think Lab Design Intern](https://jobright.ai/jobs/info/6967929f639b452fb57d218d?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Feb 07 |
 | ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/697992eb0791bc1d72304368?utm_campaign=1049&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Design Intern](https://jobright.ai/jobs/info/6916332f9c388539cbdf89bb?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
 | ↳ | **[2026 Summer Intern: Design Intern](https://jobright.ai/jobs/info/6916316f9c388539cbdf8879?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 07 |
@@ -89,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Ignite Digital Services](https://ignite-digital.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6986b7c60f6f7e7a2ce1d1ea?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina, United States | On Site | Feb 06 |
 | **[United Way](http://www.unitedway.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6986b7c08da7a6120461a305?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 06 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 06 |
+| **[DeafDot](https://www.linkedin.com/company/98845139)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/698734158da7a61204624380?utm_campaign=1049&utm_source=git)** | Aurora, IL | Remote | Feb 06 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/6986afa38ca8121a3a690e1d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
 | **[Grand Hotel](http://www.grandhotel.com)** | **[Video & Photo Intern](https://jobright.ai/jobs/info/6986d30a8da7a6120461d849?utm_campaign=1049&utm_source=git)** | Mackinac Island, MI | On Site | Feb 06 |
 | **[Options For All](http://optionsforall.org)** | **[Marketing & Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6986a5ea8ca8121a3a68f91d?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Feb 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c080ca702aa35207aadf94?utm_campaign=1049&utm_source=git)** | Bellevue, NE | On Site | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture](https://jobright.ai/jobs/info/69863e9c8ca8121a3a686e1f?utm_campaign=1049&utm_source=git)** | Newark, NJ | On Site | Feb 06 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69863dc88da7a6120460ee2b?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Feb 06 |
-| **[Saleseraian](https://salesera.net/)** | **[Graphic Designer and Vedio Editing Intern](https://jobright.ai/jobs/info/6986546d8ca8121a3a68887c?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 06 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design (Summer)](https://jobright.ai/jobs/info/69864f278ca8121a3a688383?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[Rakuten](http://global.rakuten.com)** | **[UX Intern (6-month contract)](https://jobright.ai/jobs/info/698671208da7a61204613a4f?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | Feb 06 |
-| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/696a60a2350cf43803114833?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
