@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 06 |
 | **[HOK](http://www.hok.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/6986beb28ca8121a3a692c08?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 06 |
 | **[Ignite Digital Services](https://ignite-digital.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6986b7c60f6f7e7a2ce1d1ea?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina, United States | On Site | Feb 06 |
 | **[United Way](http://www.unitedway.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6986b7c08da7a6120461a305?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 06 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Creative Team Intern](https://jobright.ai/jobs/info/698680548ca8121a3a68ce2b?utm_campaign=1049&utm_source=git)** | Redwood City, CA, United States | On Site | Feb 06 |
 | ↳ | **[NetSuite Creative Team Intern](https://jobright.ai/jobs/info/69867fdf0f6f7e7a2ce17f91?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69867ec98ca8121a3a68cbd6?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 06 |
+| **[FutureSelf™](https://www.future-self.ai/)** | **[UX Researcher (Intern)](https://jobright.ai/jobs/info/6986c33a8da7a6120461b061?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Digital Design, Campaigns & Activations](https://jobright.ai/jobs/info/696ac0ca350cf4380311ceb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698677f70f6f7e7a2ce1730a?utm_campaign=1049&utm_source=git)** | Tysons Corner, VA | On Site | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/698675bc8da7a61204613fb7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
@@ -103,11 +105,10 @@ For a complete list, click the following sortable link below:
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Summer Internship 2026 - Augusta Studio](https://jobright.ai/jobs/info/69865a488ca8121a3a689291?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Feb 06 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Dallas)](https://jobright.ai/jobs/info/68c8f05395f5211cd2cebb3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[Oracle](https://www.oracle.com/)** | **[Creative Team Intern](https://jobright.ai/jobs/info/69869a2c0f6f7e7a2ce1a403?utm_campaign=1049&utm_source=git)** | Redwood City, CA, United States | On Site | Feb 06 |
-| **[Stats Perform](http://statsperform.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/698673728ca8121a3a68bbe0?utm_campaign=1049&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/698678848ca8121a3a68c20c?utm_campaign=1049&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
+| **[Stats Perform](http://statsperform.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698678848ca8121a3a68c20c?utm_campaign=1049&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/698673728ca8121a3a68bbe0?utm_campaign=1049&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69866f108ca8121a3a68b6a7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 06 |
 | **[DoorDash](http://www.doordash.com)** | **[Product Designer, Intern (Summer 2026)](https://jobright.ai/jobs/info/698650bf8ca8121a3a68856b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69864f278ca8121a3a688383?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69867cf68da7a61204614a66?utm_campaign=1049&utm_source=git)** | Aurora, CO | Hybrid | Feb 06 |
 | ↳ | **[Photo and Video Intern](https://jobright.ai/jobs/info/69867c9d0f6f7e7a2ce17a63?utm_campaign=1049&utm_source=git)** | Aurora, CO | Hybrid | Feb 06 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/6986693f8da7a6120461298b?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Feb 06 |
@@ -124,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture](https://jobright.ai/jobs/info/69863e9c8ca8121a3a686e1f?utm_campaign=1049&utm_source=git)** | Newark, NJ | On Site | Feb 06 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69863dc88da7a6120460ee2b?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Feb 06 |
 | **[Saleseraian](https://salesera.net/)** | **[Graphic Designer and Vedio Editing Intern](https://jobright.ai/jobs/info/6986546d8ca8121a3a68887c?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 06 |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design (Summer)](https://jobright.ai/jobs/info/69864f278ca8121a3a688383?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Rakuten](http://global.rakuten.com)** | **[UX Intern (6-month contract)](https://jobright.ai/jobs/info/698671208da7a61204613a4f?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | Feb 06 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/696a60a2350cf43803114833?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Alston & Bird](http://www.alston.com/)** | **[Website Design & Communication Intern](https://jobright.ai/jobs/info/69863a738da7a6120460eba8?utm_campaign=1049&utm_source=git)** | Atlanta Metro | Hybrid | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Graphic Design Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/6982082dc3101f1400c3b5c8?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 06 |
 | ↳ | **[Disney Live Entertainment CAD Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820811c3101f1400c3b5b9?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Feb 06 |
 | ↳ | **[WDI Dimensional Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6982030c0f6f7e7a2cdb2a6d?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 06 |
-| ↳ | **[Disney Live Entertainment Art Studio Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981fefac3101f1400c3aecb?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Feb 06 |
-| ↳ | **[WDI Character Plaster and Hardscape Internship, Summer 2026](https://jobright.ai/jobs/info/6981f8770f6f7e7a2cdb1e12?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
