@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Color and Paint Intern, Summer 2026](https://jobright.ai/jobs/info/69820ca70f6f7e7a2cdb3186?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 07 |
 | **[MKG](http://thisismkg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698710968da7a61204622680?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[3D Designer Intern](https://jobright.ai/jobs/info/6987104a8da7a612046225dc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[HOK](http://www.hok.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/698709c60f6f7e7a2ce245cf?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Feb 07 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/698657d38da7a61204610cba?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Feb 06 |
 | **[Visa Lighting](http://visalighting.com)** | **[Creative Design & Marketing Intern](https://jobright.ai/jobs/info/6986852f8ca8121a3a68d48f?utm_campaign=1049&utm_source=git)** | Glendale, Wisconsin, United States | On Site | Feb 06 |
 | **[geoConvergence](https://39dn.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/698632408da7a6120460e440?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Feb 06 |
-| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Landscape/Grounds Management Intern - Summer 2026](https://jobright.ai/jobs/info/69867af98ca8121a3a68c5f2?utm_campaign=1049&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
-| ↳ | **[Interactive Design Intern - Summer 2026](https://jobright.ai/jobs/info/698679780f6f7e7a2ce1756d?utm_campaign=1049&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
-| **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - Creative Print 1](https://jobright.ai/jobs/info/69326d90764507023d1ae7ca?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
+| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Interactive Design Intern - Summer 2026](https://jobright.ai/jobs/info/698679780f6f7e7a2ce1756d?utm_campaign=1049&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
+| ↳ | **[Landscape/Grounds Management Intern - Summer 2026](https://jobright.ai/jobs/info/69867af98ca8121a3a68c5f2?utm_campaign=1049&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
