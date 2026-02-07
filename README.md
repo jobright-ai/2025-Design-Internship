@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HOK](http://www.hok.com/)** | **[Architecture or Interior Design Student Intern - Summer 2026](https://jobright.ai/jobs/info/6987052e8ca8121a3a698a36?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Feb 07 |
+| **[MKG](http://thisismkg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698710968da7a61204622680?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| ↳ | **[3D Designer Intern](https://jobright.ai/jobs/info/6987104a8da7a612046225dc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| **[HOK](http://www.hok.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/698709c60f6f7e7a2ce245cf?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Feb 07 |
+| ↳ | **[Architecture or Interior Design Student Intern - Summer 2026](https://jobright.ai/jobs/info/6987052e8ca8121a3a698a36?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Feb 07 |
 | **[Remilia Corporation](https://remilia.org)** | **[Creative Operations Intern](https://jobright.ai/jobs/info/6986fe840f6f7e7a2ce239f2?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 07 |
 | **[MKG](http://thisismkg.com)** | **[3D Designer Intern](https://jobright.ai/jobs/info/6986ee8a8ca8121a3a69731c?utm_campaign=1049&utm_source=git)** | New York,NY,US | Hybrid | Feb 06 |
 | **[HOK](http://www.hok.com/)** | **[Architecture or Interior Design Student Intern - Summer 2026](https://jobright.ai/jobs/info/6986ffcd8da7a61204620ffb?utm_campaign=1049&utm_source=git)** | Denver, CO, USA | Hybrid | Feb 06 |
+| ↳ | **[Interior Design Student Intern](https://jobright.ai/jobs/info/69871d418da7a61204623507?utm_campaign=1049&utm_source=git)** | St. Louis, MO, USA | Hybrid | Feb 06 |
 | **[MKG](http://thisismkg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6986fb258da7a61204620b19?utm_campaign=1049&utm_source=git)** | New York,NY,US | Hybrid | Feb 06 |
 | **[Ignite Digital Services](https://ignite-digital.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6986dbcf8ca8121a3a6963d5?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Feb 06 |
 | **[Girl Scouts of Eastern Missouri](https://www.girlscoutsem.org/)** | **[Photography/Videography Intern- Summer 2026](https://jobright.ai/jobs/info/698704d98da7a612046213e6?utm_campaign=1049&utm_source=git)** | Girl Scouts of Eastern Missouri - SAINT LOUIS, MO 63146 | Hybrid | Feb 06 |
@@ -108,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship - Landscape Architecture](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b0?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | On Site | Feb 06 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Production Design](https://jobright.ai/jobs/info/698666be0f6f7e7a2ce15770?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
 | **[Safe Software](http://www.safe.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/698685cc8ca8121a3a68d553?utm_campaign=1049&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Feb 06 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Design: Intern Opportunities](https://jobright.ai/jobs/info/698722c18ca8121a3a69ae6e?utm_campaign=1049&utm_source=git)** | United States, Washington, Redmond | Hybrid | Feb 06 |
 | **[DoorDash](http://www.doordash.com)** | **[Product Designer, Intern (Summer 2026)](https://jobright.ai/jobs/info/698664580f6f7e7a2ce1529e?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
 | **[Helix Architecture + Design](https://www.helixkc.com)** | **[Architecture Internship - Summer 2026](https://jobright.ai/jobs/info/698663578da7a61204611ddf?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 06 |
 | **[Regal Boats](http://regalboats.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69867ee38ca8121a3a68cc18?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Landscape/Grounds Management Intern - Summer 2026](https://jobright.ai/jobs/info/69867af98ca8121a3a68c5f2?utm_campaign=1049&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
 | ↳ | **[Interactive Design Intern - Summer 2026](https://jobright.ai/jobs/info/698679780f6f7e7a2ce1756d?utm_campaign=1049&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - Creative Print 1](https://jobright.ai/jobs/info/69326d90764507023d1ae7ca?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| ↳ | **[Design Apprentice - Novelty 1](https://jobright.ai/jobs/info/6932631bf131d96e4845bc36?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| **[HH Architecture](https://www.hh-arch.com)** | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/6986401d0f6f7e7a2ce1221f?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 06 |
-| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/696a5a465fc8624185394ff0?utm_campaign=1049&utm_source=git)** | Everett, WA | Hybrid | Feb 06 |
-| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Architecture Intern (Tulane University - Students)](https://jobright.ai/jobs/info/69861f878da7a6120460c85a?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Feb 06 |
-| **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6969ef531703f05405abf6f8?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
