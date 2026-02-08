@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Resurgent Capital Services](http://resurgent.com)** | **[Intern, Content Creator](https://jobright.ai/jobs/info/6987a3608da7a6120462b07b?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Feb 07 |
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Summer Internship 2026 - Greenville Studio](https://jobright.ai/jobs/info/69879a148da7a6120462a8ac?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Feb 07 |
 | ↳ | **[Summer Internship 2026 - Charleston Studio](https://jobright.ai/jobs/info/698793438ca8121a3a6a18dc?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Feb 07 |
-| **[PROMOFLIX.AI](https://promoflix.ai/?fpr=roger87)** | **[UX Design Intern](https://jobright.ai/jobs/info/698790778da7a6120462a02d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 07 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6987b23a8ca8121a3a6a39e3?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Feb 07 |
 | **[ONE DAY TO REMEMBER](http://www.onedaytoremember.org)** | **[Photo Intern](https://jobright.ai/jobs/info/69876fd48ca8121a3a69f290?utm_campaign=1049&utm_source=git)** | Pennsylvania, United States | Remote | Feb 07 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Rakuten Kobo Inc.](http://www.kobo.com)** | **[UX Intern (6-month contract)](https://jobright.ai/jobs/info/698678fe8da7a6120461441f?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 06 |
 | **[Allegion](https://www.allegion.com)** | **[User Experience (UX) Design Engineer Intern](https://jobright.ai/jobs/info/698244930f6f7e7a2cdb6dc6?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Feb 06 |
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Summer Internship 2026 - Augusta Studio](https://jobright.ai/jobs/info/69865a488ca8121a3a689291?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Feb 06 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Dallas)](https://jobright.ai/jobs/info/68c8f05395f5211cd2cebb3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
