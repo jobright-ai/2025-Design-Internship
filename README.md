@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6988083f8da7a61204631247?utm_campaign=1049&utm_source=git)** | Tysons Corner, VA | On Site | Feb 07 |
 | **[Muskingum Watershed Conservancy District](http://www.mwcd.org)** | **[Photography/Videography Intern - 2026](https://jobright.ai/jobs/info/6987f37c8ca8121a3a6a627d?utm_campaign=1049&utm_source=git)** | New Philadelphia, OH 44663 | On Site | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Interactive Ad Design](https://jobright.ai/jobs/info/6987c57e0f6f7e7a2ce3012c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | ↳ | **[Intern, Interactive Ad Design](https://jobright.ai/jobs/info/6987c4ac8ca8121a3a6a48e3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Creative Team Intern](https://jobright.ai/jobs/info/698680548ca8121a3a68ce2b?utm_campaign=1049&utm_source=git)** | Redwood City, CA, United States | On Site | Feb 06 |
 | ↳ | **[NetSuite Creative Team Intern](https://jobright.ai/jobs/info/69867fdf0f6f7e7a2ce17f91?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69867ec98ca8121a3a68cbd6?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 06 |
-| **[FutureSelf™](https://www.future-self.ai/)** | **[UX Researcher (Intern)](https://jobright.ai/jobs/info/6986c33a8da7a6120461b061?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Digital Design, Campaigns & Activations](https://jobright.ai/jobs/info/696ac0ca350cf4380311ceb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/698675bc8da7a61204613fb7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Content Strategy UX Intern](https://jobright.ai/jobs/info/698697208da7a61204616f52?utm_campaign=1049&utm_source=git)** | Hybrid - Texas (Westlake) | Hybrid | Feb 06 |
