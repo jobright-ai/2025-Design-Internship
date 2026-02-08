@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/6971b43c51f72647718425a0?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Feb 08 |
+| ↳ | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c7cbc6f42a830e1c7e8240?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Feb 08 |
+| **[Messiah Lifeways](https://messiahlifeways.org)** | **[Summer 2026 Graphic Design Intern- Paid](https://jobright.ai/jobs/info/6988a4968ca8121a3a6b265e?utm_campaign=1049&utm_source=git)** | Messiah Lifeways - Mechanicsburg, PA 17055 | On Site | Feb 08 |
 | **[IMB (International Mission Board)](https://www.imb.org/)** | **[Multimedia Intern (Summer)](https://jobright.ai/jobs/info/696bd42ddb26b618950f49d0?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Feb 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 08 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68cef67c846f0b04af67e091?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Feb 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stats Perform](http://statsperform.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698675588da7a61204613f82?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/6986949f8ca8121a3a68e3ed?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/696aaa535fc862418539a243?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship - Landscape Architecture](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b0?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | On Site | Feb 06 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Production Design](https://jobright.ai/jobs/info/698666be0f6f7e7a2ce15770?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
-| **[Safe Software](http://www.safe.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/698685cc8ca8121a3a68d553?utm_campaign=1049&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
