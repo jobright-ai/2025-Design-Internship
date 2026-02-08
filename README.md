@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/6971b43c51f72647718425a0?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Feb 08 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68cd0bfdb2a74e1837ed15f1?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Feb 08 |
+| ↳ | **[Architecture Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/6971b43c51f72647718425a0?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Feb 08 |
 | ↳ | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c7cbc6f42a830e1c7e8240?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Feb 08 |
 | **[Messiah Lifeways](https://messiahlifeways.org)** | **[Summer 2026 Graphic Design Intern- Paid](https://jobright.ai/jobs/info/6988a4968ca8121a3a6b265e?utm_campaign=1049&utm_source=git)** | Messiah Lifeways - Mechanicsburg, PA 17055 | On Site | Feb 08 |
 | **[IMB (International Mission Board)](https://www.imb.org/)** | **[Multimedia Intern (Summer)](https://jobright.ai/jobs/info/696bd42ddb26b618950f49d0?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pluralsight](http://www.pluralsight.com)** | **[Content Strategy UX Intern](https://jobright.ai/jobs/info/698697208da7a61204616f52?utm_campaign=1049&utm_source=git)** | Hybrid - Texas (Westlake) | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698675588da7a61204613f82?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/6986949f8ca8121a3a68e3ed?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/696aaa535fc862418539a243?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
