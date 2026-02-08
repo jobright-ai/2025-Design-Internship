@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220551f726477183580e?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Feb 08 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Intern - Research Web Design and Development](https://jobright.ai/jobs/info/69167db2286ccf0a1513692f?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
-| **[Breeze Airways™](https://www.flybreeze.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/698841200f6f7e7a2ce38cfa?utm_campaign=1049&utm_source=git)** | Cottonwood Heights, UT | On Site | Feb 07 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6988083f8da7a61204631247?utm_campaign=1049&utm_source=git)** | Tysons Corner, VA | On Site | Feb 07 |
 | **[Muskingum Watershed Conservancy District](http://www.mwcd.org)** | **[Photography/Videography Intern - 2026](https://jobright.ai/jobs/info/6987f37c8ca8121a3a6a627d?utm_campaign=1049&utm_source=git)** | New Philadelphia, OH 44663 | On Site | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Interactive Ad Design](https://jobright.ai/jobs/info/6987c57e0f6f7e7a2ce3012c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Pluralsight](http://www.pluralsight.com)** | **[Content Strategy UX Intern](https://jobright.ai/jobs/info/698697208da7a61204616f52?utm_campaign=1049&utm_source=git)** | Hybrid - Texas (Westlake) | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698675588da7a61204613f82?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/6986949f8ca8121a3a68e3ed?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/696aaa535fc862418539a243?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
