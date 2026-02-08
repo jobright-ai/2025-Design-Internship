@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Multimedia & Communications Internship](https://jobright.ai/jobs/info/6987b3e48da7a6120462ce25?utm_campaign=1049&utm_source=git)** | Concord, NH | Hybrid | Feb 07 |
 | **[Pophouse](http://www.pophouse.design/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6987a6450f6f7e7a2ce2df85?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Feb 07 |
 | **[Herrick, Feinstein LLP](http://www.herrick.com/)** | **[Digital Marketing and Graphic Design Intern](https://jobright.ai/jobs/info/6987a46e0f6f7e7a2ce2de43?utm_campaign=1049&utm_source=git)** | NY Office Main Office - New York, NY 10016 | On Site | Feb 07 |
 | **[Resurgent Capital Services](http://resurgent.com)** | **[Intern, Content Creator](https://jobright.ai/jobs/info/6987a3608da7a6120462b07b?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Summer Internship 2026 - Augusta Studio](https://jobright.ai/jobs/info/69865a488ca8121a3a689291?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Feb 06 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Dallas)](https://jobright.ai/jobs/info/68c8f05395f5211cd2cebb3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/6986d00c8ca8121a3a694fbc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[Oracle](https://www.oracle.com/)** | **[Creative Team Intern](https://jobright.ai/jobs/info/69869a2c0f6f7e7a2ce1a403?utm_campaign=1049&utm_source=git)** | Redwood City, CA, United States | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
