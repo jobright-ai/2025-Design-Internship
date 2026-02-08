@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kargo](http://www.kargo.com)** | **[Intern, Interactive Ad Design](https://jobright.ai/jobs/info/6987c57e0f6f7e7a2ce3012c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
+| ↳ | **[Intern, Interactive Ad Design](https://jobright.ai/jobs/info/6987c4ac8ca8121a3a6a48e3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
 | **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Multimedia & Communications Internship](https://jobright.ai/jobs/info/6987b3e48da7a6120462ce25?utm_campaign=1049&utm_source=git)** | Concord, NH | Hybrid | Feb 07 |
 | **[Pophouse](http://www.pophouse.design/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6987a6450f6f7e7a2ce2df85?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Feb 07 |
 | **[Herrick, Feinstein LLP](http://www.herrick.com/)** | **[Digital Marketing and Graphic Design Intern](https://jobright.ai/jobs/info/6987a46e0f6f7e7a2ce2de43?utm_campaign=1049&utm_source=git)** | NY Office Main Office - New York, NY 10016 | On Site | Feb 07 |
@@ -64,8 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Summer Internship 2026 - Greenville Studio](https://jobright.ai/jobs/info/69879a148da7a6120462a8ac?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Feb 07 |
 | ↳ | **[Summer Internship 2026 - Charleston Studio](https://jobright.ai/jobs/info/698793438ca8121a3a6a18dc?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Feb 07 |
 | **[PROMOFLIX.AI](https://promoflix.ai/?fpr=roger87)** | **[UX Design Intern](https://jobright.ai/jobs/info/698790778da7a6120462a02d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 07 |
-| **[Kargo](http://www.kargo.com)** | **[Intern, Interactive Ad Design](https://jobright.ai/jobs/info/698789278ca8121a3a6a137b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
-| ↳ | **[Intern, Interactive Ad Design](https://jobright.ai/jobs/info/698787958ca8121a3a6a123e?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6987b23a8ca8121a3a6a39e3?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Feb 07 |
 | **[ONE DAY TO REMEMBER](http://www.onedaytoremember.org)** | **[Photo Intern](https://jobright.ai/jobs/info/69876fd48ca8121a3a69f290?utm_campaign=1049&utm_source=git)** | Pennsylvania, United States | Remote | Feb 07 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 07 |
