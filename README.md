@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMB (International Mission Board)](https://www.imb.org/)** | **[Multimedia Intern (Summer)](https://jobright.ai/jobs/info/696bd42ddb26b618950f49d0?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Feb 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 08 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68cef67c846f0b04af67e091?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Feb 08 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Graphic Design Intern - Mystic Lake Casino](https://jobright.ai/jobs/info/68ca7f2546caff4db51ffe8a?utm_campaign=1049&utm_source=git)** | Prior Lake, MN | On Site | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship - Landscape Architecture](https://jobright.ai/jobs/info/698688500f6f7e7a2ce189b0?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | On Site | Feb 06 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Intern, Production Design](https://jobright.ai/jobs/info/698666be0f6f7e7a2ce15770?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
 | **[Safe Software](http://www.safe.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/698685cc8ca8121a3a68d553?utm_campaign=1049&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Feb 06 |
-| **[DoorDash](http://www.doordash.com)** | **[Product Designer, Intern (Summer 2026)](https://jobright.ai/jobs/info/698664580f6f7e7a2ce1529e?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
