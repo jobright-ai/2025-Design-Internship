@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Breeze Airways™](https://www.flybreeze.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/698841200f6f7e7a2ce38cfa?utm_campaign=1049&utm_source=git)** | Cottonwood Heights, UT | On Site | Feb 07 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6988083f8da7a61204631247?utm_campaign=1049&utm_source=git)** | Tysons Corner, VA | On Site | Feb 07 |
 | **[Muskingum Watershed Conservancy District](http://www.mwcd.org)** | **[Photography/Videography Intern - 2026](https://jobright.ai/jobs/info/6987f37c8ca8121a3a6a627d?utm_campaign=1049&utm_source=git)** | New Philadelphia, OH 44663 | On Site | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Interactive Ad Design](https://jobright.ai/jobs/info/6987c57e0f6f7e7a2ce3012c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rakuten Kobo Inc.](http://www.kobo.com)** | **[UX Intern (6-month contract)](https://jobright.ai/jobs/info/698678fe8da7a6120461441f?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 06 |
 | **[Allegion](https://www.allegion.com)** | **[User Experience (UX) Design Engineer Intern](https://jobright.ai/jobs/info/698244930f6f7e7a2cdb6dc6?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Feb 06 |
 | **[Smith Transport Inc.](http://smithtransport.com)** | **[Summer Internship 2026 - Augusta Studio](https://jobright.ai/jobs/info/69865a488ca8121a3a689291?utm_campaign=1049&utm_source=git)** | Augusta, GA | On Site | Feb 06 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Dallas)](https://jobright.ai/jobs/info/68c8f05395f5211cd2cebb3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
