@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Muskingum Watershed Conservancy District](http://www.mwcd.org)** | **[Photography/Videography Intern - 2026](https://jobright.ai/jobs/info/6987f37c8ca8121a3a6a627d?utm_campaign=1049&utm_source=git)** | New Philadelphia, OH 44663 | On Site | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Interactive Ad Design](https://jobright.ai/jobs/info/6987c57e0f6f7e7a2ce3012c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
 | ↳ | **[Intern, Interactive Ad Design](https://jobright.ai/jobs/info/6987c4ac8ca8121a3a6a48e3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 07 |
-| **[ONE DAY TO REMEMBER](http://www.onedaytoremember.org)** | **[Photo Album Design Intern](https://jobright.ai/jobs/info/69876fd48ca8121a3a69f290?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Remote | Feb 07 |
 | **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Multimedia & Communications Internship](https://jobright.ai/jobs/info/6987b3e48da7a6120462ce25?utm_campaign=1049&utm_source=git)** | Concord, NH | Hybrid | Feb 07 |
 | **[Pophouse](http://www.pophouse.design/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6987a6450f6f7e7a2ce2df85?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Feb 07 |
 | **[Herrick, Feinstein LLP](http://www.herrick.com/)** | **[Digital Marketing and Graphic Design Intern](https://jobright.ai/jobs/info/6987a46e0f6f7e7a2ce2de43?utm_campaign=1049&utm_source=git)** | NY Office Main Office - New York, NY 10016 | On Site | Feb 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/698675bc8da7a61204613fb7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Content Strategy UX Intern](https://jobright.ai/jobs/info/698697208da7a61204616f52?utm_campaign=1049&utm_source=git)** | Hybrid - Texas (Westlake) | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698675588da7a61204613f82?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/6986949f8ca8121a3a68e3ed?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
