@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Ecommerce Design Intern - Summer 2026](https://jobright.ai/jobs/info/69897bf88ca8121a3a6bd918?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Feb 08 |
+| **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/68cd0a46e23def7af55b414b?utm_campaign=1049&utm_source=git)** | Latham, NY | On Site | Feb 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711946333b6343a14d8fba?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 08 |
 | ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696feb463ed06875134ad56e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Feb 08 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68cd0bfdb2a74e1837ed15f1?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Feb 08 |
@@ -106,13 +108,11 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Product Design: Intern Opportunities](https://jobright.ai/jobs/info/698737838da7a61204624fa8?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Feb 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Illusion Maker - Surface Development Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/69820014c3101f1400c3afa1?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6959ff03aa05c26e7ab3a81e?utm_campaign=1049&utm_source=git)** | Deerfield, IL | On Site | Feb 07 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Color and Paint Intern, Summer 2026](https://jobright.ai/jobs/info/69820ca70f6f7e7a2cdb3186?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 07 |
 | **[MKG](http://thisismkg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698710968da7a61204622680?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[3D Designer Intern](https://jobright.ai/jobs/info/6987104a8da7a612046225dc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[HOK](http://www.hok.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/698709c60f6f7e7a2ce245cf?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Feb 07 |
 | ↳ | **[Architecture or Interior Design Student Intern - Summer 2026](https://jobright.ai/jobs/info/6987052e8ca8121a3a698a36?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Feb 07 |
 | **[Remilia Corporation](https://remilia.org)** | **[Creative Operations Intern](https://jobright.ai/jobs/info/6986fe840f6f7e7a2ce239f2?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 07 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design (Summer)](https://jobright.ai/jobs/info/69864f278ca8121a3a688383?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[MKG](http://thisismkg.com)** | **[3D Designer Intern](https://jobright.ai/jobs/info/6986ee8a8ca8121a3a69731c?utm_campaign=1049&utm_source=git)** | New York,NY,US | Hybrid | Feb 06 |
 | **[HOK](http://www.hok.com/)** | **[Architecture or Interior Design Student Intern - Summer 2026](https://jobright.ai/jobs/info/6986ffcd8da7a61204620ffb?utm_campaign=1049&utm_source=git)** | Denver, CO, USA | Hybrid | Feb 06 |
 | ↳ | **[Interior Design Student Intern](https://jobright.ai/jobs/info/69871d418da7a61204623507?utm_campaign=1049&utm_source=git)** | St. Louis, MO, USA | Hybrid | Feb 06 |
