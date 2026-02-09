@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talentix](https://thetalentix.com/)** | **[UX Product Designer (Figma Proficiency) - Internship](https://jobright.ai/jobs/info/6989c8a30f6f7e7a2ce4d4fc?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Feb 09 |
+| **[HED](http://hed.design)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/696de121db26b6189510d519?utm_campaign=1049&utm_source=git)** | Detroit Metro | Hybrid | Feb 09 |
+| ↳ | **[Architectural Designer Intern](https://jobright.ai/jobs/info/696de503db26b6189510d5f9?utm_campaign=1049&utm_source=git)** | DFW Metroplex | Hybrid | Feb 09 |
+| ↳ | **[Architectural Designer Intern](https://jobright.ai/jobs/info/696de1c4db26b6189510d540?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | Hybrid | Feb 09 |
+| ↳ | **[Architectural Designer Intern](https://jobright.ai/jobs/info/696de4b3db26b6189510d5e8?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Feb 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 09 |
+| **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/68e02dcab99ec3563b0cce35?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 09 |
+| **[HED](http://hed.design)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/696de19a5fc86241853cad83?utm_campaign=1049&utm_source=git)** | SD Metro Area | Hybrid | Feb 09 |
+| ↳ | **[Architectural Designer Intern](https://jobright.ai/jobs/info/696de4d95fc86241853cae29?utm_campaign=1049&utm_source=git)** | Detroit Metro | Hybrid | Feb 09 |
+| ↳ | **[Architectural Designer Intern](https://jobright.ai/jobs/info/696de7cd350cf4380314acef?utm_campaign=1049&utm_source=git)** | Greater Boston | Hybrid | Feb 09 |
 | **[Autodesk](http://www.autodesk.com)** | **[PhD Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/6918711345fb6f5ead8a55d1?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Corporate Creative Resources Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6989a48a0f6f7e7a2ce4a305?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 09 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Graphic Design Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6980e0577f40342e15d9a76d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 09 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b02f63019f50a4fe60a35?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina, United States | On Site | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69869d7c8da7a61204617a56?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Content Strategy UX Intern](https://jobright.ai/jobs/info/69869bb08da7a612046176f3?utm_campaign=1049&utm_source=git)** | Westlake, TX | Hybrid | Feb 06 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/698698b40f6f7e7a2ce1a17b?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
-| **[Mason & Hanger](http://masonandhanger.com)** | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/6986986d0f6f7e7a2ce1a0f1?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Feb 06 |
-| **[Xylem](https://heimplanet.com/)** | **[Photography and Social Media Intern](https://jobright.ai/jobs/info/698690f00f6f7e7a2ce19481?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 06 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Visual Effects Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69820272c3101f1400c3b148?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 06 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69868af68da7a61204615cc4?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States | Hybrid | Feb 06 |
-| **[HOK](http://www.hok.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/6986a58c0f6f7e7a2ce1b0c9?utm_campaign=1049&utm_source=git)** | Atlanta, GA, USA | Hybrid | Feb 06 |
-| **[Anchor QEA](https://www.anchorqea.com/)** | **[Internship - Landscape Architect](https://jobright.ai/jobs/info/6986abe30f6f7e7a2ce1ba48?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
-| **[Stats Perform](http://statsperform.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/698688410f6f7e7a2ce1899d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
-| **[National Retail Federation](http://www.nrf.com)** | **[Multimedia Design Intern](https://jobright.ai/jobs/info/6986aac80f6f7e7a2ce1b8b0?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
-| **[Handel Architects](http://handelarchitects.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6986b7a18ca8121a3a691653?utm_campaign=1049&utm_source=git)** | New York - New York, NY 10271 US (Primary) | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
