@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Strategi Builder](www.strategibuilder.com)** | **[UX design, web development, and branding/marketing](https://jobright.ai/jobs/info/6989fafe0f6f7e7a2ce50d4b?utm_campaign=1049&utm_source=git)** | Florida, United States | Remote | Feb 09 |
+| **[Xylem](https://heimplanet.com/)** | **[Photography and Social Media Intern](https://jobright.ai/jobs/info/698690f00f6f7e7a2ce19481?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 09 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Interior Design College Intern](https://jobright.ai/jobs/info/6989f8bd0f6f7e7a2ce50c95?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Feb 09 |
+| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Styling Intern](https://jobright.ai/jobs/info/6989f0ed47434001cc682bef?utm_campaign=1049&utm_source=git)** | Lititz, PA | On Site | Feb 09 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Graphic Design Internship - Summer/Fall '26](https://jobright.ai/jobs/info/6989e9cc47434001cc68236a?utm_campaign=1049&utm_source=git)** | 1299 Pennsylvania Avenue, NW, Washington, DC, 20004, US | Hybrid | Feb 09 |
 | **[Stuller, Inc.](http://stuller.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6989e67c4db8972cecff27ee?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Feb 09 |
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Summer Fashion Internship in Paris!](https://jobright.ai/jobs/info/6989e18b47434001cc681493?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ignite Digital](https://ignite-digital.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6986b7c60f6f7e7a2ce1d1ea?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina, United States | On Site | Feb 06 |
 | **[United Way](http://www.unitedway.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6986b7c08da7a6120461a305?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 06 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 06 |
-| **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/6986afa38ca8121a3a690e1d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
-| **[Grand Hotel](http://www.grandhotel.com)** | **[Video & Photo Intern](https://jobright.ai/jobs/info/6986d30a8da7a6120461d849?utm_campaign=1049&utm_source=git)** | Mackinac Island, MI | On Site | Feb 06 |
-| **[Options For All](http://optionsforall.org)** | **[Marketing & Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6986a5ea8ca8121a3a68f91d?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Feb 06 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/6986a2988da7a61204617f08?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
