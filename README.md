@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ms consultants, inc.](https://www.msconsultants.com/)** | **[Architecture Internship - Summer 2026](https://jobright.ai/jobs/info/69837c270f6f7e7a2cdcdb78?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | Feb 09 |
+| **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/691d881cbcdbf3560c9f1993?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Feb 09 |
+| **[Stuller, Inc.](http://stuller.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/6989fd3e4db8972cecff3e66?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Feb 09 |
 | **[Strategi Builder](www.strategibuilder.com)** | **[UX design, web development, and branding/marketing](https://jobright.ai/jobs/info/6989fafe0f6f7e7a2ce50d4b?utm_campaign=1049&utm_source=git)** | Florida, United States | Remote | Feb 09 |
 | **[Xylem](https://heimplanet.com/)** | **[Photography and Social Media Intern](https://jobright.ai/jobs/info/698690f00f6f7e7a2ce19481?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Interior Design College Intern](https://jobright.ai/jobs/info/6989f8bd0f6f7e7a2ce50c95?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Feb 09 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Summer Fashion Internship in Paris!](https://jobright.ai/jobs/info/6989e18b47434001cc681493?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 09 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Graphic Design Internship - Summer/Fall '26](https://jobright.ai/jobs/info/6989db634db8972cecff0db5?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | ↳ | **[Design & Production Internship – Summer/Fall '26](https://jobright.ai/jobs/info/6989d39e47434001cc67fb8e?utm_campaign=1049&utm_source=git)** | Washington, United States | Hybrid | Feb 09 |
-| **[Talentix](https://thetalentix.com/)** | **[UX Product Designer (Figma Proficiency) - Internship](https://jobright.ai/jobs/info/6989c8a30f6f7e7a2ce4d4fc?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Feb 09 |
 | **[HED](http://hed.design)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/696de121db26b6189510d519?utm_campaign=1049&utm_source=git)** | Detroit Metro | Hybrid | Feb 09 |
 | ↳ | **[Architectural Designer Intern](https://jobright.ai/jobs/info/696de503db26b6189510d5f9?utm_campaign=1049&utm_source=git)** | DFW Metroplex | Hybrid | Feb 09 |
 | ↳ | **[Architectural Designer Intern](https://jobright.ai/jobs/info/696de1c4db26b6189510d540?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | Hybrid | Feb 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TriGreen Equipment](http://trigreenequipment.com)** | **[GRAPHIC DESIGN INTERN](https://jobright.ai/jobs/info/69896c5a47434001cc679b21?utm_campaign=1049&utm_source=git)** | Athens, AL | On Site | Feb 06 |
 | **[HOK](http://www.hok.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/6986beb28ca8121a3a692c08?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 06 |
 | **[Ignite Digital](https://ignite-digital.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6986b7c60f6f7e7a2ce1d1ea?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina, United States | On Site | Feb 06 |
-| **[United Way](http://www.unitedway.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6986b7c08da7a6120461a305?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 06 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
