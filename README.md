@@ -124,6 +124,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape/Grounds Management Intern - Summer 2026](https://jobright.ai/jobs/info/6986d0620f6f7e7a2ce201de?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6986d0438da7a6120461d2bd?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 06 |
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 06 |
+| **[TriGreen Equipment](http://trigreenequipment.com)** | **[GRAPHIC DESIGN INTERN](https://jobright.ai/jobs/info/69896c5a47434001cc679b21?utm_campaign=1049&utm_source=git)** | Athens, AL | On Site | Feb 06 |
 | **[HOK](http://www.hok.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/6986beb28ca8121a3a692c08?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 06 |
 | **[Ignite Digital Services](https://ignite-digital.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6986b7c60f6f7e7a2ce1d1ea?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina, United States | On Site | Feb 06 |
 | **[United Way](http://www.unitedway.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6986b7c08da7a6120461a305?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Digital Design, Campaigns & Activations](https://jobright.ai/jobs/info/696ac0ca350cf4380311ceb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/698675bc8da7a61204613fb7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Content Strategy UX Intern](https://jobright.ai/jobs/info/698697208da7a61204616f52?utm_campaign=1049&utm_source=git)** | Hybrid - Texas (Westlake) | Hybrid | Feb 06 |
-| **[Stats Perform](http://statsperform.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698675588da7a61204613f82?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
