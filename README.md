@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KTGY](http://ktgy.com)** | **[Architecture & Sustainability Intern Associate - Summer 2026](https://jobright.ai/jobs/info/6972ee1e0488fd59f7d5e9d3?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 09 |
+| **[Columbia Bank](http://www.columbiabankflorida.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698a4b1a47434001cc687f9d?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Feb 09 |
+| **[UOVO](https://uovo.art/about-us/#about_careers)** | **[Summer Intern - Art](https://jobright.ai/jobs/info/698a3f2847434001cc687400?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/698a3dec47434001cc6872b6?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Feb 09 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture](https://jobright.ai/jobs/info/698a2a8847434001cc6863bd?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Digital Media Intern, Global Human Resources Operations, Summer/Fall 2026](https://jobright.ai/jobs/info/698a28b44db8972cecff6ccf?utm_campaign=1049&utm_source=git)** | Celebration, FL, USA | Hybrid | Feb 09 |
+| **[ZillyPlanet](https://www.zillyplanet.com)** | **[UI/UX Design Intern (Unpaid / Remote / 6-Month Program)](https://jobright.ai/jobs/info/698a474947434001cc687d46?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 09 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Web Design Intern](https://jobright.ai/jobs/info/698a4c484db8972cecff8ae3?utm_campaign=1049&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 09 |
+| ↳ | **[Summer 2026 – Web Design Intern](https://jobright.ai/jobs/info/698a45150f6f7e7a2ce5570c?utm_campaign=1049&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 09 |
+| ↳ | **[Summer 2026 - Graphic Design Intern](https://jobright.ai/jobs/info/698a48914db8972cecff87e7?utm_campaign=1049&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 09 |
+| ↳ | **[Summer 2026 - Graphic Design Intern](https://jobright.ai/jobs/info/698a48f947434001cc687eab?utm_campaign=1049&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 09 |
+| ↳ | **[Summer 2026 - Graphic Design Intern](https://jobright.ai/jobs/info/698a428f4db8972cecff8215?utm_campaign=1049&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 09 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbfa7c93c49825ab108452?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Feb 09 |
 | **[Hudl](http://www.hudl.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/698a1c794db8972cecff5f9e?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Feb 09 |
 | **[WRA Architects, Inc.](https://www.wraarchitects.com)** | **[College Internship - Interior Designer](https://jobright.ai/jobs/info/698a1a470f6f7e7a2ce5309f?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Feb 09 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HOK](http://www.hok.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/698709c60f6f7e7a2ce245cf?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Feb 07 |
 | ↳ | **[Architecture or Interior Design Student Intern - Summer 2026](https://jobright.ai/jobs/info/6987052e8ca8121a3a698a36?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Feb 07 |
 | **[Remilia Corporation](https://remilia.org)** | **[Creative Operations Intern](https://jobright.ai/jobs/info/6986fe840f6f7e7a2ce239f2?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 07 |
-| **[MKG](http://thisismkg.com)** | **[3D Designer Intern](https://jobright.ai/jobs/info/6986ee8a8ca8121a3a69731c?utm_campaign=1049&utm_source=git)** | New York,NY,US | Hybrid | Feb 06 |
-| **[HOK](http://www.hok.com/)** | **[Architecture or Interior Design Student Intern - Summer 2026](https://jobright.ai/jobs/info/6986ffcd8da7a61204620ffb?utm_campaign=1049&utm_source=git)** | Denver, CO, USA | Hybrid | Feb 06 |
-| ↳ | **[Interior Design Student Intern](https://jobright.ai/jobs/info/69871d418da7a61204623507?utm_campaign=1049&utm_source=git)** | St. Louis, MO, USA | Hybrid | Feb 06 |
-| **[MKG](http://thisismkg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6986fb258da7a61204620b19?utm_campaign=1049&utm_source=git)** | New York,NY,US | Hybrid | Feb 06 |
-| **[Ignite Digital](https://ignite-digital.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6986dbcf8ca8121a3a6963d5?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Feb 06 |
-| **[Girl Scouts of Eastern Missouri](https://www.girlscoutsem.org/)** | **[Photography/Videography Intern- Summer 2026](https://jobright.ai/jobs/info/698704d98da7a612046213e6?utm_campaign=1049&utm_source=git)** | Girl Scouts of Eastern Missouri - SAINT LOUIS, MO 63146 | Hybrid | Feb 06 |
-| **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6986d2258ca8121a3a695284?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Feb 06 |
-| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Interactive Design Intern - Summer 2026](https://jobright.ai/jobs/info/6986d1570f6f7e7a2ce20454?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
-| ↳ | **[Landscape/Grounds Management Intern - Summer 2026](https://jobright.ai/jobs/info/6986d0620f6f7e7a2ce201de?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6986d0438da7a6120461d2bd?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
