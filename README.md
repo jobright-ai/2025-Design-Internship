@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Autodesk](http://www.autodesk.com)** | **[PhD Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/6918711345fb6f5ead8a55d1?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 09 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Corporate Creative Resources Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6989a48a0f6f7e7a2ce4a305?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | Hybrid | Feb 09 |
+| **[Affinitiv](http://www.affinitiv.com)** | **[Graphic Design Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6980e0577f40342e15d9a76d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 09 |
+| **[FGM Architects](http://fgmarchitects.com)** | **[Summer Architectural Intern (Reston Region)](https://jobright.ai/jobs/info/69899b620f6f7e7a2ce49e27?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Feb 09 |
+| ↳ | **[Summer Architectural Intern (Chicago Region)](https://jobright.ai/jobs/info/69899b220f6f7e7a2ce49deb?utm_campaign=1049&utm_source=git)** | Westchester, IL | On Site | Feb 09 |
+| ↳ | **[Summer Architectural Intern (Austin Region)](https://jobright.ai/jobs/info/69899b098ca8121a3a6be5b5?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 09 |
+| ↳ | **[Summer Architectural Intern (St. Louis Region)](https://jobright.ai/jobs/info/69899acc47434001cc67bfb9?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 09 |
+| ↳ | **[Summer Interior Design Intern (Chicago Region)](https://jobright.ai/jobs/info/698999ca47434001cc67bf0e?utm_campaign=1049&utm_source=git)** | Westchester, IL | On Site | Feb 09 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Ecommerce Design Intern - Summer 2026](https://jobright.ai/jobs/info/69897bf88ca8121a3a6bd918?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Feb 08 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/68cd0a46e23def7af55b414b?utm_campaign=1049&utm_source=git)** | Latham, NY | On Site | Feb 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711946333b6343a14d8fba?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 08 |
@@ -107,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Industrial Design Intern, Summer 2026](https://jobright.ai/jobs/info/69873a878da7a612046250de?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | Feb 07 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/696eee75350cf4380315e147?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Feb 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Design: Intern Opportunities](https://jobright.ai/jobs/info/698737838da7a61204624fa8?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Feb 07 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Illusion Maker - Surface Development Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/69820014c3101f1400c3afa1?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6959ff03aa05c26e7ab3a81e?utm_campaign=1049&utm_source=git)** | Deerfield, IL | On Site | Feb 07 |
 | **[MKG](http://thisismkg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698710968da7a61204622680?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | ↳ | **[3D Designer Intern](https://jobright.ai/jobs/info/6987104a8da7a612046225dc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stats Perform](http://statsperform.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/698688410f6f7e7a2ce1899d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 06 |
 | **[National Retail Federation](http://www.nrf.com)** | **[Multimedia Design Intern](https://jobright.ai/jobs/info/6986aac80f6f7e7a2ce1b8b0?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
 | **[Handel Architects](http://handelarchitects.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6986b7a18ca8121a3a691653?utm_campaign=1049&utm_source=git)** | New York - New York, NY 10271 US (Primary) | On Site | Feb 06 |
-| **[Remilia Corporation](https://remilia.org)** | **[Creative Operations Intern](https://jobright.ai/jobs/info/6986be9b8da7a6120461aaa8?utm_campaign=1049&utm_source=git)** | Orange County | On Site | Feb 06 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Creative Team Intern](https://jobright.ai/jobs/info/698680548ca8121a3a68ce2b?utm_campaign=1049&utm_source=git)** | Redwood City, CA, United States | On Site | Feb 06 |
-| ↳ | **[NetSuite Creative Team Intern](https://jobright.ai/jobs/info/69867fdf0f6f7e7a2ce17f91?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Feb 06 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69867ec98ca8121a3a68cbd6?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 06 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69837303348f733a5c367aa4?utm_campaign=1049&utm_source=git)** | Midvale, UT | On Site | Feb 06 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Digital Design, Campaigns & Activations](https://jobright.ai/jobs/info/696ac0ca350cf4380311ceb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/698675bc8da7a61204613fb7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
