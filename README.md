@@ -148,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Justice+Civic](https://jobright.ai/jobs/info/698a7aa80f6f7e7a2ce5a1ff?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 09 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Interior Design](https://jobright.ai/jobs/info/698a7a9e4db8972cecffcce8?utm_campaign=1049&utm_source=git)** | Valparaiso, IN | On Site | Feb 09 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Graphic Design Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/698a78124db8972cecffcae9?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 09 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Interior Design Collegiate Intern](https://jobright.ai/jobs/info/6989ef324db8972cecff3762?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Feb 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Graphic Design Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/698a76ff4db8972cecffca4c?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 09 |
 | **[KB Home](http://www.kbhome.com/)** | **[Design Studio Intern](https://jobright.ai/jobs/info/698aa945c5761b521a99f03d?utm_campaign=1049&utm_source=git)** | US-AZ-Tucson | On Site | Feb 09 |
 | ↳ | **[Design Studio Intern](https://jobright.ai/jobs/info/698aa42d0f6f7e7a2ce5d975?utm_campaign=1049&utm_source=git)** | Tucson, AZ, US | On Site | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Product Design Intern (Motion Designer / Illustrator), US](https://jobright.ai/jobs/info/698aab85c5761b521a99f2b4?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | Feb 09 |
 | **[Ad Council](http://adcouncil.org/)** | **[Creative Studio Intern](https://jobright.ai/jobs/info/698a745f4db8972cecffc658?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 09 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6983d6ef348f733a5c374a44?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Feb 09 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/698a6fefc5761b521a99a6ba?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
