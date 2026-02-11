@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/698ce79f0f6f7e7a2ce89895?utm_campaign=1049&utm_source=git)** | Katonah, NY | On Site | Feb 11 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 UX/UI Designer Intern](https://jobright.ai/jobs/info/69543018f1f8465b79eb5283?utm_campaign=1049&utm_source=git)** | Stamford, CT | Hybrid | Feb 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/695a10e3f1f8465b79f06619?utm_campaign=1049&utm_source=git)** | Tucson, AZ | On Site | Feb 11 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/698cc50b0f6f7e7a2ce87cc9?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Feb 11 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/695435faf1f8465b79eb5638?utm_campaign=1049&utm_source=git)** | Stamford, CT | Hybrid | Feb 11 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[North America Category Visuals Intern - Summer 2026](https://jobright.ai/jobs/info/698ce0c20f6f7e7a2ce892fb?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Feb 11 |
+| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Design Internship in Paris.](https://jobright.ai/jobs/info/698cee2cf64d441a164ecb6c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 11 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698cb9320f6f7e7a2ce86d24?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Feb 11 |
 | **[Dometic](https://www.dometic.com)** | **[Creative Intern](https://jobright.ai/jobs/info/698cb856f64d441a164e9d30?utm_campaign=1049&utm_source=git)** | Irvine, CA | Hybrid | Feb 11 |
+| **[UN Environment Programme](http://unep.org/)** | **[PROGRAMME SUPPORT: GRAPHIC AND PUBLICATION DESIGN INTERN](https://jobright.ai/jobs/info/698cec1a0f6f7e7a2ce89bbf?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 11 |
 | **[Ampliwork](https://qlytics.com/)** | **[AI UI/UX Intern](https://jobright.ai/jobs/info/693744561c1c2161c13f2311?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 11 |
 | **[MGIC](https://www.mgic.com)** | **[CX Strategy & Digital Experience Intern](https://jobright.ai/jobs/info/697ee1d87f40342e15d7a381?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 11 |
 | **[Recess Creative](https://www.recesscreative.com/)** | **[Design Intern](https://jobright.ai/jobs/info/698cb191f64d441a164e9739?utm_campaign=1049&utm_source=git)** | Cleveland, OH | Hybrid | Feb 11 |
@@ -80,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design / Video Editor & Blog Marketing Intern](https://jobright.ai/jobs/info/698c90740f6f7e7a2ce847ed?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Feb 11 |
 | **[Lynco Products](http://www.lyncoproducts.net)** | **[Marketing Design Intern - Summer 2026](https://jobright.ai/jobs/info/698cb39ff64d441a164e98f6?utm_campaign=1049&utm_source=git)** | IL - Rock Island - Rock Island, IL 61201 | On Site | Feb 11 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern (May – August 2026)](https://jobright.ai/jobs/info/691bb396bcdbf3560c9e1a01?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 11 |
-| **[Escape™ App AI](https://www.escapeapp.ai)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698c849a0f6f7e7a2ce83979?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938ce47b95c305f206e005a?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Feb 11 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698c94d0f64d441a164e7f77?utm_campaign=1049&utm_source=git)** | Abilene, TX | On Site | Feb 11 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Spring 2026 Full time)](https://jobright.ai/jobs/info/69388ff7b95c305f206dbe1f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 11 |
@@ -109,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Elafiya Health](https://elafiyahealth.com/)** | **[Creative Media Intern](https://jobright.ai/jobs/info/698bfee391fdda424d58bd8d?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Feb 10 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship (Irvine)](https://jobright.ai/jobs/info/696ffd7b82817106e977189c?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 10 |
 | **[Durrett Architects](http://www.cohousingco.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/698c54b878b4502f12a2db6b?utm_campaign=1049&utm_source=git)** | Nevada City, CA | On Site | Feb 10 |
-| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Interior Design Intern (Mississippi State University - Students)](https://jobright.ai/jobs/info/698c467191fdda424d593053?utm_campaign=1049&utm_source=git)** | Birmingham, AL, US | On Site | Feb 10 |
-| ↳ | **[Interior Design Intern (Mississippi State University - Students)](https://jobright.ai/jobs/info/698c35da0f6f7e7a2ce7eb9e?utm_campaign=1049&utm_source=git)** | Mobile, AL, US | On Site | Feb 10 |
+| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Interior Design Intern (Mississippi State University - Students)](https://jobright.ai/jobs/info/698c35da0f6f7e7a2ce7eb9e?utm_campaign=1049&utm_source=git)** | Mobile, AL, US | On Site | Feb 10 |
+| ↳ | **[Interior Design Intern (Mississippi State University - Students)](https://jobright.ai/jobs/info/698c467191fdda424d593053?utm_campaign=1049&utm_source=git)** | Birmingham, AL, US | On Site | Feb 10 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/698c12e90f6f7e7a2ce7a486?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 10 |
 | **[Redscout](http://www.redscout.com)** | **[Design Summer Internship](https://jobright.ai/jobs/info/698c326f0f6f7e7a2ce7e6ed?utm_campaign=1049&utm_source=git)** | New York, UNAVAILABLE, US | On Site | Feb 10 |
 | ↳ | **[Design Summer Internship](https://jobright.ai/jobs/info/698c2340e4f6572f0e442147?utm_campaign=1049&utm_source=git)** | US-New York | On Site | Feb 10 |
@@ -137,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698bc392c5761b521a9b530b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 10 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/698be1640f6f7e7a2ce75d44?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 10 |
 | **[NOBULL](https://www.nobullproject.com/)** | **[Color, Materials & Finish Intern](https://jobright.ai/jobs/info/698bd806c5761b521a9b67d5?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 10 |
-| **[Democratic National Committee](https://democrats.org/)** | **[Summer 2026 DNC Design Internship](https://jobright.ai/jobs/info/698c0cdb91fdda424d58cc06?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
-| ↳ | **[Summer 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/698c340078b4502f12a2b20e?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
+| **[Democratic National Committee](https://democrats.org/)** | **[Summer 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/698c340078b4502f12a2b20e?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
+| ↳ | **[Summer 2026 DNC Design Internship](https://jobright.ai/jobs/info/698c0cdb91fdda424d58cc06?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | **[Architecture Incorporated](https://www.architectureinc.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/698bc23ac5761b521a9b51a7?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Feb 10 |
 | **[PlanetArt](http://www.planetart.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/698bb6d2c5761b521a9b475b?utm_campaign=1049&utm_source=git)** | Calabasas, CA | Hybrid | Feb 10 |
 | ↳ | **[Graphic Design Intern (Ads) - Summer 2026](https://jobright.ai/jobs/info/698baa6cc5761b521a9b3c42?utm_campaign=1049&utm_source=git)** | Calabasas, CA | Hybrid | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Landor](https://landor.com/)** | **[Design Intern](https://jobright.ai/jobs/info/698b95d7c5761b521a9b2558?utm_campaign=1049&utm_source=git)** | Cincinnati | Hybrid | Feb 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Apparel Product Innovation, Global Merch & Accessories (Summer 2026)](https://jobright.ai/jobs/info/698bf7820f6f7e7a2ce77a44?utm_campaign=1049&utm_source=git)** | Hawthorne, California | On Site | Feb 10 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 10 |
-| **[Progressive Companies](http://www.progressiveae.com)** | **[Summer 2026 Interior Design Student Intern](https://jobright.ai/jobs/info/698b6f4606d9b06224958487?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Feb 10 |
-| **[Ravinia Festival](http://ravinia.org)** | **[Visual Media Intern](https://jobright.ai/jobs/info/698b8d39c5761b521a9b1b80?utm_campaign=1049&utm_source=git)** | Highland Park, IL | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
