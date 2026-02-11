@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship (San Diego)](https://jobright.ai/jobs/info/6970134882817106e9772ecc?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Feb 10 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Summer 2026)](https://jobright.ai/jobs/info/698bb6b30f6f7e7a2ce72fbe?utm_campaign=1049&utm_source=git)** | AL, Mobile | On Site | Feb 10 |
 | **[Point B Communications](http://pointbcommunications.com)** | **[Creative Intern](https://jobright.ai/jobs/info/698bb172c5761b521a9b423b?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 10 |
 | **[Slingshot Architecture](https://slingshotarchitecture.com)** | **[Architecture Internship // Des Moines Studio](https://jobright.ai/jobs/info/698baabbc5761b521a9b3cbb?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Feb 10 |
@@ -64,12 +65,17 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/698ba2e206d9b0622495ca58?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 10 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/698b97b1c5761b521a9b2777?utm_campaign=1049&utm_source=git)** | Draper, UT | Hybrid | Feb 10 |
 | **[Southern Champion Tray](http://sctray.com)** | **[Intern - Structural Packaging Design](https://jobright.ai/jobs/info/698bb6b80f6f7e7a2ce72fc3?utm_campaign=1049&utm_source=git)** | Chattanooga, TN, US | On Site | Feb 10 |
+| **[Stantec](http://www.stantec.com)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698bc392c5761b521a9b530b?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 10 |
+| **[Architecture Incorporated](https://www.architectureinc.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/698bc23ac5761b521a9b51a7?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Feb 10 |
 | **[PlanetArt](http://www.planetart.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/698bb6d2c5761b521a9b475b?utm_campaign=1049&utm_source=git)** | Calabasas, CA | Hybrid | Feb 10 |
 | ↳ | **[Graphic Design Intern (Ads) - Summer 2026](https://jobright.ai/jobs/info/698baa6cc5761b521a9b3c42?utm_campaign=1049&utm_source=git)** | Calabasas, CA | Hybrid | Feb 10 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Graphic Design - 2026 Summer Internship](https://jobright.ai/jobs/info/698ba60f0f6f7e7a2ce72044?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 10 |
 | **[McMillan Pazdan Smith Architecture](http://mcmillanpazdansmith.com)** | **[Summer Internship 2026 - West Columbia Studio](https://jobright.ai/jobs/info/698108ed49964d25b5e3d6a7?utm_campaign=1049&utm_source=git)** | West Columbia, SC | On Site | Feb 10 |
+| **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d815935649778e20960e?utm_campaign=1049&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Feb 10 |
+| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/698bc1760f6f7e7a2ce7398a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Feb 10 |
 | **[Architecture Incorporated](https://www.architectureinc.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/698bb8bb0f6f7e7a2ce731c8?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Feb 10 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/698bacca06d9b0622495d662?utm_campaign=1049&utm_source=git)** | Rapid City, SD | On Site | Feb 10 |
+| **[WHIPSAW](http://www.whipsaw.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/698bc9e706d9b0622495f11f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 10 |
 | **[Kenneth Cole Productions](https://www.kennethcole.com/)** | **[Design Services Intern - Summer Internship](https://jobright.ai/jobs/info/698b7f30c5761b521a9b082d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 10 |
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952da87f1f8465b79ea2405?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/69532cc2f1f8465b79ea7edf?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Feb 10 |
@@ -77,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 10 |
 | **[Progressive Companies](http://www.progressiveae.com)** | **[Summer 2026 Interior Design Student Intern](https://jobright.ai/jobs/info/698b6f4606d9b06224958487?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Feb 10 |
 | **[Ravinia Festival](http://ravinia.org)** | **[Visual Media Intern](https://jobright.ai/jobs/info/698b8d39c5761b521a9b1b80?utm_campaign=1049&utm_source=git)** | Highland Park, IL | On Site | Feb 10 |
-| **[MILLY](http://www.milly.com/)** | **[Design Intern](https://jobright.ai/jobs/info/698bbd790f6f7e7a2ce735d8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 10 |
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d694f1f8465b79ea1f75?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 10 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952da7a935649778e209892?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Feb 10 |
 | ↳ | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d803f1f8465b79ea2112?utm_campaign=1049&utm_source=git)** | King of Prussia, PA | On Site | Feb 10 |
@@ -131,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[KB Home](http://www.kbhome.com/)** | **[Design Studio Intern](https://jobright.ai/jobs/info/698aa42d0f6f7e7a2ce5d975?utm_campaign=1049&utm_source=git)** | Tucson, AZ, US | On Site | Feb 09 |
 | ↳ | **[Design Studio Intern](https://jobright.ai/jobs/info/698aa945c5761b521a99f03d?utm_campaign=1049&utm_source=git)** | US-AZ-Tucson | On Site | Feb 09 |
 | **[Pettibone](https://www.gopettibone.com)** | **[Tech Publications Writer Intern - PTL](https://jobright.ai/jobs/info/698a9a2d0f6f7e7a2ce5ced5?utm_campaign=1049&utm_source=git)** | Baraga, Michigan, United States | On Site | Feb 09 |
-| **[Uber](http://www.uber.com)** | **[2026 Product Design Intern (Motion Designer / Illustrator), US](https://jobright.ai/jobs/info/698aab85c5761b521a99f2b4?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | Feb 09 |
-| ↳ | **[2026 Product Design Intern (Motion Designer / Illustrator), US](https://jobright.ai/jobs/info/698a9c390f6f7e7a2ce5d17c?utm_campaign=1049&utm_source=git)** | San Francisco, CA, US | On Site | Feb 09 |
+| **[Uber](http://www.uber.com)** | **[2026 Product Design Intern (Motion Designer / Illustrator), US](https://jobright.ai/jobs/info/698a9c390f6f7e7a2ce5d17c?utm_campaign=1049&utm_source=git)** | San Francisco, CA, US | On Site | Feb 09 |
+| ↳ | **[2026 Product Design Intern (Motion Designer / Illustrator), US](https://jobright.ai/jobs/info/698aab85c5761b521a99f2b4?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | Feb 09 |
 | **[Ad Council](http://adcouncil.org/)** | **[Creative Studio Intern](https://jobright.ai/jobs/info/698a745f4db8972cecffc658?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 09 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6983d6ef348f733a5c374a44?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Feb 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/698a6fefc5761b521a99a6ba?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Feb 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HOK](http://www.hok.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/698a6d604db8972cecffbd18?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Feb 09 |
 | **[WX Brands](http://www.wxbrands.com)** | **[WXperience 2026 Graphic Design Summer Intern Program](https://jobright.ai/jobs/info/698a64cac5761b521a9994f1?utm_campaign=1049&utm_source=git)** | Novato, CA | Hybrid | Feb 09 |
 | **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Capital Program - Summer 2026](https://jobright.ai/jobs/info/69609767a1bbea1d9a7b5ca6?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 09 |
-| **[AVB](http://avbinc.com)** | **[Selections Intern](https://jobright.ai/jobs/info/698a5d9bc5761b521a9984de?utm_campaign=1049&utm_source=git)** | Portage, MI, US | On Site | Feb 09 |
-| **[UOVO](https://uovo.art/about-us/#about_careers)** | **[Summer Intern - Art](https://jobright.ai/jobs/info/698a3f2847434001cc687400?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
-| **[JustFab](https://www.justfab.de)** | **[Creative Video Intern](https://jobright.ai/jobs/info/698a5de60f6f7e7a2ce57fb3?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Feb 09 |
-| ↳ | **[Technical Design Intern](https://jobright.ai/jobs/info/698a5b344db8972cecff9b07?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Feb 09 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/698a3dec47434001cc6872b6?utm_campaign=1049&utm_source=git)** | Fort Collins, CO | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
