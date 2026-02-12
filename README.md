@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Content Designer, Summer 2026 ( Co-op/Internship)- 4 months](https://jobright.ai/jobs/info/698d45ddf64d441a164f4b9c?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 11 |
 | **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/69712505333b6343a14d9636?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Feb 11 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: UX Design Intern (May to August)](https://jobright.ai/jobs/info/698d3749f64d441a164f3562?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Feb 11 |
+| **[Strategic America](https://www.strategicamerica.com)** | **[Creative Internship](https://jobright.ai/jobs/info/698d50810f6f7e7a2ce927d7?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | Hybrid | Feb 11 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Technology & Operations Intern](https://jobright.ai/jobs/info/696ed1d4db26b6189511f24c?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 11 |
 | **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/69711b16333b6343a14d90bf?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Feb 11 |
 | **[Kato.8 Studios](https://www.linkedin.com/company/110918874)** | **[Digital Artist (Branding) - Unpaid Intern](https://jobright.ai/jobs/info/698d139c78b4502f12a39146?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 11 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[J-U-B ENGINEERS, Inc.](http://jub.com)** | **[Landscape Architect Internship](https://jobright.ai/jobs/info/698d295078b4502f12a3b5fd?utm_campaign=1049&utm_source=git)** | Kaysville, UT | On Site | Feb 11 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Design (Summer 2026)](https://jobright.ai/jobs/info/698d2446f64d441a164f1900?utm_campaign=1049&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 11 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[On-Deck Summer Internship - Graphic Design, New Business & Pursuit Support](https://jobright.ai/jobs/info/698cfcdf0f6f7e7a2ce8a905?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
-| **[TruePoint Communications](https://www.truepointagency.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698d2eb178b4502f12a3c013?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 11 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/698d1871f64d441a164f0140?utm_campaign=1049&utm_source=git)** | Lake Forest, CA | On Site | Feb 11 |
 | **[Uline](http://www.uline.com)** | **[Web Production Internship - Summer 2026](https://jobright.ai/jobs/info/69711943333b6343a14d8fb9?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Feb 11 |
 | **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Graphic Design & Digital Media Internship (Remote)](https://jobright.ai/jobs/info/698cf5740f6f7e7a2ce8a24e?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Remote | Feb 11 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Meow Wolf](http://www.meowwolf.com)** | **[Creative Production/Direction Internship](https://jobright.ai/jobs/info/698c09f991fdda424d58c8e4?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 10 |
 | **[Breeze Airways™](https://www.flybreeze.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/698c2b8e0f6f7e7a2ce7de94?utm_campaign=1049&utm_source=git)** | Cottonwood Heights, Utah, United States | On Site | Feb 10 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Interior Design Intern (Mississippi State University - Students)](https://jobright.ai/jobs/info/698c378a91fdda424d591cd2?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Feb 10 |
-| **[Quiddity](https://quiddity.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69703e30587dfa0bb55dc142?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Feb 10 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship (Kansas City)](https://jobright.ai/jobs/info/696fff8c0f4e0f657ea45d7c?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 10 |
 | **[Meow Wolf](http://www.meowwolf.com)** | **[Art Team Internship](https://jobright.ai/jobs/info/698c2abde4f6572f0e44485d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 10 |
 | ↳ | **[Art Installation Internship](https://jobright.ai/jobs/info/698c239f0f6f7e7a2ce7b9b5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 10 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/698be18106d9b06224960de5?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 10 |
+| **[EG America](https://www.eg-america.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698be093c5761b521a9b7379?utm_campaign=1049&utm_source=git)** | Westborough, MA | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
