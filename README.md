@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939bfdeac80bb5492bc4707?utm_campaign=1049&utm_source=git)** | Walnut Creek, CA | Hybrid | Feb 12 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939c48bac80bb5492bc4a5a?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Feb 12 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Industrial Design Intern 2026](https://jobright.ai/jobs/info/698ddcba0f6f7e7a2ce9dd5b?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Feb 12 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6988365c0f6f7e7a2ce3783b?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Graphic Design Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/698a76ff4db8972cecffca4c?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 12 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: UX Design Intern (May to August)](https://jobright.ai/jobs/info/698da9aa78b4502f12a463db?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Feb 12 |
 | **[Strategic America](https://www.strategicamerica.com)** | **[Creative Internship](https://jobright.ai/jobs/info/698da9870f6f7e7a2ce99c78?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | Hybrid | Feb 11 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69702c2c587dfa0bb55dae21?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 11 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/698d8c370f6f7e7a2ce976c3?utm_campaign=1049&utm_source=git)** | USA-NY-New York | Hybrid | Feb 11 |
-| ↳ | **[Design & Marketing Intern](https://jobright.ai/jobs/info/698d91f9f64d441a164fb695?utm_campaign=1049&utm_source=git)** | NY-New York, UNAVAILABLE, USA | Hybrid | Feb 11 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/698d91f9f64d441a164fb695?utm_campaign=1049&utm_source=git)** | NY-New York, UNAVAILABLE, USA | Hybrid | Feb 11 |
+| ↳ | **[Design & Marketing Intern](https://jobright.ai/jobs/info/698d8c370f6f7e7a2ce976c3?utm_campaign=1049&utm_source=git)** | USA-NY-New York | Hybrid | Feb 11 |
 | ↳ | **[Design & Marketing Intern](https://jobright.ai/jobs/info/698d8eb80f6f7e7a2ce979a0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/698d7b92f64d441a164f93a8?utm_campaign=1049&utm_source=git)** | Ontario, Canada | On Site | Feb 11 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b5b333b6343a14d90e7?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | Hybrid | Feb 11 |
@@ -128,13 +130,13 @@ For a complete list, click the following sortable link below:
 | **[Summit Golf Brands](http://www.summitgolfbrands.com)** | **[Summer Design Internship](https://jobright.ai/jobs/info/698da69f78b4502f12a4602e?utm_campaign=1049&utm_source=git)** | 437 5th Avenue 9th floor, New York, NY, USA | On Site | Feb 11 |
 | **[Garver](https://garverusa.com/)** | **[Federal Intern - Landscape Architecture](https://jobright.ai/jobs/info/68ad1426daf1431824c9a40d?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Feb 11 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/691c997122a2cb4b9bd1b9be?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 11 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[Content Design Intern](https://jobright.ai/jobs/info/698d1118f64d441a164ef376?utm_campaign=1049&utm_source=git)** | 2930 W Maple St | On Site | Feb 11 |
-| ↳ | **[Content Design Intern](https://jobright.ai/jobs/info/698d1b6e78b4502f12a3a1bd?utm_campaign=1049&utm_source=git)** | Sioux Falls, South Dakota (SD) | On Site | Feb 11 |
+| **[Performance Food Group](http://www.pfgc.com)** | **[Content Design Intern](https://jobright.ai/jobs/info/698d1b6e78b4502f12a3a1bd?utm_campaign=1049&utm_source=git)** | Sioux Falls, South Dakota (SD) | On Site | Feb 11 |
+| ↳ | **[Content Design Intern](https://jobright.ai/jobs/info/698d1118f64d441a164ef376?utm_campaign=1049&utm_source=git)** | 2930 W Maple St | On Site | Feb 11 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/698d3ddaf64d441a164f42a3?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Feb 11 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/695435faf1f8465b79eb5638?utm_campaign=1049&utm_source=git)** | Stamford, CT | Hybrid | Feb 11 |
 | **[PFG Manufacturing](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=26350&siteid=6930#Division=Mountain%20Manufacturing&keyWordSearch=&locationSearch=)** | **[Content Design Intern](https://jobright.ai/jobs/info/698cfc6078b4502f12a36f28?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD | On Site | Feb 11 |
-| **[Jabil](https://www.jabil.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698cf8cb78b4502f12a36c2a?utm_campaign=1049&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 11 |
-| ↳ | **[Video Production and Multimedia Intern ](https://jobright.ai/jobs/info/698d151ef64d441a164efae1?utm_campaign=1049&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 11 |
+| **[Jabil](https://www.jabil.com)** | **[Video Production and Multimedia Intern ](https://jobright.ai/jobs/info/698d151ef64d441a164efae1?utm_campaign=1049&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 11 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/698cf8cb78b4502f12a36c2a?utm_campaign=1049&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 11 |
 | **[Dometic](https://www.dometic.com)** | **[Creative Intern](https://jobright.ai/jobs/info/698cb856f64d441a164e9d30?utm_campaign=1049&utm_source=git)** | Irvine, CA | Hybrid | Feb 11 |
 | **[UN Environment Programme](http://unep.org/)** | **[PROGRAMME SUPPORT: GRAPHIC AND PUBLICATION DESIGN INTERN](https://jobright.ai/jobs/info/698cec1a0f6f7e7a2ce89bbf?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 11 |
 | **[Ampliwork](https://qlytics.com/)** | **[AI UI/UX Intern](https://jobright.ai/jobs/info/693744561c1c2161c13f2311?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lynco Products](http://www.lyncoproducts.net)** | **[Marketing Design Intern - Summer 2026](https://jobright.ai/jobs/info/698cb39ff64d441a164e98f6?utm_campaign=1049&utm_source=git)** | IL - Rock Island - Rock Island, IL 61201 | On Site | Feb 11 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern (May – August 2026)](https://jobright.ai/jobs/info/691bb396bcdbf3560c9e1a01?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6938ce47b95c305f206e005a?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Feb 11 |
-| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698c94d0f64d441a164e7f77?utm_campaign=1049&utm_source=git)** | Abilene, TX | On Site | Feb 11 |
-| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Spring 2026 Full time)](https://jobright.ai/jobs/info/69388ff7b95c305f206dbe1f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
