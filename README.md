@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern - Art Director](https://jobright.ai/jobs/info/698f26240f6f7e7a2ceb3578?utm_campaign=1049&utm_source=git)** | Miami, FL, US | Hybrid | Feb 13 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Interior Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/6972becb584a1c1ef6fdd08f?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Feb 13 |
 | **[Sectra](http://www.sectra.com)** | **[Summer Internship Program - Marketing (Graphic Design)](https://jobright.ai/jobs/info/698f0df36ea51a7610f12ee9?utm_campaign=1049&utm_source=git)** | Shelton, CT | On Site | Feb 13 |
+| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/694b160d4b53a1551f94cef8?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Feb 13 |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Graphic Coordinator Intern - Chicago Region 2026](https://jobright.ai/jobs/info/698f1b630cc8ea15f1d97abf?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
+| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Marketing and Brand Intern](https://jobright.ai/jobs/info/698f1dce0cc8ea15f1d98013?utm_campaign=1049&utm_source=git)** | USA, United States | On Site | Feb 12 |
+| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Graphic Design - Summer 2026](https://jobright.ai/jobs/info/6972e57f98522904c697b946?utm_campaign=1049&utm_source=git)** | Brillion, WI | On Site | Feb 12 |
+| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Marketing and Brand Intern](https://jobright.ai/jobs/info/698f24d46ea51a7610f15b86?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/6972e3e71d55d64a20534734?utm_campaign=1049&utm_source=git)** | Newton, MA | Hybrid | Feb 12 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/6972860d9b83b424830e76aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Feb 12 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971240951f7264771835904?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 12 |
@@ -126,10 +132,10 @@ For a complete list, click the following sortable link below:
 | **[Spencer's](http://www.spencersonline.com/)** | **[Creative Services Summer Internship 2026](https://jobright.ai/jobs/info/698e6c3d0f6f7e7a2cea7ac8?utm_campaign=1049&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 12 |
 | **[Ad Council](http://adcouncil.org/)** | **[Creative Studio Intern](https://jobright.ai/jobs/info/698a745f4db8972cecffc658?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 12 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Design Engineering Intern, Advanced Development (May to August)](https://jobright.ai/jobs/info/698808328ca8121a3a6a8179?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Feb 12 |
-| **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/698e2d5478b4502f12a4f82c?utm_campaign=1049&utm_source=git)** | Franklin, TN | On Site | Feb 12 |
-| ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/698e2db4f64d441a165068ea?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Feb 12 |
-| **[SGA Design Group](https://sgadesigngroup.com/)** | **[Summer Intern - SGA Design Group](https://jobright.ai/jobs/info/698e26490f6f7e7a2cea3470?utm_campaign=1049&utm_source=git)** | Bentonville, AR, US | On Site | Feb 12 |
-| ↳ | **[Summer Intern - SGA Design Group](https://jobright.ai/jobs/info/698e27a978b4502f12a4f229?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 12 |
+| **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/698e2db4f64d441a165068ea?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Feb 12 |
+| ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/698e2d5478b4502f12a4f82c?utm_campaign=1049&utm_source=git)** | Franklin, TN | On Site | Feb 12 |
+| **[SGA Design Group](https://sgadesigngroup.com/)** | **[Summer Intern - SGA Design Group](https://jobright.ai/jobs/info/698e27a978b4502f12a4f229?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 12 |
+| ↳ | **[Summer Intern - SGA Design Group](https://jobright.ai/jobs/info/698e26490f6f7e7a2cea3470?utm_campaign=1049&utm_source=git)** | Bentonville, AR, US | On Site | Feb 12 |
 | **[Stantec](http://www.stantec.com)** | **[ACE Mentorship Intern](https://jobright.ai/jobs/info/698e221c0f6f7e7a2cea2f8a?utm_campaign=1049&utm_source=git)** | 224 South Michigan Avenue Suite 1400, Chicago, IL, 60604, US | On Site | Feb 12 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Creative Development & Inclusive Strategy Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698e1d6ef64d441a165056ca?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Feb 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Summer 2026 - Brand Design - Seattle](https://jobright.ai/jobs/info/6981720babff4c399aa06f66?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 12 |
 | **[Events DC](http://eventsdc.com)** | **[Intern (Casual)](https://jobright.ai/jobs/info/698dd54878b4502f12a4971e?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 12 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Graphic Design Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6980e0577f40342e15d9a76d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 12 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: UX Design Intern (May to August)](https://jobright.ai/jobs/info/698da9aa78b4502f12a463db?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Feb 12 |
-| **[Strategic America](https://www.strategicamerica.com)** | **[Creative Internship](https://jobright.ai/jobs/info/698da9870f6f7e7a2ce99c78?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | Hybrid | Feb 11 |
-| **[SmithGroup](https://www.smithgroup.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69702c2c587dfa0bb55dae21?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 11 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/698d91f9f64d441a164fb695?utm_campaign=1049&utm_source=git)** | NY-New York, UNAVAILABLE, USA | Hybrid | Feb 11 |
-| ↳ | **[Design & Marketing Intern](https://jobright.ai/jobs/info/698d8c370f6f7e7a2ce976c3?utm_campaign=1049&utm_source=git)** | USA-NY-New York | Hybrid | Feb 11 |
-| ↳ | **[Design & Marketing Intern](https://jobright.ai/jobs/info/698d8eb80f6f7e7a2ce979a0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
