@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6990b4126ea51a7610f337e1?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 14 |
+| **[Lyft](https://www.lyft.com/)** | **[Architecture Design Intern (Summer 2026)](https://jobright.ai/jobs/info/693b6c67d4054a2bc0255bd3?utm_campaign=1049&utm_source=git)** | San Francisco County, CA | Hybrid | Feb 14 |
 | **[FGM Architects](http://fgmarchitects.com)** | **[Summer Architectural Intern (Chicago Region)](https://jobright.ai/jobs/info/69899b220f6f7e7a2ce49deb?utm_campaign=1049&utm_source=git)** | Westchester, IL | On Site | Feb 14 |
 | **[AARP](http://www.aarp.org)** | **[Design Thinking and Product Intern](https://jobright.ai/jobs/info/6973cb6437785856350d9d22?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 14 |
 | **[EviaRx](Evia-rx.com)** | **[EviaRx™ Social Media Intern - Design Specialist](https://jobright.ai/jobs/info/6990a60e0cc8ea15f1db5a18?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Feb 14 |
@@ -112,8 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Cogir Senior Living](https://www.cogirseniorliving.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699014076ea51a7610f27e7c?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Feb 13 |
 | **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/698fc9936ea51a7610f23625?utm_campaign=1049&utm_source=git)** | USA-MI - Michigan Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc83a6ea51a7610f23549?utm_campaign=1049&utm_source=git)** | USA-TX - Dallas Office | Hybrid | Feb 13 |
-| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698ff3086ea51a7610f255f6?utm_campaign=1049&utm_source=git)** | Olympia Fields, IL | On Site | Feb 13 |
-| **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/698fc70c0cc8ea15f1da65a2?utm_campaign=1049&utm_source=git)** | USA-FL - Florida Remote | Remote | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc70c0cc8ea15f1da65a2?utm_campaign=1049&utm_source=git)** | USA-FL - Florida Remote | Remote | Feb 13 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer UX Research Internship](https://jobright.ai/jobs/info/698ff7ee6ea51a7610f25ad0?utm_campaign=1049&utm_source=git)** | Woodland Hills, CA, United States | Hybrid | Feb 13 |
 | **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/698fc5f20cc8ea15f1da646c?utm_campaign=1049&utm_source=git)** | USA-IA - Iowa Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc5eb6ea51a7610f23383?utm_campaign=1049&utm_source=git)** | USA-VT - Vermont Remote | Remote | Feb 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Strategic America](https://www.strategicamerica.com)** | **[Creative Intern](https://jobright.ai/jobs/info/698fe3bb6ea51a7610f248c4?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | Hybrid | Feb 13 |
 | **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/698fbb716ea51a7610f226c4?utm_campaign=1049&utm_source=git)** | USA-IL - Illinois Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fbb4c0f6f7e7a2cec0777?utm_campaign=1049&utm_source=git)** | USA-AK - Alaska Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fbb2e6ea51a7610f22655?utm_campaign=1049&utm_source=git)** | USA-AL - Alabama Remote | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
