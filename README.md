@@ -58,10 +58,29 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Architecture Intern (Clemson University - Students)](https://jobright.ai/jobs/info/6990041c0f6f7e7a2cec56a9?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Feb 13 |
+| **[TBNR Productions](https://firejobs.gg)** | **[Creative Writer Intern](https://jobright.ai/jobs/info/69901d2a0cc8ea15f1dac443?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 13 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Content Design Intern](https://jobright.ai/jobs/info/699023d60cc8ea15f1dacb30?utm_campaign=1049&utm_source=git)** | San Mateo, CA | Hybrid | Feb 13 |
+| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern (University of Georgia- Students)](https://jobright.ai/jobs/info/69900f5b0cc8ea15f1dab760?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer UX Research Internship](https://jobright.ai/jobs/info/698fea340cc8ea15f1da828c?utm_campaign=1049&utm_source=git)** | California, United States | Hybrid | Feb 13 |
-| **[PGAL](http://pgal.com)** | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699007676ea51a7610f2756d?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Feb 13 |
+| **[PGAL](http://pgal.com)** | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69900c0d6ea51a7610f278be?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69901cb80cc8ea15f1dac3d4?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69900d090f6f7e7a2cec5f18?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699015a76ea51a7610f27fef?utm_campaign=1049&utm_source=git)** | Hoboken, NJ | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69901d370f6f7e7a2cec6e0b?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699011f10cc8ea15f1dab993?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699012030f6f7e7a2cec63ba?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699013c90cc8ea15f1dabb7c?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699007676ea51a7610f2756d?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Feb 13 |
+| ↳ | **[Summer Internship- Architecture](https://jobright.ai/jobs/info/699014b36ea51a7610f27f04?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699009f50cc8ea15f1dab20e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
+| **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/69900b570f6f7e7a2cec5d72?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 13 |
+| **[Petite Plume](https://www.petite-plume.com/)** | **[Design Internship](https://jobright.ai/jobs/info/699017030f6f7e7a2cec6878?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
+| ↳ | **[Creative Brand & Content Internship](https://jobright.ai/jobs/info/6990092b0f6f7e7a2cec5b38?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Video and Photo Intern](https://jobright.ai/jobs/info/698fdfd90f6f7e7a2cec25fe?utm_campaign=1049&utm_source=git)** | Olympia Fields, IL | On Site | Feb 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Central Engineering UX/UI](https://jobright.ai/jobs/info/698fddcb0f6f7e7a2cec2436?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
+| **[Tech Economy](https://techeconomy.net/)** | **[Strategic Design Intern – Summer 2026](https://jobright.ai/jobs/info/69901ea20f6f7e7a2cec6f67?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Feb 13 |
+| **[FatCat Strategies](https://fatcatstrategies.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69900ebf6ea51a7610f27ad2?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Feb 13 |
+| **[Cogir Senior Living](https://www.cogirseniorliving.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699014076ea51a7610f27e7c?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Feb 13 |
 | **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/698fc9936ea51a7610f23625?utm_campaign=1049&utm_source=git)** | USA-MI - Michigan Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc83a6ea51a7610f23549?utm_campaign=1049&utm_source=git)** | USA-TX - Dallas Office | Hybrid | Feb 13 |
 | **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698ff3086ea51a7610f255f6?utm_campaign=1049&utm_source=git)** | Olympia Fields, IL | On Site | Feb 13 |
@@ -92,10 +111,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc0780cc8ea15f1da5e0e?utm_campaign=1049&utm_source=git)** | USA-NV - Las Vegas Office | Hybrid | Feb 13 |
 | **[Engrain](http://engrain.com/)** | **[Product Intern, Innovation (Full-Time)](https://jobright.ai/jobs/info/698ff2c90f6f7e7a2cec3828?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | Feb 13 |
 | **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Video and Photo Intern](https://jobright.ai/jobs/info/698fe8c50cc8ea15f1da8147?utm_campaign=1049&utm_source=git)** | Olympia Fields,IL,US | On Site | Feb 13 |
-| **[PGAL](http://pgal.com)** | **[Summer Internship- Architecture](https://jobright.ai/jobs/info/698fdc210cc8ea15f1da727d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 13 |
 | **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/698fbf210f6f7e7a2cec0b8b?utm_campaign=1049&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fbee46ea51a7610f229f7?utm_campaign=1049&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fbe810cc8ea15f1da5bd9?utm_campaign=1049&utm_source=git)** | USA-FL - Naples Office | Hybrid | Feb 13 |
+| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern (University of Georgia- Students)](https://jobright.ai/jobs/info/69900c670cc8ea15f1dab48a?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Feb 13 |
 | **[TBNR Productions](https://firejobs.gg)** | **[Creative Writer Intern](https://jobright.ai/jobs/info/698fde910f6f7e7a2cec250d?utm_campaign=1049&utm_source=git)** | Dallas, Texas, United States, Remote | Remote | Feb 13 |
 | **[OVERLAND Partners](http://www.overlandpartners.com)** | **[Student Intern 2026](https://jobright.ai/jobs/info/698fe21f0cc8ea15f1da7c0c?utm_campaign=1049&utm_source=git)** | Texas | On Site | Feb 13 |
 | **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/698fbe050f6f7e7a2cec0a0c?utm_campaign=1049&utm_source=git)** | USA-CA - Larkspur Office (SF) | Hybrid | Feb 13 |
@@ -117,19 +136,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fb90a0f6f7e7a2cec04d8?utm_campaign=1049&utm_source=git)** | USA-SC - Columbia Office | Hybrid | Feb 13 |
 | **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - Central Engineering UX/UI](https://jobright.ai/jobs/info/698fe54a0f6f7e7a2cec2ae0?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Design Intern](https://jobright.ai/jobs/info/698fb0650cc8ea15f1da49e1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 13 |
-| **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/698fcf710cc8ea15f1da6aea?utm_campaign=1049&utm_source=git)** | USA-ID - Idaho Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd20e0f6f7e7a2cec1c90?utm_campaign=1049&utm_source=git)** | USA-CA - California Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd27f0cc8ea15f1da6ce8?utm_campaign=1049&utm_source=git)** | USA-MA - Boston Office | Hybrid | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcf710cc8ea15f1da6ae8?utm_campaign=1049&utm_source=git)** | USA-CA - San Francisco Office (VCCP) | Hybrid | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcbe20f6f7e7a2cec186d?utm_campaign=1049&utm_source=git)** | USA-IN - Indiana Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd03a0f6f7e7a2cec1b5c?utm_campaign=1049&utm_source=git)** | USA-IL - Chicago Office | Hybrid | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcb9f0f6f7e7a2cec182b?utm_campaign=1049&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd1aa0cc8ea15f1da6c5a?utm_campaign=1049&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd2ba0cc8ea15f1da6d0f?utm_campaign=1049&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcd6e6ea51a7610f238b6?utm_campaign=1049&utm_source=git)** | USA-CT - Monroe Office | Hybrid | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fce040cc8ea15f1da69ee?utm_campaign=1049&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Feb 13 |
+| **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/698fcefe0cc8ea15f1da6aa9?utm_campaign=1049&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcf710cc8ea15f1da6aea?utm_campaign=1049&utm_source=git)** | USA-ID - Idaho Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcf5d0f6f7e7a2cec1ad3?utm_campaign=1049&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcefe0cc8ea15f1da6aa9?utm_campaign=1049&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd1aa0cc8ea15f1da6c5a?utm_campaign=1049&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd20e0f6f7e7a2cec1c90?utm_campaign=1049&utm_source=git)** | USA-CA - California Remote | Remote | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd03a0f6f7e7a2cec1b5c?utm_campaign=1049&utm_source=git)** | USA-IL - Chicago Office | Hybrid | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fce040cc8ea15f1da69ee?utm_campaign=1049&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcf710cc8ea15f1da6ae8?utm_campaign=1049&utm_source=git)** | USA-CA - San Francisco Office (VCCP) | Hybrid | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcd6e6ea51a7610f238b6?utm_campaign=1049&utm_source=git)** | USA-CT - Monroe Office | Hybrid | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcbe20f6f7e7a2cec186d?utm_campaign=1049&utm_source=git)** | USA-IN - Indiana Remote | Remote | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcb9f0f6f7e7a2cec182b?utm_campaign=1049&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd27f0cc8ea15f1da6ce8?utm_campaign=1049&utm_source=git)** | USA-MA - Boston Office | Hybrid | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd2ba0cc8ea15f1da6d0f?utm_campaign=1049&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Feb 13 |
 | **[137Ewes Productions](http://www.137ewes.com)** | **[Summer Intern - 2D Hand-Drawn Animation - For Credit](https://jobright.ai/jobs/info/698fc8886ea51a7610f23574?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Design Intern](https://jobright.ai/jobs/info/698fbef66ea51a7610f22a0b?utm_campaign=1049&utm_source=git)** | Palo Alto, CA or Bellevue, WA | Hybrid | Feb 13 |
 | **[Bain & Company](https://www.bain.com)** | **[Strategic Design Intern – Summer 2026](https://jobright.ai/jobs/info/698fbc090cc8ea15f1da5905?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 13 |
@@ -138,23 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/698f8dcd0f6f7e7a2cebd129?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Feb 13 |
 | **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698fa3476ea51a7610f20c0e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 13 |
-| **[Leviton](https://www.leviton.com)** | **[Intern, Packaging Design](https://jobright.ai/jobs/info/698f82a80f6f7e7a2cebc035?utm_campaign=1049&utm_source=git)** | Melville, NY | On Site | Feb 13 |
-| **[Sound Transit](https://www.soundtransit.org)** | **[Video/Photo Intern - Summer 2026](https://jobright.ai/jobs/info/698f79a70f6f7e7a2cebb211?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
-| **[Kids in the Game](http://kidsinthegame.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/698f9e7f6ea51a7610f20597?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[OTTera, Inc.](http://www.ottera.tv/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698f9f106ea51a7610f20699?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdcd10ab3b222462af360?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 13 |
-| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Events & Experiences Intern, Graphic Design (2D)](https://jobright.ai/jobs/info/698f8e250cc8ea15f1da2082?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| **[PGAL](http://pgal.com)** | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/698f95946ea51a7610f1f93c?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 13 |
-| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/698f9d880f6f7e7a2cebe77c?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 13 |
-| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/698fb9110cc8ea15f1da56b0?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 13 |
-| **[American Management Association](http://www.amanet.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697064f651f726477182b63f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[Connecticut Innovations](http://www.ctinnovations.com)** | **[UX Design Summer Internship](https://jobright.ai/jobs/info/698f56860cc8ea15f1d9d8ef?utm_campaign=1049&utm_source=git)** | New Haven, CT | On Site | Feb 13 |
-| **[BioSpace](http://www.biospace.com/)** | **[Internship - Space Planning](https://jobright.ai/jobs/info/698f55e40f6f7e7a2ceb84ff?utm_campaign=1049&utm_source=git)** | Lexington, MA | On Site | Feb 13 |
-| **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 13 |
-| **[Stantec](http://www.stantec.com)** | **[Architectural Design Intern - Buildings, Government Services (Summer 2026)](https://jobright.ai/jobs/info/698f941e0cc8ea15f1da28b4?utm_campaign=1049&utm_source=git)** | 3001 Washington Boulevard Suite 500, Arlington, VA, 22201, US | On Site | Feb 13 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/69851f2e0f6f7e7a2cdfa89a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711a15333b6343a14d9012?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Feb 13 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/6968330a639b452fb57dcdbf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[UX/UI Designer Intern (Remote)](https://jobright.ai/jobs/info/698f3de30f6f7e7a2ceb61c5?utm_campaign=1049&utm_source=git)** | Coldwater, MI | Remote | Feb 13 |
-| **[SJ Group](http://www.surbanajurong.com/)** | **[Summer Architectural Intern](https://jobright.ai/jobs/info/698f5fa86ea51a7610f1b011?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
