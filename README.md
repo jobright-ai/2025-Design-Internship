@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fd70582817106e976db0c?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Feb 14 |
+| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6966b3457a34f539205531cb?utm_campaign=1049&utm_source=git)** | Greenville, South Carolina, United States | On Site | Feb 14 |
+| **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Interior Design](https://jobright.ai/jobs/info/69742bc1bc8e722e7b1921b5?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Feb 14 |
+| **[World Merit](https://platform.worldmerit.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69909d076ea51a7610f31b14?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 14 |
+| **[SmithGroup](https://www.smithgroup.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/697426d2206da320f49e4925?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 14 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Aviation Student Intern - Interior Design](https://jobright.ai/jobs/info/697439d837785856350e345e?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Feb 14 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69583c589f1b381eb271270b?utm_campaign=1049&utm_source=git)** | Honolulu, HI | Hybrid | Feb 14 |
-| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Video and Photo Intern](https://jobright.ai/jobs/info/699096276ea51a7610f319c2?utm_campaign=1049&utm_source=git)** | Olympia Fields, IL | On Site | Feb 14 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/6974317cbc8e722e7b1927f1?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Feb 14 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Experience Design - Summer 2026 - Northwest Region](https://jobright.ai/jobs/info/699087c30cc8ea15f1db4cbb?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
 | **[David Baker Architects](https://www.dbarchitect.com/)** | **[Architectural Intern 2026](https://jobright.ai/jobs/info/699086586ea51a7610f30f86?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fbaa56ea51a7610f225a5?utm_campaign=1049&utm_source=git)** | USA-TX - San Antonio Office | Hybrid | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fba7f6ea51a7610f2256d?utm_campaign=1049&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fba276ea51a7610f224e2?utm_campaign=1049&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fb9ff6ea51a7610f2249f?utm_campaign=1049&utm_source=git)** | USA-SC - Charleston Office | Hybrid | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fb9e90f6f7e7a2cec0601?utm_campaign=1049&utm_source=git)** | USA-NY - New York City Office (Lafayette Street) | Hybrid | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fb90a0f6f7e7a2cec04d8?utm_campaign=1049&utm_source=git)** | USA-SC - Columbia Office | Hybrid | Feb 13 |
-| **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - Central Engineering UX/UI](https://jobright.ai/jobs/info/698fe54a0f6f7e7a2cec2ae0?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
