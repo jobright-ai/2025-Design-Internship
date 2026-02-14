@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gresham Smith](http://www.greshamsmith.com)** | **[Aviation Student Intern - Interior Design](https://jobright.ai/jobs/info/697439d837785856350e345e?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Feb 14 |
+| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69583c589f1b381eb271270b?utm_campaign=1049&utm_source=git)** | Honolulu, HI | Hybrid | Feb 14 |
+| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Video and Photo Intern](https://jobright.ai/jobs/info/699096276ea51a7610f319c2?utm_campaign=1049&utm_source=git)** | Olympia Fields, IL | On Site | Feb 14 |
+| **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/6974317cbc8e722e7b1927f1?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Feb 14 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Experience Design - Summer 2026 - Northwest Region](https://jobright.ai/jobs/info/699087c30cc8ea15f1db4cbb?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
+| **[David Baker Architects](https://www.dbarchitect.com/)** | **[Architectural Intern 2026](https://jobright.ai/jobs/info/699086586ea51a7610f30f86?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Filming, Photography Internship](https://jobright.ai/jobs/info/699086090cc8ea15f1db4c07?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 14 |
+| **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/6973ed40bc8e722e7b18cfae?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6973dd63206da320f49dd647?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Feb 14 |
 | **[Berners Schober](https://bernersschober.com/)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/69741fd7206da320f49e4134?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Feb 14 |
@@ -82,15 +90,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699015a76ea51a7610f27fef?utm_campaign=1049&utm_source=git)** | Hoboken, NJ | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69901d370f6f7e7a2cec6e0b?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699011f10cc8ea15f1dab993?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 13 |
-| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699013c90cc8ea15f1dabb7c?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699012030f6f7e7a2cec63ba?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699013c90cc8ea15f1dabb7c?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699007676ea51a7610f2756d?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Feb 13 |
 | ↳ | **[Summer Internship- Architecture](https://jobright.ai/jobs/info/699014b36ea51a7610f27f04?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699009f50cc8ea15f1dab20e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
 | **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/69900b570f6f7e7a2cec5d72?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 13 |
 | **[Petite Plume](https://www.petite-plume.com/)** | **[Design Internship](https://jobright.ai/jobs/info/699017030f6f7e7a2cec6878?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | ↳ | **[Creative Brand & Content Internship](https://jobright.ai/jobs/info/6990092b0f6f7e7a2cec5b38?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
-| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Video and Photo Intern](https://jobright.ai/jobs/info/698fdfd90f6f7e7a2cec25fe?utm_campaign=1049&utm_source=git)** | Olympia Fields, IL | On Site | Feb 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Central Engineering UX/UI](https://jobright.ai/jobs/info/698fddcb0f6f7e7a2cec2436?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[Tech Economy](https://techeconomy.net/)** | **[Strategic Design Intern – Summer 2026](https://jobright.ai/jobs/info/69901ea20f6f7e7a2cec6f67?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Feb 13 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Experience Design - Summer 2026 - Northwest Region](https://jobright.ai/jobs/info/6990339e0f6f7e7a2ceca12d?utm_campaign=1049&utm_source=git)** | San Francisco, CA, US | On Site | Feb 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fb9e90f6f7e7a2cec0601?utm_campaign=1049&utm_source=git)** | USA-NY - New York City Office (Lafayette Street) | Hybrid | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fb90a0f6f7e7a2cec04d8?utm_campaign=1049&utm_source=git)** | USA-SC - Columbia Office | Hybrid | Feb 13 |
 | **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - Central Engineering UX/UI](https://jobright.ai/jobs/info/698fe54a0f6f7e7a2cec2ae0?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| **[Typeface](https://www.typeface.ai)** | **[Product Design Intern](https://jobright.ai/jobs/info/698fb0650cc8ea15f1da49e1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 13 |
-| **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/698fd20e0f6f7e7a2cec1c90?utm_campaign=1049&utm_source=git)** | USA-CA - California Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd2ba0cc8ea15f1da6d0f?utm_campaign=1049&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd03a0f6f7e7a2cec1b5c?utm_campaign=1049&utm_source=git)** | USA-IL - Chicago Office | Hybrid | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcf710cc8ea15f1da6ae8?utm_campaign=1049&utm_source=git)** | USA-CA - San Francisco Office (VCCP) | Hybrid | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fd27f0cc8ea15f1da6ce8?utm_campaign=1049&utm_source=git)** | USA-MA - Boston Office | Hybrid | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fcbe20f6f7e7a2cec186d?utm_campaign=1049&utm_source=git)** | USA-IN - Indiana Remote | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
