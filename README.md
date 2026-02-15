@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talentix](https://thetalentix.com/)** | **[UI/UX Designer (90-Day Internship)](https://jobright.ai/jobs/info/699219d20f6f7e7a2cee4195?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Feb 15 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Interior Design](https://jobright.ai/jobs/info/68cc63d8128dc347fd924221?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Feb 15 |
 | **[Saleseraian](https://salesera.net/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6991e73f6ea51a7610f433ef?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 15 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/693d583050bbaf76505067f2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc16f6ea51a7610f22d4f?utm_campaign=1049&utm_source=git)** | USA-KS - Kansas Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc13c0f6f7e7a2cec0e6c?utm_campaign=1049&utm_source=git)** | USA-CA - Beverly Hills Office | Hybrid | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc11c6ea51a7610f22ce3?utm_campaign=1049&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc0810cc8ea15f1da5e11?utm_campaign=1049&utm_source=git)** | USA-CO - Colorado Remote | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
