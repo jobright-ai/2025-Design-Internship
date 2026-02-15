@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711946333b6343a14d8fba?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 14 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/6990eb8e6ea51a7610f36183?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Feb 14 |
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/6990ea3a0cc8ea15f1dba027?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Feb 14 |
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/6990ea0f0cc8ea15f1dba011?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Feb 14 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fd70582817106e976db0c?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Feb 14 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6966b3457a34f539205531cb?utm_campaign=1049&utm_source=git)** | Greenville, South Carolina, United States | On Site | Feb 14 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Interior Design](https://jobright.ai/jobs/info/69742bc1bc8e722e7b1921b5?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Feb 14 |
-| **[World Merit](https://platform.worldmerit.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69909d076ea51a7610f31b14?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 14 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/697426d2206da320f49e4925?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Feb 14 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Aviation Student Intern - Interior Design](https://jobright.ai/jobs/info/697439d837785856350e345e?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Feb 14 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69583c589f1b381eb271270b?utm_campaign=1049&utm_source=git)** | Honolulu, HI | Hybrid | Feb 14 |
