@@ -82,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[David Baker Architects](https://www.dbarchitect.com/)** | **[Architectural Intern 2026](https://jobright.ai/jobs/info/699086586ea51a7610f30f86?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Filming, Photography Internship](https://jobright.ai/jobs/info/699086090cc8ea15f1db4c07?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 14 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
+| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Video and Photo Intern](https://jobright.ai/jobs/info/699141ec6ea51a7610f39436?utm_campaign=1049&utm_source=git)** | Olympia Fields, IL | On Site | Feb 14 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/6973ed40bc8e722e7b18cfae?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6973dd63206da320f49dd647?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Feb 14 |
 | **[Berners Schober](https://bernersschober.com/)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/69741fd7206da320f49e4134?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Feb 14 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship- Architecture](https://jobright.ai/jobs/info/699014b36ea51a7610f27f04?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699009f50cc8ea15f1dab20e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
 | **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/69900b570f6f7e7a2cec5d72?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 13 |
-| **[Kaas Wilson Architects](http://www.kaaswilson.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69913e126ea51a7610f390cd?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Feb 13 |
 | **[Petite Plume](https://www.petite-plume.com/)** | **[Design Internship](https://jobright.ai/jobs/info/699017030f6f7e7a2cec6878?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | ↳ | **[Creative Brand & Content Internship](https://jobright.ai/jobs/info/6990092b0f6f7e7a2cec5b38?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Central Engineering UX/UI](https://jobright.ai/jobs/info/698fddcb0f6f7e7a2cec2436?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
@@ -149,8 +149,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc0810cc8ea15f1da5e11?utm_campaign=1049&utm_source=git)** | USA-CO - Colorado Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc0780cc8ea15f1da5e0e?utm_campaign=1049&utm_source=git)** | USA-NV - Las Vegas Office | Hybrid | Feb 13 |
 | **[Engrain](http://engrain.com/)** | **[Product Intern, Innovation (Full-Time)](https://jobright.ai/jobs/info/698ff2c90f6f7e7a2cec3828?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | Feb 13 |
-| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6990d4976ea51a7610f34300?utm_campaign=1049&utm_source=git)** | Olympia Fields,IL,US | On Site | Feb 13 |
-| ↳ | **[Video and Photo Intern](https://jobright.ai/jobs/info/698fe8c50cc8ea15f1da8147?utm_campaign=1049&utm_source=git)** | Olympia Fields,IL,US | On Site | Feb 13 |
+| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Video and Photo Intern](https://jobright.ai/jobs/info/698fe8c50cc8ea15f1da8147?utm_campaign=1049&utm_source=git)** | Olympia Fields,IL,US | On Site | Feb 13 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6990d4976ea51a7610f34300?utm_campaign=1049&utm_source=git)** | Olympia Fields,IL,US | On Site | Feb 13 |
 | **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/698fbf210f6f7e7a2cec0b8b?utm_campaign=1049&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fbee46ea51a7610f229f7?utm_campaign=1049&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fbe810cc8ea15f1da5bd9?utm_campaign=1049&utm_source=git)** | USA-FL - Naples Office | Hybrid | Feb 13 |
