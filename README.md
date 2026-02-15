@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UL Research Institutes](https://ul.org)** | **[Graphic Design Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6969c77cf25a380066987dfe?utm_campaign=1049&utm_source=git)** | Columbia, MD | Hybrid | Feb 15 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69917d1d0f6f7e7a2cedd8a7?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Product Design Intern](https://jobright.ai/jobs/info/6991775a0cc8ea15f1dc2407?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6991666f6ea51a7610f3c605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 14 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[David Baker Architects](https://www.dbarchitect.com/)** | **[Architectural Intern 2026](https://jobright.ai/jobs/info/699086586ea51a7610f30f86?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Filming, Photography Internship](https://jobright.ai/jobs/info/699086090cc8ea15f1db4c07?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 14 |
 | **[HP IQ](https://www.hp-iq.com/join-us)** | **[Product Design Intern, Digital (Summer 2026)](https://jobright.ai/jobs/info/68e40ccf1852e62f0080088c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
-| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Video and Photo Intern](https://jobright.ai/jobs/info/699141ec6ea51a7610f39436?utm_campaign=1049&utm_source=git)** | Olympia Fields, IL | On Site | Feb 14 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/6973ed40bc8e722e7b18cfae?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6973dd63206da320f49dd647?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Feb 14 |
 | **[Berners Schober](https://bernersschober.com/)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/69741fd7206da320f49e4134?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Feb 14 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[PGAL](http://pgal.com)** | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69900c0d6ea51a7610f278be?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69901cb80cc8ea15f1dac3d4?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69900d090f6f7e7a2cec5f18?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Feb 13 |
-| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69901d370f6f7e7a2cec6e0b?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699015a76ea51a7610f27fef?utm_campaign=1049&utm_source=git)** | Hoboken, NJ | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69901d370f6f7e7a2cec6e0b?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699011f10cc8ea15f1dab993?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699013c90cc8ea15f1dabb7c?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699012030f6f7e7a2cec63ba?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc0810cc8ea15f1da5e11?utm_campaign=1049&utm_source=git)** | USA-CO - Colorado Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc0780cc8ea15f1da5e0e?utm_campaign=1049&utm_source=git)** | USA-NV - Las Vegas Office | Hybrid | Feb 13 |
 | **[Engrain](http://engrain.com/)** | **[Product Intern, Innovation (Full-Time)](https://jobright.ai/jobs/info/698ff2c90f6f7e7a2cec3828?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | Feb 13 |
-| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6990d4976ea51a7610f34300?utm_campaign=1049&utm_source=git)** | Olympia Fields,IL,US | On Site | Feb 13 |
-| ↳ | **[Video and Photo Intern](https://jobright.ai/jobs/info/698fe8c50cc8ea15f1da8147?utm_campaign=1049&utm_source=git)** | Olympia Fields,IL,US | On Site | Feb 13 |
+| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Video and Photo Intern](https://jobright.ai/jobs/info/698fe8c50cc8ea15f1da8147?utm_campaign=1049&utm_source=git)** | Olympia Fields,IL,US | On Site | Feb 13 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6990d4976ea51a7610f34300?utm_campaign=1049&utm_source=git)** | Olympia Fields,IL,US | On Site | Feb 13 |
 | **[Wasserman](http://www.teamwass.com)** | **[Intern, Design](https://jobright.ai/jobs/info/698fbf210f6f7e7a2cec0b8b?utm_campaign=1049&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fbee46ea51a7610f229f7?utm_campaign=1049&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
