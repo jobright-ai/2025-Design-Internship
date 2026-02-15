@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6991666f6ea51a7610f3c605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 14 |
+| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/699165d90f6f7e7a2cedb9a0?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Product Design Intern](https://jobright.ai/jobs/info/699138f30f6f7e7a2ced79bc?utm_campaign=1049&utm_source=git)** | Toronto | Hybrid | Feb 14 |
 | **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Summer 2026 Apparel Design Internship](https://jobright.ai/jobs/info/696aa8c55fc862418539a07c?utm_campaign=1049&utm_source=git)** | Exeter, NH, US | On Site | Feb 14 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711946333b6343a14d8fba?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 14 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Video and Photo Intern](https://jobright.ai/jobs/info/699141ec6ea51a7610f39436?utm_campaign=1049&utm_source=git)** | Olympia Fields, IL | On Site | Feb 14 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/6973ed40bc8e722e7b18cfae?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6973dd63206da320f49dd647?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Feb 14 |
-| **[Olympia Fields Country Club](https://www.ofcc.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699157d36ea51a7610f3b435?utm_campaign=1049&utm_source=git)** | Olympia Fields, IL | On Site | Feb 14 |
 | **[Berners Schober](https://bernersschober.com/)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/69741fd7206da320f49e4134?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6990637f0cc8ea15f1db2653?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Feb 14 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6990623e0cc8ea15f1db2538?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Feb 14 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[PGAL](http://pgal.com)** | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69900c0d6ea51a7610f278be?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69901cb80cc8ea15f1dac3d4?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69900d090f6f7e7a2cec5f18?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Feb 13 |
-| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69901d370f6f7e7a2cec6e0b?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699015a76ea51a7610f27fef?utm_campaign=1049&utm_source=git)** | Hoboken, NJ | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69901d370f6f7e7a2cec6e0b?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699011f10cc8ea15f1dab993?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699013c90cc8ea15f1dabb7c?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699012030f6f7e7a2cec63ba?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fbee46ea51a7610f229f7?utm_campaign=1049&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fbe810cc8ea15f1da5bd9?utm_campaign=1049&utm_source=git)** | USA-FL - Naples Office | Hybrid | Feb 13 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern (University of Georgia- Students)](https://jobright.ai/jobs/info/69900c670cc8ea15f1dab48a?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Feb 13 |
-| **[TBNR Productions](https://firejobs.gg)** | **[Creative Writer Intern](https://jobright.ai/jobs/info/698fde910f6f7e7a2cec250d?utm_campaign=1049&utm_source=git)** | Dallas, Texas, United States, Remote | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
